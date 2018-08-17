@@ -1,0 +1,218 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>The WTO responds to issues on agricultural trade policy tools and food security / WTO / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																													
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																																																																																																																																																																																																																									
+							
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7812/(search)/simple">WTO</a>
+							
+																																																																																																																																																																																																																																																																																											
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>The WTO responds to issues on agricultural trade policy tools and food security</h1>
+
+			
+			<h4>
+												23 January 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The Activity Report published in November 2011 by the UN Human Rights Council’s Special Rapporteur on the Right to Food has provoked a strong response from the WTO Secretariat. The Secretariat’s principal concerns were the report’s contention that ‘existing WTO rules do not offer a favourable policy framework for the realization of the right to food’, and that the Doha Round of negotiations is not going far enough to rectify this situation. The WTO Secretariat rejected the contention that ‘there is not enough room for developing countries to deal with food security issues’ and took issue with a range of specific points raised by the Special Rapporteur dealing with the use of trade policy tools and domestic support measures.</p><p>Specifically, in terms of market management measures designed to deal with food price volatility, the WTO Secretariat expressed reservations about the ‘efficiency of agricultural marketing boards’, but maintained that WTO rules did not dictate to members on this issue, leaving them considerable flexibility. However, it noted that ‘aiming at insulating a market from the rest of the world through quantitative restrictions on imports is not only WTO-inconsistent in most cases (article XI GATT), but also economically inefficient for the country in question’. It pointed out that WTO provisions do not prevent the use of TRQs, but rather regulate the circumstances under which they can be used, with developing countries receiving special treatment.</p><p>The WTO Secretariat describes ‘the suggestion that developing countries should take measures to restrict trade for food’ in the face of rising food import bills as ‘a dangerous one’. This issue was taken up in WTO Director-General Pascal Lamy’s open letter to the Special Rapporteur. While acknowledging the need to strengthen investment in agriculture and establish proper safety nets for the poor, Mr Lamy questioned ‘the report’s recommendations on interventions aimed at insulating domestic from international markets’. He argued that while ‘policy tools like public stockholding for food security purposes, tariff rate quotas, safeguard measures or the use of marketing boards can indeed be legitimate tools, under some circumstances … if used improperly, these actions can introduce distortions and undermine economic efficiency, exacerbating the negative impacts on poor consumers of high food prices’. He cited the 2008 and 2010 food price spikes as evidence of the negative effects which can follow from the inappropriate use of such policy tools.</p><p>Mr Lamy maintained that there was an emerging consensus ‘among most UN-led experts that international trade is part of the package of solutions to achieve food security’, with more liberalised international markets contributing to global food security through increased access to diverse sources of food imports. He supported the contention of the G20 inter-agency report that ‘policies that distort production and trade in agricultural commodities potentially impede the achievement of long-run food security’.</p><p>Director-General Lamy maintained that current WTO rules and the direction of negotiations in the Doha Round ‘allow policy space and flexibility’ for developing countries to address food security concerns, and reiterated the WTO’s commitment to eliminating trade-distorting practices. He argued that governments have the sovereign right to pursue food security policies ‘within their international obligations’ and maintained that WTO-compatible trade policies should form an integral part of broader strategies to exploit comparative advantage, limit inefficiencies and enhance food security.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>WTO, ‘Lamy rebuts UN food rapporteur’s claim that WTO talks hold food rights hostage’, 14 December 2011</p><p>
+<a href="http://www.wto.org/english/news_e/news11_e/agcom_14dec11_e.htm" target="_self">http://www.wto.org/english/news_e/news11_e/agcom_14dec11_e.htm</a></p><p>United Nations Special Rapporteur on the Right to Food, ‘The World Trade Organization and the post-global food crisis agenda: Putting food security first in the international trade system’, <i>Activity Report</i>, November 2011</p><p>
+<a href="http://www.wto.org/english/news_e/news11_e/deschutter_2011_e.pdf" target="_self">http://www.wto.org/english/news_e/news11_e/deschutter_2011_e.pdf</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The recent exchanges between the WTO and the Special Rapporteur highlight the complexity of the trade policy issues faced, with the difficulty being in the detail not only of what has been formally agreed, but also of what is done in practice.</p><p>Developing country WTO members are indeed rarely constrained by the organisation’s rulebook in their food-related trade policies, either because the rules incorporate appropriate flexibilities or because they are not enforced. But this cuts both ways: one of the strongest arguments for rule-based trade is that it limits the extent to which the most powerful countries can influence international trade. But if the rules are flexible or ignored, this protection is reduced.</p><p>Globally, food security would probably be enhanced by liberal trade policies, especially in substantial producers. Export restrictions by major food-surplus states in times of global shortage hurt all net food importers by pushing prices even higher than they would otherwise be. But many ACP states are either net importers or relatively small, regional exporters. While export restrictions by the latter can have adverse regional consequences (see for example <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Cereals/Tanzania-ends-export-ban-but-price-volatility-increases-on-East-African-cereals-markets" target="_blank">Tanzania ends export ban, but price volatility increases on East African...</a>’, 28 November 2011), overall it is the trade policies of the big players that affect the availability and price of imports (and domestic ACP agricultural policies rather than trade policies that affect the need for imports).&nbsp;</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/The-WTO-and-animal-welfare-related-trade-restrictions">The WTO and animal welfare-related trade restrictions</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Cairns-Group-presents-paper-on-total-trade-distorting-support">Cairns Group presents paper on ‘total trade-distorting support’</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Outlook-for-Doha-still-uncertain-after-Bali">Outlook for Doha still uncertain after Bali</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Agreement-on-a-mini-deal-reached-in-Bali">Agreement on a mini-deal reached in Bali  </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Calls-for-a-right-to-development-and-a-right-to-trade-to-be-enshrined-in-WTO-rules">Calls for ‘a right to development’ and ‘a right to trade’ to be enshrined in WTO rules</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":142,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

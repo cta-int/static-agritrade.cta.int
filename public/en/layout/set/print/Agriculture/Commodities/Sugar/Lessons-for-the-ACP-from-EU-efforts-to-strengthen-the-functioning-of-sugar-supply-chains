@@ -1,0 +1,221 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Lessons for the ACP from EU efforts to strengthen the functioning of sugar supply chains  / Sugar / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Lessons for the ACP from EU efforts to strengthen the functioning of sugar supply chains </h1>
+
+			
+			<h4>
+												16 April 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc3139177_0_1" id="eztoc3139177_0_1"></a><h3>Introduction</h3><p>As part of the EU agreement of June 2013 on the abolition of EU sugar production quotas, the European Commission (EC) announced that, from 30 September 2017, “the organisation of the sugar sector will be strengthened on the basis of contracts and mandatory inter-professional agreements,” which will include “standard provisions for agreements between sugar factories and growers”.</p><p>Along with the abolition of EU sugar production quotas, the EC introduced mandatory measures to regulate relationships along sugar supply chains. The introduction of measures to regulate relationships and strengthen the functioning of sugar supply chains within the EU was seen as essential, given the inequality in power relationships along sugar supply chains.<sup>1</sup></p><p>In the run-up to the 2013 round of CAP reforms, the National Farmers Union of England and Wales highlighted the importance attached by farmers to the inter-professional agreement (IPA)<sup>2</sup>, which governs relations in the sugar sector. NFU representatives stressed how, in the UK context, the IPA allowed the UK’s 3,500 sugar beet producers to negotiate collectively with the monopoly beet processor (British Sugar), establishing “a single selling voice” to balance the “single buying voice in the supply chain”. In this context, IPAs, which have now been made mandatory across the EU, were seen by the NFU as allowing “an obvious imbalance of power in the supply chain” to be managed.<sup>3</sup></p><p>According to the NFU, the IPA allows a “fair” price for sugar beet to be negotiated, rather than an “unfair” price being imposed. It further allows collaboration between farmers and the processor on matters which “propel the industry forward more rapidly than might otherwise be the case” (e.g. on the development of weather-related insurance schemes).</p><p>In the UK, Committee hearings took place at the House of Lords in July 2012, and British Sugar expressed its support for the IPA, given the highly integrated nature of the sugar beet industry in the UK. British Sugar accepted the need for “some form of negotiating and contractual framework between British Sugar as the sole processor and its supplying farmers” now and in the future, and maintained that the IPA structure “ensures a fair balance of interest”. British Sugar expressed a preference for seeing the relationship along the sugar supply chain structured in an organised way, “defined in some way in the legislation, providing it does not inhibit our local freedom and flexibility to negotiate terms that are sensible for UK conditions”.<sup>4</sup></p><p>This British Sugar position potentially holds considerable resonance in Southern Africa, as the owner of British Sugar, Associated British Foods, also owns a 51% stake in Illovo, one of Southern Africa’s largest sugar companies.</p><a name="eztoc3139177_0_2" id="eztoc3139177_0_2"></a><h3>Implications</h3><p>Concerns related to what the chairperson of the NFU termed “an obvious imbalance of power in the supply chain” are likely to increase in many ACP sugar exporting countries, given the dismantling of traditional price guarantees on the EU market and the changing patterns of corporate ownership along ACP–EU sugar supply chains.</p><p>These concerns need to be seen against the background of the high concentration of ownership in the EU sugar sector (where six companies control 80% of the EU beet quota and have growing interests in “co-refining”<sup>5</sup> raw cane sugar, accounting for around half of all raw cane sugar refined), and the increased frequency of EU sugar companies with shareholdings or corporate linkages to local sugar millers in ACP countries.</p><p>The NFU’s experience of contract negotiations with a monopoly processor is most relevant for ACP sugar producers’ organisations, particularly where small-scale farmers are dealing with the same corporate family as NFU negotiators (e.g. Zambia and Malawi).</p><p>Such an exchange of experience would also appear to be appropriate in countries where the principal EU refiner has shareholdings in the local miller (e.g. Belize), in order to ensure that “obvious imbalances in power relationships along the supply chain” do not result in primary producers alone carrying the burden of price volatility.</p><a name="eztoc3139177_0_3" id="eztoc3139177_0_3"></a><h3>Issues arising</h3><p>New EU policy initiatives to strengthen the functioning of sugar supply chains in the EU potentially hold important lessons for ACP governments as they seek to strengthen the resilience of their sugar sectors in the face of profound changes in the market conditions in their major export market, the EU (i.e. moving away from guaranteed high prices on the EU market for agreed volumes of imports to a situation of increased competition on a shrinking EU sugar market).</p><p>The need for measures to strengthen the functioning of ACP sugar supply chains needs to be seen against the background of:</p>
+<ul>
+
+<li>the many revenue streams now available from sugar cane production and the growing importance of non-sugar revenue streams to corporate profitability in many ACP sugar sectors;</li>
+
+<li>the traditional restriction of revenue-sharing arrangements between millers and farmers to revenues from sales of raw sugar and molasses;</li>
+
+<li>the wide divergence in individual contract prices paid for ACP sugar since the abolition of guaranteed prices for ACP sugar and the growing corporate integration of many ACP–EU sugar supply chains. </li>
+
+</ul>
+<p>In the context of a projected sharp reduction in prices for raw sugar on the EU market after the abolition of EU sugar production quotas (falling from an average of €627/tonne in 2013 to an average of between €405 and €420/tonne over the period 2017 to 2023<sup>6</sup>), if a sustainable financial basis is to be consolidated for smallholder sugar farming across the ACP, then collective negotiation of prices linked to the many revenue streams now derived from sugar cane production seems essential. This could take place within the context of inter-professional agreements involving farmers’ and milling industry representatives; examples of such arrangements are already to be found in contract farming agreements in ACP countries and within the EU, as the use of such agreements was made mandatory, from 2017, as part of the 2013 round of sugar sector reforms.</p><p><b>In addition, if nationally retained revenues from sugar production are to be maximised then increased transparency in price formation along ACP–EU sugar supply chains will be needed.</b> This could potentially build on EU price monitoring mechanisms established as part of the internal EU sugar reform process.&nbsp;</p><a name="eztoc3139177_0_4" id="eztoc3139177_0_4"></a><h3>Notes</h3><p>1. CTA <i>Agritrade</i>, ‘Impact of CAP reform agreement on the sugar sector’, 6 August 2013</p><p>
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Impact-of-CAP-reform-agreement-on-the-sugar-sector" target="_self">http://agritrade.cta.int/Agriculture/Commodities/Sugar/Impact-of-CAP-ref...</a></p><p>2. There is only one IPA in the UK, since there is only one processor.&nbsp; In other member states, there is more than one IPA, as there is more than one processor, so it depends on the national context.</p><p>3. CTA <i>Agritrade</i>, ‘Importance of inter-professional agreements in managing unequal power relationships highlighted’, 28 October 2012</p><p>
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Importance-of-inter-professional-agreements-in-managing-unequal-power-relationships-highlighted" target="_self">http://agritrade.cta.int/Agriculture/Commodities/Sugar/Importance-of-int...</a></p><p>4. See UK House of Lords EU Agriculture, Fisheries, Environment and Energy Sub-Committee, ‘EU Sugar Regime: Oral evidence’, 23 July 2012</p><p>
+<a href="http://www.parliament.uk/documents/lords-committees/eu-sub-com-d/sugar/sugarevidencevolume1.pdf" target="_self">http://www.parliament.uk/documents/lords-committees/eu-sub-com-d/sugar/s...</a></p><p>5. Co-refining is the term used when sugar beet refiners produce sugar from raw cane sugar as well as from sugar beet.</p><p>6. For more details see EC, ‘Prospects for agricultural markets and income in the EU 2013–2023’, statistical tables, December 2013, Table 6.14</p><p>
+<a href="http://ec.europa.eu/agriculture/markets-and-prices/medium-term-outlook/2013/tables_en.pdf" target="_self">http://ec.europa.eu/agriculture/markets-and-prices/medium-term-outlook/2...</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/ACP-sugar-exports-to-the-EU-and-the-future-of-co-refining-of-raw-cane-sugar-by-EU-beet-refiners">ACP sugar exports to the EU and the future of co-refining of raw cane sugar by EU beet refiners</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Lessons-for-the-ACP-from-EU-efforts-to-strengthen-the-functioning-of-sugar-supply-chains">Lessons for the ACP from EU efforts to strengthen the functioning of sugar supply chains </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/ACP-sugar-exports-to-the-EU-Sugar-quota-abolition-and-the-future-of-raw-cane-sugar-co-refining-by-EU-beet-refiners">ACP sugar exports to the EU: Sugar quota abolition and the future of raw cane sugar co-refining by EU beet refiners </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Special-report-Regional-developments-in-ACP-sugar-sectors-2012-2013">Special report: Regional developments in ACP sugar sectors 2012–2013</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Special-report-Regional-developments-in-ACP-sugar-sectors-2011-2012">Special report: Regional developments in ACP sugar sectors 2011–2012</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":139,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

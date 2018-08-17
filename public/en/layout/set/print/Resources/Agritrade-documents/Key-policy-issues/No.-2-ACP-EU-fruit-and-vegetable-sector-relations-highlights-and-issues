@@ -1,0 +1,377 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>No. 2: ACP-EU fruit-and-vegetable sector relations: highlights and issues / Key policy issues / Agritrade documents / Resources / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																																									
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+																																																																																																																																																																																										,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7802/(search)/simple">Horticulture</a>
+							
+																																																																																																																																																																																																			
+																																																																																																																							,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7813/(search)/simple">EPAs</a>
+							
+																																																																																													,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7814/(search)/simple">EU FTAs</a>
+							
+																																									,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7815/(search)/simple">ACP - FTAs</a>
+							
+																																																																																																																																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7819/(search)/simple">CAP reform</a>
+							
+																																																																																																																																																																																																																																																																																																																																																														
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>No. 2: ACP-EU fruit-and-vegetable sector relations: highlights and issues</h1>
+
+			
+			<h4>
+												28 February 2007
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>&nbsp;</p><a name="eztoc98833_1" id="eztoc98833_1"></a><h2>The extent of ACP trade preferences</h2>
+<ul>
+
+<li> ACP fruit-and-vegetable exporters enjoy considerable margins of trade preference:
+<ul>
+
+<li> for least-developed ACP countries under the provisions of the EBA, which allow full quota- and duty-free access (including special duty-free access) to the EU market;</li>
+
+<li> under the provisions of declaration XXII of the Cotonou Agreements which provides various tariff- and quota-based preferences.</li>
+
+</ul>
+ </li>
+
+<li> While some ACP countries have developed a long tradition of supplying cut flowers and fruit-and-vegetable products to the EU, in recent years the number of ACP countries involved in this trade has begun to fall back.</li>
+
+<li> There were 37 ACP countries involved in the fruit-and-vegetable export trade to the EU with exports of more than €100,000 in 2005 compared to 40 in 2002.</li>
+
+<li> According to the analysis of the USDA in 2002, ACP countries together accounted for around 13% of EU fruit-and-vegetable imports.</li>
+
+</ul>
+<a name="eztoc98833_2" id="eztoc98833_2"></a><h2>Market-access issues</h2><a name="eztoc98833_2_1" id="eztoc98833_2_1"></a><h3>Residual tariff barriers</h3>
+<ul>
+
+<li> Across a number of fruit-and-vegetable products the EU still imposes tariff and quota restrictions on export from non-least developed ACP countries.</li>
+
+<li> These residual tariff and quota barriers needs to be removed so as to allow ACP suppliers to fully exploit the margins of preference which remain to them.</li>
+
+<li> This represents the first step towards getting to grip with the challenge of preference erosion faced in the ACP-EU fruit-and-vegetable trade.</li>
+
+</ul>
+<a name="eztoc98833_2_2" id="eztoc98833_2_2"></a><h3>The food-safety challenge</h3>
+<ul>
+
+<li> In terms of food safety the fruit-and-vegetable sector faces particular challenges, most notably with regard to:
+<ul>
+
+<li> the harmonisation of maximum residue levels (Directive 91/414);</li>
+
+<li> technological improvements in measuring residues;</li>
+
+<li> the pesticide review;</li>
+
+<li> the introduction of traceability;</li>
+
+<li> stricter hygiene standards;</li>
+
+<li> the implementation of the new EU food-and-feed control regulation (882/2004);</li>
+
+<li> the economic costs for emergent exporters of risk-assessment-based inspection charges.</li>
+
+</ul>
+ </li>
+
+<li> How these food-safety-related challenges are dealt with individually and collectively will be a critical issue for the future of the ACP-EU fruit-and-vegetable trade.</li>
+
+<li> Some initiatives are already underway, for example the dedicated COLEACP programme (€34 million) and the newly launched €30 million food-safety facility.</li>
+
+<li> However ACP needs in this area should not be under-estimated and a sustained long term engagement in support of ACP efforts is required</li>
+
+</ul>
+<a name="eztoc98833_2_3" id="eztoc98833_2_3"></a><h3>Proliferation of private standards</h3>
+<ul>
+
+<li> A multiplicity of private standards setting bodies have emerged in the EU in order to guarantee compliance with various standards for ACP fruit-and-vegetable production</li>
+
+<li> With a single internal market in the EU greater harmonisation of these private standards and associated inspection requirements is needed to reduce the administrative costs imposed on ACP fruit-and-vegetable exporters.</li>
+
+</ul>
+<a name="eztoc98833_2_4" id="eztoc98833_2_4"></a><h3>The impact of EU fruit-and-vegetable sector reform</h3>
+<ul>
+
+<li> A major area of concern with regard to ACP fruit-and-vegetable exports <b>is the impact of the planned reform of the EU fruit-and-vegetable regime</b> <i>.</i> </li>
+
+<li> In its May 2006 consultation document on fruit-and-vegetable sector reform the EC put forward three options for reform:
+<ul>
+
+<li> the <i>status quo</i> option: maintaining current aids and adapting levels to WTO commitments;</li>
+
+<li> the decoupling option: under which fruit-and-vegetable producers are integrated into the decoupled payment regime:</li>
+
+<li> the area-aid option: involving ‘the transformation of production aids into income aids linked to area, in order to limit any possible fall in production’.</li>
+
+</ul>
+ </li>
+
+<li> The EC appears to be leaning towards the option of pursuing reforms along ‘the same lines as the general reforms’ and designing specific reforms to meet the specific problems and challenges in the fruit-and-vegetable sector.</li>
+
+<li> This would imply the incorporation of the fruit-and-vegetable sector into the single farm payment scheme, with additional programmes being set in place to accommodate sector-specific problems.</li>
+
+<li> The key questions arising in this context are:
+<ul>
+
+<li> what will be the price implications of incorporation of the fruit-and-vegetable sector into the single farm payment scheme?</li>
+
+<li> will it, as in other sectors (e.g. beef and sugar) result in a reduction in EU market prices in the coming years, or has the abandonment of the minimum-grower-price system already seen prices fall sufficiently?</li>
+
+</ul>
+ </li>
+
+</ul>
+<a name="eztoc98833_3" id="eztoc98833_3"></a><h2>Reciprocity issues</h2>
+<ul>
+
+<li> The problems currently arising in the fruit-and-vegetable sector under moves towards reciprocity are concentrated in a limited number of products in particular ACP regions.</li>
+
+<li> The EC-financed sustainability-impact assessment of the agri-industrial sector in west Africa warned of ‘increasing competition between local production and imports from the EU’ and that ‘the countries of west Africa are ill-equipped in many sectors to meet the challenges imposed by such increased competition ...(and) ... there is a risk that local markets could be flooded with imports of processed tomatoes, potatoes and onions, which will threaten local production’.</li>
+
+<li> Since 1999 EU exports of potatoes to west Africa have increased by some 227% from 33,015 tonnes in 1999 to 108,201 tonnes in 2005, coming to account for some 20% of total EU exports (up from 11.6% in 1999).</li>
+
+<li> Problems also arise for processed tomatoes, with this trade largely driven by the deployment of processing aids granted to the EU tomato sector.</li>
+
+<li> The EU tomato-processing sector is facing increased competition from Asian processors in a context of expanding global production and it appears that EU producers are once more falling back on west African markets as a ‘market of last resort’.</li>
+
+<li> The impact of EU processed-tomato exports is of particular concern given its knock-on effects on fresh-tomato markets</li>
+
+<li> To the extent that EU exports of processed tomatoes result in the closure of local tomato-processing plants, this can increase price volatility on fresh-tomato markets, since there is then no outlet for surplus fresh tomatoes.</li>
+
+<li> This can result in a price collapse for fresh tomatoes as surplus production emerges, to the detriment of growers and the sector as a whole.</li>
+
+</ul>
+<a name="eztoc98833_4" id="eztoc98833_4"></a><h2>Possible policy responses</h2>
+<ul>
+
+<li> In terms of the policy response required under any EPA agreement in terms of market-access <b> </b>issues a number of specific areas for initiatives can be identified:
+<ol>
+
+<li> securing the removal of residual tariff barriers and remaining quantitative restrictions on fruit-and-vegetable exports to the EU (primarily of concern to non-LDC ACP countries);</li>
+
+<li> ensuring that any import-licensing arrangements introduced in the fruit-and-vegetable sector do not restrict commercial marketing opportunities;</li>
+
+<li> ensuring that inspection procedures for fruit-and-vegetable imports into the EU do not result in delays in delivering the product to market and extra costs of inspection at the import stage, thereby undermining the commercial value and competitiveness of the marketed product;</li>
+
+<li> ensuring that sector-specific internal EU regulations do not place excessive inspection burdens on products involving more than one raw material (e.g. microwave-ready garlic butter beans);</li>
+
+<li> ensuring that the structure of inspection charges do not inhibit the development of value-addition activities (e.g. the assembly of bar-coded and mixed-flower bouquets);</li>
+
+<li> ensuring that ‘aid for trade’ packages provide support in meeting EU food-safety standards;</li>
+
+<li> ensuring that EU ‘aid for trade’ packages defray the costs of establishing and maintaining sustainable national food-safety control capacities in line with new EU regulations;</li>
+
+<li> ensuring that ‘aid for trade’ packages are made available which assist in overcoming the human-resource constraint on the marketing (as opposed to trading) of ACP products into the EU market, in the light of the human-resource constraints faced; </li>
+
+<li> ensuring the establishment of clear procedures, time-frames and arbitration arrangements for the resolution of SPS disputes;</li>
+
+<li> ensuring that the investment-promotion provisions facilitate access to capital for productive investment in ways that overcome the inefficiencies and distortions in local capital markets in ACP countries;</li>
+
+<li> ensuring that provisions in trade-related areas are established that lower the insurance and freight costs associated with delivering products in a timely manner to the EU market.</li>
+
+</ol>
+ </li>
+
+<li> In terms of the impact of <b>reciprocity</b> the main area where an initiative would appear to be needed relates to the use of pre-emptive safeguard measures designed to prevent market disruption of potato, onion and processed-tomato markets.</li>
+
+<li> These product chains should be classified as ‘sensitive’, with trade flows with the EU being subjected to close monitoring and surveillance.</li>
+
+<li> Where a threat of market disruption arises special safeguard measures could then be introduced to avert any market disruption.</li>
+
+</ul>
+
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+											
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Key-policy-issues/No.-2-ACP-EU-fruit-and-vegetable-sector-relations-highlights-and-issues">No. 2: ACP-EU fruit-and-vegetable sector relations: highlights and issues</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":195,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

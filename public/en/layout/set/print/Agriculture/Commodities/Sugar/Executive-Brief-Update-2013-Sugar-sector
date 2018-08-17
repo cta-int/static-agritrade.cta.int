@@ -1,0 +1,283 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2013: Sugar sector / Sugar / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2013: Sugar sector</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/233852/2808995/file/ed5b7cd83458ca7e2df151aa95bd6da1.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+												16 December 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc2808962_0_1" id="eztoc2808962_0_1"></a><h3>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Background and key issues</h3><p>With world market sugar prices higher than levels since 2009, the EU sugar market has not operated as expected in the post-reform period. At times world market prices have been higher than EU prices. This, coupled with internal EU sugar market regulation, has led to sugar shortages emerging on the EU market since 2010–11. These ‘shortages’ have fallen particularly heavily on traditional raw cane sugar refiners. In the post-reform period, EU beet sugar companies have invested in some 1.85 million tonnes of new raw cane sugar refining capacity. These ‘co-refiners’ currently enjoy significant competitive advantages over traditional cane sugar refiners.</p><p>The European Commission (EC) has come under intense criticism from industrial sugar users and traditional refiners for its management of the current sugar regime, increasing pressure for further reforms. While quota abolition would unequivocally shift EU beet production to the lowest cost production zones, improving overall price competitiveness, some EU governments have been reluctant to abolish quotas earlier than 2020.</p><p>On the assumption of production quota abolition in 2015, a Commission staff working document estimated that this would lead to:</p>
+<ul>
+
+<li>sugar beet and white sugar prices falling “below the current support prices”; </li>
+
+<li>an increase of 6.9% in EU sugar exports; </li>
+
+<li>a reduction of 4.7% in EU sugar imports. </li>
+
+</ul>
+<p>The alternative would be an accumulation of sugar stocks in the EU. Such a situation of stock accumulation could be further complicated by any revision of EU biofuel targets which, depending on the specific modifications made to the sustainability criteria under the Renewable Energy Directive (RED), could result in increased imports of bioethanol or increased use of sugar beet for ethanol production.</p><p>This could either complicate or simplify EC efforts to establish a “framework of modernised market management instruments” in the sugar sector. Nevertheless, any modernised market management framework is likely to include more effective safety nets for EU sugar beet farmers and an extension of policy measures to strengthen the functioning of supply chains to the sugar sector.</p><p>On 1 October 2012, all minimum price guarantees for imports of sugar from the ACP were discontinued. However, these minimum price guarantees had become increasingly irrelevant, given the closer links between global and EU sugar market price trends. With the wide variety of diverse factors influencing global sugar prices, the way that specific ACP–EU sugar supply chains function is likely to take on growing significance. In this context, the changing patterns of corporate ownership across the global sugar sector are likely to require close scrutiny.</p><p>Price volatility on global sugar markets is increasing the importance of diversifying the revenue streams generated from sugar cane production. From an ACP sugar cane farming perspective, the extent to which farmers are able to benefit from this process of revenue diversification is likely to be of growing importance.</p><p>The ACP continues to be concerned about the direct and indirect price effects of quota abolition, including the impact of uncertainties on investment mobilisation for sugar sector restructuring. Throughout 2012, the ACP/LDC sugar group continued to call for the continuation of EU sugar production quotas until 2020 and an extension of sugar protocol accompanying measures programmes beyond 2014. The ACP/LDC group also continued to oppose any further liberalisation of EU sugar import arrangements. At the EU Agriculture Council of 18–19 March 2013, political agreement was reached to extend the sugar quota regime until the 2016/17 marketing year (MY).</p><p>This provides the background for sugar sector developments in ACP regions, which are covered in the <i>Agritrade</i> companion special report, ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Special-report-Regional-developments-in-ACP-sugar-sectors-2012-2013" target="_self">Regional developments in ACP sugar sectors 2012/13</a>’, 13 September 2013.</p><a name="eztoc2808962_0_2" id="eztoc2808962_0_2"></a><h3>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Latest developments</h3><p><b>2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Global sugar market developments</b></p><p>In August 2012, the International Sugar Organization (ISO) reported a return to global sugar surpluses, with the stocks-to-use ratio rising to 40%. This signalled an end to the period of low stocks that prevailed from 2008–09 to 2011–12. This situation is expected to exert a downward pressure on prices. However, market prices remain vulnerable to production disruptions. For example, there are concerns over the impact that the perilous financial state of a number of Brazilian sugar companies could have on ‘ratoon’ renewal (sugar cane cultivation practices).</p><p>The expansion of biofuel production in recent years has strengthened the link between global oil price trends and global sugar price trends. Production decisions in Brazil provide the key interface in this regard. However, this is a multifaceted process. For example, in response to reduced US maize-based ethanol production, a larger volume of Brazilian sugar cane has been diverted to ethanol production (52% of cane supplies for ethanol, 48% for sugar). This shift in sugar cane usage was further supported by rumours of an increase in Brazilian blending requirements (from 20 to 25%), which at a stroke would absorb an additional 20 million tonnes of cane (equivalent to 2.6 million tonnes of sugar).</p><p>Stagnant demand in developed countries, rising demand in developing country markets (including the ACP) and production responses to previously high prices all further complicate global sugar market price formation. This raises challenges for ACP producers seeking to maximise their financial returns. Just how substantial this challenge can be was highlighted by a Rabobank report in September 2012.</p><p>The Rabobank report noted a 20% increase in global sugar prices between mid June 2012 and the end of July 2012, with a corresponding decline in the subsequent weeks, following higher production forecasts.</p><p>Despite sugar prices edging lower in 2012, average sugar prices over the next 10 years are projected to be above levels prevailing over the past decade, according to the OECD–FAO <i>Agricultural Outlook</i> of July 2012. (Raw and white sugar prices were projected at US$0.22/lb and US$0.26/lb respectively for MY 2021/22). However, it was acknowledged that “bouts of price surges and volatility remain a clear possibility”.</p><p>Future global sugar price prospects are likely to impact on the nature of the future EU sugar regime, with the US Department of Agriculture (USDA) suggesting that higher prices could facilitate the abolition of EU production quotas (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Global-price-trends-could-facilitate-soft-landing-for-EU-sugar-production-quota-abolition" target="_self">Global price trends could facilitate &quot;soft landing&quot; for EU sug...</a>’, 11 March 2012). However, shorter-term political considerations are currently dominating EU discussions.</p><p><b>2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The functioning of the EU sugar market</b></p><p>In 2011, high beet and sugar content yields led to high levels of EU out-of-quota sugar production (about 5 million tonnes white sugar equivalent), but in 2012 these levels fell by around 9%. In terms of market development, however, the issue is not the overall level of EU sugar beet production as such, but the market management arrangements established by the EC alongside the continuation of EU sugar production quotas.</p><p>Two stakeholder groups within the EU sugar sector, industrial sugar users and traditional raw cane sugar refiners, have faced particular problems as a result of the way the EU market has been managed since October 2010. While pre-reform sugar prices faced by EU industrial sugar users were high relative to world market prices, prices were stable and supplies guaranteed under annual supply contracts. In addition, industrial users benefited from both tariff protection on products containing sugar and non-Annex I export refunds.</p><p>With partial reform and higher, more volatile, world market prices, the context for securing sugar supplies has been transformed. This has led to either a move away from annual supply contracts negotiated at the beginning of the season or much tougher contract negotiation, greatly complicating the procurement challenges facing industrial sugar users.</p><p>According to the Committee of European Users of Sugar (CIUS), “EU sugar users have seen an increase of 40% in sugar prices within the last year [to June 2012], leading to significant financial instability for many food manufacturers across Europe.” In January 2013, it was argued that “the present quota system has resulted in major supply shortages and uncompetitive prices”, while in February 2013 major sugar-using companies complained of “significant supply constraints leading to sky-high prices” (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Continued-controversy-over-EC-management-of-EU-sugar-regime-and-its-future" target="_self">Continued controversy over EC management of EU sugar regime</a>’, 7 April 2013).</p><p>Under current arrangements, while industrial users can procure as much sugar as required on the world market (i.e. from non-preferred supplies), high import duties are levied, raising the costs to industrial users with no access to preferential supplies. This has thrown up awkward competition issues, as some refiners and value-added processors have been able to secure better access to preferential sugar imports than other refiners and industrial users.</p><p>The concerns of industrial sugar users also need to be seen against a background of uncertainties over sugar market fundamentals and the recognition that “bouts of price surges and volatility remain a clear possibility” (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Industrial-users-set-out-their-views-on-sugar-reform-against-backdrop-of-global-price-volatility" target="_self">Industrial users set out their views on sugar reform against backdrop of...</a>’, 9 September 2012).</p><p>For traditional raw cane sugar refiners, more immediate challenges have been faced, with Tate &amp; Lyle Sugars (TLS) going so far as to argue that traditional cane sugar refiners are being systematically discriminated against under the current management of the EU sugar regime (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/The-future-of-EU-sugar-production-quotas" target="_self">The future of EU sugar production quotas</a>’, 23 September 2012). The reform of import licensing arrangements, which expanded the right to import raw sugar beyond traditional raw cane sugar refiners, coupled with the investments made by beet refiners, has led to an intensification of competition for raw cane sugar supplies. This has occurred in a context where the ‘co-refiners’ are in a financial position to offer better prices for raw cane sugar (since their capital costs are covered by their beet processing operations). This, it is argued, has contributed to the widely divergent financial performances of traditional cane sugar refiners and co-refining beet processing companies (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Tate-and-Lyle-Sugars-initiate-a-further-legal-case-management-of-EU-sugar-regime" target="_self">Tate and Lyle Sugars initiate a further legal case against EC management...</a>’, 9 December 2012).</p><p>In October 2012, analysis published by USDA noted that under the tariff-rate quota (TRQ) tendering system established by the EC during MY 2011/12, raw sugar was in such short supply that full-time refiners paid import duties of between €290 and €312.6 per tonne, a discount of only 14.5–7.8% on the full EU import duty. This gave rise to the production of refined white sugar at significantly higher cost than the average EU price of domestically produced sugar.</p><p>In the case of Tate &amp; Lyle Sugars (TLS), these sugar supply problems have seen a major underutilisation of capacity (600,000 tonnes of refined sugar was produced in 2012, compared to 1.1 million tonnes in the pre-reform period). Portuguese cane sugar refiners have called on the EC to make it easier for full-time refiners to access raw sugar imports (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/EU-co-refiners-enjoy-cost-advantages" target="_self">EU co-refiners enjoy cost advantages</a>’, 28 May 2012).</p><p>It has been claimed that the EC’s management of the EU sugar regime is “putting the entire cane refining sector at risk”. TLS has launched three legal claims against the EC for damages (totalling €198 million), for alleged mismanagement of the EU sugar market in both 2010/11 and 2011/12. In response, the EC maintained that “the regulations contested by Tate and Lyle represent a balanced policy towards the sugar market.”</p><p>Despite these complaints and legal challenges, the EC continues to make use of the market management measures that have been at the centre of the criticism. On 8 November 2012, the EC announced its intentions “to allow 1.2 million tonnes of additional sugar on the internal market”, drawn from out-of-quota production and imports (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/EC-announces-temporary-measures-to-boost-sugar-supplies" target="_self">EC announces temporary measures to boost sugar supplies</a>’, 16 December 2012). In February 2013, CIUS criticised the implementation of these measures and called on the EC and member states “to release the total volume of out-of-quota sugar in the next tranche due at the end of February to ease supply tensions” and eliminate all levies on out-of-quota sugar. The EC’s management of current policy tools thus continues to be controversial.</p><p>There has been considerable volatility in individual contract prices offered for ACP sugar since October 2010. According to USDA, the lowest average monthly raw sugar contract price was 44.9% lower than the highest price paid during the period from November 2010 to November 2011, with a variation of 32.7% for white sugar prices. Volatility continued to be a feature of raw sugar prices through to June 2012, but with far less volatility on white sugar prices. This volatility means that while some ACP suppliers have secured very good prices, others have obtained much lower prices, depending on the contracts negotiated and the marketing arrangements set in place. This is in distinct contrast to the pre-reform period, when prices paid for ACP sugar were fixed and common to all contracts. This current price volatility highlights the importance of strengthening the marketing of ACP sugar through mechanisms that maximise the returns to ACP exporters.</p><p>Despite this volatility, from November 2011 to June 2012 prices paid for ACP raw and refined sugars overall were respectively 43 and 53% higher on average than for the period from November 2009 to June 2010 (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/USDA-highlights-impact-of-sugar-price-volatility-on-ACP-exporters-and-traditional-EU-cane-sugar-refiners" target="_self">USDA highlights impact of sugar price volatility on ACP exporters and tr...</a>’, 9 December 2012).</p><p><b>2.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perspectives on further EU sugar sector reforms</b></p><p>In October 2011, the EC proposed two options for the abolition of EU sugar production quotas:</p>
+<ul>
+
+<li>the immediate abolition of production quotas in the 2015/16 season; or </li>
+
+<li>the abolition of production quotas slightly later in the 2017/18 season.</li>
+
+</ul>
+<p>The EU Agricultural Commissioner Dacian Cioloş stressed that this would not involve the abandonment of market management instruments, but rather the introduction of “modernised market management instruments”. The proposals provoked considerable debate. In January 2012, a number of EU member states governments echoed farmers’ calls to postpone production quota abolition until 2020, while other member states called for early abolition of production quotas (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/CAP-reform/State-of-play-in-the-CAP-reform-debate" target="_self">State of play in the CAP reform debate</a>’, 25 February 2012). This was an issue of considerable debate through 2012–13.</p><p>In July 2012, the vice-chairman of the Sugar Board of the UK National Farmers Union speculated that divergent positions would give rise to a ‘euro-fudge’ (an unsatisfactory political compromise). This has indeed proved to be the case, with the EU Agriculture Council of 18–19 March 2013 reaching political agreement on extending the sugar quota regime until the 2016/17 marketing year.</p><p>The ACP group has argued that “the absence of EU sugar quotas would cost ACP/LDC sugar suppliers up to €850 million in lost revenue up to 2020” and would “lead to the death of the sugar sector” in certain ACP countries. Indeed, it is widely believed the ACP will “lose more than anybody” under a liberalised EU market with a sugar “surplus”, which would lead to sugar prices falling “below the current support prices”. This has led to ACP Ministerial calls for the EU to initiate formal consultations with the ACP on the impact of the CAP reforms and to implement sugar protocol accompanying measures programmes in a more flexible manner.</p><p>In contrast, in oral submissions made to hearings in the UK House of Lords, the UK Industrial Sugar Users Group (UKISUG) endorsed the CIUS position and supported EC proposals not to extend production quotas beyond 2015. UKISUG went further, calling for “complete deregulation of the EU sugar market”, with beet production quotas to be abolished at the earliest moment and “a guarantee of adequate imports of duty-free cane sugar after 2015”. Current arrangements were seen as driving up procurement costs for sugar “much higher than the €404 a tonne reference price”, with this posing particular problems for smaller manufacturers (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/ACP-joins-EU-farmers-in-appeal-to-maintain-sugar-production-quotas" target="_self">ACP joins EU farmers in appeal to maintain sugar production quotas</a>’, 6 August 2012).</p><p>As an indication of the progress of the EU Council debate during 2012, the UK Agriculture Minister acknowledged that there was a majority of EU Ministers in favour of extending sugar production quotas until 2020. This now appears the most likely outcome from the final round of consultations in June 2013.</p><p>If EU sugar production quotas are extended beyond 2015, then traditional cane refiners are seeking either dedicated import quotas or an automatic correction system to allow imports at zero duty up to the envisaged total of 3.5 million tonnes. This raises the important issue of the market management arrangements to be set in place during the transition to quota abolition. Calls have been made for the adoption of “timely and transparent” policy measures that are non-discriminatory vis-à-vis the different sugar sector stakeholders.</p><p>In the longer term, traditional cane refiners favour unrestricted access to raw cane sugar imports if EU production quotas are abolished.</p><p><b>2.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EU sugar sector prospects and areas of policy uncertainty</b></p><p>Since 2005, the EU has turned from a net exporter to a net importer of sugar. However, this position is projected to change from 2018 onwards, with the EU projected to “move even closer to self-sufficiency and indeed from time to time be a net exporter”. In 2013 and 2014, EU sugar production is projected below 2012 levels, but from 2014 is expected to increase by 600,000 tonnes, before falling by 100,000 tonnes to 16.8 million tonnes from 2020. With total EU sugar consumption (excluding biofuel use) projected to fall from current levels by 1 million tonnes, EU sugar production and consumption are projected to be in balance by 2020. This is projected to result in a halving of EU sugar exports between 2011 and 2022 and a steady decline in EU sugar imports, from 3.8 million tonnes in 2011 to 1.5 million tonnes from 2022 (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/EU-sugar-sector-developments-and-projections" target="_self">EU sugar sector developments and projections</a>’, 7 April 2013).</p><p>These projections, however, assume:</p>
+<ul>
+
+<li>the abolition of sugar production quotas in 2015, a prospect that is looking less likely; and </li>
+
+<li>no modification to the RED sustainability criteria. </li>
+
+</ul>
+<p>On 17 October 2012, the EC tabled proposals to:</p>
+<ul>
+
+<li>limit the amount of food-crop-based biofuels to be used in the transport sector by 2020 to the current level of 5%; </li>
+
+<li>“increase the minimum greenhouse gas saving threshold for new installations to 60%”; and </li>
+
+<li>introduce indirect land use factors in calculating greenhouse gas savings (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Topics/Biofuels/EU-farmers-and-biofuel-industry-mobilise-against-the-EC-biofuel-U-turn" target="_self">EU farmers and biofuel industry mobilise against the EC biofuel U-turn</a>’, 16 December 2012). </li>
+
+</ul>
+<p>This proposal is still under discussion.</p><p>However, on 12 September 2012, the French government called for “a pause in the development of biofuels competing with food”, and unilaterally announced a cap on the production of “crop based biofuels” at the current level of 7% (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/Biofuels/Growing-calls-for-review-of-EU-biofuels-policy" target="_self">Growing calls for review of EU biofuels policy</a>’, 18 November 2012). An EC impact assessment accompanying its proposals of 17 October concluded that capping production of crop-based biofuels has the advantage over other options of being simple in its design and implementation.</p><p>Depending on the options chosen by EU Ministers for revision of the sustainability criteria, the use of sugar beet in bioethanol production could be unaffected, or it could double. Alternatively, imports of sugar-cane-based ethanol from sustainably certified production systems would increase. This would be likely to benefit Brazil rather than ACP sugar producers. However, it would be strongly influenced by the basis used for indirect land-use emission calculations, which could themselves lead to the establishment of production-system-based import tariffs, with lower tariffs only for those bioethanol imports that have less effect on indirect land use.</p><p>The future of EU biofuel policy gives rise to uncertainties over the future prospects for the EU sugar sector. Farmers’ organisations and the biofuel industry have rejected allegations that biofuel policies were responsible for the prevailing high food prices, and are opposed to any changes in EU biofuel policies.</p><p>Meanwhile, if EU sugar production quotas were extended to 2020, this would defer the date at which the EU moves towards greater self-sufficiency and the date at which a dramatic decline in EU sugar imports takes place.</p><p>However, overall EC projections suggest that marketing opportunities for ACP sugar are likely to lie increasingly beyond the EU.</p><p><b>2.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evolution of corporate engagement in ACP–EU sugar sector</b></p><p>The complex reality facing ACP sugar producers in exporting to the EU market is further complicated by the changing pattern of EU–ACP corporate linkages. The two biggest corporate level developments, Associated British Food’s (ABF’s) purchase of a 51% stake in Illovo Sugar, and American Sugar Refiners’ (ASR’s) purchase of TLS, continue to work their way through the system of ACP–EU trade.</p><p>ABF’s 51% share ownership in Illovo provides Illovo’s sugar operation in Malawi, Mozambique, Swaziland, Tanzania and Zambia with a direct link into the EU sugar market. According to Illovo’s 2012 annual report, just under 28% of total Illovo sugar sales in 2011/12 went to preferential markets in the EU and US, mainly to the EU. Given that, prior to reform, ACP raw sugar exports went to traditional cane sugar refiners, including ABF’s main UK rival TLS, this changing pattern of ownership is likely to have had an impact on commercial relationships.</p><p>In the course of 2012, it was announced that ASR had taken a majority shareholding in Belize Sugar Industries (BSI) (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/ASR-to-take-shares-in-Belize-Sugar-Industries" target="_self">ASR to take shares in Belize Sugar Industries</a>’, 9 July 2012). The access that this provided ASR to fair-trade-certified producers in Belize was seen as a key factor in the investment decision (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Fair-trade-component-a-key-factor-in-BSI-acquisition-by-ASR" target="_self">Fair-trade component key factor in BSI acquisition by ASR</a>’, 2 December 2012). This move was complementary to TLS’s decision in 2008 to progressively convert its entire direct-consumption sugar range to fair-trade and to TLS’s growing interest in supplying fair-trade-certified sugar to European manufacturers.</p><p>The purchase of BSI by ASR needs to be seen against the background of the difficulties faced by TLS in sourcing raw sugar under the reformed EU sugar regime; of ABFs’ takeover of Illovo; and also of the sale of the largest component of the Jamaican sugar sector to the Chinese-owned Pan Caribbean Sugar Company (PCSC), a subsidiary set up by the Chinese Complant group.</p><p>In May 2012, PCSC secured the right to directly export its own sugar (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/New-marketing-agency-agreement-signed-with-PCSC-in-Jamaica" target="_self">New marketing agency agreement signed with PCSC</a>’, 18 June 2012). Despite support from TLS for fair-trade certification in Jamaica and efforts to secure long-term contracts, press reports indicated that for 2012/13 PCSC had signed a contract with the French company Sucden for the supply of 40,000 tonnes of raw sugar. Sucden, which controls some 15% of the world market in internationally traded sugars, is described as one of TLS’s main competitors (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Barbados-seeks-Japanese-support-for-sugar-restructuring-while-other-Caribbean-restructuring-efforts-continue" target="_self">Barbados seeks Japanese support for sugar restructuring while efforts co...</a>’, 18 March 2013).</p><p>However 2013 could well see a renewal of sugar exports to the EU from ASR-owned Central Romano Corporation in the Dominican Republic, given the reduced size of the US quota allocated to the Dominican Republic and the relative evolution of EU and US sugar prices (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Developments-in-the-sugar-sector-in-the-Dominican-Republic" target="_self">Developments in the sugar sector in the Dominican Republic</a>, 11 February 2013).</p><p>The ACP sugar trade into Europe is increasingly involved in this changing network of corporate alliances. With considerable variation in prices paid under individual contracts for ACP sugar, how intra-corporate trading arrangements operate is likely to be increasingly critical to the actual prices obtained for individual sugar shipments from ACP suppliers to the EU (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Short-term-earnings-windfall-projected-in-Jamaican-sugar-sector" target="_self">Short-term earnings windfall projected in Jamaican sugar sector</a>’, 6 September 2011).</p><p>Looking beyond these major corporate changes, in Eastern Africa, Mauritian companies are increasingly investing in neighbouring Eastern African states. In September 2011, Omnicane, the largest Mauritian sugar company, announced its investment of US$194 million in sugar production in Kenya in association with Kwale International Sugar Company. This move is expected to shake up the Kenyan sugar sector. Meanwhile, the second largest Mauritian miller, Alteo (the result of the merger between Deep River Beau Champ and Flacq United Estates), is “seeking strategic partners in East Africa to increase its sugar output” beyond the existing level of participation in the Tanzanian and Mozambican sugar sectors (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Second-Mauritian-sugar-company-looking-to-expand-in-Eastern-Africa" target="_self">Second Mauritian sugar company looking to expand in Eastern Africa</a>’ 18 February 2013).</p><p>These moves highlight the scope for the growth of ACP-based sugar companies, with the expansion of sugar production under way in Eastern and Southern Africa. However, they also highlight the complex network of corporate relationships that exists. There is a particularly complex situation evolving in the case of Mauritius, given the July 2008 agreement between the Mauritian Sugar Syndicate and Südzucker for the export of 400,000 tonnes of direct-consumption sugar per annum to the EU market and Alteo’s partnership with the French sugar company Tereos in Mozambique.</p><p>The process of EU corporate restructuring thus reaches into ACP sugar sectors and gives rise to increasingly complex networks of temporary supply arrangements and longer-term corporate alliances.</p><a name="eztoc2808962_0_3" id="eztoc2808962_0_3"></a><h3>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implications for the ACP</h3><p><b>3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Getting to grips with transitional challenges</b></p><p>Calls from traditional refiners for either the re-establishment of dedicated import quotas or unrestricted duty-free access for raw sugar up to a ceiling of 3.5 million tonnes, if implemented, would be likely to impact on the commercial position of ACP sugar exporters in contract negotiations with EU importers. This would arise either from a reduction in the number of buyers competing for ACP sugar supplies, or from an increase in the number of potential sellers of duty-free sugar to EU importers. In the coming years, therefore, ACP governments will have to grapple with two related challenges: the effects on ACP producers of the use of current market management tools and the effects of final abolition of EU sugar production quotas.</p><p><b>3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Impact of deferring EU production quota abolition</b></p><p>Even if the abolition of EU production quotas is deferred until 2020, the longer-term trend resulting from post-reform EU sugar sector adjustments is towards greater EU sugar self-sufficiency and a significant reduction in total EU sugar imports (–59% by 2020 compared to average imports over the 2009–11 period). This will carry profound implications for ACP sugar exporters, given the expansion of EU sugar TRQs that are in progress with competitive sugar exporters, as a result of the EU’s growing network of free-trade area agreements. This reinforces the long-term trend in the declining significance of EU sugar sector preferences for ACP sugar exporters.</p><p><b>3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strengthening the functioning of internal sugar supply chains</b></p><p>While developments in Jamaica raise the issue of the future regulatory role of industry boards in determining the division of the proceeds, corporate developments in Belize highlight the need for a modernised framework for the management of private-sector-based relationships along specific supply chains, in a context of vast inequalities in power relationships within supply chains and heightened global price volatility.</p><p>In this context, EU policy initiatives aimed at strengthening the functioning of sugar sector supply chains could hold some important lessons. In particular, the future of the current inter-professional agreements (IPAs) in EU sugar sectors would appear to be of some considerable significance. Currently, in the UK, the IPA allows beet growers to negotiate collectively with monopoly processors, allowing a single selling voice to balance a single buying voice, thus allowing “an obvious imbalance of power in the supply chain” to be managed.</p><p>In ACP countries, similar arrangements would appear to be needed, structured in ways that address the more complex issue of the division of proceeds from multiple revenue streams between farmers and millers. This is a complex issue. Different revenue sharing formulas are in place across ACP countries, in a context where the contribution of independent producers to total sugar production varies greatly. Identifying best practices from a sugar farming perspective would appear to be an important priority for ACP sugar farmers’ organisations.</p><p><b>3.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strengthening the functioning of international sugar supply chains</b></p><p>Increasingly, the specific nature of contractual relationships established between raw sugar milling companies and refined sugar exporters in ACP countries and importers in the EU will be the critical determinant of the wider development benefits of the ACP–EU sugar sector trade. Issues related to transparency in price formation – given the increased volatility in individual contract prices negotiated with ACP suppliers – are likely to take on growing significance. This is particularly the case in situations where sister companies from within a single corporate family control different stages of the trading process from mill to market.</p><p>In this context, EC policy work on avoiding unfair trading practices could potentially be of interest to ACP governments. EU farmers have called on the EC “to take clear steps towards introducing legislation at EU level to help tackle unfair and abusive practices in the EU food chain” (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/CAP-reform/EC-policy-developments-on-addressing-unfair-trading-practices" target="_self">EC policy developments on addressing unfair trading practices</a>’, 4 March 2013). Equally, development NGOs have called for “swift and tough action” by the EC to end unfair trading practices along international food supply chains, along the lines of the UK’s proposed Grocery Code Adjudicator (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/CAP-reform/Report-on-improving-functioning-of-food-supply-chain-released" target="_self">Report on improving functioning of food supply chain released</a>’, 11 March 2013). ACP governments could usefully monitor developments in this area and seek their extension to the ACP–EU sugar trade where appropriate.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Union Committee of the UK House of Lords, ‘Leaving a bitter taste? The EU Sugar Regime’, 4th report of session 2012–13, 4 September 2012</p><p>
+<a href="http://www.publications.parliament.uk/pa/ld201213/ldselect/ldeucom/44/44.pdf" target="_self">http://www.publications.parliament.uk/pa/ld201213/ldselect/ldeucom/44/44...</a></p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UK House of Lords EU Agriculture, Fisheries, Environment and Energy Sub-Committee, ‘EU Sugar Regime: Oral evidence’, 23 July 2012</p><p>
+<a href="http://www.parliament.uk/documents/lords-committees/eu-sub-com-d/sugar/sugarevidencevolume1.pdf" target="_self">http://www.parliament.uk/documents/lords-committees/eu-sub-com-d/sugar/s...</a></p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Directorate General for Internal Policies, European Parliament, ‘Policy scenarios for EU sugar market reform’, IP/B/AGRI/IC/2012-60, 10 September 2012</p><p>
+<a href="http://www.europarl.europa.eu/committees/fr/studiesdownload.html?languageDocument=EN&amp;file=78191" target="_self">http://www.europarl.europa.eu/committees/fr/studiesdownload.html?languag...</a></p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC, ‘Proposal for a directive of the European Parliament and the Council amending Directive 80/70/EC relating to the quality of petrol and diesel fuels and amending Directive 2009 28/EC on the promotion of the use of energy from renewable sources, COM (2012) 595 final, 17 October 2012</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="http://ec.europa.eu/energy/renewables/biofuels/doc/biofuels/com_2012_0595_en.pdf" target="_self">http://ec.europa.eu/energy/renewables/biofuels/doc/biofuels/com_2012_059...</a></p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC DG Agriculture and Rural Development, ‘Prospects for agricultural markets and income in the EU 2012–2022’, full report, December 2012</p><p>
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2012/fullrep_en.pdf" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2012/fullrep_en.pdf</a></p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USDA, ‘Post-reform European Union sugar: prospects for the future’, <i>GAIN Report</i> No. E60078, 21 December 2011</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Post-Reform%20European%20Union%20Sugar%20-%20Prospects%20for%20the%20Future_Brussels%20USEU_EU-27_12-21-2011.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Post-Reform%20Euro...</a></p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USDA, ‘EU27 Sugar: Semi-annual report’, <i>GAIN Report</i> No. E70035, 2 October 2012</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Sugar%20Semi-annual_Brussels%20USEU_EU-27_10-2-2012.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Sugar%20Semi-annua...</a></p><p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACP, ‘Resolution of the 95th session of the ACP Council of Ministers held in Port Vila (Vanuatu) from 10th to 15th June 2012: Sugar’, p. 13 of PDF, 13 June 2012</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="http://www.acp.int/sites/acpsec.waw.be/files/ACP25006%2012%20ENG.pdf" target="_self">http://www.acp.int/sites/acpsec.waw.be/files/ACP25006%2012%20ENG.pdf</a></p><p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FAO, ‘OECD-FAO Agricultural Outlook 2012-2022: Sugar’, July 2012</p><p>
+<a href="http://www.agri-outlook.org/document/11/0,3746,en_36774715_36775671_50613387_1_1_1_1,00.html" target="_self">http://www.agri-outlook.org/document/11/0,3746,en_36774715_36775671_5061...</a></p><p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Confectionerynews.com</i>, ‘“Enough is enough” says Nestlé procurement head on EU sugar regime’, 2 July 2012</p><p>
+<a href="http://www.confectionerynews.com/Regulation-Safety/Enough-is-enough-says-Nestle-procurement-head-on-EU-sugar-regime" target="_self">http://www.confectionerynews.com/Regulation-Safety/Enough-is-enough-says...</a></p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Executive-Brief-Update-2013-Sugar-sector">Executive Brief Update 2013: Sugar sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Executive-Brief-Update-2012-Product-differentiation">Executive Brief Update 2012: Product differentiation</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Sugar-Trade-issues-for-the-ACP">Sugar: Trade issues for the ACP</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":141,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

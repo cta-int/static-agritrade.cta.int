@@ -1,0 +1,211 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Food security and small island states in a context of high global prices and heightened price volatility: A Melanesian Spearhead Group (MSG) perspective  / ACP regional trade / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/interviews.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																
+								<a href="/en/layout/set/print/Publications/(regions)/7774/(search)/simple">Pacific</a>
+																																																										
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7795/(search)/simple">General</a>
+							
+																																																																																																																																																																																																																																																																																																																																																													
+																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7816/(search)/simple">ACP regional trade</a>
+							
+																																																																																																																																																																																																			
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Food security and small island states in a context of high global prices and heightened price volatility: A Melanesian Spearhead Group (MSG) perspective </h1>
+
+			
+			<h4>
+												13 January 2013
+										</h4>
+
+						<h2>An interview with Mr Peni Sikivouand and Mrs Merewalesi Falemaka of the Melanesian Spearhead Group Secretariat, presenting their joint responses about agricultural trade issues in the region</h2>
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>Mr Peni Sikivou</b> is currently Director of Economic and Social Development at the MSG Secretariat headquarters in Port Vila, Vanuatu. He served as Deputy Secretary of Finance in the Fiji government from 2007 to 2009, and previously served as Chief Economist in the Ministry of Commerce, and Deputy Secretary for National Planning, having started in the Ministry of National Planning as a graduate trainee in 1990. Mr Sikivou also worked in the Pacific Islands Forum Secretariat (PIFS) between 1996 and 1999, and at the Forum’s Trade and Investment Promotion Office in Sydney in 2000.</p><p><b>Mrs Merewalesi Falemaka</b> has been Director of Trade and Investment at the Melanesian Spearhead Group (MSG) Secretariat since 2009, also based in Vanuatu. She was Trade Policy Consultant at the PIFS from July 2008 to June 2009, and had previously worked at PIFS, working as a Commonwealth Secretariat Trade Consultant on EPA negotiations, from January 2006 to June 2008. Before that, she was a Trade Policy Adviser on WTO and Regional Trade Issues at PIFS. Up till January 2000, Mrs Falemaka served in the Fiji government, where she last held the position of Chief Economist in the Ministry of Commerce, Industry and Trade.&nbsp;</p>
+
+		</div>
+		
+		
+					<p><b>Q: How have the small island states of the Pacific responded to rising food prices?</b></p><p>For the MSG countries, governments have encouraged the production and consumption of local food, to reduce imports. Some members, such as Fiji, embarked on ‘Buy Fiji-made’ campaigns to encourage their people to buy locally made products, including food products.</p><p>At the same time, where global prices of certain food products have risen, governments have encouraged the production and exports of those products, for example, when copra/coconut oil prices rose, this stimulated the export of copra, for instance in Vanuatu.</p><p><b>Q. What policy measures and initiatives have been set in place to respond to the challenge of rising food prices?</b></p><p>Although not explicitly stated in national policies, MSG members have been adopting and maintaining policies that respond to the challenges of rising food prices. These policies include the adoption of measures to increase production and improve the quality of agricultural, livestock and fisheries products for both domestic consumption and exports, and the promotion of value addition within agricultural, fisheries and livestock product chains.</p><p>Crop diversification is also seen a priority. This is supported by research into new crops, varieties and methods of production, and training of agricultural workers and farmers through improved extension service delivery.</p><p>Complementary industrial and trade policy initiatives are also being taken to promote increased domestic production and processing for local markets, ranging from the provision of fiscal incentives, such as tax holidays and concessionary duties on machineries for domestic processing, to price controls, public investment programmes and food subsidy programmes. Of course, tariff rates for basic food products are also under review.</p><p><b>Q: What kind of trade policy measures are governments setting in place to support local food production?</b></p><p>MSG members use a mix of trade policy measures to support local food production, and these include tariff policies consisting of low tariffs on raw unprocessed foods and high tariffs on processed foods to protect domestic production. This is the case, for example, in items such as flour and rice in Fiji, and tuna processing. Import licences are also used to regulate food imports in a range of countries (e.g. Vanuatu and the Solomon Islands). Locally produced food crops are also commonly exempted from value-added tax to promote production and consumption, for example in Fiji. In some cases, export taxes are also levied to encourage domestic consumption and promote local industries, for example, to promote sugar-based food industries in Fiji. Marketing support is also provided to farmers through established government marketing bodies/authorities.</p><p><b>Q: How are food-security-related initiatives coordinated across Pacific Island Countries, and how are they reconciled with regional trade liberalisation commitments?</b></p><p>There are no explicit linkages made between food security and regional trade liberalisation commitments set out in regional trade agreements. However, these are implicit in the tariff commitments made by countries, and some of these have either excluded agricultural products from liberalisation or have commitments that will phase out tariffs on food products over a longer time frame.</p><p>However, this represents an area for improvement of policy coordination within governments and between governments and regional bodies. Often trade officials that are developing tariff liberalisation offers and negotiating commitments do not effectively consult those ministries and departments that are responsible for food production, for example, Ministries of Agriculture, Livestock and Fisheries. In this context, cheapening imported food substitutes can on occasion destroy domestic industry, particularly where small-scale producers are facing competition from large overseas suppliers.</p><p>The links between national agriculture and trade policies and food security need to be more fully and clearly elaborated. For example, at present Vanuatu’s Corporate Plan for the Ministry of Agriculture, Quarantine, Fisheries and Forestry makes no explicit reference to food security goals.</p><p><b>Q: What are the major trends in food production among Pacific Island Countries?</b></p><p>Based on FAO data, two major trends are apparent: food production continues to fall short of domestic demand; and significant imports of manufactured food items take place from major trading partners, with the MSG country states being overall significant net food importers.</p><p><b>Q: What do you see as the major challenges facing Pacific Island food producers?</b></p><p>The major challenge for MSG/Pacific food producers arises from the small scale of production and the lack of economies of scale. This is often compounded by low productivity and unsustainable farming practices, which are compounded by natural disaster and processes of climate change. A lack of capital and inadequate extension services for producers make it difficult to address these underlying production challenges.</p><p>Limited infrastructure and services to transport food products to main urban markets from the rural areas and outer islands also pose a significant challenge, creating an unreliable supply situation. Weak regulatory frameworks linked to basic things like weights and measures, and compliance with basic product standards, can further compound these problems – imported products that are better packaged and labelled often appear more attractive to urban consumers.</p><p>A further challenge arises from changing consumer preferences, with a move away from traditional food crops such as taro and manioc towards imported substitutes such as rice and noodles. Imported products tend to be easier to prepare and more convenient.</p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Food-security-and-small-island-states-in-a-context-of-high-global-prices-and-heightened-price-volatility-A-Melanesian-Spearhead-Group-MSG-perspective">Food security and small island states in a context of high global prices and heightened price volatility: A Melanesian Spearhead Group (MSG) perspective </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":159,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

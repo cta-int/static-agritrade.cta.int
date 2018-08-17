@@ -1,0 +1,237 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Moving forward SADC’s regional agricultural policy  / ACP regional trade / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																																
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																																																																																						,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+							
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Moving forward SADC’s regional agricultural policy </h1>
+
+			
+			<h4>
+												05 July 2011
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The SADC Secretariat has posted the country summaries of its agricultural policy review reports and a synthesis of the key agricultural policy issues faced and the way that SADC plans to address these. These documents provide a summary review of the agricultural situation in each SADC member state, government policy orientations in the agricultural sector and assess how consistent these are with regional agricultural trade-policy commitments. The synthesis report then tries to draw out the key issues faced and establish a basis for resolving in these issues as part of the process of moving towards a regional agricultural policy. It outlines the process with which member states are now engaged, and the future trajectory for the process.</p><p>The synthesis report notes that while SADC member states have long-standing commitments to functional cooperation in the agricultural sector (dating back to 1980) and agricultural policy coordination (2004), substantive work on the formulation of SADC’s Regional Agricultural Policy began in March 2008. This initially consisted of the drafting of a ‘Synthesis report of key agricultural policy issues’. This was the subject of detailed discussions at the technical level by member state representatives in April 2010.</p><p>It was agreed as a result of these discussions that the SADC region ‘requires a common agricultural policy that should be a formal arrangement’ (i.e. a legally binding instrument), backed by an appeals mechanism based on subsidiarity and with budgetary provision being made by member states for the implementation of commonly agreed policy measures. It was felt such a policy should:</p>
+<ul>
+
+<li>harmonise and align key agricultural policies;</li>
+
+<li>provide legally binding guidelines and establish common standards and norms;</li>
+
+<li>encourage countries to concentrate on areas of comparative advantage;</li>
+
+<li>establish a regional approach to the promotion of investment in agriculture;</li>
+
+<li>support agricultural research and extension services;</li>
+
+<li>facilitate dialogue and information sharing. </li>
+
+</ul>
+<p>Three main policy pillars are envisaged:</p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Production, productivity and competitiveness.</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trade and markets.</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Financing and investment.</p><p>In terms of policy development, work was envisaged on: the policy vision, goals and principles; intervention measures; and implementation arrangements.</p><p>It is recognised that considerable technical work still needs to be undertaken, with the feasibility assessment stage that will result in the Regional Agricultural Policy document only expected to be completed by 2012. However, it is envisaged that the approval process by member states will take place in parallel with the technical work, with political approval being secured at key ‘milestones’, thereby facilitating the completion of the Regional Agricultural Policy process by the end of 2012.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>
+SADC, ‘Regional Agricultural Policy: Country summary agricultural policy review reports’, January 2011<br />
+
+<a href="http://www.sadc.int/fanr/docs/rap/RAP%20Combined%20Summary%20Country%20Reports%20-%208%20May%202011.pdf" target="_self">http://www.sadc.int/fanr/docs/rap/RAP%20Combined%20Summary%20Country%20R...</a><br />
+SADC, ‘Regional Agricultural Policy: Synthesis report of key agricultural policy issues and policy directions’, December 2010<br />
+
+<a href="http://www.sadc.int/fanr/docs/rap/RAP%20Synthesis%20Report%20-%20For%20Publication%202%20March%202011.pdf" target="_self">http://www.sadc.int/fanr/docs/rap/RAP%20Synthesis%20Report%20-%20For%20P...</a><br />
+EAC/COMESA/SADC, ‘Draft agreement establishing the COMESA, EAC, SADC tripartite free trade area’, revised December 2010<br />
+<a href="http://www.givengain.com/cause_data/images/1694/Draft_Tripartite_FTA_Agreement_Revised_Dec_2010.pdf" target="_self">http://www.givengain.com/cause_data/images/1694/Draft_Tripartite_FTA_Agr...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The process of establishing a SADC regional agricultural policy can be seen as a member state-based process. The country-based analysis of the agricultural context, the issues faced, and existing policy measures will provide the basis for regional consultation on the way forward in terms of harmonisation of national agricultural policies within a common regional framework.</p><p>This approach would appear to offer considerable scope for the identification of inconsistencies between agricultural policy objectives and practices and regional trade-policy commitments. It would also appear to offer scope for the identification of practical modalities for the resolution of these inconsistencies in ways which are minimally trade distorting.</p><p>This could be an important issue in the context of the intensifying negotiations process on the planned tripartite free-trade area (T-FTA) of EAC, COMESA and SADC. Current draft proposals for the T-FTA are based on the establishment of a ‘tariff-free, quota-free, exemption-free’ FTA, with sensitive lists and exemptions having been broadly eliminated by 2012 (although a provision for limited exemptions vis-à-vis big partners is envisaged, with clear time limits stipulated for the exemptions). In terms of the use of traditional trade-policy tools, the draft treaty includes a prohibition on the use of export duties, the elimination of all quantitative restrictions on imports and exports (including presumably export bans) and indeed all non-tariff barriers to trade (including presumably the use of import and export licences). This would appear to sit uneasily with the existing agricultural trade-policy practice of a number of SADC member state governments.</p><p>Clearly this issue will need to be resolved both within the discussions around a SADC regional agricultural policy and the broader discussions on the T-FTA. Analysts in the region see implementation as the Achilles heel of regional agricultural policy. Currently there are no compliance adherence mechanisms to ensure compliance with commonly agreed policies. Against this background, consideration may first need to be given to issues which can clearly best be dealt with at the regional level, before moving on to more sensitive issues, via a process of progressive harmonisation. Alongside this process it is hoped that compliance adherence mechanisms can be developed and consolidated.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/Fish-markets-enhance-the-dagaa-fish-trade-in-the-sub-region">Fish markets enhance the dagaa fish trade in the sub region</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/AAK-assist-the-grass-root-aquaculturist">AAK assist the grass root aquaculturist</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/Africa-moving-towards-innovation-and-product-development-in-the-Fisheries-sector">Africa moving towards innovation and product development in the Fisheries sector.</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/Sea-cucumbers-saving-lives-the-radical-charity-giving-Madagascan-fishing-communities-hope">Sea cucumbers saving lives: the radical charity giving Madagascan fishing communities hope</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/News-from-the-IOC-region/Enhancing-the-supply-chain-of-the-octopus-fishery-in-Mauritius-and-Rodrigues-and-crabs-in-Madagascar">Enhancing the supply chain of the octopus’ fishery in Mauritius and Rodrigues and crabs in Madagascar</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":208,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

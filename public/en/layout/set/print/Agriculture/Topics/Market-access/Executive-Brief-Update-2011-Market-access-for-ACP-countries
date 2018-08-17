@@ -1,0 +1,400 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2011: Market access for ACP countries / Market access / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																															
+		
+		<div class='contentrealtionlist'>
+										
+							
+																																																																																																																																																																																																																																																																																																								
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/8254/(search)/simple">Market access</a>
+							
+																			
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2011: Market access for ACP countries</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/12150/496800/file/8554cdf5d5f8f8895d82608aefb0ce88.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+									</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>About this update</b></p><p>This brief was updated in July 2011. The original executive brief was published in January 2008 and is available on request from agritrade-mail@cta.int</p><p>Other publications in this series and additional resources on ACP—EU agriculture and fisheries trade issues can be found online at http://agritrade.cta.int/</p>
+
+		</div>
+		
+		
+					<a name="eztoc496790_1" id="eztoc496790_1"></a><h2><b>1. Background and key issues</b></h2><p>Market access for ACP agricultural exports to the EU now takes place under three trade regimes:</p>
+<ul>
+
+<li>the ‘Everything But Arms’ (EBA) initiative in favour of all least developed countries (LDCs);</li>
+
+<li>the interim Economic Partnership Agreements (IEPAs) and one comprehensive Economic Partnership Agreement (EPA) initialled or signed with the governments of certain Africa, Caribbean and Pacific (ACP) group countries;</li>
+
+<li>the standard Generalised System of Preferences (GSP) regime, applicable to all eligible developing countries, but which now provides the only trade framework for 10 non-least developed ACP countries whose governments have not initialled IEPAs.</li>
+
+</ul>
+<p>Significant developments since 2009 include:</p>
+<ul>
+
+<li>the introduction of full duty-free, quota-free access for exports under the EBA and various (I)EPAs, qualified only by certain restrictive rules of origin; </li>
+
+<li>specific restrictions on exports to EU overseas territories and the specific safeguard provisions; and </li>
+
+<li>proposals for the revision of the EU’s GSP scheme, which removes a range of ACP countries from eligibility for GSP treatment. </li>
+
+</ul>
+<p>The accelerating process of preference erosion, driven in part by the conclusion of new EU bilateral trade agreements (notably in the banana, sugar and, to a lesser extent, horticultural sectors) is a major concern for the ACP. While this process of preference erosion is accelerating, in certain sectors significant margins of tariff preferences will remain in the short term, although these are likely to progressively disappear after 2013.</p><a name="eztoc496790_2" id="eztoc496790_2"></a><h2><b>2. Latest developments</b></h2><p><b>2.1 Placing agricultural trade with the EU in context</b></p><p>The EU is by far the world’s leading trader in food and drink, with the value of EU exports increasing faster than the value of EU imports. In recent years the EU’s trade deficit in raw and processed agricultural products has declined from €10 billion (1988) to €27 million (2005). The EU registered a small surplus in 2006, before returning to a deficit. The EU’s largest trading partners are non-ACP countries. However, taken collectively the ACP (including South Africa) is the second largest source of EU imports and the third largest market for EU food and agricultural exports (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/EU-FTAs/EU-trade-in-agriculture" target="_self">EU trade in agriculture</a>’, June 2010), accounting for 13% of food and agricultural imports and 7.2% of EU raw and processed agricultural exports.</p><p>Analysis by Eurostat highlights the growing importance of non-ACP developing countries. The erosion of ACP margins of tariff preference in this trade trend only plays a role in certain sectors. Imports from countries such as Brazil and Argentina are concentrated in sectors where the ACP countries have little or no trade presence (e.g. animal feed and oultry meat) or where only a small number of ACP countries export (e.g. beef from Namibia and Botswana). This said, the growing volume of Brazilian sugar exports to the EU of both raw sugar and refined white sugar is a major source of concern to ACP sugar exporters. Brazilian raw sugar imports into the EU increased from 45,513 tonnes in 2003 to a peak of 927,175 tonnes in 2008, while white sugar imports increased from 20,220 tonnes to 66,357 tonnes over the same time period. The bulk of this increase was linked to EU enlargement, although most recently mounting EU supply difficulties led to the opening up of expanded duty-free tariff-rate quota (TRQ) access, of which Brazil has been a major beneficiary.</p><p>In the sectors of greatest export interest to the ACP (fruit and vegetables) the largest increase in EU imports has come from countries with no preferential access. This highlights the generalised nature of the competitiveness challenges faced by ACP food and agricultural exporters. Only in a limited number of sectors are new trade preferences posing additional competitive challenges (e.g. sugar and bananas), which compound pre-existing trends.</p><p>The EU has balanced trade in livestock and cereals, and a trade surplus in dairy products. The largest deficit is in tropical products, oilseeds and oil, and horticultural products. In recent years, while the drinks sector experienced the highest growth in exports, exports of cereals and cereals preparations and of horticultural products also experienced high export growth. ACP markets are of growing importance for EU cereals and cereal product exports. Overall the EU imports largely unprocessed agricultural products and exports value-added food products.</p><p>In the coming period, price volatility will be a major policy concern. The FAO has called for governments to ‘implement measures to ensure that farmers have at their disposal better tools to manage future risks, such as production contracts, insurance schemes and futures markets’ (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/General/High-commodity-prices-here-to-stay-but-at-lower-levels-than-recent-peaks" target="_self">High commodity prices here to stay, but at lower levels than recent peaks</a>’, August 2011).</p><p><b>&nbsp;</b></p><p><b>2.2 The EU’s evolving network of preferential trade arrangements</b></p><p>Over the period 2010–11, the EU extended its network of preferential trade arrangements (see Table 1). Not all of these agreements impact on EU food and agricultural markets, and even fewer of them impact on ACP exporters. Detailed analysis is required to understand these specific impacts, comparing the provisions of each new agreement with what it replaces, and cross-referencing new areas of tariff concessions with exports of individual ACP countries. This will allow any areas of enhanced competitive challenge to be identified. Such analysis also needs to take on board the impact of sanitary and phytosanitary (SPS), food-safety and production-related standards, as well as other forms of quality based product differentiation on actual trade flows.</p><p>Pressure for more rigorous application of EU SPS and food safety regulations in trade with third countries is intensifying. This includes calls for compliance with EU production standards to be included in future EU trade agreements. This development could carry important implications for ACP exporters in terms of market access.</p><p>At a general level, the following potential areas of concern arising from new EU preferential trade arrangements can be identified:</p>
+<ul>
+
+<li>the impact of the Central American and Andean Pact agreements on prices obtained for ACP banana and sugar exports;</li>
+
+<li>the impact of EuroMed, Central American and Andean Pact agreements on EU horticultural markets of export interest to ACP producers;</li>
+
+<li>the impact of a possible Mercosur agreement on EU beef and poultry markets (and hence demand for EU cereals), sugar markets and potentially horticultural markets.</li>
+
+</ul>
+<p>An additional area of concern relates to the impact these agreements will have on patterns of EU investment flows in the affected sectors, with press reports suggesting that major horticultural traders are looking at agricultural investments in Latin American countries to secure sources of supply (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Horticulture/Call-for-urgent-action-to-address-crisis-in-EU-horticulture-sector" target="_self">Call for urgent action to address crisis in EU horticulture sector</a>’, May 2010).</p><p><b><i>&nbsp;</i></b></p><p><b>Table 1: Recent EU preferential trade agreements
+<a href="#_msocom_1" target="_self">[MSOffice1]</a>&nbsp;</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="590" valign="top">  <b>EU preferential trade agreements and status </b>
+  </td>
+</tr>
+
+<tr>
+<td width="590" valign="top">  <p><b>EuroMed agreements</b></p>
+<ul>
+
+<li><b>Morocco</b>: negotiations on further liberalisation for agricultural, processed agricultural, and fisheries products were concluded in 2009 and adopted in September 2010, providing for better market access for items such as unprocessed fruit and vegetables (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/EU-FTAs/EU-Morocco-agri-food-and-fisheries-agreement-concluded" target="_self">EU-Morocco agri-food and fisheries agreement concluded</a>’, February 2010).</li>
+
+<li><b>Egypt</b>: negotiations on further liberalisation for agricultural, processed agricultural and fisheries products were concluded in 2009. Press reports claim tariff protection has been removed on all fruit and vegetable imports into the EU except sensitive products such as tomatoes, garlic, cucumber, zucchini, artichokes, table grapes and strawberries, where TRQs apply (see <i>Agritrade</i> articles ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/EPAs/EU-concluding-a-range-of-FTA-negotiations" target="_self">EU concluding a range of FTA negotiations</a>’, December 2009, and ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/EU-FTAs/New-agreement-expands-opportunities-for-Egyptian-fruit-and-vegetable-exports" target="_self">New agreement expands opportunities for Egyptian fruit and vegetable exp...</a>’, October 2010).</li>
+
+<li><b>Israel</b>: negotiations on further liberalisation for agricultural, processed agricultural, and fisheries products concluded in 2008.</li>
+
+<li><b>Tunisia</b>: negotiations on further liberalisation for agricultural, processed agricultural, and fisheries products are ongoing, with concessions likely to be driven by political priorities to stabilise the new regime. </li>
+
+<li><b>Jordan</b>: negotiations on further liberalisation for agricultural, processed agricultural, and fisheries products were concluded in 2005.</li>
+
+<li><b>Palestinian Territories</b>: the granting of duty-free, quota-free access for ‘all agricultural products, processed agricultural products and fish and fishery products’ was announced in April 2011, with immediate effect subject to minimum import price requirements.</li>
+
+<li><b>Syria</b>: agreement initialled in December 2008, adopted by EU Council in October 2009.</li>
+
+<li><b>Libya</b>: negotiations launched in November 2008, and suspended in February 2011.</li>
+
+</ul>
+
+  </td>
+</tr>
+
+<tr>
+<td width="590" valign="top">  <p><b>Andean Community (Colombia and Peru)</b></p><p>Negotiations were concluded in February 2010, and initialled in March 2011. The agreement raises concerns over the impact of TRQ concessions on EU banana and sugar markets, in addition to raising fears of increased competition across a range of horticultural products (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/EU-FTAs/Latin-American-deals-concluded-Asian-negotiations-launched" target="_self">Latin American deals concluded, Asian negotiations launched</a>’, April 2010).</p>
+  </td>
+</tr>
+
+<tr>
+<td width="590" valign="top">  <p><b>Central America (Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama)</b></p><p>Association agreement concluded May 2010, initialled March 2011. The agreement raises concerns over the impact of TRQ concessions on EU banana and EU sugar markets, in addition to raising fears of increased competition across a range of horticultural products (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/EU-FTAs/EU-Mercosur-negotiations-relaunched-Central-America-negotiations-concluded" target="_self">EU-Mercosur negotiations relaunched, Central American negotiations concl...</a>’, June 2010).</p>
+  </td>
+</tr>
+
+<tr>
+<td width="590" valign="top">  <p><b>South Korea</b></p><p>FTA signed on 6 October 2010, EP consent granted.</p>
+  </td>
+</tr>
+
+<tr>
+<td width="590" valign="top">  <p><b>Mercosur</b></p><p>Negotiations relaunched on 17 May 2010. Four rounds of negotiations took place up to 14–18 March 2011. Major concerns over the possible impact of TRQ concessions for sugar, beef and poultry in terms of their price effects. EU farmers are also concerned about the knock-on effects on the EU cereals sector (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Topics/EU-FTAs/EU-farmers-release-data-on-concerns-over-EU-Mercosur-negotiations" target="_self">EU farmers release data on concerns over EU-Mercosur negotiations</a>’, April 2011).</p>
+  </td>
+</tr>
+
+<tr>
+<td width="590" valign="top">  <p><b>India</b></p><p>Negotiations launched in June 2007. Ten rounds of negotiations held up to October 2010 round.</p>
+  </td>
+</tr>
+
+<tr>
+<td width="590" valign="top">  <p><b>Singapore</b></p><p>Negotiations relaunched at bilateral level in March 2010. Five negotiating rounds held up to 24 January 2011.</p>
+  </td>
+</tr>
+
+<tr>
+<td width="590" valign="top">  <p><b>Malaysia</b></p><p>Negotiations relaunched at bilateral level in October 2010. Six negotiating rounds held up to 17–21 January 2011 round.</p>
+  </td>
+</tr>
+
+<tr>
+<td width="590" valign="top">  <p><b>Canada</b></p><p>Negotiations launched May 2009. Six rounds of negotiations held up to 17–21 January 2011 round.</p>
+  </td>
+</tr>
+
+<tr>
+<td width="590" valign="top">  <b>Stabilisation and association agreements </b>
+  </td>
+</tr>
+
+<tr>
+<td width="590" valign="top">  <p><b>Albania</b></p><p>Stabilisation and Association Agreement concluded April 2009.</p>
+  </td>
+</tr>
+
+<tr>
+<td width="590" valign="top">  <p><b>Montenegro</b></p><p>Stabilisation and Association Agreement concluded May 2010.</p>
+  </td>
+</tr>
+
+<tr>
+<td width="590" valign="top">  <p><b>Serbia</b></p><p>Stabilisation and Association Agreement concluded February 2010.</p>
+  </td>
+</tr>
+
+<tr>
+<td width="590" valign="top">  <p><b>Ukraine</b></p><p>Negotiations launched February 2008. Sixteen rounds of negotiations held up to 4–8 April 2011.</p>
+  </td>
+</tr>
+
+</table>
+<p><b>Source</b>: &nbsp; Composite table compiled by the author drawn from the following sources: European Commission DG Trade, ‘FTA negotiations’, 
+<a href="http://trade.ec.europa.eu/doclib/docs/2006/december/tradoc_118238.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2006/december/tradoc_118238.pdf</a>; EC DG Trade, ‘EC Regional Trade Agreements’, updated 10 September 2010, 
+<a href="http://trade.ec.europa.eu/doclib/docs/2006/december/tradoc_111588.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2006/december/tradoc_111588.pdf</a>; and reports cited in the table.</p><p>At the policy level these EU preferential trade arrangements make extensive use of TRQ and seasonal marketing arrangements in sensitive food and agricultural products (including sugar, bananas and certain other sensitive horticultural products). In some instances these TRQs are also linked to special safeguard measures. Analysis of the types of trade policy tools routinely used by the EU to manage trade in sensitive agricultural areas could prove useful in trade negotiations.</p><p>An additional policy dimension relates to the implications of these agreements for the value of EPA market access. Some ACP observers have questioned the value of signing EPAs to preserve preferential access, the value of which is rapidly being eroded (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/EPAs/EU-concluding-a-range-of-FTA-negotiations" target="_self">EU concluding a range of FTA negotiations</a>’, December 2009). This raises the question of the alternative trade arrangements open to ACP exporters, an issue directly linked to the ongoing review of the EU’s GSP scheme.</p><p><b>2.3 Autonomous preferences and the GSP review</b></p><p>The EU has a three-tiered GSP scheme:</p>
+<ul>
+
+<li>the basic scheme, or ‘Standard GSP’; </li>
+
+<li>the Special Incentive Arrangement for Sustainable Development and Good Governance (GSP+); </li>
+
+<li>EBA: </li>
+
+</ul>
+<p>The EU’s scheme is currently under review – eligibility of countries, the breadth of product coverage and depth of tariff preferences are all being reviewed. The Commission’s GSP communication of May 2011 proposes to reduce the number of beneficiaries from 176 to 85. This is partly a tidying-up exercise, removing all non-LDCs that have equal or better access to the European market under another agreement (such as under EPAs or an FTA), but it also includes removing all states classified by the World Bank as high or upper-middle income (e.g. Gabon, Kenya and Namibia). This could increase pressure on countries that are still negotiating trade agreements with the EU (e.g. Kenya and Namibia). Indeed, press reports quote EC Trade Commissioner Karel De Gucht as stating that the new GSP scheme ‘could and should boost our FTA effort’ (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/Market-access/Commission-unveils-proposal-for-new-GSP" target="_self">Commission unveils proposal for new GSP</a>’, June 2011).</p><p>It is also proposed to withhold the GSP from countries that attempt to restrict their exports of natural resources and to suspend it for agricultural or fisheries products if imports ‘threaten to cause serious disruption’ to the market.</p><p>An EC review of the current GSP regime argued that: GSP has increased LDC exports and welfare; a significant share of the gain accrues to the exporting country; and utilisation rates are typically high. In addition, countries seeking to benefit from the GSP+ scheme attempt to ratify the appropriate conventions. However the EC review notes that the impact of the Standard GSP is much more modest. Only 8% of the exports of countries entitled to the Standard GSP received a preference (compared to 25% under GSP+).</p><p><b>2.4 Rules of origin issues</b></p><p>ACP aspirations to move over to a simple change of tariff subheading as the basis for determining originating status are taking on a new significance as ACP countries seek to invest in moving up agricultural value chain. In the context of a likely increase in climate-related production disruptions, having rules of origin that allow procurement of agricultural raw materials from non-ACP sources is likely to prove invaluable in ensuring maximum utilisation of the invested capital (e.g. Mauritian refined sugar production, or a range of increasingly sophisticated value-added food products, such as flavoured microwave-ready ‘buttered beans’ from Kenya).</p><p>While in some areas the rules of origin applicable to ACP exports have been improved in certain respects, the changes for agricultural products are limited, whether under interim or full EPAs, or under the EC’s new proposals for their GSP scheme. One example of this is that while under the November 2010 GSP rules of origin regulation there was a move over to ‘value-added’ as the normal criterion for establishing whether an exporter has undertaken 'sufficient processing', this does not apply to agricultural products (in HS chapters 1–24).</p><p>The normal requirement for processed food remains under both regimes that all ingredients must be ‘wholly originating’. This prevents an ACP state that has a surplus of one ingredient (such as fruit or sugar) from importing the other ingredients in order to develop value-added food product exports. It also places limitations on the use of non-wholly-originating inputs in value-added processing facilities where adverse weather events may have limited supplies of domestic raw materials. This could create barriers to investment in value-added processing in ACP countries that are subject to periodic production disruption. The introduction of more onerous administrative requirements for cumulation (where two or more ACP states share the production process) under both regimes would appear to compound this problem: it is not clear whether ACP states without an EPA will be allowed to cumulate under the still to be agreed EPA rules of origin, as they could under Cotonou. For example, would Mauritius, which is part of the ESA EPA configuration, be able to cumulate with Mozambique, which is part of the SADC EPA configuration). This could potentially impact on investment flows (e.g. Mauritian investment in the Mozambican sugar sector).</p><p>For Pacific ACP countries, the introduction of global sourcing provisions in the fisheries sector is seen as opening up potential for considerable new investment in onshore processing of non originating fish. However no similar provisions apply in the agricultural sector.</p><p>Rules of origin issues are also likely to gain prominence in intra-regional trade arrangements within the ACP (e.g. for milled flour or dairy products produced from imported milk powder), with these likely to require careful negotiation within a commitment to simple, low implementation cost arrangements.</p><p><b>2.5 SPS, food safety and product standards</b></p><p>A major trend in 2010–11 was the growing pressure to more rigorously enforce SPS and food safety standards, and to extend requirements to compliance with EU production standards (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/EU-FTAs/EU-agricultural-trade-policy-criticised-by-European-farmers" target="_self">EU agricultural trade policy criticised by European farmers</a>’, August 2010). Compliance and compliance verification is a particular challenge in the ACP. In some countries, human resource and institutional capacity constraints are faced. In addition, the cost implications of establishing systems of control and verification can be severe in smaller ACP countries. Considerable emphasis therefore is placed on ensuring that EPAs fulfil their potential in the field of SPS and food safety cooperation (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Topics/EPAs/Review-of-the-treatment-of-NTBs-under-I-EPAs-posted" target="_self">Review of the treatment of NTBs under (I)EPAs posted</a>’, November 2010).</p><p>There is considerable debate over what incorporating respect for production standards into trade agreements could mean for third-country suppliers. EU farmers claim that failure to respect EU production standards gives third-country suppliers a competitive advantage on the EU market. This however is rejected by the British Retail Consortium (BRC), one of the largest private certification alliances. BRC claims that retailers sourcing products from outside the EU apply similar standards to those applied for domestic sourcing. The situation in fact varies greatly from sector to sector, although particular problems are faced in the livestock sector as regards compliance with animal welfare standards (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/CAP-reform/Impact-of-EU-standards-on-competition-and-world-trade" target="_self">Impact of EU standards on competition and world trade</a>’, June 2011). It is this dimension that is leading to calls for the inclusion of production standard requirements in trade agreements.</p><a name="eztoc496790_3" id="eztoc496790_3"></a><h2><b>3. Implications for the ACP</b></h2><p><b>3.1 Getting to grips with SPS and food safety issues</b></p><p>In an era of duty-free, quota-free access for most (but not all) ACP exporters, getting to grips with SPS and food safety issues is now a critical challenge. This concern led to calls from ACP experts in May 2010 for the inclusion of a comprehensive development dimension in the EU’s food safety/SPS policy, with the aim of:</p>
+<ul>
+
+<li>ensuring that EU food safety/SPS regulations are designed and implemented in ways which, while meeting EU standards, minimise the additional costs placed on ACP suppliers and enforcement structures;</li>
+
+<li>improving information flows on planned measures so that these can be accommodated within routine investment operations of ACP producers and exporters;</li>
+
+<li>providing a framework for the deployment of required development assistance in support of investments in complying and verifying compliance with EU food safety and SPS standards.</li>
+
+</ul>
+<p>Establishing close cooperation with the ACP on these issues could offer a means of maintaining some level of ‘preferential treatment’ for ACP suppliers.</p><p><b>3.2 Responding to the increased competitive challenge</b></p><p>ACP responses to the increased competitive threat arising from new EU trade agreements can be divided into three categories:</p>
+<ul>
+
+<li>increasing efficiency and productivity to meet the price challenge;</li>
+
+<li>shifting the product focus to value-added or quality-differentiated exports;</li>
+
+<li>shifting the market focus away from the EU to serve other markets (e.g. serving national and regional markets).</li>
+
+</ul>
+<p>Often dynamic responses consist of a combination of each of these elements. However not all ACP food and agricultural exporters are equally well placed to respond. This varies from region to region, country to country and sector to sector.</p><p>Increasingly the smaller island ACP economies are looking to shift from exporting bulk commodities to exporting value-added, quality-differentiated food and agricultural products (particularly in the Caribbean but also in the Pacific). By increasing the value-to-weight ratio, some of the transport constraints on competitiveness are overcome. Moving into more processed product exports can also help overcome some SPS-related challenges (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Resources/Other/Key-topics/Market-access-and-market-developments/News/Success-factors-for-building-small-scale-initiatives-in-the-Pacific" target="_self">Success factors for building small-scale initiatives in the Pacific</a>’, November 2010).</p><p>In some sectors this process is entirely private-sector led (e.g. quality-differentiated meat production in Namibia or organic banana production in the Dominican Republic), while in other sectors it is private sector led, but public sector supported (e.g. quality-differentiated rum production in the Caribbean and refined sugar production in Mauritius).</p><p>What is clear is that the adjustment process is made easier where public sector-financed assistance facilities are available. This suggests that if ACP food and agricultural exporters are to adjust to the changing situation on EU markets by moving up the value chain, then consideration needs to be given the establishment of ‘pump priming’ assistance programmes for the necessary institutional and organisational development adjustments and production and marketing adjustment. This constitutes an important element of any ACP–EU ‘aid for trade’ agenda.</p><p>In addition, some revision of the rule of origin to allow greater use of non-wholly-originating raw materials may be essential to attaining economies of scale in investments in value-added processing.</p><p>A major challenge facing ACP exporters is to identify and get ahead of market trends, and then constantly reinvesting and innovating to stay on top of market developments.</p><p><b>&nbsp;</b></p><p><b>3.3 Enhancing capacity to respond to the impact of new third-country agreements</b></p><p>Enhancing the capacity of ACP government and private sector associations to understand the specific impacts of new EU trade agreements on the market position of their exports would appear to be a priority.</p><p>While many ACP countries and private sector associations are fully aware of the impact of new EU trade agreements with third countries, there is a need to analyse in detail the impact of these new agreements on current and planned exports to EU markets.</p><p>EU trade agreements are published in the Official Journal of the European Union (which is available online), while International Trade Centre data bases, such as Trade Map (which shows who is exporting what to whom) and Market Access Map (which shows the tariff and non-tariff barriers that they face) can be used to compare the provisions of each new agreement with what it replaces, in order to identify areas where competition will increase as a result of the tariff concessions granted. Each exporting sector in each country can then compare this to their current and planned exports to the EU, in order to identify whether any enhanced competitive threat arises.</p><p>Such analysis could facilitate adjustment processes, by allowing a clear targeting of adjustment support measures on those areas most vulnerable.</p><p>In the case of the unilateral GSP, the only ‘negotiations’ are within the EU, and so it is possible to identify the potential changes before they are finalised (by monitoring the Commission’s proposals and the Parliament’s responses, all of which are available online).</p><p><b>3.4 Learning lessons in managing trade in sensitive products</b></p><p>Under a range of EU preferential trade agreements, extensive use is being made of tariff-rate quotas, import licensing arrangements and even special sector-specific safeguard measures, to manage trade in sensitive food and agricultural products. This potentially holds lessons for ACP countries in elaborating appropriate mechanisms for dealing with trade in sensitive food and agricultural products. In regions with diverse production structures, and hence diverse ‘sensitivities’, this could facilitate the attainment of a regional consensus on more extensive tariff liberalisation commitments under ongoing EPA negotiations.</p><p><b>&nbsp;</b></p><a name="eztoc496790_3_1" id="eztoc496790_3_1"></a><h3><b>Main sources</b></h3><p><b>EU third-country agreements</b></p><p>1. EC, speech by Trade Commissioner Karel De Gucht on the new trade deal with Latin America, EC, 17 May 2010</p><p>
+<a href="http://trade.ec.europa.eu/doclib/docs/2010/may/tradoc_146137.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2010/may/tradoc_146137.pdf</a></p><p>2. ICTSD, ‘Implementation of EU FTAs with Colombia, Peru could progress unevenly’ <i>Bridges Weekly Trade News Digest</i>, Volume 14, Number 10, 17 March 2010</p><p>
+<a href="http://ictsd.org/i/news/bridgesweekly/72504/" target="_self">http://ictsd.org/i/news/bridgesweekly/72504/</a></p><p>3. Copa-Cogeca, ‘Copa-Cogeca publishes new study revealing trade deal between EU-Mercosur would cause total collapse of EU beef sector’, 4 March 2011</p><p>
+<a href="http://www.copa-cogeca.be/Main.aspx?page=Archive&amp;lang=en" target="_self">http://www.copa-cogeca.be/Main.aspx?page=Archive&amp;lang=en</a></p><p>4. EC DG Trade, ‘EU-South Korea free-trade agreement: a quick reading guide’, October 2010</p><p>
+<a href="http://trade.ec.europa.eu/doclib/docs/2009/october/tradoc_145203.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2009/october/tradoc_145203.pdf</a></p><p>5. EC, ‘Adoption of a draft agreement between the EU and Morocco in the agri-food and fisheries sector’, press release, IP/10/1138, 16 September 2010</p><p>
+<a href="http://europa.eu/rapid/pressReleasesAction.do?reference=IP/10/1138&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en" target="_self">http://europa.eu/rapid/pressReleasesAction.do?reference=IP/10/1138&amp;f...</a></p><p>6.&nbsp;<i>Official Journal of the European Union</i>, ‘Commission regulation No. 449/2010 of 25 May 2010 amending Council Regulation (EC) No. 747/2001 as regards tariff quotas of the Union for certain agricultural and processed agricultural products originating in Egypt’, L127, 26 May 2010</p><p>
+<a href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:127:0001:0007:EN:PDF" target="_self">http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:127:0001...</a></p><p>7.<i>&nbsp;FreshPlaza.com</i>,<i>&nbsp;</i>‘Mercosur costs farmers in the EU 3 to 5 billion euros per year’, press article, 27 May 2010</p><p>
+<a href="http://www.freshplaza.com/news_detail.asp?id=63897" target="_self">http://www.freshplaza.com/news_detail.asp?id=63897</a></p><p><b>Trade and development</b></p><p>8. Oxfam, ‘Learning from experience: Sustainable economic development in the Pacific’, <i>Oxfam Discussion Paper</i>, July 2010</p><p>
+<a href="http://www.acp-eu-trade.org/library/files/COATESetal._EN_010710_Oxfam_Learningfromexp..pdf" target="_self">http://www.acp-eu-trade.org/library/files/COATESetal._EN_010710_Oxfam_Le...</a></p><p>9. Centre for Global Development, ‘Making trade preference work for the poorest countries’, <i>CGD Brief</i>,<i>&nbsp;</i>April 2010</p><p>
+<a href="http://www.cgdev.org/content/publications/detail/1424016/" target="_self">http://www.cgdev.org/content/publications/detail/1424016/</a></p><p><b>Non-tariff barriers</b></p><p>10. ICTSD, ‘Sanitary, phytosanitary and technical barriers to trade in the Economic Partnership Agreements between the EU and the ACP countries’, D. Prévost, <i>ICTSD Programme on EPAs and Regionalism, </i>Issue Paper no. 6, August 2010</p><p>
+<a href="http://ictsd.org/downloads/2010/09/prevost_web_final.pdf" target="_self">http://ictsd.org/downloads/2010/09/prevost_web_final.pdf</a></p><p><b>The EU GSP system</b></p><p>11. EC, ‘Proposal for a regulation of the European Parliament and of the Council applying a scheme of generalised tariff preferences’, COM(2011) 241/5, 2011/0117 (COD), 10 May 2011</p><p>
+<a href="http://www.acp-eu-trade.org/library/files/EC_EN_100511_EC_Proposal%20on%20the%20GSP%20.pdf" target="_self">http://www.acp-eu-trade.org/library/files/EC_EN_100511_EC_Proposal%20on%...</a></p><p>12.<i>&nbsp;Journal of International Economic Law</i>, ‘Binding tariff preferences for developing countries under Article II GATT’, by L. Bartels and C. Häberli, on the possible binding of GSP preferences at the WTO, Vol. 13, No. 4, 2010</p><p>
+<a href="http://jiel.oxfordjournals.org/content/13/4/969.full.pdf+html" target="_self">http://jiel.oxfordjournals.org/content/13/4/969.full.pdf+html</a></p><p><b>Useful websites</b></p><p>International Trade Centre, access point for TradeMap and MacMap tools</p><p>
+<a href="http://mas-admintools.intracen.org/accounts/Registration.aspx" target="_self">http://mas-admintools.intracen.org/accounts/Registration.aspx</a>.</p><p>EC DG Trade, ‘Overview of FTA and other trade negotiations’, dated according to most recent update</p><p>&nbsp;
+<a href="http://trade.ec.europa.eu/doclib/docs/2006/december/tradoc_118238.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2006/december/tradoc_118238.pdf</a></p><p>EC DG Trade, ‘Overview of regional trade agreements’, dated according to most recent update</p><p>
+<a href="http://trade.ec.europa.eu/doclib/docs/2006/december/tradoc_111588.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2006/december/tradoc_111588.pdf</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/Other/Executive-Brief-Update-2012-Caribbean-Agricultural-trade-policy-debates-and-developments">Executive Brief Update 2012: Caribbean: Agricultural trade policy debates and developments</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Regions/ACP/Pacific/Executive-Brief-Update-2012-Pacific-Agricultural-trade-policy-debates-and-developments">Executive Brief Update 2012: Pacific: Agricultural trade policy debates and developments</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Market-access/Executive-Brief-Update-2012-Market-access">Executive Brief Update 2012: Market access</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Market-access/Executive-Brief-Update-2011-Market-access-for-ACP-countries">Executive Brief Update 2011: Market access for ACP countries</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":135,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

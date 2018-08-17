@@ -1,0 +1,218 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Uganda banana processing initiative to seek international markets / Bananas / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																							
+								<a href="/en/layout/set/print/Publications/(regions)/7771/(search)/simple">Central Africa</a>
+																																																																																				,
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																																																																											
+																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7796/(search)/simple">Bananas</a>
+							
+																																																																																																																																																																																																																																																																																																																																							
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Uganda banana processing initiative to seek international markets</h1>
+
+			
+			<h4>
+												02 July 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>In April 2012, press reports in Uganda indicated that under the Presidential Initiative for Banana Industrial Development (PIBID) <i>matooke</i>, Uganda’s favourite variety of banana, has been successfully processed into a gluten-free flour suitable for export. The aim is for the branded ‘Tooke flour’ to become a major export product that can be used in recipes in place of wholewheat flour or wheat. The processing of matooke, which involves drying in a special steam dryer and then grinding into flour using a mill, would reduce wastage due to lack of storage capacity and could provide a major boost to cash earnings for smallholder growers.&nbsp;</p><p>Production is still at a small-scale, experimental stage, but the product has been taken to food shows across the world, and orders have already been received from the United States and Japan. The gluten-free characteristics of matooke flour are particularly attractive for use in products such as soups, sauces and a bakery product for gluten-free confectionery. In terms of direct consumption overseas, the bland nature of matooke when traditionally prepared by steaming is seen as an obstacle to consumer acceptance, hence the focus of its use as a food product ingredient.&nbsp;</p><p>Market opportunities are also seen to exist in East Africa, since the high fibre and starch content of the flour could help to address nutritional deficiencies in children. Studies have shown that ‘children fed porridge made with the flour in schools gained more weight than those given maize porridge.’</p><p>A large-scale processing unit is currently under construction and due to be completed by October 2012.&nbsp;</p><p>For large-scale processing to be successful, adequate supplies of the matooke banana will need to be assured, at a time when countries in the region are concerned about the spread of banana diseases. In Ethiopia, Tanzania, the DRC and Burundi, production is being threatened by banana wilt, and Uganda has set up a special task force to develop a plan to fight the disease. Researchers have called for urgent joint action to stem further damage from the spread of the disease across the Great Lakes and wider eastern African region, involving increased surveillance and a mapping of banana and plantain diseases across the region as the basis for developing a systematic approach to containing the spread of the disease.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Globalpost.com</i>, ‘Uganda goes bananas’, 22 April 2012</p><p>
+<a href="http://www.globalpost.com/dispatch/news/regions/africa/120419/uganda-goes-bananas" target="_blank">http://www.globalpost.com/dispatch/news/regions/africa/120419/uganda-goe...</a></p><p><i>Tanzania Daily News</i>, ‘Disease is a menace to banana growers in Bukoba’, 13 April 2012</p><p>
+<a href="http://www.dailynews.co.tz/index.php/features/popular-features/3992-disease-is-a-menace-to-banana-growers-in-bukoba" target="_blank">http://www.dailynews.co.tz/index.php/features/popular-features/3992-dise...</a></p><p>IRIN, ‘“Banana Aids” threatens social fabric on Idjwi Island’, 21 May 2012</p><p>
+<a href="http://allafrica.com/stories/201205211483.html" target="_blank">http://allafrica.com/stories/201205211483.html</a>&nbsp;</p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>While Uganda is the second largest banana producer in the world, containing the spread of banana diseases will be an important factor in developing the commercial processing of matooke into flour, since any threats to supplies could undermine investment in value-added processing.&nbsp;</p><p>The development of value-added processing can be seen as critical to the development of intra-regional trade in banana-based products. Current efforts to control the spread of banana diseases, involving restrictions on cross-border movement of bananas, inhibit the development of intra-regional supply chains, and consolidating disease-free zones and establishing effective quarantine arrangements are likely to prove a long-term and mammoth task. The Australian government has considerable experience in maintaining effective banana quarantine arrangements, and is already providing assistance to the Ugandan government in this area, which could facilitate progress in meeting this important challenge.</p><p>In terms of food security, critical questions remain over the nature of the markets to be served. Is processed banana flour to be used primarily to consolidate food security among vulnerable groups, or to serve the growing overseas markets for specialised food ingredients that are e.g. gluten-free or non-cereal-based? Or will it be possible to develop both markets by simply expanding the commercialised used of available production?</p><p>If investment in value-added processing is to be promoted, with a view to maximising producer returns, careful market analysis may well be required, focusing initially on regional market opportunities in view of the freight costs associated with serving overseas markets. For example, the demand for specialised food formulations for relief operations in the drought-prone Horn of Africa could provide a good business opportunity for trade in matooke flour. This could build on the local procurement initiatives of major food relief agencies such as the World Food Programme, with its Purchase for Progress (P4P) initiative to encourage purchase of relief supplies from smallholder farmers.</p><p>In addition, in growing urban centres high-income consumers are emerging who could well provide a market for matooke flour-based products, if sound product development and marketing strategies can be put in place.</p><p>Finally, for the matooke flour project to succeed, smallholder banana producers need to be organised, in order to increase their voice in the supply chain and ensure a fair share of income derived from the production and sale of value-added matooke-based food products. This applies whether regional or international markets are being served.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Will-Ugandan-farmers-get-to-plant-GM-banana">Will Ugandan farmers get to plant GM banana?</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Bananas/Central-Africa-EU-EPA-negotiations-relaunched-as-anxieties-over-future-of-Cameroon-s-banana-exports-increase">Central Africa–EU EPA negotiations relaunched as anxieties over future of Cameroon’s banana exports increase </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Bananas/Free-trade-agreements-boost-Latin-and-Central-American-banana-exports-to-EU-but-with-variable-performance">Free trade agreements boost Latin and Central American banana exports to EU but with variable performance</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Bananas/ACP-Ministers-call-for-accelerated-and-expanded-banana-assistance-programmes">ACP Ministers call for accelerated and expanded banana assistance programmes </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Report-highlights-expansion-of-organic-production-for-local-markets-in-the-EAC">Report highlights expansion of organic production for local markets in the EAC </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":136,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

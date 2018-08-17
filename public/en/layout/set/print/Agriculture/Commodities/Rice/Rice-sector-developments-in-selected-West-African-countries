@@ -1,0 +1,455 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Rice sector developments in selected West African countries / Rice / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																						
+								<a href="/en/layout/set/print/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																				
+																																																																																																																																																																																																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7805/(search)/simple">Rice</a>
+							
+																																																																																																																																	
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Rice sector developments in selected West African countries</h1>
+
+			
+			<h4>
+												22 May 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The US Department of Agriculture (USDA) has posted a review of rice production trends in 11 West African countries (excluding Nigeria), with a focus on Burkina Faso, Côte d’Ivoire, Mali and Senegal. In marketing year (MY) 2013/14, USDA estimates that rice production will increase by 11% compared to 2012/13, which was itself up 20% on 2011/12. Between 2012 and 2015, overall rice production in the selected countries is projected to increase by 40%, in a context of a 20% rise in consumption. This is projected to lead to an 18.5% decline in imports between 2012 and 2015, according to USDA estimates.</p><p>The main countries where rice production is projected to grow between 2012 and 2015 are: Côte d’Ivoire (+154%); Burkina Faso (+40%); Chad (+27%); Senegal (+26.8%); Guinea Bissau (+23.8%); and Mali (+19.5%).</p><p>The strong growth in rice production in Côte d’Ivoire will make it the biggest rice producer of the countries reviewed by 2015. This follows the implementation of a revised National Rice Strategy, which seeks to:</p>
+<ul>
+
+<li>encourage farmers to use improved seeds and better equipment; </li>
+
+<li>promote processing units close to production areas; </li>
+
+<li>promote more private investment in the rice sector. </li>
+
+</ul>
+<p>The aim is to attain production of 2 million tonnes of milled rice by 2020. USDA considers that the government’s goal of rice self-sufficiency is attainable, and estimates that the expanded production will lead to a significant decline in Ivorian rice imports (–29% between 2012 and 2014, and –43% by 2015), despite an estimated 50% increase in consumption between 2012 and 2015.</p><p><b>Rice production, imports and consumption in selected West African countries 2012-2015 (’000 tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="77" valign="top">  &nbsp;
+  </td><td colspan="4" width="180" valign="top">  <b>Production</b>
+  </td><td colspan="4" width="180" valign="top">  <b>Imports</b>
+  </td><td colspan="4" width="180" valign="top">  <b>Consumption</b>
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  &nbsp;
+  </td><td width="45" valign="top">  <b>2012</b>
+  </td><td width="45" valign="top">  <b>2013</b>
+  </td><td width="45" valign="top">  <b>2014</b>
+  </td><td width="45" valign="top">  <b>2015</b>
+  </td><td width="45" valign="top">  <b>2012</b>
+  </td><td width="45" valign="top">  <b>2013</b>
+  </td><td width="45" valign="top">  <b>2014</b>
+  </td><td width="45" valign="top">  <b>2015</b>
+  </td><td width="45" valign="top">  <b>2012</b>
+  </td><td width="45" valign="top">  <b>2013</b>
+  </td><td width="45" valign="top">  <b>2014</b>
+  </td><td width="45" valign="top">  <b>2015</b>
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  Burkina Faso
+  </td><td width="45" valign="top">  157
+  </td><td width="45" valign="top">  210
+  </td><td width="45" valign="top">  220
+  </td><td width="45" valign="top">  220
+  </td><td width="45" valign="top">  390
+  </td><td width="45" valign="top">  400
+  </td><td width="45" valign="top">  280
+  </td><td width="45" valign="top">  300
+  </td><td width="45" valign="top">  420
+  </td><td width="45" valign="top">  500
+  </td><td width="45" valign="top">  520
+  </td><td width="45" valign="top">  520
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  Chad
+  </td><td width="45" valign="top">  118
+  </td><td width="45" valign="top">  116
+  </td><td width="45" valign="top">  150
+  </td><td width="45" valign="top">  150
+  </td><td width="45" valign="top">  30
+  </td><td width="45" valign="top">  45
+  </td><td width="45" valign="top">  45
+  </td><td width="45" valign="top">  50
+  </td><td width="45" valign="top">  123
+  </td><td width="45" valign="top">  130
+  </td><td width="45" valign="top">  145
+  </td><td width="45" valign="top">  170
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  Côte d’Ivoire
+  </td><td width="45" valign="top">  550
+  </td><td width="45" valign="top">  984
+  </td><td width="45" valign="top">  1,200
+  </td><td width="45" valign="top">  1,400
+  </td><td width="45" valign="top">  1,400
+  </td><td width="45" valign="top">  1,150
+  </td><td width="45" valign="top">  1,000
+  </td><td width="45" valign="top">  800
+  </td><td width="45" valign="top">  1,400
+  </td><td width="45" valign="top">  1,900
+  </td><td width="45" valign="top">  2,000
+  </td><td width="45" valign="top">  2,100
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  Gambia
+  </td><td width="45" valign="top">  11
+  </td><td width="45" valign="top">  30
+  </td><td width="45" valign="top">  35
+  </td><td width="45" valign="top">  35
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  110
+  </td><td width="45" valign="top">  120
+  </td><td width="45" valign="top">  130
+  </td><td width="45" valign="top">  135
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  Guinea-Bissau
+  </td><td width="45" valign="top">  105
+  </td><td width="45" valign="top">  120
+  </td><td width="45" valign="top">  130
+  </td><td width="45" valign="top">  130
+  </td><td width="45" valign="top">  150
+  </td><td width="45" valign="top">  130
+  </td><td width="45" valign="top">  130
+  </td><td width="45" valign="top">  130
+  </td><td width="45" valign="top">  220
+  </td><td width="45" valign="top">  230
+  </td><td width="45" valign="top">  260
+  </td><td width="45" valign="top">  280
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  Guinea
+  </td><td width="45" valign="top">  1,098
+  </td><td width="45" valign="top">  1,110
+  </td><td width="45" valign="top">  1,250
+  </td><td width="45" valign="top">  1,200
+  </td><td width="45" valign="top">  340
+  </td><td width="45" valign="top">  360
+  </td><td width="45" valign="top">  340
+  </td><td width="45" valign="top">  350
+  </td><td width="45" valign="top">  1,360
+  </td><td width="45" valign="top">  1,390
+  </td><td width="45" valign="top">  1,480
+  </td><td width="45" valign="top">  1,500
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  Mali
+  </td><td width="45" valign="top">  1,130
+  </td><td width="45" valign="top">  1,250
+  </td><td width="45" valign="top">  1300
+  </td><td width="45" valign="top">  1,350
+  </td><td width="45" valign="top">  180
+  </td><td width="45" valign="top">  140
+  </td><td width="45" valign="top">  150
+  </td><td width="45" valign="top">  150
+  </td><td width="45" valign="top">  1,400
+  </td><td width="45" valign="top">  1,450
+  </td><td width="45" valign="top">  1,480
+  </td><td width="45" valign="top">  1,520
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  Mauritania
+  </td><td width="45" valign="top">  85
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  110
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  170
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  170
+  </td><td width="45" valign="top">  180
+  </td><td width="45" valign="top">  190
+  </td><td width="45" valign="top">  200
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  Niger
+  </td><td width="45" valign="top">  8
+  </td><td width="45" valign="top">  3
+  </td><td width="45" valign="top">  25
+  </td><td width="45" valign="top">  25
+  </td><td width="45" valign="top">  280
+  </td><td width="45" valign="top">  280
+  </td><td width="45" valign="top">  300
+  </td><td width="45" valign="top">  300
+  </td><td width="45" valign="top">  283
+  </td><td width="45" valign="top">  278
+  </td><td width="45" valign="top">  300
+  </td><td width="45" valign="top">  325
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  Senegal
+  </td><td width="45" valign="top">  276
+  </td><td width="45" valign="top">  320
+  </td><td width="45" valign="top">  290
+  </td><td width="45" valign="top">  350
+  </td><td width="45" valign="top">  1,200
+  </td><td width="45" valign="top">  1,000
+  </td><td width="45" valign="top">  1,100
+  </td><td width="45" valign="top">  1,100
+  </td><td width="45" valign="top">  1,325
+  </td><td width="45" valign="top">  1,350
+  </td><td width="45" valign="top">  1,400
+  </td><td width="45" valign="top">  1,450
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  Togo
+  </td><td width="45" valign="top">  73
+  </td><td width="45" valign="top">  75
+  </td><td width="45" valign="top">  80
+  </td><td width="45" valign="top">  90
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  168
+  </td><td width="45" valign="top">  170
+  </td><td width="45" valign="top">  175
+  </td><td width="45" valign="top">  190
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  <b>Total</b>
+  </td><td width="45" valign="top">  <b>3,611</b>
+  </td><td width="45" valign="top">  <b>4,318</b>
+  </td><td width="45" valign="top">  <b>4,790</b>
+  </td><td width="45" valign="top">  <b>5,050</b>
+  </td><td width="45" valign="top">  <b>4,270</b>
+  </td><td width="45" valign="top">  <b>3,805</b>
+  </td><td width="45" valign="top">  <b>3,645</b>
+  </td><td width="45" valign="top">  <b>3,480</b>
+  </td><td width="45" valign="top">  <b>6,979</b>
+  </td><td width="45" valign="top">  <b>7,698</b>
+  </td><td width="45" valign="top">  <b>8,080</b>
+  </td><td width="45" valign="top">  <b>8,390</b>
+  </td>
+</tr>
+
+</table>
+<p>Source: CILSS data and FAS Dakar estimates, cited in USDA, ‘Senegal/West Africa’, 14 March 2014, Table 1 (see below)</p><p>In contrast, production in Senegal is projected to fall by 9% in 2013/14 as a result of poor weather conditions. It is expected to resume growth as government support programmes are implemented. However, the analysis notes that there are problems regarding the acceptability of local rice in Senegal’s urban markets, and that efforts need to be made to improve rice processing and product quality.</p><p>USDA notes that while the rice market is generally liberalised in the countries reviewed, “respective governments have the mandate to regulate the market.” The government of Côte d’Ivoire, for example, retains the right to waive import duties when global rice prices rise, while in Burkina Faso the government “plays a strategic role in the distribution and promotion of rice”, through a national company that buys paddy rice and manages rice stocks.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>USDA, ‘Senegal: Grain and feed annual/2014 West African rice annual’, review of rice production in selected West African countries, 14 March 2014</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Grain%20and%20Feed%20Annual_Dakar_Senegal_3-14-2014.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Grain%20and%20Feed...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The success of government policy in stimulating rice production in Côte d’Ivoire, alongside the success being achieved by a number of West African rice producers, could potentially hold some important policy lessons for Nigeria as it tentatively begins to review its current rice trade policy (see <i>Agritrade</i> article ‘Uncertain movement on Nigeria’s rice trade policy’, forthcoming 2014).</p><p>It is noteworthy that Côte d’Ivoire's revised rice strategy (2012–2020) hinges primarily on reinforcing local production and less on adopting protectionist trade measures. In this context, it should be noted that Côte d’Ivoire’s focus is on producing the quality of rice demanded by consumers at competitive prices, rather than on rice self-sufficiency per se. Côte d'Ivoire’s rice policy focuses on enhancing producers’ access to improved seeds, irrigation, agricultural inputs and mechanisation, and on improving the access of producers to urban markets by establishing a regulated price mechanisms that secures producers’ incomes.</p><p>This has seen Côte d'Ivoire’s rice sector attract not only domestic investment, but also significant foreign investment. For example, in January 2013, Louis Dreyfus Commodities signed an agreement with the government to invest US$60 million in rice production, while other companies such as Olam and Mimran have invested in serving not only national markets, but also the growing regional markets.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Rice-value-chain-Ghana-CRIG-develops-a-new-high-yielding-and-drought-resistant-rice-variety">Rice value chain/Ghana – CRIG develops a new high yielding and drought resistant rice variety</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Rice-value-chain-Ghana-Ghana-meets-56-percent-demand-in-local-rice-production">Rice value chain/Ghana - Ghana meets 56 percent demand in local rice production</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Rice-value-chain-Nigeria-Nigeria-plans-to-review-rice-imports-policy-to-enhance-production">Rice value chain/Nigeria – Nigeria plans to review rice imports policy to enhance production</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Other/Rice-value-chain-Nigeria-Rice-production-increases-by-140-percent">Rice value chain/Nigeria - Rice production increases by 140 percent</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Other/Rice-value-chain-West-Africa-South-Korea-FAO-to-develop-rice-value-chain-in-West-Africa">Rice value chain/ West Africa – South Korea &amp; FAO to develop rice value chain in West Africa</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":158,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

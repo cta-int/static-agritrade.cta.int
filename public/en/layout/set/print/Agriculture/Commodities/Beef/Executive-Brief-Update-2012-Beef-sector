@@ -1,0 +1,617 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2012: Beef sector / Beef / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																															
+		
+		<div class='contentrealtionlist'>
+										
+																																																																												
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7797/(search)/simple">Beef</a>
+							
+																																																																																																																																																																																																																																																																																																																	
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2012: Beef sector</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/31035/735712/file/4127f7d1daeb3e0a4cf3aeed551d3016.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+									</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>About this update</b></p><p>This brief was updated in June 2012 to reflect developments since July 2011.</p><p>The 2011 publication was based on a fuller briefing published in June 2008, and is available on request from agritrade-mail@cta.int</p><p>Other publications in this series and additional resources on ACP—EU agriculture and fisheries trade issues can be found online at http://agritrade.cta.int/</p>
+
+		</div>
+		
+		
+					<a name="eztoc735701_0_1" id="eztoc735701_0_1"></a><h3>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Background and key issues</h3><p>By the beginning of 2012, only one of the original six ACP beneficiary countries of the beef protocol – Namibia – was still exporting beef to the EU, despite the granting of full duty-free, quota-free access to all least-developed countries (LDCs) and countries that had initialled interim Economic Partnership Agreements (EPAs). This was in part a result of animal disease outbreaks (which also affected regional trade flows) but also because CAP reform had reduced the value of beef sector trade preferences, while stricter EU sanitary and phytosanitary (SPS) and food safety controls increased production costs. In 2010 and 2011, rising global beef prices (+43% between January 2010 and January 2012) further reduced the relative attractiveness of the EU market.</p><p>A key issue for ACP beef exporters to the EU is the EU’s current expansion of duty-free access for high-quality beef exports from qualifying non-ACP countries, increasing competition on the markets that Namibian exporters are seeking to serve.</p><p>For most ACP countries, national and regional beef markets are the key to future development.</p><p><b>In West Africa</b>, efforts continue to facilitate intra-regional trade in cattle and beef from inland production areas to coastal markets. Disruption of the EU exports to Russia could intensify competition on West and Central African markets and on the Middle Eastern and Gulf markets for which ACP beef exporters are developing export products. This needs to be seen in the light of the underlying trend towards a 150% increase in the EU beef exports projected for the coming years.</p><p><b>In East Africa</b>, efforts are being made to raise very low levels of intra-regional trade.</p><p><b>In Southern Africa</b>, efforts are underway to develop intra-regional trade, particularly in the face of potential loss of duty-free access to the EU market in 2014 if an EPA has not been signed by then. To provide an alternative to the EU market, Namibia is developing markets for high-quality beef products in South Africa, while Botswana is developing new trade in response to SPS- and animal disease-related problems on exports to the EU.</p><p><b>In the Caribbean</b>, a rethink is under way on the commercial viability of expanded beef production.</p><a name="eztoc735701_0_2" id="eztoc735701_0_2"></a><h3>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Latest developments</h3><p><b>2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Global beef sector developments in 2011–12</b></p><p>The period 2010–2011 has seen a strong rise in global beef prices, although on a fluctuating trend (see Table 1). This rise reflected growing demand in advanced developing economies (including in Brazil and Argentina) – a demand which continues to grow despite higher prices. It also reflected supply constraints (with FAO in 2012 forecasting a fifth consecutive year of decline in cattle numbers), and animal disease outbreaks that have impacted trade. High beef prices are projected to continue throughout 2012, despite the euro zone crisis.</p><p><b>Table 1: Monthly beef prices 2010–12 (US cents/lb)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="49" valign="top">  Jan
+  </td><td width="49" valign="top">  Feb
+  </td><td width="49" valign="top">  Mar
+  </td><td width="49" valign="top">  Apr
+  </td><td width="49" valign="top">  May
+  </td><td width="49" valign="top">  Jun
+  </td><td width="49" valign="top">  Jul
+  </td><td width="49" valign="top">  Aug
+  </td><td width="49" valign="top">  Sep
+  </td><td width="49" valign="top">  Oct
+  </td><td width="49" valign="top">  Nov
+  </td><td width="49" valign="top">  Dec
+  </td>
+</tr>
+
+<tr>
+<td colspan="12" width="590" valign="top">  <b>2010</b>
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  133.88
+  </td><td width="49" valign="top">  141.75
+  </td><td width="49" valign="top">  152.10
+  </td><td width="49" valign="top">  164.75
+  </td><td width="49" valign="top">  157.75
+  </td><td width="49" valign="top">  144.81
+  </td><td width="49" valign="top">  145.39
+  </td><td width="49" valign="top">  152.50
+  </td><td width="49" valign="top">  152.50
+  </td><td width="49" valign="top">  154.75
+  </td><td width="49" valign="top">  156.50
+  </td><td width="49" valign="top">  171.12
+  </td>
+</tr>
+
+<tr>
+<td colspan="12" width="590" valign="top">  <b>2011</b>
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  185.63
+  </td><td width="49" valign="top">  183.68
+  </td><td width="49" valign="top">  187.72
+  </td><td width="49" valign="top">  193.00
+  </td><td width="49" valign="top">  184.11
+  </td><td width="49" valign="top">  178.36
+  </td><td width="49" valign="top">  177.76
+  </td><td width="49" valign="top">  180.85
+  </td><td width="49" valign="top">  175.93
+  </td><td width="49" valign="top">  174.28
+  </td><td width="49" valign="top">  186.68
+  </td><td width="49" valign="top">  190.09
+  </td>
+</tr>
+
+<tr>
+<td colspan="12" width="590" valign="top">  <b>2012</b>
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  190.93
+  </td><td width="49" valign="top">  &nbsp;
+  </td><td width="49" valign="top">  &nbsp;
+  </td><td width="49" valign="top">  &nbsp;
+  </td><td width="49" valign="top">  &nbsp;
+  </td><td width="49" valign="top">  &nbsp;
+  </td><td width="49" valign="top">  &nbsp;
+  </td><td width="49" valign="top">  &nbsp;
+  </td><td width="49" valign="top">  &nbsp;
+  </td><td width="49" valign="top">  &nbsp;
+  </td><td width="49" valign="top">  &nbsp;
+  </td><td width="49" valign="top">  &nbsp;
+  </td>
+</tr>
+
+</table>
+<p>Source: USDA figures for beef, Australian and New Zealand 85% lean fores, cif US import price: 
+<a href="http://www.indexmundi.com/commodities/?commodity=beef&amp;months=60" target="_self">http://www.indexmundi.com/commodities/?commodity=beef&amp;months=60</a></p><p>Overall analysts argue that the era of cheap Brazilian beef is over, with prices likely to ‘remain above historical levels’. In part as a result of currency movements, production costs in Brazil since 2008 have risen ‘above those of Australia in US dollar terms’ (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Beef/High-global-beef-prices-and-the-functioning-of-the-EU-beef-supply-chain" target="_self">High global beef prices and the functioning of the EU beef supply chain</a>’, 6 September 2011). This has reduced the competitive threat in the EU arising from Brazilian beef exports. Overall it seems likely that ‘the world will need to pay higher prices to stimulate global beef supply’.</p><p>These high global beef prices potentially open up opportunities for beef production in ACP countries, for both export and domestic markets.</p><p>While international beef prices are likely to remain strong, input costs globally are rising rapidly, squeezing producer margins. This leaves even the most efficient producers searching for cost savings. However, securing cost savings is made increasingly difficult by the stricter SPS and food safety controls required to serve international beef markets. In the EU this is leading to an increased interest in the development of policy measures to strengthen the functioning of beef supply chains.</p><p><b>2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EU beef sector developments in 2011–12</b></p><p>2.2.1&nbsp;&nbsp;&nbsp; Production, demand and price trends</p><p>Production of beef in the EU continues to be influenced by quantitative restrictions on milk production, given increasing yields per cow. In April 2011 the European beef forecasting meeting put beef production 10% lower than in 2010, with a further decline of 1% expected in 2012.</p><p>With beef consumption declining only 1% despite the scale of the euro zone crisis, in a context of high global beef prices and tight supplies, the underlying EU supply and demand situation supported a strong increase in EU beef prices. December 2011 saw a fourth month of record EU beef prices (€380/100-kg carcass weight), and over 2011 average EU beef prices rose by 9%, but with variations between member states. In the market of greatest interest to ACP beef exporters, the UK, prices rose by 20%. Strong EU beef prices are expected to continue into 2012.</p><p>2.2.2&nbsp;&nbsp;&nbsp; EU beef imports and exports</p><p>These price developments have in part been supported by trade developments, involving an increase in EU beef exports and a decline in EU beef imports, particularly from Brazil. By 2010–11, EU beef import volumes were ‘51 per cent lower than 2006–07 when Brazilian supplies dominated the market’ (<i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Beef/Beef-trade-trends-suggest-EU-farmers-fears-over-Mercosur-deal-may-be-exaggerated" target="_self">Beef trade trends suggest EU farmers’ fears over Mercosur deal may be ex...</a>’, 9 August 2011).</p><p>In 2011 the EU became a net exporter of beef and veal and also of live animals. This was a radical change from the situation prevailing since 2002. In December 2003 the EC was projecting the emergence of a substantial trade deficit in beef by 2010 (-200,000 tonnes), with successive annual projections forecasting ever-higher net beef imports (535,000 tonnes in 2012 according to the December 2005 analysis).</p><p>While initially SPS measures on Brazilian beef processing plants introduced in 2008 were the key factor reversing the projected trend, the subsequent strong increase in global beef demand and prices, coupled with currency movements and supply constraints in major southern hemisphere exporters, accelerated the reversal of the expected trend.</p><p>The European Commission’s report of December 2011, ‘Prospects for agricultural markets and income in the EU 2011-2020’, sharply revised earlier projections, placing export levels around 2.5 times higher than, and imports at half of, the levels projected in December 2010. Currency movements and animal disease outbreaks will however significantly affect the reliability of these projections. For example, the outbreak of the virulent Schmallenberg virus in the EU at the beginning of 2012 led to Russia introducing restrictions on live cattle imports from the EU, halting the expected strong performance of EU live cattle exports (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Beef/Higher-export-and-lower-imports-levels-projected-for-EU-beef-sector" target="_self">Higher export and lower import levels of imports projected for EU beef s...</a>’, 22 January 2012).</p><p>The key differences highlighted in the EC’s projections are set out in Table 2.</p><p><b>Table 2: Evolution of EC projections for developments on the EU beef market</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="606">
+<tr>
+<td colspan="13" width="606" valign="top">  <b>Comparison of the December 2010 and December 2011 EC projections of:</b>
+  </td>
+</tr>
+
+<tr>
+<td colspan="13" width="606" valign="top">  <b>EU beef and veal meat exports (’000 tonnes carcass weight equivalent/cwe)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="61" valign="top">  &nbsp;
+  </td><td width="45" valign="top">  2009
+  </td><td width="45" valign="top">  2010
+  </td><td width="45" valign="top">  2011
+  </td><td width="45" valign="top">  2012
+  </td><td width="45" valign="top">  2013
+  </td><td width="45" valign="top">  2014
+  </td><td width="45" valign="top">  2015
+  </td><td width="45" valign="top">  2016
+  </td><td width="45" valign="top">  2017
+  </td><td width="45" valign="top">  2018
+  </td><td width="45" valign="top">  2019
+  </td><td width="45" valign="top">  2020
+  </td>
+</tr>
+
+<tr>
+<td width="61" valign="top">  Dec 2010
+  </td><td width="45" valign="top">  124
+  </td><td width="45" valign="top">  136
+  </td><td width="45" valign="top">  127
+  </td><td width="45" valign="top">  119
+  </td><td width="45" valign="top">  113
+  </td><td width="45" valign="top">  112
+  </td><td width="45" valign="top">  108
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  95
+  </td><td width="45" valign="top">  90
+  </td><td width="45" valign="top">  84
+  </td><td width="45" valign="top">  78
+  </td>
+</tr>
+
+<tr>
+<td width="61" valign="top">  Dec 2011
+  </td><td width="45" valign="top">  91
+  </td><td width="45" valign="top">  255
+  </td><td width="45" valign="top">  350
+  </td><td width="45" valign="top">  248
+  </td><td width="45" valign="top">  256
+  </td><td width="45" valign="top">  260
+  </td><td width="45" valign="top">  257
+  </td><td width="45" valign="top">  261
+  </td><td width="45" valign="top">  262
+  </td><td width="45" valign="top">  271
+  </td><td width="45" valign="top">  274
+  </td><td width="45" valign="top">  264
+  </td>
+</tr>
+
+<tr>
+<td colspan="13" width="606" valign="top">  <b>EU beef and veal meat imports (’000 tonnes cwe)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="61" valign="top">  &nbsp;
+  </td><td width="45" valign="top">  2009
+  </td><td width="45" valign="top">  2010
+  </td><td width="45" valign="top">  2011
+  </td><td width="45" valign="top">  2012
+  </td><td width="45" valign="top">  2013
+  </td><td width="45" valign="top">  2014
+  </td><td width="45" valign="top">  2015
+  </td><td width="45" valign="top">  2016
+  </td><td width="45" valign="top">  2017
+  </td><td width="45" valign="top">  2018
+  </td><td width="45" valign="top">  2019
+  </td><td width="45" valign="top">  2020
+  </td>
+</tr>
+
+<tr>
+<td width="61" valign="top">  Dec 2010
+  </td><td width="45" valign="top">  428
+  </td><td width="45" valign="top">  438
+  </td><td width="45" valign="top">  473
+  </td><td width="45" valign="top">  507
+  </td><td width="45" valign="top">  545
+  </td><td width="45" valign="top">  560
+  </td><td width="45" valign="top">  558
+  </td><td width="45" valign="top">  574
+  </td><td width="45" valign="top">  592
+  </td><td width="45" valign="top">  602
+  </td><td width="45" valign="top">  614
+  </td><td width="45" valign="top">  619
+  </td>
+</tr>
+
+<tr>
+<td width="61" valign="top">  Dec 2011
+  </td><td width="45" valign="top">  359
+  </td><td width="45" valign="top">  319
+  </td><td width="45" valign="top">  288
+  </td><td width="45" valign="top">  319
+  </td><td width="45" valign="top">  312
+  </td><td width="45" valign="top">  302
+  </td><td width="45" valign="top">  317
+  </td><td width="45" valign="top">  313
+  </td><td width="45" valign="top">  309
+  </td><td width="45" valign="top">  313
+  </td><td width="45" valign="top">  319
+  </td><td width="45" valign="top">  323
+  </td>
+</tr>
+
+<tr>
+<td colspan="13" width="606" valign="top">  <b>EU gross indigenous production (’000 tonnes cwe)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="61" valign="top">  &nbsp;
+  </td><td width="45" valign="top">  2009
+  </td><td width="45" valign="top">  2010
+  </td><td width="45" valign="top">  2011
+  </td><td width="45" valign="top">  2012
+  </td><td width="45" valign="top">  2013
+  </td><td width="45" valign="top">  2014
+  </td><td width="45" valign="top">  2015
+  </td><td width="45" valign="top">  2016
+  </td><td width="45" valign="top">  2017
+  </td><td width="45" valign="top">  2018
+  </td><td width="45" valign="top">  2019
+  </td><td width="45" valign="top">  2020
+  </td>
+</tr>
+
+<tr>
+<td width="61" valign="top">  Dec 2010
+  </td><td width="45" valign="top">  7995
+  </td><td width="45" valign="top">  7956
+  </td><td width="45" valign="top">  7745
+  </td><td width="45" valign="top">  7594
+  </td><td width="45" valign="top">  7659
+  </td><td width="45" valign="top">  7791
+  </td><td width="45" valign="top">  7750
+  </td><td width="45" valign="top">  7647
+  </td><td width="45" valign="top">  7529
+  </td><td width="45" valign="top">  7492
+  </td><td width="45" valign="top">  7445
+  </td><td width="45" valign="top">  7425
+  </td>
+</tr>
+
+<tr>
+<td width="61" valign="top">  Dec 2011
+  </td><td width="45" valign="top">  7987
+  </td><td width="45" valign="top">  8228
+  </td><td width="45" valign="top">  8371
+  </td><td width="45" valign="top">  8201
+  </td><td width="45" valign="top">  8153
+  </td><td width="45" valign="top">  8174
+  </td><td width="45" valign="top">  8145
+  </td><td width="45" valign="top">  8190
+  </td><td width="45" valign="top">  8200
+  </td><td width="45" valign="top">  8179
+  </td><td width="45" valign="top">  8161
+  </td><td width="45" valign="top">  8124
+  </td>
+</tr>
+
+<tr>
+<td colspan="13" width="606" valign="top">  <b>EU beef and veal meat consumption (’000 tonnes cwe)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="61" valign="top">  &nbsp;
+  </td><td width="45" valign="top">  2009
+  </td><td width="45" valign="top">  2010
+  </td><td width="45" valign="top">  2011
+  </td><td width="45" valign="top">  2012
+  </td><td width="45" valign="top">  2013
+  </td><td width="45" valign="top">  2014
+  </td><td width="45" valign="top">  2015
+  </td><td width="45" valign="top">  2016
+  </td><td width="45" valign="top">  2017
+  </td><td width="45" valign="top">  2018
+  </td><td width="45" valign="top">  2019
+  </td><td width="45" valign="top">  2020
+  </td>
+</tr>
+
+<tr>
+<td width="61" valign="top">  Dec 2010
+  </td><td width="45" valign="top">  8240
+  </td><td width="45" valign="top">  8151
+  </td><td width="45" valign="top">  8055
+  </td><td width="45" valign="top">  7957
+  </td><td width="45" valign="top">  7997
+  </td><td width="45" valign="top">  8086
+  </td><td width="45" valign="top">  8060
+  </td><td width="45" valign="top">  8014
+  </td><td width="45" valign="top">  7939
+  </td><td width="45" valign="top">  7925
+  </td><td width="45" valign="top">  7906
+  </td><td width="45" valign="top">  7899
+  </td>
+</tr>
+
+<tr>
+<td width="61" valign="top">  Dec 2011
+  </td><td width="45" valign="top">  8196
+  </td><td width="45" valign="top">  8177
+  </td><td width="45" valign="top">  8157
+  </td><td width="45" valign="top">  8135
+  </td><td width="45" valign="top">  8071
+  </td><td width="45" valign="top">  8102
+  </td><td width="45" valign="top">  8099
+  </td><td width="45" valign="top">  8142
+  </td><td width="45" valign="top">  8153
+  </td><td width="45" valign="top">  8142
+  </td><td width="45" valign="top">  8134
+  </td><td width="45" valign="top">  8115
+  </td>
+</tr>
+
+</table>
+<p>Sources: Data extracted by the author from the following European Commission reports:</p>
+<ul>
+
+<li>EC, ‘Prospects for agricultural markets and income in the EU 2010-2020’, December 2010 
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2010/fullrep_en.pdf" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2010/fullrep_en.pdf</a></li>
+
+<li>EC, ‘Prospects for agricultural markets and income in the EU 2011-2020’, December 2011 
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2011/fullrep_en.pdf" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2011/fullrep_en.pdf</a></li>
+
+</ul>
+<p>This far tighter EU market situation could mean that beef prices in the EU will remain high in the coming 10-year period. However, this needs to be seen against the background of increasingly differentiated EU beef markets, with quality differentiated beef products attracting significant price premiums, despite the scale of the economic downturn in the EU.</p><p>2.2.3&nbsp;&nbsp;&nbsp; Rising costs and the functioning of the EU beef supply chain</p><p>The emerging profitability squeeze on EU beef producers has focused attention on the functioning of the beef supply chain. In early 2011 the UK National Beef Association (NBA) complained about the dominant role played by supermarkets in the beef supply chain, since this meant that ‘prime stock prices cover just 70% of the cost of producing typical slaughter cattle’. In the UK, shortcomings in the functioning of the beef supply chain were seen as hindering price transmission to farmers, unlike elsewhere in the EU and globally. It is unclear to what extent subsequent higher UK price increases (+20% over 2011) helped to alleviate this situation.</p><p>In March 2011 the position of UK beef producers received support from European farmers’ organisation Copa-Cogeca, which called on the EC to ensure that livestock supply chains functioned better, delivering a more equitable distribution of revenues along the food chain, including where necessary making adjustments to EU competition rules.</p><p>This led in June 2011 to the EC establishing a ‘special working group to focus on the needs of the beef sector’. This working group ‘will investigate the need for adapting market instruments to help increase profit margins within the beef sector, but also to control the volatility within profit margins’. A key focus is on the relationship between producers and retailers, particularly regarding the distribution of costs in meeting EU and retailer production standards (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Beef/High-global-beef-prices-and-the-functioning-of-the-EU-beef-supply-chain" target="_self">High global beef prices and the functioning of the EU beef supply chain</a>’, 6 September 2011).</p><p>Imports of beef were seen as compounding supply-chain problems, and the EC’s approach to the Mercosur negotiations was the subject of particularly fierce criticism (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/EU-farmers-release-data-on-concerns-over-EU-Mercosur-negotiations" target="_self">EU farmers release data on concerns over EU-Mercosur negotiations</a>’, 3 April 2011).</p><p>2.2.4<i>&nbsp;&nbsp;&nbsp; </i>The stalling of the Mercosur negotiations</p><p>A November 2011 EC impact assessment of a Mercosur agreement suggested that an agreement ‘may cause a decline in farm income, especially in the beef sector’. EU beef farmers seized on the report to claim that beef prices could drop by almost 5%, and production by 2.8%. Actual effects, however, depend on the scenario used. The worst-case scenario, resulting in a decline in EU beef production of 280,000 tonnes and an economic loss of €4.6 billion, is a highly unrealistic outcome to the negotiations process. The actual impact of any agreement is likely to be much nearer the lower-end impact estimates (production loss of as little as 5,000 tonnes). This seems more likely in view of trends since 2008, with the EU now accounting for only around 5% of total Brazilian exports (compared to 33% for Russia and 42% for Middle Eastern countries) (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Beef/Beef-trade-trends-suggest-EU-farmers-fears-over-Mercosur-deal-may-be-exaggerated" target="_self">Beef trade trends suggest EU farmers’ fears over Mercosur deal may be ex...</a>’, 9 August 2011). This trend in declining Brazilian beef exports to the EU has been driven by rising SPS compliance costs, global demand and price developments, strong domestic Brazilian demand growth and increased competition for land from other crops.</p><p>In addition it should be borne in mind that in June 2011 press reports suggested that the EU–Mercosur FTA negotiations were in trouble. In October 2011, the EU trade commissioner, Karel De Gucht, acknowledged that negotiations were ‘at a delicate stage’, with increasingly vocal opposition to a deal. Rapid progress to the conclusion of the Mercosur–EU negotiations therefore seems unlikely.</p><p>2.2.5&nbsp;&nbsp;&nbsp; Expansion of market access for high-quality beef</p><p>Of far greater significance to evolving ACP beef exports to the EU is the EU’s policy on access to the EU market for high-quality beef. This quota was initially established as part of a deal to resolve the EU–US beef hormone dispute. While initially limited to imports from to the USA, complaints from other major beef exporters saw the coverage of the duty-free quota broadened to include Uruguay, New Zealand, Australia, Argentina and Canada. This has seen an increase in EU imports of high-quality beef cuts within the underlying trend towards reduced EU beef imports (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Beef/Evolving-beef-trade-patterns-and-the-ACP" target="_self">Evolving beef trade patterns and the ACP</a>’, 12 November 2011).</p><p>The process of expanding this quota to 48,200 tonnes is now well advanced, with the enlarged quota scheduled to come into effect in August 2012. This will intensify competition on a very specific EU market component, which exporters from Namibia are increasingly seeking to supply.</p><p>The challenge for ACP exporters of quality-differentiated beef products is to establish and consolidate their marketing relationships serving high-quality components of the EU market before supplies from major beef exporters come on stream. This window of opportunity is rapidly closing. The announcement on 30 September 2011 of EC proposals to modify Council Regulation No. 1528/2007 could further complicate these efforts (see below, and also <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Beef/EU-import-quota-for-high-quality-beef-to-be-increased" target="_self">EU import quota for high-quality beef to be increased</a>’, 19 February 2012).</p><p>2.2.6<i>&nbsp;&nbsp;&nbsp; </i>Proposal for revision of Market Access Regulation No. 1528/2007</p><p>The EC’s proposal of 30 September 2011 calls for powers to be extended to the EC to ‘amend the list of countries that benefit from the preferences (Annex I of Council Regulation (EC) No 1528/2007) by removing those which have still not taken the necessary steps towards ratification of an EPA’. It also delegates power to the EC to reinstate countries on the list where the governments concerned ‘have since taken the necessary steps towards ratification of their respective agreements’. If ongoing EPA negotiations are not concluded before the end of 2013, this measure would severely impact on the two ACP beef exporters which exported to the EU in 2011, given the high level of most-favoured nation (MFN) tariffs applied (CN code 02013000: ‘fresh and chilled bovine meat boneless…’, MFN duty 12.8% + €303.4/100 kg).</p><p>Of more immediate concern however is the impact of uncertainty on the development of commercial relations. Namibian trade sources suggested that within days of the EC announcement, trade missions were fielding enquiries from EU importers about the long-term prospects for the maintenance of duty-free access. This uncertainty could serve to undermine efforts to develop strategic partnerships for the marketing of Namibian high-quality beef products on the EU market.</p><p><i>2.2.7&nbsp;&nbsp;&nbsp; </i>CAP reform and the beef sector</p><p>The system of decoupled direct aid payments to farmers which entered into effect on 1 January 2005 was accompanied by the phasing out of a wide variety of beef-sector-specific premiums. In 2012 four sector-specific coupled payments remained, alongside expanded market management measures (up from €34 million to €45 million). However, overall coupled payments are being reduced: the appropriations in 2012 to the four budget lines that most directly affect EU beef production are being reduced by 68.3%, compared to the budget outturn in 2010.</p><p>In addition, EU beef production continued to be influenced by dairy-sector-specific coupled payments, given the strong linkages between milk production and beef production. Here the reduction in expenditures scheduled for 2012, compared to the outturn in 2010, was much less at 16%.</p><p>It seems likely that the 2013 round of CAP reforms will continue this process of decoupling of aid to EU beef and dairy farmers. According to the US Department of Agriculture (USDA), this could see the EU cattle herd shrink by 4% as ‘subsidies are phased out and input costs rise’. However, in some countries and regions the profitability of beef production would be undermined by the absence of coupled payments. These national and regional sensitivities may therefore influence how reforms are implemented.</p><p>Between 2010 and 2012, expenditures on market management measures increased by 39%. However in future such measures are likely to be integrated into a broader safety- net policy, designed to insulate EU producers from the worst production effects of global price volatility, with payments only being deployed when market conditions so require. These would then come from the proposed €3.5 billion emergency reserve facility (for the period 2014–20) (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/Multi-annual-budget-framework-sets-scene-for-CAP-reform-proposals" target="_self">Multi-annual budget framework sets scene for CAP reform proposals</a>’, 6 September 2011). This measure will be complemented by policy proposals relating to the functioning of the EU beef supply chain, which are likely to emerge from the special beef working group established in June 2011.</p><p>Other areas of policy development likely to impact on the EU beef sector include the ongoing evolution of EU policies regarding SPS, food safety and agricultural product quality standards. An analysis of beef sector developments published on <i>Thebeefsite.com</i> in December 2011 suggested that animal welfare and animal production methods could well gain increasing prominence in the coming years, with potentially important consequences for trade flows.</p><p>2.2.8&nbsp;&nbsp;&nbsp; The new EU animal welfare strategy</p><p>The new EU animal welfare strategy adopted in January 2012 primarily involves stricter enforcement of existing commitments and a certain amount of ‘gap filling’ to ensure that the strategy is comprehensive. The strategy recognises that EU animal welfare requirements impose additional costs on EU producers, but does not believe that these – at 2% of the overall value generated in livestock sectors – threaten the sustainability of EU livestock production.</p><p>Nevertheless, there is growing pressure from farmers’ organisations to ensure that the same standards that apply in the EU are also applied to imports, using trade negotiations for this purpose. In response to these pressures, the main elements of the EU policy vis-à-vis third countries are to continue to include animal welfare in bilateral trade agreements and to expand bilateral and multilateral cooperation on animal welfare issues.</p><p><b>2.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in ACP beef exports to the EU</b></p><p>Animal disease outbreaks, animal disease control policies and SPS policies continue to impact on ACP beef exports to the EU.</p><p>In <b>Botswana</b>, following the February 2011 decision of the government to suspend beef exports to the EU, the chair of the Botswana Cattle Producers’ Association (BCPA), Philip Fischer, claimed ‘Botswana's beef value chain is broken’. He maintained that ‘non-compliance with EU abattoir hygiene and animal traceability standards have lost us the EU market’. According to Mr Fischer, this resulted not only in income losses on export sales to the EU but also indirect income losses on exports to third-country markets, since ‘most non-EU markets require EU certification’.</p><p>Despite government officials attributing the suspension of exports to ‘some misunderstandings’, press analysis indicated a substantial agenda of issues to be addressed if Botswana beef exports to the EU market were to be re-established.</p><p>EU concerns over the effectiveness of traceability controls need to be seen against the background of an outbreak of foot and mouth disease (FMD) in neighbouring South Africa and Zambia, and its subsequent spread to areas of Botswana and northern Namibia. In the case of Botswana, this led in 2011 to a 91.6% decline in beef exports, reducing their exports to a mere 980 tonnes.</p><p>In <b>Namibia</b>, 2011 also saw the volume of the Namibian beef exports to the EU fall by 35.8% by the end of November, despite higher levels of local slaughtering. This in part reflected a pursuit of market diversification initiatives. Nevertheless, efforts continued to enhance the marketing of Namibia’s premium brand ‘Nature’s Reserve’ beef product range. This included discussions with companies in Denmark, Sweden and most significantly, beyond the EU, Norway.</p><p>Table 3 sets out the evolution of EU beef imports from Namibia and Botswana between 2009 and 2011, showing the effects of external factors.</p><p><b>Table 3: EU beef imports from Namibia and Botswana 2009–2011 (in tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="83" valign="top">  &nbsp;
+  </td><td width="101" valign="top">  <b>2009</b>
+  </td><td width="101" valign="top">  <b>2010</b>
+  </td><td width="101" valign="top">  <p><b>2011</b></p><p><b>(Jan–Nov)</b></p>
+  </td><td class=" text-center" width="189" valign="top">  <p><b>Percentage change</b></p><p><b>comparing 2011 to 2010<sup>1</sup> (%)</b></p>
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  Namibia
+  </td><td width="101" valign="top">  12,457
+  </td><td width="101" valign="top">  13,571
+  </td><td width="101" valign="top">  8,432
+  </td><td width="189" valign="top">  -35.8
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  Botswana
+  </td><td width="101" valign="top">  11,452
+  </td><td width="101" valign="top">  15,736
+  </td><td width="101" valign="top">  980
+  </td><td width="189" valign="top">  -93.3
+  </td>
+</tr>
+
+</table>
+<p>Note 1: The percentage change compares the 2011 figure to an adjusted 11-month figure for 2010.</p><p>Source: EC, ‘Review of the Situation on the EU beef and veal market’, Single CMO Management Committee meeting, 19 January 2012</p><p><b>2.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in ACP exports beyond the EU</b></p><p>In <b>East Africa</b>, high global beef prices have opened up new export opportunities for Kenyan beef processors. In 2011,<i>&nbsp;</i>export markets for a total of 15,000 tonnes of beef were opened up in the Middle East (See <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Beef/High-global-beef-prices-and-the-functioning-of-the-EU-beef-supply-chain" target="_self">High global beef prices and the functioning of the EU supply chain</a>’, 6 September 2011).</p><p>In <b>Southern Africa</b>, efforts continued throughout 2011 to diversify Namibia’s beef export markets, with progress being made in securing SPS approval for exports to the US market. In addition, in December 2011 an SPS agreement was concluded with China. However according to Kobus du Plessis, Chief Executive Officer of Meatco, Namibia’s biggest beef exporter, ‘it will take some time for Namibia to really start gaining from the Chinese market’, given Chinese consumption patterns, which do not offer ready market opportunities for premium beef cuts. In the longer term there is optimism over the potential of the Chinese market. The challenge is seen as being ‘to bridge the period in between’.</p><p><b>2.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in ACP intra-regional trade</b></p><p><b>Botswana</b>, in response to the closure of the EU market in 2011 due to FMD, commenced live cattle exports to Zimbabwe (initially 23,000 head). These non-infected cattle were slaughtered in Zimbabwe at the Cold Storage Commission’s Bulawayo facilities. Zimbabwean farmers, however, have complained about the impact of this trade on the prices offered to local Zimbabwean cattle farmers.</p><p>In <b>Namibia</b> in mid 2011, the trend towards a growing level of live cattle exports became a serious concern. Meatco argued that if the situation of ‘aggressive buying’ by the South African feedlots continued, then the slaughtering industry would come under ‘severe pressure’, resulting in ‘a further decrease in producer prices’. The average price offered by South African feedlots increased by 11.5%, 9.25% and 1.5% over the course of 2009, 2010 and 2011 respectively.</p><p>In <b>South Africa</b>, deregulation of the beef sector has intensified competition for regional beef supplies.</p><p>In the <b>Southern African region</b> in 2011, the outbreak of FMD and associated transmission fears countered this underlying trend, and reduced the cross-border trade in live animals to the benefit of Namibian beef processing companies.</p><p>In <b>West Africa</b> the live cattle trade from the inland production areas to coastal markets continued. However, according to the FAO, the increasing frequency of natural disasters is undermining the production capacity of many rural households for both arable and livestock production. Regional efforts continue to fast-track the harmonisation of regulations in order to:</p>
+<ul>
+
+<li>facilitate trade in cattle and animal products; </li>
+
+<li>guarantee animal health; </li>
+
+<li>ensure sanitary security for food products of animal origin.</li>
+
+</ul>
+<p>In the <b>Caribbean</b>, sustained high global beef prices appear to be stimulating a rethink of beef sector tariff policy.</p><p>In <b>Jamaica</b>, the Jamaica Broilers Company has implicitly argued for higher regional beef sector tariffs to revitalise the sector. It was pointed out that the poultry sector ‘gets real protection, with duties totalling 260%’, while the beef sector only enjoys 20% tariff protection (plus stamp duty). This needs to be seen against the background of efforts to expand Jamaica Broilers’ beef breeder herd, and wider regional developments.</p><p>In <b>Trinidad and Tobago<i>, </i></b>since 2009<b><i>&nbsp;</i></b>the government has been reinvigorating its beef sector through a series of mega-farms, the latest of which was formally opened in November 2011 (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Beef/High-beef-prices-are-stimulating-a-rethink-of-Caribbean-beef-tariff-policies" target="_self">High beef prices are stimulating a rethink of Caribbean beef tariff poli...</a>’, 12 February 2012).</p><a name="eztoc735701_0_3" id="eztoc735701_0_3"></a><h3>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implications for the ACP</h3><p><b>3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Getting to grips with ongoing SPS challenges</b></p><p>The suspension of Botswanan beef exports to the EU in 2011 highlights the need to strengthen SPS-control and food-safety systems in ACP countries. However, the Southern African Development Research Network assesses set-up costs for current systems at US$35 million, and recurrent costs at US$5.52 million per annum. In 2011, Botswana earned only US$11.8 million on depressed beef export volumes. However, since EU standards are used as benchmarks by third countries, failure to comply can be seen as essential if exports are to take place beyond the Southern African Customs Union. The importance of establishing effective traceability schemes was demonstrated by the February 2011 discovery in Namibian cattle of drug residues banned in the EU. The rapid tracing and withdrawal of the affected consignments from the food supply chain effectively averted any broader beef trade disruption.</p><p><b>3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Getting to grips with animal welfare, production method and product quality issues</b></p><p>There is growing pressure from EU farmers to more rigorously enforce compliance with EU animal welfare and production method standards upon imports. While the EU prefers to adopt an approach of dialogue in order to raise third-country standards, the emergence in the tuna sector of market access arrangements linked to production method regulations raises concerns for the future. ACP beef exporters will need to carefully monitor developments in EU policy in this area and, wherever possible, build compliance with future standards into routine reinvestment programmes.</p><p><b>3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The case for ‘aid for trade’ support to enhanced marketing</b></p><p>It can be argued that the duty-free quota for high-quality, hormone-free beef serves to erode margins of ACP tariff preferences in the beef sector. This can be seen as paralleling the evolution of ACP trade preferences in the rum sector, where unilateral EU action provided the basis for the establishment of the Integrated Development Programme for the Caribbean Rum Sector. This dedicated rum sector ‘aid for trade’ initiative supported the Caribbean rum industry in repositioning their exports on the EU market (serving luxury-purchase market components) and established a solid basis for continued trade beyond the lifetime of tariff preferences.</p><p>A case can be made for similar support to ACP beef producers. Such support could seek to assist with:</p>
+<ul>
+
+<li>the identification and development of new commercial relationships targeting quality-differentiated beef product markets; </li>
+
+<li>necessary investments in processing, to serve luxury-purchase market components (possibly via a cost-sharing grant scheme); </li>
+
+<li>support for the development of smallholder quality beef production; </li>
+
+<li>the development of non-traditional export markets beyond the EU. </li>
+
+</ul>
+<p>This new expanded duty-free quota for high-quality beef could potentially be utilised by both Namibia and Botswana to sustain beef exports, despite any loss of generalised duty-free, quota-free access resulting from the non-conclusion of the EPA process. Whether this would be possible would appear to be a question urgently requiring clarification.</p><p><b>3.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Increased competition from growing EU beef exports</b></p><p>The dramatic expansion of EU exports of beef and veal currently taking place could potentially raise the issue of beef dumping. The Russian decision in February 2012 to ban imports of EU beef and live cattle as a result of the Schmallenberg virus could carry serious implications. Traditionally EU traders have fallen back on African markets as ‘markets of last resort’, when faced with sudden trade disruptions. Given the ease with which West African coastal markets can be supplied with EU beef, this is a particular concern for efforts in the region to develop intra-regional trade between the West African hinterland and coastal zones. Close attention will need to be paid to the evolution of the EU beef export trade in the coming year, if these efforts are not to be disrupted.</p><p>In the longer term, a growing focus on north African and Middle Eastern markets for EU beef exports could generate increased competition with the emerging East African beef export trade to Middle East and Gulf countries. Once again this is an area where close monitoring of emerging trade flows would appear to be warranted.</p><p><b>3.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EPAs and the use of agricultural trade policy tools</b></p><p>The difficulties facing the Namibian beef processing sector, in view of intensifying competition from the South African feedlot sector, potentially raises the question of the continued use of export licences as a means of regulating trade and ensuring a sufficient supply of cattle to sustain the domestic livestock processing sector. Currently contentious provisions in the draft interim EPA would abolish the use of such policy tools upon entry into force of the agreement. This could seriously undermine the supply of beef to established processing enterprises.</p><p><b>3.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carefully balancing costs and benefits of beef sector development</b></p><p>In terms of the renewed interest in beef production in the Caribbean, in view of the size of national economies, careful deliberations will be necessary in selecting the food sectors to be supported and how best to extend such support. Key questions include:</p>
+<ul>
+
+<li>Which goods have the greatest potential to use domestic inputs (maximising foreign exchange savings) and/or support rural livelihoods? </li>
+
+<li>What forms of support are most likely to incentivise energetic, domestic firms to invest and become more competitive? </li>
+
+<li>Which sectors will do the most to enhance rural livelihoods? </li>
+
+</ul>
+<p>These questions will often produce different answers. Policymakers therefore need to seek a balanced package in promoting sustainable forms of production that minimise the need for subsidies, from either the taxpayer or the consumer.</p><p>Similar considerations apply in the Pacific region.</p><p><b>Main sources</b></p><p>EU beef sector developments</p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Commission, EU agricultural commodity and food price developments’, series of monthly publications</p><p>
+<a href="http://ec.europa.eu/agriculture/analysis/markets/foodprices/index_en.htm" target="_self">http://ec.europa.eu/agriculture/analysis/markets/foodprices/index_en.htm</a></p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Farming Life</i>, ‘Ciolos “recognises” pain in beef sector’, 6 June 2011</p><p>
+<a href="http://www.farminglife.com/news/ciolos_recognises_pain_in_beef_sector_1_2748036" target="_self">http://www.farminglife.com/news/ciolos_recognises_pain_in_beef_sector_1_...</a></p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; thebeefsite.com, ‘Drought difficulties in Europe’, 9 June 2011</p><p>
+<a href="http://www.thebeefsite.com/news/34784/drought-difficulties-in-europe" target="_self">http://www.thebeefsite.com/news/34784/drought-difficulties-in-europe</a></p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USDA, ‘Livestock and products: EU-27 annual 2011’, <i>GAIN Report</i> No. NL1017, 30 August 2011</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Livestock%20and%20Products%20Annual_The%20Hague_EU-27_8-30-2011.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Livestock%20and%20...</a></p><p>EU beef sector trade</p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC/Joint Research Centre/Institute for Prospective Technological Studies, ‘Potential EU-Mercosur Free Trade Agreement: Impact assessment’, ed. A. Burrell, <i>JRC Scientific and Technical Reports</i>, 2011</p><p>
+<a href="http://ec.europa.eu/agriculture/analysis/tradepol/trade/mercosur-fta-impact-1_en.pdf" target="_self">http://ec.europa.eu/agriculture/analysis/tradepol/trade/mercosur-fta-imp...</a></p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC, ‘Prospects for agricultural markets and income in the EU 2011-2020’, annual review giving projections of prospects for EU agricultural markets for the coming 10 years, December 2011</p><p>
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2011/fullrep_en.pdf" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2011/fullrep_en.pdf</a></p><p>Global market developments</p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Indexmundi</i> commodities database, ‘Beef prices’</p><p>
+<a href="http://www.indexmundi.com/commodities/?commodity=beef" target="_self">http://www.indexmundi.com/commodities/?commodity=beef</a></p><p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Thebeefsite.com</i>, website reporting worldwide news and developments in the beef sector</p><p>
+<a href="http://www.thebeefsite.com/" target="_self">http://www.thebeefsite.com/</a></p><p>Southern Africa</p><p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>New Era</i> (Windhoek), ‘Farmers score beef price bonanza’, 12 March 2012</p><p>
+<a href="http://allafrica.com/stories/201203121097.html" target="_self">http://allafrica.com/stories/201203121097.html</a></p><p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>The Monitor</i> (Botswana), ‘BMC, farmers could lose P450m in 2011’, Vol. 12, Issue no. 17, 9 May 2011</p><p>
+<a href="http://www.mmegi.bw/index.php?sid=4&amp;aid=690&amp;dir=2011/May/Monday9" target="_self">http://www.mmegi.bw/index.php?sid=4&amp;aid=690&amp;dir=2011/May/Monday9</a></p><p>Caribbean</p><p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ministry of Agriculture, Trinidad &amp; Tobago, ‘Boost in local beef production’, 1 December 2011</p><p>
+<a href="http://agriculture.gov.tt/fplma/index.php?q=media-room/press-releases/boost-local-beef-production-2241061322756453" target="_self">http://agriculture.gov.tt/fplma/index.php?q=media-room/press-releases/bo...</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/Executive-Brief-Update-2013-Beef-sector">Executive Brief Update 2013: Beef sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/Executive-Brief-Update-2012-Beef-sector">Executive Brief Update 2012: Beef sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/Executive-Brief-Update-2011-Beef-sector">Executive Brief Update 2011: Beef sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/Beef-Trade-issues-for-the-ACP">Beef: Trade issues for the ACP</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/EC-briefing-note-on-the-beef-sector">EC briefing note on the beef sector </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":141,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

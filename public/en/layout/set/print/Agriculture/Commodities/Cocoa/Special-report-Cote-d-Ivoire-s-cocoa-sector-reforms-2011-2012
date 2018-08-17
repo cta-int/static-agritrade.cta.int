@@ -1,0 +1,227 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Special report: Côte d’Ivoire’s cocoa sector reforms 2011–2012 / Cocoa / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																						
+								<a href="/en/layout/set/print/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																				
+																																																																																																		,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7798/(search)/simple">Cocoa</a>
+							
+																																																																																																																																																																																																																																																																																											
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Special report: Côte d’Ivoire’s cocoa sector reforms 2011–2012</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/76645/1234553/file/218dcc0a56e1fd4582c3f4ce05a431d2.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+												16 December 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc1234542_1" id="eztoc1234542_1"></a><h2>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Background<b>&nbsp;</b></h2><p>Côte d’Ivoire is the largest cocoa producer in the world, accounting for 35% of world production. In 2011/12, the country produced a record crop of 1.5 million tonnes, out of a world total of 4.3 million tonnes. Cocoa, which is mostly produced by smallholder farmers, accounts for 20% of Côte d’Ivoire’s GDP. In 1960, the state-owned Caisse de Stabilisation, known as Caistab, was set up, and by 1978 Côte d’Ivoire had overtaken Ghana as the world’s leading cocoa producer. Caistab was dismantled in 1999, as part of the liberalisation process promoted by the World Bank and the International Monetary Fund (IMF). This contrasted with the continuing role of the Ghana Cocoa Board (Cocobod), where liberalisation was only partial. Here, the state maintained control of exports, but opened up the purchase of cocoa from smallholders, permitting private operators to buy at a price set by the state.</p><p>In Côte d’Ivoire, liberalisation led to the government abandoning price setting, leaving the private sector to handle marketing and producer prices, which now fluctuated in response to world market conditions. Taxes on the cocoa sector were, however, increased, while they were reduced in neighbouring Ghana.</p><p>Despite political turmoil and civil war in Côte d’Ivoire from December 1999 to 2010, cocoa production and exports have continued – almost ‘business as usual’. The notable exception to this has been the absence of investment and policy incentives and the deterioration of infrastructure.</p><p>While reforms were attempted in 2008, with the support of the World Bank, these were never implemented. Nevertheless, the cocoa sector did well, with production and thus exports rising to record levels. This, together with a drop in general imports in Côte d’Ivoire due to lower economic activity, contributed to a current account surplus estimated by the IMF at 6.7% of GDP in 2011.</p><a name="eztoc1234542_2" id="eztoc1234542_2"></a><h2>2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Policy reforms in Côte d'Ivoire</h2><p>As a precondition for an IMF-backed debt relief deal, the new government of Alassane Ouattara, elected in November 2010, launched new cocoa reforms on 2 November 2011. The aim of the reforms is to raise and guarantee minimum farm-gate prices on a sustainable basis in order to ensure sustainable livelihoods to cocoa growers and encourage them to boost output and reinvest in their ageing and sometimes neglected plantations.</p><p>The reforms are based on three pillars. The two main ones are:</p>
+<ul>
+
+<li>the establishment in January 2012 of a central body, le <i>Conseil du Café-Cacao</i> (CCC), with representatives of all stakeholders, responsible for the management, regulation, development and price stabilisation of cocoa;</li>
+
+<li>the establishment of a new marketing mechanism involving the forward sale of 70 to 80% of the next year’s crop through twice-daily auctions. </li>
+
+</ul>
+<p>These forward sales auctions – due to end each year in August just before the new crop starts – allow the establishment of a benchmark price for the next crop year and ensure a guaranteed minimum share of 60% of the CIF price to farmers. The forward sales started on 31 January 2012. A committee to monitor implementation of the reform was also created, as initially exporters boycotted the auctions, claiming that the authorities had underestimated the real cost of bringing cocoa to port and thus their reimbursement of handling costs.</p><p>However, by late February 2012 all exporters had enrolled in the new sales system, as there was no real alternative, and the results have so far been satisfactory: by the start of September, more than 80% of the forecasted 2012/13 cocoa harvest had been presold. During this pre-sales period, before the end of the 2011/12 crop season, the key question was not really one of sales volumes, but concerned the prices obtained and whether the revenues generated would be sufficient to guarantee a price attractive to farmers at the start of the new season in October 2012. This was by no means guaranteed, in view of the drop in world prices since the beginning of 2012. There was a danger that if prices did not improve, dissatisfied farmers could sit on supplies at the start of the season or turn to alternative crops.</p><p>Moreover, while the reform process had advanced, the details of many elements of the new structure/mechanisms were still not known by September 2012. This uncertainty served to fuel the increase in world cocoa prices from July to September. Nevertheless, the farm-gate structure was finalised by the beginning of October, for the start of the 2012/13 cocoa season.</p><p>The third pillar of the reform process is the setting up of a reserve fund at the Central Bank of West African States (Banque Centrale des États de l’Afrique de l’Ouest – BCEAO) to cover risks beyond the normal operations of the price guarantee scheme, in order to support the new marketing arrangements in a fiscally neutral manner. This fund, which could eventually reach FCFA 70 billion (some €106.7 million), is to protect against the possibility of a future major drop in world cocoa prices. By mid September, Côte d’Ivoire had paid more than FCFA 47 billion (€71.7 million) into this fund.</p><a name="eztoc1234542_3" id="eztoc1234542_3"></a><h2>3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Challenges</h2><p>Côte d’Ivoire exported 1.475 million tonnes during the 2011/12 crop year, according to the CCC, slightly lower than the 1.5 million tonnes initially expected. While this was a good crop, helped by the La Niña weather phenomenon, it did not mask profound national challenges&nbsp;that necessarily affected the world market.</p><p>The first of these related to getting the cocoa reform process right. While reforms were under way, strong tensions existed among stakeholders. Cocoa farmers and exporters called for an immediate end to the ‘droit unique de sortie’, a 20-year-old tax break given to local grinders. Initially established for 5 years and applicable only to exports during the April to September mid-crop season, this measure had been intended, at the time, to encourage investment, create jobs and increase grinding capacity. It allowed companies that invested in grinding a part of the volumes they held to benefit from a tax break on the export of cocoa beans. However, this incentive ended up being applied all year round. With the rebate worth FCFA75 (€0.114) per kilo of cocoa, the annual loss to government revenue amounted to between FCFA35 and 40 billion (€53–61 million). Planters argued that the reduced duty should be phased out as part of the reform process, with the resources gained being deployed in support of growers and investment in plantations.</p><p>For their part, exporters such as Touton, Sucden, Armajaro, Novel, Coex and Continaf claimed that this tax advantage put them at a commercial disadvantage. In December 2011, they sent a letter to the government calling for the elimination of the subsidy, and in January 2012 boycotted the launch of the forward sales marketing arrangement in protest. As part of a compromise aimed at ending the boycott, the government asked PricewaterhouseCoopers to carry out an audit and make recommendations on whether or not the subsidy should be maintained.</p><p>The grinding companies, which together currently crush between 415,000 and 450,000 tonnes of cocoa annually (some 35% of the cocoa crop, with further investment under way), threatened to move their operations to neighbouring Ghana if the subsidy was abolished. This threat was taken very seriously by the government of Côte d’Ivoire, given its economic and political significance. The companies had continued to strengthen their operations during the Côte d’Ivoire conflict, even during the political turmoil, transforming Côte d’Ivoire by 2011 into the world's top cocoa grinder measured by installed capacity (532,000 tonnes), overtaking the Netherlands. The government’s policy aim is to raise local grindings to 50% of production by 2015 from the current level of 35%.</p><p>Nevertheless, on 21 September 2012, just a week before the start of the 2012/13 crop season, the CCC announced that the 20-year-old tax break was officially abolished, erasing what the rival exporters saw as being an unfair advantage.</p><p>The CCC also decided to increase a key transport reimbursement allowance at the heart of a row that had been threatening the cocoa reforms. Exporters and intermediaries should now receive 22% of the CIF (cost, insurance, freight) price for the 2012/13 season, up from 18% last year, an increase that fell within the exporters’ anticipated range, based on the average prices paid at auctions since the beginning of February.</p><p>On 1 October, at the opening of the new 2012/13 cocoa crop, the Côte d’Ivoire government announced a guaranteed farm-gate price of FCFA 725,000/ tonne of cocoa (€1,105/t). This represents an increase of between FCFA 25,000 and 50,000/tonne on the average price received by growers in the 2011/12 season under the system of spot buying. Many farmers had expected the new price to be higher, with Ghana establishing its fixed farm-gate price at 3,392 cedis/tonne (approximately €1,418/t) for the &nbsp;2012/13 season. This could potentially pose challenges for Ivorian officials in terms of cocoa smuggling to Ghana. However, in early November, Ivorian farmers and exporters were reporting that traditional smuggling routes were operating in reverse due to depreciation of the cedi (-20% in the first half of 2012) and payment delays.</p><p>Closely linked to the marketing and investment-related challenges, the government also needs to finalise the global reform process. The government wants to promote farmer organisations and establish an industry-wide association. This requires surveys of farmers to be conducted, the election of representatives, and organising their representation before the end of December 2012. The government also wants to formalise the organisational structure of the sector and update financial and administrative procedures, according to the IMF. It also needs to strengthen the domestic marketing mechanism by identifying the warehouses of buyers and cooperatives, adopting the tools necessary for the facilitation of domestic trade, and improving the training of field agents, as well as establishing a market information system. It was unclear what progress had been made in these areas by October 2012.</p><p>Overshadowing this reform, which so far seems quite successful, is the lowering of international cocoa prices since the dip in December 2011. From a high of US$2,713/tonne in July 2010 to a low of US$1,334/t on 7 December 2011, cocoa finished on the London market at US$1,557/t on 7 November 2012. This is generating a shortfall of 0.5% of GDP in Côte d’Ivoire’s revenue. Farm-gate prices averaged FCFA500–650 per kg (€0.76–0.99) in 2011/12, compared to FCFA850–900 (€1.3–1.37) in 2010/11.</p><p>The price decline had been forecast by many observers since, as part of the introduction of the forward selling system, Côte d’Ivoire sold both its 2011/12 and its 2012/13 crop at the same time. This occurred alongside the normal forward selling activities of the Ghanaian Cocobod. Falling cocoa prices, added to high oil prices and a weak European market, have put pressure on cocoa planters, who are increasingly attracted by other crops such as rubber, which provides a steady income throughout the year. Falling international cocoa prices and the depreciation of the euro, following the ongoing financial crisis in the Eurozone, led to the IMF reviewing its initial forecasts of cocoa revenues in 2012: ‘initially estimated at CFA 337.6 billion, cocoa revenues are expected to post an overall loss of CFAF 55.7 billion’ this year. Moreover, because of falling cocoa bean prices and declining export volumes, cocoa export tax revenues will play a smaller role in the state’s financial resources: it is forecast that the cocoa export tax should contribute some 2.3% to total Ivorian tax revenues, compared to 3.5% in 2011 and 2.9% in 2010.</p><p>While global demand for cocoa is expected to climb 30% in the next 10 years, creating a 1 million tonne shortfall in production by 2020, Côte d’Ivoire is poorly placed to capitalise on this expanding demand. Most cocoa trees in Côte d’Ivoire are old and declining in productivity, with the last major wave of investment in renewal of the tree stock in the early 1980s. Cocoa plants start producing after 4 or 5 years, with maximum yields 10 to 15 years into the life of the tree, and declining yields after 15 to 20 years. However, new cocoa hybrids tend to produce earlier, but become old more rapidly.</p><p>Currently, Ivorian plantations in general, and those in the south-west in particular, are ageing and require fertilisers in order to maintain high yields, increasing production costs. Plantations in the western region (in Duekoue, Man and Bangolo) are still young but need regular chemical treatments to protect against black pod and pests, which are increasingly a problem.</p><p>Issues of quality control also need to be addressed in Côte d’Ivoire, particularly at the level of the planter, if premium prices are to be obtained similar to those achieved in Ghana. In particular the humidity level of beans delivered to the port needs to be lowered from 14% to 8% to prevent the development of mould during transportation. In Côte d’Ivoire, exporters have drying infrastructure at or near the ports and thereby capture this value-added. However, in Ghana all beans leave the plantation dry and fermented by the grower, so from the very start, from the field, Ghanaian cocoa is of good quality. Since this has not been done in Côte d’Ivoire for years or even decades, there is, amongst other things, a need for capacity building and training of young cocoa growers on issues related to the fermentation and drying processes.</p><p>Beyond drying the beans, quality control needs to be reinforced. In Ghana, despite the privatisation of internal marketing, the quality control division of the Cocobod inspects, samples and grades cocoa beans in each of the six cocoa-growing regions, before sealing the bags. A certificate is then issued. At the port, cocoa bags are check-sampled by port staff to enable the Cocoa Marketing Company (CMC) either to accept a particular consignment or to reject it if the quality does not meet standards. A purity certificate is also issued and enables any buyer, anywhere in the world, to locate where the beans come from.</p><p>This difference in quality and quality control between beans from Côte d’Ivoire and Ghana explains price differentials on world markets: Ivorian beans were trading in mid 2012 at around GB£60 per pound over London cocoa futures contracts, compared to GB£90 per pound for Ghanaian cocoa.</p><p>The objectives of the new reforms in Côte d’Ivoire are, through the Conseil du Café-Cacao, to ensure the quality of export products, boost orchard productivity and also promote good governance in the coffee–cocoa sector. Barry Callebaut is one of a number of companies promoting advanced fermentation techniques in farmer cooperatives in Côte d’Ivoire, and last year launched Terra Cacao chocolate made from ‘zero-defect’ beans from Côte d'Ivoire. One of the challenges, however, will be for all partners to work together to promote quality and productivity.</p><p>The IMF economic growth forecast for Côte d’Ivoire in 2012 is 8.1%, compared to a decline of 4.7% in 2011. The significant growth is in part attributable to increased public sector investment, which should also contribute to the rehabilitation of the cocoa sector and districts.</p><p>Côte d’Ivoire has come under increasing criticism over the use of child labour. A Tulane University report in 2011 estimated that around 1.8 million children under 15 are working in the cocoa industry in Western Africa. According to NGOs, the Harkin-Engel Protocol, signed on 19 September 2001 by eight top companies, has not been adequately enforced and now needs to be legally binding. There is a growing campaign by NGOs for companies in importing countries to undergo independent checks on their production processes to promote the elimination of child labour. Legislation is even being put forward on this issue in some consuming countries. For example, the European Parliament adopted a resolution on 14 March 2012 implicitly calling for greater use of trade policy measures in eliminating child labour in the cocoa sector. It further called on International Cocoa Agreement partners to look into the possibility of introducing accredited, third-party-audited traceability for the cocoa supply chain to facilitate the elimination of child labour.</p><p>Major chocolate producers have pledged to source 100% of their cocoa by 2020 from cocoa farms that are certified as sustainable, so countries like Côte d’Ivoire must step up to reform. In February 2012 in Côte d’Ivoire, the National Oversight Committee which works with the Inter-ministerial Committee on Elimination of Child Trafficking, Exploitation and Labour published a new regulation on child labour.</p><p>Asian demand for cocoa is growing. However, in Asia demand for cocoa powder is stronger than demand for cocoa butter, as there is no substitute for cocoa powder in the making of chocolate or chocolate covering, but cocoa butter can be replaced by other cheaper vegetable fats such as palm oil and shea butter. As Côte d’Ivoire increases its transformation of cocoa beans for export, one of the new challenges will be to develop new and strong markets for cocoa butter, so that butter stocks do not pile up as powder sells well.</p><p>In the longer term, climate-change-related risks are likely to arise, which may require the government to explore appropriate proactive adjustment responses.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Cahiers Agricultures</i>, Volume 18, Numéro 4, 343-9, ‘Libéralisation, cycles politiques et cycles du cacao: le décalage historique Côte-d’Ivoire-Ghana’, July-August 2009</p><p>
+<a href="http://www.jle.com/fr/revues/agro_biotech/agr/e-docs/00/04/4C/BD/article.phtml" target="_self">http://www.jle.com/fr/revues/agro_biotech/agr/e-docs/00/04/4C/BD/article...</a>&nbsp;</p><p>IMF, ‘Côte d'Ivoire—First review under the three-year arrangement under the Extended Credit Facility, Request for modification of performance criteria, and Financing Assurances Review’, press release, IMF <i>Country Report</i> No. 12/117, May 2012</p><p>
+<a href="http://www.imf.org/external/pubs/ft/scr/2012/cr12117.pdf" target="_self">http://www.imf.org/external/pubs/ft/scr/2012/cr12117.pdf</a></p><p>Reuters Africa, ‘[Ivory Coast] cocoa farmers demand end to grinder subsidy’, 30 May 2012</p><p>
+<a href="http://af.reuters.com/article/ivoryCoastNews/idAFL5E8GUG0X20120530" target="_self">http://af.reuters.com/article/ivoryCoastNews/idAFL5E8GUG0X20120530</a></p><p>Barry Callebaut AG, ‘Barry Callebaut: Cocoa Horizons sustainability initiative successful in Côte d'Ivoire’, 30 May 2012</p><p>
+<a href="http://www.reuters.com/article/2012/05/30/idUS67128+30-May-2012+HUG20120530" target="_self">http://www.reuters.com/article/2012/05/30/idUS67128+30-May-2012+HUG20120530</a></p><p>Reuters Africa, ‘Maintenance neglect to hurt Ivorian cocoa output’, 11 May 2012</p><p>
+<a href="http://af.reuters.com/article/investingNews/idAFJOE84A0BZ20120511" target="_self">http://af.reuters.com/article/investingNews/idAFJOE84A0BZ20120511</a></p><p>Ghana Cocoa Board, ‘Quality Control Division’, undated</p><p>
+<a href="http://www.cocobod.gh/inspection.php" target="_self">http://www.cocobod.gh/inspection.php</a></p><p><i>Swissinfo.ch</i>, ‘NGOs slam industry inaction over child labour’, 20 September 2011</p><p>
+<a href="http://www.swissinfo.ch/eng/business/NGOs_slam_industry_inaction_over_child_labour_.html?cid=31181328" target="_self">http://www.swissinfo.ch/eng/business/NGOs_slam_industry_inaction_over_ch...</a></p><p>European Parliament, ‘European Parliament resolution of 14 March 2012 on child labour in cocoa sector’, (2011/2957(RSP), P7_TA-PROV(2012)0080</p><p>
+<a href="http://www.europarl.europa.eu/RegData/seance_pleniere/textes_adoptes/provisoire/2012/03-14/0080/P7_TA-PROV(2012)0080_EN.pdf" target="_self">http://www.europarl.europa.eu/RegData/seance_pleniere/textes_adoptes/pro...</a></p><p><i>Bakeryandsnacks.com</i>, ‘Bloomer predicts looming cocoa supply crisis’, 10 May 2012</p><p>
+<a href="http://www.bakeryandsnacks.com/Product-Categories/Ingredients-and-additives/Blommer-predicts-looming-cocoa-supply-crisis" target="_self">http://www.bakeryandsnacks.com/Product-Categories/Ingredients-and-additi...</a></p><p><i>Eburnietoday.mondoblog.org</i>, ‘La Côte d’Ivoire réaffirme son engagement à stopper le travail des enfants’, 21 January 2012</p><p>
+<a href="http://eburnietoday.mondoblog.org/2012/01/21/la-cote-d%E2%80%99ivoire-reaffirme-son-engagement-a-stopper-le-travail-des-enfants/" target="_self">http://eburnietoday.mondoblog.org/2012/01/21/la-cote-d%E2%80%99ivoire-re...</a></p><p>CIRAD, ‘Le processus de libéralisation et la crise ivoirienne : Une mise en perspectiveà partir du cas des filières agricoles, <i>Note d’analyse</i>, January 2003</p><p>
+<a href="http://afm.cirad.fr/documents/6_DiagnosticsTerr/CD_AFM/textes/603.pdf" target="_self">http://afm.cirad.fr/documents/6_DiagnosticsTerr/CD_AFM/textes/603.pdf</a></p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Cocoa/Special-report-Cote-d-Ivoire-s-cocoa-sector-reforms-2011-2012">Special report: Côte d’Ivoire’s cocoa sector reforms 2011–2012</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":141,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

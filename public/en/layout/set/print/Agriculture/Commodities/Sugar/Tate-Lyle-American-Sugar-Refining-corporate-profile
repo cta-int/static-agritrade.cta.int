@@ -1,0 +1,452 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Tate &amp; Lyle/American Sugar Refining - corporate profile / Sugar / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																													
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																																																																																																																																																																																																																									
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Tate &amp; Lyle/American Sugar Refining - corporate profile</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/272861/3289955/file/f5a8e3f1d039e3cb80cf4171682b2502.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+												23 July 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc3289922_0_1" id="eztoc3289922_0_1"></a><h3>Ownership structure</h3><p>In October 2010, American Sugar Refining (ASR) completed its takeover of Tate and Lyle’s sugar division, involving the acquisition of refineries in the UK and Portugal and the Tate &amp; Lyle sugar brands (with “a perpetual worldwide licence to use the famous brand names”).<sup>1</sup> The new company was called Tate &amp; Lyle Sugars (TLS).</p><p>ASR came into being in 1998 through a “strategic partnership” between Florida Crystals Corporation (FCC) and Sugar Cane Growers Cooperative of Florida (SCGC), which hold 64% and 36% respectively of ASR. FCC processes around 5.7 million tonnes of sugar cane, yielding 676,000 tonnes of raw sugar and 30 million gallons (approx. 113.6 million litres) of blackstrap molasses and “operates North America’s largest biomass power plant”. SCGC processes around 3 million tonnes of sugar cane yielding 374,000 tonnes of raw sugar and 18 million gallons (approx. 68 million litres) of blackstrap molasses. Together these two companies account for 60% of the raw sugar produced in Florida, America’s largest sugar cane producing state.<sup>2</sup></p><p>FCC’s ownership structure is “based on a partnership centred around the Fanjul brothers”, a Florida-based Cuban American family. The Chief Operating Officer is Alfonso Fanjul, and Jose Fanjul is the Senior Vice President.<sup>3</sup></p><p>SCGC consists of 46 small- to medium-sized sugar cane farmers. The grower–owners are considered the backbone of the Cooperative.<sup>4</sup></p><a name="eztoc3289922_0_2" id="eztoc3289922_0_2"></a><h3>Global reach</h3><p>ASR claims to be the “largest vertically integrated cane sugar refiner in the world”. It has nine refineries in five countries, with a refining capacity variously estimated at between six and seven million tonnes. ASR produces and sells “branded and private-label sugars, sweeteners and syrups” to customers in the Americas, the Caribbean, Europe, the Middle East, India and Asia. ASR is also a major sugar trader.<sup>5</sup></p><p>At the time of ASR’s acquisition of Tate &amp; Lyle’s sugar division, a marketing agreement was in place between Tate &amp; Lyle and the Thai company Mitr Phol to import sugar from its operations in Laos and Cambodia. This reportedly involved a 5-year supply agreement, with first deliveries commencing in 2010.<sup>6</sup></p><a name="eztoc3289922_0_3" id="eztoc3289922_0_3"></a><h3>Installed EU production capacity</h3><p>In the EU, ASR operates two refiners via TLS. The TLS Thames Refinery at Silvertown in London is the largest sugar refinery in Europe, with an annual production capacity of 1.2 million tonnes. Sidul Açúcares is the largest sugar refinery in Portugal, with an annual capacity of more than 300,000 tonnes, and is “the leading sugar supplier in Portugal”, supplying two brands, Sidul and Sores.</p><p>In response to EU sugar sector reforms, Tate &amp; Lyle gave up its sugar beet production quotas in Hungary, Slovakia and the Czech Republic, which it held through Eastern Sugar, a joint venture established with Südzucker. In March 2007, after the Italian sugar production quota was reduced by 50% as part of EU reforms, Tate &amp; Lyle established a joint venture with the market leader in Italy, Eridania Sadam (with shareholdings of 35% and 65% respectively) to distribute sugar to the Italian market.<sup>7</sup> Through this joint venture, “a pre-financing arrangement was introduced between Eridania Suisse and the Jamaican government to support the operation of government-run sugar estates, in order to ensure raw sugar supplies to the Italian market.”</p><p><b>Tate &amp; Lyle Sugars’ raw cane sugar refining operations</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="111" valign="top">  <b>Facility</b>
+  </td><td width="227" valign="top">  <b>Comments</b>
+  </td><td width="131" valign="top">  <b>Country</b>
+  </td><td width="131" valign="top">  <b>Raw cane sugar (tonnes)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="111" valign="top">  Silvertown
+  </td><td width="227" valign="top">  Could add 400,000 tonnes at low cost
+  </td><td width="131" valign="top">  UK
+  </td><td width="131" valign="top">  1,200,000
+  </td>
+</tr>
+
+<tr>
+<td width="111" valign="top">  Sidul
+  </td><td width="227" valign="top">  Could increase capacity 40% if ran at weekend
+  </td><td width="131" valign="top">  Portugal
+  </td><td width="131" valign="top">  300,000
+  </td>
+</tr>
+
+<tr>
+<td width="111" valign="top">  Total market
+  </td><td width="227" valign="top">  &nbsp;
+  </td><td width="131" valign="top">  &nbsp;
+  </td><td width="131" valign="top">  <b>1,500,000</b>
+  </td>
+</tr>
+
+</table>
+<a name="eztoc3289922_0_4" id="eztoc3289922_0_4"></a><h3>Recent developments: Refining operations and market developments</h3><p>Since the modification of import licensing arrangements, traditional refiners have encountered difficulties in securing access to sugar exported by traditionally preferred suppliers. This is in part attributed to the competitive advantages enjoyed by beet co-refiners,<sup>8</sup> arising from the fact that their capital costs are carried on their beet operations. As a result, beet co-refiners are able to offer better prices for preferential (i.e. duty-free) sugar than traditional cane sugar refiners. This has led to a situation where TLS is “operating at [only] 65% of its 1.4–1.5 million-tonne capacity at its factories in London and Lisbon”.<sup>9</sup></p><p>In 2012, in an attempt to address its fall in capacity utilisation, TLS launched a campaign, “Save our Sugar”. The home page of the campaign website displays a “countdown to 2017”, showing the remaining years, months, days and hours until the abolition of EU sugar production quotas comes into effect. TLS maintains that “if current and proposed EU policies continue to unfairly restrict access to raw sugar, cane refiners will not survive as part of the supply mix in Europe’s sugar sector.”<sup>10</sup></p><p>In April 2013, with the cost of importing sugar into the EU from preferred countries at a 10-month high, TLS expressed concerns that quota abolition will allow EU beet processing companies “to produce and sell as much quantity as they wish”, while traditional refiners will face restrictions on duty-free sourcing of raw sugar supplies. TLS called for “some kind of mechanism to allow the cane refiners to compete with fully liberalised beet and isoglucose sectors”.<sup>11</sup></p><p>The supply difficulties faced by TLS were compounded in September 2013, when Tereos “aggressively” sought to gain market share in the UK as the annual supply contract negotiations got under way.<sup>12</sup> This can be seen as symptomatic of the efforts by other EU sugar companies to position themselves to gain market share once national sugar production quotas are abolished. The developments led to buyers reporting “market prices… down between €50 and €120 a tonne from more than €700 a tonne last year”.<sup>13</sup></p><p>In November 2013, TLS went further, specifically requesting the elimination of import tariff on so-called CXL sugar imports.<sup>14</sup> The company maintained that these are “outdated and unfair”, since the €98/tonne duty makes CXL imports “significantly more expensive”. TLS also called, in the longer term, for the “abolition of import duties alongside beet quotas”, in order to increase competition in the market.<sup>15</sup> TLS is thus calling for a broadening out of duty-free access beyond traditionally preferred suppliers.</p><p>This trend of intensified competition for markets in the run-up to quota abolition poses particular challenges to TLS, given the supply difficulties it has faced and the consequent low levels of refining capacity utilisation. These competitive pressures will not have been helped by the price and market collusion of three German sugar companies (which account for 43% of the EU sugar market) revealed by Germany’s Federal Cartel Office in February 2014, when it imposed fines totalling €280 million on the three companies involved.<sup>16</sup></p><a name="eztoc3289922_0_5" id="eztoc3289922_0_5"></a><h3>Link to ACP sugar sectors</h3><p>Traditionally, the supply needs of Tate &amp; Lyle sugar refineries were accommodated under the “total supply needs” calculation, which established access for preferential sugar imports under the EU’s sugar protocol and the special preferential sugar arrangement. The calculation allocated 1,130,000 tonnes of sugar to the UK raw sugar importer (Tate &amp; Lyle); a further 292,000 tonnes under the sugar protocol and 204,500 tonnes under the special preferential sugar arrangement were allocated to the two Portuguese refiners<sup>17</sup> (one owned by Tate &amp; Lyle and the other by RAR).</p><p>The import licensing arrangements gave exclusive preferential access to sugar import licences to traditional refiners, but were modified as part of the EU’s 2005 sugar sector reforms.</p><p>During the first 3 years of the reform of the EU sugar regime, “full-time refiners were guaranteed duty-free access to raw sugar up to the limit of 2,324,735 tonnes.” When the formal arrangements established under the sugar protocol came to an end on 1 October 2009, this terminated both EU guarantees to buy ACP sugar and ACP obligations to supply sugar to the EU market.</p><p>Subsequently, changes to these import licensing arrangements have seen an opening up of access to import licences. For the first 3 months of the campaign, priority is still accorded to full-time refiners, but the definition of full-time refiners now includes both traditional refiners and new full-time refiners – i.e. facilities that processed more than 15,000 tonnes of raw cane sugar in 2004/05 campaign. Since 2005, the sugar companies have invested in 1.85 million tonnes of co-refining capacity, which has increased competition for preferential sugar imports and has had a major impact on the market position of traditional refiners such as TLS.</p><p>While TLS was traditionally a major importer of ACP sugar, competition from EU beet co-refiners for sugar imported from traditionally preferred ACP/LDC suppliers has increased. This has led to a number of low-cost ACP sugar exporters moving away from supplying TLS. By 2011/12, only 4.5% of Swaziland’s expanded sugar exports to the EU were destined for the UK market. Similarly, only 1.4% of Zambian sugar exports, 4.2% of Mozambican sugar exports, 7.4% of Malawian sugar exports and 23.3% of Zimbabwean sugar exports were destined for the UK market. However, Guyana, Barbados, Belize and, until recently, Jamaica and Fiji have continued their traditional supply relationships with TLS.</p><p><b>ACP/LDC sugar suppliers to the UK (tonnes, white sugar equivalent)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="123" valign="top">  &nbsp;
+  </td><td width="123" valign="top">  <b>2009/10</b>
+  </td><td width="123" valign="top">  <b>2010/11</b>
+  </td><td width="102" valign="top">  <b>2011/12</b>
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Barbados
+  </td><td width="123" valign="top">  23,500
+  </td><td width="123" valign="top">  11,941
+  </td><td width="102" valign="top">  21,750
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Belize
+  </td><td width="123" valign="top">  65,612
+  </td><td width="123" valign="top">  72,038
+  </td><td width="102" valign="top">  78,423
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Côte d’Ivoire
+  </td><td width="123" valign="top">  47
+  </td><td width="123" valign="top">  -
+  </td><td width="102" valign="top">  -
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Dominican Republic
+  </td><td width="123" valign="top">  433
+  </td><td width="123" valign="top">  -
+  </td><td width="102" valign="top">  -
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Fiji
+  </td><td width="123" valign="top">  100,300
+  </td><td width="123" valign="top">  136,600
+  </td><td width="102" valign="top">  100,978
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Guyana
+  </td><td width="123" valign="top">  106,750
+  </td><td width="123" valign="top">  130,146
+  </td><td width="102" valign="top">  97,554
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Jamaica
+  </td><td width="123" valign="top">  59,200
+  </td><td width="123" valign="top">  70,748
+  </td><td width="102" valign="top">  -
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Kenya
+  </td><td width="123" valign="top">  410
+  </td><td width="123" valign="top">  -
+  </td><td width="102" valign="top">  -
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Malawi
+  </td><td width="123" valign="top">  16,123
+  </td><td width="123" valign="top">  9,312
+  </td><td width="102" valign="top">  7,567
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Mozambique
+  </td><td width="123" valign="top">  20,580
+  </td><td width="123" valign="top">  -
+  </td><td width="102" valign="top">  10,006
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Mauritius
+  </td><td width="123" valign="top">  43,615
+  </td><td width="123" valign="top">  43,614
+  </td><td width="102" valign="top">  41,733
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Swaziland
+  </td><td width="123" valign="top">  4,282
+  </td><td width="123" valign="top">  12,586
+  </td><td width="102" valign="top">  16,242
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Sudan
+  </td><td width="123" valign="top">  20,000
+  </td><td width="123" valign="top">  -
+  </td><td width="102" valign="top">  -
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Zambia
+  </td><td width="123" valign="top">  6,674
+  </td><td width="123" valign="top">  5,112
+  </td><td width="102" valign="top">  1,653
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Zimbabwe
+  </td><td width="123" valign="top">  8,850
+  </td><td width="123" valign="top">  19,531
+  </td><td width="102" valign="top">  34,000
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Total ACP
+  </td><td width="123" valign="top">  476,376
+  </td><td width="123" valign="top">  511,628
+  </td><td width="102" valign="top">  409,906
+  </td>
+</tr>
+
+<tr>
+<td colspan="4" width="470" valign="top">  Non-ACP LDCs
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Cambodia
+  </td><td width="123" valign="top">  9,850
+  </td><td width="123" valign="top">  22,000
+  </td><td width="102" valign="top">  15,000
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Laos
+  </td><td width="123" valign="top">  38,450
+  </td><td width="123" valign="top">  41,380
+  </td><td width="102" valign="top">  41,530
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  &nbsp;
+  </td><td width="123" valign="top">  &nbsp;
+  </td><td width="123" valign="top">  &nbsp;
+  </td><td width="102" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Total ACP/LDC*
+  </td><td width="123" valign="top">  524,676
+  </td><td width="123" valign="top">  575,008
+  </td><td width="102" valign="top">  466,436
+  </td>
+</tr>
+
+</table>
+<p>* Totals represent total imports into the UK, not total imports by Tate and Lyle Sugars for refining purposes.</p><p>Source: EC, ‘Evolution of the sugar imports in the European Union from LDCs and ACP countries’, Report from the Commission to the European Parliament and the Council, COM (2013) 323 final, 31 May 2013<sup>18</sup></p><p>In April 2010, Jamaica concluded a 2-year supply agreement with Tate and Lyle for the delivery of 100,000 tonnes (40,000 tonnes of this to be delivered by 31 March 2011), based on a reserve price of £370/tonne and a fifty–fifty share of the profit from the final sale of the sugar. Since then, Jamaica has begun to diversify its exports to EU markets, halting its delivery of sugar to the UK market in the 2011/12 season. For the 2012/13 season, the Chinese-owned Pan Caribbean Sugar Company (PCSC) “signed a contract with France-based Sucres et Denrées [Sucden]… to supply approximately 40,000 tonnes of raw sugar”,<sup>19</sup> which represents a further shift in marketing arrangements for Jamaican sugar away from TLS and Eridania. This occurred despite earlier offers from TLS to assist with fair-trade certification of Jamaican sugar cane farmers’ associations.<sup>20</sup></p><p>In 2013, Fiji also began to reorient its trade away from TLS, selling a consignment of 30,000 tonnes of sugar to sugar refining operations in Spain owned by Associated British Sugar.</p><p>These developments have extended the earlier trend of a number of highly competitive ACP sugar producers selling their raw sugar to co-refiners, rather than to traditional raw cane sugar processors. The reorientation of ACP sugar exports has led to a dramatic change in the level of raw sugar imports into the UK from ACP/LDC suppliers, declining from the 1,130,000 tonnes guaranteed under the sugar protocol and special preferential sugar arrangement to a low of 466,437 tonnes in 2011/12.</p><p>In terms of direct corporate linkages, the Fanjul family also owns the Central Romana Corporation, which maintains a diversified portfolio of activities in the Dominican Republic (DR), including an annual sugar production capacity of over 400,000 tonnes, representing “nearly 70% of the DR’s total sugar production”. Central Romano is a major supplier of sugar products to consumers and industrial users in the DR and, through the ASR Group, has access to both the US and EU export markets.<sup>21</sup> In 2013, for the first time since 2009, sugar was exported from the DR to the EU market, when Central Romano shipped 60,000 tonnes to the UK and Portugal. This accounted for 60% of the company’s total sugar exports, while Central Romano filled only a third of its US tariff-rate quota (TRQ). The company is currently expanding its sugar production, with a 4% expansion projected for 2013/14.<sup>22</sup></p><p>Currently, Central Romano is increasingly focusing its growth strategy on the tourism sector.<sup>23</sup> It estimates that if targets for growth in the tourism sector are met, local sugar consumption could increase by 40% by 2024.</p><p>In 2012, ASR acquired a majority shareholding in Belize Sugar Industries (BSI), the only sugar mill in Belize.<sup>24</sup> ASR’s decision to acquire BSI was closely linked to the February 2008 decision by Tate &amp; Lyle to convert its entire direct consumption sugar range to Fairtrade-certified sugars.<sup>25</sup> This formed part of a market repositioning strategy in preparation for the impact of EU sugar sector reforms. According to representatives of FCC, “the Fairtrade component of the acquisition was important,” since there are 6,000 Fairtrade-certified sugar cane growers in Belize.<sup>26</sup> The shift to a fair-trade focus was further enhanced with the establishment in October 2012 of TLS’s joint venture with the chemicals and food ingredients group IMCD Benelux to supply fair-trade-certified sugar to industrial users across mainland Europe.<sup>27</sup></p><a name="eztoc3289922_0_6" id="eztoc3289922_0_6"></a><h3>Issues and prospects</h3><p>If acted upon, calls by TLS for traditional refiners to be given greater access to raw sugar, through a broadening out of duty-free access beyond traditional preferred suppliers, could carry important long-term implications for ACP sugar exporters. The key to TLS’s survival as a raw cane sugar refiner is access to raw cane sugar supplies at world market prices. TLS representatives have acknowledged that many of the current traditional suppliers are high-cost producers.<sup>28</sup> This suggests that if duty-free access for traditional cane sugar refiners to imports from non-ACP countries were increased, TLS would be likely to purchase from lower-cost non-ACP producers, unless current ACP suppliers can reduce costs and supply sugar at much lower prices.</p><p>If TLS cannot secure access to other cheaper sources of duty-free raw sugar imports, then capacity utilisation at its refineries may continue to decline, thus undermining the commercial viability of continued operations. This would leave ASR with the option of producing well-known TLS-branded sugars for which it has “a perpetual worldwide licence” from its other facilities. Any such closure of TLS refineries (accompanied, probably, by the demise of the RAR Portuguese cane sugar refinery, given its similar capacity utilisation problems) would reduce the market options open to ACP sugar exporters to the EU.</p><p>However, according to an EC-commissioned evaluation of Common Agricultural Policy measures applied in the sugar sector, “in the EU-25, full-time refinery production capacity has in fact increased by 58%” as a result of the reforms introduced. The evaluation also “estimated that the overall refining capacity in the EU 27 will be around 4.7 million tonnes/year in 2013.”<sup>29</sup></p><p>Nevertheless, questions have been raised about the long-term commitment of some sugar beet co-refiners to raw sugar cane refining. Following abolition of production quotas, no limits will be placed on how much sugar can be produced from a company’s own beet production, which will then be determined by the profitability of the available markets.</p><p><b>Further reading:</b></p><p>
+<a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Sugar-industry-corporate-profiles-Introduction" target="_blank">Introduction to sugar industry corporate profiles</a></p><p>
+<a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Suiker-Unie-Royal-Cosun-corporate-profile" target="_blank">Suiker Unie/Royal Cosun</a></p><p>
+<a href="/en/layout/set/print/Agriculture/Commodities/Sugar/British-Sugar-Associated-British-Foods-corporate-profile" target="_blank">British Sugar/Associated British Foods</a></p><p>
+<a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Tereos-corporate-profile" target="_blank">Tereos</a></p><p>
+<a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Suedzucker-corporate-profile" target="_blank">Südzucker</a></p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>1. CTA&nbsp;<i>Agritrade</i>, ‘Tate and Lyle sugar division sold to US company’, 8 August 2010</p><p class=" text-left">
+<a href="http://agritrade.cta.int/en/layout/set/print/Agriculture/Commodities/Sugar/Tate-and-Lyle-sugar-division-sold-to-US-company" target="_self">http://agritrade.cta.int/en/layout/set/print/Agriculture/Commodities/Sug...</a></p><p class=" text-left">2. ASR, ‘About us: Our owners’</p><p class=" text-left">
+<a href="http://www.asr-group.com/about-us/our-owners/" target="_self">http://www.asr-group.com/about-us/our-owners/</a></p><p class=" text-left">3. Wikipedia, ‘American Sugar Refining’, undated</p><p class=" text-left">
+<a href="http://en.wikipedia.org/wiki/American_Sugar_Refining" target="_self">http://en.wikipedia.org/wiki/American_Sugar_Refining</a></p><p class=" text-left">4. ASR, ‘About us: Our owners’</p><p class=" text-left">
+<a href="http://www.asr-group.com/about-us/our-owners/" target="_self">http://www.asr-group.com/about-us/our-owners/</a></p><p class=" text-left">5. ASR, ‘About us: Our world’</p><p class=" text-left">
+<a href="http://www.asr-group.com/about-us/our-world/" target="_self">http://www.asr-group.com/about-us/our-world/</a></p><p class=" text-left">6.&nbsp;<i>Thisismoney.co.uk</i>, ‘Cambodian farmers launch action against Tate and Lyle’, 12 April 2013</p><p class=" text-left">
+<a href="http://www.boycottbloodsugar.net/2013/04/13/cambodian-farmers-launch-action-against-tate-and-lyle/" target="_self">http://www.boycottbloodsugar.net/2013/04/13/cambodian-farmers-launch-act...</a></p><p class=" text-left">7.&nbsp;<i>Foodnavigator.com</i>, ‘Tate &amp; Lyle teams up with Eridania for Italian sugar supply’, 29 March 2007</p><p class=" text-left">
+<a href="http://www.foodnavigator.com/Market-Trends/Tate-Lyle-teams-up-with-Eridania-for-Italian-sugar-supply" target="_self">http://www.foodnavigator.com/Market-Trends/Tate-Lyle-teams-up-with-Erida...</a></p><p>8. Co-refining is the term used for sugar production by sugar beet refiners from both sugar beet and raw cane sugar.</p><p class=" text-left">9.&nbsp;<i>Sugaronline.com</i>, ‘Tate &amp; Lyle wants end to duty on raw sugar imports’, 26 November 2013</p><p class=" text-left">
+<a href="http://www.sugaronline.com/home/website_contents/view/1223816" target="_self">http://www.sugaronline.com/home/website_contents/view/1223816</a></p><p class=" text-left">10. Tate &amp; Lyle Sugars, ‘Save Our Sugar’</p><p class=" text-left">
+<a href="http://saveoursugar.eu/" target="_self">http://saveoursugar.eu/</a></p><p class=" text-left">11.&nbsp;<i>Bloomberg.com</i>, ‘Tate &amp; Lyle urges EU to guarantee sugar supplies as costs soar’, 17 April 2013</p><p class=" text-left">
+<a href="http://www.bloomberg.com/news/2013-04-17/tate-lyle-urges-eu-to-guarantee-sugar-supplies-as-costs-soar.html    " target="_self">http://www.bloomberg.com/news/2013-04-17/tate-lyle-urges-eu-to-guarantee...</a></p><p>12.&nbsp;<i>Thegrocer.co.uk</i>, ‘French sugar giant Tereos ups the ante as UK prices tumble’, 14 September 2013</p><p>
+<a href="http://www.thegrocer.co.uk/topics/french-sugar-giant-tereos-ups-the-ante-as-uk-prices-tumble/349507.article " target="_self">http://www.thegrocer.co.uk/topics/french-sugar-giant-tereos-ups-the-ante...</a></p><p class=" text-left">13. CTA&nbsp;<i>Agritrade</i>, ‘Production and market developments in the EU sugar sector’, 14 October 2013</p><p class=" text-left">
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Production-and-market-developments-in-the-EU-sugar-sector" target="_self">http://agritrade.cta.int/Agriculture/Commodities/Sugar/Production-and-ma...</a></p><p>14. Some 30% of EU sugar imports are currently sourced from non-preferred suppliers under the CXL quota arrangement, on which a levy of €98/tonne is paid. CXL suppliers include highly competitive countries such as Brazil and Australia.</p><p class=" text-left">15.&nbsp;<i>Bloomberg.com</i>, ‘Tate &amp; Lyle urges EU to abolish a sugar duty as bloc quotas end’, 27 November 2013</p><p class=" text-left">
+<a href="http://www.pina.com.fj/index.php?p=pacnews&amp;m=read&amp;o=114563774352955d2eb80dabd2ca27" target="_self">http://www.pina.com.fj/index.php?p=pacnews&amp;m=read&amp;o=114563774352...</a></p><p class=" text-left">16.&nbsp;<i>Foodnavigator.com</i>, ‘German sugar companies fined €280m for price fixing’, 19 February 2014</p><p class=" text-left">
+<a href="http://www.foodnavigator.com/Business/German-sugar-companies-fined-280m-for-price-fixing" target="_self">http://www.foodnavigator.com/Business/German-sugar-companies-fined-280m-...</a></p><p class=" text-left">17. EU Council Regulations 2038/1999, 1375/98 and 440/99.</p><p>18. European Commission, Report to the European Parliament and Council, ‘Evolution of the sugar imports in the European Union from LDC and ACP countries’, COM(2013) 323 final, 31 May 2013</p><p>
+<a href="http://www.ipex.eu/IPEXL-WEB/dossier/files/download/082dbcc53eea9c03013ef9ddff060a57.do" target="_self">http://www.ipex.eu/IPEXL-WEB/dossier/files/download/082dbcc53eea9c03013e...</a></p><p>19. CTA&nbsp;<i>Agritrade</i>, ‘Barbados seeks Japanese support for sugar restructuring, while other Caribbean restructuring efforts continue’, 18 March 2013</p><p class=" text-left">
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Barbados-seeks-Japanese-support-for-sugar-restructuring-while-other-Caribbean-restructuring-efforts-continue" target="_self">http://agritrade.cta.int/Agriculture/Commodities/Sugar/Barbados-seeks-Ja...</a></p><p class=" text-left">20. CTA&nbsp;<i>Agritrade</i>, ‘Special report: Regional developments in ACP sugar sectors 2012–2013’, 13 September 2013</p><p class=" text-left">
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Special-report-Regional-developments-in-ACP-sugar-sectors-2012-2013" target="_self">http://agritrade.cta.int/Agriculture/Commodities/Sugar/Special-report-Re...</a></p><p class=" text-left">21. CTA&nbsp;<i>Agritrade</i>, ‘Developments in the sugar sector in the Dominican Republic’, 11 February 2013</p><p class=" text-left">
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Developments-in-the-sugar-sector-in-the-Dominican-Republic" target="_self">http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Developments-i...</a></p><p class=" text-left">22. USDA, ‘Dominican Republic: Sugar annual 2014’,&nbsp;<i>GAIN Report</i>, 2 April 2014</p><p class=" text-left">
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Sugar%20Annual_Santo%20Domingo_Dominican%20Republic_4-2-2014.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Sugar%20Annual_San...</a></p><p class=" text-left">23. Centro Romano, ‘Central Romana Corporation, Ltd’, undated&nbsp;
+<a href="http://www.centralromana.com.do/estructura_corp.php" target="_self">http://www.centralromana.com.do/estructura_corp.php</a></p><p class=" text-left">24. CTA&nbsp;<i>Agritrade</i>, ‘ASR to take shares in Belize Sugar Industries’, 9 July 2012</p><p class=" text-left">
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/ASR-to-take-shares-in-Belize-Sugar-Industries" target="_self">http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/ASR-to-take-sh...</a></p><p class=" text-left">25. CTA&nbsp;<i>Agritrade</i>, ‘Major expansion of the “fair-trade” sugar market’, 30 March 2008</p><p class=" text-left">
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Major-expansion-of-the-fair-trade-sugar-market" target="_self">http://agritrade.cta.int/Agriculture/Commodities/Sugar/Major-expansion-o...</a></p><p class=" text-left">26. CTA&nbsp;<i>Agritrade</i>, ‘Fair-trade component a key factor in BSI acquisition by ASR’, 2 December 2012,&nbsp;
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Fair-trade-component-a-key-factor-in-BSI-acquisition-by-ASR" target="_self">http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Fair-trade-com...</a></p><p class=" text-left">27. CTA&nbsp;<i>Agritrade</i>, ‘Special report: Regional developments in ACP sugar sectors 2012–2013’, 13 September 2013</p><p class=" text-left">
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Special-report-Regional-developments-in-ACP-sugar-sectors-2012-2013" target="_self">http://agritrade.cta.int/Agriculture/Commodities/Sugar/Special-report-Re...</a></p><p class=" text-left">28. Bloomberg, ‘Tate &amp; Lyle urges EU to abolish a sugar duty as bloc quotas end’, 27 November 2013</p><p class=" text-left">
+<a href="http://www.pina.com.fj/index.php?p=pacnews&amp;m=read&amp;o=114563774352955d2eb80dabd2ca27" target="_self">http://www.pina.com.fj/index.php?p=pacnews&amp;m=read&amp;o=114563774352...</a></p><p class=" text-left">29. EC, ‘Evaluation of CAP measures applied in the sugar sector’, December 2011</p><p>
+<a href="http://ec.europa.eu/agriculture/eval/reports/sugar-2011/fulltext_en.pdf" target="_self">http://ec.europa.eu/agriculture/eval/reports/sugar-2011/fulltext_en.pdf</a></p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Suedzucker-corporate-profile">Südzucker - corporate profile</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Sugar-industry-corporate-profiles-Introduction">Sugar industry corporate profiles - Introduction</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Tereos-corporate-profile">Tereos - corporate profile</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/British-Sugar-Associated-British-Foods-corporate-profile">British Sugar/Associated British Foods - corporate profile</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Suiker-Unie-Royal-Cosun-corporate-profile">Suiker Unie/Royal Cosun - corporate profile</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":146,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

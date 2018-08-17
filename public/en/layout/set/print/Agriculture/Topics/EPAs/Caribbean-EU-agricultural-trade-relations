@@ -1,0 +1,1349 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Caribbean - EU agricultural trade relations  / EPAs / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																				,
+								<a href="/en/layout/set/print/Publications/(regions)/7770/(search)/simple">Caribbean</a>
+																																																																																																																																																																																																																																																												
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7795/(search)/simple">General</a>
+							
+																																																																																																																																																																																																																																																																																																																																																													
+																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7813/(search)/simple">EPAs</a>
+							
+																																																																																																																																																																																																																																																																					
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Caribbean - EU agricultural trade relations </h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/2013/138262/file/6dc65818bf40ffbdb2b400aa4c970b0f.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+												31 March 2010
+										</h4>
+
+						<h2>Executive brief, April 2010</h2>
+					</header>
+
+
+				<div class="intro">
+
+						<a name="eztoc54717_0_2" id="eztoc54717_0_2"></a><h3>Contents</h3><p>
+<b>
+<a href="#1" target="_self">1 Background</a></b><br/>
+<b>
+<a href="#2" target="_self">2 The agriculture-related provisions and special provisions related to C...</a></b><br/>
+
+<a href="#21" target="_self">2.1 Overview of the agriculture-related provisions</a><br/>
+
+<a href="#22" target="_self">2.2 Impact of preference erosion</a><br/>
+
+<a href="#22" target="_self">2.2.1 The importance of preference erosion</a><br/>
+
+<a href="#222" target="_self">2.2.2 The banana sector: what future value will preferential access hold?</a><br/>
+
+<a href="#223" target="_self">2.2.3 The sugar sector: what future value will preferential access hold?</a><br/>
+
+<a href="#224" target="_self">2.2.4 The rice sector: what future value will preferential access hold?</a><br/>
+
+<a href="#225" target="_self">2.2.5 The rum sector: lessons from successful restructuring</a><br/>
+
+<a href="#23" target="_self">2.3 The rules of origin issue</a><br/>
+
+<a href="#24" target="_self">2.4 Sanitary and phytosanitary (SPS) issues</a><br/>
+<b>
+<a href="#3" target="_self">3 CARIFORUM food and agricultural liberalisation commitments and develop...</a></b><br/>
+
+<a href="#3" target="_self">3.1 Product exclusions</a><br/>
+
+<a href="#32" target="_self">3.2 The basic CARIFORUM tariff elimination commitments</a><br/>
+
+<a href="#33" target="_self">3.3 The safeguard provisions</a><br/>
+
+<a href="#34" target="_self">3.4 The commitment on elimination of export subsidies</a><br/>
+
+<a href="#35" target="_self">3.5 The treatment of non-tariff trade policy tools</a><br/>
+
+<a href="#36" target="_self">3.6 The development assistance provisions</a><br/>
+<b>
+<a href="#a" target="_self">Annexes</a></b><br/><b>
+<a href="#s" target="_self">Information sources</a></b></p><p><b>About this executive brief</b></p><p>CTA’s <i>Executive brief: Caribbean-EU EPA negotiations </i>was published in October 2008 and in CTA’s <i>Agritrade: ACP–EU Trade Issues (2009 Compendium)</i>. With the conclusion of EPA in October 2008, the focus of this new executive brief now shifts to the implementation of the agreement.</p><p>The new executive brief consists of: </p><p>
+<b>1. Background:</b> outlining the EPA and the context of EU-Caribbean agricultural trade relations; <br/>
+<b>2. Agricultural provisions and specific provisions related to exports:</b> reviewing the provisions made for agriculture and for CARIFORUM food and agriculture exports; <br/><b>3. CARIFORUM food and agricultural liberalisation commitments and development assistance provisions:</b> examining the implications of liberalisation commitments and how development assistance provisions can best be employed. </p><p>The executive brief of October 2008 is available on request from: 
+<a href="mailto:agritrade-mail@cta.int" target="_self">agritrade-mail@cta.int</a>. </p>
+
+		</div>
+		
+		
+					<a name="eztoc54718_1" id="eztoc54718_1"></a><h2>
+<a name='1'></a>1 Background</h2><p>The Caribbean Economic Partnership Agreement (EPA) negotiating configuration is the only ACP region to have concluded a comprehensive EPA to which all the initial negotiating parties have signed up. While Haiti only signed in December 2009, all other Caribbean parties had signed the agreement by October 2008. This meant that by 1 January 2010, full duty-free, quota-free access had been granted (with transitional quotas having been discontinued). The only remaining restrictions are in the sugar sector, where a pan-ACP safeguard clause will remain in operation until 1 October 2015. The principal restrictions on Caribbean food and agricultural exports to the EU now relate to the restrictive rules of origin (particularly for sugar), special provisions on exports to the EU overseas territories of the Caribbean and sanitary and phytosanitary (SPS) and food safety requirements.</p><p>The government of Guyana continues to express its concerns over these issues and the possible implications of the EPA provisions for intra-regional integration processes in the Caribbean. In response to these concerns, the EC has agreed to a comprehensive review of the EPA after five years ‘to determine the impact of the agreement, including costs and consequences of implementation’, with a view to amending its provisions and adjusting its application if necessary. Guyanese concerns need to be seen in the context of President Jagdeo’s observation, at the FAO World Food Summit in Rome in November 2009, that greater ‘political will’ is needed if agricultural development is to be promoted in the Caribbean. President Jagdeo has specifically called for the establishment of concrete policy measures such as ‘incentives and budgetary allocations for drainage and irrigation and research and development’ in order to ‘meet food demand and capitalise on export opportunities’. </p><p>The statements by President Jagdeo in November 2009 highlight the need for a clear policy lead in and commitment to redefining the role of the food and agriculture sector in the Caribbean in a context of evolving global production and trade. This raises a number of important issues, notably: </p>
+<ul>
+
+<li>What types of private-public sector dialogue on agro-food sector strategies are needed to establish a clear vision of the future of the food and agriculture sector in the Caribbean?</li>
+
+<li>What lessons can be drawn from existing successful restructuring and adjustment processes, such as those successfully under way in the Caribbean rum sector? </li>
+
+<li>What policy tools can best be deployed in support of sector-specific, market-led, private-sector based restructuring processes in the Caribbean region?</li>
+
+<li>What should be the role of the state in the future restructuring of the Caribbean food and agricultural sectors, as a driver of change or as a facilitator of largely private sector-driven processes of transformation?</li>
+
+</ul>
+<p>Caribbean private-sector bodies have broadly welcomed the conclusion of the comprehensive EPA, although in the sugar sector concerns have been expressed ‘over the slow pace of disbursement of funds by the EU’, under the Sugar Protocol Accompanying Measures Programme. This echoes similar concerns from the Caribbean Council for Europe, which described past EC financial support as ‘virtually inaccessible’ to the private sector. This, it has been argued, is generating a ‘deep cynicism about the real meaning of the EPA’. This is likely to be an important issue for the Caribbean sugar, bananas, rice and even the rum sector, where the highly successful EC-financed Integrated Development Programme for the Caribbean Rum Sector is seen by many industry stakeholders as being brought to a disappointingly premature conclusion.</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td valign="top">  <a name="eztoc54718_1_0_1" id="eztoc54718_1_0_1"></a><h4>Understanding the complex nature of the CARIFORUM-EU EPA</h4><p>An analysis undertaken by the Overseas Development Institute (ODI) for the Commonwealth Secretariat presents a complex picture in terms of the basic tariff liberalisation commitments entered into under the CARIFORUM-EU EPA. It argues that ‘whilst the CARIFORUM EPA has been portrayed as a region-to-region document, the reality is that it provides an umbrella for separate and partially different national trade policies on goods’ with ‘40 separate services liberalisation schedules’ – one for each of the 27 EU members and one for each of the 13 CARIFORUM states’. </p><p>In this context it argues the CARIFORUM-EU EPA is not so much a single region-to-region agreement as a multiplicity of bilateral tariff-elimination commitments on the part of Caribbean member states, with there being ‘such significant differences between the individual country liberalisation schedules that have been agreed under the CARIFORUM EPA that the regionally coordinated element to the exercise is less apparent than the national element’. The analysis points out that even by 2033 there will not be a single external tariff in the Caribbean, since 6.5% of goods currently imported from the EU will still face different tariffs in different CARIFORUM member states. Before this date the differences will of course be much larger. </p><p>Against this background the ODI analysis maintains that the country-specific impacts of EPA commitments could vary considerably between CARIFORUM member states, with detailed, in-depth country-by-country and sector-by-sector analysis being necessary to get to grips with the likely impact of the agreement in individual CARIFORUM states. Such analysis, which would then be subject to thorough discussion with concerned stakeholders, is seen as being desirable in order to avoid any ‘undesirable (and possibly unforeseen) effects’ emerging in the course of the implementation of the agreed EPA commitments.</p><p>Source: Overseas Development Institute (ODI) for the Commonwealth Secretariat, ‘Analysis of the contents of the CARIFORUM and Pacific ACP Economic Partnership Agreements and challenges ahead’, December 2008. (See sources below)</p>
+  </td>
+</tr>
+
+</table>
+<p>With the conclusion of a comprehensive Caribbean-EU EPA, the focus has shifted to discussions over the implementation of the agreement. A detailed ‘road map’ under preparation is designed to set out:</p>
+<ul>
+
+<li>the legislative actions required in follow-up to the agreement;</li>
+
+<li>the policy actions required to ensure the consistency of national policies with the commitments entered into through the agreement;</li>
+
+<li>the flanking measures required at the national and regional levels to reduce the adjustment costs associated with EPA implementation and to facilitate the exploitation of new opportunities created under the EPA; </li>
+
+<li>the time-lines for the accomplishment of various actions in each of these areas;</li>
+
+<li>the resources required for the implementation of EPA commitments; </li>
+
+<li>the possible sources of funding available to support EPA-related adjustments and implementation.</li>
+
+</ul>
+<p>However, with no comprehensive country or sectoral analysis yet undertaken of the implications of the diverse commitments entered into under the EPA, progress in the detailed elaboration of the ‘road map’ is proving difficult.</p><p>Several CARIFORUM member states have established, or are in the process of establishing, national EPA implementation units. In addition, a number of governments have launched dialogues with the private sector on how best to exploit opportunities and deal with the adjustment challenges arising under the EPA. This ranges from the establishment in Barbados of a ‘Private Sector Trade Team’ to help companies exploit opportunities arising under the EPA (initially focusing on trade opportunities with French overseas territories in the Caribbean), to the convening of the first Caribbean-EU Business Forum (November 2008).</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td valign="top">  <a name="eztoc54718_1_0_2" id="eztoc54718_1_0_2"></a><h4>Putting CARIFORUM-EU food and agricultural trade relations in context</h4><p>Overall the EU accounts for 19% of total Caribbean exports, and 13% of total Caribbean imports. The EU is not therefore the regional major trading partner. However this is not the case for the region’s traditional agricultural exports, where the EU market is far more important than would be indicated by the general overall trade picture. </p><p>The importance of food and agricultural products in total exports from CARIFORUM member states to the EU varies considerably from country to country. At the time of the conclusion of the EPA negotiations, the Dominican Republic was exporting €268.6 million of food and agricultural products per annum to the EU across seven sectors (accounting for 33.7% of total exports to the EU). With the opening up of new market opportunities under the EPA for exports of sugar and bananas from the Dominican Republic, a further expansion of these exports is anticipated. In contrast, St Kitts &amp; Nevis was exporting only €132,000 of food and agricultural products to the EU, and had discontinued sugar production for export in response to the implementation of EU sugar sector reforms. In between these extremes were: </p>
+<ul>
+
+<li>four countries exporting between €79 million and €152 million of food and agricultural products to the EU (Bahamas – accounting for 19% of its total exports to the EU, Guyana – 73.1%, Jamaica – 20.8% and Belize – 78.3%);</li>
+
+<li>three countries exporting between €20 million and €25 million of food and agricultural products to the EU (St Lucia – accounting for 42.2% of its total exports to the EU, Barbados – 52.8%, Suriname – 10%);</li>
+
+<li>six countries exporting between €1 million and €13 million of food and agricultural products to the EU (Antigua &amp; Barbuda – accounting for 0.8% of its total exports to the EU, Grenada – 34.7%, Haiti – 11.3%, Dominica – 63.8%, St Vincent – 9.4% and Trinidad &amp; Tobago – 1.2%).</li>
+
+</ul>
+<p>Nine CARIFORUM countries have food and agricultural exports to the EU concentrated in sectors facing the erosion of both the value and margins of traditional trade preferences (accounting for 17% of the region’s total exports to the EU), with eight of these countries facing serious restructuring challenges in some of the affected sectors. The significance of exports of food and agricultural products to the EU thus varies considerably across CARIFORUM member states. </p><p>The role of food and agricultural production in CARIFORUM members also varies considerably, as does the size and commercial attractiveness of local markets to EU exporters. As a consequence, the commercial challenges arising for domestic producers serving local and regional markets from the implementation of the trade liberalisation commitments in the EPA are likely to vary greatly. Specific challenges in specific sectors, under specific circumstances, are likely to arise from the implementation of the EPA and the evolution of EU policies in response to market changes and the evolution of market conditions. Utilising the various provisions of the CARIFORUM-EU EPA in response to these specific challenges will be one of the most demanding tasks faced in the implementation of the EPA. </p>
+  </td>
+</tr>
+
+</table>
+<p>In terms of wider institutional arrangements for dealing with EPA-related adjustment and EPA implementation, an intense debate is under way regarding how this should best be structured, both in terms of the main regional institutions that should be involved and the relative weight to be given to national- and regional-level adjustment strategies. </p><p>The issue of the institutional arrangements for dealing with EPA-related adjustments is a critical area for discussion, particularly as it relates to support to sector-based economic adjustment processes, where highly variable experiences exist within the region. Two major issues that need to be addressed can be identified:</p>
+<ul>
+
+<li>the balance to be struck between regional coordination and resource mobilisation on the one hand, and the national design and implementation of targeted market-led restructuring initiatives on the other; </li>
+
+<li>the role of the private sector in the design and management of sector-based production and trade adjustment processes.</li>
+
+</ul>
+<table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td valign="top">  <a name="eztoc54718_1_0_3" id="eztoc54718_1_0_3"></a><h4>Restructuring trade negotiations structures in the Caribbean</h4><p>According to a special update issued by the Office of Trade Negotiations of the CARICOM Secretariat, ‘at the end of the first quarter of 2009, the CARICOM Heads of Government took a decision to incorporate the Caribbean Regional Negotiating Machinery (CRNM) into the CARICOM Secretariat as… [the] Office of Trade Negotiations’ (OTN). This transition had come into effect by the end of 2009. The OTN ‘reports to the Council of Trade and Economic Development, which gives guidance and defines its negotiating mandate as authorised by the CARICOM Heads of Government’. The OTN now has formal responsibility for all external trade negotiations.</p><p>In this context, following the signing of the Caribbean-EU EPA in October 2008 the agreement formally came into effect on 29 December 2008. Overall responsibility for EPA implementation lies with the CARICOM Secretariat, with in certain areas during 2009 the OTN following up on implementation issues. In February 2009 an EPA Implementation Unit was established in the CARICOM Secretariat to take responsibility for overseeing implementation of the commitments made.</p>
+  </td>
+</tr>
+
+</table>
+<a name="eztoc54718_2" id="eztoc54718_2"></a><h2>
+<a name='2'></a>2 The agriculture-related provisions and special provisions related to CARIFORUM food and agriculture exports</h2><a name="eztoc54718_2_1" id="eztoc54718_2_1"></a><h3>
+<a name='21'></a>2.1 Overview of the agriculture-related provisions</h3><p>According to the Caribbean Regional Negotiating Machinery (CRNM), the inclusion of a specific chapter on agriculture in the EPA (Chapter 5, Title 1, Part II) is intended to encourage the sustainable development of the CARIFORUM agricultural sector. Specifically the provisions were designed to contribute to food security, poverty eradication and diversification, through the enhancement of competitiveness and innovation. On the export side, the major advantages identified for CARIFORUM food and agricultural producers included:</p>
+<ul>
+
+<li>the preservation of traditional Cotonou trade preferences;</li>
+
+<li>an expansion of duty-free, quota-free access, attaining by 2010 full duty-free, quota-free access (with the exception of the application of a pan-ACP safeguard arrangement in the sugar sector until 1 October 2015);</li>
+
+<li>improvements in the rules of origin designed to expand the range of CARIFORUM food and agricultural products benefiting from full duty-free, quota-free access (since only ‘originating’ products benefit from these provisions);</li>
+
+<li>commitments from the EU to consult with CARIFORUM before taking policy initiatives (including concluding third-country trade agreements) which could affect the competitive position of CARIFORUM exports.</li>
+
+</ul>
+<p>It was argued that through these provisions the EPA provided possibilities to exploit market opportunities previously unavailable to CARIFORUM food and agricultural producers.</p><p>On the import side it was argued that the provisions of the EPA protected sensitive food and agricultural sectors through: </p>
+<ul>
+
+<li>the maintenance of tariff protection on products accounting for 74% of the value of food and agricultural imports from the EU over the 2002-2004 period;</li>
+
+<li>the inclusion of safeguard provisions tailored to the needs of CARIFORUM food and agricultural producers;</li>
+
+<li>the securing of a commitment from the EU to eliminate export subsidies on all agricultural products for which CARIFORUM has agreed to eliminate tariffs. </li>
+
+</ul>
+<p>The EPA also contained a multiplicity of commitments to enhancing cooperation on a number of food- and agriculture-related issues, and on deploying available development assistance in a variety of food- and agriculture-related areas.</p><p>The European Commission for its part, in its review of the Caribbean-EU EPA, had highlighted the asymmetric nature of the tariff liberalisation commitments agreed, with the EU granting virtually immediate and complete duty-free, quota-free access (with the exception of certain transitional quotas for sugar and rice which by January 2010 had lapsed) and the Caribbean having up to 25 years to phase down and eliminate duties on the products covered by the agreement.</p><a name="eztoc54718_2_2" id="eztoc54718_2_2"></a><h3>
+<a name='22'></a>2.2 Impact of preference erosion</h3><a name="eztoc54718_2_2_4" id="eztoc54718_2_2_4"></a><h4>2.2.1 The importance of preference erosion</h4><p>The issue of the short-term and long-term value of the preservation and extension of duty-free access to the EU market will be critically affected by how the issue of preference erosion is addressed within the framework of the EPA, and the extent to which meaningful improvements in the rules of origin are brought about. This will be strongly affected by developments beyond the formal CARIFORUM-EU relationship, given the vast network of bilateral and region-to-region free-trade-area (FTA) negotiations in which the EC is currently engaged. An October 2009 review of the range of FTA negotiations beyond the ACP in which the EU was involved, revealed five region-to-region and 21 bilateral FTA negotiations under way, some reaching the conclusion phase. </p><p>In December 2008, particular concerns had been expressed in the Caribbean over the implications for Caribbean agricultural exporters of the EU’s negotiations with the Central American, Mercosur and the Andean Pact group of countries. It was argued by some commentators that despite the language contained in the EPA text relating to consultations on policy developments affecting the competitive position of CARIFORUM food and agricultural exporters, in reality there is no actual requirement for the EC to consult before it enters into any new trade agreements. The most critical recent test in this regard however has occurred not in the context of bilateral FTA negotiations, but in the context of the resolution of the long-running WTO banana dispute. </p><p>At the time of initialling the EPA, the CRNM took the view that as a consequence of the granting of duty-free, quota-free access to the EU market under the EPA, ‘the recent ruling of the WTO dispute-settlement panel against the EU’s preferences granted to ACP banana exporters will no longer be applicable, since the duty-free preferences … are now protected under WTO rules governing free-trade areas’. The CARIFORUM position in the banana sector was seen as being further protected by the Joint Declaration on Bananas which recognised the need for the EU to maintain ‘significant preferences’ for CARIFORUM bananas. </p><a name="eztoc54718_2_2_5" id="eztoc54718_2_2_5"></a><h4>
+<a name='222'></a>2.2.2 The banana sector: what future value will preferential access hold?</h4><p>The EU-Latin America bananas agreement will see the most favoured nation (MFN) tariff for ‘dollar bananas’ cut immediately by €28 to €148 per tonne once all parties sign the deal. Then, starting on 1 January 2011, ‘the tariff will … fall again at the start of each year for seven years, in annual instalments (to €143, €136, €132, €127, €122, €117, €114)’, until the tariff has been reduced from €176 to €114 in 2017. Thus, while tariff preferences will still be in place, the margin of tariff preference will have been reduced by 35%. Whether these tariff preferences are still held to be ‘significant’ will be determined by the ability of individual Caribbean banana exporters to maintain profitable exports to the EU under the new market conditions. </p><p>The successful utilisation of the Banana Accompanying Measures (BAM) funding (€200 million), the establishment of which was consistent with commitments made on this issue under the Joint Declaration on Bananas attached to the EPA, will of course have some bearing on the ability of Caribbean banana producers to maintain a profitable presence in the EU market. Announcements of recent programme allocations under earlier banana accompanying measures programmes in the Caribbean suggest that these funds are increasingly being used for economic diversification rather than banana-sector restructuring. This needs to be seen against the background of studies which suggest that serious challenges will be faced by traditional Caribbean suppliers, as access to the EU market is improved for traditional competitors, and new competitors enter the international banana trade. It is projected that the volume of ACP banana exports could fall by as much as 14%, with traditional Caribbean suppliers likely to be worst affected, while imports of bananas from Latin American suppliers are expected to increase 17%, as prices fall by at least 12%. This led Renwick Rose of the West Indies Farmers’ Association (WINFA) to describe the deal as ‘a disastrous blow against not just the banana industry, but economic and social development in general’. This needs to be seen in the context of ‘Dominica, St Vincent and St Lucia having lost more than 20,000 of their 25,000 small-scale banana producers’ since 1992.</p><p>However, as has been the case with previous modifications to the EU banana regime (see tables A.1 to A.3 in Annex on the volume and price trends for Caribbean banana exports), not all Caribbean suppliers are likely to be equally adversely affected. The general manager of the Banana Growers Association of Belize said that while the deal was ‘not positive news’, its impact on ‘Belize’s fledgling banana industry’ was not expected to be great. This reflects the success that Belize has had in expanding its banana exports. The Dominican Republic has enjoyed similar success, with exporters increasingly ‘focusing on the production and export of organic bananas, mainly produced on medium- and small-scale farms’. This has enabled Dominican banana exporters to maintain the same recorded prices in 2006-07 as were obtained in the 2001-02 period (while other Caribbean suppliers have seen the recorded value of banana exports decline by between 6.4% and 45%).</p><p>Given the trends in the volume of Caribbean banana exports, the Dominican Republic, Belize and Suriname (which has undertaken a major restructuring of its banana sector) look best placed to be able to sustain the volume of banana exports, while, provided fair-trade banana prices can be sustained and are not undermined by general price declines on EU banana markets, St Lucia, St Vincent and Dominica may be able to sustain some level of exports. However, this will be critically determined by demand and price trends for fair-trade bananas. Concerns have been expressed that the MFN tariff reductions, combined with the relaunching of supermarket ‘banana wars’ in the UK (where, according to the shopping comparison website <i>moneysupermarket.com</i>, prices were slashed by 22.5% at the beginning of 2010 from 98p to 77p per kg,), could put pressure on the fair-trade model of price formation, even giving rise to a ‘race to the bottom’ among fair-trade suppliers, as supermarkets chase cheaper fair-trade bananas. </p><p>It has been suggested that within the context of the World Banana Forum an initiative could be launched to promote the broader use of ‘sustainable cost’ pricing as developed for fair-trade bananas, as the basis for price formation in the banana sector. However it is argued that this would require a review of the current retailer practices, which it is maintained, is ‘stripping value out of the whole chain from the top down’. </p><p>Against this background, recent EC work on the functioning of food supply chains could be relevant. While traditionally EU member states have used competition investigations to rein in the market power of the big banana companies, the power relationship in banana supply chains appear to have shifted in recent years with, according to some analysts, the buying power of the supermarket chains eclipsing the power of the big banana companies. Against this background it has been argued that EU competition law and practice ‘has not yet evolved to contemplate abuses of buying power at the top of the supply chain’. It is in this context that the launching of a joint Caribbean-EU investigation into the functioning of the banana supply chain could well prove to be of value.</p><a name="eztoc54718_2_2_6" id="eztoc54718_2_2_6"></a><h4>
+<a name='223'></a>2.2.3 The sugar sector: what future value will preferential access hold?</h4><p>Sugar accounts overall for 5.9% of CARIFORUM’s total exports of goods to the EU market, with the importance of sugar in total exports ranging from a low of 1.2% (Trinidad &amp; Tobago) to a high of 50.9% (Guyana)(see Table A.1 in Annex). From 1 October 2009, the ACP Sugar Protocol no longer provided the framework for Caribbean sugar exports to the EU. Instead, sugar protocol access and the additional transitional market access agreed under the Caribbean-EU EPA (+60,000 tonnes) was replaced by full duty-free, quota-free access to the EU market, subject to an ACP-wide automatic safeguard clause (trigger level 3.5 million tonnes), applicable solely to non-LDC ACP sugar exporters. The abolition of the sugar protocol saw the end of traditional price guarantees for Caribbean sugar exports to the EU. Under the new duty-free, quota-free market access arrangements, EU importers of ACP sugar are required to pay not less than 90% of the EU sugar reference price, which by 1 October 2009 had fallen to €335/tonne. This means that the minimum guaranteed price for imports of sugar from Caribbean suppliers is now €301.5 per tonne. </p><p>However the strength of the world market sugar price has so far prevented the full effects of EU sugar price reductions being felt in the supply contracts negotiated by Caribbean sugar exporters. The impact of the EU sugar price reductions has also been ameliorated by the global economic downturn, which has substantially reduced freight rates for sugar shipped from the Caribbean. This is likely to prove a temporary gain for the region, with economic recovery likely to drive up freight prices towards the pre-recession trend.</p><p>As early as May 2008, Agriculture Commissioner Mariann Fischer Boel had indicated that ‘it is very unlikely that the sugar sector will be able to sit out’ the 2013 round of EU common agricultural policy (CAP) reform. In May 2009, further indications were given of what this might entail, with Commissioner Fischer Boel’s head of cabinet telling European sugar beet growers to ‘think about a future without quotas’. The process of EU sugar sector reforms is thus set to continue. A number of questions arise from the possible future evolution of the EU sugar regime, including: </p>
+<ul>
+
+<li>How will the transition to a quota-free EU sugar regime be managed?</li>
+
+<li>What impact will a quota-free EU sugar regime have on EU market prices for sugar?</li>
+
+<li>What impact will a quota-free EU sugar regime have on overall EU production?</li>
+
+<li>What impact will a quota-free EU sugar regime have on the distribution of production across the EU?</li>
+
+<li>What impact will the lifting of EU production quotas have on the EU sugar trade regime?</li>
+
+</ul>
+<p>The most important questions from a Caribbean perspective relate to the impact of further reforms of the EU sugar regime on the market price they are able to negotiate with EU importers, and the impact of the reforms on the trade regime applied to imports of sugar and sugar-based products from LDC suppliers that are not in the ACP. This is particularly important in the Caribbean, which includes some of the most vulnerable ACP sugar exporters.</p><p>Seven Caribbean countries export sugar to the EU, six of these traditional sugar protocol suppliers, and the Dominican Republic. A number of the traditional Caribbean suppliers are highly vulnerable to the ongoing process of price adjustment in the EU market, with three of the traditional suppliers projected to have cost structures after the implementation of programmes of cost reduction in excess of the EU sugar reference price. Two of these traditional suppliers, St Kitts &amp; Nevis and Trinidad &amp; Tobago, have opted to exit the sugar export trade, while Barbados (where sugar accounts for 39.2% of total exports to the EU) is restructuring its use of domestically produced sugar to target premium-priced markets (through the Plantation Reserve brand and through expanded use in high-quality rum production). </p><p><b>Table 1: Caribbean sugar protocol beneficiaries: costs of production and transport after restructuring to lower costs (2009)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="681">
+<tr>
+<td width="115" valign="top">  <b>Country</b>
+  </td><td width="87" valign="top">  <p><b>Production </b></p><p><b>cost </b></p><p><b>(€/t)</b></p>
+  </td><td width="88" valign="top">  <p><b>Transport costs </b></p><p><b>(€/t)</b></p>
+  </td><td width="81" valign="top">  <p><b>Total </b></p><p><b>cost </b></p><p><b>(€/t)</b></p>
+  </td><td width="108" valign="top">  <p><b>Pre-reform EU price </b></p><p><b>(€/t)</b></p>
+  </td><td width="95" valign="top">  <b>EU ref. price 2010 (€/t)</b>
+  </td><td width="108" valign="top">  <p><b>Possible 2015 price </b></p><p><b>(€/t)</b></p>
+  </td>
+</tr>
+
+<tr>
+<td width="115" valign="top">  Guyana
+  </td><td width="87" valign="top">  211
+  </td><td width="88" valign="top">  76
+  </td><td width="81" valign="top">  287
+  </td><td width="108" valign="top">  523.7
+  </td><td width="95" valign="top">  335.00
+  </td><td width="108" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="115" valign="top">  Belize
+  </td><td width="87" valign="top">  211
+  </td><td width="88" valign="top">  92
+  </td><td width="81" valign="top">  303
+  </td><td width="108" valign="top">  523.7
+  </td><td width="95" valign="top">  335.00
+  </td><td width="108" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="115" valign="top">  Jamaica
+  </td><td width="87" valign="top">  264
+  </td><td width="88" valign="top">  56
+  </td><td width="81" valign="top">  320
+  </td><td width="108" valign="top">  523.7
+  </td><td width="95" valign="top">  335.00
+  </td><td width="108" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="115" valign="top">  Barbados
+  </td><td width="87" valign="top">  352
+  </td><td width="88" valign="top">  60
+  </td><td width="81" valign="top">  412
+  </td><td width="108" valign="top">  523.7
+  </td><td width="95" valign="top">  335.00
+  </td><td width="108" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="115" valign="top">  St Kitts
+  </td><td width="87" valign="top">  440
+  </td><td width="88" valign="top">  80
+  </td><td width="81" valign="top">  520
+  </td><td width="108" valign="top">  523.7
+  </td><td width="95" valign="top">  335.00
+  </td><td width="108" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="115" valign="top">  Trinidad
+  </td><td width="87" valign="top">  440
+  </td><td width="88" valign="top">  80
+  </td><td width="81" valign="top">  520
+  </td><td width="108" valign="top">  523.7
+  </td><td width="95" valign="top">  335.00
+  </td><td width="108" valign="top">  261.85
+  </td>
+</tr>
+
+</table>
+<p>Source: Extrapolated from Draft Report ‘Safeguarding the benefits of the ACP-EU Sugar Protocol in the context of the EPA negotiations’, 20 February 2007. The possible 2015 sugar price specified in the final column assumes that following the 2013 round of CAP reforms, the sugar reference price is reduced to 50% of the pre-reform level.</p><p>Jamaica (where sugar accounts for 14.2% of total exports to the EU), for its part, is looking to privatise its sugar industry within a framework of diversification of revenue streams from sugar cane production. With the economic downturn, difficulties were faced with the initial privatisation process. Subsequently two local companies have taken over a number of the government-owned estates under long-term leases, while efforts to sell off the remaining government-owned estates to the Italian sugar company Eridania collapsed in December 2009.</p><p>Both Belize (where sugar accounts for 34.6% of total exports to the EU) and Guyana (where it accounts for 50.9% of total exports to the EU) are looking to reduce the costs of sugar production in order to remain competitive suppliers of sugar to the EU market. In the case of Belize, this is to be supported by the conversion of national production to serving the fair-trade sugar market, where price premiums can be obtained. New marketing arrangements have been negotiated with Tate &amp; Lyle, which is committed to converting the whole of its direct-consumption sugar range to ‘fair trade’ in the coming years. However, disputes over the utilisation of the fair-trade premium has generated divisions amongst cane producers, which could hold back the process of fair-trade certification and the competitive supply of fair-trade sugar. Substantial investments are also needed in the refinery to assist in efficiently diversifying revenue streams from cane production. The global financial crisis has complicated this process of investment mobilisation. In Belize, considerable divergence of views exists on how best to utilise EU accompanying measures funding, with industry players focusing on direct cost-reduction and revenue-enhancement measures, and the EC and government apparently favouring general road infrastructure interventions and capacity building within state institutions.</p><p>The Dominican Republic is the Caribbean country with the most to gain from the granting of duty-free, quota-free access, with substantial EU investment having been attracted to expand and improve the efficiency of sugar production.</p><p>A major area of potential concern to Caribbean sugar exporters (notably Guyana) is the process of reform-induced corporate restructuring that is taking place in the EU sugar sector. This is seeing a process of consolidation of European sugar companies as they compete for market share in those EU member states where sugar beet production has been discontinued or substantially reduced. It is also seeing the globalisation of the activities of European sugar companies, with new strategic alliances being built (Mauritius and Suedzucker, Illovo and Associated British Foods) to provide direct access for restructured ACP sugar exports to an evolving EU market. At the present time the Guyanese sugar sector has not yet identified its long-term corporate partner for maximising revenue flows from sugar sales on the EU market, in the new market context created by the process of EU sugar sector reform. This could potentially leave the Guyanese sugar sector locked into the supply of raw sugar to traditional refiners, and hence vulnerable to the full effects of reform-induced market-price reductions.</p><a name="eztoc54718_2_2_7" id="eztoc54718_2_2_7"></a><h4>
+<a name='224'></a>2.2.4 The rice sector: what future value will preferential access hold?</h4><p>The granting of expanded transitional quotas for rice (29% in 2008 and 72% in 2009) and then full duty-free, quota-free access needs to be seen against the background of a decline of between 17.3% and 19.7% in the recorded unit price of Guyana’s and Suriname’s rice exports between 2000 and 2007. It also however needs to be seen in the context of the implementation of the €24 million regional Caribbean rice programme, established to support improvements in the competitiveness of regional rice production.</p><p>In the first six months of operation of the new arrangement, the combined rice exports from the traditional Caribbean suppliers of Guyana and Suriname fell some 11.3%, with the latter’s rising and the former’s declining more markedly. It also however saw the first exports of rice from the Dominican Republic to the EU in the 2007/08 season, some 25,038 tonnes of husked rice, and the despatch of two consignments of 12,000 tonnes and 20,000 for arrival after October 2008. </p><p><b>Table 2: Caribbean rice sector: ratio of imports to consumption (as a percentage)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="758">
+<tr>
+<td width="234" valign="top">  <b> </b>
+  </td><td width="94" valign="top">  <p><b>2005/06</b></p><p><b>(%)</b></p>
+  </td><td width="118" valign="top">  <p><b>2006/07</b></p><p><b>(%)</b></p>
+  </td><td width="101" valign="top">  <p><b>2007/08</b></p><p><b>(%)</b></p>
+  </td><td width="108" valign="top">  <p><b>2008/09</b></p><p><b>(%)</b></p>
+  </td><td width="102" valign="top">  <b>2009/ Nov 10 (%) </b>
+  </td>
+</tr>
+
+<tr>
+<td width="234" valign="top">  Ratio of imports to consumption
+  </td><td width="94" valign="top">  64.15
+  </td><td width="118" valign="top">  52.76
+  </td><td width="101" valign="top">  55.18
+  </td><td width="108" valign="top">  47.21
+  </td><td width="102" valign="top">  52.29
+  </td>
+</tr>
+
+</table>
+<p>Source: Extracted from USDA FAS <i>Grain: World markets and trade</i>, Circular series FG 01-10, January 2010</p><p>The current impact of the phasing in of full duty-free, quota-free access needs to be seen against the backdrop of EU market prices largely following world market price trends, with there now being no significant price advantages to be gained from supplying the EU market as opposed to regional or world markets. Given the region’s import dependence for rice, there is clearly considerable scope for the expansion of domestic rice production for regional markets. The question arises of whether the current relationship between EU and world market prices of rice are temporary or structural: if structural, then freight rates and exchange rates are likely to increasingly play determining roles in the choice of export markets for as long as the current high world market prices prevail.</p><p>With the introduction of less restrictive import-licensing arrangements which allow the export of a wider variety of types of rice, new opportunities for the marketing of rice exports to the EU would appear to be opening up. The Dominican Republic however looks best placed of all CARIFORUM rice exporters to exploit such opportunities, with its capacity for more consistent supply. With significant price differentials for different types of rice depending on the nature and quality of the rice produced, shifting production patterns to serve ‘luxury purchase’ rice varieties favoured by EU consumers could well be necessary to ensure a profitable rice trade with the EU in the long term. Pump-priming, publicly financed support to bring about the necessary trade and production adjustments could well be needed, if this challenge is to be met.</p><p><b>Table 3: ACP husked rice exports to the EU (tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="219" valign="top">  &nbsp;
+  </td><td width="107" valign="top">  <b>2004/05</b>
+  </td><td width="128" valign="top">  <b>2005/06</b>
+  </td><td width="120" valign="top">  <b>2006/07</b>
+  </td><td width="114" valign="top">  <b>2007/08</b>
+  </td>
+</tr>
+
+<tr>
+<td width="219" valign="top">  Guyana
+  </td><td width="107" valign="top">  109,068
+  </td><td width="128" valign="top">  80,210
+  </td><td width="120" valign="top">  117,597
+  </td><td width="114" valign="top">  98,679
+  </td>
+</tr>
+
+<tr>
+<td width="219" valign="top">  Suriname
+  </td><td width="107" valign="top">  21,694
+  </td><td width="128" valign="top">  14,437
+  </td><td width="120" valign="top">  13,642
+  </td><td width="114" valign="top">  19,699
+  </td>
+</tr>
+
+<tr>
+<td width="219" valign="top">  Dominican Republic
+  </td><td width="107" valign="top">  &nbsp;
+  </td><td width="128" valign="top">  &nbsp;
+  </td><td width="120" valign="top">  &nbsp;
+  </td><td width="114" valign="top">  25,038
+  </td>
+</tr>
+
+<tr>
+<td width="219" valign="top">  <b>Sub-total for CARIFORUM </b>
+  </td><td width="107" valign="top">  <b>130,762</b>
+  </td><td width="128" valign="top">  <b>94,647</b>
+  </td><td width="120" valign="top">  <b>131,239</b>
+  </td><td width="114" valign="top">  <b>143,416</b>
+  </td>
+</tr>
+
+<tr>
+<td width="219" valign="top">  ACP exports as a percentage of total EU imports (%)
+  </td><td width="107" valign="top">  19.54%
+  </td><td width="128" valign="top">  14.19%
+  </td><td width="120" valign="top">  15.90%
+  </td><td width="114" valign="top">  15.08%
+  </td>
+</tr>
+
+<tr>
+<td width="219" valign="top">  <b>Total EU imports</b>
+  </td><td width="107" valign="top">  <b>688,689</b>
+  </td><td width="128" valign="top">  <b>698,177</b>
+  </td><td width="120" valign="top">  <b>857,022</b>
+  </td><td width="114" valign="top">  <b>989,449</b>
+  </td>
+</tr>
+
+</table>
+<p>Source: Extracted from tables in ‘Complementary data to the report from the Commission to the Council on the operation of the agreement concluded in the framework of the GATT Article XXVIII procedure in the rice sector, CEC, Brussels 30 June 2009, 
+<a href="http://ec.europa.eu/agriculture/markets/rice/publi/com2009_314_workdoc_en.pdf" target="_self">http://ec.europa.eu/agriculture/markets/rice/publi/com2009_314_workdoc_e...</a></p><a name="eztoc54718_2_2_8" id="eztoc54718_2_2_8"></a><h4>
+<a name='225'></a>2.2.5 The rum sector: lessons from successful restructuring</h4><p>The experience of adjustment in the Caribbean rum sector, however, highlights the scope for moving beyond trade preferences in trade relations with the EU. The design and management of the Caribbean rum programme was delegated to an accountable and well-managed industry association, which in dialogue with its members had developed a strategic vision for the market-led repositioning of the Caribbean rum sector in the light of evolving global rum markets. In support of this strategy a comprehensive and integrated programme of support to production- and trade-adjustment initiatives was designed and set in place under the management of an industry-led body. The design and management of the programme was set in place in close consultation with CARIFORUM regional structures and national governments, and with the active support of the European Commission service, which along with all other parties was committed to making this innovative initiative work.</p><p>As the programme draws to a close, the success of its marketing strategy, the capacity-building support put into product design as well as programme management and implementation, and the capital mobilised in support of production adjustment, cost reduction and competitiveness enhancement measures through an efficiently managed, cost-sharing grant scheme, have all laid the basis for the Caribbean rum industry to look to a profitable future beyond the lifetime of traditional trade preferences.</p><p>Important lessons can be drawn from this experience for other Caribbean food and agricultural sectors facing either the erosion of the value of traditional trade preferences, or production- and trade-adjustment challenges arising from the programmes of trade liberalisation initiated through the signing of the CARIFORUM-EU EPA. These relate to:</p>
+<ul>
+
+<li>the conceptualisation and design of market-led, private-sector based proactive strategies for the repositioning of Caribbean production in the light of changing global market realities;</li>
+
+<li>the necessary redefinition of the role of the public and private sector within the adjustment process, with the public sector increasingly playing a facilitating role, not a leading role;</li>
+
+<li>what needs to be done to place the private sector in the driving seat in terms of programme design and implementation, while at the same time maintaining effective engagement of public authorities in the region, and the European Commission;</li>
+
+<li>how to effectively manage production- and trade-adjustment support programmes, including through the establishment of effective support mechanisms for both programme implementation and the promotion and realisation of the wider strategic vision;</li>
+
+<li>how to deal with the most common problems under such programmes (related to tendering and procurement), through prior initiatives to comprehensively address these issues in advance.</li>
+
+</ul>
+<a name="eztoc54718_2_3" id="eztoc54718_2_3"></a><h3>
+<a name='23'></a>2.3 The rules of origin issue</h3><p>In terms of rules of origin, while some improvements have been made for certain food and agricultural products such as biscuits, jams, jellies, fruit juices and other beverages, these have not necessarily been in line with the initial expectations of Caribbean negotiators (see box below). Nevertheless Caribbean food product manufacturers are hoping that they will now be able to export duty free a slightly wider range of value-added food products than was previously the case. </p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td valign="top">  <a name="eztoc54718_2_3_8_1" id="eztoc54718_2_3_8_1"></a><h5>Negotiations on rules of origin</h5><p>From the outset CARIFORUM negotiators felt that the EPA negotiations should provide scope for a review of the rules of origin applied in order to address the concerns of CARIFORUM exporters and promote the increased export of CARIFORUM goods under preferential market access conditions. This, it was thought, could be achieved within the structure of the rules of origin used under the Cotonou Agreement, which was based largely on a ‘change in tariff sub-heading’ approach.</p><p>The EC for its part presented a proposal for a substantial and far-reaching change in the structure and detailed requirements of the rules of origin, on the basis of across the board value-addition criteria and the discontinuation of certification of origin, with the substitution of registration of exporters and changes in the verification procedures.</p><p>In the end, the rules of origin in the CARIFIORUM-EU EPA maintained the structure of the rules of origin in the Cotonou Agreement, with some relatively minor adjustments. One significant change however is that the rules of origin now apply to production and trade in both directions.</p>
+  </td>
+</tr>
+
+</table>
+<p>For a range of sugar-containing products and for rice, no ‘cumulation’ will be allowed between CARIFORUM states until after 1 October 2015. Raw materials used must originate in the country from which the final product is exported in order to ‘originate’, and hence benefit from duty-free access. A commitment is however included to review the rules or origin ‘within the first five years of the entry into force of this agreement, with a view to simplifying the concepts and methods … in the light of the development needs of the CARIFORUM States’. This offers scope for the further elaboration of the rules of origin in specific areas where Caribbean food and agricultural product exporters may face restrictive rules of origin and hence lose the benefits of the duty-free, quota-free access granted under the EPA.</p><p><b>Table 4: Products excluded from ‘cumulation’ until 2015</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="238" valign="top">  <b>Sugar</b>
+  </td><td width="238" valign="top">  <b>Cocoa products</b>
+  </td><td width="238" valign="top">  <b>Coffee-based preparations</b>
+  </td>
+</tr>
+
+<tr>
+<td width="238" valign="top">  Specified food preparations of flour, groat, meal, starch and malt extract (CN 19019099)
+  </td><td width="238" valign="top">  Food preparations falling under CN 21069098
+  </td><td width="238" valign="top">  Preparations used in the drinks industry falling under CN 33021029
+  </td>
+</tr>
+
+<tr>
+<td width="238" valign="top">  Tea-based preparations
+  </td><td width="238" valign="top">  Flavoured or coloured sugar syrup
+  </td><td width="238" valign="top">  &nbsp;
+  </td>
+</tr>
+
+</table>
+<p>Source: compiled by the author.</p><a name="eztoc54718_2_4" id="eztoc54718_2_4"></a><h3>
+<a name='24'></a>2.4 Sanitary and phytosanitary (SPS) issues</h3><p>Under chapter 5, Title 1, Part II, which deals with agriculture and fisheries issues, a number of provisions are included linked to SPS issues. According to the CRNM briefing on ‘Agriculture and Fisheries sectors in the EPA’, in the area of SPS measures ‘the EPA does not require CARIFORUM to assume any commitments additional to those under the relevant WTO agreements’. However both sides are committed to ‘early warning’ notification of any ‘contemplated measures that could affect trade between them’ and of problems that are emerging in the field of SPS and technical barriers to trade (TBTs).</p><p>CARIFORUM is committed to designating a ‘competent authority’ in each member state and channelling all relevant information through a representative regional body. The EC meanwhile has committed itself to assisting CARIFORUM in: harmonising technical standards; building capacity in specific technical areas; sharing expertise; and supporting CARIFORUM participation in international standards-setting bodies. The EC has also made specific commitments to cooperation in the area of ‘the adoption of quality standards relating to food production and marketing’ and in terms of support to compliance with various standards. What is unclear is whether these EC development assistance commitments will extend to the provision of public-financed assistance to private-sector companies in achieving compliance with the requisite EU standards. The extension of such public assistance is a complementary component to the application of increasingly strict SPS and food safety standards within the EU itself. Indeed, EU member state governments see the provision of such publicly financed assistance to private-sector operators as essential in order to avoid undermining the cost competitiveness of EU producers on both EU and international markets.</p><a name="eztoc54718_3" id="eztoc54718_3"></a><h2>
+<a name='3'></a>3 CARIFORUM food and agricultural liberalisation commitments and development assistance provisions</h2><a name="eztoc54718_3_5" id="eztoc54718_3_5"></a><h3>3.1 Product exclusions</h3><p>In term of product exclusions, some 65% of all 6-digit tariff lines excluded from CARIFORUM’s tariff liberalisation commitments are food, agriculture and fisheries products (amounting to 45% of the concerned food, agriculture and fisheries product tariff lines). As a consequence, according to the CRNM some 75% of the value of food, agriculture and fisheries products imported from the EU over the period 2002 to 2004 ‘will continue to attract duties’. The major food and agricultural products excluded from the process of tariff dismantling include: </p>
+<ul>
+
+<li>live, fresh, chilled and frozen poultry; </li>
+
+<li>live, fresh, chilled and frozen beef, pork and lamb meat; </li>
+
+<li>processed and prepared meats of these and some other animals; </li>
+
+<li>animal fat; </li>
+
+<li>dairy products;</li>
+
+<li>eggs; a wide range of fresh, chilled and frozen fruit and vegetables (including processed tomatoes); </li>
+
+<li>coffee;</li>
+
+<li>maize and maize products and wheat and wheat products (including pasta);</li>
+
+<li>olive oil, palm oil and sunflower oil; </li>
+
+<li>sugar and sugar substitutes; sweets, confectionery, and chocolates;</li>
+
+<li>jams and jellies and preserved fruit; </li>
+
+<li>frozen and preserved fruit juices; </li>
+
+<li>ketchups, soups and sauces; </li>
+
+<li>mineral water; </li>
+
+<li>beer, wines and spirits; </li>
+
+<li>cigars, cigarettes and tobacco products.</li>
+
+</ul>
+<p>The bulk of EU exports to the region are value-added food product exports, with the main EU food exports being dairy products (when cruise ships and yachts are excluded, dairy products are the third largest EU export to the Caribbean, accounting for approximately a quarter of all EU food and agricultural exports) and wheat-based food products (HS 1901). Despite their value-added nature, these products are significant recipients of EU export subsidies (under the non-annex I provisions), and since these products are excluded from tariff liberalisation commitments, they are equally excluded from any commitments on the elimination of EU export refunds on products destined for Caribbean markets. This is unfortunate, as the dairy, poultry and meat-product sectors have been identified as potential areas for increased competition from the EU under the EPA. </p><p><b>Table 5: CARIFORUM tariff phase-down commitments for food, agriculture and fisheries products</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="309" valign="top">  <b> </b>
+  </td><td width="211" valign="top">  <b>No. of tariff lines</b>
+  </td><td width="211" valign="top">  <b>Agro tariff lines as a percentage of total (%)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="309" valign="top">  Total of tariff lines 1-24 (including fish)
+  </td><td width="211" valign="top">  721
+  </td><td width="211" valign="top">  100
+  </td>
+</tr>
+
+<tr>
+<td width="309" valign="top">   - of which excluded
+  </td><td width="211" valign="top">  324
+  </td><td width="211" valign="top">  45
+  </td>
+</tr>
+
+<tr>
+<td width="309" valign="top">  - of which phased out after
+  </td><td width="211" valign="top">  &nbsp;
+  </td><td width="211" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="309" valign="top">  0 years
+  </td><td width="211" valign="top">  34
+  </td><td width="211" valign="top">  5
+  </td>
+</tr>
+
+<tr>
+<td width="309" valign="top">  5 years
+  </td><td width="211" valign="top">  18
+  </td><td width="211" valign="top">  2
+  </td>
+</tr>
+
+<tr>
+<td width="309" valign="top">  10 years
+  </td><td width="211" valign="top">  156
+  </td><td width="211" valign="top">  22
+  </td>
+</tr>
+
+<tr>
+<td width="309" valign="top">  15 years
+  </td><td width="211" valign="top">  50
+  </td><td width="211" valign="top">  7
+  </td>
+</tr>
+
+<tr>
+<td width="309" valign="top">  20 years
+  </td><td width="211" valign="top">  69
+  </td><td width="211" valign="top">  10
+  </td>
+</tr>
+
+<tr>
+<td width="309" valign="top">  25 years
+  </td><td width="211" valign="top">  70
+  </td><td width="211" valign="top">  10
+  </td>
+</tr>
+
+</table>
+<p>Source: Caribbean-EC EPA: Agriculture and fisheries sectors in the EPA, CRNM Brief No. 3200.3/EPA-01(08)</p><p>The principal market for EU food and agricultural exports is the Dominican Republic, which takes around 31% of total EU exports to the region, followed by Trinidad and Tobago (around 13%), Jamaica, Haiti and Suriname (all around 9 to 10%). A number of these countries also have significant production of potentially competing products, where EU export subsidies and systems of direct-aid payments continue to sustain EU production and exports at higher levels than would be the case in the absence of these programmes of public assistance.</p><a name="eztoc54718_3_6" id="eztoc54718_3_6"></a><h3>
+<a name='32'></a>3.2 The basic CARIFORUM tariff elimination commitments</h3><p>In terms of the tariff elimination commitments which have been made, these are being phased in over a long period of time, in line with the highly defensive position taken by CARIFORUM in the negotiations. According to the CRNM, ‘products that are to be liberalised in the initial period (after a moratorium of three years) are essentially those on which applied tariffs are already zero or low’. The liberalisation of tariffs on food and agricultural products is thus ‘heavily back-loaded’, with most tariff reductions only being completed after 10 years, while for certain products up to 25 years is allowed before tariffs have to be completely eliminated.</p><p>Across a range of sectors there are likely to be certain market components where the EU poses no major competitive threat, and certain market components where a significant market threat could arise. A major challenge is now to identify which locally produced food and agricultural products fall in which category, and to restructure local production to shift away from those market components where competition is likely to intensify as a consequence of the EPA (or evolving EU agricultural support policies), towards parts of the market where the competitive threat is likely to be less pronounced. For example, in the poultry-meat sector, competition could increase in low-quality frozen chicken parts, given the European consumer’s preference for chicken breast, with a restructuring of local production to focus on value-added chicken meat products, offering a more secure long-term market.</p><a name="eztoc54718_3_7" id="eztoc54718_3_7"></a><h3>
+<a name='33'></a>3.3 The safeguard provisions</h3><p>In term of the safeguard provisions, while separate special agricultural safeguard provisions had initially been sought by CARIFORUM negotiators, given the high level of exclusions and long tariff phase-down schedules agreed in the EPA, it was accepted that the safeguards for agricultural products should be dealt with in the general safeguard provisions. The CRNM however argued that these provisions still recognised the peculiar circumstances under which agricultural products were traded. This was achieved by the inclusion of a broad definition of the circumstances under which the safeguard measures could be invoked. The type of safeguard measures which may be taken include: suspension of further tariff reductions, an increase in duties to a level no higher than the MFN rate, or the introduction of tariff quotas for the product concerned. Such measures may be maintained for up to two years, with a possible further two-year extension.</p><p>In its analysis of the CARIFORUM-EU EPA, the UN Economic Commission for Latin America and the Caribbean has argued that while ‘there are numerous clauses in the agreement that can be used to safeguard domestic producers’, serious problems are likely to be faced in effectively invoking these clauses to prevent injury to producers serving the domestic market in the face of import surges. It therefore remains to be seen how useful these safeguard provisions will prove to be in practice in protecting CARIFORUM producers from surges of food and agricultural products in an era of increased price instability on global food markets.</p><a name="eztoc54718_3_8" id="eztoc54718_3_8"></a><h3>
+<a name='34'></a>3.4 The commitment on elimination of export subsidies</h3><p>While the EU has made a commitment to the elimination of export subsidies on all agricultural products for which CARIFORUM has agreed to eliminate tariffs, many of the products excluded from the CARIFORUM tariff elimination commitments are major recipients of EU export subsidies (notably dairy products, where in 2008/09 in response to low world market prices, EU export subsidies were for a time increased). </p><p>In addition the implementation of the commitments on the elimination of export subsidies on products covered by the EPA are likely to prove difficult to implement as regards value-added food products falling under non-annex I provisions (i.e. processed food products containing raw materials covered under the EU CAP, whose prices may be above world market prices). From an administrative point of view it is very difficult to withhold export refund payment on these products based on country of final destination. In addition, this category of EU food and agricultural product exports is enjoying one of the highest export growth rates in the EU, with the trajectory for EU policy being towards encouraging the expansion of such value-added food product exports.</p><p>Against this background, it is far from clear what value these specific EU commitments will have in reducing EU exports of products in receipt of export subsidies, which compete with existing or emerging CARIFORUM industries. </p><a name="eztoc54718_3_9" id="eztoc54718_3_9"></a><h3>
+<a name='35'></a>3.5 The treatment of non-tariff trade policy tools</h3><p>The CARIFORUM EPA also places restrictions on the use of a range of non-tariff trade policy tools, which have traditionally been deployed in support of food and agriculture sector development. For example, the EPA agreement commits CARIFORUM members to the elimination of export duties within three years of signature of the agreement. This will primarily affect Guyana, where export duties are applied to unrefined sugar and molasses.</p><p>The article dealing with the ‘prohibition of quantitative restrictions’ requires the elimination of import-licensing arrangements from the ‘entry into force of this agreement’. As with other aspects of the EPA agreement, the impact of these provisions will vary considerably across countries. For example, the government of the Dominican Republic is committed to the elimination of trade restrictions and to a transparent tariff system, with government support increasingly focusing on targeted financial assistance programmes. In contrast, the governments of the Organisation of Eastern Caribbean States make more extensive use of import-licensing arrangements to monitor and regulate agricultural trade flows. The implications of the application of this provision thus differ considerably. Indeed, it may well be through the application of these provisions, dealing with quotas and import licences, rather than tariff elimination commitments <i>per se</i> which first have an impact on the food and agricultural sector in CARIFORUM countries.</p><p>Under the CARIFORUM-EU EPA there are no specific infant industry protection provisions, with governments being restricted to the use of general safeguard provisions that can only be applied in the first ten years of operation of the agreement and which, if applied, may be continued for a maximum of eight years. This contrasts with efforts under other interim EPAs to link the duration of specific infant industry protection provisions to the date of establishment of the infant industry concerned.</p><p>Agreement has also been reached on extending geographical indication (GI) protection to other food and agricultural products, and not just wines and spirits. However, this only covers GIs that are protected in their country of origin. The EC has committed itself to assisting CARIFORUM governments to develop their own GIs, with interest being expressed in seeking GI protection for Guyanese demerara sugar and Jamaican Blue Mountain coffee.</p><a name="eztoc54718_3_10" id="eztoc54718_3_10"></a><h3>
+<a name='36'></a>3.6 The development assistance provisions</h3><p>Finally, in terms of assisting with EPA-related adjustments in the food and agricultural sector, a research report from the European Parliament has argued that potentially there is enough EU assistance available to meet EPA-related adjustment needs (implementation costs, fiscal adjustment, export adjustment and domestic economic adjustments), despite the absence of any binding financial commitments in the EPA. This research report maintains that ‘at least €580 million are earmarked to support the CARIFORUM EPA’, drawn from the regional indicative programme (RIP), the national indicative programmes (NIPs), sugar protocol accompanying measures programme assistance, and unutilised funds under the Special Framework of Assistance to ACP banana producers. To this, the allocations to be made to Caribbean countries under the newly announced €200 million Banana Accompanying Measures Programme need to be added. </p><p>However, the European Parliament (EP) research report notes that this is only the case if these financial resources are effectively targeted to EPA-related priority areas. In this context, three country case studies reviewed by the EP research service suggest that there may be a mismatch between targeted areas for support and the high-priority needs of Caribbean economies. This led the EP rapporteur to conclude that under current arrangements ‘there is no guarantee’ that available aid resources ‘will be applied in an appropriate and timely way’. This would appear to be particularly the case when it comes to assistance in support of market-led, private-sector based production and trade adjustments, for Caribbean producers serving international, local and regional markets. </p><p>While some €72.6 million of the €165 million allocated to the Caribbean RIP under the 10th European Development Fund (EDF) is earmarked for ‘EPA support’, this appears to be primarily focused on capacity building for regional institutions and EPA implementation. It is unclear to what extent funds will be made available under the 10th EDF RIP to sector-focused, market-led private-sector based production- and trade-adjustment support programmes. In addition, according to locally accredited EC representatives, ‘the CARIFORUM/CARICOM Secretariat has been unable to come up with a viable proposal to start implementing these funds’, with CARIFORUM only coming up with ‘a preliminary proposal that is now being assessed’ in December 2009. This is why, according to the EC Delegate to Jamaica, the Jamaican government has allocated €11.25 million of its own nationally allocated funds to EPA implementation (5.3% of the total resources available to Jamaica in the current programming period).</p><p>This forms part of a more generalised trend towards using part of the nationally programmed funds in support of EPA implementation, with (according to the 10th EDF regional strategy paper) some three programmes being elaborated to address EPA-related adjustments in the sphere of governance and public administration reform, three programmes being elaborated related to EPA general infrastructure needs, and five programmes being elaborated to target competitiveness issues. To this needs to be added the ongoing programmes supporting food- and agriculture-related adjustment needs in the rum, sugar, bananas and rice sectors, as well as general private-sector and trade-development programmes (see Table A.4 in Annex).</p><p>As the CTA/ECDPM workshop on ‘Strengthening agricultural trade strategies: towards a Caribbean agenda’ of November 2008 concluded, there is a need to ensure that adjustment support needs in the food and agricultural sector are integrated fully into aid programming processes. This needs to be based on a clear definition of:</p>
+<ul>
+
+<li>the priorities and specific objectives of restructuring assistance extended to market-led, private-sector based, sector-specific programmes;</li>
+
+<li>the respective roles of the government and the private sector in the design and implementation of production- and trade-adjustment support measures, with governments playing primarily a facilitating role;</li>
+
+<li>the respective roles of national and regional authorities, within a recognition of the primacy of sector-based adjustment processes that are close to those who produce and trade;</li>
+
+<li>the role that publicly financed assistance programmes can legitimately play in supporting market-led and private-sector based production- and trade-adjustment processes;</li>
+
+<li>a fundamental review of aid delivery mechanisms used in support of production and trade adjustment, to build on best practices in the region and ensure that aid delivery mechanisms are more private-sector friendly.</li>
+
+</ul>
+<p>Moving forward, this constitutes a substantial agenda for action in effectively deploying available EC assistance in support of food- and agriculture-sector related production and trade adjustments in the Caribbean.</p><a name="eztoc54718_4" id="eztoc54718_4"></a><h2>
+<a name='a'></a>Annexes </h2><p><b>Table A.1: Share of food and agricultural products as a % of total exports to EU-27 (2007) (in order of the highest value of food and agricultural exports to the EU market)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="747">
+<tr>
+<td width="129" valign="top">  <b>Country</b>
+  </td><td width="109" valign="top">  <b>Percentage of total (%)</b>
+  </td><td width="123" valign="top">  <b>Value of total € ’000</b>
+  </td><td width="387" valign="top">  <b>Main products exported</b>
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  Dominican Republic
+  </td><td width="109" valign="top">  33.7
+  </td><td width="123" valign="top">  <p>121,581</p><p>54,730</p><p>43,452 </p><p>23,120</p><p>9,961</p><p>6,786</p><p>4,799</p><p>4,130</p><p><b>Total 268,559</b></p>
+  </td><td width="387" valign="top">  <p>15.5% Bananas (0803)</p><p> 6.8% Undenatured ethyl, Alcohol (2208)</p><p> 5.4% Cocoa beans (whole/broken/raw/roasted) (1801)</p><p> 2.9% Cigars, cheroots, cigarettes etc (2402)</p><p> 1.2% Dates, figs etc (0804)</p><p> 0.8% Other vegetables, fresh or chilled (0709)</p><p> 0.6% Coffee, whether roasted or not (0901)</p><p> 0.5% Cocoa butter, fat &amp; oil (1804)</p>
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  Bahamas
+  </td><td width="109" valign="top">  19.2
+  </td><td width="123" valign="top">  <b>151,663</b>
+  </td><td width="387" valign="top">  19.2% Undenatured ethyl, Alcohol (2208)
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  Guyana
+  </td><td width="109" valign="top">  73.1
+  </td><td width="123" valign="top">  <p>102,980</p><p>36,028</p><p>6,667</p><p>2,234</p><p><b>Total 147,909</b></p>
+  </td><td width="387" valign="top">  <p>50.9% Cane sugar (1701)</p><p>17.8% Rice (1006)</p><p> 3.3% Undenatured ethyl, Alcohol (2208)</p><p> 1.1% Fruits, Nuts (2008)</p>
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  Jamaica
+  </td><td width="109" valign="top">  20.8
+  </td><td width="123" valign="top">  <p>72,638</p><p>15,581</p><p>9,984</p><p>7,470</p><p><b>Total 105,673</b></p>
+  </td><td width="387" valign="top">  <p>14.2% Cane sugar (1701) </p><p> 3.1% Undenatured ethyl, Alcohol (2207)</p><p> 2.0% Undenatured ethyl, Alcohol (2208)</p><p> 1.5% Bananas (0803)</p>
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  Belize
+  </td><td width="109" valign="top">  78.3
+  </td><td width="123" valign="top">  <p>34,101</p><p>32,462</p><p>10,015</p><p>1,582</p><p>601</p><p><b>Total 78,761</b></p>
+  </td><td width="387" valign="top">  <p>34.6% Cane sugar (1701)</p><p>32.9% Bananas (0803)</p><p>10.2% Fruit juices (2009)</p><p> 1.6% Molasses (1703)</p><p> 0.6% Citrus fruit (0805)</p>
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  Suriname
+  </td><td width="109" valign="top">  10.0
+  </td><td width="123" valign="top">  <p>18,312</p><p>4,481</p><p>1,740</p><p><b>Total 24,533</b></p>
+  </td><td width="387" valign="top">  <p> 7.5% Bananas (0803)</p><p> 1.8% Rice (1006)</p><p> 0.7% Other vegetables, fresh or chilled (0709)</p>
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  Barbados
+  </td><td width="109" valign="top">  52.8
+  </td><td width="123" valign="top">  <p>15,914</p><p>5,505</p><p><b>Total 21,419</b></p>
+  </td><td width="387" valign="top">  <p>39.2% Cane sugar (1701) </p><p>13.6% Undenatured ethyl, Alcohol (2208) </p>
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  St Lucia
+  </td><td width="109" valign="top">  42.2
+  </td><td width="123" valign="top">  <p>19,200</p><p>319</p><p>271</p><p>257</p><p><b>Total 20,047</b></p>
+  </td><td width="387" valign="top">  <p>40.4% Bananas (0803)</p><p> 0.7% Other vegetables, fresh or chilled (0709)</p><p> 0.6% Melons (0807)</p><p> 0.5% Fresh strawberries, raspberries etc (0810)°</p>
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  Trinidad &amp; Tobago
+  </td><td width="109" valign="top">  1.2
+  </td><td width="123" valign="top">  <p><b> </b></p><p><b>Total 12,289</b></p>
+  </td><td width="387" valign="top">   1.2% Cane sugar (1701)
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  St Vincent
+  </td><td width="109" valign="top">  9.4
+  </td><td width="123" valign="top">  <b>9,023</b>
+  </td><td width="387" valign="top">   9.4% Bananas (0803)
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  Dominica
+  </td><td width="109" valign="top">  63.8
+  </td><td width="123" valign="top">  <p>4,889</p><p>752</p><p>553</p><p>341</p><p>242</p><p>230</p><p>75</p><p><b>Total 7,082</b></p>
+  </td><td width="387" valign="top">  <p>43.9% Bananas (0803)</p><p> 6.8% Cocoa butter, fat &amp; oil (1804)</p><p> 5.0% Undenatured ethyl, Alcohol (2208)</p><p> 3.1% Sauce and preparations thereof (2103)</p><p> 2.2% Other vegetables, fresh or chilled (0709)</p><p> 2.1% Essential oils (3301)</p><p> 0.6% Citrus fruit (0805)</p>
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  Haiti
+  </td><td width="109" valign="top">  11.3
+  </td><td width="123" valign="top">  <p>2,050</p><p>526</p><p>514</p><p>205</p><p><b>Total 3,295</b></p>
+  </td><td width="387" valign="top">  <p> 7.0% Coffee, whether roasted or not (0901)</p><p> 1.8% Cocoa beans (whole/broken/raw/roasted) (1801)</p><p> 1.8% Peel of citrus (0814)</p><p> 0.7% Plants and parts thereof (1211)</p>
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  Grenada
+  </td><td width="109" valign="top">  34.7
+  </td><td width="123" valign="top">  <p>1,191</p><p>189</p><p>86</p><p>49</p><p>28</p><p>25</p><p><b>Total 1,568</b></p>
+  </td><td width="387" valign="top">  <p>26.4% Nutmeg, mace &amp; cardamoms (0908)</p><p> 4.2% Cocoa beans (whole/broken/raw/roasted) (1801)</p><p> 1.9% Other vegetables, fresh or chilled (0709)</p><p> 1.1% Undenatured ethyl, Alcohol (2208)</p><p> 0.6% Fixed vegetable fats &amp; oils, Jojoba oil (1515)</p><p> 0.5% Dates, figs etc (0804)°</p>
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  Antigua &amp; Barbuda
+  </td><td width="109" valign="top">  0.8
+  </td><td width="123" valign="top">  <b>1,108</b>
+  </td><td width="387" valign="top">  0.8% Live horses (0101)
+  </td>
+</tr>
+
+<tr>
+<td width="129" valign="top">  St Kitts &amp; Nevis
+  </td><td width="109" valign="top">  2.9
+  </td><td width="123" valign="top">  <p>62</p><p>42</p><p>28</p><p><b>Total 132</b></p>
+  </td><td width="387" valign="top">  <p> 1.4% Beer made from malt (2203)</p><p> 0.9% Coffee, whether roasted or not (0901)</p><p> 0.6% Leguminous vegetables, shelled or unshelled (0708) </p>
+  </td>
+</tr>
+
+</table>
+<p>Source: Extracted from country pages from 
+<a href="http://trade.ec.europa.eu/doclib/docs/2008/april/tradoc_138666.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2008/april/tradoc_138666.pdf</a></p><p>°Note: While these specific exports are referred to in the EC statistical profile of trade between the Caribbean and the EU, it has been suggested by informed observers in the region that these may be re-exports or statistical anomalies.</p><p><b>Table A.2: Trends in Caribbean banana exports to the EU selected years (tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="79" valign="top">  <b> </b>
+  </td><td width="61" valign="top">  <b>1992</b>
+  </td><td width="75" valign="top">  <b>1996</b>
+  </td><td width="75" valign="top">  <b>2001</b>
+  </td><td width="75" valign="top">  <b>2002</b>
+  </td><td width="75" valign="top">  <b>2004</b>
+  </td><td width="75" valign="top">  <b>2005</b>
+  </td><td width="75" valign="top">  <b>2006</b>
+  </td><td width="75" valign="top">  <b>2007</b>
+  </td><td width="76" valign="top">  <b>Percentage change 1992-2007 (%)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="79" valign="top">  St Lucia
+  </td><td width="61" valign="top">  122,066
+  </td><td width="75" valign="top">  106,670
+  </td><td width="75" valign="top">  34,727
+  </td><td width="75" valign="top">   49,313
+  </td><td width="75" valign="top">   42,874
+  </td><td width="75" valign="top">   28,243
+  </td><td width="75" valign="top">  36,733
+  </td><td width="75" valign="top">  30,497
+  </td><td width="76" valign="top">  -75.0
+  </td>
+</tr>
+
+<tr>
+<td width="79" valign="top">  St Vincent
+  </td><td width="61" valign="top">   71,320
+  </td><td width="75" valign="top">   44,176
+  </td><td width="75" valign="top">  30,829
+  </td><td width="75" valign="top">   32,522
+  </td><td width="75" valign="top">   23,969
+  </td><td width="75" valign="top">   15,895
+  </td><td width="75" valign="top">  17,239
+  </td><td width="75" valign="top">  11,249
+  </td><td width="76" valign="top">  -84.2
+  </td>
+</tr>
+
+<tr>
+<td width="79" valign="top">  Dominica
+  </td><td width="61" valign="top">   51,606
+  </td><td width="75" valign="top">   39,307
+  </td><td width="75" valign="top">  18,062
+  </td><td width="75" valign="top">   17,802
+  </td><td width="75" valign="top">   12,401
+  </td><td width="75" valign="top">   13,182
+  </td><td width="75" valign="top">  13,591
+  </td><td width="75" valign="top">  7,458
+  </td><td width="76" valign="top">  -85.5
+  </td>
+</tr>
+
+<tr>
+<td width="79" valign="top">  Grenada
+  </td><td width="61" valign="top">   6,015
+  </td><td width="75" valign="top">   2,007
+  </td><td width="75" valign="top">  591
+  </td><td width="75" valign="top">   557
+  </td><td width="75" valign="top">   406
+  </td><td width="75" valign="top">   -
+  </td><td width="75" valign="top">  -
+  </td><td width="75" valign="top">  -
+  </td><td width="76" valign="top">  -100.0
+  </td>
+</tr>
+
+<tr>
+<td width="79" valign="top">  Jamaica
+  </td><td width="61" valign="top">   74,827
+  </td><td width="75" valign="top">  89,610
+  </td><td width="75" valign="top">  42,985
+  </td><td width="75" valign="top">  40.600
+  </td><td width="75" valign="top">  28,660
+  </td><td width="75" valign="top">  11,654
+  </td><td width="75" valign="top">  31,866
+  </td><td width="75" valign="top">  18,372
+  </td><td width="76" valign="top">  -75.4
+  </td>
+</tr>
+
+<tr>
+<td width="79" valign="top">  Suriname
+  </td><td width="61" valign="top">   29,950
+  </td><td width="75" valign="top">  27,160
+  </td><td width="75" valign="top">  28,731
+  </td><td width="75" valign="top">  7,000
+  </td><td width="75" valign="top">  19,277
+  </td><td width="75" valign="top">  35,261
+  </td><td width="75" valign="top">  45,153
+  </td><td width="75" valign="top">  54,353
+  </td><td width="76" valign="top">  +81.5
+  </td>
+</tr>
+
+<tr>
+<td width="79" valign="top">  Dom. Rep.
+  </td><td width="61" valign="top">   38,516
+  </td><td width="75" valign="top">   61,371
+  </td><td width="75" valign="top">  86,064
+  </td><td width="75" valign="top">  97,227
+  </td><td width="75" valign="top">  101,000
+  </td><td width="75" valign="top">  145,000
+  </td><td width="75" valign="top">  176,752
+  </td><td width="75" valign="top">  206,212
+  </td><td width="76" valign="top">  +435.4
+  </td>
+</tr>
+
+<tr>
+<td width="79" valign="top">  Belize
+  </td><td width="61" valign="top">   28,494
+  </td><td width="75" valign="top">   54,109
+  </td><td width="75" valign="top">  51,609
+  </td><td width="75" valign="top">  38,178
+  </td><td width="75" valign="top">  80,000
+  </td><td width="75" valign="top">  74,000
+  </td><td width="75" valign="top">  73,207
+  </td><td width="75" valign="top">  61,175
+  </td><td width="76" valign="top">  +114.7
+  </td>
+</tr>
+
+<tr>
+<td width="79" valign="top">  <b>Total</b>
+  </td><td width="61" valign="top">  <b>422,804</b>
+  </td><td width="75" valign="top">  <b>424,410</b>
+  </td><td width="75" valign="top">  <b>293,598</b>
+  </td><td width="75" valign="top">  <b>283,199</b>
+  </td><td width="75" valign="top">  <b>308,587</b>
+  </td><td width="75" valign="top">  <b>323,235</b>
+  </td><td width="75" valign="top">  <b>394,541</b>
+  </td><td width="75" valign="top">  <b>389,316</b>
+  </td><td width="76" valign="top">  <b>-7.9</b>
+  </td>
+</tr>
+
+</table>
+<p>Source: Extracted from country pages at 
+<a href="http://trade.ec.europa.eu/doclib/docs/" target="_self">http://trade.ec.europa.eu/doclib/docs/</a> for various years.<b> </b></p><p><b>Table A.3: Recorded unit value of Caribbean banana exports (2001-2007) (in euros per tonne)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="101" valign="top">  <b> </b>
+  </td><td width="91" valign="top">  <b>2001</b>
+  </td><td width="91" valign="top">  <b>2002</b>
+  </td><td width="91" valign="top">  <b>2003</b>
+  </td><td width="91" valign="top">  <b>2004</b>
+  </td><td width="91" valign="top">  <b>2005</b>
+  </td><td width="91" valign="top">  <b>2006</b>
+  </td><td width="91" valign="top">  <b>2007</b>
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  St Lucia
+  </td><td width="91" valign="top">  695.0
+  </td><td width="91" valign="top">  710.4
+  </td><td width="91" valign="top">  645.1
+  </td><td width="91" valign="top">  650.9
+  </td><td width="91" valign="top">  650.5
+  </td><td width="91" valign="top">  653.5
+  </td><td width="91" valign="top">  629.6
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  St Vincent
+  </td><td width="91" valign="top">  695.4
+  </td><td width="91" valign="top">  710.7
+  </td><td width="91" valign="top">  644.4
+  </td><td width="91" valign="top">  656.6
+  </td><td width="91" valign="top">  651.4
+  </td><td width="91" valign="top">  652.5
+  </td><td width="91" valign="top">  654.2
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  Dominica
+  </td><td width="91" valign="top">  684.0
+  </td><td width="91" valign="top">  705.4
+  </td><td width="91" valign="top">  634.3
+  </td><td width="91" valign="top">  656.0
+  </td><td width="91" valign="top">  618.9
+  </td><td width="91" valign="top">  642.2
+  </td><td width="91" valign="top">  655.5
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  Belize
+  </td><td width="91" valign="top">  580.7
+  </td><td width="91" valign="top">  597.8
+  </td><td width="91" valign="top">  501.4
+  </td><td width="91" valign="top">  438.0
+  </td><td width="91" valign="top">  641.3
+  </td><td width="91" valign="top">  483.9
+  </td><td width="91" valign="top">  530.6
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  Jamaica
+  </td><td width="91" valign="top">  774.8
+  </td><td width="91" valign="top">  733.3
+  </td><td width="91" valign="top">  521.4
+  </td><td width="91" valign="top">  394.3
+  </td><td width="91" valign="top">  395.4
+  </td><td width="91" valign="top">  413.7
+  </td><td width="91" valign="top">  406.6
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  Suriname
+  </td><td width="91" valign="top">  679.0
+  </td><td width="91" valign="top">  607.7
+  </td><td width="91" valign="top">  -
+  </td><td width="91" valign="top">  311.3
+  </td><td width="91" valign="top">  357.6
+  </td><td width="91" valign="top">  368.4
+  </td><td width="91" valign="top">  336.9
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  Dom. Rep.
+  </td><td width="91" valign="top">  587.9
+  </td><td width="91" valign="top">  628.2
+  </td><td width="91" valign="top">  532.7
+  </td><td width="91" valign="top">  566.7
+  </td><td width="91" valign="top">  582.7
+  </td><td width="91" valign="top">  623.3
+  </td><td width="91" valign="top">  604.1
+  </td>
+</tr>
+
+</table>
+<p>Source: Extracted from country pages at 
+<a href="http://trade.ec.europa.eu/doclib/docs/" target="_self">http://trade.ec.europa.eu/doclib/docs/</a> for various years.</p><p><b>Table A.4: EC support to production and trade adjustment in the Caribbean</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td colspan="2" width="609" valign="top">  <b>Sector-specific programmes</b>
+  </td><td width="135" valign="top">  <b>€</b>
+  </td>
+</tr>
+
+<tr>
+<td colspan="2" width="609" valign="top">  The Caribbean Regional <b>Rum</b> Programme
+  </td><td width="135" valign="top">  70,000,000
+  </td>
+</tr>
+
+<tr>
+<td colspan="2" width="609" valign="top">  The Caribbean Regional <b>Rice </b>Programme
+  </td><td width="135" valign="top">  24,000,000
+  </td>
+</tr>
+
+<tr>
+<td colspan="2" width="609" valign="top">  <b>Sugar Protocol Accompanying Measures Programme (2006-2010)</b>
+  </td><td width="135" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="99" valign="top">  &nbsp;
+  </td><td width="510" valign="top">  Barbados (2007-2010)
+  </td><td width="135" valign="top">  34,677,000
+  </td>
+</tr>
+
+<tr>
+<td width="99" valign="top">  &nbsp;
+  </td><td width="510" valign="top">  Belize 
+  </td><td width="135" valign="top">  45,147,000
+  </td>
+</tr>
+
+<tr>
+<td width="99" valign="top">  &nbsp;
+  </td><td width="510" valign="top">  Guyana 
+  </td><td width="135" valign="top">  84,170,000
+  </td>
+</tr>
+
+<tr>
+<td width="99" valign="top">  &nbsp;
+  </td><td width="510" valign="top">  Jamaica 
+  </td><td width="135" valign="top">  77,547,000
+  </td>
+</tr>
+
+<tr>
+<td width="99" valign="top">  &nbsp;
+  </td><td width="510" valign="top">  St Kitts &amp; Nevis 
+  </td><td width="135" valign="top">  42,286,000
+  </td>
+</tr>
+
+<tr>
+<td width="99" valign="top">  &nbsp;
+  </td><td width="510" valign="top">  Trinidad &amp; Tobago 
+  </td><td width="135" valign="top">  41,643,000
+  </td>
+</tr>
+
+<tr>
+<td colspan="2" width="609" valign="top">  <b>Special Framework for Assistance to Banana Producers (1999-2006)</b>
+  </td><td width="135" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="99" valign="top">  &nbsp;
+  </td><td width="510" valign="top">  St Vincent
+  </td><td width="135" valign="top">  40,510,000
+  </td>
+</tr>
+
+<tr>
+<td width="99" valign="top">  &nbsp;
+  </td><td width="510" valign="top">  St Lucia
+  </td><td width="135" valign="top">  56,805,810
+  </td>
+</tr>
+
+<tr>
+<td width="99" valign="top">  &nbsp;
+  </td><td width="510" valign="top">  Dominica
+  </td><td width="135" valign="top">  41,810,000
+  </td>
+</tr>
+
+<tr>
+<td width="99" valign="top">  &nbsp;
+  </td><td width="510" valign="top">  Grenada
+  </td><td width="135" valign="top">  4,000,000
+  </td>
+</tr>
+
+<tr>
+<td width="99" valign="top">  &nbsp;
+  </td><td width="510" valign="top">  Belize
+  </td><td width="135" valign="top">  21,770,000
+  </td>
+</tr>
+
+<tr>
+<td width="99" valign="top">  &nbsp;
+  </td><td width="510" valign="top">  Jamaica
+  </td><td width="135" valign="top">  33,640,000
+  </td>
+</tr>
+
+<tr>
+<td width="99" valign="top">  &nbsp;
+  </td><td width="510" valign="top">  Suriname
+  </td><td width="135" valign="top">  17,470,000
+  </td>
+</tr>
+
+<tr>
+<td colspan="2" width="609" valign="top">  <b>Sub-total</b>
+  </td><td width="135" valign="top">  <b>635,475,810</b>
+  </td>
+</tr>
+
+<tr>
+<td colspan="2" width="609" valign="top">  <b>General programmes</b>
+  </td><td width="135" valign="top">  <b> </b>
+  </td>
+</tr>
+
+<tr>
+<td colspan="2" width="609" valign="top">  Caribbean Export Development Agency
+  </td><td width="135" valign="top">  10,500,000
+  </td>
+</tr>
+
+<tr>
+<td colspan="2" width="609" valign="top">  Caribbean Trade and Private Sector Development Programme 
+  </td><td width="135" valign="top">  2,600,000
+  </td>
+</tr>
+
+</table>
+<p>Source: Compiled by the author from assorted internet sources.</p><p>Note: To these programmes should be added ongoing allocations to the Sugar Protocol Accompanying Measures Programme 2009-13 and the Caribbean country allocations under the newly established Banana Accompanying Measures Programme.</p><p><b>Table A.5 Caribbean sugar protocol accompanying measures programme priorities </b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="738" valign="top">  <p><b>Jamaica</b><b> </b></p><p>Objective: To develop a sustainable private-sector led sugar industry, in part through diversifying revenue streams from sugar cane production and privatisation of the industry; to diversify rural income-earning opportunities; to support social adjustments in the sugar sector.</p><p>Support: General budget support (50%) and sector budget support (50%) (total support 2007-10: €77.547 million)</p>
+  </td>
+</tr>
+
+<tr>
+<td width="738" valign="top">  <p><b>Guyana</b></p><p>Objective: To reduce costs and enhance the competitiveness of the sugar production and diversify revenue streams from sugar cane.</p><p>Support: General budget support (total support 2007-10: €84.17 million).</p>
+  </td>
+</tr>
+
+<tr>
+<td width="738" valign="top">  <p><b>Belize</b></p><p>Objective: To increase the efficiency of sugar production, processing and transportation and support alternative income earning opportunities in rural areas.</p><p>Support: Project-based interventions (total support 2007-10: €45.147 million).</p>
+  </td>
+</tr>
+
+<tr>
+<td width="738" valign="top">  <p><b>Barbados</b></p><p>Objective: Restructuring of the sugar sector and diversification of the economic base, with EU accompanying measures funding focused on diversification of the economic base, with only limited technical support being extended to restructuring of the sugar sector.</p><p>Support: Targeted budgetary support (total support 2007-10: €34.677 million).</p>
+  </td>
+</tr>
+
+<tr>
+<td width="738" valign="top">  <p><b>St Kitts &amp; Nevis</b></p><p>Objective: To promote economic diversification and reduce poverty in sugar-dependent areas.</p><p>Support: General budget support (total support 2007-10: €42.286 million).</p>
+  </td>
+</tr>
+
+<tr>
+<td width="738" valign="top">  <p><b>Trinidad &amp; Tobago</b></p><p>Objective: To enhance the competitiveness of a private-sector led sugar industry, to promote economic diversification in sugar-dependent areas and address broader social and environmental impact of sugar sector adjustment. EC accompanying measures support is focused exclusively on economic diversification, social adjustment and environmental impact amelioration. </p><p>Support: Non-targeted sector budget support (total support 2007-10: €41.643 million).</p>
+  </td>
+</tr>
+
+</table>
+<p>Source: Summary compiled from the multi-annual indicative programmes of the countries concerned.</p><p><b>Table A.6: Caribbean: rice consumption, production, imports, ending stocks (tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="758">
+<tr>
+<td width="171" valign="top">  <b> </b>
+  </td><td width="97" valign="top">  <b>2005/06</b>
+  </td><td width="98" valign="top">  <b>2006/07</b>
+  </td><td width="98" valign="top">  <b>2007/08</b>
+  </td><td width="98" valign="top">  <b>2008/09</b>
+  </td><td width="98" valign="top">  <b>2009/ Nov 2010</b>
+  </td><td width="99" valign="top">  <b>Percentage change (%)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="171" valign="top">  <p>Domestic consumption</p><p>(annual change)</p>
+  </td><td width="97" valign="top">  1,732,000
+  </td><td width="98" valign="top">  <p>1,829,000</p><p>+5.6%</p>
+  </td><td width="98" valign="top">  <p>1,863,000</p><p>+1.9%</p>
+  </td><td width="98" valign="top">  <p>1,737,000</p><p>-6.8%</p>
+  </td><td width="98" valign="top">  <p>1,922,000</p><p>+10.7%</p>
+  </td><td width="99" valign="top">  +11
+  </td>
+</tr>
+
+<tr>
+<td width="171" valign="top">  <p>Production</p><p>(annual change)</p>
+  </td><td width="97" valign="top">  685,000
+  </td><td width="98" valign="top">  <p>798,000</p><p>+16.5%</p>
+  </td><td width="98" valign="top">  <p>796,000</p><p>-0.25%</p>
+  </td><td width="98" valign="top">  <p>882,000</p><p>+10.8%</p>
+  </td><td width="98" valign="top">  <p>938,000</p><p>+6.3%</p>
+  </td><td width="99" valign="top">  +36.9
+  </td>
+</tr>
+
+<tr>
+<td width="171" valign="top">  <p>Imports</p><p>(annual change)</p>
+  </td><td width="97" valign="top">  1,111,000
+  </td><td width="98" valign="top">  <p>965,000</p><p>-13.1%</p>
+  </td><td width="98" valign="top">  <p>1,028,000</p><p>+6.5%</p>
+  </td><td width="98" valign="top">  <p>820,000</p><p>-20.2%</p>
+  </td><td width="98" valign="top">  <p>1,005,000</p><p>+22.6%</p>
+  </td><td width="99" valign="top">  -9.5
+  </td>
+</tr>
+
+<tr>
+<td width="171" valign="top">  <p>Ending stocks</p><p>(annual change)</p>
+  </td><td width="97" valign="top">  225,000
+  </td><td width="98" valign="top">  <p>178,000</p><p>-20.9%</p>
+  </td><td width="98" valign="top">  <p>134,000</p><p>-24.7%</p>
+  </td><td width="98" valign="top">  <p>109,000</p><p>-18.7%</p>
+  </td><td width="98" valign="top">  <p>106,000</p><p>-2.75%</p>
+  </td><td width="99" valign="top">  -52.9
+  </td>
+</tr>
+
+</table>
+<p>Source: USDA FAS <i>Grain: World markets and trade</i>, Circular series FG 01-10, January 2010<b> </b>
+<a href="http://www.fas.usda.gov/grain/circular/2010/01-10/grainfull01-10.pdf" target="_self">http://www.fas.usda.gov/grain/circular/2010/01-10/grainfull01-10.pdf</a></p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><b>
+<a name='s'></a>Caribbean documents</b></p><p>
+1. Point of access to the website of the Office of Trade Negotiations (OTN, formerly the Caribbean Regional Negotiating Mechanism [CRNM]), providing access to the full text of the Caribbean-EU EPA:<br/>
+<a href="http://www.crnm.org/" target="_self">http://www.crnm.org/</a></p><p>
+2. Point of access for downloading OTN/CRNM Briefs dealing with trade in goods under the CARIFORUM-EC EPA:<br/>
+<a href="http://www.crnm.org/index.php?option=com_docman&amp;task=cat_view&amp;gid=124&amp;Itemid=95" target="_self">http://www.crnm.org/index.php?option=com_docman&amp;task=cat_view&amp;gi...</a></p><p>
+3. CNRM, briefing, ‘Update on the CARIFORUM-EU Economic Partnership Agreement to the 88th session of the ACP Council of Ministers’, 15-18 December 2008:<br/>
+<a href="http://www.acp-eu-trade.org/library/files/CRNM_EN_151208_ACP_Update-on-the-CARIFORUM-EC-EPA.pdf" target="_self">http://www.acp-eu-trade.org/library/files/CRNM_EN_151208_ACP_Update-on-t...</a></p><p><b>European Commission documents</b></p><p>
+4. EC, DG Trade, ‘Introduction to the CARIFORUM-EC EPA’, October 2008:<br/>
+<a href="http://www.esf.be/new/wp-content/uploads/2009/09/introduction-to-the-cariforum-epa.pdf" target="_self">http://www.esf.be/new/wp-content/uploads/2009/09/introduction-to-the-car...</a></p><p>
+5. EC, DG Trade, fact sheet, ‘CARIFORUM-EU EPA Trade in Goods’, October 2008:<br/>
+<a href="http://www.acp-eu-trade.org/library/files/EC_EN_1410208_EC_Cariforum-EC-EPA-Trade-in-Goods.pdf" target="_self">http://www.acp-eu-trade.org/library/files/EC_EN_1410208_EC_Cariforum-EC-...</a></p><p>
+6. EC, DG Trade, fact sheet, ‘CARIFORUM-EU EPA: development support’, October 2008:<br/>
+<a href="http://www.acp-eu-trade.org/library/files/EC_EN_1410208_EC_Cariforum-EC-EPA-Development-Support.pdf" target="_self">http://www.acp-eu-trade.org/library/files/EC_EN_1410208_EC_Cariforum-EC-...</a></p><p><b>Independent analysis</b></p><p>
+7. Commonwealth Secretariat/ODI, final report, ‘Analysis of contents of the CARIFORUM and Pacific ACP Economic Partnership Agreements and challenges ahead’, December 2008:<br/>
+<a href="http://www.thecommonwealth.org/files/185769/FileName/CFTC-EAD-BCWG-208FinalReport.pdf" target="_self">http://www.thecommonwealth.org/files/185769/FileName/CFTC-EAD-BCWG-208Fi...</a></p><p>
+8. CTA/ECDPM, point of access for analysis of the wider lessons for aid deployment arising from the Caribbean rum programmes<i>, </i>October 2009: <br/>
+<a href="http://www.cta.int/en/About-us/What-we-do/Agricultural-Trade-Programme/Main-areas-of-work/International-agricultural-trade-negotiations/Aid-for-Trade-and-Agriculture-workshop-SADC-region" target="_self">http://www.cta.int/en/About-us/What-we-do/Agricultural-Trade-Programme/M...</a></p><p>9. ICTSD, ‘Comparing safeguard measures in regional and bilateral agreements’, <i>Issue paper</i>,<i> </i>No. 22, June 2009: </p><p>
+<a href="http://ictsd.net/downloads/2009/07/safeguardweb.pdf" target="_self">http://ictsd.net/downloads/2009/07/safeguardweb.pdf</a></p><p>
+10. UN ECLAC, ‘The CARIFORUM-EU EPA: an assessment of issues related to market access, safeguards and implications for regional integration’, Ref. LC/CAR/L.181, 26 November 2008:<br/>
+<a href="http://www.acp-eu-trade.org/library/files/ECLAC_EN_261108_ECLAC_The-CARIFORUM-EU-EPA-an-assessment-of-issues-relating-to-market-access-safeguards.pdf" target="_self">http://www.acp-eu-trade.org/library/files/ECLAC_EN_261108_ECLAC_The-CARI...</a> </p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/Caribbean-EU-agricultural-trade-relations">Caribbean - EU agricultural trade relations </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/EPA-negotiation-issues-between-ESA-and-the-EU">EPA negotiation issues between ESA and the EU</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/EPA-negotiation-issues-between-Pacific-and-the-EU">EPA negotiation issues between Pacific and the EU</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/EPA-negotiation-issues-between-SADC-and-the-EU">EPA negotiation issues between SADC and the EU </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/EPA-negotiations-between-Central-Africa-and-the-EU">EPA negotiations between Central Africa and the EU</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":143,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

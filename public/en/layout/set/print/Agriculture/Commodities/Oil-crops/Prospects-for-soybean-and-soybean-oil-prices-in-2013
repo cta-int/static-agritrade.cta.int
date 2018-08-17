@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Prospects for soybean and soybean oil prices in 2013 / Oil crops / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																													
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																																																																																																																																																																																																																									
+																																																																																																																																																																																																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7803/(search)/simple">Oil crops</a>
+							
+																																																																																																																																																																													
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Prospects for soybean and soybean oil prices in 2013</h1>
+
+			
+			<h4>
+												25 March 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The website <i>Agrimoney.com </i>has published an assessment of the soya commodity sector in 2012, with a range of analysts’ views on prospects for 2013. It notes that soybean prices in 2012 proved highly volatile, “soaring to a record high…in September when fears for the drought-hit US crop were at their height”, and subsequently falling sharply when US production was less severely affected than expected and Chinese import demand softened. Nevertheless, by the end of the year, prices were 20% higher than at the start of the year with, according to Commerzbank, a moderate supply overhang of 8 million tonnes.</p><p>Commerzbank expects soybean prices to fall gradually throughout 2013, losing 7% of their value over the year. Rabobank for its part sees soybean prices falling by 12% over the course of the year, while Société Générale sees prices falling by 11%. Goldman Sachs anticipates prices falling by 18% from a higher initial price base.</p><p>Soybean oil prices performed less well than bean prices, given competition from palm oil. Bean prices were supported by prices for meal, which rose in line with animal feed costs. In addition, the use of soybean oil in bio-diesel production is seen as a key determinant of future soybean oil prices. While new US Environmental Protection Agency regulations are set to see a 28% expansion of bio-diesel production in 2013, most of this increase “will come from feedstock other than soyoil”.</p><p>According to initial reports from Rabobank, palm oil was expected to be the strongest performing commodity in 2013, “as Chinese imports and biofuel demand drive prices higher after the sell-off in 2012”. Palm oil prices were forecast by Rabobank “to rise in Q1 2013 as stocks are drawn down from record high levels, before falling later in the year as palm oil and soybean output rebound”.</p><p><b>Soya beans: Analysts’ average price projections per quarter for 2013 (US$/bushel, Chicago front future contract)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="90" valign="top">  &nbsp;
+  </td><td width="131" valign="top">  Commerzbank
+  </td><td width="131" valign="top">  Goldman Sachs
+  </td><td width="131" valign="top">  Rabobank
+  </td><td width="131" valign="top">  Société Générale
+  </td>
+</tr>
+
+<tr>
+<td width="90" valign="top">  Q1
+  </td><td width="131" valign="top">  14.50
+  </td><td width="131" valign="top">  16.50
+  </td><td width="131" valign="top">  14.75
+  </td><td width="131" valign="top">  15.49
+  </td>
+</tr>
+
+<tr>
+<td width="90" valign="top">  Q2
+  </td><td width="131" valign="top">  14.25
+  </td><td width="131" valign="top">  15.50
+  </td><td width="131" valign="top">  14.00
+  </td><td width="131" valign="top">  14.81
+  </td>
+</tr>
+
+<tr>
+<td width="90" valign="top">  Q3
+  </td><td width="131" valign="top">  14.00
+  </td><td width="131" valign="top">  -
+  </td><td width="131" valign="top">  13.50
+  </td><td width="131" valign="top">  14.15
+  </td>
+</tr>
+
+<tr>
+<td width="90" valign="top">  Q4
+  </td><td width="131" valign="top">  13.50
+  </td><td width="131" valign="top">  -
+  </td><td width="131" valign="top">  13.00
+  </td><td width="131" valign="top">  13.80
+  </td>
+</tr>
+
+<tr>
+<td width="90" valign="top">  Average for 2013
+  </td><td width="131" valign="top">  14.10
+  </td><td width="131" valign="top">  13.50
+  </td><td width="131" valign="top">  -
+  </td><td width="131" valign="top">  14.56
+  </td>
+</tr>
+
+</table>
+<p>Source: <i>Agrimoney.com</i>, 27December 2012 (see below)</p><p>Early in 2013, Rabobank’s forecasts were downgraded, following an increase in Malaysian palm oil stocks to record levels and “uncertainty around future import demand”. While in December 2012 monthly imports of palm oil by China reached record levels, the contribution of palm oil to meeting Chinese demand for vegetable oils is declining (now around 68%, compared to the longer-term average of 75%).</p><p>Rabobank considered that the scope for price declines “appears to be limited”: “palm oil prices were $375 a tonne lower than those in soyoil on average last month, and $108 a tonne below those of Brent crude oil, against which vegetable oils are linked by their use in making biodiesel.” This price discount is seen as unsustainable, leading to expectations that the current price gap will narrow.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Agrimoney.com</i>, ‘Soybean prices will they set another record in 2013’, 27 December 2012</p><p>
+<a href="http://www.agrimoney.com/printnews.php?id=181&amp;area=f" target="_self">http://www.agrimoney.com/printnews.php?id=181&amp;area=f</a></p><p><i>Agrimoney.com</i>, ‘Soyoil prices – one factor is to play a key role in 2013’, 28 December 2012</p><p>
+<a href="http://www.agrimoney.com/feature/soyoil-prices---one-factor-is-to-play-a-key-role-in-2013--185.html" target="_self">http://www.agrimoney.com/feature/soyoil-prices---one-factor-is-to-play-a...</a></p><p><i>Thedairysite.com</i>, ‘Rabobank 2013 outlook: Grain markets remain volatile’, 4 December 2012</p><p>
+<a href="http://www.thedairysite.com/news/40804/rabobank-2013-outlook-grain-markets-remain-volatile " target="_self">http://www.thedairysite.com/news/40804/rabobank-2013-outlook-grain-marke...</a></p><p><i>Agrimoney.com</i>, ‘Record palm stocks sour Rabobank hopes for prices’, 10 January 2013</p><p>
+<a href="http://www.agrimoney.com/news/record-palm-stocks-sour-rabobank-hopes-for-prices--5390.html" target="_self">http://www.agrimoney.com/news/record-palm-stocks-sour-rabobank-hopes-for...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The significant fall in palm oil prices, down 23% in 2012, had a direct effect on Africa as a net importer of oil crops, in the form of a substantially reduced import bill. However, the reverse of the coin is the increased fragility of local processing industries. The relatively high level of tariff protection offered by CAEMC and WAEMU (the WAEMU common external tariff stands at between 5 and 10% for raw oil and 20% for the refined product) helps to narrow the competitiveness gap with refined oils from Asia, although this is partly undermined by illegal imports.</p><p>Analysts differ as to likely trends in palm oil prices during 2013. If the beginning of the year was marked by some optimism, notably in view of the very high price differential between palm oil and soybean oil, a pool of 28 analysts questioned by Reuters predicts that the market could experience a second year of decline, offer exceeding demand. In Indonesia, production could reach 27.5 million tonnes, a rise of 9.1%, while in Malaysia it will continue at a high level (18.9 million tonnes). Malaysia also begins the year with stocks at record levels of more than 2.6 million tonnes. Any reduction in these stocks will be contingent on demand. Although the economy of each of the two main importers, China and India, is expected to recover in 2013 by comparison with 2012, the policy choices of the two states could limit any upturn in demand. India has imposed a tax of 2.5% on its imports of raw palm oil, while China is currently revising its regulations governing oil quality and increasing the number of checks made on shipments. However, Malaysia did agree to remove its export tax on raw palm oil with effect from 1 January 2013, a decision renewed in February.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Oil-crops/Calls-for-more-action-on-palm-oil-sustainability">Calls for more action on palm oil sustainability </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Oil-crops/Prospects-for-soybean-and-soybean-oil-prices-in-2013">Prospects for soybean and soybean oil prices in 2013</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/CAP-reform/Developing-country-impact-ignored-in-major-OECD-agricultural-reforms">Developing country impact ignored in major OECD agricultural reforms</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Oil-crops/Prospects-for-oil-crop-markets">Prospects for oil crop markets </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Agricultural-dimensions-of-the-WTO-EU-trade-policy-review">Agricultural dimensions of the WTO EU trade policy review</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":152,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

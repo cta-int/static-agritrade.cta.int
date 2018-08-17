@@ -1,0 +1,1558 @@
+<!DOCTYPE html>
+<html class="no-js">
+<!--
+	/**
+	 * We congratulate Agritrade with their new, upgraded (HTML5!) website!
+	 * Created by Contactivity, www.contactivity.com
+	 * @version $Id: 1.0
+	 */
+
+
+																													--><head>
+	
+                                        
+	<title>Meeting the challenges of implementation of the IUU regulation: a Senegalese experience / EU common fisheries policy / Topics / Fisheries / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+			
+		<meta name="description" content="Interview with Mr Gaoussou Gueye, a Senegalese fish trader and exporter, Vice-President of the National Senegalese Artisanal Fishing Inter- professional Council (CONIPAS)Q: Today, almost six months after the coming into force of the European regulation to combat IUU (illegal, unreported, unregulated) fishing, have you experienced any particular problems?During January, a problem arose for Senegalese fishing professionals due to delays in the processing of the catch certificates by the Spanish..."/>
+			
+			
+		<meta name="keywords" content=","/>
+			
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+		<script src="/extension/agritrade/design/agritrade/js/contactivity.global.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/contactivity.input.js"></script>
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="Meeting the challenges of implementation of the IUU regulation: a Senegalese experience"/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+<script src="https://valsplat.nl/clients/2852/invite.js"></script>
+</head>
+<body lang="en" onload="initialize()">
+
+<!-- [ wrapper -->
+<div id="wrapper">
+
+	<!-- [ main container -->
+	<div class="container" id="maincontainer">
+
+		<!-- [ header container -->
+		<header class="container">
+
+			<h6><a href="http://www.cta.int/" target="_blank">CTA</a></h6>
+			<div class="logo">
+				<h1><a href="/"><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></a></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+			<!-- [ font box -->
+			<div class="fontBox">
+				<dl>
+					<dt class="active"><a href="#" class="bind fontsize" rel="small"><img src="/extension/agritrade/design/agritrade/images/small_font.gif" alt=""/></a></dt>
+					<dd>Small fontsize</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="medium"><img src="/extension/agritrade/design/agritrade/images/medium_font.gif" alt=""/></a></dt>
+					<dd>Medium fontsize</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="big"><img src="/extension/agritrade/design/agritrade/images/big_font.gif" alt=""/></a></dt>
+					<dd>Big fontsize</dd>
+				</dl>
+			</div>
+			<!-- font box ] -->
+
+			<!-- [ language box -->
+			<div class="languageBox">
+				<dl>
+				
+				
+					<dt><a href="/en/Fisheries/Topics/EU-common-fisheries-policy/Meeting-the-challenges-of-implementation-of-the-IUU-regulation-a-Senegalese-experience">English</a> | </dt>
+					<dd>Switch to English</dd>
+					<dt><a href="/fr/Fisheries/Topics/EU-common-fisheries-policy/Meeting-the-challenges-of-implementation-of-the-IUU-regulation-a-Senegalese-experience">Français</a></dt>
+					<dd>Switch to French</dd>
+				</dl>
+			</div>
+			<!-- language box ] -->
+
+			<!-- [ search box -->
+			<div class="searchBox">
+				<form action="http://www.google.com/cse?hl=en&sa=Search&ie=UTF-8" method="get" name="search">
+	            <input type="hidden" value="013338266298253522945:rk5lmjqtluq" name="cx"/>
+					<input name="q" type="text" class="field" value="" placeholder="Search"/>
+					<input name="Search" type="image" alt="" class="button" src="/extension/agritrade/design/agritrade/images/search_button.jpg"/>
+				</form>
+
+
+
+			</div>
+			<!-- search box ] -->
+
+
+			<!-- [ navigation -->
+			<nav>
+				
+				<ul>
+				<li>
+					<h2><a href="/"><span>Home</span></a></h2>
+				</li>
+									
+					
+																					
+					<li>
+						<h2><a href="/Agriculture" title="Agriculture"><span>Agriculture</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Topics
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/Agriculture/Topics/WTO" title="WTO">											WTO
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/EPAs" title="EPAs">											EPAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/EU-FTAs" title="EU FTAs">											EU FTAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/ACP-FTAs" title="ACP - FTAs">											ACP - FTAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/ACP-regional-trade" title="ACP regional trade">											ACP regional trade
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/Market-access" title="Market access">											Market access
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/SPS-Food-safety" title="SPS / Food safety">											SPS / Food safety
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/Product-differentiation" title="Product differentiation">											Product differentiation
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/CAP-reform" title="CAP reform">											CAP reform
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/Biofuels" title="Biofuels">											Biofuels
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/Climate-change" title="Climate change">											Climate change
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/Aid-for-trade" title="Aid for trade">											Aid for trade
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/Other" title="Other">											Other
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Commodities
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/Agriculture/Commodities/General" title="General">											General
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Bananas" title="Bananas">											Bananas
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Beef" title="Beef">											Beef
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Cereals" title="Cereals">											Cereals
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Cocoa" title="Cocoa">											Cocoa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Coffee" title="Coffee">											Coffee
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Cotton" title="Cotton">											Cotton
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Dairy" title="Dairy">											Dairy
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Horticulture" title="Horticulture">											Horticulture
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Oil-crops" title="Oil crops">											Oil crops
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Poultry" title="Poultry">											Poultry
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Rice" title="Rice">											Rice
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Rum" title="Rum">											Rum
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Sugar" title="Sugar">											Sugar
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Tea" title="Tea">											Tea
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Other" title="Other">											Other
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Regions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/Agriculture/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Regions/EU" title="EU">											EU
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Regions/Global" title="Global">											Global
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/Fisheries" title="Fisheries"><span>Fisheries</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Topics
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/Fisheries/Topics/ACP-EU-relations-FPAs" title="ACP-EU relations; FPAs">											ACP-EU relations; FPAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Fisheries/Topics/EU-common-fisheries-policy" title="EU common fisheries policy">											EU common fisheries policy
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Fisheries/Topics/Market-access" title="Market access">											Market access
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Fisheries/Topics/News-from-the-IOC-region" title="News from the IOC region">											News from the IOC region
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Fisheries/Topics/WTO-international-developments" title="WTO &amp; international developments">											WTO &amp; international developments
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Regions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/Fisheries/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Fisheries/Regions/EU" title="EU">											EU
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Fisheries/Regions/Global" title="Global">											Global
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/Regions" title="Regions"><span>Regions</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/Regions/Global" title="Global">									Global
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/Regions/EU" title="EU">									EU
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+									<a href="/Regions/ACP" title="ACP">									ACP
+									
+																		
+									</a>								</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/Regions/ACP/All-ACP" title="All ACP">											All ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Regions/ACP/Caribbean" title="Caribbean">											Caribbean
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Regions/ACP/West-Africa" title="West Africa">											West Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Regions/ACP/Central-Africa" title="Central Africa">											Central Africa
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/Regions/ACP/Eastern-Africa" title="Eastern Africa">											Eastern Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Regions/ACP/Southern-Africa" title="Southern Africa">											Southern Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Regions/ACP/Pacific" title="Pacific">											Pacific
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/Publications" title="Publications"><span>Publications</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/Publications/Compendium" title="Compendium">									Compendium
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/Publications/Executive-briefs" title="Executive briefs">									Executive briefs
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/Publications/Interviews" title="Interviews">									Interviews
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/Publications/News-Analysis" title="News &amp; Analysis">									News &amp; Analysis
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/Publications/Newsletter" title="Newsletter">									Newsletter
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/Publications/Special-Reports" title="Special Reports">									Special Reports
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+																
+																					
+					<li>
+						<h2><a href="/Welcome-to-Agritrade" title="About"><span>About</span></a></h2>
+						
+
+											</li>
+
+								
+		</ul>
+
+			</nav>
+			<!-- navigation ] -->
+
+
+		</header>
+		<!-- header container ] -->
+
+
+
+		<!-- [ content container -->
+		<section class="container">
+
+
+						<div id="leftCntr">
+				
+									
+
+<!-- [ filter box -->
+<div class="block filter">
+	<form id='searchform' action="/agritrade/searchfilter" method="post">
+		<fieldset>
+			<legend>Filter by</legend>
+
+			
+										
+						
+										
+																																															
+
+				<a href="#" class="heading " title="">Fisheries topics</a>
+				<div id='filter_fisheries' class="section ">
+
+													
+						
+					<label class="style_me" title="Check this box to filter publications tagged with ACP-EU relations; FPAs">
+						<input name="filter[fisheries][]" value="7829" type="checkbox"/>
+						ACP-EU relations; FPAs
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with EU common fisheries policy">
+						<input name="filter[fisheries][]" value="7830" type="checkbox"/>
+						EU common fisheries policy
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Market access">
+						<input name="filter[fisheries][]" value="7828" type="checkbox"/>
+						Market access
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with WTO &amp; international developments">
+						<input name="filter[fisheries][]" value="7831" type="checkbox"/>
+						WTO &amp; international dev...
+					</label>
+
+					
+									
+				
+
+
+				</div>
+						
+										
+						
+										
+																																																																																																					
+
+				<a href="#" class="heading " title="">Regions</a>
+				<div id='filter_regions' class="section ">
+
+																						
+						
+					<label class="style_me" title="Check this box to filter publications tagged with All ACP">
+						<input name="filter[regions][]" value="7769" type="checkbox"/>
+						All ACP
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Caribbean">
+						<input name="filter[regions][]" value="7770" type="checkbox"/>
+						Caribbean
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Central Africa">
+						<input name="filter[regions][]" value="7771" type="checkbox"/>
+						Central Africa
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Eastern Africa">
+						<input name="filter[regions][]" value="7772" type="checkbox"/>
+						Eastern Africa
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with EU">
+						<input name="filter[regions][]" value="7767" type="checkbox"/>
+						EU
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Global">
+						<input name="filter[regions][]" value="7766" type="checkbox"/>
+						Global
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Pacific">
+						<input name="filter[regions][]" value="7774" type="checkbox"/>
+						Pacific
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Southern Africa">
+						<input name="filter[regions][]" value="7775" type="checkbox"/>
+						Southern Africa
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with West Africa">
+						<input name="filter[regions][]" value="7773" type="checkbox"/>
+						West Africa
+					</label>
+
+					
+									
+				
+
+
+				</div>
+						
+										
+																																																																	
+
+				<a href="#" class="heading " title="">Publication Type</a>
+				<div id='filter_pubtype' class="section ">
+
+													
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Compendium">
+						<input name="filter[pubtype][]" value="7765" type="checkbox"/>
+						Compendium
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Executive briefs">
+						<input name="filter[pubtype][]" value="7762" type="checkbox"/>
+						Executive briefs
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Interviews">
+						<input name="filter[pubtype][]" value="7763" type="checkbox"/>
+						Interviews
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with News &amp; Analysis">
+						<input name="filter[pubtype][]" value="7760" type="checkbox"/>
+						News &amp; Analysis
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Newsletter">
+						<input name="filter[pubtype][]" value="7761" type="checkbox"/>
+						Newsletter
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Special Reports">
+						<input name="filter[pubtype][]" value="7764" type="checkbox"/>
+						Special Reports
+					</label>
+
+					
+									
+				
+
+
+				</div>
+						
+										
+						
+										
+						
+										
+						
+
+			<a href="#" class="heading ">
+				Filter by date
+			</a>
+
+
+			<div class="section date ">
+				
+				<label>
+					From:
+					<input id='filterfrom' name="filter[from]" type="date" class="field date trigger" width="8" value="" data-value="2018-08-16"/>
+				</label>
+				<label>
+					Until:
+					<input id='filterto' name="filter[until]" type="date" class="field date trigger" width="8" value="16-08-2018" data-value="2018-08-16"/>
+				</label>
+
+			</div>
+
+			<div class="section">
+
+				<label class="searchmethod" title="Choose this method to do a broad search for any of the ticked boxes above.">
+					<input class="trigger" name="filter[search]" type="radio" value="simple"/>
+					Simple search
+				</label>
+				<label class="searchmethod" title="Choose this method to search for a combination of the ticked boxes above.">
+					<input class="trigger" name="filter[search]" type="radio" value="cross" checked="checked"/>
+					Cross search
+				</label>
+
+			</div>
+
+
+			<input id='searchfilter_sort' name="filter[sortby]" type="hidden" width="8" value="date"/>
+			<input type="hidden" name="RedirectTo" value="5300"/>
+			<input type="hidden" name="RedirectToId" value="5100"/>
+			<input type="hidden" id="nodeid" name="nodeid" value="5100"/>
+			<input type="hidden" id="language" name="language" value="en"/>
+
+
+			<button type="submit">Submit</button>
+
+		</fieldset>
+	</form>
+</div>
+<!-- filter box ] -->
+
+
+
+
+											<a id="rss_feed" href="/layout/set/custom_rss/Fisheries/Topics/EU-common-fisheries-policy/Meeting-the-challenges-of-implementation-of-the-IUU-regulation-a-Senegalese-experience"><img src="/extension/agritrade/design/agritrade/images/rss.gif" alt=""/></a>
+					
+							</div>
+			
+						<!--  [ center container -->
+			<div id="centerCntr" class="article content has_left has_right">
+							
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/interviews.gif" alt=""/>
+					
+
+		</div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style " addthis:title="Meeting the challenges of implementation of the IUU regulation: a Senegalese experience">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/Fisheries/Topics/EU-common-fisheries-policy/Meeting-the-challenges-of-implementation-of-the-IUU-regulation-a-Senegalese-experience" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				<a id="tool-email" href="http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2FFisheries%2FTopics%2FEU-common-fisheries-policy%2FMeeting-the-challenges-of-implementation-of-the-IUU-regulation-a-Senegalese-experience&amp;title=Meeting+the+challenges+of+implementation+of+the+IUU+regulation%3A+a+Senegalese+experience&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611" onclick="return popitup('http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2FFisheries%2FTopics%2FEU-common-fisheries-policy%2FMeeting-the-challenges-of-implementation-of-the-IUU-regulation-a-Senegalese-experience&amp;title=Meeting the challenges of implementation of the IUU regulation: a Senegalese experience&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611')" target="_blank" class="tool popup">
+			Email
+		</a>
+		<a href="#" id="tool-print" class="tool" onclick="printMe('/en/layout/set/print/Fisheries/Topics/EU-common-fisheries-policy/Meeting-the-challenges-of-implementation-of-the-IUU-regulation-a-Senegalese-experience'); return false">
+			print
+		</a>
+				</div>
+
+	
+	</div>
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																						
+								<a href="/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																				
+							
+							
+																																													,
+							<a href="/Fisheries/(fisheries)/7828/(search)/simple">Market access</a>
+							
+							
+																																		,
+							<a href="/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																																																															
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+										
+			<h1>Meeting the challenges of implementation of the IUU regulation: a Senegalese experience</h1>
+
+			
+			<h4>
+												13 July 2010
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p><i>Interview with Mr Gaoussou Gueye, a Senegalese fish trader and exporter, Vice-President of the National Senegalese Artisanal Fishing Inter- professional Council (CONIPAS)</i></p><p><b><i>Q: Today, almost six months after the coming into force of the European regulation to combat IUU (illegal, unreported, unregulated) fishing, have you experienced any particular problems?</i></b></p><p>During January, a problem arose for Senegalese fishing professionals due to delays in the processing of the catch certificates by the Spanish authorities. Some fish consignments were blocked in Madrid for several days and, consequently, sanitary alerts were issued for the fresh fish products concerned. People need to realise that high-quality fresh fish products are extremely perishable and a hold up of several days degrades their quality irreversibly. Another practical problem was the official language in which the certificate had to be filled in: the Senegalese competent authority issued catch certificates in French but the Spanish authorities requested certificates in Spanish. Fortunately, we had set up a ‘watch dog’ committee, in which both the Senegalese administration and the sector participate, and which can react quickly when this type of administrative problem arises. On these particular problems, thanks to direct contact with the people concerned from the Spanish administration, we were reassured that these were early-day difficulties which should not be repeated in the future… But for us, the main challenges arose in the two months preceding the IUU regulation implementation, as we tried to be ready in time. </p><p><b><i>Q: Why did you wait for the last months to prepare? The European Commission has been organising awareness-raising and information activities for the exporting countries since 2008 …</i></b> </p><p>We had the details of the IUU regulation in our hands in November 2009. My colleagues from Mauritania found themselves in the same boat, as they also discovered rather late in the day how their products were going to be treated. It is very a good thing that the European Union undertook these awareness-raising and information actions, but often, information does not reach the private sector in its entirety, especially small companies, even if as in both Senegal and Mauritania, they represent an important part of the fisheries-export sector. Nowadays, in the region, artisanal fishing is organised at the national and regional levels, through a confederation. It is now easy to identify the artisanal sector interlocutors. </p><p><b><i>Q: What were the key problems you faced in preparing for the implementation of the regulation?</i></b> </p><p>I would really like to emphasise that the initiative was taken by the fisheries sector itself to raise awareness with the administration, through meetings organised in December 2009 on the importance of this new regulation and the deadlines to be respected. This, for me, once more shows the need for having a constant dialogue between the fisheries sector as a whole and the administrations concerned; in many cases, exporters of fishery products are watching international developments every day, and can raise the alarm when a quick response to a situation is essential. It is our livelihood; we cannot let things drop like that. </p><p><b><i>Q: In practice, how was this dialogue set up between the authorities and the sector for the implementation of the regulation?</i></b> </p><p>In Senegal, it was a wise choice to designate the administration in charge of the Fisheries Monitoring and Surveillance (DPSP) as the competent authority, but this nevertheless posed some practical problems. Beforehand, this administration had few contacts with the fish-exporting sector. It works in a decentralised way, with antennae on the coast, whereas the fish exports, supervised by the Directorate for Industry, are centralised at the port and the airport. It was thus necessary to organise collaboration between these various administrative services, and the choice was made to gather them into a single administrative antenna at the airport, which now assembles all the competent services for fish exports. This helps people from the fisheries sector avoid having to run from one office to another to validate the catch certificates. </p><p><b><i>Q: All that requires financial means….</i></b> </p><p>Of course. Investments to make this administrative antenna work were necessary: purchasing computers, leasing an office, etc. Unfortunately, these expenses were not budgeted for by the public authorities. Investments by the private sector were therefore essential to allow a smooth implementation of the regulation. But there still remain important expenses to cover, in particular as regards personnel: currently, people from the administration work overtime to ensure a service 24/24 in this administrative antenna. There are still material needs as well - computers, printers, etc to make this antenna fully functional. Another important challenge was the installation of the administrative procedure leading to the IUU regulation catch certificate. </p><p><b><i>Q: Did you have to start from scratch to work out this procedure?</i></b> </p><p>No, fortunately not. In the case of Senegal two instruments already existed, including at the level of artisanal fishing: a system of registration for the pirogues and a system of first-sale certificates. </p><p><b><i>Q: All the pirogues that catch for the export trade were already registered?</i></b> </p><p>They were not, but the registration system for the pirogues had already been launched, and the administration had a list of the pirogues already registered. In this regard one could even say that the implementation of the IUU regulation had a positive effect on the Senegalese fishermen. In my locality, M’Bour, one of the most important fishing sites in Senegal, the day before the coming into force of the IUU regulation, 280 fishermen registered their pirogues, because they had seen how important this was in allowing the sale of their products. That underlines the significant efforts done by the sector organisations, in the last weeks before the implementation of the IUU regulation, to raise awareness with their members. Because even if we had a system of traceability, it needed to be more rigorous and coherent in terms of the information contained in the first-sale certificates, in order to ensure greater reliability and usability of the basic information collected from these fishermen. </p><p><b><i>Q: Can you detail for us what information can now be found on a first-sale certificate? </i></b></p><p>The certificate contains the pirogue serial number, the fishing permit number, the weight of the catches, the fishing area, as well as the details concerning the transport used to bring fish to the airport, which must be accredited. There are 174 landing quays in Senegal, but only 8 are accredited to issue first-sale certificates. These are the quays where the Maritime Fisheries Directorate (DPM) is present. I must stress that the delivery of the catch certificates constitutes an additional workload assigned to DPM agents who previously had other tasks to assume. These people today work exclusively to control and validate the certificates. It remains to be seen whether the other tasks carried out before will suffer or not from this additional workload related to the catch certificates. In the same way, there will soon be a problem of space for catch certificates’ data storage. This had not been sufficiently taken into account, at the beginning, when the competent authority services were installed. </p><p><b><i>Q: In practice, how does the system function to obtain the catch certificate making it possible to export to the EU?</i></b></p><p>In practice, for the artisanal fishing sector, the first-sale certificate, obtained at the level of the landing site, is issued by the Maritime Fisheries Directorate (DPM). It then goes to the Fisheries Monitoring and Surveillance Directorate (DPSP), the competent authority issuing the catch certificate. Then, the Fish-Processing Industries Directorate (DITP), which is the competent authority for sanitary approval, issues the health certificate. It should be noted that without a catch certificate, no health certificate can be delivered. As you can see, all that can take much time. The fact that we have today an antenna which gathers representatives of these various administrative services has helped to limit these delays, but it would be necessary, for example, to computerise the first-sale certificates, in order to allow fast transmission of these to the competent authorities. We need a fast efficient system for certification, to avoid, as much as possible, delays which affect the quality of the product. It is essential that the EU, committed as it is to supporting third countries in implementing this regulation, helps us in these fields. </p><p><b><i>Q: Overall, did this regulation have negative or positive impacts?</i></b></p><p>I don’t know whether this regulation has had any positive effects in stopping illegal fishing in our waters or to slow down the trade in illegally caught fish products. I suppose at some point it will be necessary to evaluate that, and to see whether the costs of the regulation are proportionate to the benefits. In any case, for Senegal, the installation of this legislation mobilised the fisheries sector and the administrations concerned, which allowed a general improvement of traceability. We also welcomed the flexibility which was introduced into the regulation for artisanal fishing. Without that, it would have been very difficult for us to be able to continue to export. </p><p>But much progress is still needed, and a targeted help from the EU would be more than necessary, especially as regards recruiting and training new staff, computerising the certificates, and not forgetting to support our countries in improving control at sea, in order to combat those vessels operating illegally in our waters.</p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style " addthis:title="Meeting the challenges of implementation of the IUU regulation: a Senegalese experience">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/Fisheries/Topics/EU-common-fisheries-policy/Meeting-the-challenges-of-implementation-of-the-IUU-regulation-a-Senegalese-experience" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				</div>
+
+	
+	</div>
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/We-should-develop-an-alternative-fish-supply-chain-based-on-artisanal-fisheries">“We should develop an alternative fish supply chain based on artisanal fisheries”</a></p>
+						<p><a href="/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/Despite-their-importance-fisheries-are-not-yet-a-priority-for-many-African-countries">Despite their importance, fisheries are not yet a priority for many African countries</a></p>
+						<p><a href="/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/ATLAFCO-A-tool-for-regional-fisheries-cooperation">ATLAFCO: A tool for regional fisheries cooperation</a></p>
+						<p><a href="/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/Parliamentary-debate-is-essential-for-sustainable-fisheries">Parliamentary debate is essential for sustainable fisheries</a></p>
+						<p><a href="/Fisheries/Topics/EU-common-fisheries-policy/Meeting-the-challenges-of-implementation-of-the-IUU-regulation-a-Senegalese-experience">Meeting the challenges of implementation of the IUU regulation: a Senegalese experience</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+<a id="formstart"></a>
+<div class="separator"></div>
+
+<div class="content-login-box" id="login-box-popup" style="display: none;">
+	<div class="content-login-shadow">
+		<div class="content-login-main">
+			<div class="content-login-main-inner">
+
+					
+						<div style="margin:5px 0 5px 0">
+							Login with your MyAgritrade account:
+						</div>
+
+						<form action="/user/login" method="post">
+							<input type="hidden" name="Anchor" value="#addcomment"/>
+							<table cellpadding="0" cellspacing="0" width="100%">
+								<tr>
+									<td class="login-column-key">MyAgritrade</td>
+									<td class="login-column-value"><input type="text" class="shadow-background login-textfield" name="Login"/></td>
+								</tr>
+								<tr>
+									<td colspan="2" style="height: 5px;"></td>
+								</tr>
+								<tr>
+									<td class="login-column-key">Password</td>
+									<td class="login-column-value"><input type="password" class="shadow-background login-textfield" name="Password"/></td>
+								</tr>
+							</table>
+							<input type="hidden" name="RedirectURI" value="Fisheries/Topics/EU-common-fisheries-policy/Meeting-the-challenges-of-implementation-of-the-IUU-regulation-a-Senegalese-experience"/>
+							<table cellpadding="0" cellspacing="0" width="100%" style="margin-top: 5px;">
+								<tr>
+									<td><a href="/user/forgotpassword">Forgot your password?</a><br/><a href="/user/register" alt="register">No account yet? Create one!</a></td>
+									<td align="right" valign="top"><input type="submit" class="login-form-button" value="&raquo; login" name="LoginButton"/></td>
+								</tr>
+							</table>
+						</form>
+					
+					<a href="javascript:loginBox();" class="login-box-close">&raquo; Close window</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="reaction">
+	<h3>Comment</h3>
+
+	
+	<a name="addcomment"></a>
+
+	<div class="reaction-thumb">
+		<div>
+			
+									<img class="profile-img" src="/extension/socialize/design/socialize/images/comment/unknown.png" alt=""/>
+				
+					</div>
+	</div>
+
+	<div class="reaction-buttons">
+		<a class="button" href="javascript:loginBox();"><span>
+							Choose ID
+					</span></a>
+	</div>
+
+
+	<div class="reaction-form">
+
+		<form action="/socialize/create" method="post">
+							<div class="line">
+					<div class="align-input">
+						<input id="reaction-name" type="text" name="Name" value="" class="reaction-input" placeholder="Login or fill your name in"/>
+					</div>
+				</div>
+			
+			<div class="line">
+				<div class="align-input">
+					<input id="reaction-subject" type="text" maxlength="40" name="Subject" value="" class="reaction-input" placeholder="Subject"/>
+				</div>
+			</div>
+
+			<div class="line">
+				<div class="align-input">
+					<textarea id="reaction-comment" name="Comment" class="reaction-textarea" placeholder="Your reaction"></textarea>
+				</div>
+			</div>
+
+			<div class="line">
+				<div class="recaptcha">
+															<script type="text/javascript">
+						var RecaptchaTheme='white';
+						var RecaptchaLang='en';
+						
+
+						var RecaptchaOptions = {
+							theme: RecaptchaTheme,
+							lang: RecaptchaLang
+						};
+						
+					</script>
+					<script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LdSNMMSAAAAADrQ5zWgH1gIPA-HR6iLYmJWVwvw"></script>
+
+	<noscript>
+  		<iframe src="http://api.recaptcha.net/noscript?k=6LdSNMMSAAAAADrQ5zWgH1gIPA-HR6iLYmJWVwvw" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>
+				</div>
+			</div>
+
+		<input type="hidden" value="5100" name="NodeID"/>
+
+		
+						<input type="hidden" value="Fisheries/Topics/EU-common-fisheries-policy/Meeting-the-challenges-of-implementation-of-the-IUU-regulation-a-Senegalese-experience" name="RedirectURL"/>
+		
+		<div class="buttons">
+			<input type="submit" value="Add" class="reaction-submit"/>
+		</div>
+
+		</form>
+		<span class="big-red"><a href="/Welcome-to-Agritrade/Disclaimer">Terms and conditions</a></span>
+	</div>
+
+</div>			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				
+
+
+						<!-- center container ] -->
+			</div>
+			
+
+
+				<!-- [ right container -->
+		<div id="rightCntr">
+				
+<!-- login -->
+	<div class="block myagritrade rightsmall">
+		<form action="/user/login" method="post">
+				<h3>MyAgritrade</h3>
+				<div class="clear"></div>
+				<input type="text" class="field half set_password_user" name="Login" id="id1" value="" placeholder="Username"/>
+				<label class="passwordlabel"><span>Pass</span><input type="password" class="field half last set_password" value="" autocomplete="off" name="Password"/></label>
+				<input type="image" alt="Go" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif"/>
+			<input type="hidden" name="RedirectURI" value=""/>
+		</form>
+
+		<p class="smaller"><a href="/user/forgotpassword">Did you forget your password?</a></p>
+
+	</div>
+
+<!-- end login -->
+
+   <div class="block myagritrade rightsmall">
+		<form action="/user/register" method="get">
+				<h3>Signup</h3>
+				<input type="text" class="field full" value="" placeholder="Your E-mail Address" name="email"/>
+				<input type="image" alt="Go" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif"/>
+	   </form>
+	</div>
+	<div class="clear"></div>
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/We-should-develop-an-alternative-fish-supply-chain-based-on-artisanal-fisheries">“We should develop an alternative fish supply chain based on artisanal fisheries”</a></p>
+						<p><a href="/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/Despite-their-importance-fisheries-are-not-yet-a-priority-for-many-African-countries">Despite their importance, fisheries are not yet a priority for many African countries</a></p>
+						<p><a href="/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/ATLAFCO-A-tool-for-regional-fisheries-cooperation">ATLAFCO: A tool for regional fisheries cooperation</a></p>
+						<p><a href="/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/Parliamentary-debate-is-essential-for-sustainable-fisheries">Parliamentary debate is essential for sustainable fisheries</a></p>
+						<p><a href="/Fisheries/Topics/EU-common-fisheries-policy/Meeting-the-challenges-of-implementation-of-the-IUU-regulation-a-Senegalese-experience">Meeting the challenges of implementation of the IUU regulation: a Senegalese experience</a></p>
+						</div>
+</div>		</div>
+		<!-- right container ] -->
+		
+		<div style="clear:both;"></div>
+
+
+		</section>
+		<!-- content container ] -->
+
+		<footer class="container">
+
+			<!-- [ bottom container -->
+			<div id="sitemap">
+	<a class="sitemap_toggle closed" href="#">Sitemap</a>
+	<nav>
+		<div class="links agri">
+			<h3>Agriculture</h3>
+			<div class="column">
+				<ul>
+					<li><em>Topics</em></li>
+					
+					<li><a href="/Agriculture/Topics/WTO">WTO</a></li>
+					
+					<li><a href="/Agriculture/Topics/EPAs">EPAs</a></li>
+					
+					<li><a href="/Agriculture/Topics/EU-FTAs">EU FTAs</a></li>
+					
+					<li><a href="/Agriculture/Topics/ACP-FTAs">ACP - FTAs</a></li>
+					
+					<li><a href="/Agriculture/Topics/ACP-regional-trade">ACP regional trade</a></li>
+					
+					<li><a href="/Agriculture/Topics/Market-access">Market access</a></li>
+					
+					<li><a href="/Agriculture/Topics/SPS-Food-safety">SPS / Food safety</a></li>
+					
+					<li><a href="/Agriculture/Topics/Product-differentiation">Product differentiation</a></li>
+					
+					<li><a href="/Agriculture/Topics/CAP-reform">CAP reform</a></li>
+					
+					<li><a href="/Agriculture/Topics/Biofuels">Biofuels</a></li>
+					
+					<li><a href="/Agriculture/Topics/Climate-change">Climate change</a></li>
+					
+					<li><a href="/Agriculture/Topics/Aid-for-trade">Aid for trade</a></li>
+					
+					<li><a href="/Agriculture/Topics/Other">Other</a></li>
+									</ul>
+			</div>
+
+			<div class="column">
+				<ul>
+					<li><em>Commodities</em></li>
+
+										<li><a href="/Agriculture/Commodities/General">General</a></li>
+										<li><a href="/Agriculture/Commodities/Bananas">Bananas</a></li>
+										<li><a href="/Agriculture/Commodities/Beef">Beef</a></li>
+										<li><a href="/Agriculture/Commodities/Cocoa">Cocoa</a></li>
+										<li><a href="/Agriculture/Commodities/Coffee">Coffee</a></li>
+										<li><a href="/Agriculture/Commodities/Cotton">Cotton</a></li>
+										<li><a href="/Agriculture/Commodities/Dairy">Dairy</a></li>
+										<li><a href="/Agriculture/Commodities/Horticulture">Horticulture</a></li>
+										<li><a href="/Agriculture/Commodities/Oil-crops">Oil crops</a></li>
+										<li><a href="/Agriculture/Commodities/Poultry">Poultry</a></li>
+										<li><a href="/Agriculture/Commodities/Rice">Rice</a></li>
+										<li><a href="/Agriculture/Commodities/Rum">Rum</a></li>
+										<li><a href="/Agriculture/Commodities/Sugar">Sugar</a></li>
+										<li><a href="/Agriculture/Commodities/Cereals">Cereals</a></li>
+										<li><a href="/Agriculture/Commodities/Tea">Tea</a></li>
+										<li><a href="/Agriculture/Commodities/Other">Other</a></li>
+									</ul>
+			</div>
+
+		</div>
+		<div class="links">
+			<h3>Fisheries</h3>
+		<ul>
+		
+			<li><a href="/Fisheries/Topics/Market-access">Market access</a></li>
+		
+			<li><a href="/Fisheries/Topics/ACP-EU-relations-FPAs">ACP-EU relations; FPAs</a></li>
+		
+			<li><a href="/Fisheries/Topics/EU-common-fisheries-policy">EU common fisheries policy</a></li>
+		
+			<li><a href="/Fisheries/Topics/WTO-international-developments">WTO &amp; international developments</a></li>
+		
+			<li><a href="/Fisheries/Topics/News-from-the-IOC-region">News from the IOC region</a></li>
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Regions</h3>
+		<ul>
+					
+				<li><a href="/Regions/Global">Global</a></li>
+						
+					
+				<li><a href="/Regions/EU">EU</a></li>
+						
+															
+					<li><a href="/Regions/ACP/Surface-transport-slow">Surface transport slow</a></li>
+				
+					<li><a href="/Regions/ACP/All-ACP">All ACP</a></li>
+				
+					<li><a href="/Regions/ACP/Caribbean">Caribbean</a></li>
+				
+					<li><a href="/Regions/ACP/Central-Africa">Central Africa</a></li>
+				
+					<li><a href="/Regions/ACP/Eastern-Africa">Eastern Africa</a></li>
+				
+					<li><a href="/Regions/ACP/West-Africa">West Africa</a></li>
+				
+					<li><a href="/Regions/ACP/Pacific">Pacific</a></li>
+				
+					<li><a href="/Regions/ACP/Southern-Africa">Southern Africa</a></li>
+							
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Publications</h3>
+			<ul>
+			
+				<li><a href="/Publications/News-Analysis">News &amp; Analysis</a></li>
+			
+				<li><a href="/Publications/Newsletter">Newsletter</a></li>
+			
+				<li><a href="/Publications/Executive-briefs">Executive briefs</a></li>
+			
+				<li><a href="/Publications/Interviews">Interviews</a></li>
+			
+				<li><a href="/Publications/Special-Reports">Special Reports</a></li>
+			
+				<li><a href="/Publications/Compendium">Compendium</a></li>
+						</ul>
+		</div>
+
+
+
+		<div class="links last">
+			<h3>Links</h3>
+			<ul>
+			
+				<li><a href="http://agritrade.cta.int/en" target="_blank">Agritrade</a></li>
+			
+				<li>My Agritrade</li>
+			
+				<li><a href="http://www.cta.int/en/CTA-Portals" target="_blank">CTA Web Portals</a></li>
+			
+				<li><a href="http://brussels.cta.int/index.php" target="_blank">CTA Brussels Office Weblog</a></li>
+			
+				<li>ARD WebRing</li>
+			
+				<li><a href="http://spore.cta.int/" target="_blank">Spore </a></li>
+			
+				<li><a href="http://ictupdate.cta.int/" target="_blank">ICT Update</a></li>
+			
+				<li><a href="http://knowledge.cta.int/" target="_blank">Knowledge for Development</a></li>
+			
+			</ul>
+		</div>
+	</nav>
+</div>
+
+
+
+			<!-- bottom container ] -->
+
+			<!-- [ footer container -->
+			<div id="footer">
+				<div class="footerleft">
+					<div class="icon_left">
+						<img src="/extension/agritrade/design/agritrade/images/icon1.gif" alt=""/>
+					</div>
+
+					<div class="text_center">
+						
+																					
+
+	<div class="block custom ">
+
+		
+		<p>CTA is a joint institution operating under the framework of the Cotonou Agreement between the ACP Group of States (Africa, the Caribbean and the Pacific) and the EU Member States (EuropeanUnion). CTA is funded by the European Union.
+
+		
+		</p>
+
+	</div>													
+					</div>
+
+					<div class="icon_right">
+						<img src="/extension/agritrade/design/agritrade/images/icon2.gif" alt=""/>
+					</div>
+				</div>
+
+				<div class="footerright">
+											
+
+	<div class="block links">
+		
+									<p><a href="/Welcome-to-Agritrade" target="_blank">About &amp; Contact</a></p>
+												<p><a href="/Welcome-to-Agritrade/Disclaimer">Disclaimer</a></p>
+					
+	</div>
+											
+
+	<div class="block custom ">
+
+		
+		<p>Copyright © 2011, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)
+
+		
+		</p>
+
+	</div>									</div>
+
+			</div>
+			<!-- footer container ] -->
+
+		</footer>
+
+	</div>
+	<!-- main container ] -->
+
+</div>
+<!-- wrapper ] -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-724238-5";
+urchinTracker();
+</script>
+
+
+
+<script type="text/javascript">
+  var _sf_async_config = { uid: 39651, domain: 'agritrade.cta.int' };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+        "js/chartbeat.js");
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":1371,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

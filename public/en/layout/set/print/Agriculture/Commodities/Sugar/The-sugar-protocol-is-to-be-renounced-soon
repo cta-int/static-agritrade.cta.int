@@ -1,0 +1,448 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>The sugar protocol is to be renounced soon / Sugar / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																																									
+		
+		<div class='contentrealtionlist'>
+							
+																																																							
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																					,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																																																																																																																														
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																					
+																																																																																													,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7813/(search)/simple">EPAs</a>
+							
+																																																																																,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7814/(search)/simple">EU FTAs</a>
+							
+																																									,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7815/(search)/simple">ACP - FTAs</a>
+							
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																													
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>The sugar protocol is to be renounced soon</h1>
+
+			
+			<h4>
+												01 September 2007
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p> According to Caribbean press reports the EC has formally taken the decision to renounce the sugar protocol at the end of September 2007 in line with its proposals for market access for ACP exports set out in its April 4th 2007 statement. The EC holds that it is ‘committed to safeguarding the benefits of the sugar protocol’, but that ‘preserving these benefits does not necessarily mean preserving the protocol itself’. It further maintains ‘the most important part of the protocol … preferential treatment in the EU market’, will be retained, through the removal of all tariffs on ACP sugar exports by 2015. In this context the EC sees the move as enhancing the trading relationship with ACP regions by creating ‘a system that is viable in the world of today’. The EC rejected suggestions that the renunciation of the sugar protocol was ‘reneging on the development goals set out in the Cotonou Agreement’, emphasising that the EPAs would help in building regional markets and competitiveness. As part of the EPA currently being negotiated, the EU has offered to provide tariff- and quota-free access for sugar and all exports from the Caribbean and such an arrangement ‘is not compatible with an agreement that provides special price and volume guarantees to some Caribbean countries on sugar but not all’. Therefore if new regional EPAs are to come into effect ‘our current arrangements for sugar must be changed’. The EC also pointed out that the current arrangement was not compatible with the reformed EU sugar regime which was dismantling guaranteed prices for the EC’s own producers. Senior EC officials claimed that ‘we cannot justify paying guaranteed prices for Caribbean producers when we no longer guarantee prices for our own producers’. It is claimed by the EC that the package it is putting together for ACP countries, which includes unlimited duty-free market access (subject to a safeguard clause), a floor price for a number of years and financial assistance to invest in new technologies and measures to enhance competitiveness, are all intended to smooth the transition.</p><p> However ACP representatives are incensed that the EC has moved towards renunciation of the sugar protocol unilaterally, without undertaking an all-ACP review. Describing the decision to deal with sugar issues through the regional EPA negotiations as a ‘divide-and-rule tactic’, Guyanan minister of foreign trade and international cooperation Dr Henry Jefferies said that the ACP was ‘not against renouncing the sugar protocol once its benefits could be safeguarded in the new trading arrangement’ or otherwise taken into account. Currently however the ACP takes the view that the current EC offer is ‘insufficient’ to safeguard the benefits of the sugar protocol.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p> Press reports: </p><p><i>stabroek.news</i>, August 6th 2007</p><p>
+
+<a href="http://www.stabroeknews.com/index.pl/article_general_news?id=56526073" target="_self">http://www.stabroeknews.com/index.pl/article_general_news?id=56526073</a> <br /> </p><p><i>Broadstreetnews.com</i>, August 15th 2007</p><p>
+
+<a href="http://www.broadstreetnews.com/index.php?categoryid=38&amp;p2_articleid=786&amp;s=&amp;" target="_self">http://www.broadstreetnews.com/index.php?categoryid=38&amp;p2_articleid=...</a> <br /> </p><p><i>Jamaica</i><i> Observer</i>, August 10th 2007</p><p>
+
+<a href="http://jamaicaobserver.com/magazines/Business/html/20070810T010000-0500_126144_OBS_EU_TO_ABOLISH_CARIBBEAN_SUGAR_QUOTA_AND_PRICE_REGIME_BY_NEXT_MONTH.asp" target="_self">http://jamaicaobserver.com/magazines/Business/html/20070810T010000-0500_...</a> <br /> </p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p> For ACP sugar suppliers the most important part of the sugar protocol relates not to the preferential access <i>per se</i>, but to the value of the preferential access granted. This is being fundamentally undermined by the process of sugar-sector reform, in line with the mainstream of CAP reform. This is reducing income on sugar exports to the EU by 36% over the four-year period up to the 2009/10 season. This will fundamentally affect the ability of ACP suppliers to profitably export sugar to the EU market (see the table below). This is even without taking into account the market price effects of increased competition on an increasingly liberalised sugar market (with sugar imports projected by the EU to increase from 3 million tonnes in 2006 to 4.4 million tonnes by 2010 and the prospects of a further round of sugar-price reduction in 2013, to bring sugar fully into line with other EU arable crops which form part of the single-payment scheme.</p><p><b>Costs of production and transport in sugar-protocol beneficiaries after restructuring (2009)</b> </p><table class="renderedtable" border="medium none" cellpadding="2" cellspacing="0">
+<tr>
+<td width="102" valign="top">   Country
+  </td><td width="74" valign="top">   Production cost (€/tonne)
+  </td><td width="74" valign="top">   Transport costs (€/tonne) 
+  </td><td width="74" valign="top">   Total cost (€/tonne)
+  </td><td width="74" valign="top">   Pre-reform EU price (€/tonne)
+  </td><td width="74" valign="top">   EU price 2010 (€/tonne)
+  </td><td width="74" valign="top">   Possible 2015 price (€/tonne)
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Kenya
+  </td><td width="74" valign="top">   264
+  </td><td width="74" valign="top">   120
+  </td><td width="74" valign="top">   384
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Madagascar
+  </td><td width="74" valign="top">   317
+  </td><td width="74" valign="top">   80
+  </td><td width="74" valign="top">   397
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Malawi
+  </td><td width="74" valign="top">   141
+  </td><td width="74" valign="top">   92
+  </td><td width="74" valign="top">   233
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Mauritius
+  </td><td width="74" valign="top">   229
+  </td><td width="74" valign="top">   64
+  </td><td width="74" valign="top">   293
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Zambia
+  </td><td width="74" valign="top">   141
+  </td><td width="74" valign="top">   116
+  </td><td width="74" valign="top">   257
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Zimbabwe
+  </td><td width="74" valign="top">   158
+  </td><td width="74" valign="top">   84
+  </td><td width="74" valign="top">   242
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Tanzania
+  </td><td width="74" valign="top">   211
+  </td><td width="74" valign="top">   120
+  </td><td width="74" valign="top">   331
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Swaziland
+  </td><td width="74" valign="top">   176
+  </td><td width="74" valign="top">   76
+  </td><td width="74" valign="top">   252
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Mozambique
+  </td><td width="74" valign="top">   141
+  </td><td width="74" valign="top">   68
+  </td><td width="74" valign="top">   209
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Congo
+  </td><td width="74" valign="top">   229
+  </td><td width="74" valign="top">   104
+  </td><td width="74" valign="top">   333
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Côte d’Ivoire 
+  </td><td width="74" valign="top">   264
+  </td><td width="74" valign="top">   112
+  </td><td width="74" valign="top">   376
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Barbados
+  </td><td width="74" valign="top">   352
+  </td><td width="74" valign="top">   60
+  </td><td width="74" valign="top">   412
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Belize
+  </td><td width="74" valign="top">   211
+  </td><td width="74" valign="top">   92
+  </td><td width="74" valign="top">   303
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Guyana
+  </td><td width="74" valign="top">   211
+  </td><td width="74" valign="top">   76
+  </td><td width="74" valign="top">   287
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Jamaica
+  </td><td width="74" valign="top">   264
+  </td><td width="74" valign="top">   56
+  </td><td width="74" valign="top">   320
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   St Kitts &amp; Nevis
+  </td><td width="74" valign="top">   440
+  </td><td width="74" valign="top">   80
+  </td><td width="74" valign="top">   520
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Trinidad &amp; Tobago
+  </td><td width="74" valign="top">   440
+  </td><td width="74" valign="top">   80
+  </td><td width="74" valign="top">   520
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">   Fiji
+  </td><td width="74" valign="top">   229
+  </td><td width="74" valign="top">   80
+  </td><td width="74" valign="top">   309
+  </td><td width="74" valign="top">   523.7
+  </td><td width="74" valign="top">   335.00
+  </td><td width="74" valign="top">   261.85
+  </td>
+</tr>
+
+</table>
+<p><b> <i>Source</i> </b><i>: Extrapolated from Table 8 of the draft report ‘Safeguarding the benefits</i> of the ACP-EU sugar protocol in the context of the EPA negotiations’ (February 20th 2007)</p><p> As can be seen from the table above, while all but St Kitts &amp; Nevis and Trinidad &amp; Tobago can profitably export at the pre-reform EU sugar price, at the post-reform price which will prevail from 2009/10, even with successful restructuring as currently envisaged, sugar exports to the EU market will be unprofitable for, Kenya, Madagascar, Côte d’Ivoire, Barbados, marginal for Tanzania, Congo, Jamaica and substantially less profitable for Belize, Mauritius and Fiji. The only sugar-protocol beneficiaries comfortably able to supply the EU market with sugar at the post-reform 2009/10 prices will be Malawi, Zambia, Zimbabwe, Swaziland, Mozambique and Guyana. </p><p> However, if as is feared, as part of the 2013 round of CAP reforms, the EC introduces a further round of reductions in the sugar price, comparable to those introduced in other arable sectors (i.e. bringing EU prices down to 50% of the pre-reform level, a level which would still leave prices approximately 50% above current world market price levels – depending on the euro/US dollar exchange rate) then sugar exports would remain clearly profitable only for Malawi, Zimbabwe and Mozambique, with exports of sugar from Swaziland and Zambia being marginal, and exports from Guyana being non-viable.</p><p> It is this underlying economic reality which is causing such concern among ACP sugar-protocol beneficiaries.</p><p> Against this background, it should be noted that while the EC is dismantling guaranteed prices for EU sugar farmers, it is still maintaining a ‘guaranteed’ income via the incorporation of the sugar sector into the single-payment scheme for EU farmers, a scheme which in the cereals sector (where CAP reform is most advanced) now delivers between 57% and 70% of the total income of EU cereal farmers, making them much less dependent on the prices received in the market place for their overall economic well-being. </p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+											
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/China-s-evolving-role-in-global-agricultural-trade">China’s evolving role in global agricultural trade </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/Progress-in-diverse-EPA-negotiations">Progress in diverse EPA negotiations </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Decline-in-per-tonne-sugar-earnings-in-Barbados-indicative-of-broader-challenges">Decline in per tonne sugar earnings in Barbados indicative of broader challenges</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/South-Africa-seeks-duty-free-access-to-EU-sugar-market">South Africa seeks duty-free access to EU sugar market </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/ESA-region-sugar-exports-evolving-and-expanding">ESA region sugar exports evolving and expanding </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":164,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

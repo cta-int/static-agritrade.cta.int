@@ -1,0 +1,225 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>USDA review of EU cotton-sector developments / Cotton / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																											
+		
+		<div class='contentrealtionlist'>
+							
+																																																							
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																													,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																															,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																																																																																					,
+								<a href="/en/layout/set/print/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																																																																																																														
+																																																																																																																																														,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7800/(search)/simple">Cotton</a>
+							
+																																																																																																																																																																																																																																															
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>USDA review of EU cotton-sector developments</h1>
+
+			
+			<h4>
+												02 May 2011
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>According to the USDA’s annual analysis of the EU cotton sector, while EU27 cotton production has declined about 50% since the 2006 reforms (now representing less than 1% of global cotton production), it is forecast to increase dramatically ‘in response to record world prices of cotton’. In 2010/11, EU cotton lint production is forecast to rise 8.7% to 249,000 tonnes, with a 43.4% expansion of production forecast for 2011/12, taking EU cotton lint production to 357,000 tonnes. This production increase is expected to see EU cotton exports increase over the two years by 28.8%, to 304,000 tonnes. Production is then expected to stabilise through 2013. This, however, assumes that additional EU cotton-sector reforms are implemented as part of the 2013 round of CAP reforms.</p><p>Currently only two EU member states produce ‘significant amounts of cotton commercially’, Greece (80%) and Spain (20%). In Greece, cotton is a major agricultural crop accounting for 8% of total agricultural output, providing a livelihood for 75,000 farmers (in Spain the comparable figure is 6,500, with the cotton area being under intense competition for use by other irrigated crops such as maize). In the context of the current Greek economic difficulties, considerable importance has been attached to expanding cotton production, since it is a major foreign exchange earner. Disease outbreaks have however held back these efforts. In addition, the five cotton companies which control about 60% of ginning capacity have been caught out by the rising market. Having pre-sold much of their production, they have not been able to benefit from the record prices and now face difficulties in covering costs and securing credit. USDA reports that the Greek government has requested the EC to be allowed to provide additional state aid to its cotton producers.</p><p>While good cotton prices are likely to encourage production in Spain, competition for land is intense, while installed ginning capacity also acts as a constraint on production expansion. According to USDA ‘the future of the cotton sector in Spain is strictly related to the further development in the subsidy scheme, especially [given that] after that the CAP reform – currently under discussion – will be implemented.’</p><p>EU cotton lint consumption is forecast to remain stable at low levels, with the decline of the EU spinner and textile industry being ‘accelerated by the global financial crisis’, as companies accelerate the transfer of production to offshore locations. Currently, if 50% of the value is added in Italy, out-sourced textile products can still be labelled ‘made in Italy’. Major EU textile producers are Germany (35%) and Holland (15%), while the major clothing manufacturers are Germany (36%) and Italy (32%).</p><p>Among ACP countries, only Mauritius features in the top six sources outside the EU for EU imports of cotton lint, although Mauritian exports of cotton lint fell 66% between 2008/09 and 2009/10, and are projected to fall still further in 2010/11. No ACP country appears in the top 10 sources of EU imports of cotton yarn or fabrics. Ironically, Mali features as one of the top 10 destinations for EU exports of cotton fabrics.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>
+USDA Foreign Agriculture Service, ‘Cotton and cotton products report 2011’, <i>GAIN</i>&nbsp;Report No. GR1101, 31 March 2011<br/>
+
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Cotton%20and%20Products%20Annual_Rome_EU-27_3-31-2011.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Cotton%20and%20Pro...</a><br/>
+<i>Cotton-made-in-Africa.com</i>, home page of website, 2011<br/>
+<a href="http://www.cotton-made-in-africa.com/" target="_self">http://www.cotton-made-in-africa.com</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Projected EU cotton lint exports for 2011/12 are equivalent to 79% of the 2010/11 cotton exports of the West African C4 group (Burkina Faso, Mali, Benin and Chad), with the 68,000-tonne increase equivalent to 17.7% of the C4 group’s exports. In terms of CAP reform in 2011, some €256 million was allocated to coupled payments in the cotton sector, with approximately twice as much financial assistance being extended in support of cotton farmers under the single payment scheme. Additional payments are also being made under Article 68 provisions, which allow assistance to be extended to sectors with special problems. Under these provisions, up to 10% of the national budget ceiling for direct aid payments can be used to support risk-management schemes or natural disaster response measures.</p><p>EU financial assistance to its cotton producers and the production and trade effects of this support are however overshadowed by the level of US assistance, and its trade and production effects. The USA dominates global cotton export, with nearly twice the volume of exports compared to the combined total of the three next largest exporters. In contrast, the EU accounts for only 1% of global cotton production and a slightly larger 2.8% of exports. CAP reform can thus only ever play a supporting role in addressing ACP concerns over the production- and trade-distorting effects of OECD production subsidies, which remain primarily a US issue. Nevertheless, the EU could play a leadership role through the cotton reforms included in the 2013 CAP package.</p><p>Given the economic significance of cotton production in Greece, WAEMU’s efforts to ensure that the C4 group’s objectives are accommodated within EU plans for the 2013 round of CAP reform will need to pay particular attention to Greek sensitivities (see <i>Agritrade </i>article ‘
+<a href="/en/layout/set/print/Regions/Global" target="_blank">WAEMU cotton initiative launched</a>’, April 2011). WAEMU’s efforts will also need to build on the interests of textile and clothing manufacturers in Germany and Italy.</p><p>At present, African cotton producers are largely absent from the main value chains serving EU textile and clothing manufacturers, although initiatives are under way to assist African producers in targeting quality-differentiated cotton markets (e.g. French assistance to expanding production of fair-trade and organic cotton production in West and Central Africa, and the German-supported ‘Cotton made in Africa’ initiative). In terms of enhancing local value-added processing, the recent initiative of the Association of African Cotton Producers (APROCA) and the African Cotton and Textile Industries Federation (ACTIF) to enhance cooperation in improving the market position of the African cotton sector may well provide an appropriate organisational framework for the development of this potential.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+									
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/Does-the-new-US-Farm-Bill-meet-US-cotton-subsidy-reduction-commitments">Does the new US Farm Bill meet US cotton subsidy reduction commitments?</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/Benin-faces-challenges-in-revitalising-cotton-sector">Benin faces challenges in revitalising cotton sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/Increase-in-cotton-production-in-West-and-Central-Africa-despite-poor-early-rains">Increase in cotton production in West and Central Africa despite poor early rains</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/EU-cotton-policies-of-declining-relevance-in-global-cotton-policy-debate">EU cotton policies of declining relevance in global cotton policy debate </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/China-s-evolving-role-in-global-agricultural-trade">China’s evolving role in global agricultural trade </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":169,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

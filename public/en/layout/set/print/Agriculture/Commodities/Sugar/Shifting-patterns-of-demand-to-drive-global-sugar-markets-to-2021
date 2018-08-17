@@ -1,0 +1,214 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Shifting patterns of demand to drive global sugar markets to 2021 / Sugar / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																															
+		
+		<div class='contentrealtionlist'>
+										
+																																																																																																																																																																																																																																																																																																								
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Shifting patterns of demand to drive global sugar markets to 2021</h1>
+
+			
+			<h4>
+												22 July 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>According to a Rabobank report, growing demand in Asia and Africa will drive global sugar markets through to 2021, with global consumption growing from 166 to 203 million tonnes of raw sugar by 2020/21. Consumption in Asia “is expected to rise from 75 million tons to 97 million tons”. In Africa, growth in sugar consumption, while starting from a lower base, will be faster than in Asia and Latin America, growing at 3.4% per annum, compared to 2.9% for Asia and 2.1% for Latin America. &nbsp;Asia is expected to “maintain its dominant share of global imports, while South America’s share of global imports is also expected to rise”. &nbsp;The report additionally notes that the abolition of EU sugar production quotas is expected to reduce EU sugar imports (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Sugar/EU-sugar-sector-developments-and-projections" target="_blank">EU sugar sector developments and projections</a>’, 7 April 2013).</p><p>According to the report, this growth in demand arises from population growth, rising per capita incomes and changing patterns of food consumption arising from urbanisation. Strong growth in sugar production is anticipated in China, Indonesia, Thailand and India. Sugar production in Africa is also expected to rise sharply. The Rabobank report argues that while sugar production in Africa enjoys little government protection, it is “protected in effect by local infrastructure deficiencies”, which makes the landed cost of imported sugar high.</p><p>Brazil is seen as being well placed to respond to expanded demand for both sugar and ethanol, given the structure of investment in processing facilities that is already in place, and is expected to maintain its dominant trade position (followed by Thailand and Australia).</p><p>Rabobank, according to the report, “expects the global sugar trade to reach 64 million tonnes raw value by 2020/21, an increase of some 22 percent over estimated trade in the period 2009/10 to 2011/12”. This is less than the growth in consumption projected for the period (25%), with significant growth in production expected in parts of the world that have traditionally been sugar importers (e.g. Russia).</p><p>The broad outlook in the Rabobank report is confirmed by the FAO-OECD report ‘Agricultural Outlook 2013-2022 ’, which notes that “world raw sugar prices have fallen by 26% in the last 12 months and white sugar prices by 20%. Sugar prices are expected to continue to ease back through the remainder of 2012/13 on the back of abundant supplies and increasing stock cover.” (The stocks-to-use ratio was at a 6-year high in 2012/13.) By the end of the projection period, the 2022/23 season, prices of USD 20 cts/lb in nominal terms are projected.</p><p>In the short term, at the corporate level, the website <i>Agrimoney.com</i> reported in June that Czarnikow has warned of “difficult times” for sugar producers, with “a fourth successive production surplus in 2013–14, implying continued pressure on prices”. Only a minor reduction in production is projected (–2.8 million tonnes) “from the record of 185.6m tonnes set in 2012–13”. Consumption, meanwhile, is “expected to rise by nearly 2% to 177.9m tonnes”. <i>Agrimoney.com </i>reports that while Czarnikow, Kingsman and the International Sugar Organization all agree that there will be a sugar surplus in 2013–14, they differ on the scale of the surplus, forecasting variously between 3.5 and 4.59 million tonnes. Czarnikow maintains that current trends have seen “prices fall below production costs”, which “will weaken the balance sheets of the industrial sector, while growers will have to adapt to lower incomes and delayed cane payments”.</p><p>According to Czarnikow, sugar cane growers are seen as being worse affected than beet growers by the global sugar supply balance, since the annual nature of beet production allows the sector to adjust more rapidly to price declines.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Foodnavigator.com</i>, ‘Africa, Asia to lead rise in global sugar demand through 2021, report says’, 6 June 2013</p><p>
+<a href="http://www.foodnavigator.com/Financial-Industry/Africa-Asia-to-lead-rise-in-global-sugar-demand-through-2021-report-says" target="_self">http://www.foodnavigator.com/Financial-Industry/Africa-Asia-to-lead-rise...</a></p><p><i>Agrimoney.com</i>, ‘Sugar groups face “tricky times” as glut continues’, 5 June 2013</p><p>
+<a href="http://www.agrimoney.com/news/sugar-groups-face-tricky-times-as-glut-continues--5907.html" target="_self">http://www.agrimoney.com/news/sugar-groups-face-tricky-times-as-glut-con...</a></p><p>OECD-FAO, ‘Sugar – OECD- FAO Agricultural Outlook 2013– 2022’, undated</p><p>
+<a href="http://www.oecd.org/site/oecd-faoagriculturaloutlook/sugar.htm" target="_self">http://www.oecd.org/site/oecd-faoagriculturaloutlook/sugar.htm</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The Rabobank report highlights how important it is for ACP sugar producers to put in place strategies that enable them to adjust to changing patterns of global demand in ways that promote greater value addition and job creation. This raises a range of challenges for ACP governments in terms of the policies required to stimulate not just investment in sugar cane production and milling, but also investment in refining and the value-added processing of sugar, as well as the production of a range of sugar cane-based products.</p><p>Currently, Mauritius is in the forefront of setting in place comprehensive strategies to move up the value chain (to refined sugar products) and expand the range of sugar cane-based products produced and sold. The selection of European corporate partners is providing Mauritian companies with experience of producing, packaging and marketing refined sugar products, which leaves them well placed to respond to declining EU demand by expanding sales to growing markets in Africa for refined sugar products.</p><p>Government policy in Mauritius is also getting to grips with issues related to strengthening the functioning of supply chains to ensure that sugar cane growers obtain an equitable share in revenues from all sugar cane-based products. This is of considerable importance, for while Czarnikow is warning of weakened balance sheets for the industrial sector, in May 2013, Illovo Sugar – another Associated British Foods (ABF) subsidiary – reported a 41% increase in operating profit and a 44% increase in dividend, with Illovo shares gaining 28% in value in the past year. (ABF owns a 42.5% share in Czarnikow and a 51.4% share in Illovo Sugar.) This would suggest that certain sugar companies have strategies in place to protect their balance sheet in the changing global sugar environment.</p><p>In the coming years, the major policy challenge for ACP governments will be how to ensure that ACP sugar cane growers do not bear the principal burden of sugar price volatility and adjustment to changing patterns of global demand and trade (see <i>Agritrade</i> article ‘Fears over future of ACP sugar exports while Southern African sugar companies announce excellent results’, 7 July 2013).</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Angola-sets-quotas-for-imports-of-the-basic-basket-of-goods">Angola sets quotas for imports of the basic basket of goods</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Zimbabwean-sugar-exports-to-the-EU-to-continue-while-imports-to-be-restricted">Zimbabwean sugar exports to the EU to continue while imports to be restricted</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Distribution-of-new-revenue-streams-raised-by-Mauritian-cane-farmers">Distribution of new revenue streams raised by Mauritian cane farmers</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Challenges-faced-in-Tanzania-in-balancing-growing-demand-with-efforts-to-promote-local-sugar-production">Challenges faced in Tanzania in balancing growing demand with efforts to promote local sugar production</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/EU-to-emerge-as-a-major-driver-of-global-sugar-markets">EU to emerge as a major driver of global sugar markets</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":154,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

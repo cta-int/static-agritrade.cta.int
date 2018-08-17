@@ -1,0 +1,228 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Nigeria expands refining capacity as Illovo pulls out of Mali / Sugar / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																						
+								<a href="/en/layout/set/print/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																				
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Nigeria expands refining capacity as Illovo pulls out of Mali</h1>
+
+			
+			<h4>
+												09 July 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The latest USDA annual report on the Nigerian sugar sector highlights the high dependence on imported brown sugar, 98% of which is sourced from Brazil. It notes that government privatisation of sugar estates has resulted in only low levels of investment in the expansion of domestic sugar cane production. Sugar cane yields are reported to be low and declining (down by 9.1% in some estates). Domestic sugar cane production is equivalent to only 60,000 tonnes of raw sugar equivalent (r.s.e.), with a projected increase to 65,000 in MY 2012/13. A number of sugar estates are undergoing rehabilitation.</p><p>Current policy, however, has seen a flourishing of sugar refining, with new entrants expanding capacity and marginally increasing competition. ‘Dangote Sugar remains the dominant player with an installed refining capacity of 1.44 million tons [63%], followed by the BUA Group with a capacity of 720,000’ (31%).</p><p>Installed refining capacity is estimated at 2.3 million tonnes, ‘far exceeding national consumption needs estimated at 1.45 million tonnes’. Later in the USDA analysis, Nigeria’s overall sugar consumption in MY 2012/13 ‘is forecast at 1.265 million tons, unchanged from MY 2011/12’. Despite the existing overcapacity relative to domestic needs, ‘it is reported that two other investors are planning on establishing addition[al] sugar refineries, potentially with the aims at export markets.’</p><p>The existing tariff structure encourages imports of raw sugar for refining. Raw sugar attracts only a 5% duty, compared to 20% for refined sugar, and is exempt from the additional 10% ‘development levy’ on refined sugar imports. Domestic refiners also receive a form of protection against imported refined sugars as a result of the requirement to fortify all direct-consumption sugar with Vitamin A (this requirement does not apply to industrial sugars used in food and drinks).</p><p>Nigerian imports of raw sugar in 2012/13 were forecast at 1.45 million tonnes, up from 1.4 million tonnes in 2010/11.</p><p>USDA notes that ‘sugar refined in Nigeria can be found in most West and Central African countries’, putting the country’s exports at 200,000 tonnes. For example, ‘the Dangote refinery exports refined sugar to Ghana, Niger and Senegal.’</p><p>In April 2012, the Nigerian Trade Minister announced the Nigerian Sugar Master Plan, which aims to develop sugar cane production to 1.797 million tonnes r.s.e. To date, however, details of how this nearly thirtyfold increase in production is to be brought about have not been released. Current Nigerian government incentives include:</p>
+<ul>
+
+<li>an import duty of only 2.5% on machinery for use in sugar production, and zero duty on chemicals for sugar production;</li>
+
+<li>provision of physical infrastructure for sugar estates and health care facilities;</li>
+
+<li>a credit support scheme for sugar cane growers;</li>
+
+<li>a right of 100% foreign ownership. </li>
+
+</ul>
+<p>In May 2012, Illovo Sugar announced that it had pulled out of the proposed Markala Sugar project in Mali, a major public–private sector partnership (with investment of US$240 million and US$300 million respectively) to produce 190,000 tonnes of sugar and 15 million litres of ethanol per annum. This followed the military coup in Mali in March 2012. According to Graham Clark, Managing Director of Illovo, ‘West Africa has …increased in risk profile and therefore other regions, such as East Africa and Central Africa, would come to the fore once again’, since these areas ‘have the best fundamentals to grow cane and attractive markets’.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>USDA, ‘Nigeria sugar annual report 2012’, <i>GAIN Report</i>, 15 April 20121</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Sugar%20Annual_Lagos_Nigeria_4-16-2012.pdf " target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Sugar%20Annual_Lag...</a></p><p><i>Bloomberg.com</i>, ‘Illovo pulls out of Mali sugar project on security concerns’, 28 May 2012</p><p>
+<a href="http://www.bloomberg.com/news/2012-05-28/illovo-pulls-out-of-mali-sugar-project-on-security-concerns-1-.html" target="_self">http://www.bloomberg.com/news/2012-05-28/illovo-pulls-out-of-mali-sugar-...</a></p><p>Reuters, ‘Illovo pulls out of Mali sugar project’, 28 May 2012</p><p>
+<a href="http://news.yahoo.com/illovo-pulls-mali-sugar-project-131504908--finance.html;_ylt=A2KJ3CVPY8RPAREAJxXQtDMD" target="_self">http://news.yahoo.com/illovo-pulls-mali-sugar-project-131504908--finance...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Installed sugar refining capacity in Nigeria exceeds estimated national consumption by between 63 and 82%, depending on which USDA estimate of consumption is used. Regardless of the actual figure for Nigerian national consumption, this suggests that regional markets for refined sugar products are an important factor in the investment strategies of Nigerian sugar refiners.</p><p>The Nigerian sugar refining industry is dominated by two companies which together account for 94% of installed sugar refining capacity, with Dangote developing an interest in sugar&nbsp; production&nbsp; in neighbouring countries such as Senegal.</p><p>Whereas tensions were beginning to emerge in West Africa between inland exporters of sugar produced from domestically grown sugar cane and coastal sugar refiners (who source their raw sugar globally, for value-added processing to supply national and regional markets), over rules of origin and regional sugar tariff policy, the collapse of the Markala Sugar project in Mali is likely to reduce the scope for such tensions.</p><p>It now remains to be seen how these implicit sugar sector sensitivities will be addressed when the common external tariff and rules or origin are established under regional integration initiatives in West Africa.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Dangote-Sugar-reiterates-long-term-plans-for-Nigerian-sugar-production">Dangote Sugar reiterates long-term plans for Nigerian sugar production </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Nigeria-to-provide-special-incentives-for-backward-linkages-in-sugar-sector">Nigeria to provide special incentives for backward linkages in sugar sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Senegalese-government-eases-import-restrictions-on-sugar">Senegalese government eases import restrictions on sugar</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/USDA-pessimistic-over-Nigerian-cane-sugar-expansion-plans">USDA pessimistic over Nigerian cane sugar expansion plans </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Market-difficulties-lead-Senegalese-government-to-impose-restrictions-on-sugar-imports">Market difficulties lead Senegalese government to impose restrictions on sugar imports</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":155,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,229 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                              
+	<title>Securing the future of the Caribbean poultry sector  / Poultry Focus / Poultry / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/interviews.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																								
+								<a href="/en/layout/set/print/Publications/(regions)/7770/(search)/simple">Caribbean</a>
+																																																																																																																																																																		
+																																																																																																																																																																																																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7804/(search)/simple">Poultry</a>
+							
+																																																																																																																																																							
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Securing the future of the Caribbean poultry sector </h1>
+
+			
+			<h4>
+												12 November 2011
+										</h4>
+
+						<h2>An interview with Dr Desmond Ali, Robin Phillips and Carl Khan</h2>
+					</header>
+
+
+				<div class="intro">
+
+						
+<ul>
+
+<li>Dr Desmond A. Ali is a microbiologist by training, and is currently the Executive Director of the Caribbean Poultry Association, of which he was a founder member in 1999.</li>
+
+<li>Robin Phillips is President of the Poultry Association of Trinidad &amp;Tobago and Director of Marketing at Arawak Ltd.</li>
+
+<li>Carl Khan is Chairman of the Livestock and Livestock Products Board of Trinidad &amp; Tobago.</li>
+
+</ul>
+
+
+		</div>
+		
+		
+					<p><b>Q. What level of national poultry consumption in Trinidad and Tobago is met from national poultry production?</b></p><p>Robin Phillips (RP): The poultry industry in Trinidad and Tobago is a mature industry comprising over 3,000 pluck shops [traditional cottage or small-scale poultry processors], four conventional processing plants and over 500 contract farmers, with a combined capacity to produce 100% of the local requirements for table eggs and poultry meats. The country has the capacity to be self-sufficient in table eggs and poultry meats. The industry produces in excess of 40 million heads per annum, or 80,000 tonnes, and 9 million dozen table eggs, with a value of just under 1.4 billion Trinidad and Tobago dollars. The industry also has a small export trade to regional markets worth about TT$15 million. At least 95% of local processors are certified as approved suppliers to the local fast-food franchises, who source more than 95% of their poultry products from the local poultry industry.</p><p><b>Q. In what components of national poultry markets do imports pose the greatest competitive challenge to national poultry producers?</b></p><p>Desmond Ali (DA): The imports of broiler leg quarters and turkey necks and wings pose the greatest threat to the local poultry industry. In Barbados, Jamaica and Guyana the import duty regime is intended to defend the local industry, whilst in Belize, the import regime is licence-based.</p><p>RP: These residual parts originate mainly from the United States, where the cost of production is approximately 0.90 US cents/lb. The US industry markets the breast and wings at a premium of approximately US$2.00/lb. which covers the cost of the entire chicken. As a result of that, the US industry sells leg quarters way below the costs of production – as low as 30 US cents per lb. In the US and Europe, once meats including chicken have been frozen, there is a time limit after which they can no longer be sold for human consumption in their domestic markets.</p><p>DA: This price gets progressively lower the longer the chicken remains frozen. Over 60% of leg quarters produced in the US have to be exported due to the highly segmented nature of the US market and its preference for breast meat and wings. Because of the measures taken by Russia, China, Mexico and others in defence of their own poultry industries, there is a growing inventory of leg quarters in the USA. Therefore, as the expiry dates of this inventory approach, the cheaper it gets. I have been offered 6-year old frozen chicken for as low as 19 cents/lb.</p><p>Carl Khan (CK): All chicken produced by the local industry in Trinidad and Tobago is sold within days of production. Nowhere in the developed world can poultry meat be frozen, defrosted, then reportioned into retail-ready packs and sold to consumers. Frozen leg quarters are imported into Trinidad and Tobago in 20–25 kg boxes which are sold, then defrosted to be reportioned into 1–2 lb retail-ready packs for resale. There have also been reports of imported frozen leg quarters being defrosted and mixed with local fresh/chilled parts and retailed as local fresh/chilled product.</p><p><b>Q. What tariff measures does the government currently have in place to support the national poultry sector?</b></p><p>DA: Tariffs have been – and continue to be – extremely important international instruments for industry viability. In Trinidad, in the recent past, the government levied a tariff of 40% CET [the CARICOM common external tariff charged on first point of entry into the Caribbean single market and economy] + 87% surcharges for a total tariff of 127%. In December 2006, the surcharge was removed, leaving the industry with tariffs of only 40% CET. This level of tariff leaves the local industry vulnerable to US-sourced residual leg quarters, which are being disposed of below costs of production.</p><p>Trinidad and Tobago seems to be going in the opposite direction to most countries in the world, including our CARICOM partners. For instance, China, which had a similar problem with US leg quarters, has introduced a tariff of 105.4%.</p><p><b>Q. What non-tariff support programmes and measures does the government have in place to support national poultry production?</b></p><p>CK: Since 1998 we have been lobbying Government to incorporate HACCP [the hazard analysis and critical control points systematic approach to food safety] into our Food &amp; Drugs Laws. HACCP is now a legal instrument for the meat and poultry industries in many countries, including Belize and Barbados. Five years ago, the industry, supported by our partners, drafted and attempted to establish a National Agricultural Health and Food Safety Agency (NAHFSA) modelled on the Belize model (Belize Agricultural Health Authority). To date, nothing has happened. Problems remain the same, solutions remain the same, and there is an unwillingness to do what needs to be done because the priorities for agriculture are low. We have wasted 13 years talking about the same things.</p><p>RP: It would make logical sense, given the capacity limitations in the Caribbean, that we have a Caribbean Agricultural Health and Food Safety Agency (CAHFSA). But the problem is that even with all these regional authorities, we still need local legislation for it to become legally compliant. And that takes forever. If the NAHFSA and its regional counterpart, the CAHFSA, were established then that would have updated the legislative framework into the 21<sup>st</sup> century, and would also provide the industry with protection against imports of residual parts of questionable quality. This would make the playing field more level and strengthen the industry’s defence against the unscrupulous practices that exist today in terms of low-priced imports of residual parts.</p><p>DA: The Caribbean Poultry Association has also drafted a standard for poultry products which has been submitted to CROSQ [the Caribbean Regional Organisation for Standards and Quality]. This is now being considered.</p><p><b>Q. How dependent is the poultry sector on imported feedstocks, day-old chicks, veterinary medicines etc?</b></p><p>RP: Feed is about 60% of the cost of a chicken at the farm gate. The bulk of raw materials for feed is imported, since corn is the major input into animal feed and Trinidad and Tobago does not produce corn in any competitive quantity for animal feed.</p><p>DA: The broiler industry produces 100% of its day-old chick requirements. However, a portion of layer replacement chicks is imported, but the balance is hatched locally. Up to 1995, Trinidad and Tobago was self-sufficient in broiler hatching-egg requirements. After 1995 the tariffs were dismantled, and this decimated the local broiler-hatching egg industry. Today, only 5% of the broiler-hatching eggs are locally produced. Regionally, only Belize is self-sufficient in hatching eggs. Another of our regional partners, Jamaica, produces hatching eggs in the USA.</p><p>CK: In the past, Trinidad and Tobago used to produce more than the domestic industry’s requirements of hatching eggs. That is not much of an issue for the industry. When the World Trade Organisation (WTO) came into being and the duties on hatching eggs were eventually taken off, those firms that invested in hatching-egg production under tariff protection simply shifted the nature of their business from producer to importer/distributor. There is no firm plan to return the industry to a position of self-sufficiency in hatching eggs in case that segment itself becomes volatile. This aspect of poultry production is also challenging.</p><p>DA: There is no veterinary medicine production anywhere in the region.</p><p><b>Q. What steps are being taken to reduce the import dependency of poultry production at the national and/or regional levels?</b></p><p>DA: For the regional poultry industry, feed is absolutely critical, especially as more and more corn is being used by competing industries including ethanol and high fructose corn syrups (HFCS). Belize, Guyana and Suriname have the capacity to produce feed raw materials, thereby reducing extra-regional dependence and possibly costs. Belize is self-sufficient in corn for animal feeds and even exports to neighbouring countries. Guyana at times uses some rice as animal feed inputs.</p><p>In this regard, the CPA [Caribbean Poultry Industry] has taken initiatives to regionalise production of animal feed inputs. In fact, a pilot production of corn for Jamaica, Trinidad &amp; Tobago and Barbados is being put into the ground as we speak.</p><p>There is also opportunity in Guyana and Suriname to produce animal feed inputs. We plan to use Belize as a pilot production and export experience. We plan to extend that experience from Belize to Guyana and /or Suriname.</p><p>The CPA strategy is for the Caribbean poultry industry to be a true regional food producer. Hopefully we can get there within 5 years.</p><p>RP: The Jamaican model proposes a cost-plus basis supply contract, which makes the regional production of feed inputs sustainable.</p><p>CK: It is almost like a pre-production agreement in terms of the cost – which is what it should be. Buying grain on futures is like gambling. So if you are in the business, then the levels of elasticity will become less. Corn price is high when energy price is high, because that is when the ethanol venture makes sense.</p><p><b>Q. What are the major challenges in promoting poultry sector development?</b></p><p>DA: One of the major challenges now facing the regional industry – with the exception of Belize – is the extremely weak, backward and out-of-date non-tariff regulatory framework, the lack of which exposes the local consumer to sub-standard imported products. In addition, this is the only issue that acts as a barrier to exports, both regional and extra-regional. For instance, local producers cannot export to French and Dutch islands. If we can get our regulatory framework brought up to modern standards, including the SPS requirements under the WTO, the local industry would be in a good position to export.</p><p>The tariff regimes in CARICOM for chicken products are not uniform, ranging from 246% in Jamaica to 40% in Trinidad and Tobago. This is presenting significant challenges in building competitive domestic poultry industries in these countries.</p><p>RP: In terms of exports, a NAHFSA supported by the appropriate updated legal and regulatory framework would certify us for exports. For instance, all the international brands present in Trinidad &amp; Tobago buy poultry products from local producers who must meet their stringent international standards.</p><p>The absence of NAHFSA and the legal and regulatory framework allows the import of products of dubious quality, thereby exposing local consumers. Animal health permits and all other documentation required for imports must also state the definitive HS codes for the imported products.</p><p>Labelling is also a concern, as these repackaged imported chicken parts are sold in supermarkets with no labelling. &nbsp;</p><p>CK: Currently, the wings are the highest-priced cut; followed by breast. At the prices they enjoy for breast and wings, US producers can just about give away the leg quarters.</p><p>Currently, the US producers dump leg quarters at US$0.50 or less per lb, but there is a real danger with this artificially low price. US manufacturers are moving to use these parts in further processed and convenience products such as patties, nuggets, sausages etc., especially as the US is now in recession. When this transformation is complete, leg quarters would no longer be considered to be residual, and hence low priced.</p><p>The danger is that by the time that leg quarters are no longer available at low prices, the local poultry industry may be annihilated.</p><p><b>Q. What policy measures would you like to see in place at the national level to help support poultry sector development?</b></p><p>RP: The government asked the local poultry industry what minimum tariff the industry would need as a defence mechanism. We advised that 80% is the minimum position. However, our position is that, ideally, we should adopt our legal WTO Bound Rates.</p><p>DA: It is fair to conclude, that without tariff protection the Caribbean poultry industry would be at high risk, largely because of the issue with the residual parts, specifically leg quarters from the US. This is a challenge!</p><p>Even with adequate tariff protection, we still need updated TBT and SPS measures to protect the consuming public.</p><p>We have been lobbying for the government to institute three key measures:</p>
+<ul>
+
+<li>First, poultry must be sold to the final consumer in the packaging in which it leaves the processors, i.e., retail ready. This regulation is applied all over the world. Trinidad and Tobago processors always sell product to consumers in consumer-ready packaging. No local processor distributes produce in bulk to be broken down by the retailers for sale to consumers. It is fully pre-packed by the local processors for consumer sale because of the public health risks faced by repackaging.</li>
+
+<li>Second, product that is frozen cannot be sold as chilled, nor defrosted and sold as chilled. Local processors do not sell chicken after 6 months. In the US and Europe, if it crosses that timeline, it is deemed unfit for human consumption in those domestic markets. So their option is to sell it to make pet meat or sell it into the so-called Third World, whichever one is the higher price<i>.</i></li>
+
+<li>Finally, the harmonisation of tariff lines. While tariff protection is important, the bound rate is usually the point of reference among public sector and industry officials. But the key is the HS line, which provides the level of specificity required for effective analysis of the situation and decision making. The tariff regimes in CARICOM for chicken products are not uniform. The smaller Caribbean territories use a 4-digit HS code which does not facilitate business between Trinidad and these countries, as Trinidad uses a 6-digit code, but is trying to apply an 8-digit code. Canada and Europe use a 10-digit code.</li>
+
+</ul>
+<p>RP: For example, in negotiating a bilateral trade and economic agreement with Panama, the product codes between Panama and Trinidad and Tobago are not consistent or harmonised. In fact, Panama uses a different coding system entirely, not HS, hence their tariff lines do not match the international HS standards.</p><p><b>Q. How would you like to see the regional policy framework for poultry sector development evolve in your region?</b></p><p>DA: A regional policy framework for the poultry industry is essential to establish the industry as a locus of growth for food security and exports in consumer-ready and convenience products. Agriculture policy must be simple and address the needs of all stakeholders, and we have made a recommendation to the Ministry of Finance to use the Treaty of Rome (Articles 38 &amp; 39) as a simple example of an agricultural policy that addresses the needs of all stakeholders.</p><p>RP: Up to 2006–2007, the competitiveness of the poultry industry would be hailed by the government as a model for other agricultural sub-sectors to follow. The end of the tariff surcharges in December 2006 has now put that model at risk.</p><p>If the local poultry industry became changed to an import and distribution industry, for every hundred persons now employed in the present industry, only one would be employed. That means that employment would fall from 20,000 to 200.</p><p>DA: There is also a whole range of supporting industries that will disappear. As an example, the animal feed industry would come crashing down, because without the poultry sector the animal feed sector cannot be competitive.</p><p>CK: We would like to see an unambiguous, supportive and stable agriculture sector policy within which livestock development can take place. The national policy and regulatory environment needs to be enabling for industry development.</p><p>If it is that Government does not want to support the local poultry industry, they have to be careful about what message this would send to agricultural investors. If you allow the most successful agro-industry in this country to close – one that does not require government intervention in terms of subsidies – what signal are you sending to people? So if as a government you are not able to defend your most successful agro-industry, whom can you convince to come and invest in agriculture? That is the crux of the problem.</p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Poultry/Poultry-Focus/Securing-the-future-of-the-Caribbean-poultry-sector">Securing the future of the Caribbean poultry sector </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":136,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

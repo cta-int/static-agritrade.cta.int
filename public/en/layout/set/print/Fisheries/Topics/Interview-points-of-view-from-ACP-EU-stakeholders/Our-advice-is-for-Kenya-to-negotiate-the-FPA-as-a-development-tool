@@ -1,0 +1,216 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>“Our advice is for Kenya to negotiate the FPA as a development tool” / Interview: points of view from ACP–EU stakeholders / Topics / Fisheries / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/interviews.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																														
+							
+							
+																																																						,
+							<a href="/en/layout/set/print/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																								
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>“Our advice is for Kenya to negotiate the FPA as a development tool”</h1>
+
+			
+			<h4>
+												08 March 2014
+										</h4>
+
+						<h2>An interview with Peter Sol Rogers, Head of Trade Policy and Business Development at Wanainchi Marine Products, (K) Ltd</h2>
+					</header>
+
+
+				<div class="intro">
+
+						
+<div class="object-left">		
+<div class="embed-image">
+<img border="0" src="/var/agritrade/storage/images/peter-sol-rogers/3082696-1-eng-GB/Peter-Sol-Rogers_small.jpg" width="70" height="70">
+<div class=caption>
+<p>Peter Sol Rogers</p></div></div></div><p>Peter Sol Rogers is Head of Trade Policy and Business Development at Wanainchi Marine Products Company, in Kenya. He was also delegate for Kenya’s Ministry of Foreign Affairs for EU–EAC Economic Partnership Agreement (EPA) negotiations.</p>
+
+		</div>
+		
+		
+					<p><b>Q: It has been announced that Kenya hopes to sign an EPA with the EU by July 2014. What are the implications for marine fisheries exports, tuna in particular?</b></p><p>For Kenya’s tuna processing sector, access to financial instruments or other favourable trade policy arrangements that would allow us to buy tuna raw material in appropriate quantities, at a reasonable price, is a key issue. On average, only 1% of all tuna landed in the South-West Indian Ocean region is landed in Kenya. Moreover, existing Rules of Origin within Kenya’s current Interim EPA, in effect, have very much limited the growth of our processing activities because of the restrictions placed on sources of raw material.</p><p>In Kenya, as there is little local tuna fishing capacity in the region; our processing industries need to purchase fish caught outside their territorial waters, by EU fleets.</p><p>In the case of the East African Community (EAC), there was a controversy during the EPA negotiations about whether the fish caught in the exclusive economic zone (EEZ) should be considered of origin, something required by EAC countries to be able to make the best use of their EEZ’s resources.</p><p>The European Commission took the position that they did not want all fish caught in EAC’s EEZ to have beneficial market access regulations because this, they argued, would lead to the development of third-party distant water fleets.</p><p>Finally, a solution was found: the fisheries section of the Rules of Origin protocol within the EPA includes an automatic derogation for 5,000 tonnes of cooked tuna loins. For us, such derogation was a small compensation for allowing the Rules of Origin not to be defined by fish caught in our EEZ.</p><p><b>Q: Would you say the main obstacle for Kenya processing sector development has been lifted?</b></p><p>This derogation is indeed important. When they visited Kenya, the EC DG Mare enquired: “Why do you ask for such a large derogation when you only process such a small average yearly amount?” Our response was, “How much of our processing is from fish landed in Kenya?” Most of the fish that we currently process has been landed in Seychelles, put in containers and shipped to Mombasa for us to process. This is true even for fish that has been caught in Kenya’s EEZ. We also pointed out that historically only EU vessels land raw tuna for processing in Kenya.</p><p>Therefore, granting this automatic derogation is only a lifeline for our industry if ‘plan A’ of positioning our industry to get qualifying fish from the EU does not work.</p><p>But, as it is, this derogation is not very useful, because loins under derogation are processed from raw material that, on average, costs 10% more per tonne than locally caught qualifying fish.</p><p><b>Q: How much is that affecting the local processing industry?</b></p><p>We went through very difficult times when the EU private sector started to campaign against any relaxation of the Rules of Origin some years ago, claiming it would damage their industry, which was based on studies it commissioned to show the devastating effects of global sourcing as applied in the Pacific.</p><p>In reaction, however, the EC implemented an application process for the EAC to be granted the automatic derogation for using non-originating loins, which took nearly a year. Kenya received its derogation for using non-originating loins only in mid December, three years in a row. Such derogation is only effective if a processor can use it slowly throughout the year. Therefore, only receiving it mid December, in effect, stopped Eastern and Southern Africa (ESA) and the EAC from being able to export non-qualifying loins.</p><p>This absolutely devastated our industry. As a company, we were virtually closed for two years; I remember giving a tour of our empty facility to delegates from the European Commission.</p><p>At the same time, the EU awarded a quota of 22,000 tonnes for tuna loins (HS 1604) to third-party players: Thailand, Vietnam and Malaysia.</p><p>We could not see the logic in such a decision; all the tuna loins processed in Kenya go to EU canners. Wanainchi Marine, alone, had the loin processing capacity to meet the additional needs of EU canners!</p><p>For us, the spirit of the Economic Partnership Agreement should be development and capacity building.</p><p><b>Q: The EU is now starting to negotiate a Sustainable Fisheries Partnership Agreement with Kenya and Tanzania. How do you appreciate that?</b></p><p>Well I can only comment from the side of the existing industrial tuna fisheries sector here in Kenya. This is how we expect events to unfold in the upcoming first round of Fisheries Partnership Agreement. First of all, EU will present to Kenya its <i>ex ante</i> evaluation study. I expect they will argue that, given the historic catch levels in our EEZ, they see no reason to justify additional sectoral support beyond what they already consider to be the high fees that Kenya is currently gaining from the existing licensing regime under the private company’s Memorandum of Understanding signed with Kenya’s Ministry of Fisheries.</p><p>Kenya will highlight that accurate tuna catch data have not been made available to them and, due to a lack of monitoring, control and surveillance (MCS), Kenya as a country finds it hard to know exactly how much fish is actually taken from Kenya’s EEZ by EU- licensed vessels. The discussion may be about how much Kenya expects from the historical landed reference tonnage recorded within Kenya’s EEZ. A similar process will take place in Tanzania; talks will be about how much to pay for the fish caught.</p><p>Our position is that one must approach the negotiation of fishing and licensing practices within EAC coastal states’ EEZ as a “long-term relation”, focusing on enabling local sustainable development. In that sense, reference tonnage has no place within an FPA. Rather, we need to discuss what we can do with our fish and how we can maximise its economic, social and food security value.</p><p>If EU and Kenya only look at the monetary value of fish taken out of our ecosystem, it misses the fact that the coastal country somewhat loses its ability to benefit and develop from that ecosystem in other, possibly, more development-oriented ways. Of course, this links to issues of food sovereignty and food security in marine capture fisheries.</p><p>&nbsp;For us, our advice is for Kenya to negotiate the FPA as a development tool – a cornerstone for infrastructure. Kenya’s tuna industry would recommend that some part of the SFPA negotiations should be undertaken at the regional level, within the customs trade block that is the EAC, just as the EPA was negotiated. This will allow the region to participate more effectively in the global fisheries supply chain to build capacity and increase food security.</p><p>The EU–Kenya FPA needs to be based on estimated catch potential of the entire region, not based on the current geographical positioning of the harvesting of this migrating biomass.</p><p>While we agree that the EU fishing technology currently being used within the South-Western Indian Ocean ecosystem makes for a low catch per unit effort (CPUE) within Kenya’s EEZ, this should not be taken to imply that Kenya has a low production capacity. Currently, most of the tuna caught in the South-West Indian Ocean is from areas with lighter winds that provide shallow tuna habitats, hence greater accessibility of the tuna schools to the current surface techniques.</p><p><b>Q: Sectoral support within SFPA put a particular emphasis on research and MCS capacity building. Is it also a priority for Kenya?</b></p><p>Regarding the sectoral support, Kenya’s Ministry of Fisheries has spent years developing a tuna management strategy plan that can easily be used as a framework for sectoral support.</p><p>Indeed, research and MCS needs have been identified, and efforts are already being made by our country so that, eventually, our technologies will match the current practices of distant water fleets fishing within our region. A ‘level playing field’ in terms of MCS in our region would benefit the EU fleet.</p><p>Regarding research, President Uhuru Kenyatta last month commissioned Kenya’s first research vessel, RV Mtafiti, and in the coming months, our industry will request a full suite of environmental data.</p><p>Research should also take into account the small-scale artisanal fishing sector. Wanainchi Marine is a founding member of an NGO exploring the use of technology to report catch data from Kenya’s various beach management units in an effort to lower the catch mortality and discard rates of small-scale artisanal fishers. Currently, artisanal fishers account for most of the tuna landed on our shores and we feel that ICT could allow for enhanced fishing practices and thus improve food security in the region, and create jobs.</p><p>But other technology issues are important for developing the fisheries sector in East Africa. I can tell you that right now, here in Kenya, it is possible to order fish and pay for it by mobile money transfer, and have it delivered to our doorstep. For us, we think it would be in the EU’s best interest to support such new technology when it approaches the issue of sectoral support within a Fisheries Partnership Agreement.</p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/A-tuna-vessel-will-come-to-the-port-if-the-port-is-well-equipped">“A tuna vessel will come to the port if the port is well equipped”</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/Our-advice-is-for-Kenya-to-negotiate-the-FPA-as-a-development-tool">“Our advice is for Kenya to negotiate the FPA as a development tool”</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/Despite-their-importance-fisheries-are-not-yet-a-priority-for-many-African-countries">Despite their importance, fisheries are not yet a priority for many African countries</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/A-transparent-sustainable-and-equitable-agreement-with-the-EU-will-have-repercussions-for-Asian-fishing-fleets-active-in-Mauritian-waters">A transparent, sustainable and equitable agreement with the EU will have repercussions for Asian fishing fleets active in Mauritian waters</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/ACP-EU-relations-FPAs/Fisheries-research-the-cornerstone-for-sustainable-fisheries-management">Fisheries research, the cornerstone for sustainable fisheries management</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":166,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,841 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2012: Cotton sector / Cotton / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																															
+		
+		<div class='contentrealtionlist'>
+										
+																																																																																																																																														
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7800/(search)/simple">Cotton</a>
+							
+																																																																																																																																																																																																																																															
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2012: Cotton sector</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/74806/1212932/file/6db4896f5157484263c0bfddaa7c36b6.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+												28 November 2012
+										</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>About this update</b>&nbsp;</p><p>This brief was updated in October 2012 to reflect developments since July 2011. The 2011 publication was based on a fuller briefing published in December 2008, and is available on request from 
+<a href="mailto:agritrade-mail@cta.int" target="_self">agritrade-mail@cta.int</a></p><p>Other publications in this series and additional resources on ACP–EU agriculture and fisheries trade issues can be found online at 
+<a href="http://agritrade.cta.int/" target="_self">http://agritrade.cta.int/</a>&nbsp;&nbsp;</p>
+
+		</div>
+		
+		
+					<a name="eztoc1212921_0_1" id="eztoc1212921_0_1"></a><h3>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Background and key issues</h3><p>The cotton market is dominated by Asian countries – which are the principal growers, consumers and importers of cotton – and by the United States, still the world's leading exporter of the crop. China is the world's leading producer and consumer, while the three countries of China, India and Pakistan together accounted for 66% of world consumption in 2011. Production in India has seen dramatic levels of growth over the past few years. Once a net importer of cotton, India has since 2005/06 become a net exporter. Proactive government policies and proximity to the principal markets suggest that India could become a major competitor for ACP cotton producers.</p><p>The 29 ACP cotton-growing countries are only responsible for some 5% of global production. However, with local textile industries still underdeveloped, they account for more than double that proportion of world exports (11%). Nevertheless, cotton retains considerable economic and social significance in some countries, particularly the four members of the C4 group, Benin, Burkina Faso, Mali and Chad.</p><p>The EU has become a peripheral consumer of cotton and, through Spain and Greece, plays only a minor role as a producer. Yet, despite the 2003 EU Common Agricultural Policy (CAP) reforms, the EU continues to provide cotton producers with significant support, 35% of it still coupled, i.e. directly linked to cotton production. These coupled subsidies are seen as distorting trade and depressing prices on global markets, and could still be challenged during the 2013 round of CAP reforms. However, given the low level of cotton exports from the EU, its subsidies remain small scale by comparison with the US subsidy programme, which generates more distortion due to the country's role in the international cotton trade.</p><p>These policies are increasingly contested at the World Trade Organization (WTO), and the legitimacy of the developing countries’ complaints has increasingly been recognised. The C4 group has called for recognition of the strategic role played by cotton in the development of, and reduction of poverty in, many least developed countries (LDCs); for the progressive removal and eventual abolition of measures supporting cotton production and export; and for interim measures to compensate for any loss of revenue suffered by LDC countries during this process. However, real progress on this issue at the WTO has so far been scant.</p><p>Meanwhile, following Brazil's 2002 complaint to the WTO against the US sectoral subsidy programme, and the WTO panel's subsequent judgement in favour of the plaintiff, the two parties concluded a bilateral agreement to avoid WTO-authorised sanctions. This agreement grants Brazilian cotton producers €147.3 million a year in technical assistance to compensate for losses caused by US subsidies. However, in the view of ACP countries, it 'serves only to reinforce inequality of treatment and to harm other producers' interests'.</p><p>Production in the 12 main ACP cotton-producing countries fell by almost 35% between 2005 and 2010, partly due to low prices. Since 2010, however, cotton prices have risen sharply, reaching record highs. But they have also become increasingly volatile, causing considerable anxiety to all market players and encouraging them to act cautiously in a difficult economic and financial climate.</p><p>Several different initiatives over recent years have sought to increase yields and returns for African cotton growers. Tanzania, for example, has launched a contract farming initiative and established farmers' business groups to improve organisation by producers and strengthen their negotiating position in the supply chain. At the continental level, a joint initiative of the Association of African Cotton Producers (APROCA) and the African Cotton and Textile Industries Federation (ACTIF) is directed towards retaining a greater proportion of the cotton textile sector (textile production, garment design and manufacture) in Africa.</p><p>In addition, a number of initiatives have been implemented to differentiate African cotton on quality grounds. These range from fair-trade cotton to organic cotton, and include new initiatives such as Mali's '<i>Signé coton'</i> and the 'Cotton Made in Africa' labels. Although this market is still small, it has enormous potential. The French Development Agency (AFD) has been running a €4.7million project since 2008 to develop fair-trade and organic cotton production in West and Central Africa.</p><a name="eztoc1212921_0_2" id="eztoc1212921_0_2"></a><h3>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Latest developments</h3><p>After three seasons of production deficits, with stocks at record lows, global cotton production recovered in 2010/11, and more strongly still in 2011/12, with production exceeding consumption by almost 3 million tonnes. However, while production has increased, global consumption of cotton has declined along with the crisis enveloping the world economy, and rising prices have accentuated competition between cotton and synthetic fibres. Cotton prices rose steadily, reaching a new high of 227 US cents/lb in March 2011, before easing under pressure from plentiful supply and slowing demand to stand today at around 70 US cents/lb. Policy decisions taken by China and India, the two major market players, strongly influence price movements.</p><p><b>2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The cotton market in 2010–2012</b></p><p><b>Rising prices trigger a recovery in global production</b></p><p>Global production in 2011/12 reached its highest level for 5 years, with appreciable growth in China, Australia, Pakistan and Turkey, but a fall in the United States. Over the two production years 2010/11 and 2011/12, global production has climbed by 22.5%.</p><p>Early forecasts for 2012/13 from the US Department of Agriculture (USDA) indicate that production will drop by 6%, while the International Cotton Advisory Committee (ICAC) forecasts a decline of 7%, as a result of falling prices and the greater attractiveness of cereal crops. In China, production is set to drop by over 10%, and India, Pakistan, Brazil and Turkey are also expected to show a fall. In the US, by contrast, despite a reduction in the planted area, production is forecast to grow by 11%.</p><p><b>Table 1: Global cotton supply and demand ('000 tonnes)</b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="175" valign="top">  &nbsp;
+  </td><td width="82" valign="top">  <b>2009/10</b>
+  </td><td width="105" valign="top">  <b>2010/11*</b>
+  </td><td width="104" valign="top">  <b>2011/12**</b>
+  </td><td colspan="7" width="104" valign="top">  <b>2012/13**</b>
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp;
+  </td><td width="82" valign="top">  &nbsp;
+  </td><td width="105" valign="top">  &nbsp;
+  </td><td width="104" valign="top">  &nbsp;
+  </td><td width="89" valign="top">  &nbsp;
+  </td><td width="3" valign="top">  <b>&nbsp;</b>
+  </td><td width="3" valign="top">  <b>&nbsp;</b>
+  </td><td width="2" valign="top">  <b>&nbsp;</b>
+  </td><td width="3" valign="top">  <b>&nbsp;</b>
+  </td><td width="2" valign="top">  <b>&nbsp;</b>
+  </td><td width="1" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  <b>Stocks at 1 August</b>
+  </td><td width="82" valign="top">  <b>11 921</b>
+  </td><td width="105" valign="top">  <b>8 695</b>
+  </td><td width="104" valign="top">  <b>9 308</b>
+  </td><td colspan="7" width="104" valign="top">  <b>13 790</b>
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - China
+  </td><td width="82" valign="top">  3 585
+  </td><td width="105" valign="top">  2 780
+  </td><td width="104" valign="top">  2 165
+  </td><td colspan="7" width="104" valign="top">  6 030
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - United States
+  </td><td width="82" valign="top">  1 380
+  </td><td width="105" valign="top">  0,642
+  </td><td width="104" valign="top">  0,566
+  </td><td colspan="7" width="104" valign="top">  0,700
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  <b>Production </b>
+  </td><td width="82" valign="top">  <b>22 170</b>
+  </td><td width="105" valign="top">  <b>25 103</b>
+  </td><td width="104" valign="top">  <b>27 161</b>
+  </td><td colspan="7" width="104" valign="top">  <b>24 870</b>
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - China
+  </td><td width="82" valign="top">  6 925
+  </td><td width="105" valign="top">  6 400
+  </td><td width="104" valign="top">  7 400
+  </td><td colspan="7" width="104" valign="top">  6 420
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - India
+  </td><td width="82" valign="top">  5 185
+  </td><td width="105" valign="top">  5 765
+  </td><td width="104" valign="top">  5 865
+  </td><td colspan="7" width="104" valign="top">  5 430
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - United States
+  </td><td width="82" valign="top">  2 654
+  </td><td width="105" valign="top">  3 942
+  </td><td width="104" valign="top">  3 391
+  </td><td colspan="7" width="104" valign="top">  3 770
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - Brazil
+  </td><td width="82" valign="top">  1 194
+  </td><td width="105" valign="top">  1 960
+  </td><td width="104" valign="top">  1 971
+  </td><td colspan="7" width="104" valign="top">  1 590
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - Pakistan
+  </td><td width="82" valign="top">  2 070
+  </td><td width="105" valign="top">  1 907
+  </td><td width="104" valign="top">  2 294
+  </td><td colspan="7" width="104" valign="top">  2 000
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - Uzbekistan
+  </td><td width="82" valign="top">  0,850
+  </td><td width="105" valign="top">  0,910
+  </td><td width="104" valign="top">  0,880
+  </td><td colspan="7" width="104" valign="top">  0,860
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  <b>Consumption</b>
+  </td><td width="82" valign="top">  <b>25 343</b>
+  </td><td width="105" valign="top">  <b>24 490</b>
+  </td><td width="104" valign="top">  <b>22 743</b>
+  </td><td colspan="7" width="104" valign="top">  <b>23 530</b>
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - China
+  </td><td width="82" valign="top">  10 099
+  </td><td width="105" valign="top">  9 594
+  </td><td width="104" valign="top">  8 635
+  </td><td colspan="7" width="104" valign="top">  8 980
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - India
+  </td><td width="82" valign="top">  4 300
+  </td><td width="105" valign="top">  4 593
+  </td><td width="104" valign="top">  4 367
+  </td><td colspan="7" width="104" valign="top">  4 670
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - Pakistan
+  </td><td width="82" valign="top">  2 393
+  </td><td width="105" valign="top">  2 100
+  </td><td width="104" valign="top">  2 121
+  </td><td colspan="7" width="104" valign="top">  2 230
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - Far East and&nbsp; Australia
+  </td><td width="82" valign="top">  1 857
+  </td><td width="105" valign="top">  1 755
+  </td><td width="104" valign="top">  1 633
+  </td><td colspan="7" width="104" valign="top">  1 640
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - Europe and Turkey
+  </td><td width="82" valign="top">  1 550
+  </td><td width="105" valign="top">  1 499
+  </td><td width="104" valign="top">  1 446
+  </td><td colspan="7" width="104" valign="top">  1 480
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - Brazil
+  </td><td width="82" valign="top">  1 024
+  </td><td width="105" valign="top">  0,958
+  </td><td width="104" valign="top">  0,900
+  </td><td colspan="7" width="104" valign="top">  0,910
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - United States
+  </td><td width="82" valign="top">  0,773
+  </td><td width="105" valign="top">  0,849
+  </td><td width="104" valign="top">  0,740
+  </td><td colspan="7" width="104" valign="top">  0,700
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - CIS
+  </td><td width="82" valign="top">  0,604
+  </td><td width="105" valign="top">  0,570
+  </td><td width="104" valign="top">  0,563
+  </td><td colspan="7" width="104" valign="top">  0,570
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  <b>Exports</b>
+  </td><td width="82" valign="top">  <b>7 806</b>
+  </td><td width="105" valign="top">  <b>7 624</b>
+  </td><td width="104" valign="top">  <b>9 170</b>
+  </td><td colspan="7" width="104" valign="top">  <b>7 560</b>
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - United States
+  </td><td width="82" valign="top">  2 621
+  </td><td width="105" valign="top">  3 130
+  </td><td width="104" valign="top">  2 526
+  </td><td colspan="7" width="104" valign="top">  2 570
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - India
+  </td><td width="82" valign="top">  1 420
+  </td><td width="105" valign="top">  1 085
+  </td><td width="104" valign="top">  1 900
+  </td><td colspan="7" width="104" valign="top">  0,750
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - Uzbekistan
+  </td><td width="82" valign="top">  0,820
+  </td><td width="105" valign="top">  0,600
+  </td><td width="104" valign="top">  0,532
+  </td><td colspan="7" width="104" valign="top">  0,530
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - Australia
+  </td><td width="82" valign="top">  0,460
+  </td><td width="105" valign="top">  0,545
+  </td><td width="104" valign="top">  1 000
+  </td><td colspan="7" width="104" valign="top">  0,900
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - FCFA zone
+  </td><td width="82" valign="top">  0,561
+  </td><td width="105" valign="top">  0,477
+  </td><td width="104" valign="top">  0,569
+  </td><td colspan="7" width="104" valign="top">  0,620
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - Brazil
+  </td><td width="82" valign="top">  0,433
+  </td><td width="105" valign="top">  0,435
+  </td><td width="104" valign="top">  1 000
+  </td><td colspan="7" width="104" valign="top">  0,590
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  <b>Imports</b>
+  </td><td width="82" valign="top">  <b>7 875</b>
+  </td><td width="105" valign="top">  <b>7 675</b>
+  </td><td width="104" valign="top">  <b>9 237</b>
+  </td><td colspan="7" width="104" valign="top">  <b>7 560</b>
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - China
+  </td><td width="82" valign="top">  2 374
+  </td><td width="105" valign="top">  2 609
+  </td><td width="104" valign="top">  5 100
+  </td><td colspan="7" width="104" valign="top">  2 680
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - Far East and Australia
+  </td><td width="82" valign="top">  1 936
+  </td><td width="105" valign="top">  1 774
+  </td><td width="104" valign="top">  1 763
+  </td><td colspan="7" width="104" valign="top">  1 800
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - Europe and Turkey
+  </td><td width="82" valign="top">  1 170
+  </td><td width="105" valign="top">  0,972
+  </td><td width="104" valign="top">  0,743
+  </td><td colspan="7" width="104" valign="top">  0,970
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - Pakistan
+  </td><td width="82" valign="top">  0,342
+  </td><td width="105" valign="top">  0,314
+  </td><td width="104" valign="top">  0,150
+  </td><td colspan="7" width="104" valign="top">  0,420
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - CIS
+  </td><td width="82" valign="top">  0,209
+  </td><td width="105" valign="top">  0,132
+  </td><td width="104" valign="top">  0,137
+  </td><td colspan="7" width="104" valign="top">  0,130
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  <b>Closing Stocks</b>
+  </td><td width="82" valign="top">  <b>8 695</b>
+  </td><td width="105" valign="top">  <b>9 308</b>
+  </td><td width="104" valign="top">  <b>13 792</b>
+  </td><td colspan="7" width="104" valign="top">  <b>15 130</b>
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - China
+  </td><td width="82" valign="top">  2 780
+  </td><td width="105" valign="top">  2 615
+  </td><td width="104" valign="top">  6 026
+  </td><td colspan="7" width="104" valign="top">  6 130
+  </td>
+</tr>
+
+<tr>
+<td width="175" valign="top">  &nbsp; - United States
+  </td><td width="82" valign="top">  0,642
+  </td><td width="105" valign="top">  0,566
+  </td><td width="104" valign="top">  0,695
+  </td><td colspan="7" width="104" valign="top">  1 200
+  </td>
+</tr>
+
+</table>
+<p>Notes: * estimate, ** projected figures</p><p>Source: ICAC July 2012;&nbsp;</p><p><b>The economic crisis hits consumption</b></p><p>After recovering in the wake of the 2008 financial crisis, global cotton consumption fell back again in 2010/11, as prices rose, and once more in 2011/12, with the economic crisis curbing demand for textiles (see Table 1: Global cotton supply and demand). Over these 2 years, consumption fell by 10.5%.</p><p>Consumption is set to pick up again in 2012/13 after two successive years of decline. Lower prices, making cotton more competitive in relation to synthetic fibres, and global economic recovery are expected to generate a 4% increase in consumption in 2012/13. However, with production continuing to exceed consumption, stocks are still expected to rise. The USDA forecasts a 2% fall in Chinese consumption to 40 million bales, the lowest level for 8 years. However, growth elsewhere will compensate for this. Consumption is set to grow In India, Pakistan, Turkey and Brazil, with rises ranging between 6 and 7%, while in Thailand a 22% increase is forecast after the 2011/12 floods.&nbsp;&nbsp;</p><p><b>Global trade trends</b></p><p>Having held steady between 7.6 and 7.8 million tonnes in 2009–11, exports rose to&nbsp; 9.2 million tonnes in the following season, a 20% increase. In 2012/13, however, ICAC forecasts (July 2012) that they will revert to their previous level, falling by 18% to a total of 7.6 million tonnes.</p><p>Again according to ICAC, the 2011/12 rise was due not to increased demand for cotton, but to China doubling its imports (see Box: China's influence on the global cotton market) at a time when other countries were experiencing an 18% fall. ICAC's forecast for the 2012/13 production year is that Chinese imports will fall (by a half), while those of other countries increase in volume by 18%, to give a total of 7.56 million tonnes. Exports from the United States and francophone Africa are expected to grow on the back of increased production, while those from other countries are forecast to fall 'with poorer harvests and more intense competition over a reduced volume of imports'.</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="616" valign="top">  <p><b>China's influence on the global cotton market</b></p><p>As the world's leading producer, consumer and importer of cotton, China plays a decisive role on the world cotton market and its influence has been even more marked over the past two turbulent years. China has for the first time launched a generous programme of grower subsidies by guaranteeing a minimum purchase price higher than the world market price, and has also decided to rebuild its national reserve stocks. China almost doubled its imports in 2011/12 to more than 5 million tonnes, or 55% of global imports. Reflecting government policy rather than demand from China's mills, this jump has helped to support prices on the internal and international markets, to reduce the amount of cotton available, and to increase trade. At more than 6 million tonnes, China's opening stocks in 2012/13 have virtually tripled. Chinese imports are forecast to fall in 2012/13, but the government has announced that it will renew the minimum purchase price and thus continue to purchase for reserve stocks.</p><p>Indian policy-making has also influenced the market, although to a lesser extent. In March 2012, as in 2010, India suspended the export of cotton. However, the measure was quickly rescinded.&nbsp;</p>
+  </td>
+</tr>
+
+</table>
+<p><b>Price volatility</b></p><p>The price of cotton doubled in 2010, reaching levels last seen during the American Civil War, and a high of 227 US cents/lb on 7 March 2011. Several factors contributed to this exceptional rise in world prices. In 2009/10, consumption exceeded production for the fourth consecutive year, with stocks – which fell by 25% – reaching their lowest level for 7 years. This upturn in consumption had been more rapid than anticipated, particularly in Asia, putting pressure on the supply side, and it was further compounded by weather events, particularly in Pakistan. From April 2011 slowing demand sent prices tumbling and by the end of the year they had fallen back below 100 US cents/lb, just when the market, by making cotton more attractive than competitor crops, had encouraged countries to increase the area planted and levels of production. Prices continued to fall during the first semester of 2012, stabilising at around 70 US cents/lb.</p><p>The fundamentals are bearish due to high levels of stock and an excess of production over consumption. However, factors external to the cotton market are also playing their part, among them the Eurozone crisis and a strengthening US dollar. Future price movements will also depend on China (see Box: China's influence on the global cotton market), which has announced the renewal of a minimum price for 2012/13, and on the country's policy toward its national reserve stocks.&nbsp;</p><p><b>Figure 1: Cotton price trends on New York markets (in cents/lb)</b></p>
+<div class="">		
+<div class="embed-image">
+<img border="0" src="/var/agritrade/storage/images/cotton-price-trends4/1213439-1-eng-GB/Cotton-price-trends_imagelarge.jpg" width="448" height="180"></div></div><p>Source: Reuters Agency</p><p>Prices around the world in 2010 and 2011 were marked by extreme volatility, upwards and downwards, undermining all the cotton market players – producers, traders and spinners – at a time when credit is increasingly difficult to obtain. In direct consequence, breach of contract cases are growing in number. In 2011 they reached record levels with 242 requests for arbitration, five times the historic annual average. In the first semester of 2012, the International Cotton Association has registered 135.</p><p><b>2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in the European cotton sector in 2011/12</b></p><p>The upturn in prices apparent from 2010 encouraged European growers to increase the area under cotton, bringing production in 2011/12 to 352,000 tonnes, a rise of over 40%, and exports to 304,000 tonnes, compared to 211,000 tonnes in 2010/11 (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Coton/Examen-annuel-de-l-USDA-du-secteur-du-coton-de-l-UE-27" target="_self">USDA annual review of EU27 cotton sector</a>, 9 July 2012). As to production trends in 2012/13, estimates vary. The USDA forecasts a volume broadly similar to that of 2011/12. In contrast, ICAC is predicting a 10% fall in production, from 340,000 tonnes to 305,000 tonnes, with a smaller 1.7% reduction in exports, from 283,000 tonnes to 278,000 tonnes.</p><p>The economic difficulties experienced by the Eurozone, and more particularly Greece, could transform the debate over cotton-sector subsidies. Representing between 82 and 85% of European production, cotton contributes to 8% of Greece's agricultural production and employs 75,000 people. The EC is proposing to strengthen the safety-net role of the CAP, as well as to offer member states greater scope to retain decoupled support in sensitive regions. So, even if standstill provisions regarding cotton-sector subsidies are accepted in principle, the right to grant exceptional support in response to unexpected market developments is likely to be retained.</p><p>In reviewing EU trade policy, the WTO remarks that agricultural subsidies remain substantial in both absolute and relative terms, representing around a third of the total value of production in 2009. Although the transition from price support to grower support has led to a reduction in coupled support, the latter nevertheless remains significant in a number of sectors, among them cotton (see Box: Government support for the cotton sector: Rising prices and falling levels of subsidy, except in Europe<b>, </b>and <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/fr/Agriculture/Sujets/Accord-de-l-OMC/Dimensions-agricoles-de-l-examen-de-la-politique-commerciale-de-l-UE-par-l-OMC" target="_self">Agricultural dimensions of the WTO EU trade policy review</a>’, 30 August 2011).</p><p><b>2.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in the ACP cotton sector in 2011/12</b></p><p>Prices encouraged African countries to increase the area planted in 2011/12. African production (including Egypt) grew by more than 40%, from 1,034 million tonnes in 2010/11 to 1,448 million tonnes in 2011/12, while exports grew by 13% from 885,000 tonnes to a little over 1 million tonnes. Africa's share of global production climbed to 5.3% in 2011/12, while its exports represented approximately 11% of the world total.</p><p><b>Developments in the African franc zone</b></p><p>In 2010/11, cotton production in West Africa failed to live up to the expectations raised by the recovery in world markets. Climatic conditions apart, the cotton sector had been hit by 5 years of crisis, characterised by losses for the cotton companies, accumulating arrears, reduced use of agricultural inputs and low morale among producers, reasons aplenty to explain the relatively modest upturn. Moreover, cotton is grown by small family farmers who are not very market responsive.</p><p>In 2011/12, with prices still rising and the farm-gate price at a historic high (an average 27% rise over 2010/11, but over 36% in Burkina Faso and Mali), production recovered strongly. In the ECOWAS zone, production rose by 47% from 944,109 tonnes in 2010/11 to 1,390,611 tonnes in 2011/12, with a 20% increase recorded in the area planted and in yields (ECOWAS COS-Cotton Bulletin, 2012). Côte d’Ivoire (+46%), Mali (+83%) and Togo (+153%) all registered particularly strong performances. In general, however, countries still failed to meet their targets, largely due to unfavourable climatic conditions. In Mali, lack of rainfall prevented the country from reaching its target of 500,000 tonnes (445,000 tonnes actual). Burkina Faso also failed to meet its objectives, hampered by protest movements and growers destroying their fields, along with poor winter weather; nevertheless, production grew by 24% to reach 414,500 tonnes. Both Sofitex and the prime minister vigorously denied that they intend to abandon genetically modified organisms (GMOs) in the 2012/13 season. However, a reduction in the area planted is likely. In Senegal, production grew by only 8%, due to unexpected sluggishness on the part of growers and a reduction in the area planted.</p><p>For 2012/13, ICAC predicts another 7% increase in production for the franc zone. Although the Cotlook 'A' Index fell by more than half between April 2011 and April 2012, the cotton companies have opted to maintain, and indeed increase, the farm-gate price and to renew their input subsidy programmes (see Table 2: Farm-gate price movements in the franc zone). These are proactive policies designed to sustain momentum and consolidate the recovery which began in 2010/11, although at some risk to their own balance-sheets.</p><p>Against a background of political stability and economic recovery, the cotton industry in Côte d’Ivoire should continue to grow, with production forecast at 300,000 tonnes, against 260,000 tonnes in 2011/12. Côte d’Ivoire is already the third largest producer in Africa, last year moving ahead of Benin. Benin produced 174,000 tonnes of cotton in 2011/12, a rise of 27% over the previous year. However, the 2012/13 season started badly with a real tussle between the state and private enterprise over fertiliser supply. After a report commissioned by the government, but produced by an independent international body, highlighted poor management in the cotton industry, the government decided to bring the industry, and particularly input supply, back under state control, thus suspending its framework agreement with the Interprofessional Cotton Association (AIC). Meanwhile Mali, Africa's leading producer of 'white gold', has again fixed a production target of 500,000 tonnes, despite the ongoing political crisis in the country, since the cotton zone is concentrated in the south.</p><p><b>Table 2: Farm-gate price movements in the franc zone (FCFA per kilo, 1st grade)</b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="100" valign="top">  <b>Country</b>
+  </td><td width="100" valign="top">  <b>2009/10</b>
+  </td><td width="100" valign="top">  <b>2010/2011</b>
+  </td><td width="100" valign="top">  <b>2011/12</b>
+  </td><td width="114" valign="top">  <b>2012/13</b>
+  </td>
+</tr>
+
+<tr>
+<td width="100" valign="top">  Mali
+  </td><td width="100" valign="top">  170
+  </td><td width="100" valign="top">  185
+  </td><td width="100" valign="top">  255
+  </td><td width="114" valign="top">  255
+  </td>
+</tr>
+
+<tr>
+<td width="100" valign="top">  Togo
+  </td><td width="100" valign="top">  165
+  </td><td width="100" valign="top">  185
+  </td><td width="100" valign="top">  215
+  </td><td width="114" valign="top">  230
+  </td>
+</tr>
+
+<tr>
+<td width="100" valign="top">  Benin
+  </td><td width="100" valign="top">  210
+  </td><td width="100" valign="top">  200
+  </td><td width="100" valign="top">  250
+  </td><td width="114" valign="top">  260
+  </td>
+</tr>
+
+<tr>
+<td width="100" valign="top">  Côte d'Ivoire
+  </td><td width="100" valign="top">  175
+  </td><td width="100" valign="top">  210
+  </td><td width="100" valign="top">  265
+  </td><td width="114" valign="top">  265
+  </td>
+</tr>
+
+<tr>
+<td width="100" valign="top">  Senegal
+  </td><td width="100" valign="top">  185
+  </td><td width="100" valign="top">  205
+  </td><td width="100" valign="top">  255
+  </td><td width="114" valign="top">  255
+  </td>
+</tr>
+
+<tr>
+<td width="100" valign="top">  Burkina Faso
+  </td><td width="100" valign="top">  165
+  </td><td width="100" valign="top">  180
+  </td><td width="100" valign="top">  245
+  </td><td width="114" valign="top">  245
+  </td>
+</tr>
+
+<tr>
+<td width="100" valign="top">  Cameroon
+  </td><td width="100" valign="top">  185
+  </td><td width="100" valign="top">  215
+  </td><td width="100" valign="top">  270
+  </td><td width="114" valign="top">  265
+  </td>
+</tr>
+
+</table>
+<p>Source: Cotton company reports</p><p><b>Developments in East and Southern Africa</b></p><p>The deregulated cotton industries of East and Southern Africa are often more market responsive and thus reacted more quickly to rising prices than did the franc zone, production growing overall by more than 41% in 2011/12, and virtually doubling in Tanzania and Zambia. In 2012/13, ICAC forecasts that production will fall by 13.5%.</p><p>The wide price variations seen in the last 2 years have had considerable impact on the countries of East and Southern Africa. With prices rising and then falling, arguments between growers and ginners in Tanzania, Zambia and Zimbabwe have worsened over the year. These conflicts pose immediate problems for the sale of the crop – which will eventually be resolved in the face of the growers' shortage of cash&nbsp; – but are more likely to hinder activity in the coming season.&nbsp;</p><p>With the market rising in 2011/12, the ginners paid record prices for cotton, prices which today are in decline to a level unacceptable to the growers. Different countries have taken different approaches to setting a guide price. The Zimbabwean government decided in July to act as the monopoly buyer, a solution which may be difficult to sustain. Zambia has officially acknowledged the failure of negotiations and the market will therefore set the price. In Tanzania, meanwhile, agreement has been reached over prices, but these may yet prove too high to provide the ginners with sufficient return.</p><p>Ethiopia's policy choices since 2010 show how difficult it is for ACP countries to take control of the entire value chain. The country's 5-year Growth and Transformation Plan (GTP) targets the textile industry as one of its sectors for growth and gives equal priority to increasing cotton production from some 60,000 tonnes in 2010/11 to 200,000 tonnes in 2015. Land has been made available to investors and approximately 2.6 million hectares earmarked for cotton, only 5% of which is currently under cultivation. With prices high, and increased demand from the local textile industry anticipated, the government banned cotton exports in October 2010. Cotton production has certainly grown, to a total of nearly 70,000 tonnes in 2011/12. But demand has failed to keep pace, local industry buying only 22,000 tonnes. Under pressure from growers whose stocks are accumulating, the government finally lifted the export ban in April 2012 (see Table 3).</p><p><b>Table 3: Cotton production and exports in Africa ('000 tonnes)</b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="194" valign="top">  &nbsp;
+  </td><td width="114" valign="top">  <b>2010/11</b>
+  </td><td width="114" valign="top">  <b>2011/12</b>
+  </td><td width="114" valign="top">  <b>2012/13</b>
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  <b>North Africa</b>
+  </td><td width="114" valign="top">  <b>&nbsp;</b>
+  </td><td width="114" valign="top">  <b>&nbsp;</b>
+  </td><td width="114" valign="top">  <b>&nbsp;</b>
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  &nbsp; - Egypt
+  </td><td width="114" valign="top">  137
+  </td><td width="114" valign="top">  181
+  </td><td width="114" valign="top">  115
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  &nbsp; - Sudan
+  </td><td width="114" valign="top">  16
+  </td><td width="114" valign="top">  44
+  </td><td width="114" valign="top">  40
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  Exports
+  </td><td width="114" valign="top">  113
+  </td><td width="114" valign="top">  95
+  </td><td width="114" valign="top">  119
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  <b>Francophone Africa</b>
+  </td><td width="114" valign="top">  <b>494</b>
+  </td><td width="114" valign="top">  <b>676</b>
+  </td><td width="114" valign="top">  <b>723</b>
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  &nbsp; - Benin
+  </td><td width="114" valign="top">  60
+  </td><td width="114" valign="top">  77
+  </td><td width="114" valign="top">  82
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  &nbsp; - Burkina Faso
+  </td><td width="114" valign="top">  141
+  </td><td width="114" valign="top">  151
+  </td><td width="114" valign="top">  172
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  &nbsp; - Cameroon
+  </td><td width="114" valign="top">  68
+  </td><td width="114" valign="top">  78
+  </td><td width="114" valign="top">  83
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  &nbsp; - Côte d'Ivoire
+  </td><td width="114" valign="top">  59
+  </td><td width="114" valign="top">  95
+  </td><td width="114" valign="top">  100
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  &nbsp; - Mali
+  </td><td width="114" valign="top">  103
+  </td><td width="114" valign="top">  187
+  </td><td width="114" valign="top">  194
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  &nbsp; - Togo
+  </td><td width="114" valign="top">  20
+  </td><td width="114" valign="top">  34
+  </td><td width="114" valign="top">  31
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  Exports
+  </td><td width="114" valign="top">  480
+  </td><td width="114" valign="top">  572
+  </td><td width="114" valign="top">  627
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  <b>Anglophone Africa</b>
+  </td><td width="114" valign="top">  <b>387</b>
+  </td><td width="114" valign="top">  <b>547</b>
+  </td><td width="114" valign="top">  <b>473</b>
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  &nbsp; - Nigeria
+  </td><td width="114" valign="top">  45
+  </td><td width="114" valign="top">  63
+  </td><td width="114" valign="top">  57
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  &nbsp; - Tanzania
+  </td><td width="114" valign="top">  65
+  </td><td width="114" valign="top">  120
+  </td><td width="114" valign="top">  97
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  &nbsp; - Zambia
+  </td><td width="114" valign="top">  50
+  </td><td width="114" valign="top">  90
+  </td><td width="114" valign="top">  73
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  &nbsp; - Zimbabwe
+  </td><td width="114" valign="top">  103
+  </td><td width="114" valign="top">  111
+  </td><td width="114" valign="top">  101
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  Exports
+  </td><td width="114" valign="top">  292
+  </td><td width="114" valign="top">  336
+  </td><td width="114" valign="top">  447
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  <b>Total production – Africa</b>
+  </td><td width="114" valign="top">  <b>1 034</b>
+  </td><td width="114" valign="top">  <b>1 448</b>
+  </td><td width="114" valign="top">  <b>1 351</b>
+  </td>
+</tr>
+
+<tr>
+<td width="194" valign="top">  Total exports – Africa
+  </td><td width="114" valign="top">  885
+  </td><td width="114" valign="top">  1003
+  </td><td width="114" valign="top">  1193
+  </td>
+</tr>
+
+</table>
+<p>Source: ICAC</p><p><b>2.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recent developments in the cotton issue at the WTO</b></p><p>There has been little significant progress over the issue of cotton at the WTO. However, the African countries, led by the C4 group, are by no means giving up. In November 2011, they presented a 'standstill' proposal to the WTO, according to which 'the United States and the EU would freeze their support for the cotton sector [...] at the current, historically low, levels.' With payments falling as prices rise, applying the standstill principle to present levels of subsidy might provide a way out of the current impasse. It has, however, as yet proved impossible to reach a consensus on this issue (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Coton/Les-pays-du-groupe-C4-presentent-une-proposition-de-statu-quo-a-l-OMC" target="_self">C4 countries table a 'standstill principle' proposal in WTO</a>’, 7 January 2012). The African countries are also continuing in their efforts to raise awareness of African cotton and argue its case. In June 2012, the C4 group, during a trip to the United States, and the ACP countries, during the 95th session of the ACP Council of Ministers in Vanuatu, pressed for Europe and the US to reduce their cotton-sector subsidies, even though the WTO delegation continues to confirm the lack of progress in this area and over the Doha Round in general. This is a good time to raise the issue, as the next US Farm Bill is currently under discussion and the 2013 CAP reform is also due, and political choices are key to determining future levels of subsidy (see Box: Government support for the cotton sector: rising prices and falling levels of subsidy, except in Europe).</p><p>Both in Europe and in the US, discussions around the CAP and the Farm Bill are taking place in a context of acute budgetary pressure which should favour a reduction in subsidies. The 2012 Farm Bill will include cuts of at least US$23 billion. In accordance with producers’ wishes, the US is also certain to abandon direct payments, relying instead on a wholly insurance-based system (income insurance and harvest insurance), giving still greater power to the market, which alone will be at the helm.</p><p>On 12 December 2011, on the fringes of the WTO Ministerial, China signed a cooperation agreement with the four C4 countries. China, like the US, subsidises its cotton sector heavily and, in signing this agreement, could well have been trying to deflect criticism of this underlying reality (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Coton/Le-groupe-C4-et-la-Chine-conviennent-d-un-accord-de-cooperation-en-marge-de-la-reunion-ministerielle-de-l-OMC" target="_self">C4 </a>
+<a href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Coton/Le-groupe-C4-et-la-Chine-conviennent-d-un-accord-de-cooperation-en-marge-de-la-reunion-ministerielle-de-l-OMC" target="_self">and China agree cooperation deal on fringes of the WTO Ministerial</a>’, 25 February 2012).&nbsp;&nbsp;</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="616" valign="top">  <p><b>Government support for the cotton sector: Rising prices and falling levels of subsidy, except in Europe</b></p><p>According to ICAC's most recent report, government subsidies to the cotton sector (direct production support, tariff protection, harvest insurance subsidies, guaranteed minimum prices and export subsidies) are forecast to fall to US$1.7m in 2010/11, from a total of US$3.8m in 2009/10 and US$6.3m in 2008/09.</p><p>Five countries provided support in 2010/11, compared with seven in 2009/10, while the level of subsidy fell from an average 14 US cents/lb in 2009/10 to 5 US cents/lb. The proportion of the world cotton crop in direct receipt of government aid rose from an average of 55% between 1997/98 and 2007/08 to roughly 84% in 2008/09. This figure fell to 52% in 2009/10, and the forecast for 2010/11 is 53%.</p><p>US subsidies are forecast to fall from US$1.1 billion in 2009/10 to US$650 million in 2010/11, or from 19 US cents/lb to 7 US cents/lb. ICAC notes that over the last 14 years, US subsidies were at their highest in 2004/05, when they stood at US$3.9 billion, or 35 US cents/lb. In China, subsidies fell from a total of US$2 billion in 2009/10 to US$327 million in 2010/11.</p><p>CAP reforms introduced in 2009/10 included a reduction in the maximum area under cultivation allowed to the EU's two cotton-growing members, Spain and Greece. ICAC estimates that Greece will receive US$276 million in direct subsidy in 2010/11 (against US$260 million in 2009/10), the equivalent of 70 US cents/lb (55 US cents/lb in 2009/10). Meanwhile, Spain will receive US$92 million (US$93 million in 2009/10) or 93 US cents/lb (196 US cents/lb in 2009/10). In Turkey, the government premium paid for each kilo of seed cotton remained unchanged in 2010/11. Meanwhile, due to an increase in the area planted, the total paid to growers rose from US$260 million in 2009/10 to an estimated US$323 million in 2010/11. In Brazil, support to growers through the Pepro (equalising premium paid to the grower) rose to US$99 million in 2009/10, or 4 US cents/lb. In Colombia, direct government payments to growers fell from US$22 million (37 US cents/lb) in 2009/10 to an estimated US$9 million (11 US cents/lb) in 2010/11. In India, producers are benefiting from debt write-offs and from subsidies on fertiliser, but ICAC provides no figures.</p><p>Source: ICAC, ‘Policies affecting cotton growing and the cotton trade’, September 2011</p><p>
+<a href="http://icac.org/meetings/plenary/70_buenos_aires/documents/f_govt_measures.pdf" target="_self">http://icac.org/meetings/plenary/70_buenos_aires/documents/f_govt_measur...</a></p>
+  </td>
+</tr>
+
+</table>
+<a name="eztoc1212921_0_3" id="eztoc1212921_0_3"></a><h3>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implications for the ACP</h3><p><b>3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; African cotton: Competitiveness and adding value</b></p><p>Over and above the problems of international market distortion produced by subsidies and for, the franc zone, exchange rate parity, the African cotton industry needs to improve its competitiveness and resilience. The rise of India, which over the last decade has gone from importing cotton to exporting, poses a serious threat to African production, which is already in fierce competition with American cotton, now principally an export crop.&nbsp;</p><p>With competition intensifying and the spinning industry ever more stringent in its demands, African cotton, which benefits from competitive advantages in terms of its intrinsic quality and the fact that it is hand-picked, is penalised, rightly or wrongly, on grounds of contamination. The fight against contamination is one of the principal strands of the African Cotton Association's (ACA) 5-year plan, whose objective is to eliminate contamination completely by 2015. In December 2011, the ACA and APROCA signed a Quality Charter and they have also drawn up a procedures manual. At the same time, several donor-sponsored missions have taken place to the major cotton importers, China, Bangladesh, Vietnam, Turkey, Indonesia and Thailand. In addition, an ICAC/CFC (Common Fund for Commodities) project has established two regional technical centres in Mali and Tanzania for the commercial standardisation of instrumental techniques for testing the quality of cotton. By 'providing objective and transparent information regarding the key parameters of cotton quality', it aims to contribute to the establishment of a global trading system based on the instrumental measurement of quality increasingly requested by the cotton industry.</p><p>In the longer term, adding value to African cotton and reducing its dependence on the international market will involve developing local spinning and textile industries. The ECOWAS Cotton-Textile Agenda is aimed towards processing 25% of the crop locally by 2020. Of the 46 spinning works in the ECOWAS zone operating in 2003, only 12 are still functioning, processing approximately 5% of the total crop. East Africa, however, processes a higher proportion of its crop, at approximately 15%. Meanwhile, investment from China, and from other countries such as India, could accelerate the process. In signing the cooperation agreement between China and the C4 in December 2011, Chen Deming, the Chinese Minister of Trade, remarked that in the long term part of the Chinese industry would relocate to Africa. Investment in a number of countries, notably Niger, Swaziland, Kenya and Benin, has already taken place.</p><p><b>3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The next US Farm Bill and the 2013 CAP reform</b></p><p>The direction taken by the next US Farm Bill (2012–2016) will play a decisive role in reducing subsidies, and thus in achieving progress over cotton at the WTO. Once the bill becomes law, which will only happen in 2013, after November's presidential elections, the disagreement between the United States and Brazil, which has been temporarily suspended but not settled, will be back on the agenda. The two parties have simply negotiated an interim agreement with financial compensation (see <i>Agritrade </i>article, ‘
+<a href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Coton/Les-Etats-Unis-et-le-Bresil-parviennent-a-un-accord-preliminaire-dans-le-differend-sur-le-coton" target="_self">The United States and Brazil reach preliminary agreement in cotton dispute</a>’, 4 May 2010), while providing for a return to the issue following the next Farm Bill.&nbsp;</p><p>While the EU provides high levels of subsidy by unit of production, the overall impact of its subsidies is limited. The cotton issue does, however, give the EU an opportunity to set an example by continuing to reform its subsidy system to eliminate any direct link between support for European growers and volume of production. This is why the EU has been asked to give evidence of leadership over this issue when it puts together its 2013 CAP reform package.</p><p><b>Main sources</b></p><p><b>International cotton markets</b></p><p class=" text-left">1. International Cotton Advisory Committee&nbsp;(ICAC), website</p><p class=" text-left">
+<a href="http://icac.org/" target="_self">http://icac.org/</a></p><p class=" text-left">2. ICAC, ‘World cotton trade to decline significantly in 2012/13’, 2 July 2012</p><p class=" text-left">
+<a href="http://icac.org/wp-content/uploads/2012/07/PR-JULY-2012-World-Cotton-Trade-to-Decline-Significantly.pdf" target="_self">http://icac.org/wp-content/uploads/2012/07/PR-JULY-2012-World-Cotton-Tra...</a></p><p class=" text-left">3. US Department of Agriculture, ‘Cotton and wool outlook’, web page, 2012</p><p class=" text-left">
+<a href="http://www.ers.usda.gov/topics/crops/cotton-wool/market-outlook.aspx" target="_self">http://www.ers.usda.gov/topics/crops/cotton-wool/market-outlook.aspx</a></p><p class=" text-left">4. <i>Agrimoney.com</i>, web page on cotton</p><p class=" text-left">
+<a href="http://www.agrimoney.com/11/cotton/" target="_self">http://www.agrimoney.com/11/cotton/</a></p><p class=" text-left">5. <i>Bloomberg.com</i>, web page on commodities</p><p class=" text-left">
+<a href="http://www.bloomberg.com/news/commodities/" target="_self">http://www.bloomberg.com/news/commodities/</a></p><p><b>Organic and sustainable cotton</b></p><p class=" text-left">6. Textile Exchange, ‘Farm and fiber report 2011, market report of sustainable textiles’, 19 April 2012</p><p class=" text-left">
+<a href="http://textileexchange.org/press-release/2011-farm-and-fiber-report" target="_self">http://textileexchange.org/press-release/2011-farm-and-fiber-report</a></p><p class=" text-left">7. <i>Cotton-made-in-Africa.com</i>, website home page</p><p class=" text-left">
+<a href="http://www.cotton-made-in-africa.com/" target="_self">http://www.cotton-made-in-africa.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p class=" text-left">8. Fairtrade International, web page on Fairtrade cotton</p><p class=" text-left">
+<a href="http://www.fairtrade.net/cotton.html" target="_self">http://www.fairtrade.net/cotton.html</a></p><p><b>WTO – subsidies</b></p><p class=" text-left">9. WTO, web page of Sub-Committee on Cotton 
+<a href="http://www.wto.org/english/tratop_e/agric_e/cotton_subcommittee_e.htm" target="_self">http://www.wto.org/english/tratop_e/agric_e/cotton_subcommittee_e.htm</a></p><p class=" text-left">10. DTB Associates, ‘Domestic support and WTO obligations in key developing countries’, September 2011 
+<a href="http://www.dtbassociates.com/sitebuildercontent/sitebuilderfiles/domesticsupportstudy.pdf" target="_self">http://www.dtbassociates.com/sitebuildercontent/sitebuilderfiles/domesti...</a> &nbsp;</p><p class=" text-left">11. ICAC, ‘Politiques en matière de production et de commerce affectant la filière cotonnière’ (production and trade policies affecting the cotton industry), September 2011</p><p class=" text-left">
+<a href="http://icac.org/meetings/plenary/70_buenos_aires/documents/f_govt_measures.pdf" target="_self">http://icac.org/meetings/plenary/70_buenos_aires/documents/f_govt_measur...</a></p><p class=" text-left">12. ICTSD, ‘Farm Bill discussions kick off in US House of&nbsp;Representatives’, 11 July 2012</p><p class=" text-left">
+<a href="http://ictsd.org/i/news/bridgesweekly/138081/" target="_self">http://ictsd.org/i/news/bridgesweekly/138081/</a></p><p class=" text-left">13. ICTSD, ‘US Senate passes Farm&nbsp;Bill’, 27 July 2012</p><p class=" text-left">
+<a href="http://ictsd.org/i/news/bridgesweekly/136963/" target="_self">http://ictsd.org/i/news/bridgesweekly/136963/</a><b>&nbsp;</b></p><p><b>Regional reports</b></p><p class=" text-left">14. WAEMU regional focal point, West Africa, ‘La production de coton graine enregistre une augmentation de 47&nbsp;% dans l’espace UEMOA’, <i>Bulletin mensuel d’information</i> no. 9, June 2012</p><p class=" text-left">
+<a href="http://www.coton-acp.org/sites/default/files/news/downloads/infocoton_ndeg09.pdf" target="_self">http://www.coton-acp.org/sites/default/files/news/downloads/infocoton_nd...</a></p><p class=" text-left">15. All ACP Agricultural Commodity Programme (AAACP), ‘Synthesis report on cotton-related activities’, by F. Berti, April 2012</p><p class=" text-left">
+<a href="http://www.euacpcommodities.eu/files/Cotton_Report.pdf" target="_self">http://www.euacpcommodities.eu/files/Cotton_Report.pdf</a></p><p class=" text-left">16. USDA, ‘EU-27 cotton and products annual 2012’, <i>GAIN Report</i>, 20 March 2012</p><p class=" text-left">
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Cotton%20and%20Products%20Annual_Rome_EU-27_3-30-2012.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Cotton%20and%20Pro...</a></p><p class=" text-left">17. USDA, ‘West Africa cotton and products update’,<i>&nbsp;GAIN Report</i>, 28 November 2011</p><p class=" text-left">
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Cotton%20and%20Products%20Update_Dakar_Senegal_11-28-2011.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Cotton%20and%20Pro...</a></p><p class=" text-left">18. USDA, ‘Ethiopia, ban on cotton exports lifted’, <i>GAIN Report</i>, 6 July 2012</p><p class=" text-left">
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Ban%20on%20Cotton%20Exports%20Lifted_Addis%20Ababa_Ethiopia_7-6-2012.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Ban%20on%20Cotton%...</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/Executive-Brief-Update-2013-Cotton-sector">Executive Brief Update 2013: Cotton sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Regions/ACP/West-Africa/Executive-Brief-Update-2013-West-Africa-Agricultural-trade-policy-debates-and-developments">Executive Brief Update 2013 – West Africa: Agricultural trade policy debates and developments</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/Executive-Brief-Update-2012-Cotton-sector">Executive Brief Update 2012: Cotton sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/Executive-Brief-Update-2011-Cotton-sector">Executive Brief Update 2011: Cotton sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/Cotton-Trade-issues-for-the-ACP">Cotton: Trade issues for the ACP</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":175,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

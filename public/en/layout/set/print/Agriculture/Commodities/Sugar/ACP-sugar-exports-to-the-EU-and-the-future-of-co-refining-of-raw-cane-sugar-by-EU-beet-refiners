@@ -1,0 +1,531 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>ACP sugar exports to the EU and the future of co-refining of raw cane sugar by EU beet refiners / Sugar / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																														
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																												
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>ACP sugar exports to the EU and the future of co-refining of raw cane sugar by EU beet refiners</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/298064/3561392/file/fc4cebb3ef5f055e8ae05a450913d0fe.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+												07 December 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc3561359_0_1" id="eztoc3561359_0_1"></a><h3>Summary</h3><p>In the context of partial reforms of the EU sugar regime, continued quota ceilings on the production of sugar from beet have resulted in EU beet sugar companies investing in co-refining<sup>1</sup> of raw cane sugar. This has intensified competition for duty-free raw cane sugar imports, leading to underutilisation of installed refining capacity at traditional raw cane sugar refiners and a sustained commercial challenge. In a context of the abolition of sugar and isoglucose production quotas, growing use of non-sugar sweeteners and mounting health concerns over “hidden” sugars, this extended special report seeks to review the future prospects for ACP raw sugar exports to the EU in the new context that will exist after October 2017.</p><a name="eztoc3561359_0_2" id="eztoc3561359_0_2"></a><h3>The emergence of increased co-refining</h3><p>Since the implementation of EU sugar sector reforms, major changes have been under way in the EU sugar sector. A number of EU sugar beet refiners have invested in co-refining raw cane sugar: an estimated additional refining capacity of “1.85 million tonnes of new cane refining capacity” had been installed by “the beet industry” by June 2012, almost doubling the capacity of beet refiners to co-refine raw cane sugar.<sup>2</sup> Indeed, a 2011 evaluation financed by the European Commission (EC) estimated that “the overall refining capacity in the EU27 will be around 4.7 million tonnes/year in 2013”.<sup>3</sup> This has significantly increased the number of potential EU buyers of ACP raw sugar.</p><p>Under the quota-restricted sugar protocol arrangement, ACP sugar exporters supplied seven cane sugar refineries in four EU member states. The maximum supply needs (MSNs) of these seven refineries was initially set at 1,779,000 tonnes. This was initially supplied through the ACP sugar protocol, the exportable production of the French Overseas Territories, an Indian quota of 10,000 tonnes, the Finnish MSN quota of 85,463 tonnes, and ACP special preferential sugar exports. However, with the rolling out of EU sugar sector reforms, the range of customers to which ACP exporters could sell their sugar has increased dramatically. By the 2011/12 season, ACP sugar exporters were delivering sugar to 19 EU member states, to a range of both traditional refiners and beet co-refiners.</p><p>With co-refiners able to carry their capital costs on their beet refining operations, co-refiners can afford to refine raw cane sugar at marginal cost.<sup>4</sup> This has placed co-refiners in a highly competitive position in procuring preferential ACP raw sugar supplies, with co-refiners regularly offering higher prices for ACP raw sugar than traditional full-time cane sugar refiners would prefer to pay. This has seen the emergence of supply shortfalls to traditional raw cane sugar refiners and serious capacity underutilisation.<sup>2</sup></p><p>According to the submission of Tate &amp; Lyle Sugars (TLS) to the UK House of Lords’ hearing on the EU sugar regime in July 2012, TLS expected to refine only 600,000 tonnes of sugars, a capacity utilisation of 54.5%. Between 2010/11 and 2011/12 ACP raw cane sugar deliveries to the UK fell by almost 20% from 511,620 tonnes to 410,907 tonnes, and deliveries from non-ACP least-developed countries (LDCs) by 12.4%.</p><p>Similarly, RAR Açúcar’s Portuguese cane sugar refining business continued to be heavily affected by “difficulties in the supply of raw materials and high volatility of purchase prices”. With an installed raw cane sugar refining capacity of 250,000 tonnes, in 2011/12 only 149,424 tonnes of ACP raw cane sugar were imported into Portugal (to serve the RAR facility and the Tate and Lyle refinery (capacity 150,000 tonnes), down from 309,338 tonnes in 2009/10 – a decline of nearly 52%.</p><p>Although the traditional cane refining companies concerned have restructured to maintain competitiveness in the context of substantial capacity underutilisation, it is apparent that in the longer term, securing access to sugar at world market prices is essential to the continuation of the operation of traditional cane sugar refiners. The vigorous campaign “Save our Sugar: Support a Fair Deal for Cane Refiners”, led by Tate &amp; Lyle Sugars, is symptomatic of the pressures facing traditional cane sugar refiners.<sup>5</sup></p><p>In July 2012 the UK Agriculture Minister expressed concern over the implications for ACP/LDC sugar suppliers who, he maintained, would “suffer very considerably were Tate &amp; Lyle to close”.</p><p>However, investment has also taken place in new raw cane sugar refining facilities, for example at the Guadalete facility of Azucarera Ebro, which was taken over by AB Sugar (the sugar division of Associated British Foods – ABF) in April 2008. As part of this deal Illovo was contracted to supply raw cane sugars to the Guadalete facility (capacity 300,000 tonnes). According to the 2013 ABF annual report, some 242,000 tonnes of raw cane sugar was refined at Guadalete, indicating 81% utilisation of capacity.</p><p>Between 2009/10 and 2011/12 Spanish imports of ACP sugar increased from 94,493 tonnes to 194,883 tonnes, in part serving the Guadalete raw cane sugar refinery and in part serving AB Sugar beet co-refiners in northern Spain.</p><p>Overall, with high world market prices, the increased competition on the EU market for preferential sugar, combined with continued tariff protection against non-preferred suppliers, has meant that despite the reductions in the EU reference prices for sugar and the abolition of price guarantees for ACP sugar exporters, the reformed EU sugar regime has periodically delivered very high returns on sugar sales on the EU market.</p><a name="eztoc3561359_0_3" id="eztoc3561359_0_3"></a><h3>Impact on patterns of ACP sugar exports to the EU</h3><p>Some ACP exporters (mainly in Southern Africa) have consequently shifted away from supplying traditional raw cane sugar refiners, and have established new supply relationships with co-refiners. This has led to countries such as Swaziland (which saw a major expansion of its sugar exports to the EU post-reform from 152,000 tonnes in 2005 to 361,685 in the 2011/12 season) delivering sugar to no fewer than nine EU member states. Similarly Malawi (which had a sugar protocol quota of only 20,000 tonnes and in 2011/12 exported five times this volume) now delivers sugar to 12 EU member states.</p><p>In contrast, other ACP exporters have maintained traditional supply relationships. Until 2011/12, Fiji, for example, still maintained its exclusive trade relations with traditional refiners in the UK. Similarly, Caribbean exporters such as Belize and Guyana maintained traditional supply relationships with the UK and Portugal, with Jamaica only beginning the process of diversifying its EU customer base in the 2011/12 season.</p><a name="eztoc3561359_0_4" id="eztoc3561359_0_4"></a><h3>Increased EU sugar production from beet</h3><p>In the longer term the abolition of sugar production quotas in 2017 will allow domestic EU sugar beet processors to increase the use of their own beet production in the supply of sugar to the EU market. This is likely to place further pressure on the commercial position of traditional raw cane sugar refiners, in absence of an expansion of their access to sugar at world market prices.</p><p>The most recent EC projections from December 2013 suggest EU sugar beet production will increase by 5.1% by 2023 compared to the last year in which production quotas will be maintained, while EU sugar production from beet is projected to increase by 11%.</p><p><b>Projected trends in EU sugar beet and sugar production from beet (million tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="87" valign="top">  &nbsp;
+  </td><td width="62" valign="top">  <b>2011</b>
+  </td><td width="19" valign="top">  <b>…</b>
+  </td><td width="56" valign="top">  <b>2016</b>
+  </td><td width="56" valign="top">  <b>2017</b>
+  </td><td width="56" valign="top">  <b>2018</b>
+  </td><td width="56" valign="top">  <b>2019</b>
+  </td><td width="56" valign="top">  <b>2020</b>
+  </td><td width="56" valign="top">  <b>2021</b>
+  </td><td width="56" valign="top">  <b>2022</b>
+  </td><td width="56" valign="top">  <b>2023</b>
+  </td>
+</tr>
+
+<tr>
+<td width="87" valign="top">  Sugar beet production
+  </td><td width="62" valign="top">  127.4
+  </td><td width="19" valign="top">  &nbsp;
+  </td><td width="56" valign="top">  111.3
+  </td><td width="56" valign="top">  113.5
+  </td><td width="56" valign="top">  115.0
+  </td><td width="56" valign="top">  115.7
+  </td><td width="56" valign="top">  116.7
+  </td><td width="56" valign="top">  117.6
+  </td><td width="56" valign="top">  118.5
+  </td><td width="56" valign="top">  119.3
+  </td>
+</tr>
+
+<tr>
+<td width="87" valign="top">  Sugar production
+  </td><td width="62" valign="top">  18.0
+  </td><td width="19" valign="top">  &nbsp;
+  </td><td width="56" valign="top">  15.4
+  </td><td width="56" valign="top">  16.1
+  </td><td width="56" valign="top">  16.4
+  </td><td width="56" valign="top">  16.5
+  </td><td width="56" valign="top">  16.7
+  </td><td width="56" valign="top">  16.8
+  </td><td width="56" valign="top">  17.0
+  </td><td width="56" valign="top">  17.1
+  </td>
+</tr>
+
+</table>
+<p>Source: EC, ‘Prospects for agricultural markets and income in the EU 2013–2023’, December 2013<sup>6</sup></p><a name="eztoc3561359_0_5" id="eztoc3561359_0_5"></a><h3>The rise of isoglucose and alternative sweeteners</h3><p>Equally, the abolition of production quotas on isoglucose may see a major expansion of use of isoglucose in the EU sweetener market, contracting overall EU demand for sugar.<sup>7</sup> The latest EC projections from December 2013 suggest a more than threefold increase in EU isoglucose production and a nearly fourfold increase in EU isoglucose consumption. Projections show this leading to isoglucose increasing its share of the EU sweetener market from 3.5 to 11.5%.</p><p><b>Projected trends in EU isoglucose use post abolition of production quotas&nbsp;<b>(million tonnes)</b></b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="90" valign="top">  &nbsp;
+  </td><td width="60" valign="top">  <b>2011</b>
+  </td><td width="28" valign="top">  <b>…</b>
+  </td><td width="55" valign="top">  <b>2016</b>
+  </td><td width="55" valign="top">  <b>2017</b>
+  </td><td width="55" valign="top">  <b>2018</b>
+  </td><td width="55" valign="top">  <b>2019</b>
+  </td><td width="55" valign="top">  <b>2020</b>
+  </td><td width="55" valign="top">  <b>2021</b>
+  </td><td width="55" valign="top">  <b>2022</b>
+  </td><td width="55" valign="top">  <b>2023</b>
+  </td>
+</tr>
+
+<tr>
+<td width="90" valign="top">  Isoglucose production
+  </td><td width="60" valign="top">  0.7
+  </td><td width="28" valign="top">  &nbsp;
+  </td><td width="55" valign="top">  0.7
+  </td><td width="55" valign="top">  1.1
+  </td><td width="55" valign="top">  1.3
+  </td><td width="55" valign="top">  1.5
+  </td><td width="55" valign="top">  1.7
+  </td><td width="55" valign="top">  1.9
+  </td><td width="55" valign="top">  2.1
+  </td><td width="55" valign="top">  2.4
+  </td>
+</tr>
+
+<tr>
+<td width="90" valign="top">  Isoglucose consumption
+  </td><td width="60" valign="top">  0.7
+  </td><td width="28" valign="top">  &nbsp;
+  </td><td width="55" valign="top">  0.6
+  </td><td width="55" valign="top">  1.0
+  </td><td width="55" valign="top">  1.2
+  </td><td width="55" valign="top">  1.4
+  </td><td width="55" valign="top">  1.6
+  </td><td width="55" valign="top">  1.8
+  </td><td width="55" valign="top">  2.0
+  </td><td width="55" valign="top">  2.2
+  </td>
+</tr>
+
+<tr>
+<td width="90" valign="top">  Percentage share of sweetener market (%)
+  </td><td width="60" valign="top">  3.6
+  </td><td width="28" valign="top">  &nbsp;
+  </td><td width="55" valign="top">  3.5
+  </td><td width="55" valign="top">  5.2
+  </td><td width="55" valign="top">  6.2
+  </td><td width="55" valign="top">  7.3
+  </td><td width="55" valign="top">  8.3
+  </td><td width="55" valign="top">  9.4
+  </td><td width="55" valign="top">  10.5
+  </td><td width="55" valign="top">  11.5
+  </td>
+</tr>
+
+</table>
+<p>Source: EC, ‘Prospects for agricultural markets and income in the EU 2013–2023’, December 2013<sup>6</sup></p><p>Increased supplies of sugar from beet and increased competition from isoglucose, as well as from alternative sweeteners such as stevia (which could eventually substitute for up to half of the sugar used in the global soft drinks industry, according to industry estimates<sup>8</sup>), need to be seen against a background of declining EU sugar consumption.</p><a name="eztoc3561359_0_6" id="eztoc3561359_0_6"></a><h3>Declining sugar consumption foreseen in EU</h3><p><b>Projected EU sugar consumption (million tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="102" valign="top">  &nbsp;
+  </td><td width="66" valign="top">  <b>2010</b>
+  </td><td width="66" valign="top">  <b>2011</b>
+  </td><td width="66" valign="top">  <b>2012</b>
+  </td><td width="66" valign="top">  <b>2013</b>
+  </td><td width="66" valign="top">  <b>2014</b>
+  </td><td width="66" valign="top">  <b>2015</b>
+  </td><td width="66" valign="top">  <b>2016</b>
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  <p class=" text-left">Sugar consumption</p><p class=" text-left">2010–2016</p>
+  </td><td width="66" valign="top">  19.1
+  </td><td width="66" valign="top">  18.2
+  </td><td width="66" valign="top">  18.3
+  </td><td width="66" valign="top">  17.7
+  </td><td width="66" valign="top">  17.8
+  </td><td width="66" valign="top">  17.8
+  </td><td width="66" valign="top">  17.4
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  &nbsp;
+  </td><td width="66" valign="top">  <b>2017</b>
+  </td><td width="66" valign="top">  <b>2018</b>
+  </td><td width="66" valign="top">  <b>2019</b>
+  </td><td width="66" valign="top">  <b>2020</b>
+  </td><td width="66" valign="top">  <b>2021</b>
+  </td><td width="66" valign="top">  <b>2022</b>
+  </td><td width="66" valign="top">  <b>2023</b>
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  <p class=" text-left">Sugar consumption</p><p class=" text-left">2017–2023</p>
+  </td><td width="66" valign="top">  17.4
+  </td><td width="66" valign="top">  17.5
+  </td><td width="66" valign="top">  17.5
+  </td><td width="66" valign="top">  17.4
+  </td><td width="66" valign="top">  17.3
+  </td><td width="66" valign="top">  17.2
+  </td><td width="66" valign="top">  17.1
+  </td>
+</tr>
+
+</table>
+<p>Source: EC, ‘Prospects for agricultural markets and income in the EU 2013–2023’, December 2013<sup>6</sup></p><a name="eztoc3561359_0_7" id="eztoc3561359_0_7"></a><h3>Significant effects on overall price</h3><p>On the basis of these developments, the EC has forecast a further fall in EU sugar prices, with a projected 29% decline in average prices between 2016 and 2023, taking prices in 2023 to only 58.5% of the average price level prevailing in 2011. This is projected to see the gap between EU and world market prices closing, as the price premium on the EU sugar market falls from over 60% to around 10%, with EU sugar prices shadowing movements in world market sugar prices. By 2023 the EU sugar price is projected to be only 0.25% higher than the EU “safety net” support price of €404/tonne.</p><p>However, this price analysis is based on average prices, which represents a relatively poor guide to prices offered for ACP sugar. Currently there is considerable variation in individual contract prices negotiated between ACP suppliers and EU traders and refiners. This depends in part on the nature of the contractual arrangements (long-term supply contracts or spot market sales), global sugar market conditions, the particular EU sugar market being served and the route to market chosen by the ACP exporter (traditional refiner, beet co-refiner, direct sales or via trading companies). While in future there will still be price premiums to be had on the EU market, the capacity of ACP exporters to realise these price premiums will depend crucially on the types of commercial relationships established.</p><p><b>The changing value of EU sugar sector preferences</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="90" valign="top">  &nbsp;
+  </td><td width="60" valign="top">  <b>2011</b>
+  </td><td width="28" valign="top">  <b>…</b>
+  </td><td width="55" valign="top">  <b>2016</b>
+  </td><td width="55" valign="top">  <b>2017</b>
+  </td><td width="55" valign="top">  <b>2018</b>
+  </td><td width="55" valign="top">  <b>2019</b>
+  </td><td width="55" valign="top">  <b>2020</b>
+  </td><td width="55" valign="top">  <b>2021</b>
+  </td><td width="55" valign="top">  <b>2022</b>
+  </td><td width="55" valign="top">  <b>2023</b>
+  </td>
+</tr>
+
+<tr>
+<td width="90" valign="top">  EU sugar price (€/t)
+  </td><td width="60" valign="top">  691
+  </td><td width="28" valign="top">  &nbsp;
+  </td><td width="55" valign="top">  572
+  </td><td width="55" valign="top">  408
+  </td><td width="55" valign="top">  416
+  </td><td width="55" valign="top">  420
+  </td><td width="55" valign="top">  416
+  </td><td width="55" valign="top">  413
+  </td><td width="55" valign="top">  409
+  </td><td width="55" valign="top">  405
+  </td>
+</tr>
+
+<tr>
+<td width="90" valign="top">  World sugar price (€/t)
+  </td><td width="60" valign="top">  440
+  </td><td width="28" valign="top">  &nbsp;
+  </td><td width="55" valign="top">  354
+  </td><td width="55" valign="top">  356
+  </td><td width="55" valign="top">  377
+  </td><td width="55" valign="top">  380
+  </td><td width="55" valign="top">  377
+  </td><td width="55" valign="top">  375
+  </td><td width="55" valign="top">  371
+  </td><td width="55" valign="top">  367
+  </td>
+</tr>
+
+<tr>
+<td width="90" valign="top">  EU price as proportion of world price (%)
+  </td><td width="60" valign="top">  157.0
+  </td><td width="28" valign="top">  &nbsp;
+  </td><td width="55" valign="top">  161.6
+  </td><td width="55" valign="top">  114.6
+  </td><td width="55" valign="top">  110.3
+  </td><td width="55" valign="top">  110.5
+  </td><td width="55" valign="top">  110.3
+  </td><td width="55" valign="top">  110.1
+  </td><td width="55" valign="top">  110.2
+  </td><td width="55" valign="top">  110.3
+  </td>
+</tr>
+
+</table>
+<p>Source: EC, ‘Prospects for agricultural markets and income in the EU 2013–2023’, December 2013<sup>6</sup></p><p>In many respects Mauritius has led the way in the ACP in developing new corporate partnerships to assist with market repositioning in the EU. Mauritius, through a partnership with the German company Südzucker, has now moved entirely out of exporting raw sugar to the EU and now exports exclusively refined and consumer-ready products. This was based on the recognition that refined sugar prices would be less vulnerable to price volatility and price declines than raw sugar prices.</p><p>Projections of lower EU sugar prices are leading a range of EU beet sugar companies to look at developing diversified revenue streams from sugar beet production. These include:</p>
+<ul>
+
+<li>sugar; </li>
+
+<li>animal feed; </li>
+
+<li>ethanol; </li>
+
+<li>biogas; </li>
+
+<li>bio-plastics. </li>
+
+</ul>
+<p>Significantly, the revenue streams generated by this diverse range of products enable the companies concerned to adjust more effectively to changing market conditions.</p><p>For example, at Suiker Unie, the Dutch farmer-owned cooperative, the view is taken that by maximising the value extracted from raw materials and residuals it is possible to “help the farming industry remain viable”. Thus, maximising revenues from multiple product streams is intended to ensure the financial viability not just of sugar millers and refiners, but also of farmers.</p><p>These developments in the EU highlight the importance of ensuring that the full revenue potential of sugar cane production is realised across the ACP. This includes developing revenues from:</p>
+<ul>
+
+<li>sales of sugar and molasses; </li>
+
+<li>production of ethanol and alcohol;</li>
+
+<li>co-generation of electricity; </li>
+
+<li>production of animal feed;</li>
+
+<li>production of sugar-based chemicals and plastics. </li>
+
+</ul>
+<p>Opening up farmers’ access to these new revenue streams is an important issue, but to date has received little policy attention.</p><p><b>Impact on import demand</b></p><p>Overall the EC projects that these developments will reduce EU import demand as well as the attractiveness of the EU market to sugar exporters, both in the ACP and beyond. Against this background, it is projected that total EU sugar imports from all sources (both ACP/LDC and non ACP/LDC suppliers) will decline from an average of 3.63 million tonnes per annum from 2009 to 2011, to 2.0 million tonnes per annum by 2021–23. By 2023, projections for imports of sugar are less than half their levels in 2010 and 2012.</p><p><b>Projected EU sugar imports (million tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="102" valign="top">  &nbsp;
+  </td><td width="66" valign="top">  <b>2010</b>
+  </td><td width="66" valign="top">  <b>2011</b>
+  </td><td width="66" valign="top">  <b>2012</b>
+  </td><td width="66" valign="top">  <b>2013</b>
+  </td><td width="66" valign="top">  <b>2014</b>
+  </td><td width="66" valign="top">  <b>2015</b>
+  </td><td width="66" valign="top">  <b>2016</b>
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  <p class=" text-left">Sugar imports</p><p class=" text-left">2010–2016</p>
+  </td><td width="66" valign="top">  3.9
+  </td><td width="66" valign="top">  3.6
+  </td><td width="66" valign="top">  3.9
+  </td><td width="66" valign="top">  3.7
+  </td><td width="66" valign="top">  3.3
+  </td><td width="66" valign="top">  3.7
+  </td><td width="66" valign="top">  3.6
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  &nbsp;
+  </td><td width="66" valign="top">  2017
+  </td><td width="66" valign="top">  2018
+  </td><td width="66" valign="top">  2019
+  </td><td width="66" valign="top">  2020
+  </td><td width="66" valign="top">  2021
+  </td><td width="66" valign="top">  2022
+  </td><td width="66" valign="top">  <b>2023</b>
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  <p class=" text-left">Sugar imports</p><p class=" text-left">2017–2023</p>
+  </td><td width="66" valign="top">  2.4
+  </td><td width="66" valign="top">  2.3
+  </td><td width="66" valign="top">  2.3
+  </td><td width="66" valign="top">  2.2
+  </td><td width="66" valign="top">  2.1
+  </td><td width="66" valign="top">  2.0
+  </td><td width="66" valign="top">  1.9
+  </td>
+</tr>
+
+</table>
+<p>Source: EC, ‘Prospects for agricultural markets and income in the EU 2013–2023’, December 2013<sup>6</sup></p><p>In addition the demand for sugar on the EU market is also likely to be affected by the emergence of a range of alternative sweeteners such as those mentioned above, which are likely to target particular components of the food processing industry.</p><a name="eztoc3561359_0_8" id="eztoc3561359_0_8"></a><h3>Issues and implications</h3><p>If the market for sugar in the EU contracts, while isoglucose and other alternative sweetener producers increase their share of specific components of the EU sugar market gain market share, and if competitive EU beet producers that have installed co-refining capacity can expand processing of their own beet production, the question arises:</p>
+<ul>
+
+<li><b>what impact will this have on the demand of these co-refiners for imported raw cane sugar?</b></li>
+
+</ul>
+<p>This is a question which needs to be assessed in the light of patterns of mixed farming in competitive beet production zones and the relative prices of arable crops in any season, given the annual nature of beet plantings in the EU. It also needs to be assessed in the light of the routes to market used by different beet co-refiners and the relative importance of sugar sales for direct consumption and different types of industrial sugar buyers in the co-refiners’ marketing strategies. It will also be influenced by the co-refiners’ strategy for diversifying the product range manufactured from sugar beet feedstock.</p><p>With total EU sugar import volumes in the post-reform period projected at only 45% of what they were over the 2009–11 period, and non-ACP-sourced sugar imports (based on exports in 2011/12) being more than sufficient to meet total EU sugar import needs post 2021, current and future developments pose real challenges for ACP sugar exporters.</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="614" valign="top">  <p><b>Fairtrade sugar: The scope for market repositioning</b></p><p>While market opportunities exist for a range of speciality cane sugar products, the marketing of Fairtrade-certified sugar potentially offers the greatest opportunity for growth, since it is not competitive with the “own beet”-based sugar production of co-refiners or expanding isoglucose production.</p><p>Currently the supply of Fairtrade-certified sugar from ACP sources exceeds the demand, but the scope for expansion of industrial demand for Fairtrade-certified sugar is seen as considerable. This potentially offers scope for the initiation of joint ventures between ACP fairtrade sugar suppliers and competitive EU raw cane sugar co-refiners, since it broadens out the product range offered by the EU company, in an area facing less competition from alternative sweeteners and in an area which does not directly compete with the beet companies’ own sugar production. Such joint venture arrangements would offer a long term “win–win” situation for both parties.</p>
+  </td>
+</tr>
+
+</table>
+
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p class=" text-left">1. Co-refining is the term used for sugar production by sugar beet refiners from both sugar beet and raw cane sugar.</p><p class=" text-left">2. CTA <i>Agritrade</i>, ‘The future of EU sugar production quotas’, 23 September 2012 
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/The-future-of-EU-sugar-production-quotas" target="_self">http://agritrade.cta.int/Agriculture/Commodities/Sugar/The-future-of-EU-...</a></p><p class=" text-left">3. European Commission (EC), ‘Evaluation of Common Agricultural Policy measures applied to the sugar sector’, December 2011</p><p class=" text-left">
+<a href="http://ec.europa.eu/agriculture/eval/reports/sugar-2011/fulltext_en.pdf" target="_self">http://ec.europa.eu/agriculture/eval/reports/sugar-2011/fulltext_en.pdf</a></p><p class=" text-left">4. CTA <i>Agritrade</i>, ‘EU co-refiners enjoy cost advantages’, 28 May 2012 
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/EU-co-refiners-enjoy-cost-advantages" target="_self">http://agritrade.cta.int/Agriculture/Commodities/Sugar/EU-co-refiners-en...</a></p><p>5. See the ‘Save Our Sugar’ campaign website at 
+<a href="http://saveoursugar.eu/" target="_self">http://saveoursugar.eu/#</a>.</p><p class=" text-left">6. EC, ‘Prospects for agricultural markets and income in the EU 2013–2023’, statistical tables, December 2013, Tables 6.15 and 6.16</p><p class=" text-left">
+<a href="http://ec.europa.eu/agriculture/markets-and-prices/medium-term-outlook/2013/tables_en.pdf" target="_self">http://ec.europa.eu/agriculture/markets-and-prices/medium-term-outlook/2...</a></p><p>7. CTA <i>Agritrade</i>, ‘What scope for increased isoglucose use in the EU after production quota abolition?’, 9 December 2013</p><p>
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/What-scope-for-increased-isoglucose-use-in-the-EU-after-production-quota-abolition" target="_self">http://agritrade.cta.int/Agriculture/Commodities/Sugar/What-scope-for-in...</a></p><p class=" text-left">8. CTA <i>Agritrade</i>, ‘Both EU sugar supply and demand developments likely to pose challenges for ACP exporters’, 13 January 2014</p><p>
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Both-EU-sugar-supply-and-demand-developments-likely-to-pose-challenges-for-ACP-exporters" target="_self">http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Both-EU-sugar-...</a></p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/ACP-sugar-exports-to-the-EU-and-the-future-of-co-refining-of-raw-cane-sugar-by-EU-beet-refiners">ACP sugar exports to the EU and the future of co-refining of raw cane sugar by EU beet refiners</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Lessons-for-the-ACP-from-EU-efforts-to-strengthen-the-functioning-of-sugar-supply-chains">Lessons for the ACP from EU efforts to strengthen the functioning of sugar supply chains </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/ACP-sugar-exports-to-the-EU-Sugar-quota-abolition-and-the-future-of-raw-cane-sugar-co-refining-by-EU-beet-refiners">ACP sugar exports to the EU: Sugar quota abolition and the future of raw cane sugar co-refining by EU beet refiners </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Special-report-Regional-developments-in-ACP-sugar-sectors-2012-2013">Special report: Regional developments in ACP sugar sectors 2012–2013</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Special-report-Regional-developments-in-ACP-sugar-sectors-2011-2012">Special report: Regional developments in ACP sugar sectors 2011–2012</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":141,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

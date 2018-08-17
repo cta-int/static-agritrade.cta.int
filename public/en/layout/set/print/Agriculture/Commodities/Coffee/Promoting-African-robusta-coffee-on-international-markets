@@ -1,0 +1,220 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Promoting African robusta coffee on international markets  / Coffee / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																														
+																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7799/(search)/simple">Coffee</a>
+							
+																																																																																																																																																																																																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Promoting African robusta coffee on international markets </h1>
+
+			
+			<h4>
+												06 April 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>On January 30 and 31 2013, African and international coffee experts met in Libreville, Gabon, under the auspices of the Agence des Cafés Robusta d’Afrique et de Madagascar – ACRAM (Agency of robusta coffees from Africa and Madagascar) to discuss the future of robusta coffee production in Africa and Madagascar. This second meeting of ACRAM, which was set up in 2007, took place in the context of more favourable global prospects for robusta coffee. While arabica coffee prices have fallen by over a third, world market robusta prices have remained more or less steady (-1.8%). From January to November 2012, robusta coffee exports accounted for 41% of world trade, compared to 36.1% for the corresponding period in 2011. Africa now accounts for 18.9% of rising world robusta production.</p><p>The impact of the divergent price trends in arabica and robusta coffee prices is illustrated by press reports on the earnings performance of coffee exporters in Uganda and Rwanda. In 2012 Ugandan exports of robusta coffee “increased by 6.06% and 10.37% in terms of volume and value respectively, while arabica dropped by 15.87% and 48.04% in terms of volume and value respectively”. Similarly in Rwanda coffee sector export earnings fell by 27.1%. In the face of volatile international coffee prices, Kenyan coffee sector stakeholders are looking to increase local value addition. </p><p>The objective of the Libreville meeting was to develop strategies to promote quality improvements in robusta coffee and strengthen its image on international markets, so as to increase its competitiveness and market value. This needs to be seen in a context where African robusta coffees have faced severe criticism for inconsistent quality, irregular delivery and poor attention to product appearance.</p><p>The issue of the distribution of revenues along the value chain was also raised at the meeting. Jacques Anguilet, the permanent secretary of ACRAM, claimed that for the past 2 years stakeholders in importing countries – importers, roasters and retailers – have been taking an increasing share of total revenues, to the detriment of farmers, traders and developing country exporters.</p><p>The meeting agreed a plan for 2013–2017, so that in each country, steps can be taken to review the situation in the robusta coffee sector and establish a national development plan for robusta coffee, including through improved research, improved marketing and the identification of key trading partners.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>CommodAfrica, ‘L’Acram dote le robusta africain d’une nouvelle feuille de route’, 4 February 2013</p><p>
+<a href="http://commodafrica.com/fr/actualites/matieres_premieres/acramlibreville2013" target="_self">http://commodafrica.com/fr/actualites/matieres_premieres/acramlibreville...</a></p><p><i>Afrik.com</i>, ‘Gabon&nbsp;: projet de développement de la filière café robusta’, 2 February 2013</p><p>
+<a href="http://www.afrik.com/gabon-projet-de-developpement-de-la-filiere-cafe-robusta" target="_self">http://www.afrik.com/gabon-projet-de-developpement-de-la-filiere-cafe-ro...</a></p><p><i>Infosgabon.com</i>, ACRAM&nbsp;: La promotion du café robusta africain en toile de fond à Libreville, 30 January 2013</p><p>
+<a href="http://infosgabon.com/?p=23420" target="_self">http://infosgabon.com/?p=23420</a></p><p><i>Gaboninitiatives.com</i>, ‘L’avenir du café robusta d’Afrique et de Madagascar discuté à Libreville’, undated</p><p>
+<a href="http://www.gaboninitiatives.com/lavenir-du-cafe-robusta-dafrique-et-de-madagascar-discute-a-libreville/" target="_self">http://www.gaboninitiatives.com/lavenir-du-cafe-robusta-dafrique-et-de-m...</a></p><p><i>Newsmada</i>, ‘Café robusta&nbsp;: une feuille de route 2013-2017’, 5 February 2013 
+<a href="http://www.newsmada.com/index.php/economie/8337-cafe-robusta-une-feuille-de-route-2013-2017" target="_self">http://www.newsmada.com/index.php/economie/8337-cafe-robusta-une-feuille...</a></p><p><i>East African Business Week</i>, ‘Coffee exports slumber in 2012’, 18 February 2013</p><p>
+<a href="http://allafrica.com/stories/201302190280.html " target="_self">http://allafrica.com/stories/201302190280.html</a></p><p>East African Business Week, ‘Coffee export revenues drop’, 22 January 2013</p><p>
+<a href="http://allafrica.com/stories/201301221084.html" target="_self">http://allafrica.com/stories/201301221084.html</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Vietnam plays the leading role in the international robusta coffee trade, with African producers playing a marginal role at the global level. However, with demand in emerging markets growing, African producers are increasingly seeking to organise themselves to enhance their global role.</p><p>Timing in this regard is critical. Responding too late to emerging trends could see expanded African production coming on stream just as increased supplies lead to reduced prices. This is particularly the case given the lengthy lead time for new trees to bear quality fruit and for farmer training to lead to sustained quality improvements.</p><p>This suggests a need to ‘walk on two legs’ in terms of future market development, with attention needing to be paid not only to global market positioning in line with shifting patterns of global demand for coffee, but also to the development of national and regional markets for African-produced robusta coffee. The development of national and regional markets would then serve to reduce the exposure of African producers to potentially volatile global market trends.</p><p>A strong focus on national and regional market development could also facilitate the development of improved local processing and packaging, so that local producers secure a larger component of the overall retail value of robusta coffee products.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Coffee-sector-s-important-contribution-to-household-food-security-potentially-undermined-by-price-volatility">Coffee sector’s important contribution to household food security potentially undermined by price volatility</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Ethiopian-coffee-sector-caught-out-by-declining-global-prices-in-2013-14">Ethiopian coffee sector caught out by declining global prices in 2013/14</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Investment-in-storage-reduces-vulnerability-of-Rwandan-coffee-sector-to-global-price-volatility">Investment in storage reduces vulnerability of Rwandan coffee sector to global price volatility </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Improving-global-prices-could-boost-East-African-coffee-sector-development">Improving global prices could boost East African coffee sector development</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Falling-arabica-coffee-prices-could-boost-demand-from-coffee-blenders-in-emerging-markets">Falling arabica coffee prices could boost demand from coffee blenders in emerging markets </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":161,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

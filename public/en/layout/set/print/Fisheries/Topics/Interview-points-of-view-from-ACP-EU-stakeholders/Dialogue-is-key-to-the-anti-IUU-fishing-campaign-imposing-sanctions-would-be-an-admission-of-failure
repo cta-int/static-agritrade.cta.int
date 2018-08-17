@@ -1,0 +1,206 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>‘Dialogue is key to the anti-IUU fishing campaign; imposing sanctions would be an admission of failure’ / Interview: points of view from ACP–EU stakeholders / Topics / Fisheries / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/interviews.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																															
+		
+		<div class='contentrealtionlist'>
+										
+							
+							
+																																																																																																		
+							<a href="/en/layout/set/print/Fisheries/(fisheries)/7831/(search)/simple">WTO &amp; international developments</a>
+							
+							
+												
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>‘Dialogue is key to the anti-IUU fishing campaign; imposing sanctions would be an admission of failure’</h1>
+
+			
+			<h4>
+												06 May 2013
+										</h4>
+
+						<h2>An interview with Cesar Alfonso Deben</h2>
+					</header>
+
+
+				<div class="intro">
+
+						<p>Cesar Alfonso Deben is Principal Adviser in the EU’s Directorate-General for Maritime Affairs and Fisheries (DG-MARE). He is particularly concerned with the implementation of European legislation designed to prevent, deter and eliminate illegal, unregulated or unreported fishing (IUU).</p>
+
+		</div>
+		
+		
+					<p><b>Q: The EU regulations on illegal, unregulated or unreported fishing (IUU) came into force in January 2010. Three years on, where are we in terms of their implementation?</b></p><p>It takes time for this kind of legislation to produce results. We wanted to implement the legislation through dialogue with our partners – in developing countries as well as ACP nations – to convince them that it is in their interests as well as our own to do everything possible to combat IUU fishing. IUU fishing and trade in the goods originating from it affect fishing communities and legal operators in littoral states in the developing world as well as in Europe. And, without doubt, if we impose measures on partners unconvinced of their relevance, IUU fishing will continue unabated, supplying non-EU markets less mindful of the legality of their goods.</p><p><b>Q: How has the process operated in practice?</b></p><p>First of all we selected a number of third countries on a risk analysis basis, targeting in particular those with a previous history of IUU fishing, flags of convenience countries, tax havens, etc.</p><p>This gave us an initial list of 30 or so countries. In each of these we organised an audit mission which used information supplied by the country to construct an overview of its anti-IUU fishing activity, propose corrective measures where necessary, and offer targeted assistance to allow it to fulfil its anti-IUU fishing obligations and implement the EU catch certification scheme.</p><p>A report was then issued to every country, and we waited for their response. This was the first phase of the dialogue. Some countries, like Indonesia, Honduras and Mauritius, decided to cooperate at this stage and implement reforms. And these were our first significant successes.</p><p><b>Q: With regard to the catch certification scheme, some consider it an administrative barrier to trade, a ‘protectionist’ measure...?</b></p><p>This isn’t the case. The objective isn’t to protect European operators – these rules apply to European and foreign operators alike – but is to deprive operators engaged in IUU fishing of any profit from the sale of their catch. Imports account for over 60% of Europe’s internal consumption, and I can assure you that we’re doing everything possible to ensure that catches from legally validated ACP fisheries – including small-scale operators – can access the European market without difficulty.</p><p>It’s true that we experienced some teething troubles with the catch certificates, but I would say that 80% of these problems have now been resolved.</p><p>The development of electronic certificates, which enables us to get around the problem of forgery, will also help to make things simpler in future.</p><p><b>Q: Last November, eight countries, a number of ACP members among them, were identified as at risk of being designated ‘uncooperative’ in the anti-IUU fishing campaign. How do things stand for those countries at present?</b></p><p>Publication of this list produced a swift reaction from some countries, such as Fiji. One of the main problems identified by Fiji is that its national legislation included no specific measures for the management and control of Fijian-registered vessels fishing outside its territorial waters. Nor were there any specific rules or measures to deal with IUU fishing violations committed on the high seas, or to provide penalties of sufficient severity for those implicated in IUU fishing activities – whether Fijian nationals or Fijian-registered vessels.</p><p>Fiji has now amended its framework legislation with respect to fisheries, and has adopted a new fisheries code that provides harsher penalties, better internal controls and improved traceability. These vigorous measures should allow Fiji to fulfil its international obligations towards the anti-IUU fishing campaign.</p><p>Things are more difficult with other ACP countries included in the list, such as Guinea. Some local initiatives, like community monitoring, are producing good results: areas where this is in place have seen a marked decline in illegal trawling activity. But substantial problems of governance remain: the conditions of access to and granting of Guinean registration are not transparent – a system of temporary registration has been set up but it hasn’t improved matters – GPS systems don’t work, etc. We provided Guinea with technical assistance in 2012 and dialogue remains ongoing, as it does with all the countries concerned, because if we are eventually forced to impose the sanctions included in the legislation, it would be above all an admission of failure in our global anti-IUU fishing campaign.</p><p><b>Q: One commonly heard criticism is that the Commission has caught a number of ‘small fry’, not the major players so often cited in cases of IUU fishing, such as Korea...</b></p><p>The fundamental problem we are tackling here is the imbalance between the size of a country’s fishing fleet and its ability to manage that fleet. Some small countries possess a large fleet of industrial fishing vessels which are using the national flag as a flag of convenience. Vanuatu, for example, has a fleet of 160 industrial fishing vessels, working in four regional fisheries organisations.</p><p>However the list of ‘uncooperative’ nations is not closed. Dialogue is still ongoing with 24 countries, including China and Korea, and the well-known problem of the IUU activities conducted by nationals or fishing vessels from these countries is on the agenda.</p><p><b>Q: Are you also providing European technical assistance for the anti-IUU fishing campaign at a regional level?</b></p><p>In the Indian Ocean, we are supporting a regional anti-IUU fishing programme. This project began with measures linked to the bilateral partnership agreements that exist with a certain number of countries in the region.</p><p>Other countries have since joined in, and the programme now benefits 11 countries in the region.</p><p>This approach could also be developed for other regions like West Africa.</p><p><b>Q: And what about the Pacific?</b></p><p>The Pacific is the area causing us most anxiety for the future. Regional integration remains weak, and anti-IUU fishing capacity is tiny in comparison with the enormous size of the area to be monitored.</p><p>To give you an example, a two-week monitoring operation conducted last November under the aegis of the Pacific Islands Forum Fisheries Agency (FFA), with financial support from the EU, Australia, the USA and New Zealand, inspected more than 200 fishing vessels. The operation revealed that 27 of these – over 10% – were engaged in non-compliant IUU fishing activities.</p><p>When you consider that there are 6,000 vessels fishing in the region, then more than 600 of them are operating illegally if you apply the same ratio. And the frequency of transhipments at sea, which make the task of inspection even harder, only compound the problem.</p><p>This monitoring operation was the first step in an EU-financed initiative to develop a sustainable tuna fishery in ACP countries, and it will make a substantial contribution to the regional anti-IUU fishing campaign.</p><p>Something else which concerns us about the regional effort is a lack of transparency in allocating access through the fishing days system. Complete transparency in allocating access is another enabling factor in the anti-IUU fishing campaign.</p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/Russia-has-bilateral-agreements-with-most-African-Atlantic-coastal-states">Russia has bilateral agreements with most African Atlantic coastal states</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/Dialogue-is-key-to-the-anti-IUU-fishing-campaign-imposing-sanctions-would-be-an-admission-of-failure">‘Dialogue is key to the anti-IUU fishing campaign; imposing sanctions would be an admission of failure’</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/Caribbean-Common-Fisheries-Policy-Strengthening-ecosystems-resilience-and-supporting-livelihoods">Caribbean Common Fisheries Policy: Strengthening ecosystems resilience and supporting livelihoods</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":145,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

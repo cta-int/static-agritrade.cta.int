@@ -1,0 +1,229 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>High beef prices are stimulating a rethink of Caribbean beef tariff policies   / Beef / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																														
+								<a href="/en/layout/set/print/Publications/(regions)/7770/(search)/simple">Caribbean</a>
+																																																																																																																																																																																																																																																								,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7797/(search)/simple">Beef</a>
+							
+																																																																																																																																																																																																																																																																																																																	
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>High beef prices are stimulating a rethink of Caribbean beef tariff policies  </h1>
+
+			
+			<h4>
+												12 February 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>In 2011, EU beef prices rose by 9.5%, with the EC forecasting a further increase in 2012 of 1.7%. This is being ‘driven by lower production and tighter supplies, increasing exports and lower imports’. According to analysis carried out by the website <i>Thecattlesite</i> in December 2011, ‘There has been a dramatic change in fortunes for the EU beef industry, as in 2007 the region was a net importer of beef, shipping in 308,000 tonnes. Now the EU has become a net exporter shipping 237,000 tonnes.’ While initially this reflected SPS restrictions on Brazilian beef exports to the EU, with export volumes falling dramatically (from 363,000 tonnes in 2007 to 80,000 tonnes in 2010), more recently it has reflected supply constraints in major producing countries, and relative price increases on non-EU markets (in part driven by exchange rate movements). According to analysts, ‘this has led to the major beef producing countries in South and North America and Australia seeing prices around the EU level of between €3.50 and €3.80 a kilo’. Argentinean government export restrictions have also impacted on beef trade flows, with exports to the EU falling from 122,000 tonnes to 42,000 tonnes. In 2012, EU beef production is forecast ‘to decline by 2.8% to 7,122 million tonnes.</p><p>At the global level, according to industry analysis, global beef production is seeing ‘fewer slaughter numbers and higher prices’. In the US prices are approaching ‘record highs’, with good prospects for the next two years. High world market prices mean that although Brazilian export volumes to traditional markets have fallen 26% in the case of Russia, 39% in the case of Iran and 35% in the case of Egypt, ‘[export] values have risen by 24%, 26% and 18% respectively’.</p><p>Sustained high global beef prices appear to be stimulating a rethink of beef sector tariff policy in the Caribbean. Press reports indicate that the Jamaica Broilers Company is arguing that efforts to revitalise the Jamaican beef sector are being held back by ‘poor economic conditions and a weak policy framework’. The company is nevertheless expanding its breeding activities, despite ‘the vulnerability of the sector to import competition’. In this context, it is argued that ‘clear policy support’ is needed.</p><p>Beef production in Jamaica is less than one-half of what it was 10 years ago. Chris Levy, CEO of Jamaica Broilers, pointed out in December 2011 that ‘poultry gets real protection with duties totalling 260 per cent while only the common external tariff of 20% – plus additional stamp duties – is applied to beef imports.’ It was further noted that the price in US dollar terms of imported beef ‘has increased by 46 per cent over the last 10 years.’</p><p>The situation is, however, complicated by the trade in ‘beef trimmings’, which consist of the fat trimmed from beef carcases. The Chair of the Jamaican Livestock Association, Henry Rainsford, maintains that ‘beef trimmings import is also creating a serious problem for local farmers.’ The Caribbean market for beef trimmings for use in patties and burgers has seen imports grow from 49.5 tonnes before 2005 to 1,500 tonnes in 2011.</p><p>In November 2011, a new commercial livestock farm dedicated to producing quality beef was formally opened in Trinidad and Tobago, indicating a wider interest in the renewal of beef production in the Caribbean region.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Thecattlesite.com</i>, ‘Prices stay high in difficult times’, 29 November 2011</p><p>
+<a href="http://www.thecattlesite.com/news/36649/prices-stay-high-in-difficult-times" target="_self">http://www.thecattlesite.com/news/36649/prices-stay-high-in-difficult-times</a></p><p><i>Thecattlesite.com</i>, ‘Global beef trade on a high’, 7 December 2011</p><p>
+<a href="http://www.thedairysite.com/news/36727/global-beef-trade-on-a-high" target="_self">http://www.thedairysite.com/news/36727/global-beef-trade-on-a-high</a></p><p><i>Jamaican Observer</i>, ‘Where’s the beef?’, 7 December 2011</p><p>
+<a href="http://www.jamaicaobserver.com/business/Where-s-the-beef-_10278176" target="_self">http://www.jamaicaobserver.com/business/Where-s-the-beef-_10278176</a></p><p>Ministry of Food Production, Land and Marine Affairs, Trinidad &amp; Tobago, ‘Boost in local beef production’, 1 December 2011</p><p>
+<a href="http://agriculture.gov.tt/fplma/index.php?q=media-room/press-releases/boost-local-beef-production-2241061322756453" target="_self">http://agriculture.gov.tt/fplma/index.php?q=media-room/press-releases/bo...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Global market price developments alongside continued SPS restrictions on imports of Brazilian beef are likely to see EU beef prices sustained at relatively high levels. Global beef prices, however, are also likely to be sustained at high levels. Nevertheless the cyclical nature of price developments in the beef sector and the lead time required for investments to mature suggest that careful consideration will need to be given to any new investment in domestic beef production based on the current high prices. However, if approached cautiously, the longer-term trend in beef prices, based on rising global demand, could well prove attractive both for the development of ACP beef exports beyond traditional EU markets and for the development of production for domestic ACP beef markets (e.g. in the Caribbean).</p><p>Renewed interest in beef production in Jamaica follows similar trends in Trinidad and Tobago, where efforts have been under way since 2009 to relaunch the beef sector via a series of large farms targeting livestock production.</p><p>However, in the Caribbean context, given the size of national economies, careful consideration will need to be given to the selection of food sectors to be supported and how best to extend such support, in view of regional and international trade policy commitments. Key questions include:</p>
+<ul>
+
+<li>Which goods have the greatest potential to use domestic inputs (maximising foreign exchange savings) and/or support rural livelihoods? </li>
+
+<li>What forms of support are most likely to incentivise energetic, domestic firms to invest and become more competitive? </li>
+
+<li>Which sectors will do most to enhance rural livelihoods? </li>
+
+</ul>
+<p>These different questions will often produce different answers, so decision-makers should seek a balanced package. Nevertheless, a time of rising world prices may be the best time to make a start on these policy choices, with the aim of identifying those food sectors which are likely to be most sustainable in the longer term, while minimising the need for subsidies (either from the taxpayer or the consumer).</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Livestock-value-chain-Jamaica-Artificial-Insemination-and-Embryo-Transfer-boosts-cattle-productivity">Livestock value chain/Jamaica – Artificial Insemination and Embryo Transfer boosts cattle productivity</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/SPS-Food-safety/Livestock-value-chain-Zimbabwe-Government-bans-some-cattle-movement-over-foot-and-mouth-disease">Livestock value chain /Zimbabwe - Government bans some cattle movement over foot and mouth disease</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/Livestock-value-chain-Botswana-Consider-genetics-when-buying-cattle">Livestock value chain/Botswana - Consider genetics when buying cattle </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/SPS-Food-safety/Livestock-value-chain-Mozambique-Namibia-Foot-and-Mouth-disease-poses-threat-of-national-disaster">Livestock value chain/Mozambique &amp; Namibia - Foot and Mouth disease poses threat of ' national disaster'</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Other/Livestock-value-chain-Jamaica-Praedial-Larceny-Prevention-Unit-Recovers-130-Stolen-Animals">Livestock value chain/ Jamaica - Praedial Larceny Prevention Unit Recovers 130 Stolen Animals</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":157,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

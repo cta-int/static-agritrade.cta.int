@@ -1,0 +1,566 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Central Africa: Agricultural trade policy debates and developments / EPAs / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																															
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																		
+								<a href="/en/layout/set/print/Publications/(regions)/7771/(search)/simple">Central Africa</a>
+																																																																																																																																								
+							
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Central Africa: Agricultural trade policy debates and developments</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/12156/497062/file/1fd9777d21dea19902dadd3d151af961.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+									</h4>
+
+						<h2>Executive brief: Update, July 2011</h2>
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>About this update</b></p><p>This brief was updated in July 2011. The original executive brief was published in January 2009 and is available on request from agritrade-mail@cta.int</p><p>Other publications in this series and additional resources on ACP—EU agriculture and fisheries trade issues can be found online at http://agritrade.cta.int/</p>
+
+		</div>
+		
+		
+					<a name="eztoc497052_1" id="eztoc497052_1"></a><h2><b>1. Introduction and overview </b></h2><p><b>&nbsp;</b></p><p><b>1.1 Agricultural production</b></p><p>Within the Central African region, Cameroon and the Democratic Republic of the Congo (DRC) play a major role in agricultural production, each contributing 36% to regional agricultural GDP. In terms of farming systems, agriculture is dominated by small-scale producers, except in Cameroon and Republic of Congo, where large-scale commercial farms play a major role.</p><p>Regarding other aspects of agriculture – such as levels of production, type and variety of products, production systems, self-sufficiency and nutrition, and contribution of the sector to GDP – the countries in the region are heterogeneous. There are however common features, the chief one being that agricultural production is generally insufficient both in terms of volume and variety to meet consumer needs. While two countries are almost or partly self-sufficient, the rest of the countries in the region depend heavily on imports to meet consumer needs. The issue of access to food can take on profound political significance at times of rising food prices and food scarcity, and these considerations have an important bearing on policy actions. In 2010, the International Food Policy Research Institute (IFPRI) published its review of developments in Economic Community of Central African States (ECCAS) countries since 1990. This review, in its hunger index, showed only limited progress in reducing hunger in these countries.</p><p>Regarding type of production, ‘the region can be split in two: the north produces mainly cereals, and south is dominated by crops such as coffee, cocoa, roots and tuber.’</p><p><b>Cameroon:</b> in a better situation than the rest of the region as regards self-sufficiency. Although there are variations between districts, Cameroon has fewer undernourished people (23%) than the regional average (53%). The main agricultural products in value terms are plantains (12% of national agricultural production), cattle meat (7%) and cassava (6%). Cameroon also produces cereals, vegetables and cash crops such as cocoa, bananas, coffee, cotton and sugar. Progress in agricultural production has been vigorous and varied since 1999.</p><p><b>Congo, Rep. of:</b> in a similar situation to Cameroon, with only 15% of the population undernourished. However Congo depends heavily on food imports and ‘apart from cassava and plantains, basic foodstuffs show a huge shortfall (only 30% self-sufficiency for meat, 3% for rice, 46% for eggs, 40% for oil).’ Production is concentrated on tubers and livestock, with cassava contributing 30% of agricultural value-added and game meat 19%. Congo also produces bananas, plantains and sugar.</p><p><b>Gabon:</b> the country has a weakly developed agricultural sector and a high dependence on imports (60% of its needs), although only 5% of its population are undernourished. Main crops produced are plantains (27% of the value of agricultural production), game meat (17%) and sweet potato (11%). Cash crops such as rubber, sugar and bananas are also produced, while cocoa and coffee production have declined dramatically since the 1970s.</p><p><b>São Tomé and Principe</b> and <b>Equatorial Guinea:</b> data is lacking on nutrition and self-sufficiency rates.<b> </b>In<b> São Tomé and Principe</b>, the main agricultural crops are: bananas (26%), taro (15%), coconuts (14%) and cocoa (9%). <b>Equatorial Guinea </b>produces cash crops such as coffee (13% of agricultural production value), bananas (10%) and cocoa beans (6%) on a commercial basis, and has a subsistence agricultural sector focused on production of plantain (25%), sweet potato (13%), cassava (12%) and other roots and tubers (10%). In both countries agricultural production insufficient to cover food needs, with a high food import dependency.</p><p>The rest of the countries in the region have insufficient agricultural production to meet the needs of their populations and major problems of undernourishment, which affects between 37 and 69% of the population.</p><p><b>Chad: </b>produces mainly<b> </b>livestock products (cattle meat is 18% of its agricultural production in value terms), groundnuts (15%), cereals (24%, made up of millet, sorghum, cereals, rice and maize) and cotton (5%). Despite these high levels of cereals production, Chad suffers from chronic cereals shortfalls.</p><p><b>Central African Republic (CAR): </b>subsistence agriculture dominates (98% of agricultural value-added in 2005). Cattle meat and groundnuts are the main products (27% and 10% of agricultural value-added). Tubers such as sweet potato and cassava are also produced, but production does not cover the population’s needs. There are shortfalls in cereals, sugar and fats production, with wide regional disparities in availability. Over three decades, the production of cash crops such as coffee and cotton has decreased, with rates of growth in production of crops and animals below the rate of population increase.</p><p><b>DRC:</b> the food availability situation is acute, with 69% of the population undernourished). In recent decades, in the face of high population growth, the animal population and food production have decreased or stagnated and food insecurity has worsened. The main agricultural products are cassava (39% in value of agricultural production), plantains, groundnuts and cereals (rice and maize). Production of cash crops such as tobacco, palm oil, sugar cane and coffee has decreased dramatically in recent decades.</p><p><i>&nbsp;</i></p><p><b>1.2 Agricultural trade</b></p><p>Central Africa is poorly integrated economically, with very low regional trade flows. This is despite the existence of two regional integration processes: the CEMAC (Communauté économique et monétaire d’Afrique centrale – Economic and Monetary Community of Central Africa) and the ECCAS (Communauté économique des États d’Afrique centrale, CEEAC). In CEMAC, despite the existence of a customs union, some studies have estimated that regional trade accounted for between only 2 and 6% of total trade in the early 2000s. According to CEMAC Commission data for 2005, intra-CEMAC trade amounts to less than 150 billion CFA francs (some US$326 million) and focuses primary on oil products.</p><p>The United Nations Economic Commission for Africa (UNECA) has estimated intra-ECCAS trade at between 1.3 and 3.8% of total ECCAS imports during the period 2001–2005, while a 2007 assessment put the figure at 1.4 % of total ECCAS imports (US$369 million). Intra-regional trade is thus of relatively minor significance.</p><p>Regionally traded agricultural and food products include: refined sugar; soup preparations; vegetable oils; beers and tobacco products. Cereals, fruits and vegetables are on the whole not part of official intra-regional trade flows.</p><p>The main actor in CEMAC regional trade is Cameroon, which is involved in around 60% of all intra-regional trade. This trade however represents only 5% of Cameroon’s total external trade. Cameroon is the only net agricultural exporter, while all other countries in CEMAC are net importers. Cameroon supplies its neighbouring countries mainly with meat products and fruits and vegetables.</p><p>Central African countries trade mainly with the EU (for 40% of their imports and 82% of their exports). Other major sources of imports include Brazil, Thailand and China, while the region’s other main export markets are China (3.63%) and the USA (2.35%).</p><p>The main exported agricultural product is cocoa, which brings in 45.8% of export earnings. Other major export products include bananas and other edible fruits and nuts (26.8%), cotton (8.45%), coffee (8.42%) and tobacco (2.4%).</p><p>Cameroon dominates regional exports, with 85% of the value of regional agricultural exports. Cameroon’s main export products are: cocoa (61%); bananas (25%); coffee and cotton (5% each). DRC (tobacco and coffee), Chad (cotton) and Congo (coffee, oil seed, and tobacco) export each between 3 and 5 % of the region’s agricultural exports.</p><p>The export position of a number of Central African countries has deteriorated since the 1970s. The DRC was formerly a major producer of palm oil and cotton (it was the second largest producer of palm oil and the leading African producer of cotton), but is now a net importer. Coffee, rubber, cocoa and tea have also declined. Similarly, in Gabon production of coffee and cocoa has declined 90% compared to the 1970s level. In Chad, meanwhile, while cotton is still the second most important export, the relative importance of Chad in cotton production in the franc zone has changed dramatically, from being the leading producer to being the smallest. Chad’s leading non-petroleum export remains livestock exports to neighbouring countries such as Nigeria and Cameroon.</p><p>In terms of imports the region shows a shortfall in production of cereals and milled cereal products, meat products, beverages, fats and oils and dairy products. As a consequence, the main imported agricultural products include cereals (16% of import value), meat products (12%), milled cereal products (9%), beverages (8%), fats and oil (7%) and dairy and animal products (7%). The main importers include DRC, Cameroon, Congo and Gabon, which account for between 15% and 27% of regional agricultural imports.</p><p><b>1.3 Situating agricultural trade policy</b></p><p>Agriculture and agricultural trade policy in Central African countries remain a national responsibility. Central African countries have different interests in the agricultural sector, depending on the importance of mineral resources in some of the countries. In terms of the use of agricultural trade policy tools, there is considerable divergence among member states of the EU–Central African Economic Partnership Agreement (EPA) configuration.</p><p><b>Cameroon: </b>the government imposes<b> </b>various requirements on coffee and cocoa exports, including various fees, supervision of marketing by national marketing boards and the management of industry funds to stabilise the sector and promote value-added processing. In addition, export taxes are imposed as a revenue-generating tool.</p><p><b>Chad: </b>uses export tax for live cattle and dried fish, as well as a variety of other products (World Trade Organisation Trade Policy Review 2007). Since 2003, Chad has also prohibited exports of heifers and calves to preserve the livestock population. Local administrative authorities may also restrict cereal exports at any time, in the event of shortages. Since 2006, sugar has to be imported by companies affiliated to the Chad Sugar Company.</p><p><b>CAR:</b> exports taxes, restrictions on imports and import licensing arrangements are all used, with quantitative import restrictions used for sugar and coffee (WTO Trade Policy Review 2007).</p><p><b>Congo:</b> uses quantitative restrictions and imports licensing arrangements in order to protect its industries and to control the supply and prices of goods, particularly sugar and wheat (WTO Trade Policy Review 2006).</p><p><b>Gabon: </b>prohibits imports of sugar from countries outside CEMAC (WTO Trade Policy Review 2006).</p><p><b>DRC:</b> operates a four-band tariff (0%, 5%, 10% and 20%), with average applied agricultural tariffs of 12.8% and imports subject to import licences. This measure is nominally used for statistical purposes. Imports of sugar are subject to quantitative restrictions. Export taxes are also levied on green coffee (WTO Trade Policy Review 2011).</p><p><b>São Tomé and Principe:</b> the tariff regime has 3 bands: 5% for basic goods, 20% for luxury goods, and 10% for all other imports (mostly capital equipment items). According to a World Bank report, São Tomé and Principe has eliminated all non-tariff barriers and export taxes.</p><p>Following the 2008 food price crisis, various new measures were set in place across the region, ranging from consumption support measures, through the lowering of import taxes and domestic tax rates on agricultural products, to export restrictions and outright bans.</p><p>However efforts are under way to harmonise national policies, including at the levels of CEMAC and ECCAS. In addition, some Central African governments have signed Comprehensive African Agricultural Development Programme (CAADP) compacts – an initiative under New Partnership for Africa’s Development (NEPAD) which aims to stimulate growth in agricultural by 6% per annum, through the expansion of government expenditures in support of agricultural development to 10% of the national budget.</p><p>CEMAC member states and its Executive Secretariat have been working on a common agricultural strategy since 1996. This process was completed in 2003, with the formal adoption of an agricultural strategy regulation. Within this strategy a specific programme is dedicated to food security (PRSA, the Programme régional de sécurité alimentaire) which was developed FAO support. Given the rich biodiversity of the region, enhancing intra-regional trade within CEMAC could play a strong role in addressing underlying food security concerns. The governments of CEMAC remain committed to meeting Millennium Development Goal objectives, most importantly in regard to the fight against hunger. Across the region, considerable importance is attached to strengthening agro-industries, which is seen as a means of promoting economic and trade diversification. This perspective has an influence on the use of agricultural trade policy tools and the approach to agricultural trade negotiations.</p><p>ECCAS also has a similar process currently under way to develop a regional agricultural policy. This also includes a PRSA regional food security programme, which has been developed with assistance from the African Development Bank. In response to the 2008 food price crisis, ECCAS created the FSRDA fund (Fonds spécial régional de développement agricole – Special Regional Agricultural Development Fund) to promote food security. However by the beginning of 2011 only four member states had contributed to the fund.</p><p>The objectives of the PSRA regional food security programmes included the coordination and harmonisation of food security and agricultural policies, the promotion of regional trade in agricultural products and the improvement of competitiveness on the world market.</p><p>According to the UNECA report, the implementation of the PRSAs has been delayed by a lack of funding. Although some projects have been implemented, major programmes related to the development of agricultural infrastructure, production and marketing of high yield seeds, value-added processing and the facilitation of intra-regional trade remain pending.</p><p>According to the UNECA stock-taking report, these two regional initiatives should merge and include the following components:</p>
+<ul>
+
+<li>the national agricultural strategies;</li>
+
+<li>the PRSA food security regional programme;</li>
+
+<li>the thematic pillars of CAADP;</li>
+
+<li>regional initiatives which emerged after the 2008 food price crisis (including the FSRDA fund).</li>
+
+</ul>
+<p>Regarding the national agricultural strategies, according to the UNECA, 6 out of the 10 ECCAS member states have ratified their strategies, with the remaining four (Angola, Equatorial Guinea, São Tomé and Principe, and DRC) expected to complete the process in 2011.</p><a name="eztoc497052_2" id="eztoc497052_2"></a><h2><b>2. Regional agricultural trade policy developments</b></h2><p><b>2.1 Agriculture in the national context</b></p><p>In the CAR and DRC, agriculture accounts for 54% and 45% of GDP respectively. In Cameroon, Chad and São Tomé and Principe, agriculture contributes between 12 and 19% of GDP, while in Congo, Gabon and Equatorial Guinea agriculture is of minor importance, accounting for less than 5% of GDP. Table 1 sets out a number of statistics showing the importance of agriculture within the countries of the region.</p><p>In terms of employment, a distinction can be made between two types of country.</p>
+<ul>
+
+<li>Category 1: countries with a predominantly rural population (60–72%), with more than 20% of the active population working in agriculture. This is the case for the non oil-producing countries of CAR and DRC, as well as Chad and Equatorial Guinea. </li>
+
+<li>Category 2: countries where agriculture is less important, since the population lives mainly in urban areas (up to 62%) and agriculture provides jobs for only between 13 and 19% of the active population.</li>
+
+</ul>
+<p>Despite these differences, it seems there is a policy consensus on the importance of getting to grips with the region-wide challenge of food insecurity. The need for a strong agricultural policy is recognised by all Central African states, but despite nominal policy commitments, progress has been very slow.</p><p><b>Table 1: Importance of agriculture in Central African countries</b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0" width="540">
+<tr>
+<td width="114" valign="top">  <b>&nbsp;</b>
+  </td><td width="91" valign="top">  <b>Agriculture as % of GDP (2009) </b>
+  </td><td width="70" valign="top">  <b>Rural population (2009)</b>
+  </td><td width="113" valign="top">  <b>Population economically active in agriculture (2008)</b>
+  </td><td width="66" valign="top">  <b>Population in 2008</b>
+  </td><td width="85" valign="top">  <p class=" text-center"><b>Active population in agricul-ture in 2008</b></p><p class=" text-center"><b>(%)</b></p>
+  </td>
+</tr>
+
+<tr>
+<td width="114" valign="top">  <b>Cameroon</b>
+  </td><td width="91" valign="top">  * 19.47
+  </td><td width="70" valign="top">  42.42
+  </td><td width="113" valign="top">  3,617,000
+  </td><td width="66" valign="top">  19,088,385
+  </td><td width="85" valign="top">  18.95
+  </td>
+</tr>
+
+<tr>
+<td width="114" valign="top">  <b>CAR</b>
+  </td><td width="91" valign="top">  55.51
+  </td><td width="70" valign="top">  61.26
+  </td><td width="113" valign="top">  1,263,000
+  </td><td width="66" valign="top">  4,339,263
+  </td><td width="85" valign="top">  29.11
+  </td>
+</tr>
+
+<tr>
+<td width="114" valign="top">  <b>Chad</b>
+  </td><td width="91" valign="top">  ** 13.63
+  </td><td width="70" valign="top">  72.86
+  </td><td width="113" valign="top">  2,960,000
+  </td><td width="66" valign="top">  10,913,667
+  </td><td width="85" valign="top">  27.12
+  </td>
+</tr>
+
+<tr>
+<td width="114" valign="top">  <b>Congo, Rep.</b>
+  </td><td width="91" valign="top">  4.51
+  </td><td width="70" valign="top">  38.28
+  </td><td width="113" valign="top">  489,000
+  </td><td width="66" valign="top">  3,615,152
+  </td><td width="85" valign="top">  13.53
+  </td>
+</tr>
+
+<tr>
+<td width="114" valign="top">  <b>DRC</b>
+  </td><td width="91" valign="top">  42.91
+  </td><td width="70" valign="top">  65.42
+  </td><td width="113" valign="top">  14,098,000
+  </td><td width="66" valign="top">  64,256,635
+  </td><td width="85" valign="top">  21.94
+  </td>
+</tr>
+
+<tr>
+<td width="114" valign="top">  <b>Equatorial Guinea</b>
+  </td><td width="91" valign="top">  3.46
+  </td><td width="70" valign="top">  60.46
+  </td><td width="113" valign="top">  167,000
+  </td><td width="66" valign="top">  659,197
+  </td><td width="85" valign="top">  25.33
+  </td>
+</tr>
+
+<tr>
+<td width="114" valign="top">  <b>Gabon</b>
+  </td><td width="91" valign="top">  5.06
+  </td><td width="70" valign="top">  14.48
+  </td><td width="113" valign="top">  189,000
+  </td><td width="66" valign="top">  1,448,159
+  </td><td width="85" valign="top">  13.05
+  </td>
+</tr>
+
+<tr>
+<td width="114" valign="top">  <b>São Tomé &amp; Principe</b>
+  </td><td width="91" valign="top">  *** 16.81
+  </td><td width="70" valign="top">  38.62
+  </td><td width="113" valign="top">  31,000
+  </td><td width="66" valign="top">  160,174
+  </td><td width="85" valign="top">  19.35
+  </td>
+</tr>
+
+</table>
+<p>Source: World Bank</p><p>Notes: * = 2007; ** = 2008; *** = 2005</p><p>According to the WTO, the leading imports of food products in Cameroon are rice, wheat and maize. Of the rice consumed in the country, 90% is imported, mainly from Asia; and 15% of maize and 100% of wheat consumed in the country are also imported, mostly from the US. For meat and animal products, imports consist mainly of poultry and milk, in addition to cattle on the hoof from the CAR and Chad. Poultry imports have grown substantially since 2000, mainly consisting of frozen chicken, sold at a quarter of the price of live poultry on local markets. The region’s main agricultural imports are set out in Table 2.</p><p><b>Table 2: Main imports by HS chapter (mean 2008–2009)</b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0" width="492">
+<tr>
+<td width="57" valign="top">  <b>HS2 code</b>
+  </td><td width="191" valign="top">  <b>Products</b>
+  </td><td width="84" valign="top">  <p class=" text-center"><b>Value, in</b></p><p class=" text-center"><b>US$ ’000</b></p>
+  </td><td width="161" valign="top">  <b>As % of imported agricultural products</b>
+  </td>
+</tr>
+
+<tr>
+<td width="57" valign="top">  10
+  </td><td width="191" valign="top">  Cereals
+  </td><td width="84" valign="top">  437,270.5
+  </td><td width="161" valign="top">  15.72
+  </td>
+</tr>
+
+<tr>
+<td width="57" valign="top">  02
+  </td><td width="191" valign="top">  Meat and edible meat offal
+  </td><td width="84" valign="top">  336,181.0
+  </td><td width="161" valign="top">  12.09
+  </td>
+</tr>
+
+<tr>
+<td width="57" valign="top">  11
+  </td><td width="191" valign="top">  Milling products, malt, starches, inulin, wheat gluten
+  </td><td width="84" valign="top">  257,322.5
+  </td><td width="161" valign="top">  9.25
+  </td>
+</tr>
+
+<tr>
+<td width="57" valign="top">  22
+  </td><td width="191" valign="top">  Beverages, spirits and vinegar
+  </td><td width="84" valign="top">  225,055.0
+  </td><td width="161" valign="top">  8.09
+  </td>
+</tr>
+
+<tr>
+<td width="57" valign="top">  15
+  </td><td width="191" valign="top">  Animal, vegetable fats and oils, cleavage products etc
+  </td><td width="84" valign="top">  198,305,5
+  </td><td width="161" valign="top">  7.13
+  </td>
+</tr>
+
+<tr>
+<td width="57" valign="top">  04
+  </td><td width="191" valign="top">  Dairy products, eggs, honey, edible animal product nes*
+  </td><td width="84" valign="top">  181,916.5
+  </td><td width="161" valign="top">  6.54
+  </td>
+</tr>
+
+<tr>
+<td width="57" valign="top">  19
+  </td><td width="191" valign="top">  Cereal, flour, starch, milk preparations and products
+  </td><td width="84" valign="top">  161,756.0
+  </td><td width="161" valign="top">  5.82
+  </td>
+</tr>
+
+<tr>
+<td width="57" valign="top">  21
+  </td><td width="191" valign="top">  Miscellaneous edible preparations
+  </td><td width="84" valign="top">  146,369.0
+  </td><td width="161" valign="top">  5.26
+  </td>
+</tr>
+
+<tr>
+<td width="57" valign="top">  52
+  </td><td width="191" valign="top">  Cotton
+  </td><td width="84" valign="top">  141,707.5
+  </td><td width="161" valign="top">  5.10
+  </td>
+</tr>
+
+<tr>
+<td width="57" valign="top">  17
+  </td><td width="191" valign="top">  Sugars and sugar confectionery
+  </td><td width="84" valign="top">  132,327.5
+  </td><td width="161" valign="top">  4.76
+  </td>
+</tr>
+
+<tr>
+<td width="57" valign="top">  03
+  </td><td width="191" valign="top">  Fish, crustaceans, molluscs, aquatic invertebrates nes*
+  </td><td width="84" valign="top">  126,945.0
+  </td><td width="161" valign="top">  4.56
+  </td>
+</tr>
+
+<tr>
+<td width="57" valign="top">  16
+  </td><td width="191" valign="top">  Meat, fish and seafood food preparations nes*
+  </td><td width="84" valign="top">  110,843.0
+  </td><td width="161" valign="top">  3.99
+  </td>
+</tr>
+
+<tr>
+<td width="57" valign="top">  20
+  </td><td width="191" valign="top">  Vegetable, fruit, nuts, and other food preparations
+  </td><td width="84" valign="top">  89,017.0
+  </td><td width="161" valign="top">  3.20
+  </td>
+</tr>
+
+</table>
+<p>Source: International Trade Centre, TradeMap</p><p>Note: * nes = not elsewhere specified</p><p>In the DRC, the principal food imports are wheat (grain and flour), refined sugar, maize, milk and poultry meat. Moreover, despite the potential for DRC to be self-sufficient and to provide the region with maize, 20% of maize requirements are imported, and 100% of wheat requirements are covered by imports. Poultry imports have increased markedly since 1999, rising from 22,000 to 51,000 tonnes in 2007.</p><p>In Chad, the main import is wheat flour. Despite its growing potential for sugar, Chad imports 60% of its requirements. Chad and CAR record a low proportion of imports from the region (with 5% and 1% each), despite their shortfalls in food production.</p><p>Regional integration efforts are complicated by the DRC’s multiple membership of regional bodies including: ECCAS, the Common Market for Eastern and Southern Africa (COMESA), the Southern African Development Community (SADC), and the Economic Community of the Great Lakes Countries (which is not operational). The DRC’s weak effective participation in these bodies however does not make this an insurmountable problem.</p><p>2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agriculture and agricultural trade policy in CEMAC</p><p>There are six countries in CEMAC: Gabon, Cameroon, Congo, Equatorial Guinea, Chad, CAR. The main aim of CEMAC is to promote the establishment of a common market based on free movement of persons, capital and services. There is also a commitment to the coordination of national policies to ensure a stable economic and business environment and the harmonisation of sector policy regulations, most notably in the agriculture, livestock and fisheries sectors.</p><p>A CEMAC free-trade area (FTA) has nominally been in force since 1998. CEMAC moved towards a custom union between 1994 and 2000, with the establishment of a four-band common external tariff (CET):</p>
+<ul>
+
+<li>Category I for vital goods – 5%;</li>
+
+<li>Category II for raw materials and equipment goods – 10%;</li>
+
+<li>Category III for intermediary goods – 20%;</li>
+
+<li>Category IV for goods of usual consumption – 30%. </li>
+
+</ul>
+<p>However agricultural products do not fit easily into this four-tier categorisation. Within CEMAC, the average of applied agricultural tariffs amounts to between 21.9 and 25.1%. The main imported agricultural products are subject to the highest tariff rates, 20% and 30%, except wheat for which a 10% rate is applied. Table 3 sets out a number of products alongside the CET that applies to them.</p><p><b>Table 3: Level of common external tariff for agricultural products</b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0" width="540">
+<tr>
+<td width="455" valign="top">  <p><b>HS code and product</b></p><p><b>&nbsp;</b></p>
+  </td><td width="85" valign="top">  <p class=" text-center"><b>Tariff level</b></p><p class=" text-center"><b>(%)</b></p>
+  </td>
+</tr>
+
+<tr>
+<td width="455" valign="top">  1001, 02, 03, etc – cereals seeds; 1901 Food preparations and semolina
+  </td><td width="85" valign="top">  5
+  </td>
+</tr>
+
+<tr>
+<td width="455" valign="top">  1001 Wheat (other than seeds); 1103 cereal groats and meal; 1107 Malt
+  </td><td width="85" valign="top">  10
+  </td>
+</tr>
+
+<tr>
+<td width="455" valign="top">  0207 Poultry meat; 0402 Milk and cream
+  </td><td width="85" valign="top">  20
+  </td>
+</tr>
+
+<tr>
+<td width="455" valign="top">  0703 Onions; 1005 Maize (other than seeds); 1006 Rice (other than seeds); 1101 Wheat flour; 1507 Soya oil; 1602 Other preparations and cans; 1701 Sugars; 1902 Noodles; 1905 Bread and cakes; 2002 Tomatoes in cans; 2203 Beer made from maize
+  </td><td width="85" valign="top">  30
+  </td>
+</tr>
+
+</table>
+<p>Source: GRET and CIRAD (2006); 
+<a href="http://www.izf.net/upload/TEC/afrique%20centrale/" target="_self">http://www.izf.net/upload/TEC/afrique%20centrale/</a></p><p>In addition to tariff protection, CEMAC countries continue to use various agricultural trade policy tools, including import licensing arrangements, quantitative restrictions on imports and exports and export taxes.</p><p>According to the WTO TPR of 2007, Cameroon imposes import restrictions on meat products, notably poultry meat. In 2006, the Citizens' Association for the Defence of Collective Interests (Association des citoyens pour la défense des interêts collectifs – ACDIC) conducted a campaign to restrict imports of frozen chickens from Europe and Latin America, with a view to protecting and promoting local poultry production. Measures taken by the government in response to this campaign include a substantial reduction in the number of chicken import permits issued, a limit on the volume of imports, the establishment of health control posts at the border where transit taxes are paid (foreign animals are also subject to specific duties) and temporary price control measures. Similar measures are also applied to imports of cattle and small livestock.</p><p>In terms of intra-CEMAC trade, according to a UNECA stock-taking report in 2009,&nbsp;‘the generalised preferential tariff applies on the whole to every origin product and product traded with a CEMAC circulation certificate’, but derogations and safeguard clauses for countries in conflicts have been granted (to Congo, 2000–2002, and to CAR, 2004–2007). This extends to the use of import restrictions on intra-CEMAC trade. Table 4 sets out how the countries of the region use and apply different trade policy instruments.</p><p><b>Table 4: Trade policy instruments in force in the CEMAC region</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="102" valign="top">  &nbsp;
+  </td><td width="163" valign="top">  Licences
+  </td><td width="163" valign="top">  Quantitative restrictions and bans
+  </td><td width="163" valign="top">  Export taxes
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Cameroon (2007)
+  </td><td width="163" valign="top">  &nbsp;
+  </td><td width="163" valign="top">  Imports of poultry, cattle and small livestock
+  </td><td width="163" valign="top">  Cocoa and coffee
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Congo, Republic of (2006)
+  </td><td width="163" valign="top">  Imports of meat, poultry, saltwater fish, salted fish, wheat flour, edible oils, salt, mineral water, sugar, rice, and tomato concentrate
+  </td><td width="163" valign="top">  Imports of sugar (ban until the production elapsed) and wheat flour (quotas)
+  </td><td width="163" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Gabon (2007)
+  </td><td width="163" valign="top">  &nbsp;
+  </td><td width="163" valign="top">  Sugar imports (ban, except for imports from CEMAC)
+  </td><td width="163" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  CAR (2007)
+  </td><td width="163" valign="top">  Sugar imports
+  </td><td width="163" valign="top">  Coffee imports (ban until the production elapsed), sugar
+  </td><td width="163" valign="top">  
+<a href="#_ftn1" target="_self">C</a>attle (1,000 FCA francs per head of cattle; 500 FCA francs per head of small livestock); live wild animals
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Congo, Democratic Republic of (2011)
+  </td><td width="163" valign="top">  All imports
+  </td><td width="163" valign="top">  Imports of sugar
+  </td><td width="163" valign="top">  Green coffee (1%)
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Chad (2007)
+  </td><td width="163" valign="top">  Exports of cattle and livestock products
+  </td><td width="163" valign="top">  
+Exports of heifers and calves (ban). Exports of cereals if shortage.<br/> Since 2006, imports of sugar imported by importers not affiliated to the Chad Sugar Company
+  </td><td width="163" valign="top">  Live cattle and dried fish; other export taxes on certain (mainly agricultural products); fish-breeding, gum arabic, cotton, cocoa, citrus fruit, palm oil, some tobacco, soap, rubber; some hides and skins; butter; rough or sawn timber
+  </td>
+</tr>
+
+</table>
+<p>Source: WTO Trade Policy Reviews</p><p>According to the UNECA, two problems have impeded the consolidation of a harmonised trade policy:</p>
+<ul>
+
+<li>the absence of a common policy on export taxes; </li>
+
+<li>the national establishment of exceptions to the CET. </li>
+
+</ul>
+<p>This has affected agricultural products such as: vegetable oil, maize, salt, refined sugars and dairy products, and has led to an erosion of the common external tariff. This is attributed to the absence of an effective regional body for negotiating modifications to the CET and enforcing compliance.</p><p>Overall, analysis to date suggests that regional integration in CEMAC has not had a significant impact on the intra-regional trade amongst CEMAC members. Critical constraints on intra-regional trade are the poor transport infrastructure in the region and a lack of complementarity in production structures.</p><p><b>2.3 Agriculture and agricultural trade policy in ECCAS</b></p><p>The ECCAS established in 1983 is composed of 10 member states: Cameroon, Central African Republic, Chad, Republic of Congo, Democratic Republic of Congo, Equatorial Guinea, Gabon, São Tomé and Principe, as well as Angola and Burundi. The objective of ECCAS is to promote and strengthen cooperation and economic development, including in agriculture.</p><p>The ECCAS member countries have adopted a tariff reduction scheme for intra‑Community trade, known as the ECCAS Preferential Tariff, which should in principle have come into effect between 2004 and 2007. In 2007 it had been proposed that the ECCAS CET should include three tariff bands (at 5, 10 and 20%). However, according to the WTO, ‘tariff reduction has not actually been implemented’.</p><p>There would appear to be a need in the coming period to harmonise the ECCAS and CEMAC common external tariff (CET). This however could prove to be a difficult exercise, given that Burundi is already a part of the East African Community Customs Union, while Angola is nominally a part of the SADC customs union process and part of the SADC EPA configuration.</p><a name="eztoc497052_3" id="eztoc497052_3"></a><h2><b>3. Wider trade negotiations and developments</b></h2><p><b>3.1 The EPA negotiations</b></p><p>The EU’s EPA negotiations with the Central African configuration of countries began in 2003. However it was not possible to conclude a regional agreement before 2008. As a consequence, in order to maintain its existing duty-free, quota-free access, Cameroon initialled a bilateral interim EPA (IEPA) with the EU at the end of 2007, and this was formally signed on 15 January 2009.</p><p>Gabon and Congo, the two non-least developed countries (LDCs) left in the region, have traded under standard GSP preferences (Generalised System of [tariff] Preferences) since 2008. The European Commission (EC) proposals to revise the EU GSP would see Gabon graduated out of the GSP scheme (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Topics/Market-access/Commission-unveils-proposal-for-new-GSP" target="_self">Commission unveils proposal for new GSP</a>’, June 2011), The LDCs in the region continue to benefit from the ‘Everything But Arms’ (EBA) initiative.</p><p>Due to institutional constraints on the Central African side, the EPA negotiations were halted in February 2009 and only resumed in December 2010, with a stock-taking meeting in Douala, Cameroon. This meeting was followed by two other meetings in February and April 2011 (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/EPAs/Central-African-EPA-negotiations-relaunched" target="_self">Central African EPA negotiations relaunched</a>’, April 2011), at which issues related to market access, rules of origin, and accompanying measures were discussed. Because of the disparities in the institutional framework between the EC on the one hand and Central Africa on the other, Central African negotiators have called for the postponement of the services negotiations. According to the European Centre for Development Policy Management (ECDPM), Equatorial Guinea has signified its intention not to join the EPA before 2020.</p><p>The negotiations for a regional EPA are ongoing, but they continue to be frustrated by the differences of opinions between the two parties mainly concerning the provisions on the financing of support measures and Central Africa’s market access offer. Given the financial difficulties in the EU, negotiations around accompanying measures are likely to continue to prove difficult.</p><p>After the rejection of Central Africa’s initial market access offer (elimination of tariffs on 60% of imports over 25 years), a new offer was tabled in July 2008 (71% over 20 years). This still excluded some 1,205 products, representing 24.5% of the tariff lines. During the July 2008 meeting, ‘the EU repeated that 80% of products should be liberalised over 15 years’. No agreement was reached. In the 2011 meetings, the EC and Central African negotiators have been exploring the possibility of abandoning a generalised tariff liberalisation approach to negotiations in favour of tariff-line by tariff-line discussions, which could allow the two parties to reach a favourable outcome.</p><p>Beyond these questions, the extensive use of a range of trade policy tools in the region is likely to give rise to complications in the EPA process. Under the Cameroon–EU IEPA, measures involving quantitative restrictions (such as import bans, quotas and licences) are formally prohibited, even for the purpose of protecting new industries or for reasons of food security. It is unclear whether this clause will be integrated into any Central African–EU regional EPA, although this is clearly the desire of the EC. According to the WTO Trade Policy Review, as Central African countries apply measures involving quantitative restrictions on imports in the agricultural sector for reasons of food security or to protect new sectors or industries, any prohibition of such measures could cause a problem.</p><p>As regards export taxes, no compromise has yet been reached. The Cameroon–EU IEPA allows the maintenance of export taxes, if the taxes in question were in place before the agreement. It only authorises the introduction of new export taxes ‘for environmental protection purposes or to maintain monetary stability, after consultation with the EC’.</p><p>If the Central African countries want to be able to continue to use this type of instrument, it will be important to ensure that the regional agreement includes a certain degree of flexibility regarding their use, in particular for reasons of food security or to protect new industries.</p><p>In February 2011, a commitment was made to completing the negotiations by the end of 2011. However, it is unclear on what basis the negotiations could be concluded by the end of 2011.</p><p><b>3.2 Other trade negotiations</b></p><p>With the exception of the DRC’s periodic engagement with the COMESA and SADC FTA negotiations, Central African governments are not involved in any trade negotiations that have been notified to the WTO.</p><p><i>&nbsp;</i></p><a name="eztoc497052_4" id="eztoc497052_4"></a><h2><b>4. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Current agricultural trade policy debates and issues</b></h2><p><b>4.1 Consolidating and operationalising agricultural and agricultural trade policies</b></p><p>While nominally agricultural and agricultural trade policy harmonisation strategies are in place, there remain problems of inter-institutional competition, with a lack of clarity on which institution should lead on which aspects of regional agricultural and agricultural trade policy formulation. There is an urgent need to address this issue in order to get to grips with effectively operationalising existing strategies through national actions, coordinated within a common regional framework. This could help to overcome the lack of progress to date, which has commonly been attributed to a lack of funding for regional cooperation on agricultural issues.</p><p>Promotion of the adoption of CAADP strategic commitments offers one avenue for operationalising existing policy commitments. However, so far only two governments in the region have adopted CAADP compacts (DRC and Central African Republic – on 17 March 2010 and 15 April 2011 respectively). To date none of the Central African countries have reached the 10% target for budget allocations to the agricultural sector. Even in Cameroon, the region’s most advanced agricultural producer, only about 2.34% of Cameroon’s national budget is allocated to agricultural and rural development activities. In terms of the agricultural growth objectives, only Congo has succeeded in attaining an agricultural production growth rate of 6%.</p><p>There is thus a considerable challenge ahead for the region in operationalising the nominal commitment to prioritising agricultural production and promoting a coordinated regional approach to agricultural sector development.</p><p><b>4.2 Establishing an effective common external tariff</b></p><p>A major issue in the CEMAC context is the elimination of anomalies in the application of the common external tariff arising from derogations, the application of safeguard measures and the introduction of special measures in response to the 2008 food price surge. This requires the establishment of effective mechanisms for the common review of common tariffs. However, it should be noted that this is not necessarily posing any major economic challenges at the moment, given the limited volume of intra-regional trade.</p><p>A related challenge is the establishment of a process for the gradual convergence of the national tariff policies of São Tomé and Principe and the Democratic Republic of the Congo with that of the CEMAC common external tariff.</p><p>It is far from clear how this might to be achieved in 2011 in such as way as to enable the region to table a common tariff elimination offer to the EC. This could give rise to a regional agreement consisting of several separate national tariff elimination offers. This is not going to pose a problem for EU exporters of food and agricultural products, who would welcome any process of tariff elimination (no matter how fragmented), and would certainly welcome the dismantling of non-tariff barriers to trade in food and agricultural products. However, it could store up problems for any future efforts to consolidate an effective common external tariff in the CEMAC and wider Central African region.</p><p><b>4.3 Developing regional agricultural trade</b></p><p>Despite a nominal agreement on the need for a strong agricultural policy, it is unclear to what extent a consensus exists in the region on the nature of the agricultural and associated agricultural trade policy that is appropriate for the Central African region. The interests of Central African governments in agricultural production vary considerably, and it is unclear where the common ground exists for the elaboration of a common policy on trade in food and agricultural products.</p><p>An initial starting point might be the establishment of greater transparency on the current agricultural trade policy tools in use, and the national policy perspectives on the future use of such tools in different agricultural sectors, and how the tools might be prioritised for development in the region. This could allow scope for the elaboration of sector-by-sector approaches to agricultural and agricultural trade policy harmonisation, based on the capacities for production and trade which exist within the region and the development aspirations of different sector organisations in the region.</p><p><b>Main sources</b></p><p>1. UNECA, ‘Etat d'avancement du processus d'intégration en Afrique Centrale: Prospectus 2009’, 2009</p><p>
+<a href="http://www.uneca.org/ac/Publications/Prospectus%202009.pdf" target="_self">http://www.uneca.org/ac/Publications/Prospectus%202009.pdf</a></p><p>2. UNECA, ‘Etat d’avancement du processus d’intégration régionale en Afrique centrale. Rapport 2010’, 2010</p><p>
+<a href="http://www.uneca.org/ac/CIE2010/Documents/CE%202010%20Rapport%20Integration%20Regionale.pdf" target="_self">http://www.uneca.org/ac/CIE2010/Documents/CE%202010%20Rapport%20Integrat...</a></p><p>3. CIRAD and GRET, ‘Impact sur l’agriculture de la CEMAC et Sao Tomé et Principe d’un Accord de partenariat économique avec l’Union européenne’, by E. Douya, B. Hermelin and V. Ribier, <i>Projet 095 – CEMAC #3</i>,<i> </i>March 2006</p><p>
+<a href="http://www.inter-reseaux.org/IMG/pdf/cemac_etude_impact_ape_sur_agriculture.pdf" target="_self">http://www.inter-reseaux.org/IMG/pdf/cemac_etude_impact_ape_sur_agricult...</a></p><p>4. African Development Bank Group, ‘CEEAC - Appui au programme régional pour la sécurité alimentaire’, 2011</p><p>
+<a href="http://www.afdb.org/en/projects-and-operations/project-portfolio/project/p-z1-aa0-078/" target="_self">http://www.afdb.org/en/projects-and-operations/project-portfolio/project...</a></p><p>5. UNECA, ‘Rapport sur l’état d’avancement du processus d’intégration en Afrique centrale’, January 2011.</p><p>
+<a href="http://www.uneca.org/ac/CIE%202011/Documents/Rapport%20Integration%20regionale.pdf" target="_self">http://www.uneca.org/ac/CIE%202011/Documents/Rapport%20Integration%20reg...</a></p><p>6. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WTO, ‘Trade policy review: Democratic Republic of Congo’, November 2010</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp340_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp340_e.htm</a></p><p>7. WTO, ‘Trade policy review: Cameroon and Gabon’, October 2007</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp288_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp288_e.htm</a></p><p>8. WTO, ‘Trade policy review: Central African Republic’, June 2007</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp284_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp284_e.htm</a></p><p>9. WTO, ‘Trade policy review: Chad’, January 2007</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp275_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp275_e.htm</a></p><p>10. WTO, ‘Trade policy review: Congo’, September 2006</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp270_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp270_e.htm</a></p><p>11. UNICEF, ‘Escalating food prices: The threat to poor households and policies to safeguard a recovery for all’, paper by I. Ortiz, J. Chai and M. Cummins, <i>Social and Economic Policy Working Paper</i>, February 2011</p><p>
+<a href="http://www.unicef.org/socialpolicy/files/Escalating_Food_Prices.pdf" target="_self">http://www.unicef.org/socialpolicy/files/Escalating_Food_Prices.pdf</a></p><p>12. South Centre, ‘Négociations d’APE en Afrique Centrale : thèmes de réflexion’, SC/AN/TDP/EPA/9, June 2007</p><p>
+<a href="http://www.southcentre.org/index2.php?option=com_docman&amp;task=doc_view&amp;gid=264&amp;Itemid=68" target="_self">http://www.southcentre.org/index2.php?option=com_docman&amp;task=doc_vie...</a></p><p><b>Useful websites</b></p><p>ACP–EU trade website</p><p>
+<a href="http://www.acp-eu-trade.org/index.php?loc=epa/" target="_self">http://www.acp-eu-trade.org/index.php?loc=epa/</a></p><p>CEMAC website</p><p>
+<a href="http://www.cemac.int/" target="_self">http://www.cemac.int/</a></p><p>CEMAC, ‘Tarif des douanes (dispositions générales)&nbsp;: Acte n°7/93-UDEAC-556-SE1 du 21 juin 1993’</p><p>
+<a href="http://www.droit-afrique.com/images/textes/Afrique_centre/CEMAC%20-%20Tarif%20des%20douanes.pdf" target="_self">http://www.droit-afrique.com/images/textes/Afrique_centre/CEMAC%20-%20Ta...</a></p><p>FAO, FAO ‘Aquastat’ information system on water and agriculture, 2011</p><p>
+<a href="http://www.fao.org/nr/water/aquastat/countries/index.stm" target="_self">http://www.fao.org/nr/water/aquastat/countries/index.stm</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Cocoa/Executive-Brief-Update-2013-Cocoa-sector">Executive Brief Update 2013: Cocoa sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Bananas/Executive-Brief-Update-2013-Banana-sector">Executive Brief Update 2013: Banana sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Regions/ACP/Central-Africa/Executive-Brief-Update-2013-Central-Africa-Agricultural-trade-policy-debates-and-developments">Executive Brief Update 2013 – Central Africa: Agricultural trade policy debates and developments </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Other/Executive-Brief-Update-2012-Central-Africa-Agricultural-trade-policy-debates-and-developments">Executive Brief Update 2012: Central Africa: Agricultural trade policy debates and developments</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Bananas/Executive-Brief-Update-2012-Banana-sector">Executive Brief, Update 2012: Banana sector </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":149,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

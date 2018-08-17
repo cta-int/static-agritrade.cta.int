@@ -1,0 +1,298 @@
+/**
+ * Created by Contactivity, www.contactivity.com
+ * @project Agritrade website, redesign 2011
+ * @author Stephan Csorba <stephan@contactivity.com>
+ * @copyright Copyright (c) 2011, Contactivity bv, Leiden
+ * @license http://opensource.org/licenses/gpl-3.0.html GNU General Public License, version 3 (GPLv3)
+ * @version $Id: community.css,v 1.0 2011-02-03 18:20:00
+*/
+
+/* COMMUUNITY */
+
+div.community
+{
+	/*width:930px;*/
+}
+div.community h1
+{
+	color: #356768;
+    font-size: 18px;
+}
+div.community h3, div.community h3 a
+{
+	font-size: 1.19em;
+	font-weight: bold;
+	line-height: 16px;
+    padding: 5px 0 7px;
+    color:#000;
+    text-align: left;
+}
+div.community h3 a:hover{
+	color: #fb8e00;
+}
+div.community h4
+{
+	font-size: 1.19em;
+	font-weight: bold;
+	line-height: 16px;
+    padding: 5px 0 7px;
+}
+div.community h3 span
+{
+	color: #356768;
+    margin:5px;
+    font-size:12px;
+}
+
+div.community h2
+{
+	color: #000;
+    margin-bottom:10px;
+    font-weight:bold;
+}
+
+div.community hr{
+	margin: 10px 0 0;
+}
+div.community .sub{
+	margin-bottom:10px;
+}
+div.error_handling
+{
+	margin:0px;
+}
+div.community .block-left
+{
+	float:left;
+	width: 650px;
+}
+div.community .block-right
+{
+	float:right;
+   width: 240px;
+}
+div.community .block-right .block
+{
+   width: 240px;
+}
+div.community .results{
+	float:left;
+	width: 445px;
+}
+div.community .settings{
+	float:right;
+	width: 165px;
+}
+div.community .recent_blog
+{
+	width: 260px;
+	min-height:250px;
+}
+
+div.community .find_members
+{
+	margin-right: 48px !important;
+	width: 910px !important;
+}
+
+div.community .column{
+	width: 100%;
+}
+
+div.community div#people-random { display:none;  }
+div.community div#people-random div.thumb-profile { float:left; width:77px; margin:.4em 5px .4em 0; overflow:hidden; }
+div.community div#people-newest { display:none; }
+div.community div#people-active { display:none; }
+div.community div#people-friends { display:none; }
+div.community div#people-newest div.thumb-profile { float:left; width:77px; margin:.4em 5px .4em 0; overflow:hidden; }
+div.community div#people-active div.thumb-profile { float:left; width:77px; margin:.4em 5px .4em 0; overflow:hidden; }
+div.community div#people-friends div.thumb-profile { float:left; width:77px; margin:.4em 5px .4em 0; overflow:hidden; }
+div.community div#blog-mostactive, div.community div#discussion-mostactive { display:none; }
+
+div.community div#news_results { display:block;  }
+div.community div#blog_results { display:none;  }
+
+div.community div#news_results .listing { margin-top:0px;  }
+div.community div#blog_results .listing { margin-top:0px;  }
+
+div.comtabs {
+	display:block;
+}
+div.comtabs ul {
+	list-style:none;
+	display:block;
+}
+div.comtabs ul li{
+	overflow:hidden;
+    text-align: center;
+    width: 139px;
+    float:left;
+    border:1px solid #eaeeee;
+    margin-right: 5px;
+	border-bottom:none;
+}
+
+div.comtabs ul li:hover{
+	background-color:#eaeeee;
+}
+div.comtabs .active{
+	background-color:#eaeeee;
+}
+div.comtabs .active a{
+	color:#FB8E00;
+}
+div.comtabs ul li a{
+	display:block;
+	padding:8px;
+	font-size: 1em;
+	font-weight: bold;
+	line-height: 16px;
+}
+
+br.cl{clear:both;position:relative;margin-top:-1.2em;font-size:0;}
+div.community h2 a { text-decoration: none; }
+
+div.community ol.itemized_sub_items li {
+    background: none repeat scroll 0 0 transparent;
+    list-style-image: none;
+    list-style-type: none;
+    margin-bottom: 7px;
+}
+div.community ol.itemized_sub_items {
+    list-style: none outside none;
+    margin-left: 0;
+    margin-top: 2px;
+    padding-left: 1em;
+    text-indent: -1em;
+}
+div.community .blogposter { font-size: 11px;margin-left:5px; margin-top: 3px; }
+div.community .blogposter a{ font-size: 10px;}
+ol.itemized_sub_items li div.blogposter a, ol.itemized_sub_items li div.blogposter span {
+    margin-left: 10px;
+}
+div.community .listing article {
+	width:445px;
+}
+div.community .listing article .listright {
+    display: block;
+    float: left;
+    font-size: 1em;
+    font-weight: normal;
+    overflow: hidden;
+    width: 360px;
+}
+
+div.community .listing article .listleft {
+    display: block;
+    float: left;
+    overflow: hidden;
+	 width:85px;
+}
+div.community .listing article em {
+    display: block;
+    float: left;
+    font-style: normal;
+    width: 362px;
+}
+div.memberbox {
+	width:600px;
+	margin: 0 auto;
+    width: 648px;
+}
+div.box-info{
+	float:left;
+	width:100px;
+	margin-left: 20px;
+}
+div.th_class td{
+	text-align:center !important;
+}
+div.th_class .left{
+	padding-left:0px;
+}
+div.th_class a{
+	background: url("../images/agenda1.png") no-repeat scroll 3px 5px transparent;
+	padding:10px 9px 4px 8px;
+	color:#fff;
+	font-size:0.9em;
+}
+div.th_class a:hover{
+	background: url('../images/agenda2.png') no-repeat scroll 3px 5px transparent;
+}
+div.th_class{
+	font-size:11px;
+}
+div.community-profile-thumb{
+	overflow: hidden;
+	float:left;
+	padding-top: 1px;
+	width:48px;
+	height:105px;
+	padding
+}
+
+img.membertiny{
+	width:48px;
+}
+div.month {
+	font-size:11px;
+}
+header.calendar h3 {
+	font-size:16px;
+}
+div.myfriends {
+	clear:both;
+}
+div.myfriends div.register.content {
+	float:left;
+	width:150px;
+}
+.overlay{
+	display: none;
+	width: 265px;
+	height: auto;
+	background-color: white;
+	position: absolute;
+	margin-left: 105px;
+	border: 1px solid #CCC;
+	padding: 10px;
+	margin-top: 25px;
+}
+.showleft{
+	margin-left: -296px !important;
+	margin-top: 0 !important;
+}
+.overlay-left{
+	float:left;
+	margin-right:10px;
+	width: 150px;
+}
+.overlay-left h2{
+	font-size: 18px;
+	color:#356768;
+}
+.overlay-right{
+	float:right;
+}
+.overlay-button{
+	background-color: #356768;
+	color: #FFFFFF;
+	margin: 5px 5px 5px 0;
+	padding: 5px;
+	text-align: center;
+	width: 75px;
+}
+.overlay-button:hover{
+	background-color: #000;
+}
+.overlay-button a{
+	color:#fff;
+}
+.box-person{
+	background-color:#fff;
+}
+.overlaysepp{
+	width:10px;
+	height:120px;
+	float:left;
+}

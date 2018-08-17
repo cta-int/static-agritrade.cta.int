@@ -1,0 +1,369 @@
+/**
+ * Created by Contactivity, www.contactivity.com
+ * @project Agritrade website, redesign 2011
+ * @author Stephan Csorba <stephan@contactivity.com>
+ * @copyright Copyright (c) 2011, Contactivity bv, Leiden
+ * @license http://opensource.org/licenses/gpl-3.0.html GNU General Public License, version 3 (GPLv3)
+ * @version $Id: personal.css,v 1.0 2011-02-03 18:20:00
+*/
+
+/* REGISTER FORM */
+
+div.error_handling
+{
+	margin:0px;
+}
+
+div.register
+{
+	width:auto;
+}
+div.content{
+	margin-top:20px;
+	margin-left:15px;
+}
+div.register h1
+{
+	color: #356768;
+    font-size: 18px;
+}
+div.register h3
+{
+	color: #356768;
+    font-size: 18px;
+}
+div.register h4
+{
+	color: #356768;
+    font-size: 12px;
+    margin:5px;
+}
+div.register h3 span
+{
+	color: #356768;
+    margin:5px;
+    font-size:12px;
+}
+
+div.register h2
+{
+	color: #000;
+    margin-bottom:10px;
+    font-weight:bold;
+}
+div.register hr{
+	margin: 10px 0 0;
+}
+
+div.register .required{
+	margin-top:15px;
+}
+div.register .required span{
+	color:red;
+}
+div.register span .required{
+	color:red;
+}
+div.register .fm-left
+{
+	float: left;
+	margin: 5px;
+	text-align: left;
+	width: 130px;
+}
+
+div.register .fm-right
+{
+	float:left;
+	margin:5px;
+}
+.defaultbutton
+{
+	height: 23px !important;
+	margin-top: 6px !important;
+	padding-top: 2px !important;
+	width: 100px !important;
+}
+
+div.register .fm-right span
+{
+	padding:5px;
+}
+
+div.register .fm-right .box
+{
+	height: 100px;
+    width: 348px;
+    margin:0px;
+    padding:5px;
+}
+
+div.register .opt-left
+{
+	float:left;
+	width:20px;
+	margin: 5px;
+}
+
+div.register .opt-right
+{
+	float:left;
+	margin-top: 7px;
+}
+
+div.register .listLeft
+{
+	float:left;
+	width:170px;
+	margin: 5px;
+}
+
+div.register .listRight
+{
+	float:right;
+}
+div.register ul{
+	list-style:none;
+}
+div.register li{
+	list-style:none;
+}
+
+div.register input
+{
+	-moz-border-bottom-colors: none;
+	-moz-border-image: none;
+	-moz-border-left-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-top-colors: none;
+	background: url("../images/form_input_bg.gif") no-repeat scroll left top transparent;
+	border-color: #CFD0D2;
+	border-style: solid;
+	border-width: 0 1px 1px 0;
+	font-size: 12px;
+	height: 18px;
+	line-height: 23px;
+	padding: 5px 5px 0 5px;
+	vertical-align:middle;
+}
+div.register select
+{
+	-moz-border-bottom-colors: none;
+	-moz-border-image: none;
+	-moz-border-left-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-top-colors: none;
+	background: url("../images/form_input_bg.gif") no-repeat scroll left top transparent;
+	border-color: #CFD0D2;
+	border-style: solid;
+	border-width: 0 1px 1px 0;
+	font-size: 12px;
+	padding:0px;
+	padding-left:4px;
+	padding-top:4px;
+}
+div.register textarea
+{
+	-moz-border-bottom-colors: none;
+	-moz-border-image: none;
+	-moz-border-left-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-top-colors: none;
+	border-color: #CFD0D2;
+	border-style: solid;
+	font-size: 12px;
+	padding:0px;
+	padding-left:4px;
+	padding-top:4px;
+}
+div.register .button{
+	height: 23px;
+	margin-top: 6px;
+	padding-top: 2px;
+	width: auto;
+}
+div.reaction-buttons .button{
+	height: auto;
+	margin: 0;
+	padding: 0 0 0 5px;
+	width: auto;
+}
+div.register .reaction-submit{
+	height:auto;
+}
+
+div.register .ok{
+	margin-top:0px;
+}
+div.register .halfbox
+{
+	width:230px;
+}
+div.register .select_small
+{
+	width:auto;
+	vertical-align: bottom;
+}
+div.register .textarea
+{
+	width:auto;
+}
+div.intro {
+	width:90%;
+}
+div.tworows {
+	width:100%;
+	margin-top:5px;
+}
+div.tworows_left{
+	float:left;
+	width:auto;
+}
+/* ERROR HANDLING */
+
+.info, .success, .warning, .error, .validation {
+    border: 1px solid;
+    margin: 10px 0px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    padding: 15px 0;
+    text-align: center;
+}
+.info {
+    color: #000;
+    background-color: #fff;
+    border: 1px solid  #BDE5F8;
+}
+.success {
+	color: #000;
+	background-color: #fff;
+	border: 1px solid green;
+}
+.warning {
+	color: #000;
+	background-color: #fff;
+	border: 1px solid red;
+}
+.error {
+	color: #000;
+	background-color: #fff;
+	border: 1px solid red;
+}
+
+/* PROFILE */
+
+div.public_profile
+{
+	width:940px;
+}
+div.public_profile .public_left
+{
+	float:left;
+	text-align: left;
+ 	margin-right: 46px;
+ 	width: 120px;
+	margin-top:14px;
+}
+div.public_profile .public_left h3
+{
+	margin:0px;
+	margin-top:20px;
+}
+div.public_profile .noborder{
+    color: #000000;
+    font-size: 1.19em;
+    font-weight: bold;
+    line-height: 16px;
+    padding: 5px 0 7px;
+    text-align: left;
+    background:none !important;
+    border:none !important;
+ 	margin: 0 !important;
+}
+div.public_profile .public_left img
+{
+	margin-right:0px;
+	display:inline;
+	vertical-align: middle;
+}
+div.public_profile .public_left p
+{
+	margin-top:10px;
+	width: 20%;
+}
+
+div.public_profile .public_middle
+{
+	float:left;
+	width:620px;
+}
+
+div.public_profile .public_middle img
+{
+	display:inline;
+	vertical-align: middle;
+}
+div.community .block.buttons a.button
+{
+    color: #FFFFFF;
+    display: block;
+    font-weight: bold;
+    line-height: 24px;
+    padding-left: 5px;
+    text-decoration: none;
+    width: 113px;
+    margin-top:5px;
+}
+div.community .block.buttons a.button:hover {
+	color:#FB8E00;
+}
+
+
+div.public_profile .public_right
+{
+	float: left;
+	text-align: left;
+	margin-left: 20px;
+	width: 120px;
+	margin-top:10px;
+}
+
+div.public_profile .public_right img
+{
+	display:inline;
+	vertical-align: middle;
+}
+
+div.public_profile .public_right h3
+{
+	margin-top:0px;
+}
+
+div.public_profile .block {
+	margin:0px !important;
+}
+div.profile_text{
+	float:left;
+	width:57%;
+}
+div.twitter_box{
+	float:left;
+	width:43%;
+}
+#smc,hmtctl{
+	display:none !important;
+}
+div.blog_left {
+	float:left;
+	margin-right:10px;
+	margin-bottom:10px;
+}
+div.twtr-ft a{
+	display:none;
+}
+div.th_class td,caption{
+	padding:0px 0px 6px 0px;
+}
+div.th_class th{
+	padding:0 0 6px 3px;
+}

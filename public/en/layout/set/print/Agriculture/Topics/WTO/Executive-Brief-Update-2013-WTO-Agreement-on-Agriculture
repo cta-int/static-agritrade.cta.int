@@ -1,0 +1,296 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2013: WTO Agreement on Agriculture / WTO / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																										
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																																																																																			,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+							
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7812/(search)/simple">WTO</a>
+							
+																																																																																																																																																																																																																																																																																											
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2013: WTO Agreement on Agriculture</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/225143/2713289/file/2cd7635e8b5aa766e6e197c72f4fd5d5.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+												27 November 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc2713256_0_1" id="eztoc2713256_0_1"></a><h3>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Background and key issues</h3><p>During 2012-13, while the overall process of the World Trade Organization (WTO) trade negotiations remained stalled, a range of agricultural proposals were nonetheless tabled, aimed at providing momentum to break the deadlock prior to the December 2013 WTO Ministerial Meeting in Bali. Once again, debate emerged on the scope for agreement on a limited range of measures, short of a comprehensive single undertaking agreement (a so-called mini-package).</p><p>In addition, a number of developments took place in 2012–13 which link to areas of ACP concern in the WTO context. These relate primarily to:</p>
+<ul>
+
+<li>the impact of domestic support measures on trade outcomes; </li>
+
+<li>the continued use of various forms of export support; </li>
+
+<li>ongoing concerns over development in market access, including processes of preference erosion; </li>
+
+<li>heightened global food price volatility and rising food prices; and </li>
+
+<li>cotton issues.</li>
+
+</ul>
+<p>The area of most significant developments in 2012 related to the trade consequences of all forms of public assistance to the agro-food sector. The main developments in 2012 in this regard included:</p>
+<ul>
+
+<li>the growing influence of Chinese policies on global cotton markets; </li>
+
+<li>the trade impact of fiscal measures in the United States on support to rum producers in US overseas territories; </li>
+
+<li>moves by the South African authorities towards the full exploitation of bound tariff ceilings in support of agro-food sector development. </li>
+
+</ul>
+<p>Developments in South Africa can be seen as indicative of a wider ACP country trend towards the gradual increase in average applied tariffs in the food and agricultural sector, as part of efforts to stimulate agro-food sector development in ACP countries in response to rising food prices.</p><p>Developments in 2012–13 also demonstrated the decline in the significance of what have been seen as the most trade-distorting forms of agricultural support, namely export subsidies. However, in the case of the EU this is intimately linked to the shift to increased direct aid payment support, which allows the gap between EU and world market prices to be narrowed, without undermining total farm incomes. This process has been greatly assisted by rising global food prices. This has allowed a new equilibrium to be established for EU agro-food sector engagement with the global economy, on the basis of WTO-compatible systems of decoupled direct aid payments.</p><p>Despite the rolling out of the EU banana accompanying measures programme agreed in 2009 as part of the Geneva Agreement on Trade in Bananas (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Bananas/Banana-deal-struck" target="_self">Banana deal struck</a>’, 31 December 2009), the growing budgetary constraints in the EU are likely to constrain the further extension of this kind of EU support in response to WTO-related processes of preference erosion.</p><p>As in previous years, the WTO undertook various trade policy reviews, some of which covered ACP countries. These identified a number of trends in the regions covered.</p><p>While the debate continued on the need for WTO initiatives to address price volatility and food security concerns, a marked preference for dealing with these issues outside the WTO context was apparent: the G20 meeting in 2011 was seen as having set a range of policy initiatives in train to try to get to grips with these issues.</p><a name="eztoc2713256_0_2" id="eztoc2713256_0_2"></a><h3>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Latest developments</h3><p><b>2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stalled agricultural negotiations but new proposals tabled</b></p><p>During the second half of 2012, a number of new proposals were tabled and discussed. Proposals tabled by the G20 sought “early agreement on tighter disciplines for administering tariff-rate quotas”, since current procedures were seen as too cumbersome and as inhibiting effective market access. These proposals focused on improving information sharing and monitoring quota fulfilment. The WTO secretariat was asked to “compile information on the use of tariff quotas and on export competition”, including not only formal export support measures but also all forms of cotton sector subsidies. It was considered that these proposals could potentially attract consensus support.</p><p>Proposals tabled by the G33 called for consideration to be given to special treatment for “domestic support disciplines in order to enhance food security by supporting poor farmers”. This sought to move certain types of support from the ‘amber box’ to the ‘green box’, thereby allowing developing country governments greater scope to purchase commodities from small farmers at favourable prices for subsequent stockpiling. Concerns were expressed that these G33 proposals ran counter to “reforms aimed at moving towards less trade-distorting forms of farm support”. It was considered that the proposal could “open up the way to market price support in the green box”. As such, in some quarters it was felt that the G33 proposal could potentially “derail the whole build-up” to the Bali WTO Ministerial Meeting.</p><p>The G10 for its part requested a WTO secretariat paper on export restrictions.</p><p>Against the background of these proposals, it was agreed that the WTO secretariat should “compile factual information on tariff quotas, export competition and export prohibitions and restrictions”. The work on tariff-rate quotas (TRQs) was completed in December 2012 and released to WTO members, and the report on export competition has been completed. However, concerns were expressed that early agreement in some areas “could upset the balance built up in the current overall drafts in agriculture and the Doha Round as a whole”, thereby reducing prospects for a mini-deal at the Bali Ministerial meeting.</p><p>The debate around the G33 proposals cannot be entirely divorced from the ongoing processes of agricultural policy reform in the EU and the US (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/CAP-reform/Developing-country-impact-ignored-in-major-OECD-agricultural-reforms" target="_self">Developing country impact ignored in major OECD agricultural reforms</a>’, 21 January 2013). If during the current domestic agricultural policy discussions the US and EU are seen as unresponsive to developing country concerns over the underlying trade-distorting nature of comprehensive systems of farm support, this could well see large developing countries insisting on similar rights and privileges designed with their administrative capacity constraints in mind.</p><p><b>2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Progress on priority issues of concern to the ACP</b></p><p>On 24 October 2012, the WTO Director-General addressed ACP ministers, setting out issues of practical importance to the ACP where early delivery of results was possible. Issues identified in this regard included:</p>
+<ul>
+
+<li>trade facilitation; </li>
+
+<li>strengthening engagement with global value chains; </li>
+
+<li>‘aid for trade’; </li>
+
+<li>regional integration; </li>
+
+<li>non-tariff measures. </li>
+
+</ul>
+<p>However, critical questions have been raised as to the balance of benefits for developing countries from the WTO’s current approach to these issues. For example, it has been argued that the trade facilitation measures being advanced primarily benefit developed rather than developing country exporters, while it is maintained that the focus on value chains is simply a further avenue for pressurising developing countries to liberalise.</p><p>On ‘aid for trade’ issues, analysis from SciencesPo – the Institut d’Études Politiques de Paris – has highlighted how the WTO secretariat has little scope for influencing ‘aid for trade’ outcomes, with no policy initiatives so far having been taken to increase coherence between trade policy, aid policy and development policy. It was also argued that the ‘aid for trade’ initiative has “grown increasingly delinked from the Doha Round”, with ‘aid for trade’ support “slipping off donors’ priorities list”.</p><p>In terms of regional integration, analysis from the International Centre for Trade and Sustainable Development (ICTSD) has pointed out that no initiatives have been forthcoming in the WTO to reconcile the application of the Economic Community of West African States’ (ECOWAS’s) common external tariff commitments with inconsistencies in some member states’ bound tariff commitments. This could leave the affected countries vulnerable to compensatory market access claims from WTO members.</p><p>More fundamentally, questions have been raised as to whether the current trajectory for WTO negotiations actually assists ACP governments in enhancing their production and export capacities in ways that enlarge the retained share of global wealth of ACP countries and nationals. This is seen as a critical issue for the ACP, and one of the principal motivations behind engaging with global and inter-regional trade negotiations.</p><p>In addition, it is unclear whether substantive progress is likely in areas identified as being of critical symbolic importance to the ACP, namely cotton issues. On 6 December 2012, the Chair of the ‘Framework mechanism for cotton’ said there was little to report on cotton-related negotiations since his previous report of little progress subsequent to the April 2011 Easter package of proposals.</p><p>There also emerged in the course of 2012 growing unease over wider developments impinging on issues of concern to ACP governments in the WTO.</p><p><b>2.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some wider developments affecting WTO agreement on agriculture discussions</b></p><p>In the course of 2012, concerns grew over the impact on Caribbean rum exporters of the use of US tax breaks to support rum sector investment in the US Virgin Islands (USVI) and Puerto Rico. It was that feared these revenues were being used “to subsidise rum production and marketing”, including through subsidies for the construction of new facilities and molasses procurement (reducing average costs to US$20/tonne, compared to the US$200/tonne paid by CARICOM rum producers). It was feared that these support measures would squeeze Caribbean rum producers out of US bulk rum markets, which remain the bedrock of the Caribbean rum industry, despite the expansion of quality-differentiated own-brand bottled rum production under the ‘Authentic Caribbean Rum’ quality label. (See <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Rum/Caribbean-rum-sector-facing-serious-challenges-in-US-and-EU-markets" target="_self">Caribbean rum sector facing serious challenges in US and EU markets</a>’, 16 December 2012).</p><p>According to the Geneva-based Advisory Centre on WTO Law (ACWL), “CARIFORUM countries have a solid case for the US government to answer” under the terms of the Subsidies and Countervailing Measures Agreement, since current rum incentives “cause adverse effects in the form of ‘serious prejudice’ to the interests of other WTO members”. Two other legal opinions have supported this view.</p><p>In May 2013, CARICOM ministers formally agreed to take the issue of the use of US subsidies to rum producers in the US Caribbean territories to WTO dispute settlement. This followed the January 2013 US Congressional agreement to avert the ‘fiscal cliff’, which included provisions for a further 2-year extension of these controversial excise tax measures. Despite this step the CARICOM Council for Trade and Economic Development (COTED) stressed “the need for an amicable solution to the dispute with the United States”.</p><p>On 2 December 2008, the WTO Director-General described cotton issues as the “litmus test” for the development commitment in the Doha Round. According to the International Cotton Advisory Committee, “cotton prices peaked in the 2010/11 season at over $2 per pound”, but then fell back below the US$1/lb mark in the 2011/12 season to end in June 2012 “not far above the 60 c/lb average for 2000–2009”. There are profound concerns in the ACP that, with cotton prices having fallen so dramatically, cotton subsidies will once again rise.</p><p>Against this background, in June 2012, with the support of the ACP, the C4 group of African cotton-producing countries – Benin, Burkina Faso, Chad and Mali – intensified their lobbying efforts to secure substantive progress on reduction and abolition of cotton subsidies. In June 2012, an ACP Council of Ministers resolution called for:</p>
+<ul>
+
+<li>WTO members “to ensure that cotton is treated as a priority and included in any intermediate WTO agreement on modalities”;</li>
+
+<li>The US authorities to “seize the opportunity of the Farm Bill reform to bring the cotton support granted to their farmers into complete conformity with WTO rules and to refrain from adopting any measures which could cause even further distortion on the international cotton market”; </li>
+
+<li>the EU to “ensure ambitious treatment for cotton by applying 100% decoupling of support for European cotton producers”.</li>
+
+</ul>
+<p>The timing of these initiatives was seen as critical, in view of the intensification of discussions on the US Farm Bill and CAP reform at a time of intense budgetary pressures on policy makers. However, by early 2013 it was apparent that little substantive movement was likely on existing structures of cotton support in either the US or the EU.</p><p>Indeed the issue of cotton subsides was seen as becoming more complex, as analysts highlighted the growing impact of domestic price support schemes and government purchasing in China and India on global cotton market price trends. According to a study published in September 2011 by the US consultancy bureau DTB Associates, price support for cotton in 2010/11 was higher in India, China and Brazil than in the US) (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cotton/WTO-cotton-discussions-little-progress-growing-concerns" target="_self">WTO cotton discussions: Little progress, growing concerns</a>’, 12 August 2012). The policies being pursued by China and India were seen as contributing to “a lack of a production response to huge supplies” and declining prices. The Chinese government stockpiling policy in particular was seen as having both important direct effects (moderating price declines in a context of “the largest ever period of oversupply”) and indirect effects (overhanging future price developments and distorting sourcing decisions of Chinese cotton users). Chinese cotton policy is seen as increasingly critical to the world cotton market price dynamic (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cotton/Chinese-stock-levels-place-limits-on-cotton-price-recovery-in-2013" target="_self">Chinese stocks levels place limits on cotton price recovery in 2013</a>’, 25 March 2013).</p><p>These trends reinforce the US contention that the issue of US cotton sector support cannot be addressed in isolation from the cotton sector support measures pursued in China, India and Brazil.</p><p>The impasse on disciplining domestic support to cotton production saw the WTO in June 2012 highlighting the levels of development assistance provided to cotton producers in Africa. According to WTO Deputy Director-General Harsha Singh, “South–South cooperation has emerged as a key aspect of the implementation of the mandate on the development assistance aspects of cotton.” Brazil, China, India and Pakistan have all made significant contributions in this regard. Recipients of this assistance, however, highlighted “the gap between the assistance that has been committed and the aid actually delivered”.</p><p>In the course of 2012, a series of developments took place in the South African poultry trade regime which may highlight an important emerging trend towards greater use of tariffs within bound ceilings in support of specific agro-food sector development initiatives. In February 2012, the South African authorities imposed interim anti-dumping duties of 62.93% and 46.59% respectively on imports of whole chickens and boneless cuts from Brazil. In response, the Brazilian government launched a dispute settlement case in the WTO. The US poultry industry, which has faced long-standing South African anti-dumping duties, urged the US government to join the Brazilian case (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Poultry/US-urged-to-join-Brazilian-WTO-challenge-to-South-African-poultry-tariffs" target="_self">US urged to join Brazilian WTO challenge to South African poultry tariffs</a>’, 12 August 2012).</p><p>In December 2012, however, the South African government rejected a recommendation from its International Trade Administration Commission (ITAC) to maintain the anti-dumping duties. The South African Minister of Trade and Industry maintained that a more comprehensive strategy was required for the poultry sector, including increasing tariffs within the bound ceiling. This is in line with the broader South African government policy thrust towards using tariff increases within bound limits on a case-by-case basis to support industrial development. Tariff increases within bound limits had already been recommended for processed tomatoes and uncooked pasta, alongside similar measures for a range of non-agro-food products. &nbsp;</p><p>This can be taken as indicative of a trend within the ACP of governments making far greater use of the ‘water’ within their bound tariff commitments (the ‘water’ here refers to the difference between applied tariffs and the bound tariff ceiling). For example, the Jamaican government is selectively increasing tariffs in support of its new ‘agro-parks’ initiative (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Horticulture/Jamaica-s-agro-parks-food-initiative" target="_self">Jamaica’s “agro-parks” food initiative</a>’, 21 January 2013). Such moves, while in line with both WTO rules and the practices of other major WTO players such as the EU (which varies applied tariffs for cereals within its bound ceilings in the light of global cereals prices), could meet with resistance from some WTO members and further complicate efforts to conclude the Doha Round negotiations.</p><p>A further major trend in 2012–13 was the decline in the use by the EU of traditional trade-distorting forms of support such as export subsidies. While in 2011 just under €170.5 million was deployed in the form of export subsidies, by 2012 the appropriation had fallen to €141 million, while the budget allocation for 2013 was only €87 million. This represents a planned decline in the use of export refunds of 49%. If poultry meat export refunds are excluded, the decline is even more dramatic – a decline of fully 88.6% in the use of export refunds outside the poultry meat sector.</p><p>This suggests that the EU’s deployment of export refunds, outside the poultry sector, is very much an issue of the past. However, it should be noted that the EU retains the right to make use of such tools should market developments so require, using allocations from the proposed expanded emergency reserve.</p><p>This decline in the use of export refunds is closely linked to the expansion of EU direct aid programmes. This is seeing a new equilibrium established for EU agro-food sector engagement with the global economy on the basis of the new comprehensive system of direct aid payments and the evolving ‘safety net’ policy of the EU. (For more details see the <i>Agritrade</i> Special Reports: ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/CAP-reform/Special-report-The-EU-s-agricultural-policy-toolbox-A-sector-by-sector-review" target="_self">The EU’s agricultural policy toolbox: A sector-by-sector review</a>’, 13 December 2011 and ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/Special-report-Future-CAP-financing-for-2014-2020-Implications-for-the-ACP" target="_self">Future CAP financing for 2014–2020: Implications for the ACP</a>’, 13 December 2011.)</p><p>From an ACP perspective, issues of distortions of competition between EU and ACP suppliers thus arise not from the use of direct export subsidies, but as a result of the production and trade effects of systems of direct aid payments that are compatible with existing WTO rules on ‘green box’ payments.</p><p><b>2.4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WTO Trade Policy Reviews of ACP countries in 2012–13</b></p><p>During 2012–13, the WTO undertook trade policy reviews of the East African Community (EAC) – Kenya, Uganda, Tanzania, Rwanda and Burundi, and the West African Economic and Monetary Union (WAEMU, also known as UEMOA) member states of Guinea Bissau, Togo and Côte d’Ivoire.</p><p>In the case of the EAC, at the policy level the review noted incomplete implementation of EAC trade policy commitments on the free movement of goods, observing that non-tariff barriers (NTBs) were “major impediments to trade and business development”. This is consistent with the overall global trend towards the enhanced significance of NTBs to patterns of trade, and can be seen as the reverse side of the coin of successful tariff elimination processes.</p><p>In terms of external trade, the WTO secretariat noted that agricultural products are heavily represented in the countries’ sensitive products lists to which higher tariffs are applied. In this context it also noted a gradual increase in average agricultural tariffs as governments make more use of the ‘water’ within their bound tariff ceilings to support local agro-food sector development. Linked to these observations, the extent of exceptions and waivers to the EAC common external tariff was also noted (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/WTO/Regional-agricultural-aspects-of-the-East-African-Community-WTO-trade-policy-review" target="_self">Regional agricultural aspects of the East African Community WTO trade po...</a>’, 21 January 2013).</p><p>In the West African countries reviewed, the WTO secretariat noted how, in response to rising global food prices, governments have been suspending import duties and VAT on basic food products. However, the WTO secretariat maintained that the exclusion of agricultural products from VAT and/or general sales tax “causes distortions in the trade in competing imported products and problems of national treatment” (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/WTO/Agricultural-dimensions-of-the-WTO-trade-policy-review-for-Guinea-Bissau-Togo-and-Cote-d-Ivoire" target="_self">Agricultural dimensions of the WTO trade policy review for Guinea Bissau...</a>’, 27 August 2012).</p><p>The report observed in the case of Côte d’Ivoire that a more proactive government engagement in the cocoa sector was under way, with a new policy framework being set in place that includes the use of measures such as export taxes. The use of export taxes and export pricing policies in other West African countries reviewed was also noted. In this context it should be noted that a number of WTO members have been pressing for the establishment of new disciplines on the use of export taxes and other forms of export restraints.</p><p>In terms of external trade, the WTO secretariat noted how, after the establishment of a WAEMU common external tariff, the tariff rates applied by some members exceeded the nationally agreed bound tariff rates. The WTO secretariat also noted the application of a highly varied range of additional taxes and levies by WAEMU members.</p><p>Similar problems are faced in ECOWAS, where “the application of the ECOWAS common external tariff… would be a problem with regard to respecting the individual commitments undertaken by the group’s members at the multilateral level.” In the absence of such a waiver, newly established regional trade groups could face claims for compensatory market access concessions from exporting countries adversely affected by the required tariff increases.</p><p><b>2.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institutional developments in the WTO impacting on ACP countries</b></p><p>In July 2012, WTO members endorsed new rules on the accession of LDCs. Under the new rules, “the WTO’s 155 existing members promise to show restraint in the demands they make on the poorest candidate countries and to allow them flexibility in applying the WTO’s rules.” In the past, in order to accede to the WTO, governments not only had to bring their trade-related rules into line with WTO rules but also had to meet the demands of every existing member.</p><p>Reports suggest that “under the new rules, LDCs hoping to join will not be asked to cut the average ‘bound tariff’… for agricultural goods… below 50%”. These new rules are seen as responding to long-standing complaints from LDC governments that “trading partners routinely ask them to take on commitments beyond what they are capable of during their bidding process to join the WTO.” The new rules set out operational benchmarks for applying a decision on LDC accession taken in 2002. However, the new rules leave unresolved the issue of the treatment of LDCs that have recently acceded under far stricter conditions, such as Samoa and Vanuatu (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/WTO/New-WTO-rules-could-ease-LDC-accession" target="_self">New WTO rules could ease LDC accession</a>’, 16 September 2012).</p><p>In November 2012, the WTO launched a new web portal on trade in goods and services. This can be seen as complementary to existing databases coordinated by the International Trade Centre (ITC), which are free to users based in developing countries. Taken together, these sources could help assist ACP officials in analysing agricultural trade flows and agricultural trade barriers and identifying opportunities within the rapidly changing global agricultural trading system. However, the issue of institutional and human resource capacity constraints on the use of such tools in smaller ACP economies will continue to exist (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/WTO/New-WTO-trade-and-market-access-tool-launched" target="_self">New WTO trade and market access tool launched</a>’, 27 January 2013).</p><p><b>2.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The debate around price volatility and food security</b></p><p>In the context of rising food prices, issues of price volatility and food security have become a matter of growing concern to many ACP governments. This includes promoting in the WTO an appropriate policy framework for dealing with these issues. This is seen as important, since rising prices and volatility are seen as being linked to Uruguay Round reforms. According to analysis posted by ICTSD, the Uruguay Round reforms both reduced structural surpluses in rich countries and subsidised exports and food aid from rich countries (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/WTO/WTO-rules-and-food-insecurity-in-perspective" target="_self">WTO rules and food insecurity in perspective</a>’, 29 July 2012).</p><p>However, according to this analysis current WTO rules do not inhibit the policy response of affected countries or concerted international action in response to rising and volatile food prices. While a range of possible policy responses are identified, the conventional use of trade policy tools such as tariff measures and export restrictions is largely dismissed. Emphasis instead is placed on building up domestic stocks, and reducing the high transaction costs for intra-regional trade, with complementary actions by the international community involving focusing food aid on emergency situations, addressing liquidity constraints on importing developing countries and rationalising biofuel policies.</p><p>While the ICTSD paper in no way reflected official positions in the WTO, it did highlight the clear limitations on developing an effective WTO response to ACP concerns over rising and volatile food prices. Many WTO members frown on the active use of tariffs and import and export restrictions in response to price volatility. Indeed, in February 2012 the WTO Director General explicitly condemned “starve-thy-neighbour food export restrictions”, maintaining that such restrictions had exacerbated the 2008 food price crisis (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Topics/WTO/Director-General-of-WTO-criticises-export-restrictions" target="_self">Director-General of WTO criticises export restrictions</a>’, 31 March 2012).</p><p>Against this background, the policy response to rising and volatile prices is shifting to initiatives such as those launched in the context of the G20 Agricultural Ministers’ initiative (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/General/G20-agriculture-ministers-agreed-on-action-plan-on-high-food-prices" target="_self">G20 agriculture ministers agreed on action plan on high food prices</a>’, 27 July 2011) including:</p>
+<ul>
+
+<li>commitments in support of food reserves;</li>
+
+<li>the creation of instruments to hedge against price volatility, notably the Agricultural Price Risk Management Tool; and</li>
+
+<li>the establishment of an early warning system, the Agricultural Market Information Systems (AMIS – see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/General/G20-commitments-on-food-security-to-be-put-to-the-test" target="_self">G20 commitments on food security to be put to the test?</a>’, 23 September 2012).</li>
+
+</ul>
+<p>In November 2012, in the face of the prospect of another food price spike and following a drought-affected US harvest, it was claimed that the AMIS mechanism had worked to calm markets, primarily through not convening the Rapid Response Forum established by the G20. This, it was maintained, avoided sending “the wrong signals concerning the gravity of the situation”, helped avert panic and prevented “the worst drought in decades” from “turning into a food price crisis” (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Early-success-claimed-for-G20-AMIS-initiative-and-international-coordination" target="_self">Early success claimed for G20 AMIS initiative and international coordina...</a>’, 18 February 2013). The case seems to be that by bringing greater transparency to the actual supply and demand situation, AMIS moderates speculative pressures and hence reduces price spikes.</p><p>The main forums for international action on food price volatility therefore appear to lie outside the WTO context.</p><a name="eztoc2713256_0_3" id="eztoc2713256_0_3"></a><h3>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implications for the ACP</h3><p><b>3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New proposals and issues arising for the ACP</b></p><p>From the perspective of ACP countries, given their duty-free, quota-free access to the EU market, the debate on improving management of TRQs may serve to intensify competition in some specific market components. Some ACP governments may, however, gain from improvements in TRQ management for non-EU markets.</p><p>Tighter disciplines on export restrictions could also serve to constrain the policy space of some ACP governments that use export restrictions on primary products to promote local value-added processing (e.g. the Kenyan and Tanzanian governments’ use of export taxes in the hides and skins and cashew nut sectors).</p><p>ACP governments are likely to face financial constraints on increasing support to food security measures under the proposed new rules. As such, any new rules that may be adopted in this area are likely to primarily benefit larger non-ACP developing countries. In some instances this could carry implications for the functioning of global markets in the affected sectors.</p><p><b>3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wider constraints on the use of WTO mechanisms</b></p><p>The earlier reluctance of Caribbean governments to take the US rum subsidies case to a WTO dispute panel is indicative of the influence of economic power imbalances on the ability of small and vulnerable economies to fully utilise available WTO mechanisms. Considerations linked to wider trade and economic relations with the US (including the pending application of new US food safety standards and the challenges faced across the region in attaining full compliance), alongside statements from Diageo that any such Caribbean government action could lead to a re-evaluation of its investment strategy in the Caribbean (see <i>Agritrade</i> article, ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Rum/Caribbean-rum-sector-facing-serious-challenges-in-US-and-EU-markets" target="_self">Caribbean rum sector facing serious challenges in US and EU markets</a>’, 16 December 2012), appear to have been weighing on the minds of CARICOM policy makers.</p><p>How the WTO secretariat and wider WTO system assist governments of small and vulnerable economies in fully utilising available trade mechanisms to resolve disputes related to the provision of potentially illegal subsidies can be taken as a litmus test of the practical value of a rules-based trading system for ACP economies and the need for its further strengthening.</p><p><b>3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Export subsidies: Yesterday’s issue?</b></p><p>While export subsidies and intervention buying are no longer central to EU market management arrangements, the EC’s proposed expanded safety net policy could see these measures used in a highly targeted and effective manner in response to particular market crisis situations. This more targeted use of such measures would occur well within WTO ceilings, but could have important implications in affected sectors.</p><p>This suggests a need for a targeted dialogue on managing the external effects of any expanded EU safety net policy (for more details on the EU’s evolving safety net policy see <i>Agritrade</i> ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/CAP-reform/Executive-Brief-Update-2012-CAP-reform" target="_self">Executive Brief Update: CAP reform</a>’, June 2012). However, given the impasse in the WTO, this may require the establishment of new mechanisms outside the WTO framework.</p><p><b>3.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Growing complexity of cotton sector issues</b></p><p>Developments on cotton markets in 2012–13, including the growing influence of Chinese and Indian cotton policies on global markets, have complicated efforts to freeze trade-distorting support in the cotton sector in the US and EU at the historically low levels of support existing when cotton prices peaked at $2/lb in the 2010/11 season. The critical litmus test of the development dimension of the Doha Round thus looks no nearer resolution than it did at the 2005 Hong Kong WTO Ministerial meeting.</p><p>An ACP political initiative to draw China, India and Brazil more substantively into discussions on disciplining all forms of cotton support programmes could help break the impasse on cotton issues and reduce the growing disillusionment with the Doha process in a number of ACP countries.</p><p><b>3.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WTO rules and ACP regional integration</b></p><p>A case can be made for the granting to ACP countries involved in regional integration initiatives of a special regional integration waiver, which would permit the raising of tariffs above bound levels within the context of regional trade integration initiatives, without requiring compensatory market access to be granted. This could help facilitate regional tariff harmonisation processes in some ACP regions.</p><p><b>3.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New rules for LDCs</b></p><p>Given the broader impasse in the WTO negotiations, the significance of the new WTO accession rules may prove to be primarily symbolic. Critical details related to individual accession processes will still need to be hammered out in membership negotiations, where LDC applicants have been subject to demands just as rigorous and inflexible as those imposed on more developed states. At the substantive level, therefore, new LDC applicants will still need to satisfy the demands of any existing WTO member that wishes to make a demand. The actual benefits will depend on the self-restraint exercised by existing WTO members. This highlights how difficult it is to make progress on relatively simple procedural issues potentially of benefit to LDCs.</p><a name="eztoc2713256_0_4" id="eztoc2713256_0_4"></a><h3>Main sources</h3><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WTO, ‘Chair reports no “no” but also no “yes” for farm talks proposal’, 16 November 2012</p><p>
+<a href="http://www.wto.org/english/news_e/news12_e/agng_16nov12_e.htm" target="_self">http://www.wto.org/english/news_e/news12_e/agng_16nov12_e.htm</a>&nbsp;</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Centre for Trade and Sustainable Development (ICTSD), ‘Developing countries table food security proposal at WTO’, <i>Bridges Weekly Trade News Digest</i>, Volume 16, Number 39, 14 November 2012</p><p>
+<a href="http://ictsd.org/i/news/bridgesweekly/149960/" target="_self">http://ictsd.org/i/news/bridgesweekly/149960/</a></p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ICTSD, ‘Cautious welcome for farm trade proposals at WTO’, <i>Bridges Weekly Trade News Digest</i>, Volume 16, Number 40, 21 November 2012</p><p>
+<a href="http://ictsd.org/i/news/bridgesweekly/150304/ " target="_self">http://ictsd.org/i/news/bridgesweekly/150304/</a></p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WTO News, ‘Lamy cites ACP’s “instrumental role” in moving the trade debate forward’, 24 October 2012</p><p>
+<a href="http://www.wto.org/english/news_e/sppl_e/sppl256_e.htm" target="_self">http://www.wto.org/english/news_e/sppl_e/sppl256_e.htm</a></p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC, ‘Proposals for a regulation of the European Parliament and of the Council concerning the exercise of the Union’s rights for the application and enforcement of international trade rules’, (COM) 2012 773 final, 18 December 2012</p><p>
+<a href="http://trade.ec.europa.eu/doclib/docs/2012/december/tradoc_150170.pdf  " target="_self">http://trade.ec.europa.eu/doclib/docs/2012/december/tradoc_150170.pdf</a></p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ICTSD, ‘West Africa’s common external tariff and individual WTO commitments of ECOWAS members’, 24 October 2012</p><p>
+<a href="http://ictsd.org/i/competitiveness/148171/" target="_self">http://ictsd.org/i/competitiveness/148171/</a></p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WTO, ‘Members work on improving quantity and quality of aid for cotton’, 6 December 2012</p><p>
+<a href="http://www.wto.org/english/news_e/news12_e/cdac_06dec12_e.htm " target="_self">http://www.wto.org/english/news_e/news12_e/cdac_06dec12_e.htm</a></p><p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACP, ‘Decisions and resolutions of the 95th session of the ACP Council of Ministers held in Port Vila (Vanuatu) from 10th to 15th June 2012’, Cotton (page 16 of PDF), ACP/25/006/12 final version, 13 June 2012</p><p>
+<a href="http://www.acp.int/sites/acpsec.waw.be/files/ACP25006%2012%20ENG.pdf" target="_self">http://www.acp.int/sites/acpsec.waw.be/files/ACP25006%2012%20ENG.pdf</a></p><p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ICTSD, ‘Trade policy responses to food price volatility in poor net food-importing countries’, by P. Konandreas, <i>Issue Paper</i> No. 42, June 2012</p><p>
+<a href="http://ictsd.org/i/publications/134356/" target="_self">http://ictsd.org/i/publications/134356/</a></p><p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; South Centre, ‘The WTO impasse and the possible roads ahead – a development perspective’, undated</p><p>
+<a href="http://www.other-news.info/2012/11/the-wto-impasse-and-the-possible-roads-ahead-a-development-perspective/" target="_self">http://www.other-news.info/2012/11/the-wto-impasse-and-the-possible-road...</a></p><p><b>About this update</b></p><p>This brief was updated in September 2013 to reflect developments since June 2012. Other publications in this series and additional resources on ACP–EU agriculture and fisheries trade issues can be found online at&nbsp;
+<a href="http://agritrade.cta.int/" target="_self">http://agritrade.cta.int/</a>.</p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Executive-Brief-Update-2013-WTO-Agreement-on-Agriculture">Executive Brief Update 2013: WTO Agreement on Agriculture</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/WTO-agreement-on-agriculture-Implications-for-the-ACP">WTO agreement on agriculture: Implications for the ACP</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":136,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

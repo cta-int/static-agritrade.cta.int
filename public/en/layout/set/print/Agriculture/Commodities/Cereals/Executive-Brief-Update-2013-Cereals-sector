@@ -1,0 +1,406 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2013: Cereals sector / Cereals / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+																																																																																																																																																																																																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7893/(search)/simple">Cereals</a>
+							
+																																									
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2013: Cereals sector</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/233825/2808203/file/b844f9d93452e6835fe292bae72beaa7.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+												16 December 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc2808170_0_1" id="eztoc2808170_0_1"></a><h3>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Background and key issues</h3><p>High and volatile cereal prices remain a major concern to ACP governments, even in regions where the correlation between global and local prices is weak. This is generating a growing focus on improving national food self-sufficiency: producing more of what the nation consumes and consuming more of what the nation produces. High prices affect both access to basic staples and the competitiveness of commercial livestock (largely poultry) production.</p><p>Measures to enhance national food production can run counter to both intra-regional and inter-regional trade policy commitments. National policy measures can compound existing infrastructure constraints on efficient production, storage, distribution and processing of cereals products for regional markets. Divergent national standards, concerns over standards enforcement, a lack of transparency in regional cereals trade arrangements and non-transparent application of regional trade agreements (e.g. corruption at border posts) can all further impede the development of intra-regional trade in cereals.</p><p>Taken together, these factors can contribute to an extra-regional orientation to cereals procurement and marketing, and undermine the building of intra-regional cereals supply chains.</p><p>Although efforts continue to overcome these constraints, a major challenge is faced in reconciling diverse national policy initiatives with regional cereals market integration efforts.</p><p>At the EU level, a managed trade regime is maintained in the cereals sector, designed to protect internal EU markets from lower-priced world market competition. While the structure of EU support payments has been transformed since 1992, the nominal value of support per hectare for EU cereal farmers remains largely unchanged. Policy reforms have generated a greater market orientation and equipped EU producers to take advantage of rising global demand.</p><p>EU biofuel policies have had an impact on the relative commercial attractiveness of cereals and oil crops to EU farmers. In this context any changes to EU biofuel policies could influence farmers’ sowing decisions. EU biofuel policies, however, are of far less global significance in the cereals sector than those of the US.</p><p>Overall the EU continues to operate a policy framework that sustains EU cereals production at higher levels than would otherwise be the case. This, in an era of rising global prices, may help reduce global price pressures.</p><a name="eztoc2808170_0_2" id="eztoc2808170_0_2"></a><h3>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Latest developments</h3><p><b>2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Global cereals sector developments</b></p><p>Maize prices rose sharply in the middle of 2012, increasing by 24.6% between June and July on the back of a severe drought in the USA. From August 2012 prices began to fall, and by March 2013 were on a par with those of March 2012. Subsequently price falls have been followed by a price recovery, but on an overall downward trend.</p><p>From June to November 2012 average monthly wheat prices rose by 39%, before falling some 14% in the period to February 2013. This, nevertheless, left prices in February 2013 some 26% above February 2012 price levels. Since February 2013, wheat prices have continued to fall, and this trend is projected to continue throughout 2013 following a 2% increase in sowings. Wheat prices will, however, remain at historically high levels, as wheat inventories fall “to their lowest levels since 2007–08” (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Prospects-for-wheat-prices-in-2013" target="_self">Prospects for wheat prices in 2013</a>’, 24 February 2013). For major cereals, price volatility will therefore continue to occur around elevated price levels.</p><p>While coordination through the G20 Agricultural Market Information System (AMIS) appears to have reduced panic responses to weather-induced shortfalls, curbing price increases (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Early-success-claimed-for-G20-AMIS-initiative-and-international-coordination" target="_self">Early success claimed for G20 AMIS initiative and international coordina...</a>’, 18&nbsp;February 2013), average price levels from July 2012 to February 2013 still exceeded the peak prices recorded in June 2008.</p><p>High price levels in 2012 were reported to have contributed to a process of “demand destruction” in some market components, with an 11.8% decline of cereals use in the US biofuel sector in 2012. Nevertheless, Rabobank maintains that 2013–14 will still witness the “largest ever year-on-year increase in world corn demand”, which will leave the global stocks-to-use ratio “substantially below the 10-year average of 17.2%, with little prospect of recovery” (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Prospects-for-maize-prices-in-2013" target="_self">Prospects for maize prices in 2013</a>’, 18&nbsp;March 2013).</p><p>This carries important implications for ACP countries that remain vulnerable to global price shocks. According to the UN’s Food and Agriculture Organization (FAO), since 2002, 12 further ACP countries have shifted from being net food exporters to net food importers.</p><p>High wheat prices are likely to heavily affect major wheat importing ACP countries, such as Nigeria, giving added importance to cassava flour blending policies. Initiatives to promote the use of cassava flour appear to be gaining momentum in smaller ACP states as well, with trials to test possible uses of cassava flour in bakery products scheduled in Barbados.</p><p>Overall, Rabobank has warned that food prices could reach “new record highs in 2013”, with the global economy entering a period of agriculture-related price inflation, which accounts for why “food security remains a highly sensitive issue in many regions” (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/layout/set/print/Agriculture/Commodities/General/Rabobank-warns-higher-food-prices-likely-in-2013" target="_self">Rabobank warns higher food prices likely in 2013’</a>, 28&nbsp;October 2012). Because of this type of prognosis, the heads of the FAO and the World Trade Organization (WTO) called on governments to “refrain from panic buying or export restrictions”.</p><p><b>2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in the EU cereals sector</b></p><p>An EC-financed evaluation of cereals sector reforms since 2003 highlighted the changes and continuity in the EU policy framework. Since 2003, farm payments have been largely decoupled from production, and intervention buying no longer supports EU market prices. But the EU continues to use intervention buying as a ‘safety net’ measure and retains the right to use export refunds (although they have not been used in the cereals sector since 2008). The main point of policy continuity is the cereals trade regime, where the EU retained a range of border measures, including variable import tariffs and product specific tariff-rate quotas, in order to “protect the internal market from lower priced world market imports”, while meeting consumer needs (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Impact-of-reforms-on-the-EU-cereals-sector" target="_self">Impact of reforms on the EU cereals sector</a>’, 12 May 2013).</p><p>However, according to an EC evaluation of cereals sector measures applied under the CAP, while the structure of support payments to cereal farmers has been “radically altered”, “the nominal value of coupled plus decoupled aids per hectare [has] barely changed”. Given higher world market prices, support payments now make a lower contribution to cereals farmers’ incomes.</p><p>Despite relatively high global commodity prices, “there are still member states in which… producers, on average, would have earned very low incomes if coupled and decoupled aids had not been provided.” This suggests that EU cereals sector policies continue to maintain EU cereals production at higher levels than would be the case in the absence of such support measures.</p><p>The decisions concerning post-reform EU farmers’ production have responded more to “international price signals” than patterns of common agricultural policy (CAP) support. Somewhat unexpectedly, policy reforms have led to greater price volatility on the EU than world cereals markets, resulting in processors, traders and producers all making greater use of price risk management tools. Also consequent to the reforms, there has been a considerable reduction in EU imports of cereal substitutes for the animal feed sector (−70%).</p><p>In terms of the external effects of reform, the evaluation notes that “the decision not to offer export refunds helped to overcome the constraints on subsidised exports under the WTO and this generated a rise in the share of EU net exports in total world cereals exports.” Indeed, “the EU’s share of total world exports of wheat and flour rose from 5.2% to 7.7% from pre to post reform”, with the EU increasing its share of imports into sub-Saharan Africa.</p><p><b>2.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Biofuels and the cereals sector</b></p><p>Growing pressure to review the EU biofuel mandate could carry implications for the cereals sector. EU biofuel mandates, for example, have seen a 26% increase in the area under oil crops, as well as the expansion of German silage maize output for biogas (using 11% of the entire German usable agricultural area).</p><p>In September 2012, the heads of FAO, the International Fund for Agricultural Development (IFAD) and the World Food Programme (WFP) called for adjustments to the use of food crops in biofuels production. Private sector business leaders have supported this call. Also in September, the French government urged for “a pause in the development of biofuels competing with food”, and the establishment of a 7% cap on the use of crop-based biofuels. This would be consistent with moves in the EC to “impose a limit on the use of crop-based biofuels”.</p><p>In October 2012, EC proposals called for an end to “all public subsidies for crop-based biofuels after 2020”. This would see the use of rapeseed and wheat limited to 5% of total energy consumption in the EU transport sector, with greater emphasis on increasing “the share of advanced non-land-using biofuels”.</p><p>The EU biofuel industry has criticised EC proposals, maintaining that EU biofuel policies have little effect on global cereals prices (in contrast to US policies), since relatively little is used in the biofuel industry. Illustrating this point, the 2012/13 high cereals prices resulted in a contraction in the use of US coarse grains for biofuel production by a quantity in excess of total annual EU cereals used in bioenergy production. Nevertheless, any review of the EU biofuel mandate could hinder the projected expansion of EU cereals use in biofuel production.</p><p><b>2.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in West and Central Africa</b></p><p><b>The regional cereals situation</b></p><p>In March 2013, FAO projected average to above average production in the Central African region’s two main cereals producers – Cameroon and the Central African Republic (CAR) – but with overall regional production in line with production in 2011. Thus, “the bulk of the national cereal utilization requirement” was imported into Gabon and the Republic of the Congo.</p><p><b>Table 1: Coarse grain production in Western and Central Africa (’000 tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="177" valign="top">  &nbsp;
+  </td><td width="104" valign="top">  2010
+  </td><td width="85" valign="top">  2011
+  </td><td width="104" valign="top">  2012 (est.)
+  </td>
+</tr>
+
+<tr>
+<td width="177" valign="top">  Western Africa
+  </td><td width="104" valign="top">  47,600
+  </td><td width="85" valign="top">  42,000
+  </td><td width="104" valign="top">  47,400
+  </td>
+</tr>
+
+<tr>
+<td width="177" valign="top">  Central Africa
+  </td><td width="104" valign="top">  3,300
+  </td><td width="85" valign="top">  3,200
+  </td><td width="104" valign="top">  3,200
+  </td>
+</tr>
+
+</table>
+<p>Source: FAO, <i>Crop Prospects and Food Situation</i>, No. 1, March 2013</p><p>In West Africa, “the overall food security situation has improved significantly”, with a 12.9% increase in cereals production in 2012. Developments in individual countries, however, varied. Although, prices remained high in some areas, overall coarse grain prices were falling, given “inter-regional restrictions on commodity movements”. Gross cereals production for the 2012/13 season in the Sahel and West Africa was estimated at 54.6 million tonnes, a 16% annual increase and 1% above the 5-year average.</p><p><b>Table 2: Cereal import position of low-income, food-deficit countries in Central and Western Africa (’000 tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="177" valign="top">  &nbsp;
+  </td><td width="170" valign="top">  <p><b>2011/12 or 2012</b></p><p><b>(Actual imports)</b></p>
+  </td><td width="227" valign="top">  <b>Total import requirements 2012/13 or 2013</b>
+  </td>
+</tr>
+
+<tr>
+<td width="177" valign="top">  Western Africa
+  </td><td width="170" valign="top">  14,718
+  </td><td width="227" valign="top">  14,145
+  </td>
+</tr>
+
+<tr>
+<td width="177" valign="top">  Central Africa
+  </td><td width="170" valign="top">  2,061
+  </td><td width="227" valign="top">  2,109
+  </td>
+</tr>
+
+</table>
+<p>Source: FAO, <i>Crop Prospects and Food Situation</i>, No. 1, March 2013</p><p><b>Getting to grips with constraints on regional cereals trade</b></p><p>Analysis published by the World Bank suggests that the intra-regional cereals trade in the Economic Community of West African States (ECOWAS) is significantly below the region’s potential, with most imports of national cereals being sourced from outside the region (97% of maize, 79% of sorghum and 62% of millet). Maize production is increasingly considered commercially viable, with a 30% increase last season compared to the 5-year average.</p><p>Similar intra-regional trade problems exist in crop inputs, where national regulations continue to take precedence over regional agreements. It is thought that constraints on regional input procurement and trade are increasing the cost of inputs and hence restricting yield improvements. This is despite ECOWAS Trade Liberalisation Scheme (ETLS) commitments on both trade in cereals and production inputs. It is maintained that potential large-scale buyers and traders face major problems in securing the necessary permits and certificates to source regionally. This raises the costs of intra-regional cereals trade, making regional sourcing uncompetitive.</p><p>The World Bank-published policy note identified a number of potential areas for remedial action. These included:</p>
+<ul>
+
+<li>&nbsp; &nbsp; &nbsp; strengthening trade liberalisation at the operational level by</li>
+
+</ul>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; abandoning or establishing greater transparency in the use of seasonal export bans;</p><p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; promoting greater transparency in export and import licence regimes;</p><p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dismantling transit charges;</p><p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; removing illicit roadblocks and combatting corruption by border officials;</p>
+<ul>
+
+<li>&nbsp; &nbsp; &nbsp; promoting greater harmonisation of core sanitary and phytosanitary standards (SPS) and food safety standards, and dispensing with additional core standards for trade in cereals;</li>
+
+<li>&nbsp; &nbsp; &nbsp; clarifying and publicising the relevant origin requirements under the ETLS.</li>
+
+</ul>
+<p>Given the fundamental nature of many of these challenges, in the short term the focus may need to be on helping traders to cope better with these constraints (similar recommendations came out from the ECOWAS/USAID cross-border trade conference held in Accra in January 2013). USAID and the World Bank supported the ‘Borderless Initiative’, an important project in this regard (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Constraints-on-regional-cereals-trade-in-West-Africa-reviewed" target="_self">Constraints on regional cereals trade in West Africa reviewed</a>’, 12 May 2013).</p><p><b>Differing approaches to national cereals sector development</b></p><p>Developments in 2012–13 highlighted the differing national approaches to promoting cereals sector development in West Africa.</p><p>Analysis of Benin’s cereals sector published by the US Department of Agriculture (USDA) in January 2013 highlighted Benin’s policy commitment to promoting an expansion of agricultural production, following the 2008 food price crisis. Extensive government support is provided to the production and marketing of cereals, through free seed distribution, the provision of subsidised fertilisers, and the buying and storing of maize through government agencies. Nevertheless, it is estimated that some 30% of coarse grain production is lost post-harvest. In line with Comprehensive Africa Agriculture Development Programme (CAADP) objectives, some 11.8% of the national budget is devoted to agriculture but with cotton continuing to play a dominant role. These policies, implemented with donor support, have resulted in increased cereals production (maize +12.2%, and sorghum +45.8% since the 2010/11 season).</p><p>Government policy seeks to establish Benin as a major exporter of grain by 2025. In the north of Benin, it is estimated that half of domestic maize production is exported to Niger and Mali, while in the south, Nigerian traders push up local maize prices. Therefore, in certain regions of the country, private-sector-based intra-regional trade already takes place, raising questions over the distribution of the costs and benefits of Benin’s cereals production support programmes.</p><p>In neighbouring Nigeria in 2012–13, significant policy developments took place in support of efforts to reduce the national wheat import bill. Alongside traditional input subsidy programmes, tariff measures were being implemented to promote the blending of cassava flour with wheat flour in the bakery sector. In July 2012 the Nigerian government announced:</p>
+<ul>
+
+<li>&nbsp; &nbsp; &nbsp; a reduction in the duty on cassava-enhancing enzymes from 10% to zero;</li>
+
+<li>&nbsp; &nbsp; &nbsp; the imposition of an additional 15% duty on imported wheat, increasing the duty to 20%;</li>
+
+<li>&nbsp; &nbsp; &nbsp; the imposition of a 65% levy on wheat flour, taking the effective duty to 100%;</li>
+
+<li>&nbsp; &nbsp; &nbsp; the granting of duty-free access for machinery and equipment required for cassava processing and blending.</li>
+
+</ul>
+<p>In addition, the government is importing large-scale cassava processing factories from China to boost local processing. The aim is to achieve 10% blending of cassava flour with wheat flour by July 2013, increasing to 40% by 2015. However, the immediate effect has been a 20% increase in wheat flour prices.</p><p>The use of large tariff increases to promote local production is a growing feature of Nigerian agricultural policy. Yet USDA maintains that stakeholders are reluctant to engage with the government blending initiative, in view of “past negative experiences” with similar policy initiatives (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/content/view/full/11105" target="_self">Debate on cassava flour in bread intensifies in Nigeria</a>’, 6&nbsp;August 2012). In the same vein, press reports highlight the serious challenges of retooling, retraining and adoption of new processing techniques faced across the bakery sector.</p><p>While Nigeria is the world’s largest cassava producer, aspirations to expand domestic use of cassava in the bakery sector could potentially run into conflict with the launching of export initiatives for cassava and cassava products. In August 2012, exports were announced of 1.1 million tonnes of cassava chips to China, as well as contracts for the supply of 500,000 tonnes of cassava annually to Australia. This raises the issue of the appropriate market focus for Nigerian efforts to develop its cassava sector (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/layout/set/print/Agriculture/Commodities/Cereals/Questions-raised-over-Nigeria-s-cassava-blending-and-wheat-tariff-policy" target="_self">Questions raised over Nigeria’s cassava blending and wheat tariff policy</a>’, 18&nbsp;November 2012), as well as broaching questions related to the role of tariff policy in promoting and sustaining an expanded national cereals production.</p><p>In September 2012, IFAD reported on a third approach to promoting cereals sector development adopted in West Africa, namely efforts in Senegal to promote the use of forward sales contracts between millet producers and processors and traders, to strengthen the functioning of cereals supply chains. The aim of forward contracts like these is to reduce price uncertainties and to increase on-farm investment, through improving access to credit (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Sales-contract-signing-organised-to-help-cereal-producers-to-secure-outlets-in-Senegal" target="_self">Sales contract signing organised to help cereal producers to secure outl...</a>’, 28&nbsp;October 2012).</p><p>This approach of sales contracts for purchase of future crops, however, may require a strengthening of the legal and institutional framework for contract enforcement. If successful, forward contracting arrangements will be extended to a range of other cereals, taking into account the specificities of individual supply chains. While many governments recognise the importance of strengthening the functioning of cereals supply chains, the infrastructure required for efficient functioning of national and regional supply chains is not always present.</p><p><b>2.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in Southern and Eastern Africa</b></p><p><b>The regional cereals situation</b></p><p>According to FAO, in Southern Africa, the prospects for the 2013 cereal harvest are “generally satisfactory”, although an outbreak of army worm is threatening production in some regions. Overall, yields are expected to increase, except in drought or flood affected areas, where acute price pressures are emerging.</p><p>In response to high maize prices, South Africa is set to expand its planting by 3%, with a forecast total maize production of 13 million tonnes. Following poorly distributed rains, a lower harvest is expected in Namibia, after a bumper harvest in the previous season.</p><p>In Eastern Africa a similar picture prevails, with average to above average production, but with considerable variation between countries. Harvest prospects are particularly critical in Kenya (where a maize lethal necrosis outbreak is causing concern) and parts of Ethiopia. However, the overall food security situation in Eastern Africa is seen to be improving, with cereals production at near record levels – around 12.4% above the 5-year average.</p><p>The longer-term trend across the East African Community (EAC) is for cereals production to increase faster than population growth. However, the EAC policy environment is not considered conducive to expanding maize production beyond regional maize consumption needs, given the very limited export opportunities in the context of competition from lower-cost producers such as South Africa (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Maize-production-and-trade-issues-in-the-EAC" target="_self">Maize production and trade issues in the EAC</a>’, 16&nbsp;September 2012).</p><p><b>Table 3: Aggregated national cereals production in Southern and Eastern Africa (’000 tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="111" valign="top">  &nbsp;
+  </td><td colspan="3" width="231" valign="top">  <b>Wheat</b>
+  </td><td colspan="3" width="248" valign="top">  <b>Coarse grains</b>
+  </td>
+</tr>
+
+<tr>
+<td width="111" valign="top">  &nbsp;
+  </td><td width="77" valign="top">  2010
+  </td><td width="81" valign="top">  2011
+  </td><td width="73" valign="top">  2012
+  </td><td width="79" valign="top">  2010
+  </td><td width="84" valign="top">  2011
+  </td><td width="84" valign="top">  2012
+  </td>
+</tr>
+
+<tr>
+<td width="111" valign="top">  Southern Africa
+  </td><td width="77" valign="top">  1,700
+  </td><td width="81" valign="top">  2,300
+  </td><td width="73" valign="top">  2,300
+  </td><td width="79" valign="top">  26,400
+  </td><td width="84" valign="top">  25,000
+  </td><td width="84" valign="top">  24,300
+  </td>
+</tr>
+
+<tr>
+<td width="111" valign="top">  Eastern Africa
+  </td><td width="77" valign="top">  4,100
+  </td><td width="81" valign="top">  4,000
+  </td><td width="73" valign="top">  4,300
+  </td><td width="79" valign="top">  34,800
+  </td><td width="84" valign="top">  32,200
+  </td><td width="84" valign="top">  34,900
+  </td>
+</tr>
+
+</table>
+<p>Source: FAO, <i>Crop Prospects and Food Situation</i>, No. 1, March 2013</p><p>In Zambia, while maize stocks are high after consecutive bumper harvests, the “on–off” export ban (introduced in September 2012 and lifted in March 2013) and high-level of government purchases have been disruptive of the development of private-sector-based regional maize supply chains. Following the lifting of the export ban, the government-to-government negotiations to sell maize to Zimbabwe did little to foster the development of private sector supply chains. The difficulties faced in importing Zambian maize at the beginning of 2013 did, however, lead to a questioning of the Zimbabwean government’s import restrictions on genetically modified (GM) maize (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Temporary-export-bans-and-GMO-policies-complicate-Zimbabwe-maize-procurement" target="_self">Temporary export bans and GMO policies complicate Zimbabwe maize procure...</a>’, 26&nbsp;May 2013).</p><p><b>Table 4: Aggregated cereal import position of low-income food-deficit countries in Southern and Eastern Africa (’000 tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="111" valign="top">  &nbsp;
+  </td><td width="208" valign="top">  <p><b>Actual imports</b></p><p><b>2011/12 or 2012</b></p>
+  </td><td width="255" valign="top">  <p><b>Total import requirements</b></p><p><b>2012/13 or 2013</b></p>
+  </td>
+</tr>
+
+<tr>
+<td width="111" valign="top">  Southern Africa
+  </td><td width="208" valign="top">  2,508
+  </td><td width="255" valign="top">  2,346
+  </td>
+</tr>
+
+<tr>
+<td width="111" valign="top">  East Africa
+  </td><td width="208" valign="top">  8,183
+  </td><td width="255" valign="top">  7,987
+  </td>
+</tr>
+
+</table>
+<p>Source: FAO, <i>Crop Prospects and Food Situation</i>, No. 1, March 2013</p><p><b>Genetically modified organism and standards obstacles to regional trade</b></p><p>Although South Africa produces a large maize surplus, exports are increasingly oriented to serving overseas markets (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/ACP-regional-trade/South-Africa-s-export-profile-complicates-regional-food-security-situation-in-Eastern-and-Southern-Africa" target="_self">South Africa’s export profile complicates regional food security situati...</a>’, 2&nbsp;December 2012). This reflects four factors:</p>
+<ul>
+
+<li>&nbsp; &nbsp; &nbsp; recent high global prices;</li>
+
+<li>&nbsp; &nbsp; &nbsp; shortages in major export markets (Mexico);</li>
+
+<li>&nbsp; &nbsp; &nbsp; regional tariff policies;</li>
+
+<li>&nbsp; &nbsp; &nbsp; divergent national policies on GM maize.</li>
+
+</ul>
+<p>The issue of the treatment of GM maize, which often requires cost-inflating special import arrangements, remains a key policy issue in Southern and Eastern Africa, given the growing role that GM seed is playing in South African production (some 72% of production in the 2011/12 season).</p><p>Closely linked to the genetically modified organism (GMO) debate is the wider issue of products standards harmonisation in the cereals sector. Divergent product standards represent an important non-tariff barrier to trade.</p><p>According to the findings of a survey of cross-border trade carried out by the Eastern Africa Grain Council (EAGC), “the high quality thresholds, tedious documentation and open corruption at official border crossing points” routinely block the movement of “cheap foodstuff from surplus areas to deficit regions”.</p><p>Even where all requirements are fulfilled, traders complain delays still occur, despite the EAC being a customs union. The establishment and enforcement of common food safety and food quality standards remain problematical and continue to constitute major barriers to trade (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/SPS-Food-safety/Balancing-food-safety-and-regional-trade-in-the-Eastern-and-Southern-Africa" target="_self">Balancing food safety and regional trade in the Eastern and Southern Africa</a>’, 31 March 2012).</p><p>Against this background, efforts continue to establish and implement common standards at the level of the EAC and the Common Market for Eastern and Southern Africa (COMESA), with the challenge looming of harmonising standards at the level of the impending wider tripartite free-trade area (T-FTA) of the EAC, COMESA and the Southern African Development Community (SADC).</p><p>Efforts are under way at the COMESA level to:</p>
+<ul>
+
+<li>&nbsp; &nbsp; &nbsp; establish an early warning system for contaminated grain to enhance food safety and facilitate regional trade in grain;</li>
+
+<li>&nbsp; &nbsp; &nbsp; promote the establishment of mutually recognised national quality assurance certification schemes.</li>
+
+</ul>
+<p>Harmonised sampling and laboratory procedures in food safety analysis are required to underpin mutual recognition. However, since implementation remains the responsibility of the member state, progress is uneven and it is unclear how quickly harmonised analysis can be achieved.</p><p>This is not simply a technical question. It has important commercial dimensions. Divergent standards protect and promote different national interests. Against this background, analysis from the World Bank has cautioned against mandatory standards that reach beyond essential SPS and human health issues, since these might result in high costs and systematically discriminate against smallholder farmers. The analysis favoured the establishment of reference standards that provide a basis for commercial transactions between buyers and sellers (with SPS and public health issues being dealt with on a mandatory basis through general regulations). If mechanisms to ensure the transparent application of regional reference standards can be established, this is a more cost-effective means of increasing trade.</p><p><b>Export bans, market information systems and investment</b></p><p>Questions arise regarding the sustainability of Zambia’s and Malawi’s growing role in the regional grain trade, given the role played by government-financed input subsidy and subsidised public purchase programmes. The periodic use of export bans also undermines the development of regional supply chains and investment in commercial maize production, without delivering any benefits in terms of reduced consumer prices (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Agricultural-export-bans-hit-farmers" target="_self">Agricultural export bans hit farmers</a>’, 20&nbsp;May 2012).</p><p>National government practices and use of export bans also raise the issue of the potential for using more market-based tools to manage national and regional maize markets. Since the end of 2011, increased attention has been paid in South Africa to improve the transparency of maize markets (see <i>Agritrade</i> interview with Jannie de Villiers, ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/The-South-African-cereals-sector-Recent-developments-and-future-challenges" target="_self">The South African cereals sector: Recent developments and future challenges</a>’, 9&nbsp;July 2012). Similar systems to provide transparent data on the wider regional market situation are considered necessary, with the EAGC launching a number of related initiatives (see <i>Agritrade</i> interview with Gerald Masila, Executive Director of the EAGC, ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/The-East-African-cereals-sector-Recent-developments-and-future-challenges" target="_self">The East African cereals sector: Recent developments and future challenges</a>’, 12&nbsp;August 2012). However, according to Mr Masila, “a key building block of a structured trading system includes a proper legislative environment and clear policies for the whole value chain.”</p><p>If accurate and transparent regional cereals market information systems could be established with region-wide coverage (for example, building on the existing Regional Agricultural Trade Information Network in East Africa), this could reduce the pressures for on–off export bans. These systems would enhance the development of efficient intra-regional supply chains, helping to reduce price differences across the region and potentially strengthening the negotiating position of primary producers within supply chains.</p><p><b>Improving the functioning of supply chains</b></p><p>The scope for strengthening the functioning of supply chains is illustrated by recent developments in Ethiopia in the durum wheat sector. A project has been launched to facilitate direct negotiations between durum wheat farming cooperatives and wheat processors, against a backdrop of efforts to boost production and storage capacity. Significantly, as part of this programme, efforts are being made to establish local contract farming of improved seed varieties to facilitate the expansion of the initiative.</p><p>Given a growing consumer preference for wheat-based products, enormous potential exists for expanding local wheat production. With contracts being negotiated in order to establish reference prices and quality premiums, this should lead to a solid commercial base for the expansion of local wheat production (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Strengthening-supply-chains-could-boost-cereals-production-in-Ethiopia" target="_self">Strengthening supply chains could boost cereals production in Ethiopia</a>’, 26&nbsp;May 2013).</p><p><b>Defining limits to the use of trade policy tools</b></p><p>At the end of June 2012, a debate emerged on the role of tariff protection in facilitating the re-establishment of wheat production in Zimbabwe. The chairperson of the Grain Millers Association of Zimbabwe (GMAZ) called for wheat import tariffs to be reviewed to promote the re-establishment of wheat production in Zimbabwe. In 2011, however, Zimbabwe produced less than 10% of national wheat consumption needs.</p><p>In neighbouring Namibia, where local wheat production also constitutes a relatively small part of national consumption (18%), seasonal trade measures are in place that allow local markets to be cleared before imports are resumed. These measures are consistent with the provisions of the Southern African Customs Union (SACU) agreement and the national “controlled products” policy framework, which is transparently applied. The right to continue to apply such measures has been one of the contentious issues in the ongoing SADC–EU economic partnership agreement (EPA) negotiations.</p><p>In Zimbabwe, however, it is unclear whether the bilateral safeguard provisions (Article 21) of the EU–Eastern and Southern Africa (ESA) EPA agreement could be applied to support the re-establishment of industries that have largely disappeared. Issues also arise with regard to regional trade policy commitments in the COMESA and SADC contexts.</p><p>Reaching agreement on the permitted use of trade policy tools in the cereals sector is likely to prove as controversial as the ongoing negotiations on rules of origin: at the SADC/COMESA level, a 35% value-addition rule is applied in a context where wheat grain constitutes about 90% of the value of wheat flour (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Zimbabwe-wheat-flour-tariff-being-questioned" target="_self">Zimbabwe wheat flour tariff being questioned</a>’, 12&nbsp;August 2012).</p><p><b>Developing backward linkages</b></p><p>Efforts are in place across Africa and elsewhere in the ACP to develop backward linkages from the livestock and value-added food products sectors to local cereals production. SABMiller, the world’s second largest brewer, has initiatives under way to use locally produced cereals in the beer sector in Zambia, Uganda, Mozambique and most recently Ghana. While this forms part of SABMiller’s market development strategy aimed at bringing consumers of informal beer into the commercial market, it is also reducing imports and encouraging potentially important backward linkages and technological innovations (e.g. the development of mobile cassava processing units to undertake field level processing). These technological developments could potentially have far wider applicability (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Developing-local-cereals-supplies-for-value-added-products" target="_self">Developing local cereals supplies for value-added products</a>’, 9 December 2012). With similar initiatives across the ACP, considerable scope exists for pan-ACP cooperation at both the technological level and the policy level in ensuring the cost-effective implementation of strategies to develop backwards linkages to the cereals sector.</p><p><b>2.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in the Caribbean and the Pacific</b></p><p><b>Cereals production and recent developments in the Caribbean</b></p><p>Maize is grown in most territories for domestic consumption across the Caribbean community (CARICOM), the main producers being Haiti (USDA estimated production of 250,000 tonnes), Belize (around 45,000 tonnes), the Dominican Republic (around 40,000 tonnes), Guyana (around 5,000 tonnes) and Jamaica (around 2,000 tonnes). Maize has been identified as an important crop for enhanced food security in the Caribbean region.</p><p>Efforts are under way to boost maize production in Belize for regional poultry feed markets: press reports suggest a 25% expansion of the area under maize in 2011. In addition to the existing trade with Jamaica, in 2012 an active trade was initiated between Belize and Guyana, which has encouraged further investments in maize production in Belize.</p><p>Meanwhile, the company Jamaican Broilers, in association with the Jamaican government, has reportedly launched an initiative to expand its own maize production. However, earlier similar initiatives proved unsuccessful.</p><p>A commercial agreement was launched in Jamaica in 2012–13 between Red Stripe and farmers to grow cassava and sorghum to replace barley in local beer production. This builds on similar initiatives in Africa by Diageo, the owners of Red Stripe. Red Stripe expects to replace between 15 and 20% of its barley use with cassava and sorghum by 2014, with the aim of reaching 70% by 2020.</p><p>In neighbouring Barbados, the Barbados Agricultural Development and Marketing Corporation is exploring a range of market opportunities for expanding cassava flour production and use in local bakery products. Export opportunities for cassava products in Canada are also being explored.</p><p><b>Cereals production and recent developments in the Pacific</b></p><p>Pacific island countries (PICs) remain between 90 and 100% dependent on cereals imports, with only limited production of cassava and similar crops. The long-term trend is towards increased dependence on cereals imports for most PICs, as population increases and consumption patterns change. This leaves PICs particularly vulnerable to rising global cereals prices, with “increasing numbers of vulnerable families… resorting to subsistence agriculture, gardening and fishing when possible to supplement food and income”. Government policy responses in most PICs are reportedly “limited to price control and tariff exemption”. UNICEF has called for a more “production oriented policy intervention” targeting the rural poor. However, such initiatives in most PICs are likely to have only a marginal focus on the cereals sector, given the predominance of root and tuber production.</p><a name="eztoc2808170_0_3" id="eztoc2808170_0_3"></a><h3>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implications for the ACP</h3><p><b>3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The role of tariff policy in cereals sector development</b></p><p>Current experiences and debates in Africa suggest a need for a more nuanced approach to the use of tariffs in support of cereals sector development, in many ways similar to that of the EU. Tariffs need to be consistent with current production realities and commercially viable production potential. The use of tariffs and non-tariff measures (such as import restrictions or export bans) needs to be predictable and transparent if on-farm investment is to be encouraged, while minimising price increases and disruptions to regional cereal supply chains. But this requires the retention of the policy space so that the EU’s example – of the nuanced and flexible deployment of trade policy tools in support of cereals sector development – can be followed.</p><p><b>3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strengthening cereals supply chains</b></p><p>Initiatives are being launched across Africa to strengthen the functioning of cereal supply chains. This involves establishing more direct contacts between producers and end users, to ensure pre-determined minimum payment levels and improve cereal quality. The aim is to reduce price uncertainty for producers and encourage greater on-farm investment.</p><p>Policy initiatives to strengthen the functioning of supply chains would appear to be an essential complement to existing input subsidy schemes, which have boosted cereals production across Africa.</p><p>Potentially a review of the comparative experience of different schemes could help strengthen national cereals policy formulation across the ACP. It is particularly important in the area of contract law and mechanisms for the effective enforcement of contractual commitments, a particular problem for forward contracting with smallholder producers for staple foods.</p><p><b>3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Improving national and regional market information systems</b></p><p>Improving national and regional market information systems dealing with supply, demand and price trends – if coupled with policy and institutional reforms to facilitate trade and targeted programmes of investment in transport and storage infrastructure – could promote the development of more efficient regional supply chains and enhance regional cereals self-sufficiency.</p><p>However, coordinating and harmonising existing initiatives could pose challenges. This suggests a need for a review of existing initiatives (not only in the cereals sector but also other relevant experiences) to establish best practices under private and public schemes, and the underlying basis for harmonisation.</p><p><b>3.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Getting to grips with standards harmonisation</b></p><p>According to analysis from the World Bank, the establishment of reference standards to facilitate private-sector-based trade in cereals may offer the most cost-effective way forward in cereals sector standards harmonisation. It would, however, need to be based on harmonised mandatory SPS and food safety regulations, and a strengthening of national verification and enforcement capacities, since – in the absence of mutual confidence – national governments are likely to continue to insist on a national verification of standards compliance.</p><p>In this context, serious challenges are faced in building up and sustaining the technical capacities for standards verification and enforcement agencies, with shortcomings in this area undermining the national implementation of regional policy commitments.</p><p><b>3.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assessing policy measures in support of backward linkages in the cereals sector</b></p><p>From Nigeria to Mozambique, government policy measures have been set in place to promote backward linkages, which range from the use of increased tariffs to compel cassava blending to excise duty rebates to subsidise processors while local supply chains are being developed. There would appear to be a need to monitor and evaluate the relative effectiveness of such schemes in achieving stated policy objectives, and to foster a process of sharing of experiences and innovations, in order to reduce external dependence on increasingly high-priced and volatile global markets.</p><p>There would also appear to be scope for a pan-ACP dialogue on cassava blending policies to reduce national wheat import bills.</p><p><b>3.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Closing the gap between informal and formal trade flows</b></p><p>As the Benin experience illustrates, informal trade is often ahead of formal trade aspirations. The challenge faced is how to build on existing informal cross-border trade to meet national aspirations for enhanced intra-regional cereals trade. Critical to this is getting to grips with the many cost-increasing barriers to cross-border trade that exist in various ACP regions. Initiatives such as the Borderless Initiative in West Africa, the COMESA “simplified trade regime” programme (which now includes a text messaging service for reporting barriers to cross-border trade) and the ongoing efforts of the Eastern Africa Grain Council all represent important progress in this area. The progress needs to be subject to periodic review of best practices, so that gains can be consolidated and replicated across other regions.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><b>Global</b></p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Food and Agriculture Organization of the United Nations (FAO), <i>Crop Prospects and Food Situation</i>, No. 1, March 2013</p><p>
+<a href="http://www.fao.org/docrep/017/al998e/al998e.pdf" target="_self">http://www.fao.org/docrep/017/al998e/al998e.pdf</a></p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Indexmundi.com</i>, ‘Maize (corn), US no. 2 yellow, FOB Gulf of Mexico, US price, US dollars per metric ton’</p><p>
+<a href="http://www.indexmundi.com/commodities/?commodity=corn&amp;months=60" target="_self">http://www.indexmundi.com/commodities/?commodity=corn&amp;months=60</a></p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Indexmundi.com</i>, ‘Wheat (US), no. 2, soft red winter, export price delivered at the US Gulf port for prompt or 30 days shipment – US dollars per metric ton’</p><p>
+<a href="http://www.indexmundi.com/commodities/?commodity=soft-red-winter-wheat&amp;months=60" target="_self">http://www.indexmundi.com/commodities/?commodity=soft-red-winter-wheat&a...</a></p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Centre for Trade and Sustanable Development (ICTSD), ‘Net food-importing developing countries: Who they are, and policy options for global price volatility’, by A. Valdés and W. Foster, 23&nbsp;August 2012</p><p>
+<a href="http://ictsd.org/i/trade-and-sustainable-development-agenda/142563/" target="_self">http://ictsd.org/i/trade-and-sustainable-development-agenda/142563/</a></p><p><b>EU</b></p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Commission (EC) Directorate-General (DG) for Agriculture and Rural Development, ‘Evaluation of measures applied under the common agricultural policy to the cereals sector, final report, December 2012’, by LMC International, December 2012</p><p>
+<a href="http://ec.europa.eu/agriculture/evaluation/market-and-income-reports/2012/cereals-2012/fulltext_en.pdf" target="_self">http://ec.europa.eu/agriculture/evaluation/market-and-income-reports/201...</a></p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC DG Agriculture and Rural Development, ‘Prospects for agricultural markets and income in the EU 2012–­­­2020’, full report, December 2012</p><p>
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2012/fullrep_en.pdf" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2012/fullrep_en.pdf</a></p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC, ‘Proposal … amending Directive 98/70/EC relating to the quality of petrol and diesel fuels and amending Directive 2009/28/EC on the promotion of the use of energy from renewable sources’, COM(2012) 595 final, 17&nbsp;October 2012</p><p>
+<a href="http://ec.europa.eu/clima/policies/transport/fuel/docs/com_2012_595_en.pdf" target="_self">http://ec.europa.eu/clima/policies/transport/fuel/docs/com_2012_595_en.pdf</a></p><p><b>West and Central Africa</b></p><p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US Department of Agriculture (USDA), ‘Nigeria introduces levy on wheat grain imports’, <i>GAIN Report</i>, 31 August 2012</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Nigeria%20Introduces%20Levy%20on%20Wheat%20Grain%20_Lagos_Nigeria_8-31-2012.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Nigeria%20Introduc...</a></p><p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Fund for Agricultural Development (IFAD), ‘Projet d’appui aux filières agricoles’, agricultural value chains support project, web page</p><p>
+<a href="http://www.fidafrique.net/rubrique1066.html" target="_self">http://www.fidafrique.net/rubrique1066.html</a></p><p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USDA, ‘Benin coarse grains and rice report’, <i>GAIN Report</i>, 29 January 2013</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Benin%20Coarse%20Grains%20and%20Rice%20Report%20_Lagos_Benin_1-29-2013.pdf " target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Benin%20Coarse%20G...</a></p><p><b>Southern and Eastern Africa</b></p><p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USDA, ‘South Africa grain and feed annual’, <i>GAIN Report</i>, 25&nbsp;March 2013</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Grain%20and%20Feed%20Annual_Pretoria_South%20Africa%20-%20Republic%20of_3-25-2013.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Grain%20and%20Feed...</a></p><p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USDA, ‘East African region corn report’, <i>GAIN Report</i>, 21&nbsp;June 2012</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/East%20African%20Region%20Corn%20Report_Nairobi_Kenya_6-21-2012.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/East%20African%20R...</a></p><p><b>About this update</b></p><p>This brief was updated in September 2013 to reflect developments since June 2012. Other publications in this series and additional resources on ACP–EU agriculture and fisheries trade issues can be found online at 
+<a href="http://agritrade.cta.int/" target="_self">http://agritrade.cta.int/</a>.</p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Cereals/Executive-Brief-Update-2013-Cereals-sector">Executive Brief Update 2013: Cereals sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Executive-Brief-Update-2012-Product-differentiation">Executive Brief Update 2012: Product differentiation</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cereals/Cereals-Trade-issues-for-the-ACP">Cereals: Trade issues for the ACP</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cereals/EU-arable-sector-briefing-note">EU arable sector briefing note</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cereals/Summary-of-the-Agritrade-Brief-on-Cereals">Summary of the ‘Agritrade’ Brief on Cereals</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":151,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,376 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2011: Banana sector / Bananas / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																															
+		
+		<div class='contentrealtionlist'>
+										
+																																																						
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7796/(search)/simple">Bananas</a>
+							
+																																																																																																																																																																																																																																																																																																																																							
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2011: Banana sector</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/12081/495706/file/2484bc58c1ac172e4b3969975b62b563.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+									</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>About this update</b></p><p>This brief was updated in July 2011. The original executive brief was published in January 2009 and is available on request from agritrade-mail@cta.int</p><p>Other publications in this series and additional resources on ACP—EU agriculture and fisheries trade issues can be found online at http://agritrade.cta.int/</p>
+
+		</div>
+		
+		
+					<a name="eztoc495696_1" id="eztoc495696_1"></a><h2><b>1. Background and key issues</b></h2><p>Across the globe bananas are one of the most commonly eaten fruit. Indeed, they are the world’s fourth most important crop, after rice, wheat and maize, and make a major contribution to food security. In most ACP countries banana production is exclusively for local and national markets, with a limited level of intra-regional trade. Overall only 21% of global banana production is traded internationally (the true ratio is probably even lower, as there are no accurate figures for banana production for domestic consumption in ACP countries). &nbsp;</p><p>Only a limited number of countries are involved in international banana exports. Previously 12 ACP countries exported bananas to the EU under the banana protocol. However, a number of these traditional suppliers have fallen away (mainly in the Caribbean) while new suppliers have emerged (in Africa and the Caribbean). Within the ACP, export-oriented banana production was formerly of greatest economic significance in the Caribbean.</p><p>The international banana trade is dominated by five multinational companies. This, along with the growing influence of supermarket chains over retail prices for bananas, raises major issues related to the functioning of banana supply chains. Five international companies account for three-quarters of world banana trade: according to Banana Link, these are Dole (USA – 26%), Chiquita (USA – 22%), Del Monte (US-based – 15%), Fyffes (Ireland – 7%) and Noboa (Ecuador – 5%). The other 25% comes from a number of other companies, including Reyanpac of Ecuador, JFC of Russia, Grupo Acon of Costa Rica, and Banacol and UNIBAN of Colombia.</p><p>Currently about 10% of the bananas consumed in the EU are grown in the EU. In 2007 the EU banana regime was reformed and the sector was brought under the single payment scheme. The budget for the POSEI programme, which provides special financial assistance to agricultural producers in the outermost regions of the EU, has been significantly expanded since 2006, with the main financial envelope increasing from €33.6 million to €375.2 million in 2009. According to United States Department of Agriculture (USDA) estimates, EU direct aid payments are now equivalent to €0.33/kg compared to a previous level of €0.18/kg.</p><p>The traditionally high margins of tariff preferences enjoyed by ACP suppliers have been undermined by successive revisions to the EU banana regime. This has culminated in the December 2009 Geneva banana deal and the inclusion of further tariff concessions for bananas in bilateral free-trade area (FTA) agreements. This is an ongoing source of concern, although with the broad parameters of such concessions now known the focus is shifting to consideration of the most appropriate responses in individual ACP banana sectors.</p><p>Initially, from 1993, the changes to the EU banana regime affected the intra-ACP distribution of EU markets, but as the process of change continued, the market share of non-ACP suppliers began to expand significantly. In the face of these policy changes the EU has since 1994 been extending restructuring assistance to ACP banana exporting countries. Earlier restructuring programmes are now drawing to a close, while the new Banana Accompanying Measures programme announced at the time of the December 2009 Geneva banana deal is still under preparation.</p><p>Despite EU support measures, the policy changes which have occurred since 1992 have seen a number of traditional ACP banana suppliers fall out of the export trade, but it has also seen the emergence of a number of new banana suppliers from within the ACP.</p><p>In terms of price developments since 2007, the global dollar denominated banana price index has been at elevated levels, almost 50% higher than in the base year of 2005. Within the international banana trade there is a growing trend towards product differentiation, and issues arising from this trend related to the distribution of costs and price premiums along the supply chain will become more important in the future.</p><p><b>&nbsp;</b></p><a name="eztoc495696_2" id="eztoc495696_2"></a><h2><b>2.&nbsp; Latest developments&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></h2><p><b>&nbsp;</b></p><p><b>2.1.&nbsp; Global developments</b></p><p><b>2.1.1 Trends in global banana production and prices </b></p><p>Between January 2010 and January 2011 the prices of Central American and Ecuadorian bananas delivered fob to US ports rose by 21.3% according to the IMF, although prices fluctuated in the course of the year in the light of weather-related disruptions of production. From April 2010 price levels remained higher than in the corresponding month in 2009, by between 7 and 19%; in February 2011 prices were 28.1% above February 2009 levels. They subsequently fell back in March 2011, but were still higher then in any corresponding months since 2008.</p><p><b>Table 1: Banana prices (US$ per tonne), Central American and Ecuador, fob US ports 2007–11</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="50" valign="top">  Year/month
+  </td><td width="32" valign="top">  1
+  </td><td width="37" valign="top">  2
+  </td><td width="37" valign="top">  3
+  </td><td width="32" valign="top">  4
+  </td><td width="32" valign="top">  5
+  </td><td width="32" valign="top">  6
+  </td><td width="32" valign="top">  7
+  </td><td width="32" valign="top">  8
+  </td><td width="32" valign="top">  9
+  </td><td width="32" valign="top">  10
+  </td><td width="32" valign="top">  11
+  </td><td width="32" valign="top">  12
+  </td>
+</tr>
+
+<tr>
+<td width="50" valign="top">  2011
+  </td><td width="32" valign="top">  949.42
+  </td><td width="37" valign="top">  1,013.12
+  </td><td width="37" valign="top">  994.17
+  </td><td width="32" valign="top">  &nbsp;
+  </td><td width="32" valign="top">  &nbsp;
+  </td><td width="32" valign="top">  &nbsp;
+  </td><td width="32" valign="top">  &nbsp;
+  </td><td width="32" valign="top">  &nbsp;
+  </td><td width="32" valign="top">  &nbsp;
+  </td><td width="32" valign="top">  &nbsp;
+  </td><td width="32" valign="top">  &nbsp;
+  </td><td width="32" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="50" valign="top">  2010
+  </td><td width="32" valign="top">  782.69
+  </td><td width="37" valign="top">  790.75
+  </td><td width="37" valign="top">  842.54
+  </td><td width="32" valign="top">  828.42
+  </td><td width="32" valign="top">  872.47
+  </td><td width="32" valign="top">  964.84
+  </td><td width="32" valign="top">  987.07
+  </td><td width="32" valign="top">  896.53
+  </td><td width="32" valign="top">  883.98
+  </td><td width="32" valign="top">  921.80
+  </td><td width="32" valign="top">  908.15
+  </td><td width="32" valign="top">  897.79
+  </td>
+</tr>
+
+<tr>
+<td width="50" valign="top">  2009
+  </td><td width="32" valign="top">  814.92
+  </td><td width="37" valign="top">  921.96
+  </td><td width="37" valign="top">  906.08
+  </td><td width="32" valign="top">  897.79
+  </td><td width="32" valign="top">  852.90
+  </td><td width="32" valign="top">  850.83
+  </td><td width="32" valign="top">  828.73
+  </td><td width="32" valign="top">  835.64
+  </td><td width="32" valign="top">  818.37
+  </td><td width="32" valign="top">  811.46
+  </td><td width="32" valign="top">  835.64
+  </td><td width="32" valign="top">  801.10
+  </td>
+</tr>
+
+<tr>
+<td width="50" valign="top">  2008
+  </td><td width="32" valign="top">  679.80
+  </td><td width="37" valign="top">  790.58
+  </td><td width="37" valign="top">  1,027.36
+  </td><td width="32" valign="top">  969.99
+  </td><td width="32" valign="top">  927.93
+  </td><td width="32" valign="top">  839.78
+  </td><td width="32" valign="top">  725.14
+  </td><td width="32" valign="top">  801.10
+  </td><td width="32" valign="top">  806.63
+  </td><td width="32" valign="top">  808.01
+  </td><td width="32" valign="top">  904.70
+  </td><td width="32" valign="top">  842.54
+  </td>
+</tr>
+
+<tr>
+<td width="50" valign="top">  2007
+  </td><td width="32" valign="top">  640.16
+  </td><td width="37" valign="top">  658.84
+  </td><td width="37" valign="top">  646.66
+  </td><td width="32" valign="top">  647.20
+  </td><td width="32" valign="top">  691.81
+  </td><td width="32" valign="top">  778.74
+  </td><td width="32" valign="top">  735.18
+  </td><td width="32" valign="top">  696.01
+  </td><td width="32" valign="top">  666.44
+  </td><td width="32" valign="top">  659.98
+  </td><td width="32" valign="top">  653.57
+  </td><td width="32" valign="top">  648.51
+  </td>
+</tr>
+
+</table>
+<p>Source: IMF 
+<a href="http://www.indexmundi.com/commodities/?commodity=bananas&amp;months=60" target="_self">http://www.indexmundi.com/commodities/?commodity=bananas&amp;months=60</a></p><p>In the near future, a number of large banana producers (notably India, and possibly Brazil, which together grow almost double the volume of bananas currently traded worldwide) could emerge as major banana exporters. This could have a serious impact on the markets targeted by these new exporters, given the scale of production involved. Tariff concessions for Indian bananas under the forthcoming EU–India FTA could potentially have a bearing on the relative attractiveness of EU markets, as could relative price levels on Middle Eastern markets.</p><p>In addition, a number of major multinationals in the banana sector are reported as having an interest in expanding banana production in Africa. In 2008 Chiquita concluded partnership agreements to invest in export-oriented banana production in Mozambique and Angola. It was envisaged that on completion the new partnerships would supply ‘20 to 30% of the company’s premium fruit volume for European markets on a tariff-free basis’. However, in 2009 it was announced that Chiquita and its Portuguese partners had withdrawn from the project in Angola, partly in response to land allocation issues and partly in response to the global economic downturn.</p><p>Exports from Mozambique to Middle Eastern markets are already under way, with supplies to the EU market set to commence once EU quality certification has been attained. However, rapidly expanding Middle Eastern markets potentially also offer lucrative markets depending on price trends on the EU market.</p><p><b>2.1.2&nbsp; The establishment of the World Banana Forum working groups</b></p><p>December 2009 saw the launching of the World Banana Forum (WBF) aimed at ‘sharing information, ideas and best practices amongst stakeholders on sustainability, environmental and workplace issues, as well as the distribution of value along supply chains’. The WBF brought together banana trade associations, private companies, retailers, civil society and small farmers’ organisations as well as government representatives. The initiative was coordinated by the FAO, with financial assistance from the UK Department for International Development (DFID).</p><p>In February 2010 it was announced that five multi-stakeholder working groups had been established covering:</p>
+<ul>
+
+<li>labour rights and other workplace issues;</li>
+
+<li>distribution of value;</li>
+
+<li>sustainable production systems and environmental impacts;</li>
+
+<li>reducing agro-chemical use;</li>
+
+<li>certification issues.</li>
+
+</ul>
+<p>These working groups provide a framework for electronic discussions on the issues faced in each of these areas and for the commissioning of research on specific priority topics. On the basis of these electronic discussions, periodic face-to-face meetings will be convened to take the electronic discussions further. However, given the divergent perspectives within the World Banana Forum, it is unclear how effective the five working groups will prove to be (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Bananas/WBF-working-groups-established" target="_self">World Banana Forum working groups established</a>’, March 2010).&nbsp;</p><p><b>2.2&nbsp; The WTO banana agreement and bilateral tariff concessions</b></p><p>On 15 December 2009, an agreement was reached to end the long-running WTO banana dispute. This will see the EU cut its tariffs from €176/tonne to €114/tonne by 2017, with the first tariff cut of €28 being retroactively applied to 15 December 2009, once the necessary procedures for the incorporation of the agreement into national legislation have been completed. Further tariff reductions are to take place in seven annual stages, a process which began in January 2011.</p><p>This agreement entered into force on 31 May 2010. The retroactive tariff cut reportedly only benefited the EU importers who reclaimed the duty, and not Latin American banana exporters (see Agritrade article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Bananas/Geneva-banana-deal-enters-into-force" target="_self">Geneva banana deal enters into force</a>’, July 2010). Despite the limited distribution of short-term gains, Latin American banana exports are expected to increase significantly in response to the tariff reductions. However the impact of the WTO banana agreement also needs to be seen against the backdrop of the additional tariff reductions included in the FTA agreements with Colombia and Peru and five Central American countries. Under these bilateral trade agreements, duties on bananas will fall progressively to €75/tonne by 2020 (see Agritrade article ‘
+<a href="/en/layout/set/print/../../../../en/layout/set/print/Agriculture/Commodities/Bananas/New-trade-deals-and-new-aid-packages-agreed" target="_self">New trade deals and new aid packages agreed</a>’, April 2010).</p><p>Fearing that their current share of the EU market will be undermined by the additional quota-restricted tariff concessions made available bilaterally to fellow Latin American banana exporters, Ecuadorian banana exporters are currently pressing their government to renew FTA negotiations with the EU.</p><p>A September 2010 study commissioned by the ICTSD concluded that these agreements are likely to result in a diversion of exports by Guatemala, Honduras, Nicaragua and, possibly, El Salvador from other markets to the EU, and an increase in production, exports and prices received only for Peru, Costa Rica and Panama. The ACP countries and Ecuador (which has not signed an FTA agreement with the EU) ‘are all expected to see their relative competitiveness on this market fall’ and ‘will export less to the EU and receive a lower price for their exports’ (see Agritrade article ‘
+<a href="/en/layout/set/print/../../../../en/layout/set/print/Agriculture/Topics/EU-FTAs/Study-concludes-that-new-banana-regime-is-likely-to-result-in-trade-diversion" target="_self">Study concludes that new banana regime is likely to result in trade dive...</a>’, November 2010).</p><p>According to local representatives of Ivorian banana producers, annual exports of bananas from Côte d’Ivoire were expected to fall by 14% from the present level of 230,000 tonnes, as a result of the new tariff concession for Latin American banana suppliers. Given the current difficulties in Côte d’Ivoire, which are disrupting banana exports, it will be difficult to determine the precise impact of these trade agreements.</p><p>However, it should be noted that the FTA agreements include a ‘safeguard clause’ up until 2020. Under this provision the preferential tariff may be suspended for up to three months if imports from a specific country in a given calendar year exceed a ‘trigger import volume’ (TIV) for that year. The TIV for Colombia is much less generous than for other signatories, being no higher than the projected trend level for Colombian exports. As a consequence the impact of the agreement on Colombian banana exports is expected to be less dramatic. For other banana exporters there is scope to redirect some existing exports from other, less profitable markets to Europe. But this will depend partly on how the cut in the EU tariff is passed on. If it accrues to producers or exporters in the signatory states it will make exporting to Europe more profitable. But if it is pocketed (in whole or in part) by EU-based traders, this will not necessarily happen. World market price levels and the functioning of specific banana supply chains will thus have a bearing on the impact in the EU market of the new banana trade deals.</p><p>An analysis prepared for the European Parliament as background to the approval process for the Geneva banana deal reached a similar conclusion, projecting a decline in the market share of both ACP and EU banana producers. Significantly, while in January 2011 the European Parliament’s trade committee approved the December 2009 banana deal, ‘both the GUE/NGL and Greens/EFA groups voted against granting Parliament’s consent’, taking the view that ‘the deal would jeopardise the basic rights of small producers by strengthening the monopoly position of big US multinationals controlling the banana market in Latin American countries.’</p><p><b>2.3&nbsp; The Banana Accompanying Measures programme</b></p><p>The Geneva banana agreement included a commitment to establishing a €190 million restructuring support programme for ACP banana producers, referred to as the Banana Accompanying Measures (BAM) programme. The EC’s March 2010 communication on the BAM programme acknowledged the erosion of the margins of tariff preference faced by ACP exporters, and committed the EU to building on previous restructuring programmes, so as to help beneficiaries produce bananas more competitively or diversify their economies away from banana production (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/layout/set/print/Agriculture/Commodities/Bananas/First-stage-in-mobilising-financing-for-banana-sector-support-under-way" target="_self">First stage in mobilising financing for banana sector support under way</a>’, May 2010).</p><p>Five former beneficiaries of the banana protocol have stopped exporting bananas to the EU (Cape Verde, Madagascar, Somalia, Grenada and most recently Jamaica). Jamaica however, along with Cameroon, Côte d’Ivoire, Ghana, Belize, Dominica, Dominican Republic, St Lucia, St Vincent and the Grenadines, and Suriname will be eligible for support under the BAM programme.</p><p>According to the EC the traditional focus on competitiveness and diversification, will be complemented by a new focus on addressing broader employment, educational, health and environmental adjustment issues. It is acknowledged that ‘with additional effort some countries may remain competitive in a less-protected market, whilst others may have to opt for other solutions’.</p><p>This March 2010 communication was only the first stage in mobilising and deploying BAM funds. There are fears amongst Caribbean farmers’ leaders that wrangles over the EU budget could threaten the size of the financial compensation package. According to the European Parliament, money for the early stages of the BAM programme has been ‘redeployed from different parts of the external relations budget’. In this context these fears may not be entirely groundless. The European Parliament has argued that ‘the foreseen budget could have been integrated earlier in the EU multi-annual budget’ process, thereby facilitating earlier implementation of BAM measures.’</p><p>In 2010 the EC posted its penultimate biennial review of the earlier ‘special framework for assistance for traditional ACP suppliers of bananas’. This report maintains that EU assistance has ‘made valuable contributions to improving the competitiveness’ in the banana sectors in Belize, Cameroon, Côte d’Ivoire and Suriname, ‘offering them stronger prospects for survival in a more liberalised environment’. Particular success was enjoyed in Suriname where the banana industry ‘has been revived and transformed into an efficient exporter’.</p><p>The success achieved in these four countries was attributed to:</p><p>a) the strong national commitment to enhancing competitiveness;</p><p>b) favourable agronomic characteristics;</p><p>c) the prior existence of highly commercially oriented and well structured sectors capable of adopting technical innovations and making commercial adjustments;</p><p>d) clear recognition of changing market conditions and needs.</p><p>The experience under EU banana restructuring programmes has however varied greatly. Substantial problems with aid commitment and disbursement have been faced. Indeed, in many instances banana sector funding has been used primarily in support of conventional EC-supported development projects, such as road construction. This has led farmers’ leaders in the Caribbean to express concerns at the neglect of direct assistance to farmers within EU programmes, viewing this as inconsistent with the EU’s own internal practice, where restructuring support is increasingly focused on supporting and strengthening farmers’ organisations.</p><p><b>2.4 Product differentiation initiatives in the banana sector</b></p><p>There are three main forms of product differentiation in the banana sector:</p>
+<ul>
+
+<li>organic; </li>
+
+<li>fair-trade; </li>
+
+<li>Rainforest Alliance. </li>
+
+</ul>
+<p>Together these account for about 15% of global trade, with certification by the Rainforest Alliance dominating (around 75%).</p><p>The principal benefit of product differentiation arises from the price premiums which can be gained. While price data are considered commercially sensitive, and hence available data are mainly anecdotal, the indication is that price premiums for organic bananas can range from 45 to 53% on certain EU markets. Similarly price premiums for fair-trade bananas can range from 19 to 90% depending on world market prices for conventional bananas and the level of country-specific premiums. However in the organic market the indications are that as the market grows and the range of suppliers expands, price differentials begin to close.</p><p>In addition, in the major EU market for differentiated bananas – the UK – the dominant role played by supermarkets in the banana trade can undermine these price benefits. For example, analysis suggests that in certain supply chains tensions exist between fair-trade principles (which are closely linked to sustainable price guarantees for producers) and the highly competitive commercial practices of different supermarket chains. The main source of this problem lies in the fact that ‘supermarkets are not bound by FLO regulations, as they are not required to be licensees even for their own brand Fairtrade products’ (FLO accounts for 95% of fair-trade certification in the EU). This is a technical loophole which needs to be closed if European consumers of fair-trade products are not to be misled.</p><p>The main ACP fair-trade banana suppliers are the Dominican Republic, the Windward Islands and Ghana. There is growing competition in the fair-trade market components from Ecuador (an established competitor), Peru, Costa Rica and Colombia. For example, Peru’s third largest banana exporter is increasingly focusing on the export of organic and fair-trade bananas. This would place them in direct competition with banana exporters from the Dominican Republic, who are currently one of the main suppliers of organic bananas to the EU market. This will compound an existing situation of competition on EU organic markets.</p><p>Since 2003, organic banana production in both Peru and Ecuador has tripled, while production in the Dominican Republic is periodically disrupted by hurricanes and floods. This has seen the Dominican Republic’s share of the EU organic market fall from over a half to around a quarter. In a context in which half of Peruvian organic banana production is already destined for the EU market, the recent improvements in market access granted gives added urgency to efforts under way in the Dominican Republic to get to grips with productivity and cost reduction issues.</p><p>Ghana’s exports of organic bananas could also be affected, although with production being both organic and fair-trade labelled (dual labelled), Ghanaian exports are less vulnerable to the competition from estate-based organic production.</p><p>Banana producers in Costa Rica meanwhile are seeking to secure protection for their banana exports through obtaining a geographical designation of origin. The hope is that this initiative will help to secure premium prices for quality differentiated bananas in the EU market. Whether this succeeds, however, is likely to be critically influenced by the functioning of the banana supply chain, where, in markets such as the UK, the marketing strategies of multiple retailers (supermarkets etc) have a critical influence on price formation in the banana sector (see Agritrade article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Bananas/Latin-American-producers-manoeuvre-to-secure-price-advantages" target="_self">Latin American producers manoeuvre to secure price advantages</a>’, March 2011).&nbsp;</p><p><b>2.5&nbsp; Functioning of the banana supply chain and quality labelling in the EU</b></p><p>In 2010, the latest instance of the periodic outbreak of supermarket price wars in the UK, the main market for traditional Caribbean banana exports, occurred. Following the December 2009 price war, retail prices for bananas fell by 22.5%, with prices being once again dramatically reduced in July and August 2010. These decisions were taken by multiple retailers, which dominate the UK grocery market, as part of their strategies for repositioning themselves in response to the economic downturn. According to Banana Link, the practice of discounting banana prices could potentially ‘devalue bananas in consumers’ minds’ thereby bringing ‘volatility to the market’.</p><p>There are also concerns over the longer-term impact of these practices on the prices paid to banana growers. While ‘retailers guarantee minimum prices to suppliers of fair trade bananas’, which are thereby ‘protected from the effects of discounting ... it is a different matter in the conventional banana supply chain’. Here prices are being put under greater pressure when supply contracts come up for renegotiation. This, it is argued, results in a squeezing of value out of the supply chain. As a consequence the ‘ongoing price wars in the conventional banana sector are preventing any further growth in the fair-trade market’. It is argued that in this context retailers committed to fairly traded products should abandon such price wars and instead give the signal that ‘a low price is not a fair price’.</p><p>This analysis raises important issues about the current value of ‘quality’ labels related to fair-trade products where the consumer perception is that fair-trade labelling schemes lead to a fair price for producers. This is not the case if the general pricing practices of dominant multiple retailers result in overall downward pressure on banana prices.</p><p>This suggests a need to refine fair-trade labelling requirements so that prices paid for fair-trade labelled products are more aligned with consumer perceptions of what a ‘fair trade’ label means. However, no such initiatives are currently under consideration, with the EC preferring to leave such matters to private labelling schemes.</p><p>Calls for a more transparent, consistent and coherent approach to fair-trade labelling and measures to strengthen the functioning of banana supply chains appear to be gaining support from EU banana producers and small retailers. Indeed the banana growers’ union for Guadeloupe and Martinique (UGPBAN) decided in August 2010 to stop supplying bananas to the French multiple retailer Intermarché (which takes around 10% of bananas produced on French territory), as a result of the retailer’s policy of discounting banana prices. UGPBAN representatives argued that the corporate strategy of Intermarché is inconsistent with producer efforts to promote sustainable pricing for bananas, which reflects the underlying reality of the cost structure faced. This action was taken despite an acknowledgement from UGPBAN that the prices paid to producers have not yet been affected by the discounting practices pursued by Intermarché (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Bananas/Retail-price-wars-threaten-long-term-sustainable-pricing-for-bananas" target="_self">Retail price wars threaten long-term sustainable pricing for bananas</a>’, September 2010).</p><p>While this may be the case for UGBAN, Suriname’s banana exporting company has complained about the ‘unreasonably low prices’ being offered by Dutch importers. Low prices have continued to be received despite improvements in the food safety and quality of bananas supplied following a 5-year restructuring programme designed to lay the basis for full privatisation of the local banana sector. This has led the Suriname exporting company to begin searching for a new import partner.</p><p>In the banana sector it is difficult to see how a closer alignment of price formation in the banana sector and consumer perception of fair-trade labels could be brought about without measures to strengthen the functioning of supply chains to ensure that concentration of economic power within the supply chain does not lead to abuse of a dominant market position in ways that adversely impact on the prices received by the primary producers.</p><p>2010 saw major developments in the elaboration of EU policies as regards strengthening the functioning of food supply chains, with a major initiative being launched in the dairy sector. The February 2011 EC raw materials communication saw an implicit acceptance that this policy approach had a wider applicability beyond the dairy sector and beyond the EU. It was implied that initiatives in this areas could bring benefits to primary producers in an era of heightened price volatility.</p><p>This appears to be particularly relevant in the banana sector given the issuing in December 2009 of ‘a statement of objection under anti-trust rules to a number of companies active in the import and marketing of bananas’ and the growing concentration of power in the hands of multiple retailers in certain EU markets (i.e. the UK). This could build on proposals for a fundamental rethink of price formation in the banana supply chain. It would involve using calculations of ‘sustainable costs’ as the basis for price formation in the banana sector. The current market situation in the EU could offer opportunities for a move over to ‘sustainable cost’ pricing given the ‘extremely good banana prices currently prevailing as a result of weather-related supply disruptions’ (reductions of between a third and a half in Costa Rica, Ecuador and Cameroon) and the ongoing political turmoil in Côte d’Ivoire.</p><p><b>2.6 Developments in ACP banana production</b></p><p><b>2.6.1 ACP banana exporters</b></p><p>A number of the 12 traditional ACP suppliers to the EU under the banana protocol have fallen away, and new suppliers have emerged. The most recent country to stop exporting bananas to the EU was Jamaica. This followed repeated weather-related disruptions of production and the erosion of ACP margins of tariff preference. No banana exports to the EU have taken place since August 2008. Jamaican government policy is now focused on reorienting production to serve local direct consumption and markets for processed banana products. These efforts are being undertaken in the context of a new policy framework established in 2009 designed to improve productivity and increase banana production.</p><p>Adverse weather events made themselves felt in the Caribbean at the end of 2010, when hurricane Tomas wiped out banana production in St Lucia, St Vincent and Dominica. This has given rise to fears that major British retailers such as Sainsbury’s and Waitrose ‘will lose sight of the positive impact made by their purchases of Windwards’ fair-trade bananas’ and turn to Latin American suppliers. This is seen as a particular danger given the reduction in EU import duties under way (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Bananas/Supply-disruptions-cause-concern-over-long-term-market-position" target="_self">Supply disruptions cause concern over long-term market position</a>’, February 2011).</p><p>It is against this background that recent calls from Caribbean farmers’ leaders, for an expansion of government and regional support for agricultural production that addresses national and regional food security concerns, need to be seen. This suggests that thinking is under way over how to reorient Caribbean banana and other agricultural production away from increasingly vulnerable overseas markets. This development cannot, of course, be divorced from concerns over rising global food prices.</p><p>Elsewhere in the Caribbean, exports of bananas from the Dominican Republic to the EU market have continued to increase, with overall exports in 2010 expected to be 7% higher compared to the 280,000 tonnes of banana exported in 2009. In the Dominican Republic, representatives of banana producers maintain that ‘the bananas sector’s perspective is very good’, with the country ‘going through one of the best moments regarding banana exports and production’. Efforts are under way to strengthen the position of banana exporters in the Dominican Republic by taking advantage of the UK’s ‘Assured Trader Scheme’, which allows port health authorities ‘to reduce checks on reputable traders already meeting high standards’ (e.g. via accreditation from Globalgap, which requires the maintenance of ‘independently verified records of pesticide monitoring’) (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Bananas/Call-for-early-action-to-ease-controls-on-DR-banana-exports" target="_self">Early action to ease controls on DR banana exports called for</a>’, September 2010).</p><p>Beyond the Caribbean, one of the main African banana suppliers, Côte d’Ivoire, has faced considerable difficulties as a result of the political turmoil in the country and an embargo on exports. This has led banana producers to look to neighbouring countries, both as means of exporting to the EU and as a market for national banana production. Regional markets potentially offer considerable scope for increased trade, given growing food security concerns in the West African region. However logistical constraints on trade will need to be overcome.</p><p>Banana companies in Cameroon meanwhile continue efforts to improve competitiveness and expand production, given their current cost disadvantages vis-à-vis Latin American suppliers. Private sector financing alongside EU restructuring support continues to be mobilised for this purpose. Considerable importance is attached to expanding banana production for export, since higher tonnages place the sector in a better position to negotiate freight rates, which represent between 35 and 40% of the costs of delivering Cameroonian bananas to the EU market. Expansion of the banana sector, with the aim of reaching production of 500,000 tonnes of bananas for export, could potentially see bananas emerge as Cameroon’s leading export sector.</p><p>Banana production for export in Cameroon is largely estate-based, while smallholder banana and plantain production serves the domestic market. Production for the domestic market far exceeds export-oriented production.&nbsp;</p><p><b>2.6.2 ACP banana production for national and regional markets</b></p><p>The situation in Cameroon is indicative of the importance of national markets within overall banana production in the ACP. Current data on banana production for domestic consumption across the ACP is seen to be vastly underreporting the volume of bananas and plantain produced and consumed. There can be little doubt that bananas are making a vital contribution to national food security in many ACP countries: in some mountainous regions of central Africa, bananas accounts for over a third of daily calorie intake.</p><p>Beyond the rural areas, there is now a growing trade in bananas and plantains as a cash crop, sold in rapidly expanding urban markets. Demand is currently vastly outstripping supplies, with significant logistical constraints inhibiting the development of this trade. Improvements in processing and preservation technologies for bananas and plantain need to be supported in order to facilitate the expansion of banana consumption in urban areas.</p><p>Improved processing is also vital to the promotion of intra-regional trade in bananas. Currently pest transmission and other sanitary and phytosanitary (SPS) concerns are inhibiting the development of regional trade in bananas, and import bans introduced on SPS grounds are common. This needs to be seen in the context of a lack of harmonised disease control programmes and the limitations of current SPS enforcement mechanisms.</p><p><b>3. Implications for the ACP</b></p><p><b>3.1&nbsp; The application of bilateral safeguards in the banana sector</b></p><p>How the EU applies safeguard provisions in practice using the ‘trigger import volume’ method could influence the impact of new bilateral trade agreements on ACP banana suppliers. These safeguard provisions could potentially provide a mechanism for establishing a floor price on the EU banana market. Against this background the ACP should consider establishing a dialogue with the EC on how these safeguard measures are to be implemented.</p><p>The experience of the use of ‘trigger import volumes’ could have relevance in other sectors of importance to the ACP, most notably the sugar sector, where similar arrangements could prove useful in maintaining stability on the EU sugar market, in the context of an expanding range of tariff-rate quota-based market access concessions.</p><p><b>3.2&nbsp; Strengthening BAM implementation</b></p><p>The four success factors identified in the EC’s 2010 review of earlier banana restructuring support programmes implies an important role for producers’ organisations in the successful implementation of banana sector adjustment programmes. This lesson needs to be taken on board in the design and implementation of the BAM programme. Lessons can also usefully be drawn from the highly successful EDF-financed Caribbean rum sector restructuring programme. This programme gave a central role to a representative private sector body in the design and management of restructuring support instruments.</p><p>The experience to date suggests a need to target support on reducing costs, enhancing competitiveness and improving the marketing of ACP bananas, through measures designed, managed and implemented through representative stakeholder organisations. However, this potentially throws up administrative challenges under EC aid procedures, since this often requires a complex and time-consuming process of consultations and capacity building prior to the launch of operational programmes. This can require a more extensive period of time for implementation than is conventionally provided within the EC programme cycle.</p><p><b>3.3&nbsp; Getting to grips with market adjustment challenges</b></p><p>The increasingly sophisticated marketing strategies being adopted by Latin American banana exporters suggest that under the BAM programme a strong priority needs to be accorded to improving the marketing of ACP bananas, particularly into quality-differentiated components of the market (e.g. the fair-trade and organic components of the market). These are no longer niche markets, with estimates suggesting that in the UK (the EU’s second largest banana market) around one-third of all bananas consumed are fair-trade or organic bananas. Increased direct support to farmers’ organisations under the BAM programme would also appear to be a priority, both within the framework of efforts to reorient production towards national and regional market opportunities, and on efforts to strengthen the functioning of banana supply chains.</p><p>In this context two EU policy initiatives launched in 2010 could potentially hold some significance for the deployment of support funds for banana sector restructuring. The first relates to the EU’s evolving policy concerning agricultural product quality, where a ‘quality package’ of regulations was tabled in December 2010 (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/WTO/EC-quality-package-tabled" target="_self">EC “quality package” tabled</a>’, February 2011). The second relates to the EU’s evolving policy on strengthening the functioning of food supply chains (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Dairy/EU-ministers-endorse-EC-milk-package" target="_self">EU Ministers endorse “milk package”</a>’, February 2011). In terms of the ‘quality package’, consideration needs to be given to reducing the costs of certification so as to improve the net income position of ACP banana farmers. This requires support to be extended to farmer engagement with standard setting bodies. In terms of the functioning of the supply chain policy (where, since the raw materials communication of February 2011, the EC has recognised the need to improve the functioning of international supply chains), there would appear to be a need to use BAM funding to strengthen the position of ACP banana suppliers in commercial contract negotiations. Particular importance is attached to efforts to promote ‘sustainable cost pricing’ of bananas, through effective engagement with major retailers. There would also appear to be a need to support ACP banana producers in repositioning themselves within the value chain, through the development of more quality-differentiated banana production.</p><p>Furthermore, as pointed out at the May 2010 ACP workshop on the implications of CAP reform for the ACP, in both of these areas there would appear to be a case for building a clear development dimension into current EU policy initiatives. This could assist traditional ACP banana exporters in meeting the restructuring challenges faced as a result of WTO-driven processes of preference erosion.</p><p><b>3.4 Improving the functioning of the banana supply chain</b></p><p>In its February 2011 raw materials communication the EC recognised the potential importance of strengthening the functioning of internal supply chains, in order to avoid abuses along supply chains. In the banana sector, with five companies controlling 75% of internationally traded bananas and multiple retailers playing the critical role in retail price formation, a strong case would appear to exist for reviewing the functioning of ACP–EU banana supply chains, with a view to promoting ‘sustainable cost pricing’.</p><p>This led to calls at the May 2010 ACP workshop on the implications of CAP reform for the ACP for the establishment of a high level ACP–EU panel on the functioning of the ACP–EU banana supply chain, with a view to identifying the extent to which inequalities in power relationships along the supply chain are leading to abuses of market power, which are undermining the basis for competitive production of bananas in ACP countries. This needs to reach beyond the scope of traditional competition investigations, which focused on the impact of abuses of a dominant market position on consumers, to examine the impact of abuses of a dominant market position on banana producers in ACP countries.</p><p><b>3.5&nbsp; Ensuring that fair-trade labelling benefits primary producers</b></p><p>Analysis has highlighted the tensions which exist between the highly competitive commercial practices of supermarket chains and fair-trade principles, which, as retailers, they are not bound to respect. A regulatory framework needs to be created where ‘any company whose name is being associated with the FLO mark should be required to abide by the trading standards which define what it means to be Fairtrade.’ This includes abiding by the price guarantees which underpin the fair-trade system and ensuring that the bulk of price premiums paid by consumers benefit the primary producers. This is an issue which could be taken up in the current elaboration of labelling requirements for EU quality-differentiated food and agricultural products.</p><p>Specifically a common regulatory standard for fair-trade bananas needs to be established, so that consumers are not misled into believing that the price premium they may be paying is going to banana farmers, when this is not the case.</p><p>More generally it can be argued that supermarkets who use the fair-trade label to situate themselves as ethical retailers should demonstrate a more generalised commitment to fair-trade principles by refraining from participation in banana retail price wars and progressively moving over to sustainable pricing for bananas. Whether this is something which can best be addressed through stricter labelling requirements or a code of conduct, linked to efforts to strengthen the functioning of ACP–EU banana supply chains, is something which needs to be explored.</p><p><b>3.6 Increasing cooperation on SPS and other standards</b></p><p>The promotion of closer cooperation in the enforcement and verification of private and public standards and regulations potentially offers an important means of reducing the additional costs of stricter enforcement of SPS, food safety and quality standards. However it would appear to be important to ensure that in the implementation of such initiatives as the Assured Trader Scheme, ACP banana exporters also gain from the cost savings made. Equally it is important to ensure that access to such schemes does not discriminate against ACP banana companies seeking to establish a commercial presence in the EU, in order to improve earnings obtained by the ACP exporters from the final sale price of the products concerned.</p><p><b>3.7 Addressing constraints on ACP national and regional trade in bananas</b></p><p>A considerable agenda for action needs to be addressed if the enormous potential of the banana sector to meet food safety needs and generate a regular cash income for small-scale producers is to be realised. Substantial ‘aid for trade’ assistance could potentially be deployed in support of:</p>
+<ul>
+
+<li>the development and dissemination of improved processing and preservation technologies;</li>
+
+<li>the establishment of effective pest control programmes;</li>
+
+<li>increased research on SPS issues faced in the banana sector;</li>
+
+<li>harmonisation of pest control and SPS programmes within ACP regions;</li>
+
+<li>strengthening enforcement capacities for pest monitoring and pest control, so as to facilitate intra-regional trade;</li>
+
+<li>more extensive market analysis to better link national and regional producers with national and regional consumers;</li>
+
+<li>improving transportation and logistical supply infrastructure.</li>
+
+</ul>
+<p>Specific priorities however will need to be determined at national and regional level, within the framework of existing initiatives for the promotion of the development of the banana sector within the ACP.</p><a name="eztoc495696_2_1" id="eztoc495696_2_1"></a><h3>Main sources</h3><p>1. IDS, ‘For love or money? Fair-trade business models in the UK supermarket sector’, Paper No. 78, May 2008</p><p>
+<a href="http://www.ids.ac.uk/index.cfm?objectid=AC08BFB1-D003-4227-5FCDD08A5993A613" target="_self">http://www.ids.ac.uk/index.cfm?objectid=AC08BFB1-D003-4227-5FCDD08A5993A613</a></p><p>2. FAO, ‘Certification in the value chain for fresh bananas’, <i>FAO Commodity Studies,</i> 4, 2009</p><p>
+<a href="http://www.fao.org/docrep/012/i0529e/i0529e00.htm" target="_self">http://www.fao.org/docrep/012/i0529e/i0529e00.htm</a></p><p>3. EC, ‘Banana accompanying measures: Supporting the sustainable adjustment of the main ACP banana-exporting countries to new trade realities’, communication, COM(2010)101 final, 17 March 2010</p><p>
+<a href="http://ec.europa.eu/development/icenter/files/europa_only/COM_2010_0101_EN.pdf" target="_self">http://ec.europa.eu/development/icenter/files/europa_only/COM_2010_0101_...</a></p><p>4. <i>Europarl.europa.eu</i>, ‘Ending the banana wars: Who wins and who loses?’, 25 January 2011</p><p>
+<a href="http://www.freshplaza.com/news_detail.asp?id=75128" target="_self">http://www.freshplaza.com/news_detail.asp?id=75128</a></p><p>5. IPS, ‘Banana producers turn to regional markets’, 26 January 2010</p><p>
+<a href="http://allafrica.com/stories/201001260017.html" target="_self">http://allafrica.com/stories/201001260017.html</a></p><p>6. <i>Indexmundi.com</i>, banana price data</p><p>
+<a href="http://www.indexmundi.com/commodities/?commodity=wheat&amp;months=12" target="_self">http://www.indexmundi.com/commodities/?commodity=wheat&amp;months=12</a> .</p><p>7. EC, ‘Biennial report on the special framework of assistance for traditional ACP suppliers of Bananas’, communication, COM (2010) 103 final, Brussels, 17 March 2010</p><p>
+<a href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2010:0103:FIN:EN:PDF" target="_self">http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2010:0103:FIN:...</a></p><p>8. ICTSD, ‘The ACP experience of preference erosion in the banana and sugar sectors and possible policy responses to assist adjusting to trade changes’, February 2007</p><p>
+<a href="http://cenida.una.edu.ni/relectronicos/REE71G646.pdf" target="_self">http://cenida.una.edu.ni/relectronicos/REE71G646.pdf</a></p><p>9. ICTSD, ‘How would a WTO agreement on bananas affect exporting and importing countries?’, June 2009</p><p>
+<a href="http://www.ecostat.unical.it/anania/eie0809/Anania,%20banane%20Ictsd%20per%20web.pdf" target="_self">http://www.ecostat.unical.it/anania/eie0809/Anania,%20banane%20Ictsd%20p...</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Bananas/Executive-Brief-Update-2013-Banana-sector">Executive Brief Update 2013: Banana sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Regions/ACP/Central-Africa/Executive-Brief-Update-2013-Central-Africa-Agricultural-trade-policy-debates-and-developments">Executive Brief Update 2013 – Central Africa: Agricultural trade policy debates and developments </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Other/Executive-Brief-Update-2012-Caribbean-Agricultural-trade-policy-debates-and-developments">Executive Brief Update 2012: Caribbean: Agricultural trade policy debates and developments</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Bananas/Executive-Brief-Update-2012-Banana-sector">Executive Brief, Update 2012: Banana sector </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Executive-Brief-Update-2012-Product-differentiation">Executive Brief Update 2012: Product differentiation</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":130,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

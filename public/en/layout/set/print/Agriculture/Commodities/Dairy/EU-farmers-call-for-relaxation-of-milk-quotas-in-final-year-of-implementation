@@ -1,0 +1,278 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>EU farmers call for relaxation of milk quotas in final year of implementation  / Dairy / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																						
+								<a href="/en/layout/set/print/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																				
+																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7801/(search)/simple">Dairy</a>
+							
+																																																																																																																																																																																																																									
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>EU farmers call for relaxation of milk quotas in final year of implementation </h1>
+
+			
+			<h4>
+												15 June 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>EU farmers are pressing the EC to relax the milk production ceiling in the final year of application of milk production quotas in order to assist EU producers in capitalising on growing market opportunities in overseas markets such as China and India.</p><p>The EU farmers’ organisation Copa-Cogeca has published a letter that it sent to the EC and member states in which it maintains that while EU producers are trying to capitalise on growing global demand, the system of milk super-levies for overproduction effectively penalises them. In the letter, Copa-Cogeca calls for “the milk super-levy collected for 2014/2015 to go back to the sector”. The organisation also calls for measures to be set in place “to deal with the potential increase in price volatility when milk quotas expire in 2015”.</p><p>In April 2014, the EC announced the launch of a European Milk Market Observatory, with the aim of strengthening “the Commission’s capacity to monitor the dairy market and help the sector adapt to the new environment, after some 30 years under a quota regime”. The intention is to increase transparency and accuracy of market data so that milk supply chain stakeholders “can take well-informed business decisions” and the Commission “can make well-informed policy decisions”. The Observatory will provide current data and will also “analyse past and present trends in EU and world dairy markets, production, balance between supply and demand, [production] costs, [market] perspectives etc.”.</p><p>The Observatory will be open to all members of the supply chain, as well as national and EC policy-makers. Reports of Milk Market Observatory meetings will also be compiled and made publicly available.</p><p>In terms of market developments, after a succession of price rises in 2013 and two further price increase in early 2014, EU dairy companies began reducing farm gate milk prices in April 2014, with Arla following FrieslandCampina in announcing price reductions. This was attributed to a “significant negative trend in commodity markets”, with the benchmark Fonterra auction prices down 20% since the February 2014 high. Price declines were attributed in part to “a strong start to the northern hemisphere production season… as farmers maximise output to exploit prices which remain at historically elevated levels”.</p><p><b>Monthly average EU28 and world market prices, March 2014 (per tonne) and evolution since March 2013</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="109" valign="top">  &nbsp;
+  </td><td colspan="2" width="203" valign="top">  <b>EU28</b>
+  </td><td colspan="3" width="304" valign="top">  <b>World</b>
+  </td>
+</tr>
+
+<tr>
+<td width="109" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  <b>€</b>
+  </td><td width="116" valign="top">  <b>% change Mar13 – Mar14</b>
+  </td><td width="102" valign="top">  <b>US$</b>
+  </td><td width="94" valign="top">  <b>€*</b>
+  </td><td width="108" valign="top">  <b>% change Mar13 – Mar14</b>
+  </td>
+</tr>
+
+<tr>
+<td width="109" valign="top">  Skimmed-milk powder
+  </td><td width="87" valign="top">  3,223
+  </td><td width="116" valign="top">  21.0
+  </td><td width="102" valign="top">  4,888
+  </td><td width="94" valign="top">  3,535.6
+  </td><td width="108" valign="top">  26.0
+  </td>
+</tr>
+
+<tr>
+<td width="109" valign="top">  Whole-milk powder
+  </td><td width="87" valign="top">  3,713
+  </td><td width="116" valign="top">  21.9
+  </td><td width="102" valign="top">  4,825
+  </td><td width="94" valign="top">  3,490.5
+  </td><td width="108" valign="top">  14.4
+  </td>
+</tr>
+
+<tr>
+<td width="109" valign="top">  Cheese
+  </td><td width="87" valign="top">  3,999
+  </td><td width="116" valign="top">  18.0
+  </td><td width="102" valign="top">  5,100
+  </td><td width="94" valign="top">  3,688.9
+  </td><td width="108" valign="top">  22.4
+  </td>
+</tr>
+
+<tr>
+<td width="109" valign="top">  Butter
+  </td><td width="87" valign="top">  3,680
+  </td><td width="116" valign="top">  9.3
+  </td><td width="102" valign="top">  4,756
+  </td><td width="94" valign="top">  3,440.1
+  </td><td width="108" valign="top">  19.6
+  </td>
+</tr>
+
+</table>
+<p>* Exchange rate: US$1 = €0.72 (9 May 2014)</p><p>Source: EC, ‘Commodity price dashboard No. 22’, 25 April 2014 (see below)</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>Copa-Cogeca, ‘Copa-Cogeca sends a letter to EU Commission and Member States proposing action to help EU milk producers’, 7 May 2014</p><p>
+<a href="http://www.copa-cogeca.be/Main.aspx?page=Archive" target="_self">http://www.copa-cogeca.be/Main.aspx?page=Archive</a></p><p>EC, ‘Commission launches Milk Market Observatory’, 16 April 2014</p><p>
+<a href="http://europa.eu/rapid/press-release_IP-14-452_en.htm" target="_self">http://europa.eu/rapid/press-release_IP-14-452_en.htm</a></p><p><i>Dairyreporter.com</i>, ‘Milk Market Observatory will aid shift to post-quota Europe’, 17 April 2014</p><p>
+<a href="http://www.dairyreporter.com/Markets/Milk-Market-Observatory-will-aid-shift-to-post-quota-Europe" target="_self">http://www.dairyreporter.com/Markets/Milk-Market-Observatory-will-aid-sh...</a></p><p><i>Agrimoney.com</i>, ‘Arla cuts milk price, blaming dairy market tumble’, 25 April 2014</p><p>
+<a href="http://www.agrimoney.com/news/arla-cuts-milk-price-blaming-dairy-market-tumble--7001.html" target="_self">http://www.agrimoney.com/news/arla-cuts-milk-price-blaming-dairy-market-...</a></p><p>EC, ‘Commodity price dashboard No. 22, March 2014 edition, 25 April 2014</p><p>
+<a href="http://ec.europa.eu/agriculture/markets-and-prices/price-monitoring/dashboard/food03_2014_en.pdf" target="_self">http://ec.europa.eu/agriculture/markets-and-prices/price-monitoring/dash...</a></p><p><i>Dairyreporter.com</i>, ‘Why are US milk producer prices still so high? In a word – exports!’, 9 April 2014</p><p>
+<a href="http://www.dairyreporter.com/Commodities/Why-are-US-milk-producer-prices-still-so-high-In-a-word-EXPORTS" target="_self">http://www.dairyreporter.com/Commodities/Why-are-US-milk-producer-prices...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>With the exception of whole-milk powder (WMP) prices, world market prices have increased more rapidly than domestic EU prices. By March 2014, world skimmed-milk powder (SMP) prices were almost 10% higher than EU SMP. This would account for the desire of milk producers to see a relaxation of EU milk production quotas in 2014. However, the recent weakening of dairy commodity prices was itself attributed in part to growing levels of production in northern hemisphere suppliers.</p><p>This creates something of a dilemma for EU policy-makers. Relaxing quota restrictions in 2014 would boost production and could risk further undermining prices. But maintaining production quotas would place other exporters such as the US and New Zealand in a better position to exploit historically high dairy market price levels. (US milk producer prices are at record highs, in large part because of booming international demand for milk powders at historically high price levels.).</p><p>In terms of the ACP, any early relaxation of EU milk production quotas would bring forward the date at which ACP dairy sectors have to deal with the consequences of potentially elevated levels of EU milk powder exports. In the absence of clear policy frameworks for dealing with elevated EU milk powder exports and for integrating imported milk powder into national dairy development strategies, this could prove disruptive of local ACP milk-to-dairy supply chains.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/Livestock-and-dairy-value-chain-Nigeria-Namibia-and-Rwanda-Outbreak-of-cattle-diseases">Livestock and dairy value chain/Nigeria, Namibia and Rwanda – Outbreak of cattle diseases</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/Livestock-value-chain-Gambia-Agro-vet-committed-to-animal-welfare-and-health-to-boost-production">Livestock value chain/Gambia – Agro-vet committed to animal welfare and health to boost production</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/FrieslandCampina-to-take-over-Ivorian-dairy-business">FrieslandCampina to take over Ivorian dairy business</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Nestle-to-roll-out-modular-factory-system-in-Africa">Nestlé to roll out modular factory system in Africa</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/EU-farmers-call-for-relaxation-of-milk-quotas-in-final-year-of-implementation">EU farmers call for relaxation of milk quotas in final year of implementation </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":150,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,526 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2011: WTO Agreement on Agriculture / WTO / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																															
+		
+		<div class='contentrealtionlist'>
+										
+							
+																																
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7812/(search)/simple">WTO</a>
+							
+																																																																																																																																																																																																																																																																																											
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2011: WTO Agreement on Agriculture</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/12079/495644/file/fe3a193c430b6f4123a793fc795734a7.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+									</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>About this update</b></p><p>This brief was updated in July 2011. The original executive brief was published in August 2008 and is available on request from agritrade-mail@cta.int</p><p>Other publications in this series and additional resources on ACP—EU agriculture and fisheries trade issues can be found online at http://agritrade.cta.int/</p>
+
+		</div>
+		
+		
+					<a name="eztoc495634_1" id="eztoc495634_1"></a><h2><b>1. Background and key issues</b></h2><p>While World Trade Organisation (WTO) negotiations have little direct impact on the terms of access for ACP exports to EU markets, these being largely covered by the duty-free quota-access provisions of the Everything But Arms (EBA) initiative and (I)EPAs, the WTO does provide the international framework for both the EU’s and the ACP’s wider trade relations. This includes rules related to tariffs, the use of export promotion measures and the deployment of domestic support to the agriculture sector. There is therefore a range of issues in the WTO affecting both ACP–EU agricultural trade relations and the value of the preferential market access that ACP countries enjoy.</p><p>Developments in the WTO can also have a bearing on ACP members’ efforts to promote regional integration and diversify their trading partners. Developments in and around the WTO Agreement on Agriculture have both a direct and an indirect bearing on ACP–EU agricultural trade relations.</p><p>Traditionally ACP agricultural concerns in the WTO context have been divided into five areas:</p>
+<ul>
+
+<li>preserving the right to use certain traditional trade policy tools;</li>
+
+<li>the trade consequences of domestic support measures in OECD countries; </li>
+
+<li>export competition, via export subsidies and other forms of direct export support;</li>
+
+<li>market access (including preference erosion); </li>
+
+<li>cotton sector issues. </li>
+
+</ul>
+<p>In 2008 the issue of high food prices was added to this list of ACP concerns, evolving into calls for targeted initiatives on commodity issues.</p><p>On the use of traditional trade policy tools, some individual ACP governments wish to retain the space in policy making to use tools, such as import licensing and export taxes, as an integral part of targeted, sector-specific agricultural development strategies.</p><p>On domestic support the ACP group has called for:</p>
+<ul>
+
+<li>a real and substantial reduction in the use of domestic support</li>
+
+<li>the end of <i>de minimis</i> support for developed economies; </li>
+
+<li>the introduction of disciplines on blue-box support at a product-specific level. </li>
+
+</ul>
+<p>On export competition the ACP group has called for:</p>
+<ul>
+
+<li>a credible end date for the complete elimination of export subsidies and other equivalent forms of export support; </li>
+
+<li>arrangements for food aid that accommodate the needs of net food-importing developing countries and food aid recipients; </li>
+
+<li>provisions on state trading enterprises that allow ACP governments to continue to use such institutions. </li>
+
+</ul>
+<p>On market access the ACP group has called for:</p>
+<ul>
+
+<li>the issue of preference erosion to be addressed concretely and comprehensively;</li>
+
+<li>the granting of full duty-free, quota-free (DFQF) access for LDCs to all OECD and advanced developing country markets, and for LDCs ‘to get the Round for free’; </li>
+
+<li>full access to the special safeguard mechanism (SSM) through procedures which allow effective protection against import surges. </li>
+
+</ul>
+<p>On cotton issues the ACP has called for:</p>
+<ul>
+
+<li>the immediate elimination of export subsidies; </li>
+
+<li>the immediate reduction of production support in the cotton sector and its rapid phasing out; </li>
+
+<li>complete duty-free access for LDC cotton and cotton products to all OECD markets; </li>
+
+<li>the establishment of compensatory development assistance programmes for ACP cotton producers. </li>
+
+</ul>
+<p>The ACP group has called for specific measures to address instability in commodity prices and for the needs of small and vulnerable economies (SVEs) to be fully addressed within all relevant provisions.</p><p>The EU’s approach to the WTO agricultural negotiations is rooted in the EU common agricultural policy (CAP) reform process, notably in securing international acceptance of new forms of direct aid payment. The shifting balance between trade policy tools and financial support instruments within the CAP sets the parameters for the EU position in the Doha Development Round.</p><p>The EU is looking increasingly to shift WTO negotiations towards the removal of non-tariff barriers to trade and towards addressing a range of ‘behind border’ issues.</p><a name="eztoc495634_2" id="eztoc495634_2"></a><h2><b>2. Latest developments</b></h2><p><b>2.1 Progress in the negotiations</b></p><p><b>&nbsp;</b>During 2010 a two-pronged approach to the negotiation process was consolidated. This consists of continuing technical consultations and negotiations at the multilateral level, and smaller bilateral and plurilateral consultations designed to test and explore potential outcomes. While some small group discussions have yielded results, notably resolving the banana dispute, concerns have been expressed that the outcomes they generate can vary significantly from multilaterally agreed texts (see section 2.5). The plurilateral agreement on the treatment of preference erosion products alongside the banana deal was questioned by a number of WTO members who maintained that the products selected for inclusion as ‘preference erosion’ products varied significantly from the agreed December 2008 WTO agriculture modalities text (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/WTO/Progress-on-preference-erosion-products-but-pessimism-overall" target="_self">Progress on “preference erosion” products but pessimism overall</a>’, March 2010).</p><p>ACP governments for their part have ‘deplored’ the deal concluded bilaterally between the USA and Brazil to resolve their WTO cotton dispute. These views highlight the difficulties of trying to move multilateral negotiations forward through parallel processes of plurilateral negotiations (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/WTO/Cotton-and-the-reassertion-of-ACP-concerns-in-the-Doha-process" target="_self">Cotton and the reassertion of ACP concerns in the Doha process</a>’, March 2011).</p><p>Overall, meetings during 2010 to take stock revealed a lack of substantive progress on agricultural issues, including those of greatest interest to the ACP, namely issues around:</p>
+<ul>
+
+<li>cotton;</li>
+
+<li>sugar;</li>
+
+<li>bananas;</li>
+
+<li>preference erosion;</li>
+
+<li>the elimination of export refunds;</li>
+
+<li>the flexibilities granted to developed economies; </li>
+
+<li>the special safeguard mechanisms. </li>
+
+</ul>
+<p>Even on preference erosion, where agreement on the approach appeared to be emerging, the critical issue of which products are to be designated preference erosion products, and hence subjected to special treatment, was left unresolved.</p><p>Calls from ACP/LDC countries for ‘early harvest’ in the form of resolution of issues that are central to the development dimension of the Doha Round have largely fallen on deaf ears. In particular these countries have called for an early resolution of the cotton issue and the full extension of DFQF access to LDCs. This has led some analysts to argue that development-related issues are falling off agenda of the Doha Development Round (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/layout/set/print/Agriculture/Topics/WTO/State-of-Doha-negotiations-reviewed-by-South-Centre" target="_self">State of Doha negotiations reviewed by South Centre</a>’, June 2010).</p><p>This has led to a situation where WTO Director-General Pascal Lamy in effect relaunched the negotiations in December 2010 by calling for WTO members to conclude negotiations by the end of 2011. Agricultural negotiations restarted in mid January with the aim of having an updated negotiating text by the end of March 2011, stressing that the new draft text would have to be a bottom-up process, and would rely on the members themselves making new compromise proposals. However by the end of March 2011 little progress was evident (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/WTO/Negotiations-relaunched-but-not-necessarily-re-energised" target="_self">Negotiations relaunched by not necessarily re-energised</a>’, January 2011)</p><p>In mid February 2011, Brazil proposed that market opening for key farm products such as beef, pork and poultry, dairy products, sugar and rice, ‘should go beyond levels currently proposed … in return for the greater market access for manufactures’ to developing country markets. Such concessions in the WTO could variously involve ‘capping tariffs or cutting them more deeply than previously proposed’, leading to a ‘top-up to the agriculture text’. Such a ‘top-up’ would see ‘greater market access for farm goods … “calibrated” with market opening in other areas’. This proposal received a cool reception from developed country governments, suggesting little enthusiasm from OECD countries for further agricultural market opening, beyond that already on the table (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/WTO/Agricultural-market-access-remains-at-heart-of-WTO-deal" target="_self">Agricultural market remains at heart of WTO deal</a>’, April 2011).</p><p>While agricultural market access issues remain at the heart of any WTO deal, there is, despite high world market prices, little enthusiasm for new concessions. Increasingly the negotiation of agricultural tariff concessions is being taken into bilateral forums (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/layout/set/print/Agriculture/Topics/EU-FTAs/EU-farmers-release-data-on-concerns-over-EU-Mercosur-negotiations" target="_self">EU farmers release data on concerns over EU–Mercosur negotiations</a>’, April 2011).</p><p><b>2.2&nbsp; Progress on cotton issues</b></p><p><b>&nbsp;</b>ACP cotton producers have been in the forefront of efforts to end OECD trade-distorting export and production subsidies in the cotton sector. West African cotton producers (the so-called C4 group of Mali, Burkina Faso, Chad and Benin) have tabled specific proposals at the WTO for a substantial, accelerated reduction of OECD cotton subsidies and their total elimination as soon as possible. Interim demands have been tabled for transitional measures for LDCs to provide compensation to offset income losses arising from OECD policies.</p><p>In WTO parlance the C4 group called for:</p>
+<ul>
+
+<li>the extension of the concept of ‘special products’ to the offensive interests of developing countries, such as the export of such products being essential for agricultural development or the survival of the rural population;</li>
+
+<li>explicit recognition that cotton is a ‘special’ product for development and poverty reduction in LDCs and, as such, should benefit from special treatment to ensure fair access to global markets;</li>
+
+<li>the total elimination of border measures, domestic support, and all forms of subsidies for the export of cotton.</li>
+
+</ul>
+<p>The little progress achieved led the ACP to release a statement on 27 January 2011, arguing that a solution to the cotton problem ‘cannot wait’, and calling for an ‘immediate resumption’ of negotiations on the cotton issue based on the December 2008 draft modalities (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/WTO/Cotton-and-the-reassertion-of-ACP-concerns-in-the-Doha-process" target="_self">Cotton and the reassertion of ACP concerns in the Doha process</a>’, March 2011). This was followed on 15 March by the launching of the WAEMU cotton initiative, intensifying lobbying for C4 cotton concerns to be addressed in both the 2013 process of CAP reform and the revision of the US Farm Bill. This initiative aims essentially to secure ‘a substantial reduction or even elimination of domestic subsidies that distort international cotton trade’. (See <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Cotton/WAEMU-cotton-initiative-launched" target="_self">WAEMU cotton initiative launched</a>’, April 2011.)</p><p>The January statement expressed particular concern over the bilateral accommodation reached between the US and Brazil to resolve Brazil’s challenge to US cotton subsidies which had been taken to the WTO dispute settlement process. The April 2010 US–Brazil bilateral agreement has three components:</p>
+<ul>
+
+<li>an offer to Brazil of US$147.3 million per year in a ‘technical assistance’ fund;</li>
+
+<li>a commitment to making changes to an export credit programme supporting overseas buyers purchasing US cotton;</li>
+
+<li>a commitment to begin opening up the US market to imports of Brazilian meat products.</li>
+
+</ul>
+<p>In exchange for these concessions Brazil agreed to ‘hold off’ from retaliatory trade measures. This agreement was consolidated in June 2010 with a framework for dealing with cotton issues in the context of a review in Congress of the US Farm Bill.</p><p>Some Brazilian observers argued that the deal ‘does not go far enough to right the wrongs of US cotton subsidies’, as it ‘lacked the symbolism of change’ in US policy that Brazil sought with its WTO suit.</p><p>This interim resolution of the US–Brazil cotton dispute would appear to reduce the pressure on the US to make concessions on cotton at the WTO, without there being a broader agreement. Current high world market prices of cotton notwithstanding, this would leave the C4 countries of West Africa fully exposed to the fluctuations of distorted global cotton markets. This would appear to be particularly the case in view of the projected 12% expansion in US cotton sowings in response to high global cotton prices (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/WTO/Cotton-and-the-reassertion-of-ACP-concerns-in-the-Doha-process" target="_self">Cotton and the reassertion of ACP concerns in the Doha process</a>’, March 2011). It is unlikely that such a rapid expansion of the area under cotton would have been possible without US production being sustained at higher levels during periods of low prices by the systems of public sector assistance available to its cotton farmers.</p><p><b>Table 1: Cotton outlook ‘A’ index, middling 1-3/32 inch staple, CIF Liverpool, US cents/lb</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="34" valign="top">  <b>&nbsp;</b>
+  </td><td width="34" valign="top">  <b>Jan</b>
+  </td><td width="34" valign="top">  <b>Feb</b>
+  </td><td width="34" valign="top">  <b>Mar</b>
+  </td><td width="34" valign="top">  <b>Apr</b>
+  </td><td width="34" valign="top">  <b>May</b>
+  </td><td width="34" valign="top">  <b>Jun</b>
+  </td><td width="34" valign="top">  <b>Jul</b>
+  </td><td width="34" valign="top">  <b>Aug</b>
+  </td><td width="34" valign="top">  <b>Sep</b>
+  </td><td width="34" valign="top">  <b>Oct</b>
+  </td><td width="34" valign="top">  <b>Nov</b>
+  </td><td width="34" valign="top">  <b>Dec</b>
+  </td>
+</tr>
+
+<tr>
+<td width="34" valign="top">  2011
+  </td><td width="34" valign="top">  178.93
+  </td><td width="34" valign="top">  213.18
+  </td><td width="34" valign="top">  229.67
+  </td><td width="34" valign="top">  ….
+  </td><td width="34" valign="top">  &nbsp;
+  </td><td width="34" valign="top">  &nbsp;
+  </td><td width="34" valign="top">  &nbsp;
+  </td><td width="34" valign="top">  &nbsp;
+  </td><td width="34" valign="top">  &nbsp;
+  </td><td width="34" valign="top">  &nbsp;
+  </td><td width="34" valign="top">  &nbsp;
+  </td><td width="34" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="34" valign="top">  2010
+  </td><td width="34" valign="top">  77.40
+  </td><td width="34" valign="top">  80.04
+  </td><td width="34" valign="top">  58.79
+  </td><td width="34" valign="top">  88.09
+  </td><td width="34" valign="top">  90.07
+  </td><td width="34" valign="top">  91.68
+  </td><td width="34" valign="top">  84.15
+  </td><td width="34" valign="top">  90.38
+  </td><td width="34" valign="top">  104.73
+  </td><td width="34" valign="top">  126.55
+  </td><td width="34" valign="top">  155.46
+  </td><td width="34" valign="top">  168.24
+  </td>
+</tr>
+
+<tr>
+<td width="34" valign="top">  2009
+  </td><td width="34" valign="top">  57.70
+  </td><td width="34" valign="top">  55.21
+  </td><td width="34" valign="top">  51.20
+  </td><td width="34" valign="top">  56.78
+  </td><td width="34" valign="top">  61.95
+  </td><td width="34" valign="top">  61.39
+  </td><td width="34" valign="top">  64.80
+  </td><td width="34" valign="top">  64.26
+  </td><td width="34" valign="top">  64.07
+  </td><td width="34" valign="top">  66.82
+  </td><td width="34" valign="top">  71.78
+  </td><td width="34" valign="top">  76.78
+  </td>
+</tr>
+
+<tr>
+<td width="34" valign="top">  2008
+  </td><td width="34" valign="top">  73.25
+  </td><td width="34" valign="top">  75.05
+  </td><td width="34" valign="top">  80.18
+  </td><td width="34" valign="top">  57.41
+  </td><td width="34" valign="top">  74.12
+  </td><td width="34" valign="top">  77.04
+  </td><td width="34" valign="top">  77.29
+  </td><td width="34" valign="top">  78.04
+  </td><td width="34" valign="top">  73.59
+  </td><td width="34" valign="top">  62.30
+  </td><td width="34" valign="top">  55.06
+  </td><td width="34" valign="top">  55.47
+  </td>
+</tr>
+
+<tr>
+<td width="34" valign="top">  2007
+  </td><td width="34" valign="top">  59.05
+  </td><td width="34" valign="top">  57.89
+  </td><td width="34" valign="top">  58.41
+  </td><td width="34" valign="top">  57.18
+  </td><td width="34" valign="top">  55.57
+  </td><td width="34" valign="top">  60.44
+  </td><td width="34" valign="top">  67.81
+  </td><td width="34" valign="top">  66.62
+  </td><td width="34" valign="top">  68.21
+  </td><td width="34" valign="top">  68.93
+  </td><td width="34" valign="top">  69.71
+  </td><td width="34" valign="top">  69.59
+  </td>
+</tr>
+
+</table>
+<p><b>2.3 The debate on the treatment of sugar </b></p><p><b>&nbsp;</b>While there were no significant developments in the treatment of EU sugar sector tariffs and trade measures in the WTO negotiations, the context of these negotiations has been transformed by price developments on world sugar markets. Currently EU bound tariff rates on white sugar and raw sugar for refining are €419/tonne and €339/tonne respectively. This places sugar in the category requiring the highest level of tariff cuts under a WTO agreement.</p><p>Traditionally ACP sugar sector stakeholders have argued for sugar to be treated in the WTO negotiations as a ‘long-standing preference’ product (i.e. a ‘sensitive product’), a view reiterated in May 2010. At a dedicated workshop on CAP reform and the ACP sugar sector, ACP sugar sector stakeholders also expressed support for the EU to be allowed to make use of the Special Safeguard Clause for sugar for as long as possible. This view however was articulated at a time of falling world market prices, during a quarter of the year when world market prices were on average 17.5% below EU sugar prices. A different view might transpire if world market sugar prices were consistently above EU sugar prices, as occurred in the fourth quarter of 2010.</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="443" valign="top">  <p class=" text-center"><b>Additional related ACP sugar sector stakeholder demands</b></p><p>In addition to calls for the treatment of sugar as a ‘sensitive product’ in the WTO negotiations, ACP sugar sector stakeholders have called for:</p>
+<ul>
+
+<li>the continued use of production quotas as a sugar market management tool under the CAP;</li>
+
+<li>the maintenance of EU sugar reference prices;</li>
+
+<li>a limitation of the expansion of tariff-rate quota (TRQ) access for sugar under bilateral FTA arrangements;</li>
+
+<li>the accommodation of any additional TRQ access granted through a reduction in EU sugar production quotas.</li>
+
+</ul>
+
+  </td>
+</tr>
+
+</table>
+<p>On the assumption that world market prices would remain substantially below EU sugar market prices, the initial EU policy perspective was gravitating towards treating sugar as a ‘sensitive product’. Such a designation would allow the EU to introduce lower tariff reductions than would be generally required, but in exchange for an expansion of tariff-rate quota access to the EU market. Depending on the level of deviation from the standard tariff reductions which the EU sought for sugar (two-thirds, one-half, one-third), the additional TRQ access which the EU would be required to grant would range between 500,000 and 850,000 tonnes. The tariff charged under these additional quotas must be the same as the lowest bound rate for existing TRQs, which under the EU’s current schedule is zero. This expanded access would need to be phased in over 7 years.</p><p>In contrast, a straight tariff cut without any deviation and with no expanded TRQ access would need to be phased in over an 8-year period. Even without expanded TRQ access, the EU would be allowed to maintain some level of tariff protection for sugar for 8 years. In addition, the continuation of special safeguard provisions would provide additional levels of protection for the EU sugar sector.</p><p>Treating sugar as a sensitive product is therefore appropriate if, for a sustained period of time, world market sugar prices are likely to remain below EU sugar market prices. Standard tariff protection would be too little to prevent a flood of sugar imports from low cost suppliers such as Brazil, meaning a need for special tariff treatment and expanded TRQ access. If, however, world market prices remained relatively close to EU market prices, or, as occurred from the fourth quarter of 2010 and first quarter of 2011, world market prices were above EU market prices, then standard tariff protection would probably be sufficient to prevent a flood of imports.</p><p><b>Table 2: Average sugar prices on markets open to ACP sugar exporters (US cents/lb)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="39" valign="top">  <b>&nbsp;</b>
+  </td><td width="38" valign="top">  <p class=" text-center"><b>2008 </b></p><p class=" text-center"><b>Ave</b></p>
+  </td><td width="38" valign="top">  <p class=" text-center"><b>2009</b></p><p class=" text-center"><b>Q1</b></p>
+  </td><td width="38" valign="top">  <p class=" text-center"><b>2009</b></p><p class=" text-center"><b>Q2</b></p>
+  </td><td width="38" valign="top">  <p class=" text-center"><b>2009</b></p><p class=" text-center"><b>Q3</b></p>
+  </td><td width="38" valign="top">  <p class=" text-center"><b>2009</b></p><p class=" text-center"><b>Q4</b></p>
+  </td><td width="38" valign="top">  <p class=" text-center"><b>2010</b></p><p class=" text-center"><b>Q1</b></p>
+  </td><td width="38" valign="top">  <p class=" text-center"><b>2010</b></p><p class=" text-center"><b>Q2</b></p>
+  </td><td width="38" valign="top">  <p class=" text-center"><b>2010</b></p><p class=" text-center"><b>Q3</b></p>
+  </td><td width="38" valign="top">  <p class=" text-center"><b>2010</b></p><p class=" text-center"><b>Q4</b></p>
+  </td><td width="36" valign="top">  <p class=" text-center"><b>2011</b></p><p class=" text-center"><b>Q1</b></p>
+  </td><td width="24" valign="top">  <p class=" text-center"><b>2011</b></p><p class=" text-center"><b>Q2</b></p>
+  </td>
+</tr>
+
+<tr>
+<td width="39" valign="top">  <b>EU</b>
+  </td><td width="38" valign="top">  <b>27.76</b>
+  </td><td width="38" valign="top">  <b>23.84</b>
+  </td><td width="38" valign="top">  <b>25.76</b>
+  </td><td width="38" valign="top">  <b>27.29</b>
+  </td><td width="38" valign="top">  <b>27.17</b>
+  </td><td width="38" valign="top">  <b>25.96</b>
+  </td><td width="38" valign="top">  <b>24.79</b>
+  </td><td width="38" valign="top">  <b>25.79</b>
+  </td><td width="38" valign="top">  <b>26.31</b>
+  </td><td width="36" valign="top">  <b>26.64</b>
+  </td><td width="24" valign="top">  <b>27.09</b>
+  </td>
+</tr>
+
+<tr>
+<td width="39" valign="top">  <b>US</b>
+  </td><td width="38" valign="top">  <b>21.32</b>
+  </td><td width="38" valign="top">  <b>20.32</b>
+  </td><td width="38" valign="top">  <b>22.10</b>
+  </td><td width="38" valign="top">  <b>25.13</b>
+  </td><td width="38" valign="top">  <b>29.79</b>
+  </td><td width="38" valign="top">  <b>29.09</b>
+  </td><td width="38" valign="top">  <b>26.36</b>
+  </td><td width="38" valign="top">  <b>31.81</b>
+  </td><td width="38" valign="top">  <b>36.94</b>
+  </td><td width="36" valign="top">  <b>38.72</b>
+  </td><td width="24" valign="top">  <b>35.03</b>
+  </td>
+</tr>
+
+<tr>
+<td width="39" valign="top">  <b>World</b>
+  </td><td width="38" valign="top">  <b>12.45</b>
+  </td><td width="38" valign="top">  <b>12.83</b>
+  </td><td width="38" valign="top">  <b>15.17</b>
+  </td><td width="38" valign="top">  <b>20.99</b>
+  </td><td width="38" valign="top">  <b>23.61</b>
+  </td><td width="38" valign="top">  <b>20.68</b>
+  </td><td width="38" valign="top">  <b>16.10</b>
+  </td><td width="38" valign="top">  <b>20.69</b>
+  </td><td width="38" valign="top">  <b>27.13</b>
+  </td><td width="36" valign="top">  <b>28.32</b>
+  </td><td width="24" valign="top">  <b>23.55</b>
+  </td>
+</tr>
+
+</table>
+<p><b>&nbsp;</b>Sources:</p><p>US market prices: IMF</p><p>
+<a href="http://www.indexmundi.com/commodities/?commodity=sugar-us-import-price" target="_self">http://www.indexmundi.com/commodities/?commodity=sugar-us-import-price</a></p><p>EU market prices: IMF</p><p>
+<a href="http://www.indexmundi.com/commodities/?commodity=sugar-european-import-price&amp;months=60" target="_self">http://www.indexmundi.com/commodities/?commodity=sugar-european-import-p...</a></p><p>World market prices: IMF</p><p>
+<a href="http://www.indexmundi.com/commodities/?commodity=sugar&amp;months=60" target="_self">http://www.indexmundi.com/commodities/?commodity=sugar&amp;months=60</a></p><p><b>&nbsp;</b>Indeed, with a situation of high world market prices, ACP exporters may continue to divert raw sugar supplies away from the EU market towards national and regional markets. In this context, in the short term EU raw sugar refiners would be likely to face continued difficulties in securing sufficient supplies. However, as exportable production in the ACP expands, these supply problems would ease regardless of relative EU and world market prices.</p><p>Viewed from an ACP perspective, with the volatility of global sugar prices and the euro–US dollar exchange rate (a crucial determinant of the relative attractiveness of EU and world markets for sugar), there is considerable uncertainty over what would be the most appropriate treatment of sugar in the WTO.</p><p><b>2.4&nbsp; Developments in banana issues</b></p><p>On 15 December 2009 an agreement was reached to end the long-running WTO banana dispute. This will see the EU cut tariffs from €176/tonne to €114/tonne by 2017. The first tariff cut of €28 will be retroactively applied to 15 December 2010, once the necessary procedures for the incorporation of the agreement into national legislation have been completed. Further tariff reductions are to take place in seven annual stages starting in January 2011.</p><p>The December 2009 agreement duly entered into force on 31 May 2010. The retroactive tariff cut reportedly only benefited EU importers who reclaimed the duty, and not Latin American banana exporters. Despite the limited distribution of short-term gains, Latin American banana exports are expected to increase significantly in response to the tariff reductions.</p><p>The impact of the WTO banana agreement also needs to be seen against the additional tariff reductions in the FTA agreements with Colombia, Peru and five Central American countries. Under these bilateral trade agreements duties on bananas will fall progressively to €75 by 2020. Ecuadorian banana exporters are therefore currently pressing their government to renew FTA negotiations with the EU, to secure the additional quota-restricted tariff concessions the latter has made available on a bilateral basis to fellow Latin American banana exporters.</p><p>A European Parliament background study for the approval process for the Geneva banana deal projected a decline in the market share of both ACP and EU banana producers. Significantly, while in January 2011 the European Parliament’s trade committee approved the December 2009 banana deal, ‘both [the European Parliamentary Left/Nordic Green Left] and [the Greens/European Free Alliance] groups voted against granting Parliament’s consent’, since ‘the deal would jeopardise the basic rights of small producers by strengthening the monopoly position of big US multinationals controlling the banana market in Latin American countries’.</p><p><b>2.5&nbsp; Dealing with preference erosion products </b></p><p><b>&nbsp;</b>In parallel with the conclusion of the December 2009 banana deal, discussion took place on the approach to dealing with preference erosion products. The EU, Latin American and ACP governments agreed to ‘jointly promote’ an approach to tropical products and preference erosion products in the ongoing Doha Development Round negotiations. This would defer tariff cuts in ‘preference erosion’ products, with the parties concerned presenting plans for these cuts to the WTO.</p><p>Agreement was reached that listed preference erosion products should be subject to ‘gentler and slower tariff cuts’ (phased in over 10 years, rather than 5). According to ICTSD reports, it was agreed that preference erosion products would need to meet two criteria, namely, they had to be ‘sensitive’ and account for ‘more than 10% of domestic consumption on a given tariff line between 2003 and 2005’. Where products were treated as ‘preference erosion products’ then ‘quotas … would be expanded in equal annual instalments over a period of seven years’. However the crucial issue of which products are to be classified as preference erosion products and thereby subject to such special treatment was left unresolved.<b>&nbsp;</b></p><p>Additionally, products such as cut flowers, sugar, fruits and their juices, arrowroot, peanut oil and tobacco appear on the agreed list of products to receive preferential treatment as preference erosion products. While there was a desire to ring-fence the preference erosion compromise ‘so that momentum could be built for a conclusion to the WTO’s Doha Round trade talks’, a number of WTO members were ‘irritated’ by the products selected for inclusion as ‘preference erosion’ products. They saw these products as ‘significantly different from those agreed as part of the December 2008 WTO agriculture modalities’. One negotiator described the ‘preference erosion’ agreement as ‘a plurilateral agreement that needed to be multilateralised’ – exemplifying the difficulties of trying to move multilateral negotiations forward through parallel processes of plurilateral negotiations.</p><a name="eztoc495634_3" id="eztoc495634_3"></a><h2><b>3.&nbsp; Implications for the ACP</b></h2><p><b>3.1 Prospects for an agreement</b></p><p><b>&nbsp;</b>It is unclear that the political will exists to address the compromises that will need to be made to reconcile conflicting positions. In the agricultural sector the absence of any reference in the EC communication on the future of the CAP to its long-standing commitment to abolish export subsidies within a WTO context would suggest that a finalisation of the Doha Round in 2011 may not be fully realistic. It is equally unclear whether ACP concerns on the actual production and trade effects of ‘non-trade-distorting forms of support’ (given the scale of such programmes) will be addressed. Indeed, if progress begins to be made in the negotiations, ACP governments will need to take care to ensure that their concerns over matters such as preference erosion and the actual trade effects of decoupled direct aid payments are not just ignored.</p><p>Overall there is growing ACP concern that their priorities will be left aside as the major developed and advanced developing countries push for the finalisation of a Doha Round Agreement. The side deal between the USA and Brazil resolving their WTO cotton dispute was felt to provide a clear warning of what could happen within the wider WTO negotiations process (with the formal negotiations mirroring the ‘deal cutting’ arrangements used to conclude WTO disputes, generally leaving unresolved systemic issues of concern to the ACP. This was already held to be apparent in the December 2009 Geneva banana deal which resolved the long-running banana dispute in advance of a Doha deal but largely at the expense of traditional ACP banana suppliers.</p><p><b>3.2&nbsp; Putting WTO preference erosion in its wider context</b></p><p><b>&nbsp;</b>It can be argued that EU tariff concessions in a WTO context will further undermine the margins of tariff preferences which ACP suppliers currently enjoy, thereby undermining the competitive position of ACP exporters. While theoretically correct, in reality the value of ACP tariff preferences is first of all eroded firstly by the process of CAP reform. This is compounded by bilateral trade agreements which, by granting new tariff preferences to non-ACP producers, serve to erode the margins of tariff preferences enjoyed by ACP states.</p><p>Given the length of time required to finalise a WTO deal and set in place implementation modalities, the process is likely to compound the continuing processes of preference erosion rooted in the process of CAP reform and bilateral trade negotiations. Recent debates around the Mercosur–EU FTA negotiations are illustrative. Five years ago the prospect of a 500,000 tonne TRQ for beef imports negotiated at the multilateral level was the primary source of concern, whereas now the prospect of an imminent conclusion of bilateral negotiations between the EU and the Mercosur group is causing most concern. The impact of WTO tariff concessions cannot therefore be divorced from other tariff concessions that the EU is negotiating through bilateral trade agreements.</p><p>The potential losses to ACP exporters from a Doha agreement need to be seen in the wider context. Here a critical consideration is how the impacts of such an agreement interact with other EU policy choices in the affected sectors. These range from the future of sugar production quotas within the EU to the nature of bilateral tariff concessions under negotiations across a range of FTA agreement negotiations. A Doha agreement could be seen as exacerbate the current process of preference erosion while not itself being an underlying cause.</p><p><b>3.3 Dealing with sugar issues</b></p><p><b>&nbsp;</b>In many respects sugar is the key preference erosion issue for the ACP, given the effects of WTO provisions on EU sugar market prices. Such price effects cannot be separated from:</p><p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the price effects of tariff concessions for sugar granted by the EU under bilateral FTA arrangements; and</p><p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the price effects of the discontinuation of production quotas as a market management tool in the EU sugar sector.</p><p>For the ACP the critical concern is the cumulative effects on EU sugar market prices of changes in all of these areas. There is need therefore for a comprehensive consultation with the EC on the likely cumulative effects of sugar sector policy initiatives planned by the EC for the next three years. The consultation would need to include:</p>
+<ul>
+
+<li>internal reform of the EU sugar regime;</li>
+
+<li>the treatment of sugar across a multiplicity of trade agreements currently being negotiated by the EU; and</li>
+
+<li>the different options for dealing with sugar in the WTO tariff reduction negotiations.</li>
+
+</ul>
+<p>Only on the basis of these broader discussions can the best ACP option be determined for dealing with sugar issues in the WTO negotiations on tariffs.</p><p><b>3.4&nbsp; Re-energising the cotton discussions</b></p><p>The current debate on CAP reform and the next US Farm Bill is seen as an opportunity to re-energise the cotton discussions. One proposed line of approach would require the EU to end all coupled support for its cotton producers as part of the 2013 round of CAP reforms. It would furthermore require the EU to minimise the level of ‘box shifting’ taking place as part of the 2013 CAP reform process.</p><p>It is unclear, however, whether this is likely, given the March 2011 EU Council recognition of the need to maintain coupled payments in ‘sensitive’ sectors. It is unclear whether cotton would be considered such a sensitive sector. In view of the 58% decline that has taken place in EU cotton production since the initiation of reforms, southern European cotton growing countries may well consider the crop a ‘sensitive’ sector.</p><p>Any efforts to prioritise ACP cotton concerns within the current CAP reform discussions will need to pay close attention to the technical question of how the transition away from coupled support (which is an underlying principle of the CAP reform process) can best be managed. The financial crisis in Greece has highlighted the sensitivity of cotton sector issues in the EU (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/layout/set/print/Agriculture/Commodities/Cotton/USDA-review-of-EU-cotton-sector-developments" target="_self">USDA review of EU cotton-sector developments</a>’, May 2011).</p><p><b>3.5&nbsp; Beyond the ACP–EU banana trade</b></p><p><b>&nbsp;</b>With the WTO banana dispute now largely resolved, the focus of ACP concern has shifted to the treatment of bananas under bilateral EU trade deals and the impact of such deals on the prices received for ACP banana exports on different components of the EU banana market.</p><p>The reduction in tariffs already under way is increasing competition within all parts of the EU banana market – conventional, organic and fair-trade banana exports. While data are scarce due to confidentiality concerns, analysis compiled by FAO suggests that in the organic market, as the market grows and the range of suppliers expands, price differentials previously enjoyed over convention banana export begin to close.</p><p>A similar trend may be under way in the fair-trade component of the market, where the highly competitive commercial practices of supermarket chains create tensions with fair-trade principles, particularly guarantees of sustainable prices for producers. This is likely to see a downward pressure on fair-trade prices as the number of fair-trade suppliers securing access to the EU market at reduced tariff rates expands. This is likely to undermine the price guarantees which underpin the fair-trade system.</p><p>This raises important questions related to:</p><p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EU fair-trade labelling regulations (regarding the extension to supermarkets of the requirement to be bound by fair-trade standards, given their use of fair-trade products as market positioning tools);</p><p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the functioning of ACP–EU banana supply chains (related to inequalities in power along the supply chain and the abuse of this power in commercial contract negotiations).</p><p>These issues are likely to take on growing significance, as the process of erosion of ACP banana sector tariff preferences (of which the WTO dimension is but one part) gains pace.</p><p>The key trading issues facing ACP banana exporters are now largely beyond the WTO framework. They are now concerned with EU labelling and regulatory requirements for quality-differentiated bananas, and the scope for joint ACP–EU policy initiatives to strengthen the functioning of the banana supply chain, given the vast inequalities in commercial power which characterise the various supply chains.</p><a name="eztoc495634_3_1" id="eztoc495634_3_1"></a><h3>Main sources</h3><p><b>The WTO negotiations process</b></p><p>1. ICTSD, ‘Ag negotiators prepare to kick-start Doha talks in January’, <i>Bridges Weekly Trade News Digest</i>, Volume 14, Number 43, 9 December 2010</p><p>
+<a href="http://ictsd.org/i/news/bridgesweekly/97735/" target="_self">http://ictsd.org/i/news/bridgesweekly/97735/</a></p><p>2. ICTSD, ‘Doha difficult road ahead for December mini-package’, <i>Bridges Weekly Trade News Digest</i>, Volume 15, Number 23, 22 June 2011</p><p>
+<a href="http://ictsd.org/i/news/bridgesweekly/109165/" target="_self">http://ictsd.org/i/news/bridgesweekly/109165/</a></p><p>3. ICTSD, ‘Doha “Plan B” hits early roadblock’, <i>Bridges Weekly Trade News Digest</i>, Volume 15, Number 21, 8 June 2011</p><p>
+<a href="http://ictsd.org/i/news/bridgesweekly/108233/" target="_self">http://ictsd.org/i/news/bridgesweekly/108233/</a></p><p>4. South Centre, ‘WTO Doha talks face along drift’, <i>South Bulletin</i>, Issue 46, point of access to issue, May 2010</p><p>
+<a href="http://www.southcentre.org/index.php?option=com_content&amp;view=article&amp;id=1273%3Asb46&amp;catid=79%3Asouth-bulletin-reflections-and-foresights&amp;Itemid=106&amp;lang=en" target="_self">http://www.southcentre.org/index.php?option=com_content&amp;view=article...</a></p><p>5. WTO, Stocking-taking review, Agriculture Chair’s report, 22 March 2010</p><p>
+<a href="http://www.wto.org/english/tratop_e/agric_e/negoti_tnc_22march10_e.htm" target="_self">http://www.wto.org/english/tratop_e/agric_e/negoti_tnc_22march10_e.htm</a></p><p>6. World Bank, ‘Conclude Doha: It matters’, <i>Policy Research Working Paper</i>, Ref. WPS5135, November 2009</p><p>
+<a href="http://www-wds.worldbank.org/external/default/WDSContentServer/IW3P/IB/2009/11/18/000158349_20091118112934/Rendered/PDF/WPS5135.pdf" target="_self">http://www-wds.worldbank.org/external/default/WDSContentServer/IW3P/IB/2...</a></p><p><b>WTO and price volatility</b></p><p>7. ICTSD, ‘Food security, price volatility and trade: some reflections for developing countries’, <i>Issue Paper </i>No. 28, November 2010</p><p>
+<a href="http://www.acp-eu-trade.org/library/files/%20Diaz-Bonilla_Ron_En_01122010_ICTSD_Food%20Security%20Price%20Volatility%20and%20Trade.pdf" target="_self">http://www.acp-eu-trade.org/library/files/%20Diaz-Bonilla_Ron_En_0112201...</a></p><p><b>WTO and cotton issues</b></p><p>8. ICTSD, ‘ACP countries call for immediate action on cotton subsidies’, <i>Bridges Weekly Trade News Digest</i>, Volume 15, Number 3, 2 February 2011</p><p>
+<a href="http://ictsd.org/i/news/bridgesweekly/99981/" target="_self">http://ictsd.org/i/news/bridgesweekly/99981/</a></p><p><b>WTO and sugar</b></p><p>9. ICTSD, ‘How would a trade deal on sugar affect exporting and importing countries?’, <i>Issue Paper</i>, No. 24, September 2009</p><p>
+<a href="http://ictsd.org/downloads/2009/10/sugar_web.pdf" target="_self">http://ictsd.org/downloads/2009/10/sugar_web.pdf</a></p><p><b>WTO and bananas</b></p><p>10. ICTSD, ‘How would a WTO agreement on bananas affect exporting and importing countries’, 2009</p><p>&nbsp;
+<a href="http://www.ecostat.unical.it/anania/eie0809/Anania,%20banane%20Ictsd%20per%20web.pdf" target="_self">http://www.ecostat.unical.it/anania/eie0809/Anania,%20banane%20Ictsd%20p...</a></p><p><b>Safeguard mechanism issues</b></p><p>11. ICTSD, ‘Simulations on the special safeguard mechanism’, <i>Issue Paper </i>No. 25, April 2010</p><p>
+<a href="http://ictsd.org/downloads/2010/06/raul_montemayor_web_2.pdf" target="_self">http://ictsd.org/downloads/2010/06/raul_montemayor_web_2.pdf</a></p><p><b>EU agricultural trade policy</b></p><p>12. WTO, ‘Trade policy review: European Union’, point of entry to full TPR documentation, 6 and 8 July 2011</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp348_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp348_e.htm</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Executive-Brief-Update-2013-WTO-Agreement-on-Agriculture">Executive Brief Update 2013: WTO Agreement on Agriculture</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Executive-Brief-Update-2012-WTO-Agreement-on-Agriculture">Executive Brief Update 2012: WTO Agreement on Agriculture</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Executive-Brief-Update-2011-WTO-Agreement-on-Agriculture">Executive Brief Update 2011: WTO Agreement on Agriculture</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/WTO-agreement-on-agriculture-Implications-for-the-ACP">WTO agreement on agriculture: Implications for the ACP</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":131,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

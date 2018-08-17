@@ -1,0 +1,222 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Malawi maize export ban complicates Kenyan tariff policy debate  / Cereals / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																														
+																																																																																																																																																																																																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7893/(search)/simple">Cereals</a>
+							
+																																									
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Malawi maize export ban complicates Kenyan tariff policy debate </h1>
+
+			
+			<h4>
+												12 February 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>On 29 December 2011, the government of Malawi took the unexpected step of suspending all export licences for maize and maize products in the face of fears over looming shortages. Estimates suggest that 10 of Malawi’s 28 districts ‘are at risk of maize shortages’. This reverses earlier successes in boosting maize production through the rolling out of a large-scale input supply programme and investments in export-oriented commercial maize production.</p><p>On 4 January 2012, the Grain Traders Association of Malawi (GTAM) announced its agreement with the export ban. Grace Mhango, Director of GTAM, argued that while ‘official figures indicate that about 250,000 metric tonnes to 300,000 metric tonnes have been exported ... there were some informal exports which were not quantified’. It had been expected that Malawi would export ‘at least 600,000 metric tonnes’, but erratic rains mean that this policy is being reconsidered.</p><p>The Farmers Union of Malawi (FUM) however has come out against the export ban. The FUM President, Felix Jumbe, said ‘many companies and commercial farmers that grow maize for exportation have been demoralized by the decision’.</p><p>Government representatives insist the export ban is a temporary measure to allow the national reserve to be rebuilt. In an effort to stimulate production, the government-run Agricultural Development and Marketing Corporation announced a 50% increase in the maize price (from $12/ 50kg bag to $18).</p><p>The export ban was unexpected since according to press reports ‘Malawi announced a bumper harvest of 3.2 million tonnes of maize against a national consumption of 2.4 million tonnes’. This allowed exports to drought-affected and food-deficit countries such as South Sudan, Kenya and Zimbabwe.</p><p>The Zambian government, however, has reiterated its continued commitment to exporting maize, despite instructions to the national food reserve agency to double its maize purchases, given the vulnerability of production to poor rains, and a ‘bad start’ to the season. Some 200,000 tonnes of maize have so far been exported, with a further 400,000 tonnes available for export, out of the total surplus of 1 million tonnes. The strong production performance of the Zambian maize sector in part stems from a successful input supply programme.</p><p>The export ban reduces Kenya’s options for securing reduced tariff maize supplies from within the COMESA region (a 25% tariff as opposed to a 50% tariff on imports from non-COMESA members such as South Africa). Malawi, Zambia and South Africa have in recent years been an important source of white maize for the manufacture of flour and animal feed in Kenya.</p><p>Following the November/December harvest in Kenya, maize farmers have still been reluctant to release stocks, despite an increase in the price paid by the National Cereals and Produce Board to KSh3,000 per bag, described by the World Bank as ‘among the highest in the world’. This has seen the consumer price of maize flour remaining high, rather than subject to the normal-post harvest price declines.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Nyasa Times</i>, ‘Malawi hunger becomes increasingly common maize exports banned’, 2 January 2012</p><p>
+<a href="http://www.nyasatimes.com/malawi/2012/01/02/malawi-hunger-becomes-increasingly-common-maize-exports-banned/" target="_self">http://www.nyasatimes.com/malawi/2012/01/02/malawi-hunger-becomes-increa...</a></p><p><i>The Daily Times </i>(Blantyre), ‘Grain traders back maize export ban’, 5 January 2012</p><p>
+<a href="http://www.bnltimes.com/index.php/daily-times/headlines/national/3404-grain-traders-back-maize-export-ban" target="_self">http://www.bnltimes.com/index.php/daily-times/headlines/national/3404-gr...</a></p><p><i>Zodiak Online</i>, ‘Farmers say maize-sale ban inappropriate’, 4 January 2012</p><p>
+<a href="http://www.zodiakmalawi.com/zbs%20malawi/index.php?option=com_content&amp;view=article&amp;id=3978:farmers-say-maize-sale-ban-inappropriate&amp;catid=44:news-top&amp;Itemid=123" target="_self">http://www.zodiakmalawi.com/zbs%20malawi/index.php?option=com_content&am...</a></p><p>Reuters, ‘Zambia maize eases southern Africa supply crunch’, 19 January 2012</p><p>
+<a href="http://af.reuters.com/article/investingNews/idAFJOE80I08020120119" target="_self">http://af.reuters.com/article/investingNews/idAFJOE80I08020120119</a></p><p><i>Times of Zambia</i>, ‘State wants FRA to double maize reserves’, 2 January 2012</p><p>
+<a href="http://www.times.co.zm/index.php?view=article&amp;catid=36%3Alocal-news&amp;id=3917%3Astate-wants-fra-to-double-maize-reserves&amp;tmpl=component&amp;layout=default&amp;page=&amp;option=com_content&amp;Itemid=27" target="_self">http://www.times.co.zm/index.php?view=article&amp;catid=36%3Alocal-news&...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The action of the government of Malawi highlights the interactions between developments in national markets across Southern and Eastern Africa. The radical turnaround in the supply situation in South Africa appears to have played a role in government decision-making (see <i>Agritrade</i> article, ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Cereals/Debate-on-the-regulation-of-maize-exports-intensifies-in-South-Africa" target="_blank">Debate on the regulation of maize exports intensifies in South Africa</a>’, February 2012). Equally, the Malawian government action could impact on domestic policy formulation as far afield as Kenya.</p><p>Reduced access to the lower tariff maize available from COMESA suppliers (25% compared to a normal 50% duty) may compel the Kenyan government to renew the general tariff waiver for maize. This however could exert a downward pressure on maize prices, which would discourage domestic maize production.</p><p>Given the underlying food security concerns of many East and Southern African governments, the question arises as to the appropriate geographical level at which to pursue food security in an era of rising and volatile cereal prices. This is directly linked to the issue of the creation of larger economic areas within which free trade can take place. Clearly there is a preference for fostering integrated regional markets as a basis for investment in more competitive cereals production. Yet there is a lack of clarity over what constitutes ‘the region’, since even within narrowly defined ‘regions’ (e.g. the EAC), non-tariff barriers to trade – such as export bans – are still being deployed, despite a nominal commitment to their elimination.</p><p>A lack of transparency on supply and price trends on national and regional markets would appear to encourage the arbitrary use of non-tariff policy tools (e.g. export bans). Promoting greater transparency of underlying supply, demand and price trends across the Eastern and Southern Africa region may provide governments with sufficient reassurance for them to accept greater regional disciplines on the use of non-tariff trade policy tools, which in turn may foster the building of more efficient regional cereals trading networks.</p><p>However policy initiatives will also need to be set in place to strengthen the functioning of cereals supply chains at the national level (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Cereals/World-Bank-adds-to-cereals-policy-discussions-in-the-EAC" target="_blank">World Bank adds to cereals policy discussions in the EAC</a>’, February 2012).</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Maize-value-chain-East-Southern-Africa-COMESA-launches-Road-Map-to-boost-regional-maize-trade">Maize value chain/East-Southern Africa – COMESA launches Road Map to boost regional maize trade</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cereals/Wheat-value-chain-Ethiopia-Farmers-gaining-from-improved-crop-varieties">Wheat value chain/Ethiopia – Farmers gaining from improved crop varieties</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Ethiopia-Over-5-million-Ethiopian-farmers-to-benefit-from-IBM-s-ECX-Traceability-System">Input value chain/Ethiopia - Over 5 million Ethiopian farmers to benefit from IBM's ECX Traceability System</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Grain-value-chain-Ethiopia-Research-reveals-indigenous-crop-varieties-face-danger">Grain value chain/Ethiopia - Research reveals indigenous crop varieties face danger</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Grain-value-chain-Rwanda-Maize-farmers-decry-lack-of-market-for-their-produce">Grain value chain/ Rwanda: Maize farmers decry lack of market for their produce</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":172,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

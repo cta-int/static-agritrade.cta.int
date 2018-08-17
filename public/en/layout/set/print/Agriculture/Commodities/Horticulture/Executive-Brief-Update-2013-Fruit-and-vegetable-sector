@@ -1,0 +1,301 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2013: Fruit and vegetable sector / Horticulture / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																														
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																												
+																																																																																																																																																																																										,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7802/(search)/simple">Horticulture</a>
+							
+																																																																																																																																																																																																			
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2013: Fruit and vegetable sector</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/233849/2808833/file/6aedddb514d5523bb4497e992a7d2fd7.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+												16 December 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc2808800_0_1" id="eztoc2808800_0_1"></a><h3><b>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Background and key issues</b></h3><p>Around 37 ACP countries are involved in exporting fruit and vegetables to the EU, accounting for some 13% of EU imports. While competition from non-ACP suppliers is increasing as new EU trade agreements are implemented, the impact of this competition varies considerably from product to product. A detailed analysis is therefore required, to determine the likely impact on ACP suppliers, of each new trade agreement, the existing markets served and investment trends. The restructuring challenges can then be assessed.</p><p>The stricter application of EU sanitary and phyto-sanitary (SPS) standards and moves towards full recovery of inspection costs are reducing the attractiveness of the EU market. This is encouraging a policy emphasis on market diversification, although this remains challenging at the company level. Transport and logistical developments play an important role in the scope for market diversification, although securing SPS approvals remains a prerequisite for exports to begin. This can be a long and expensive process.</p><p>In the Caribbean particular challenges are posed in 2013 by US proposals to strengthen rules on imports of fresh fruit and vegetables; in the Pacific continued problems of SPS approvals are faced on the Australian market.</p><p>There is scope for pan-ACP cooperation across a range of issues of growing significance in the fruit and vegetable sector, including:</p>
+<ul>
+
+<li>establishing structures for dialogue about the design and implementation of SPS and food safety controls, and the extent to which full-cost recovery should be applied to inspections of fruit and vegetables from ACP countries; </li>
+
+<li>cooperation and mutual assistance in establishing SPS import protocols with third countries (e.g., China);</li>
+
+<li>establishing information systems to monitor evolving market trends;</li>
+
+<li>developing regional programmes of assistance in strengthening SPS and food safety compliance;</li>
+
+<li>technical cooperation on improving packaging and product innovation in the fruit and vegetable sector.</li>
+
+</ul>
+<a name="eztoc2808800_0_2" id="eztoc2808800_0_2"></a><h3><b>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Latest developments</b></h3><p><b>2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in the EU fruit and vegetable sector</b></p><p><b>Trends in EU fruit and vegetable production and trade</b></p><p>According to the EC’s 2012 report ‘Agriculture in the European Union: Statistical and economic information’, “2012 was in global terms a positive year for the fruit and vegetable sector. No major crisis [shook] EU production, and prices maintained a balanced level.”</p><p>The general trend is thus for increasing volumes of EU fruit and vegetable exports and decreasing volumes of fruit and vegetable imports. Between 2008 and 2011, EU export volumes of vegetables, deciduous fruit and citrus fruit increased by 6.5%, 38.6% and 34.1%, respectively, while import volumes fell by 2.7%, 11.9%, and 18%, respectively. This trend continued into 2012, with particularly large increases in EU exports of onions and tomatoes (+12% and +40%, respectively, in the first 10 months of 2012). The EU’s net deficit in the fruit and vegetable trade has declined.</p><p>A major development in the EU fruit and vegetable sector is the move towards increased sustainable sourcing. In June 2012 a covenant was signed by “all major supermarkets, trading companies and NGOs in the Netherlands”, committing themselves to ensuring that “all fresh fruits and vegetables in Dutch supermarkets are sustainably produced” by 2020 (30% by 2014 and 50% by 2015). This covenant covers virtually the entire fruit and vegetable sector (90% of retail volume) (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Horticulture/Sustainability-concerns-go-mainstream-in-Dutch-fruit-and-vegetable-sector" target="_self">Sustainability concerns go mainstream in Dutch fruit and vegetable sector</a>’, 29 July 2012).</p><p>While considerably expanding demand for fruit and vegetable products that are certified sustainable, this programme coordinated by the Sustainable Trade Initiative could prove to be a double-edged sword for some ACP producers, who may find themselves poorly placed to expand the supply of certified sustainable fruit and vegetables in the face of increased competition from third-country suppliers now gearing up to supply EU markets under new free trade agreements (FTAs).</p><p>The response to consumer concerns over the “field to fork” environmental impact of agricultural production has been the launch in EU member states of national sustainability certification schemes. In June 2012 the Irish Food Board launched the ‘Origin Green’ labelling scheme, explicitly designed to differentiate Irish food and drink products from other third-country products on ‘sustainability’ grounds (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/Product-differentiation/Irish-Food-Board-introduces-new-quality-labelling-scheme" target="_self">Irish Food Board introduces new quality labelling scheme</a>’, 16 December 2012).</p><p>The question arises: what are likely to be the net revenue consequences for ACP fruit and vegetable exporters of sustainability certification becoming the industry norm? ACP exporters could face higher certification costs and downward pressure on prices as more and more traders and retailers compete in supplying certified sustainable fruit and vegetable products. Any disappearance of price premiums for sustainably produced fruit and vegetables would increase the importance of getting to grips with the issue of the distribution of the costs of sustainability certification along the supply chain.</p><p>Closely linked to growing concern over environmental sustainability is the growing demand for organic products in the EU. There continues to be a significant shortfall in EU organic production, particularly in Germany, which has been less affected by the economic downturn. This potentially creates market opportunities for ACP exporters of organic products. But domestic production of EU organic fruit and vegetables might well be stimulated by pending reforms to EU direct aid payments, which would make additional payments for a range of environmentally friendly farming practices automatic for certified organic EU producers. This, alongside the emergence of ‘local organic food’ movements, may require ACP fruit and vegetable exporters to move over to similar forms of dual certification (e.g., organic/fair-trade), in order to compete more effectively for consumer spending. This could throw up new challenges, however, given the increasing difficulties faced by smallholder producers in verifiably complying, cost-effectively, with EU SPS and food safety standards (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/New-EU-maximum-residue-levels-hit-Kenyan-vegetable-exports" target="_self">New EU maximum residue levels hit Kenyan vegetable exports</a>’, 28 April 2013).</p><p>The announcement in May 2013 of a new approach to EU food and feed controls, which introduces official controls on organic products based on product analysis rather than production process controls, could give rise to problems with imports from ACP countries with shortcomings in the operation of official control agencies (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/SPS-Food-safety/Concerns-expressed-over-impact-of-revision-of-EU-food-and-feed-controls-on-organic-sector" target="_self">Concerns expressed over impact of revision of EU food and feed controls...</a>’, 11 August 2013).</p><p>More broadly, the new approach for fruit and vegetable products involves an increase in mandatory controls and the introduction of full cost recovery for inspections. While micro-enterprises in the EU are exempt from full cost recovery, because of the implications for their competitiveness, there are no current plans to extend this exemption to ACP suppliers (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/SPS-Food-safety/New-EU-food-and-feed-controls-to-include-full-cost-recovery" target="_self">New EU food and feed controls to include full cost recovery</a>’, 7 July 2013).</p><p><b>CAP reforms and the fruit and vegetable sector</b></p><p>From 4 June to 9 September 2012 the EC held a public consultation on the future of the fruit and vegetable regime, with inputs feeding into a report on the regime’s performance and future (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Horticulture/EC-launches-consultation-on-future-of-fruit-and-vegetable-regime" target="_self">EC launches consultation on future of fruit and vegetable regime</a>’, 2 July 2012).</p><p>The EC believes that no major changes to the fruit and vegetable regime are required. The 2007 reform process set in place management and crisis prevention tools, decoupled processing aids, eliminated export refunds and strengthened the framework for support to producer organisations (POs). The EC acknowledges, however, that a certain “tweaking” of these policies may be necessary, in the face of increasing third-country competition on EU fruit and vegetable markets. The challenge of increased competition is seen as being compounded by the widening gap between trends in input costs (rising) and producer prices (stable).</p><p>In December 2012 the European farmers’ organisation Copa-Cogeca called on the EC “to take clear steps towards introducing legislation at EU level to help tackle unfair and abusive practices in the EU food chain”, with “voluntary codes backed by legislation that defines unfair and abusive practices” (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/CAP-reform/Report-on-improving-functioning-of-food-supply-chain-released" target="_self">Report on improving functioning of food supply chain released</a>’, 11 March 2013). In January 2013 the EC adopted a European Retail Action Plan and a Green Paper on unfair trading practices (UTPs) in the business-to-business food and non-food supply chains.</p><p>Development NGOs called for the EU to extend initiatives on UTPs to the international level, and for the EC to adopt “swift and tough action” to end UTPs along food supply chains, building on the UK’s proposed Groceries Code Adjudicator (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/CAP-reform/EC-policy-developments-on-addressing-unfair-trading-practices" target="_self">EC policy developments on addressing unfair trading practices</a>’, 4 March 2013). This was consistent with the June 2012 petition to the EC from a coalition of NGOs and consumer organisations for any code of practice to be extended to overseas suppliers. The need for such a code of practice is highlighted by the debate around the distribution of costs and benefits of sustainability certification along fruit and vegetable supply chains.</p><p>In January 2013 the EC launched a public consultation on the future of its organic products regime, where fruit and vegetable production plays a major role. This included a review of how to ensure that internationally traded organic products are effectively monitored and verified (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/Product-differentiation/EU-launches-public-consultation-on-organic-production" target="_self">EU launches public consultation on organic production</a>’, 24 February 2013). This should be seen in the context of the conclusion of a growing number of organic standards mutual recognition agreements. Potentially two groups of overseas organic exports could be created: ‘insiders’, who face reduced costs of certification at the corporate level through the conclusion of mutual recognition agreements; and ‘outsiders’, who face higher certification costs at the corporate level, in a context of intensifying competition. EC “proposals for a renewed political and legal framework for organic agriculture in Europe” are scheduled for the end of 2013.</p><p><b>EU fruit and vegetable markets and third-country agreements</b></p><p>In terms of trade agreements and negotiations with non-ACP countries, the EU has:</p>
+<ul>
+
+<li>28 trade agreements already in force; </li>
+
+<li>8 further agreements where negotiations are complete but which are yet to enter into force; 
+<ul>
+
+<li>10 further trade negotiations under way; </li>
+
+<li>4 existing association agreements that the EU is planning to upgrade. </li>
+
+</ul>
+</li>
+
+</ul>
+<p>The impact of these agreements on ACP fruit and vegetable export interests needs to be assessed on a case-by-case basis. In some cases the concerns of EU fruit and vegetable producers find little echo in the ACP, where no export interest exists (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/EU-FTAs/Tomato-exports-cause-heated-debate-around-the-approval-of-the-EU-Morocco-agricultural-trade-accord" target="_self">Tomato exports cause heated debate around the approval of the EU–Morocco...</a>’, 11 March 2012). Nevertheless, the methodology used by EU farmers’ organisations in assessing and monitoring the market impact of new EU third-country agreements could be of interest to ACP fruit and vegetable exporters; in some instances opportunities for cooperation may arise.</p><p>Some new EU agreements are, however, of greater concern to ACP suppliers. The EU Andean Pact agreements, for example, will eliminate <i>ad valorem</i> tariffs on all citrus imports from Peru and Colombia.</p><p>The prospects for the conclusion of an EU–India FTA by the beginning of 2014 is a particular source of concern, given Indian government plans “to develop clusters of growers who will be trained in producing high-quality, export-standard vegetables”. This is likely to include the use of information technology to ensure greater food traceability and the establishment of “a minimum export price… to encourage the best producers to join the export clusters”. Given the scale of Indian production and the expatriate network that can be used in supporting market penetration, this could potentially pose a considerable challenge to ACP exporters.</p><p>While in February 2012 the EU and the US signed an agreement on mutual recognition of each other’s organic certification processes, a far more comprehensive process of harmonising EU–US standards is envisaged under the proposed Transatlantic Trade and Investment Partnership. The Joint High Level Working Group recognised both the critical importance of standards harmonisation to any EU–US FTA and the implications that standardisation would carry for the global system of rule-making. For example, depending on which standards prevail (EU or US), this could simplify or complicate the marketing of South African citrus fruit given the divergent EU and US standards on controls for citrus black spot (CBS) (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/SPS-Food-safety/Tightening-of-Citrus-Black-Spot-controls-could-pose-challenges" target="_self">Tightening of Citrus Black Spot controls could pose challenges</a>’, 28 April 2013). This is an entirely new dimension to the impact of EU third-country agreements on ACP fruit and vegetable export sectors.</p><p><b>Increasingly strict application of EU SPS and food safety controls in the fruit and vegetable sector</b></p><p>In 2012–13 ACP exporters of fruit and vegetable products showed a variable performance in terms of compliance with EU SPS and food safety standards. Support from the Europe–Africa–Caribbean–Pacific Liaison Committee (COLEACP) to horticultural exporters in the Dominican Republic contributed to a reduced incidence of inspections of fruit and vegetable exports (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/SPS-Food-safety/Inspection-levels-reduced-on-imports-from-the-Dominican-Republic" target="_self">Inspection levels reduced on imports from the Dominican Republic</a>, 16 July 2012). By contrast, the Netherlands introduced stricter controls on imports following increased rates of detection of higher than permitted pesticide residue levels in imports of fruit and vegetables from Suriname (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Trends-and-constraints-in-the-Suriname-fruit-and-vegetable-sector" target="_self">Trends and constraints in the Suriname fruit and vegetable sector</a>’, 2 February 2013). This reflects the varying performance of national control authorities in ensuring compliance with existing and evolving EU standards. Indeed, performance can vary over time, with Spain announcing in April 2013 a ban on imports of Dominican peppers following detection of residues of Endosulfan, a banned pesticide. This highlights the ongoing nature of the SPS challenges faced in ACP countries, particularly in the light of the EU’s pesticide review.</p><p>EU SPS controls on citrus exports were also tightened in 2013. The EU will in future allow “a maximum of five citrus black spot disease interceptions in a season”. This could pose serious challenges for South African exporters, since occurrences in previous seasons have not been less than 12 interceptions per season.</p><p>The South African government and the Citrus Growers’ Association (CGA) of Southern Africa both maintain that the new EU standards are “more stringent than can be scientifically justified”, with latest scientific findings suggesting that “fruit is not a pathway for the introduction of CBS”. Recent US import decisions in this regard would appear to bring into question “the appropriateness of EU measures”. In the light of lack of progress in bilateral discussions with the EC, the South African authorities are considering initiating “other parallel dispute resolution processes”.</p><p>In a similar development, internal EU implementation rules have been modified unilaterally for Kenyan vegetable exports. According to the Fresh Produce Exporters’ Association of Kenya (FPEAK), “more than a fifth of Kenya’s vegetable exports to the European market were rejected in January after they were found to contain traces of a banned chemical”, dimethoate. According to FPEAK, however, this increased incidence of interceptions followed a 90% reduction in the permitted level of residues. According to press reports, some smallholder groups reduced supplies for export to the EU by 92%, with 80% of growers disengaging from EU export supply chains (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/SPS-approval-opens-US-market-to-Kenyan-French-bean-exports" target="_self">SPS approval opens US market to Kenyan French bean exports</a>’, 19 August 2013).</p><p>FPEAK had earlier objected to intensified EU controls of Kenyan exports of beans and mangetout, which, it was held, were leading to delays in delivery (up to 72 hours), significantly shortening the shelf-life of products delivered to retailers. By mid February 2013, only 1.6% of samples tested had higher than permitted residue levels. According to FPEAK, the scale of the problem did not warrant the level of delays occurring as a result of intensified inspections. As a consequence, these EU controls are now seen as becoming a barrier to trade that “disrupts or destroys business” (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/New-EU-maximum-residue-levels-hit-Kenyan-vegetable-exports" target="_self">New EU maximum residue levels hit Kenyan vegetable exports</a>’, 28 April 2013).</p><p>In May 2013 new software applications were launched in the Kenyan horticultural sector, designed to make it easier for farmers to comply with EU SPS requirements; this innovation should now be distributed more widely.</p><p>How the EU chooses to apply its SPS and food safety standards is a matter of growing concern. This cannot be divorced from growing farmer pressures to create a level playing field between EU and third-country fruit and vegetable suppliers when it comes to SPS controls and compliance procedures. These pressures compound mounting ACP concerns over the rise of environmentally based ‘eco-protectionism’.</p><p><b>2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in the ACP</b></p><p><b>Export challenges and opportunities </b></p><p>South Africa, while not one of the top citrus fruit producers (accounting for 3.4% of world production), is the largest exporter (1 million tonnes in 2012 – some 29% of global trade), with oranges dominating (69% of its citrus exports). Given the importance of EU markets to South African citrus exports, the scheduled application of stricter CBS controls is a major source of concern. While exports to the Middle East, US, Russia and South East Asia are growing, these supplement the EU market and cannot replace it. Thus while export volumes to the US have grown in recent years, to 41,000 tonnes in 2011, this is equivalent to less than 10% of its exports to the EU. An additional problem is the volatility of some markets, notably those in the Middle East, which collectively take around 20% of South Africa’s exported oranges. This volatility requires constant marketing adjustments. In the longer term, South Africa’s minister of agriculture sees traditional markets in the EU and US becoming less significant, given faster demand growth in Asia (see <i>Agritrade</i> article ‘
+<a href="file:///C:/Users/shepherd/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.Outlook/BQEATLU4/agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/Trade-agreements-and-South-Africa-s-shifting-agricultural-trade-flows" target="_self">Trade agreements and South Africa’s shifting agricultural trade flows</a>’, 8 October 2012).</p><p>Market diversification is by no means straightforward, however. While a new SPS agreement on citrus fruit exports has been concluded with Thailand, a Thai import ban remains in place on South African deciduous fruit. Against this background, South African deciduous fruit exporters continue to run targeted promotion campaigns in UK and Germany to boost product recognition and sales. The need for constant marketing adjustments is particularly challenging for smaller exporters such as Swaziland and Zimbabwe, who tend to operate on South Africa’s coat-tails.</p><p>According to the Kenya Horticulture Competitiveness Project (KHCP), smallholder fruit and vegetable farmers in Kenya faced a difficult time in 2012 “due to a rapid rise in production costs, depressed prices in the major European markets and lack of procurement discipline by farmers and exporters”. Droughts, floods, pests and diseases have compounded these market problems. The dollar value of Kenyan vegetable exports fell by 2.6% in 2012 (to US$369 million, from US$379 million in 2011).</p><p>The EC’s decision in December 2012 to increase to 10% the frequency of pesticide controls compounded an already difficult position (sales of beans from Kenya dropped by 25% in January 2013 compared to January 2012). However, the introduction of protected agriculture systems involving the use of tunnel greenhouses is expected to boost marketable yields, with international assistance supporting the rolling out of greenhouse technology to smallholder farmers.</p><p>Despite the multiplicity of SPS and food safety challenges in both EU and non-EU markets, and the increased competition from third-country exporters, Kenya’s neighbour Ethiopia held a fruit and vegetable sector investment summit in July 2012, with the aim of developing a strategy to replicate the growth in the floriculture sector. The government is “preparing suitable land for investors, creating a better business operating environment, [and] facilitating adequate cold chain and logistics investments to ensure [that] produce reaches regional and global markets in an efficient manner”; the government is also paying particular attention to international food safety issues (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Ethiopian-government-to-promote-fruit-and-vegetable-sector" target="_self">Ethiopian government to promote fruit and vegetable sector</a>’, 16 September 2012). In addition, the development of a network of freight services to 24 destinations in Africa, Europe, the Middle East and Asia by Ethiopian Airways opens up considerable scope for diversified market development.</p><p>More broadly, smaller exporters such as Uganda, Rwanda and Tanzania are all seeking to consolidate and expand their fruit and vegetable exports, with varying degrees of success. Press reports suggest that the development of new shipping routes could potentially open up considerable new market opportunities in parts of China. This market, however, will also require the development of SPS agreements and protocols before exports can begin.</p><p>Turning to the Pacific, two points were highlighted at the Trade Pasifika exhibition in June 2012: the enormous potential of the Chinese market for Pacific food and agricultural exports, and the complete absence of agricultural export protocols between Pacific island countries and China (see <i>Agritrade</i> article ‘
+<a href="file:///C:/Users/shepherd/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.Outlook/BQEATLU4/agritrade.cta.int/en/Agriculture/Topics/Market-access/Market-opportunities-identified-but-action-required" target="_self">Market opportunities identified but action required</a>’, 3 September 2012).</p><p>Even where protocols are in place, implementation arrangements under pressure from domestic producers can result in SPS concerns being used to limit market access or undermine the competitiveness of exports, as Fiji’s experience of ginger exports to Australia highlights (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Horticulture/Australian-ginger-market-to-be-opened-to-Fijian-exports" target="_self">Australian ginger market to be opened to Fijian exports?</a>’, 11 November 2012). The way in which SPS standards are applied carries important commercial implications. Some now call for the establishment of SPS/food safety arbitration channels independent of the parties concerned (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/South-Africa-looking-for-parallel-dispute-resolution-processes-in-EU-citrus-dispute" target="_self">South Africa looking for “parallel dispute resolution processes” in EU c...</a>’, 18 May 2013).</p><p>There is consternation in the Caribbean, meanwhile, following the announcement in January 2013 that further US food safety legislation is to be introduced only 2 years after the Food Safety Modernisation Act. The new US rules will apply only to certain fresh “fruits and vegetables that pose the greatest risk” (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/SPS-Food-safety/Further-new-US-food-safety-rules-could-set-new-challenges-for-Caribbean-exporters" target="_self">Further new US food safety rules could set new challenges for Caribbean...</a>’, 11 March 2013). While provision is being made for the flexible application of these new rules, difficulties are already faced across the Caribbean in meeting current standards (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/SPS-Food-safety/Serious-food-safety-challenges-face-Jamaican-exports-to-US-markets" target="_self">Serious food safety challenges face Jamaican exports to US markets</a>’, 6 October 2011).</p><p>In response to growing retailer demands for sustainable sourcing, October 2012 saw the launch of the Sustainability Initiative of South Africa (SIZA). This aims to replace multiple standards and audits with a single audit process, thereby reducing certification costs and improving net returns to producers. This independent verification scheme is being piloted in the fruit industry and is based on mutual recognition of audits among international and local retailers (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/South-Africa-establishes-single-ethical-trade-standard" target="_self">South Africa establishes single ethical trade standard</a>’, 4 January 2013).</p><p>In Kenya, similar efforts are under way to promote increased environmental certification of crops such as fruit and vegetables, in response to evolving market trends (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/Product-differentiation/Green-farming-seen-as-a-way-forward-for-Kenyan-agriculture" target="_self">Green farming seen as a way forward for Kenyan agriculture</a>’, 23 September 2012). The importance for ACP producers to get and stay ahead of market trends cannot be overemphasised, given the prospects of increased competition in EU fruit and vegetable markets.</p><p><b>Developing domestic markets for fruit and vegetables</b></p><p>The use of agricultural trade policy tools in support of the development of fruit and vegetable production for local markets is coming to the fore in many ACP regions.</p><p>The Senegalese government is moving to refine its system of controls on imported onions in the face of rising EU onion exports. Having initially introduced seasonal import restrictions, it stockpiled onions prior to the introduction of the closed import season (from 1 April to 31 August), but imports in 2012 declined by only 8.4%. This left local onion producers facing difficult market conditions. As a consequence it was decided in 2013 to:</p>
+<ul>
+
+<li>bring the closed season forward to February; </li>
+
+<li>introduce stricter controls in the ports; </li>
+
+<li>make import licences company specific;</li>
+
+<li>“facilitate” the granting of import authorisation to “importers who commit to promote the marketing of local production”.</li>
+
+</ul>
+<p>In addition to these import measures, the government of Senegal is supporting investment in post-harvest infrastructure, to preserve locally produced onions in a better state for a longer period (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Horticulture/Senegal-refines-its-onion-import-regime" target="_self">Senegal refines its onion import regime</a>’, 3 June 2013).</p><p>These recent Senegalese initiatives appear to draw on the experience of Namibia, where import licensing arrangements are closely integrated with initiatives to strengthen the functioning of local vegetable supply chains. A closed market information system links producers’ projected volumes and schedules to retailers’ and traders’ projections for market demand. These measures to strengthen the functioning of local supply chains have facilitated access to loans to expand production. The proportion of local fruit and vegetable demand met from local production has risen to 37% in 2012 (from an initial 5%), with a focus on those products that can be competitively produced in a managed market context. Current efforts in Senegal to build on elements of this approach could have implications across a range of fruit and vegetables, not only onions.</p><p>However, given the large increases in EU onion exports to neighbouring West African countries (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Horticulture/Dutch-onion-exports-to-West-Africa-show-continued-growth" target="_self">Dutch onion exports to West Africa show continued growth</a>’, 2 February 2013), and the scope for cross-border smuggling, there would appear to be a need to develop a regional policy on fruit and vegetable sector development. This is particularly so since Niger’s onion producers depend on coastal regional markets for 70% of their sales. Rising EU onion exports to non-Senegalese West African markets could disrupt this trade.</p><p>The Namibian experience might also be relevant to Jamaica’s ‘agro parks’ initiative. This approach seeks to cluster related agricultural production and processing infrastructure in one location, while mobilising private investment in value-added processing. While diverse vegetable products are potentially involved, the initial focus has been on onions, with the aim of ultimately replacing 70% of imports. Negotiating the forward selling of onions is seen as central. According to the CEO of Agro-Invest, however, this requires “trade protection from central government so that local onions will be able to compete with imports”, and would involve seasonal restrictions (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Horticulture/Jamaica-s-agro-parks-food-initiative" target="_self">Jamaica’s “agro parks” food initiative</a>’, 21 January 2013). In this context, lessons can potentially be learnt from both the Senegalese and Namibian experiences.</p><p>A significant development under way in 2012–13 is the rise of local demand for organic products, stemming from rapid urbanisation, changing consumption patterns and increased awareness of the importance of healthy eating. Case studies posted by the International Federation of Organic Agricultural Movements (IFOAM) have highlighted the development of organic horticultural production for local markets in Kenya, Uganda, Tanzania and Burundi, with several routes to market being developed, including working with local restaurants and local supermarket chains.</p><p>Some organic farmers in Kenya, Uganda and Tanzania operate under Participatory Guarantee Systems (PGS). IFOAM has defined PGS systems as “locally focused quality assurance systems that certify producers based on active participation of stakeholders”, with the system being “built on a foundation of trust, social networks and knowledge exchange”. It is based on the East African Organic Standard, and in Kenya draws key customers into farm inspections to verify compliance. Certification and verification costs for organic producers serving local markets are reduced (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/Product-differentiation/Report-highlights-expansion-of-organic-production-for-local-markets-in-the-EAC" target="_self">Report highlights expansion of organic production for local markets in t...</a>’, 13 June 2013).</p><a name="eztoc2808800_0_3" id="eztoc2808800_0_3"></a><h3><b>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implications for the ACP</b></h3><p><b>3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Impact of Common Agricultural Policy (CAP) reforms on ACP fruit and vegetable exporters</b></p><p>The extension of direct aid payments to all EU fruit and vegetable producers could change the relative competitive position of EU and ACP producers, with EU producers being willing to supply higher volumes at lower prices than would be the case in the absence of direct aid payments. Any automatic granting of additional direct aid payments to organic producers for compliance with ‘greening’ measures would compound this.</p><p>The increased EU policy emphasis on ‘greening’ the CAP could also accelerate the trend towards carbon footprinting of fruit and vegetable production, increasing costs for ACP suppliers.</p><p>ACP fruit and vegetable exporters will need to monitor the situation and, where necessary, engage with the carbon footprinting debate to ensure that ACP suppliers are not systematically discriminated against and that the cost-increasing effects of new retailer demands are minimised.</p><p>Concerted ACP government action may also be required to ensure that national EU schemes do not systematically discriminate against third-country suppliers whose production processes meet the underlying criteria.</p><p>Lessons to be drawn from current EU policy initiatives to strengthen the functioning of fruit and vegetable supply chains could be applied to improving the position of ACP suppliers in international fruit and vegetable supply chains, and that of smallholder farmers within domestic fruit and vegetable supply chains. This would be in line with initiatives already under way in a number of ACP countries.</p><p><b>3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The new EU food and feed control regulation</b></p><p>ACP governments and fruit and vegetable sector stakeholders may wish to consider initiating dialogue with the EU on the scope of application of the new regulation to ACP exporters, with a view to securing an extension to ACP suppliers of the exemptions granted to EU micro-enterprises. This could provide a vehicle for continued ACP preferences in an era of trade liberalisation.</p><p><b>3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Responding to new competition under EU free trade agreements (FTAs)</b></p><p>A detailed analysis is required of new tariff concessions under new FTAs to establish where increased competition for ACP suppliers is likely, and the scale of adjustments required. On this basis, production and market adjustment strategies can then be developed for specific fruit and vegetable products. Kenyan exporters, for example, routinely monitor market developments to identify necessary adjustments in production. This should now become more systematic and generalised throughout the ACP.</p><p>As far as organic fruit and vegetable exports are concerned, increased competition may necessitate specific ACP government initiatives to strengthen the local regulatory framework for organic production, and to secure mutual recognition from the EU, in order to reduce certification costs, and level the playing field vis-à-vis third-country suppliers.</p><p><b>3.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intensifying dialogue on the application of EU food safety and SPS standards</b></p><p>Recent developments in the fruit and vegetable sector have sharpened concerns over the application of food safety and SPS controls. The ACP may need to explore collective mechanisms for dialogue and arbitration over the EU’s application of SPS and food safety standards. The pending dialogue between the EU and US on standards applied in the fruit and vegetable sector could take on particular significance in this regard and should be closely monitored by ACP fruit and vegetable exporters’ associations.</p><p>In addition, the scope for regional initiatives to strengthen standards compliance capacities in major ACP fruit and vegetable exporting regions may need to be considered.</p><p><b>3.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Building sustainability standards into new investments</b></p><p>Where new fruit and vegetable sector investments are under way, there is a need to build sustainability standards into the design both of new schemes and of government monitoring and control systems. This requires improved information flows on standards debates and trends in major markets.</p><p><b>3.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Integrating the use of trade policy tools into strategies for strengthening local supply chains</b></p><p>The use of agricultural trade policy tools in the fruit and vegetable sector should be more closely and extensively linked to measures to strengthen the functioning of local fruit and vegetable supply chains. This requires the creation of forums for producers, retailers and traders to link up and develop appropriate local product standards and forward contract arrangements.</p><p>This requires a policy focus on:</p>
+<ul>
+
+<li>establishing a supportive trade framework that incentivises local procurement; </li>
+
+<li>supporting the establishment of commercially relevant production and demand information systems;</li>
+
+<li>strengthening the legal framework for contract negotiations and enforcement.</li>
+
+</ul>
+<p><b>3.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developing local markets for organic products</b></p><p>The experience in the East African Community suggests that there is considerable scope for the development of organic fruit and vegetable production serving local markets using PGS systems linked to local product standards (e.g., in East Africa, East African Organic Products Standard requirements). This has already been taken up in the Pacific, where a handbook on PGS systems has been produced, and the Pacific Organic Standard has been taken into the IFOAM ‘Family of Standards’, which facilitates trade in organic products across borders.</p><p>There would appear to be considerable scope for the sharing of experience across the ACP on developing local markets for locally produced organic fruit and vegetables through the IFOAM network. This could help local fruit and vegetable producers, particularly in island economies, to gain access to the growing tourist markets and locally established supermarket chains.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Commission (EC), ‘A review of the EU regime for the fruit and vegetables sector: Public consultation on policy options and their impact assessment’, undated</p><p>
+<a href="http://ec.europa.eu/agriculture/fruit-and-vegetables/policy/consultation" target="_self">http://ec.europa.eu/agriculture/fruit-and-vegetables/policy/consultation</a>...</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC, ‘European Union and United States agree to historic new partnership on organic trade’, press release no. IP/12/138, 15 February 2012</p><p>
+<a href="http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/138&amp;fo" target="_self">http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/138&amp;fo</a>...</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC/DG for Trade, ‘Final report: High Level Working Group on Jobs and Growth’, 11 February 2013 
+<a href="http://trade.ec.europa.eu/doclib/docs/2013/february/tradoc_150519.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2013/february/tradoc_150519.pdf</a></p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commonwealth Secretariat, ‘Eco-labelling: Challenges and opportunities for small states and LDCs’, by M. Haynes, <i>Trade Hot Topics</i> Issue 95, 2012</p><p>
+<a href="http://www.secretariat.thecommonwealth.org/files/251358/FileName/TradeHotTopics95FINAL.pdf" target="_self">http://www.secretariat.thecommonwealth.org/files/251358/FileName/TradeHo...</a></p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC, ‘High Level Forum for a Better Functioning Food Supply Chain: Report 2012’, 5 December 2012</p><p>
+<a href="http://ec.europa.eu/enterprise/sectors/food/competitiveness/forum_food/index_en.htm#h2-2" target="_self">http://ec.europa.eu/enterprise/sectors/food/competitiveness/forum_food/i...</a></p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC, ‘European Retail Action Plan and Green Paper on unfair trading practices in the business-to-business food and non-food supply chain – frequently asked questions’, MEMO/13/47, 31 January 2013</p><p>
+<a href="http://europa.eu/rapid/press-release_MEMO-13-47_en.htm?locale=en" target="_self">http://europa.eu/rapid/press-release_MEMO-13-47_en.htm?locale=en</a></p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EU Food and Veterinary Office (FVO), ‘Final report on an audit carried out in South Africa from 07 to 17 June 2011 in order to evaluate the system of official controls and certification of citrus fruit for export to the European Union’, DG(SANCO) 2011-6070 - MR Final</p><p>
+<a href="http://ec.europa.eu/food/fvo/rep_details_en.cfm?rep_id=2775" target="_self">http://ec.europa.eu/food/fvo/rep_details_en.cfm?rep_id=2775</a></p><p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US FDA, ‘FSMA propose rule for preventive controls for human food’, 2013</p><p>
+<a href="http://www.fda.gov/Food/guidanceregulation/FSMA/ucm334115.htm" target="_self">http://www.fda.gov/Food/guidanceregulation/FSMA/ucm334115.htm</a></p><p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC, ‘Prospects for agricultural markets and income in the EU 2012-2022’, December 2012</p><p>
+<a href="http://ec.europa.eu/agriculture/markets-and-prices/medium-term-outlook/2012/fullrep_en.pdf" target="_self">http://ec.europa.eu/agriculture/markets-and-prices/medium-term-outlook/2...</a></p><p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC, ‘Agriculture in the European Union: Statistical and economic information report 2012’ December 2012</p><p>
+<a href="http://ec.europa.eu/agriculture/statistics/agricultural/2012/pdf/full-report_en.pdf" target="_self">http://ec.europa.eu/agriculture/statistics/agricultural/2012/pdf/full-re...</a></p><p><b>About this update</b></p><p>This brief was updated in October 2013 to reflect developments since September 2012. Other publications in this series and additional resources on ACP–EU agriculture and fisheries trade issues can be found online at 
+<a href="http://agritrade.cta.int/" target="_self">http://agritrade.cta.int/</a>.</p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/Executive-Brief-Update-2013-Fruit-and-vegetable-sector">Executive Brief Update 2013: Fruit and vegetable sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/Executive-brief-Update-2012-Fruit-and-vegetable-sector">Executive brief, Update 2012: Fruit and vegetable sector </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/Fruit-and-vegetable-Trade-issues-for-the-ACP">Fruit and vegetable: Trade issues for the ACP</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":155,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

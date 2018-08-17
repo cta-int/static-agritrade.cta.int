@@ -1,0 +1,218 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Sustainable palm oil still ahead of canned tuna in Papua New-Guinea trade with EU / Oil crops / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																
+								<a href="/en/layout/set/print/Publications/(regions)/7774/(search)/simple">Pacific</a>
+																																																										
+																																																																																																																																																																																																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7803/(search)/simple">Oil crops</a>
+							
+																																																																																																																																																																													
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Sustainable palm oil still ahead of canned tuna in Papua New-Guinea trade with EU</h1>
+
+			
+			<h4>
+												31 March 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>At the second meeting of the EC–PNG Trade Committee established under the bilateral interim EPA (IEPA), the government of Papua New-Guinea (PNG) informed the EC of the progress made in fulfilling tariff liberalisation commitments. It highlighted how 4,949 items, accounting for 77.1% of total imports, from the EU were now zero rated. A regulation dealing with a further 305 tariff lines covering 5.1% of total trade is scheduled for gazetting in March 2012.</p><p>The expressions of interest from Tonga, the Republic of Marshall Islands, and the Solomon Islands in acceding to the PNG–EU IEPA were discussed, although the absence of any formal request to this effect was highlighted. It was considered that a choice needed to be made in the Pacific as to whether to expand existing agreements through a process of accession of individual Pacific ACP (PACP) states or continue with the negotiation of a regional comprehensive EPA. The EC felt that ‘it was not practical to simultaneously work in both negotiations’. The government of PNG for its part indicated that it would shortly take a decision on whether to deepen and widen the existing IEPA or collectively pursue a comprehensive EPA.</p><p>At the meeting, the government of PNG ‘expressed concerns on possible future preference erosion for palm oil and fisheries products’, with the EC recognising these concerns and maintaining that any preference erosion would be gradual, to allow industries in PNG to adapt.</p><p>This needs to be seen against the background of the dominance of palm oil exports in PNG’s trade with the EU. In 2010 palm oil exports accounted for 62.5% of total exports to the EU. This was over four and a half times larger than exports of prepared foods, which includes canned tuna exports. The largest non-food and agricultural export (precious and semi-precious stones) accounted for only 10.5% of the value of total exports. However, during recent meetings in PNG, representatives from the Commission’s trade directorate highlighted how new rules of origin allowing global sourcing of raw tuna for canning would generate more than 53,000 new jobs in PNG, equivalent to around 8% of formal-sector employment in the country.</p><p>New Britain Palm Oil Ltd (NBPOL), the world’s leading producer of certified sustainable palm oil, has reported ‘a doubling in profits’ as a result of ‘higher palm oil output and prices’. Plans have been revealed for the commissioning of a twelfth palm oil mill in PNG, raising the company’s production capacity ‘by 300,000 tonnes of fresh palm fruit bunches a year’. There are plans to use palm oil waste to generate electricity both for the company’s own use and for sale to the national grid. NBPOL is also undertaking a US$10 million expansion of its UK refinery, doubling the capacity of the Liverpool plant.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EC, ‘Second meeting of the Trade Committee between Papua New Guinea and the European Commission under the Interim Partnership Agreement between the Pacific States and Papua New Guinea and Fiji and the European Union: Agreed Minutes’, 24 February 2012</p><p>
+<a href="http://trade.ec.europa.eu/doclib/docs/2012/february/tradoc_149145.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2012/february/tradoc_149145.pdf</a></p><p><i>Post Courier</i>, ‘PNG palm oils tops list’, 21 February 2012</p><p>
+<a href="http://www.pina.com.fj/index.php?p=pacnews&amp;m=read&amp;o=16259828134f42c1c4ae579fd156bc" target="_self">http://www.pina.com.fj/index.php?p=pacnews&amp;m=read&amp;o=16259828134f...</a></p><p><i>Islandbusiness.com</i>, ‘PNG-EU meet a success’, 27 February 2012</p><p>
+<a href="http://www.islandsbusiness.com/news/index_dynamic/containerNameToReplace=MiddleMiddle/focusModuleID=130/focusContentID=27446/tableName=mediaRelease/overideSkinName=newsArticle-full.tpl" target="_self">http://www.islandsbusiness.com/news/index_dynamic/containerNameToReplace...</a></p><p><i>Agrimoney.com</i>, ‘New Britain joins farmers turning waste into power’, 24 February 2012</p><p>
+<a href="http://www.agrimoney.com/news/new-britain-joins-farmers-turning-waste-into-power--4200.html" target="_self">http://www.agrimoney.com/news/new-britain-joins-farmers-turning-waste-in...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The decision of whether to continue with a PACP region-wide EPA or to deepen and widen the existing IEPAs is becoming more central. The government of PNG in particular is keen to avoid any uncertainty over its access for canned fisheries products, hence the rapidity with which it has moved ahead with the implementation of tariff elimination commitments. Furthermore, the government of PNG remains engaged with the ongoing EPA comprehensive negotiations in order to ensure that the provisions on global sourcing are in no way undermined.</p><p>It seems that prospects for a comprehensive regional EPA will be largely determined by progress on non-agricultural issues (e.g. services and rules of origin for fisheries products) which remain unresolved.</p><p>In terms of dealing with preference erosion, it would appear important to identify the particular sources of any pending preference erosion and develop targeted strategies for dealing with these specific manifestations of preference erosion. This could include the elaboration of flanking measures necessary to reposition PNG exporters in the face of preference erosion, with a view to securing EC assistance with their implementation. However, any such targeted assistance programmes could give rise to similar demands from other regional and other sectors where preference erosion is being faced (e.g. from the Southern African beef sector – see <i>Agritrade </i>article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Beef/EU-import-quota-for-high-quality-beef-to-be-increased" target="_blank">EU import quota for high-quality beef to be increased</a>’, 19 February 2012).</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Women-in-Business-Adimaimalaga-Tafuna-i-honoured-with-second-global-award">Women in Business Adimaimalaga Tafuna’i honoured with second global award</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Oil-crops/First-company-performance-report-published-on-compliance-with-stricter-palm-oil-sustainability-requirements">First company performance report published on compliance with stricter palm oil sustainability requirements </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Oil-crops/Sustainable-sourcing-of-palm-oil-cheaper-than-bad-publicity-for-OECD-consumer-product-manufacturers">Sustainable sourcing of palm oil cheaper than bad publicity for OECD consumer product manufacturers</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Oil-crops/Growing-pressure-for-stricter-palm-oil-standards">Growing pressure for stricter palm oil standards </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Oil-crops/New-agreements-on-fully-segregated-sustainable-palm-oil-supplies-from-PNG">New agreements on fully segregated sustainable palm oil supplies from PNG</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":129,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

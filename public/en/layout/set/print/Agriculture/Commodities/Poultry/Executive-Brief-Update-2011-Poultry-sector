@@ -1,0 +1,464 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2011: Poultry sector / Poultry / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																															
+		
+		<div class='contentrealtionlist'>
+										
+																																																																																																																																																																																																																																						
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7804/(search)/simple">Poultry</a>
+							
+																																																																																																																																																							
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2011: Poultry sector</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/12882/506316/file/94a9f223cb636943499b32c84a3df88e.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+									</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc506306_1" id="eztoc506306_1"></a><h2><b>1. Background and key issues</b></h2><p><b>1.1 Poultry production in the ACP</b></p><p>Across the ACP the poultry sector is an important source of nutrition, food security and cash incomes in rural areas. However its importance varies from region to region. The poultry sector is least significant in the Pacific and most significant in the Caribbean, where it has become the largest agro-industry. Indeed, in the Caribbean the value of ex-factory sales in the poultry sector exceeds that of the sugar, rice and banana sectors, with, in addition, important backward and forward linkages to local cereals production and linkages via the provision of manure to vegetable production. With per capita consumption of 46 kg per annum, the poultry sector accounts for 80% of meat consumption in the Caribbean. However even in the Caribbean, a heavy import dependence on feed leaves the sector vulnerable to rising global cereal prices and unfavourable exchange rate movements. This raises important issues about the net foreign exchange benefits of the trade policy measures designed to support poultry sector development.</p><p>In sub-Saharan Africa the contribution of the poultry sector to food security varies considerably. In Mali, per capita consumption is a low 1.73 kg per capita, while in South Africa it is now 31.83 kg per capita (up 42% between 1997 and 2009). However, across sub-Saharan Africa the demand for poultry meat is expanding as a result of population growth, growing urbanisation and rising incomes.</p><p>The contribution of local production to total poultry supply varies considerably not only between regions but within regions. In the Caribbean, self-sufficiency has increased since 2005 from 65% to around 80%. In West African countries it has a wide range from around 28% to 100%, while in South Africa and Kenya self-sufficiency is 84% and 100% respectively.</p><p>There are four broad types of production system across the ACP:</p>
+<ul>
+
+<li>village or backyard production: largely for self consumption, with some limited sales to neighbours;</li>
+
+<li>semi-commercial: where slaughtering largely takes place at the point of production, and products sold mainly as dressed chickens on local markets;</li>
+
+<li>commercial: involving better housing, proper feeding and using veterinary services;</li>
+
+<li>integrated industrial: involving high use of inputs and integrated supply and processing, commonly governed by formal contracts along the supply chain.</li>
+
+</ul>
+<p>This broadly divides between low input and high input production systems, which generally use different distribution channels to serve their target markets. The relative importance of these different production systems varies. In Mali, for example, 90% of production comes from unregulated traditional ‘backyard’ poultry production, while in Kenya 80% of chickens are raised under traditional low input production systems. In South Africa, by contrast, commercial poultry production is highly integrated and accounts for 24% of agricultural GDP. While some 80% of poultry sector enterprises are small, medium or micro enterprises, fully 50% of commercial production comes from two enterprises, while seven companies account for 75% of production (see <i>Agritrade</i> article, ‘
+<a href="/en/layout/set/print/../../../../en/layout/set/print/Agriculture/Commodities/Poultry/Changing-patterns-in-Brazilian-poultry-exports-cause-concern-in-South-Africa" target="_self">Changing patterns in Brazilian poultry exports cause concern in South Af...</a>’, May 2011).</p><p>A number of constraints in poultry production in ACP countries can be identified:</p>
+<ul>
+
+<li>high feed and other inputs costs, with availability in some sub-sectors also a concern (for both feed and medicines);</li>
+
+<li>animal disease, sanitary and phytosanitary (SPS) and in some instances food safety standards, with the avian flu epidemic having particular strong effects in some countries;</li>
+
+<li>technical constraints on processing;</li>
+
+<li>poorly developed logistical infrastructure and marketing channels, which along with under-investment and poor management practices result in low yields in some sectors and heightened vulnerability of the poultry industry as a whole to disease-related disruptions.</li>
+
+</ul>
+<p>Overall, evidence suggests that in most countries in Africa, production costs are high, due to a lack of integrated and automated production systems and due to under-investments in critical area (veterinary controls, logistical, processing and marketing infrastructure). The situation, of course, varies from country to country. However even in South Africa with its highly integrated production system, major challenges are faced from Brazilian exports, given the substantially lower input costs in Brazil (lower maize, soya meal and labour costs, exacerbated by recent exchange rate movements).</p><p>In the ACP, marketing channels for semi-commercial and commercial production differ, with semi-commercial producers serving local and often informal commercialisation networks, and commercial producers serving more sophisticated retail and catering components of the market. In the more advanced poultry sectors, commercial processors are moving into value-added, brand name and convenience products, which in certain ACP countries (e.g. South Africa) and regions (Caribbean) are accounting for a large part of the rise in chicken consumption.</p><p>A critical issue across a range of ACP poultry sectors is the trade policy adopted at national and regional level and the effectiveness of implementation measures. In West Africa, tariff reductions as part of the Economic Community of West African States (ECOWAS) process had particularly severe effects where substantial reductions were required (e.g. in Senegal, where tariffs were reduced from 55% to 30%). In South Africa, meanwhile, the maintenance of tariffs and the use of anti-dumping duties is seen as an important factor in the future trajectory of the poultry sector: in 2009 imports – 72% of them from Brazil – had come to account for 15% of consumption. Changes in trade policy can also lay the basis for rehabilitation of the poultry sector, as has taken place for example in Senegal and Cameroon.</p><p>This makes trade policy choices at the national and regional levels of critical importance to poultry sector development. The issue of regional coordination of poultry sector development is of particular importance, given the illicit trade in poultry meat that differing national policy measures can give rise to. Such illicit trade can not only undermine national poultry sector policies, but can also carry serious implications for animal disease transmission and food safety.</p><p><b>1.2 The EU poultry regime</b></p><p>In terms of production the EU is a relatively high cost poultry producer, with feed costs constituting the major cost item. While EU cereals sector reform reduced feed costs, rising soya meal prices and other feed processing cost increases prevented these cost savings from being fully realised by EU poultry producers. The relative feed and other costs of different global poultry producers thus constitute a continuing area of concern for EU poultry producers. High tariff protection has nevertheless enabled the EU poultry sector to expand (by 4.8% per annum between 2002 and 2010).</p><p>The EU poultry regime has been described as a ‘light’ regime. Poultry producers receive no sector-specific financial assistance measures or payments from the single payment scheme. The principal market management tool consists of tariff protection, with export refunds being provided for a declining proportion of total EU poultry meat exports (mainly the export of whole frozen birds from Brittany to Middle Eastern markets). To facilitate the implementation of the regime, all imports and exports of poultry products are subject to the issuing of licences. Import licences are managed on a ‘first come, first served’ basis or simultaneous examination basis.</p><p>In addition to facilitating the functioning of the single market, EU-wide marketing standards are established for poultry products, covering grading by category, quality and weight.</p><p>The EU poultry sector is affected by other aspects of the EU’s agricultural policy, in particular:</p>
+<ul>
+
+<li>food safety regulations; </li>
+
+<li>animal welfare regulations; </li>
+
+<li>rural development assistance programmes (particularly programmes focused on enhancing the competitiveness of EU food and agricultural producers); </li>
+
+<li>cereals sector reforms – particularly important because of their direct impact on poultry sector feed costs. </li>
+
+</ul>
+<p>The poultry sector also benefits from EU assistance in dealing with animal disease outbreaks, while, along with member states, the EU co-finances compensation schemes linked to disease-related slaughtering of flocks. In addition, within the framework of commonly agreed rules, nationally financed assistance to poultry producers can be extended.</p><p><b>1.3 The EU import tariff regime</b></p><p>According to a 2005 evaluation of the Common Market Organisations (CMOs) for pig meat, poultry meat and eggs, import tariffs play ‘a vital role in restricting the volume of imports into the EU from third countries’. In 2005, estimates suggested that import tariffs maintained prices between 11.5 and 13.1% higher, and production between 7 and 13.3% higher than would be the case in the absence of tariff protection (varying according to world market price levels). Stakeholders in the EU poultry industry stakeholders believe that ‘in the absence of import tariffs, …the EU market would rapidly be influenced by imported products, with EU producers increasingly restricted to supplying niche markets.’</p><p>The EU maintains a highly disaggregated tariff regime for poultry products, ranging from bound tariffs as low as €187/tonne to as high as €1,024/tonne, and from <i>ad valorem</i> rates of 10.9 to 15.4%. The EU maintains the highest level of tariff protection for fresh poultry meat, with lower levels of tariff protection for processed poultry products.</p><p>As part of the Uruguay Round Agreement, import tariffs were reduced and minimum market access quotas were established, on which customs duties were limited to a specified percentage of the basic tariff. A special safeguard mechanism was however retained, to be triggered if import prices fell below a level specified as part of the Uruguay Round Agreement. This special safeguard clause, subject to a monthly review, has been permanently invoked.</p><p>The operation of this tariff system led to certain trade distortions and trade disputes, with the principal dispute relating to imports of frozen boneless chicken cuts with a salt content of between 1.2 and 3% (CN heading 02109939). This tariff line attracts a duty of only 15.4% (a third of the tariff under heading 02074110). Utilisation of this tariff line allowed the EU’s tariff protection walls to be breached, with EU imports of this category growing from 83,000 tonnes in 1993 to 387,000 tonnes in 2002. While the EU initially responded by restricting imports under this tariff line, the World Trade Organization (WTO) dispute settlement panel ruling in 2005 required the EU to modify its import regime, with a series of tariff-rate quotas (TRQs) being opened to resolve the dispute. This contributed to a substantial increase in EU poultry imports in 2007 (+12.3%).</p><p>However a significant and growing volume of imports of prepared poultry meat products also enters the EU market duty paid, largely for the catering market. Indeed, imports are increasingly serving this catering trade market, while domestic EU production focuses on fresh, high value cuts. This suggests that the impact of any tariff reductions may be less than feared by EU farmers’ organisations, particularly in view of the product differentiation initiatives that are under way and the changes to labelling requirements (the extension of country-of-origin labelling to processed meat products) currently being considered. However the situation varies across the EU from one member state to the next.</p><p><b>1.4 The EU’s export refund policy in the poultry sector</b></p><p>EU export refunds are intended to ensure that EU poultry meat exports remain competitive. As such, refund levels are set with reference to ‘the differences in production costs between EU and third-country producers’ as reflected in the prices of cereals for feed. The Uruguay Round Agreement however led to a reduction in the permitted levels of export refund support (-36% by value of exports and 21% by volume), and the permitted volume of refund-supported exports was reduced by 76,000 tonnes to 286,000 tonnes. This served to change the composition of EU poultry meat exports, and poultry parts grew substantially as a proportion of total exports. A far lower percentage of total EU poultry meat exports now receive export refund support (down from 89% in 1998 to 21% by 2002), with the proportion fluctuating in the light of overall levels of export of poultry meat parts.</p><p>Before the Uruguay Round Agreement, export refunds also supported the trade in poultry cuts and mechanically recovered meat. However export refunds are now used virtually exclusively to support exports of frozen whole birds (as mentioned above, this is mainly for exports from Brittany in France to Middle Eastern markets). The trade in poultry parts is ‘primarily driven by the need to dispose of unwanted cuts, for which demand is very low on the EU internal market’. According to industry stakeholders cited in the evaluation report, this trade will continue ‘provided that the export price (less transport costs) [is] greater than the costs of disposal’.</p><p>While poultry parts are largely exported from the EU to African markets, with this trade receiving no export refund support, the surge in EU poultry exports in 2010 saw exports of 21,593 tonnes of frozen whole chicken to Benin reported (see <i>Agritrade</i> article, ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Poultry/EU-poultry-exports-to-selected-ACP-countries-booming" target="_self">EU poultry exports to selected ACP countries booming</a>’, January 2011). It is unclear to what extent this trade benefited from export refund support, and to what extent exports of frozen whole chickens to other West African countries were supported by export refunds. Some 14 ACP countries were listed on the ‘Global Trade Alert’ website as destinations potentially affected by EU export refund support programmes, including in Benin, Congo, DRC, Equatorial Guinea, Gabon, Ghana, Nigeria and Togo in West and Central Africa. Angola, South Africa, Sudan in other parts of Africa, and St Lucia and St Vincent &amp; the Grenadines in the Caribbean were also listed.</p><p>Export refunds for whole frozen chickens amounted to €400/tonne from January to 17 June 2010, and €325/tonne from 18 June 2010 onwards. Export refund levels can therefore be varied in response to market conditions. Difficult market conditions tend to see an extension to the range of poultry products covered by export refund assistance (e.g. export refunds were provided on poultry legs reportedly for export to Russian and Middle Eastern markets in the face of avian influenza-related export restrictions).</p><p><b>Table 1: EU poultry sector export refunds 2005–2011 (€ millions)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="168" valign="top">  <b>&nbsp;</b>
+  </td><td width="60" valign="top">  <b>2011<sup>a</sup></b>
+  </td><td width="60" valign="top">  <b>2010<sup>a</sup></b>
+  </td><td width="60" valign="top">  <b>2009<sup>b</sup></b>
+  </td><td width="60" valign="top">  <b>2008<sup>b</sup></b>
+  </td><td width="60" valign="top">  <b>2007<sup>b</sup></b>
+  </td><td width="60" valign="top">  <b>2006<sup>b</sup></b>
+  </td><td width="60" valign="top">  <b>2005<sup>b</sup></b>
+  </td>
+</tr>
+
+<tr>
+<td width="168" valign="top">  Export refunds for poultry meat (ref. 05021505)
+  </td><td width="60" valign="top">  61.0
+  </td><td width="60" valign="top">  80.0
+  </td><td width="60" valign="top">  91.6
+  </td><td width="60" valign="top">  97.2
+  </td><td width="60" valign="top">  86.0
+  </td><td width="60" valign="top">  55.0
+  </td><td width="60" valign="top">  80.0
+  </td>
+</tr>
+
+</table>
+<p>Source: Table extracted from the relevant budget at the EU’s ‘Budget on line’ website: 
+<a href="http://eur-lex.europa.eu/budget/www/index-en.htm" target="_self">http://eur-lex.europa.eu/budget/www/index-en.htm</a></p><p>Notes:</p><p>a&nbsp;&nbsp; appropriations; b&nbsp;&nbsp; outrun.</p><p><b>1.5 Other EU policy measures impacting on the poultry sector</b></p><p>The EU’s trade position in the poultry sector has changed dramatically as a result of the wider process of CAP reform. Initially cereals sector reform, by reducing animal feed prices (by an estimated 11.7%), provided a stimulus to EU poultry production and exports. Under the impact of cereals sector reform, EU exports rapidly increased from 400,000 tonnes to over 1 million tonnes, peaking at 1,002,335 tonnes in 2002 (see <i>Agritrade</i> article, ‘
+<a href="/en/layout/set/print/../../../../en/layout/set/print/Agriculture/Commodities/Poultry/Evaluation-of-the-poultry-CMO" target="_self">Evaluation of the poultry CMO</a>’, May 2006).</p><p>These competitiveness benefits however have been partly offset by:</p>
+<ul>
+
+<li>‘increased costs associated with the Community feed legislation’ (a food safety related development); </li>
+
+<li>‘manure disposal and emission reduction’ targets (environmental regulations);</li>
+
+<li>animal welfare and animal health regulations. </li>
+
+</ul>
+<p>While the latter has partly been offset by EU assistance extended under the expanding rural development pillar of the CAP, it remains an ongoing area of concern for EU poultry farmers, who are increasingly arguing that the absence of equivalence between EU and third-country regulations in these areas gives third-country suppliers a competitive edge on the EU market.</p><p>These concerns are leading to growing calls for stricter requirements for compliance with EU production process standards to be included in bilateral trade agreements covering trade in poultry products.</p><a name="eztoc506306_2" id="eztoc506306_2"></a><h2><b>2. Latest developments</b></h2><p><b>2.1 Evolving EU consumer demand for poultry meat</b></p><p>EU poultry meat producers have benefited from a gradual decline in consumer interest in red meat, arising from health concerns. This underlying trend has however been influenced by various food safety scares, which have generated significant ups and downs in consumer demand. Nevertheless, since 1997 per capita consumption of poultry meat in EU15 countries has increased almost 15%, while recorded per capita consumption in the 10 new member states has increased 69%. Overall, total poultry meat consumption in the EU grew by 10% between 2002 and 2010.</p><p>By 2010, the growing poultry meat consumption in the EU was stimulating investment in a number of EU member states (6), despite farmers’ fears over the impact of the Mercosur agreement on the poultry sector. This new investment is linked to quality-based product differentiation initiatives and specific labelling schemes. The expansion in EU consumption, however, has been such that both domestic production and imports have increased.</p><p>While there are regional variations in how poultry meat is consumed (e.g. the preference for larger sized whole chickens in certain parts of Italy), overall EU consumer demand is shifting towards chicken cuts (particularly breast) and more convenient fresh, chilled or further processed chicken products. The demand for fresh, high value cuts is met primarily from domestic EU poultry production. Demand for processed food and the catering trade is growing strongly, and is increasingly met from imports, often under TRQ arrangements, but also with the full import duty being paid.</p><p>There is only limited demand for whole frozen chickens and ‘low value “dark meat” products’ (legs, thighs, mechanically separated meat etc.). This has important implications for the poultry meat trade with Africa, for as EU consumption of poultry breast increases, so the volume of ‘dark meat’ which needs to be disposed of increases. Between 2009 and 2020, EU consumption of poultry meat is projected to increase by 9.8% (over 1 million tonnes), while production is projected to increase 6.9% (over 800,000 tonnes).</p><p><b>2.2 The EU poultry meat trade</b></p><p>Expanding EU demand for poultry meat has seen imports expand considerably from 267,000 tonnes in 1997 (for the EU15) to a peak level of 849,000 tonnes in 2009. The growing demand for processed chicken meat is increasingly being met by imported poultry products. In the past 15 years imports have not only been driven by consumption trends in the EU, but also by modifications in EU customs classifications, disease outbreaks and food safety concerns.</p><p>Avian flu outbreaks have played a major role in EU poultry meat import and export patterns, since they tend to generate pre-emptive market closures on SPS grounds. An outbreak of avian flu saw the EU become a net importer of poultry meat for the first time in 2007. However the situation did not last, with the EU returning to being a net exporter in 2008. EC projections suggest that the EU will remain a net exporter until 2015, after which it will increasingly be a net importer, based on rising imports and declining exports.</p><p>The EU exports two main types of poultry meat products: whole frozen birds and frozen poultry parts, each targeted at different markets. Frozen whole birds are mainly exported to Middle Eastern markets, with the benefit of export refunds, while poultry parts are exported without the benefit of export refunds and are increasingly destined for ACP markets, mainly in West and Central Africa.</p><p>The expansion of poultry part exports is strongly linked to evolving EU consumption trends, which are seeing an expansion of consumption of breast meat and a decline in market opportunities for ‘dark meat’ in the EU. This has seen exports of poultry parts come to dominate the EU poultry export trade. The key development therefore from an ACP perspective is the trend in EU consumption of poultry breast from domestically produced poultry, since it is this trend that generates the need to ‘dispose of unwanted cuts, for which demand is very low on the EU internal market’. Transport costs are critical to this trade. As long as the export price (minus transport costs) is greater than the costs of disposal of unwanted chicken parts, then this trade will thrive.</p><p><b>2.3 EU poultry meat exports to the ACP</b></p><p>In 2010, the EU exported poultry meat to 52 ACP countries. Exports are concentrated in eight countries, which accounted for 87.5% of EU poultry meat exports. A further 22 ACP countries imported under 100 tonnes of poultry meat (15 countries importing between 100 and 1,000 tonnes, and seven between 1,000 and 10,000 tonnes). Exports to the Caribbean in 2010 amounted to only 2,633 tonnes, with fully 76.6% of this poultry meat destined for St Vincent and St Lucia. One Pacific country, Tonga, received poultry meat imports from the EU (50 tonnes).</p><p>The principal ACP markets for EU poultry meat exports are in West and Central Africa, with these markets taking on growing importance for EU poultry meat exporters. The domestic trade policies set in place by ACP governments in regions targeted for EU poultry meat exports have a strong influence on actual patterns of trade.</p><p>Currently the three main West and Central African markets for poultry exports (Benin, Ghana and Democratic Republic of the Congo, DRC) account for 16.1% of total EU poultry meat exports (2010), up from 10% in 2004 (and under 5% in 1996). During the period 2004–10, EU exports to these three countries alone have more than doubled (from 88,666 tonnes to 180,931 tonnes).</p><p><b>Table 2: ACP countries importing more than 10,000 tonnes of poultry meat from the EU in 2010 (in tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="599">
+<tr>
+<td width="92" valign="top">  <b>&nbsp;</b>
+  </td><td width="71" valign="top">  <b>2004</b>
+  </td><td width="71" valign="top">  <b>2005</b>
+  </td><td width="71" valign="top">  <b>2006</b>
+  </td><td width="71" valign="top">  <b>2007</b>
+  </td><td width="71" valign="top">  <b>2008</b>
+  </td><td width="71" valign="top">  <b>2009</b>
+  </td><td width="81" valign="top">  <b>2010</b>
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  Benin
+  </td><td width="71" valign="top">  49,794
+  </td><td width="71" valign="top">  47,611
+  </td><td width="71" valign="top">  47,003
+  </td><td width="71" valign="top">  63,665
+  </td><td width="71" valign="top">  82,320
+  </td><td width="71" valign="top">  84,328
+  </td><td width="81" valign="top">  113,600
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  Ghana
+  </td><td width="71" valign="top">  20,215
+  </td><td width="71" valign="top">  24,258
+  </td><td width="71" valign="top">  29,966
+  </td><td width="71" valign="top">  28,697
+  </td><td width="71" valign="top">  30,750
+  </td><td width="71" valign="top">  28076
+  </td><td width="81" valign="top">  40,511
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  DRC
+  </td><td width="71" valign="top">  18,657
+  </td><td width="71" valign="top">  26,196
+  </td><td width="71" valign="top">  25,049
+  </td><td width="71" valign="top">  23,797
+  </td><td width="71" valign="top">  20,763
+  </td><td width="71" valign="top">  20,755
+  </td><td width="81" valign="top">  26,820
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  Gabon
+  </td><td width="71" valign="top">  9,755
+  </td><td width="71" valign="top">  12,550
+  </td><td width="71" valign="top">  11,425
+  </td><td width="71" valign="top">  12,015
+  </td><td width="71" valign="top">  12,154
+  </td><td width="71" valign="top">  13,245
+  </td><td width="81" valign="top">  20,006
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  Angola
+  </td><td width="71" valign="top">  6,032
+  </td><td width="71" valign="top">  6,647
+  </td><td width="71" valign="top">  16,520
+  </td><td width="71" valign="top">  12,068
+  </td><td width="71" valign="top">  12,599
+  </td><td width="71" valign="top">  9,208
+  </td><td width="81" valign="top">  16,798
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  South Africa
+  </td><td width="71" valign="top">  18,428
+  </td><td width="71" valign="top">  9,486
+  </td><td width="71" valign="top">  14,461
+  </td><td width="71" valign="top">  6,083
+  </td><td width="71" valign="top">  4,651
+  </td><td width="71" valign="top">  5,138
+  </td><td width="81" valign="top">  16,154
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  Congo
+  </td><td width="71" valign="top">  17,040
+  </td><td width="71" valign="top">  12,896
+  </td><td width="71" valign="top">  11,468
+  </td><td width="71" valign="top">  8,200
+  </td><td width="71" valign="top">  10,417
+  </td><td width="71" valign="top">  13,329
+  </td><td width="81" valign="top">  15,923
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  Togo
+  </td><td width="71" valign="top">  9,805
+  </td><td width="71" valign="top">  8,476
+  </td><td width="71" valign="top">  3,554
+  </td><td width="71" valign="top">  8,385
+  </td><td width="71" valign="top">  12,035
+  </td><td width="71" valign="top">  10,322
+  </td><td width="81" valign="top">  12,203
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  &nbsp;
+  </td><td width="71" valign="top">  &nbsp;
+  </td><td width="71" valign="top">  &nbsp;
+  </td><td width="71" valign="top">  &nbsp;
+  </td><td width="71" valign="top">  &nbsp;
+  </td><td width="71" valign="top">  &nbsp;
+  </td><td width="71" valign="top">  &nbsp;
+  </td><td width="81" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  <b>Total ACP</b>
+  </td><td width="71" valign="top">  <b>237,786</b>
+  </td><td width="71" valign="top">  <b>192,840</b>
+  </td><td width="71" valign="top">  <b>193,259</b>
+  </td><td width="71" valign="top">  <b>188,242</b>
+  </td><td width="71" valign="top">  <b>203,732</b>
+  </td><td width="71" valign="top">  <b>206,386</b>
+  </td><td width="81" valign="top">  <b>299,326</b>
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  <p><b>Total EU </b></p><p><b>exports</b></p>
+  </td><td width="71" valign="top">  <b>888,751</b>
+  </td><td width="71" valign="top">  <b>856,614</b>
+  </td><td width="71" valign="top">  <b>812,481</b>
+  </td><td width="71" valign="top">  <b>756,520</b>
+  </td><td width="71" valign="top">  <b>857,057</b>
+  </td><td width="71" valign="top">  <b>885,662</b>
+  </td><td width="81" valign="top">  <b>1,124,290</b>
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  <b>ACP as a share of EU exports (%)</b>
+  </td><td width="71" valign="top">  <b>26.8</b>
+  </td><td width="71" valign="top">  <b>22.5</b>
+  </td><td width="71" valign="top">  <b>23.8</b>
+  </td><td width="71" valign="top">  <b>24.9</b>
+  </td><td width="71" valign="top">  <b>23.8</b>
+  </td><td width="71" valign="top">  <b>23.3</b>
+  </td><td width="81" valign="top">  <b>26.6</b>
+  </td>
+</tr>
+
+</table>
+<p>Source: COMEXT, Eurostat</p><p>In Ghana, this situation is causing substantial levels of complaint and criticism from poultry producers. Critics argue that the government tariff policy in Ghana ‘is a little short sighted’, since it opens the floodgates to imports and in so doing undermines the position not only of Ghanaian poultry farmers, but also of local cereals producers who supply feed to poultry farmers (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Poultry/Poultry-industry-in-West-Africa-struggling-to-deal-with-cheap-poultry-imports" target="_self">Poultry industry in West Africa struggling to deal with cheap poultry im...</a>’, December 2010). This forms part of a pattern of long-standing complaints from Ghanaian poultry farmers, who look enviously at policy measures adopted to support poultry producers in Côte d’Ivoire.</p><p>In Côte d’Ivoire, according to press reports, ‘in 2005 the Ivorian government imposed a new tax on imported poultry by-products’ which roughly doubled the price of imported poultry products. According to industry representatives, Ivorian poultry producers were as a result of these measures ‘able to hold our own against fierce competition from the imports’. This policy change, according to the reports, not only benefited poultry producers, with substantial new investment taking place, but also benefited local feed suppliers. Overall, poultry production in Côte d’Ivoire expanded from 9,000 to 20,000 tonnes between 2005 and 2009. In January 2010, the Côte d’Ivoire government committed itself to ‘maintain the import duties’. This however is seen as only providing a breathing space for the poultry industry in the country ‘to get better organised’, since it is ‘simply a matter of time before importers find a way around the policy and regain a footing on the market’ (see <i>Agritrade</i> article, ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Poultry/West-African-concerns-over-poultry-imports" target="_self">West African concerns over poultry imports</a>’, September 2010).</p><p>This reality is illustrated by the extent of the illegal trade in poultry meat parts between Benin and Nigeria. The World Bank estimates suggest that as much of 90% of Benin’s poultry imports are re-exported to Nigeria, where a ban on poultry meat imports has nominally been in force since 2000. This trade not only undermines the Nigerian government’s trade policy in the poultry sector, but also gives rise to serious animal disease transmission and food safety challenges.</p><p>The situation in Ghana and the policy debates taking place reflect similar debates earlier in Cameroon, where local poultry producers actively campaigned for a change in government policy, in order to foster a rehabilitation of the poultry sector in the face of disruptions of local markets by imports of poultry parts from the EU (see <i>Agritrade</i> articles ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Poultry/EU-poultry-meat-exports-to-Cameroon-are-roundly-condemned" target="_self">EU poultry-meat exports to Cameroon are roundly condemned</a>’, September 2004, and ‘A campaign is launched on EU chicken-part exports to Africa’, December 2004).</p><p><b>2.4 The rise of Brazil</b></p><p>The value of Brazilian poultry meat exports since 2004 has overtaken the value of EU poultry meat exports, with the EU export surge in 2010 only partly closing the gap. According to the US Department of Agriculture (USDA), Brazilian poultry meat exports rose 5.6% in 2010 to reach record levels. However a further 4% increase in Brazilian poultry meat exports is projected in 2011 as well.</p><p>While the EU has begun once more to expand its poultry meat exports beyond West and Central Africa to South Africa, the imports of chicken carcasses from Brazil are a far greater source of concern to the South African poultry sector. Imports of chicken carcasses from Brazil into South Africa in January 2011 were 33% higher than in January 2010, and were being sold at 23% below average South African prices (the value of imports from Brazil increased 31% between 2009 and 2010). Exchange rate movements were held to be exacerbating some of the cost advantages which the Brazilian poultry sector enjoys (see <i>Agritrade</i> article, ‘
+<a href="/en/layout/set/print/../../../../en/layout/set/print/Agriculture/Commodities/Poultry/Changing-patterns-in-Brazilian-poultry-exports-cause-concern-in-South-Africa" target="_self">Changing patterns in Brazilian poultry exports cause concern in South Af...</a>’, May 2011).</p><p>While the factors influencing the Brazil–South Africa poultry meat trade are quite different from the factors influencing the poultry meat trade between the EU and West &amp; Central Africa, the situation in South Africa does highlight an important trend, namely the growing role of Brazil in the poultry trade into ACP countries.</p><a name="eztoc506306_3" id="eztoc506306_3"></a><h2><b>3. Implications for the ACP</b></h2><p><b>3.1 The problem of dumping of poultry parts</b></p><p>The problem of dumping of poultry parts is common to countries in Africa, the Caribbean and the Pacific, although the origin of this trade varies (EU, USA and Australia respectively). The question arises of what policy measures can be taken in response to the disruptive effects that this ‘residual’ trade can have on the local markets affected. A number of options appear to be available, depending on the binding trade policy commitments that individual ACP governments have made.</p><p>The first option involves the use of a differentiated tariff structure, with higher specific duties on frozen poultry parts, which are the main source of concern. This would target the specific problem area without unduly increasing the average tariff applied, and would mirror the tariff policy approach used by the EU in the poultry sector. This would however require a strong customs implementation capacity.</p><p>The second option involves the use of quantitative restrictions or bans on imports of poultry parts – possibly on food safety grounds, given the high rates of contamination detected in frozen poultry cuts at the point of consumption, arising from shortcomings in storage and handling. However, such measures would need to be coordinated regionally to prevent the emergence of a large illicit trade: in the case of Benin and Nigeria, the illegal cross-border trade may be equivalent to between 5% and 10% of Nigerian poultry meat consumption.</p><p>The third option is to issue import licences linked to food safety concerns, so licensing only companies that have access to the physical infrastructure to ensure safe storage and handling of frozen poultry parts. This would to a certain extent mirror EU practice in the dairy sector, where for many years import licences were only issued to ‘approved undertakings’ which could guarantee the integrity of the handling and storage of dairy products (exclusively EU dairy companies).</p><p><b>3.2 The role of tariff policy</b></p><p>Tariff policy is central to the management of the EU poultry market, and it is also central to the management of poultry sector development in ACP countries. Tariff policy can play a critical role in stimulating investment and the development of a modern poultry sector. However, it needs to be recognised that tariff protection and import restrictions can only provide a breathing space for investment to enhance the competitiveness of domestic commercial poultry production. Given the moves being made towards trade liberalisation and the customs enforcement constraints in ACP countries, tariff policy cannot offer a long-term solution, and needs to be seen as complementary to broader poultry sector development strategies.</p><p>In the short term, as illustrated by the success enjoyed in the Caribbean, the importance of poultry sector development to food security, GDP and job creation cannot be overestimated. However, as highlighted by the Caribbean experience, this raises questions about the net economic gains, when such a high proportion of inputs are imported. This issue also arises elsewhere in the ACP, where special interests may result in any objective assessment of the real costs and benefits of poultry sector policies being largely set to one side.</p><p><b>3.3 Regional poultry policy</b></p><p>There would appear to be a need for a coordinated regional approach to poultry sector trade policy, to remove inconsistencies in the treatment of poultry products. The EU export trade in poultry parts is highly mobile, switching between markets, depending on the national trade policy measures that are in place. This can give rise to an intra-regional trade in imported poultry parts which not only undermines national poultry sector policies, but also poses serious SPS and food safety threats. However in some regions, notably West and Central Africa, this comes up against the challenge of ensuring not only the consistent implementation of agreed policy commitments, but also ensuing that the regional policy framework takes into account the specificities of the international poultry trade. This is a critical policy challenge.</p><p><b>3.4 EU export refund policy</b></p><p>The bulk of EU poultry exports to ACP markets occur without the benefit of export refunds. However, ACP countries are listed as eligible destinations for the payment of EU export refunds. Given efforts under way to develop poultry production in ACP countries, a clear policy commitment is needed for the EU not to provide export refunds on poultry exports to ACP countries and regions seeking to develop their own poultry sectors. This applies to the export of both whole frozen birds and poultry parts, which may receive export refund support during times of market crisis.</p><p><b>3.5 Implications of the rise of Brazil</b></p><p>The increase in Brazilian poultry exports to South Africa and other African markets in 2010 cannot be divorced from the decline in Brazilian exports to the EU (down by 9.6% in 2010). With pressure from EU farmers’ organisation to apply EU production regulations to imports of meat from third countries, this process of Brazilian export diversification in the poultry sector is likely to gain pace. The conclusion of an EU–Mercosur agreement may only marginally impact on this trend.</p><p>Thus while currently the main trading challenge facing poultry producers in West Africa comes from EU exports of poultry parts, over time Brazil’s evolving poultry export trade to West Africa may come to resemble its trade with South Africa. A factor influencing these developments may well be the growing corporate links between the Brazilian poultry sector and the EU poultry sector, with some EU companies being major stakeholders in the Brazilian poultry sector, and some Brazilian companies major stakeholders in the EU poultry sector.</p><p><b>3.6 The agenda of poultry sector development challenges in ACP countries</b></p><p>Poultry sector development priorities vary from one ACP country to the next. However there are a number of common issues that need to be addressed, including:</p>
+<ul>
+
+<li>improving animal health in the poultry sector to reduce morbidity rates and increase yields;</li>
+
+<li>getting to grips with rising feed costs by fostering stronger cross-sector linkages (e.g. linking biofuel production to poultry feed supply);</li>
+
+<li>supporting the development of poultry supply chains (through measures as diverse as promoting investment in cold stores and supporting farmers’ organisations, and building supply links between cereal producers and poultry farmers to improve the functioning of supply chains);</li>
+
+<li>supporting the transition from semi-commercial to commercial production.</li>
+
+</ul>
+<p>There would appear to be considerable scope for collaboration across ACP countries and regions in getting to grips with these challenges. These range from the strategies required in small island economies to simulate poultry production (lessons from the Caribbean for the Pacific) to the experience in commercialising smallholder poultry production (lessons from South Africa for other African countries).</p><p>This constitutes a substantial ‘aid for trade’ agenda. However, given the important contribution which the poultry sector makes to food security, income generation and employment creation, it would appear to be an important priority sector for ‘aid for trade’ support.</p><p><b>3.7 Knock-on effects of extending EU production process regulations to third countries</b></p><p>The growing volume of poultry imports and the prospects of expanded TRQ access for major third-country suppliers under free-trade area (FTA) agreements are leading EU farmers’ organisations to put pressure on the EC to include requirements for full compliance with EU SPS, food safety and production process standards in all trade agreements. This, it is argued, would ‘level the playing field’, by requiring third-country producers wishing to export to the EU to incur the same investment costs in meeting and enforcing all EU standards required of EU poultry producers (e.g. animal welfare related rules of stocking densities for broiler production). This mainly affects South Africa, and would not directly affect other ACP poultry producers, since under existing EU SPS requirements no exports to the EU occur. However, it would be likely to affect ACP beef exporters, since these stricter requirements would apply to all livestock product imports. This would primarily affect Botswana and Namibia.</p><a name="eztoc506306_3_1" id="eztoc506306_3_1"></a><h3><b>Main sources</b></h3><p>1. Agra CEAS Consulting, Evaluation of the Common Market Organisation (CMOs) for Pigmeat, Poultrymeat and Eggs, Contract 30-CE-0009330/00-422134/CC/November 2005</p><p>
+<a href="http://ec.europa.eu/agriculture/eval/reports/pig_poultry_egg/fullrep_en.pdf" target="_self">http://ec.europa.eu/agriculture/eval/reports/pig_poultry_egg/fullrep_en.pdf</a></p><p>2. European Parliament, Directorate General for Internal Policies, ‘The poultry and egg sectors: evaluation of the current market situation and future prospects’, April 2010</p><p>
+<a href="http://www.isapoultry.com/fr-FR/Information/Publications/Magazine%20articles/%7E/media/Files/ISA/Information/magazine%20articles/2011/20110131%20en%20The%20Poultry%20and%20egg%20sectors%20evaluation%20and%20future%20prospects.ashx" target="_self">http://www.isapoultry.com/fr-FR/Information/Publications/Magazine%20arti...</a></p><p>3. European Commission, ‘Prospects for agricultural markets and income in the EU’ annual report series</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2010: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2010/index_en.htm" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2010/index_en.htm</a></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2008/index_en.htm" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2008/index_en.htm</a></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Archive:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="http://ec.europa.eu/agriculture/analysis/markets/archive_en.htm" target="_self">http://ec.europa.eu/agriculture/analysis/markets/archive_en.htm</a></p><p>4. USDA, ‘EU-27 poultry sector growth to slow in 2011’ GAIN report No. FR9049, 1 September 2010</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Poultry%20and%20Products%20Annual_Paris_EU-27_9-2-2010.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Poultry%20and%20Pr...</a></p><p>5. Poultry markets in West Africa: Overview and comparative analysis</p><p>
+<a href="http://www.evansuw.org/files/Evans%20UW_Request%2082_Poultry%20Market%20Analysis%20Overview_7-16-2010.pdf" target="_self">http://www.evansuw.org/files/Evans%20UW_Request%2082_Poultry%20Market%20...</a></p><p><b>&nbsp;Useful links</b></p><p><i>Globaltradealert.org</i>, website providing real-time information on trade measures adopted which could impact on trade</p><p>
+<a href="http://www.globaltradealert.org/measure/ec-fixing-export-refunds-poultry-meat" target="_self">http://www.globaltradealert.org/measure/ec-fixing-export-refunds-poultry...</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Poultry/Executive-Brief-Update-2013-Poultry-sector">Executive Brief Update – 2013: Poultry sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Regions/ACP/West-Africa/Executive-Brief-Update-2013-West-Africa-Agricultural-trade-policy-debates-and-developments">Executive Brief Update 2013 – West Africa: Agricultural trade policy debates and developments</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Regions/ACP/Central-Africa/Executive-Brief-Update-2013-Central-Africa-Agricultural-trade-policy-debates-and-developments">Executive Brief Update 2013 – Central Africa: Agricultural trade policy debates and developments </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Other/Executive-Brief-Update-2012-Central-Africa-Agricultural-trade-policy-debates-and-developments">Executive Brief Update 2012: Central Africa: Agricultural trade policy debates and developments</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Poultry/Executive-Brief-Update-2012-Poultry-sector">Executive Brief Update 2012: Poultry sector</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":148,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

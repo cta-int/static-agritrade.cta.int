@@ -1,0 +1,226 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Trade agreements and South Africa’s shifting agricultural trade flows / ACP - FTAs / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																										
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+																																																																																																																																																																																										,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7802/(search)/simple">Horticulture</a>
+							
+																																																																																																																																																																																																			
+																																																																																																		,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7815/(search)/simple">ACP - FTAs</a>
+							
+																																																																																																																																																																																																																									
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Trade agreements and South Africa’s shifting agricultural trade flows</h1>
+
+			
+			<h4>
+												08 October 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>In July, press reports suggested that the India–SACU trade negotiations had ‘gathered momentum’ and could be completed by the end of 2012. Analysts at the South African Institute for International Affairs, however, maintain the pending India-SACU trade agreements are unlikely to have ‘any significant impact on trade’, since the main issues facing South African exporters relate to the ‘highly regulated’ nature of the Indian market, and the pending agreement is likely to leave these issues unaddressed. This was contrasted to the more open and easily accessible South African market. This is causing concern, given the recent reversal of South Africa’s trade balance with India.</p><p>In May 2012, Tralac, the South Africa-based Trade Law Centre, published analysis of India’s market opening request, revealing that some 8.8% of the 1,022 tariff lines on which reductions are being sought relate to food and agricultural products, with average tariffs in these areas being among the highest, ranging from 10 to 24.7%.</p><p>New trade agreements need to be seen in the context of the evolution of South Africa’s increasingly complex matrix of food and agricultural exports. In May 2012, Agriculture Minister Tina Joemat-Pettersson informed the South African Parliament that agricultural exports were increasingly shifting away from Europe to Asia. She noted that while exports to the EU of ‘both primary and processed food products …had dropped over the past decade’, those to Asian countries had increased. Exports to Asia grew from ‘about R10 billion in 1996 to R48 billion’ in 2011: ‘agri-food exports to China grew from 1 to 3%; to South Korea from 2 to 3%; to Hong Kong from 2 to 3%; and to the United Arab Emirates from 1 to 3%.’</p><p>According to the minister, ‘South Africa’s “active political relations” with several Asian countries had fostered the growth in agri-food products to this region, together with the “economic meltdown” in the EU’. She argued that ‘South Africa’s traditional trading partners in the EU and the United States will in future become less significant as new opportunities are being explored elsewhere, notably in the Middle East, Russia and Asia.’ It was maintained that these alternative markets had ‘cushioned the impact of the economic crisis in the EU’.</p><p>Industry sources, in recent years, show that South African citrus exports to Japan, China, Hong Kong and Russia have enjoyed set prices, with a majority of buyers paying ‘70 to 90% in advance on FOB conditions’. This has meant that exporters of better quality citrus fruit have been increasingly targeting these markets. However, press reports in July 2012 indicated that EU importers are now showing an increasing willingness to compete on price with Far Eastern and US buyers.</p><p>South African market diversification efforts are by no means straightforward. Although citrus exports to the Middle East have grown, a late harvest in 2012 in Egypt and poor colour quality of South African fruit have resulted in securing lower prices than expected, with some quotes for shipments being below cost price. Currency movements have, however, eased this situation, with some market components (lemons) benefiting from reduced supplies from competitors (e.g. Turkey, as a result of the conflict in Syria). Similarly, while a new SPS agreement with Thailand on citrus fruit should open up new export opportunities, a Thai import ban remains in place on South African deciduous fruit.</p><p>Meanwhile, renewed marketing efforts aimed at favourably positioning South African citrus fruit on US markets continue to prove successful, with exports increasing from 50 tonnes in 1990 to 41,000 tonnes in 2011, and export growth expected to continue into 2012 and beyond. Intensified market efforts, however, are also getting good results in certain fruit market components in the EU (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/South-African-fruit-exports-grow" target="_blank">South African fruit exports grow</a>’, 4 June 2012).&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Business Day</i>, ‘SACU expects deal with India by end of year’, 2 August 2012</p><p>
+<a href="http://www.tralac.org/2012/08/02/sacu-expects-deal-with-india-by-end-of-year/" target="_self">http://www.tralac.org/2012/08/02/sacu-expects-deal-with-india-by-end-of-...</a></p><p><i>Mail &amp; Guardian Online</i>, ‘Shift in focus has saved export sector, says minister’, 4 May 2012</p><p>
+<a href="http://www.tralac.org/2012/05/04/shift-in-focus-has-saved-export-sector-says-minister/" target="_self">http://www.tralac.org/2012/05/04/shift-in-focus-has-saved-export-sector-...</a></p><p><i>Freshplaza.com</i>, ‘Increasingly more South African citrus going to the Middle and Far East for a set price’, 5 July 2012</p><p>
+<a href="http://www.freshplaza.com/news_detail.asp?id=98134#SlideFrame_1" target="_self">http://www.freshplaza.com/news_detail.asp?id=98134#SlideFrame_1</a></p><p><i>Freshplaza.com</i>, ‘Middle East: Difficult market for South African citrus’, 3 July 2012</p><p>
+<a href="http://www.freshplaza.com/news_detail.asp?id=98080#SlideFrame_1" target="_self">http://www.freshplaza.com/news_detail.asp?id=98080#SlideFrame_1</a></p><p><i>Business Day</i>, ‘Trade agreement opens Thai markets for SA citrus farmers’, 13 June 2012</p><p>
+<a href="http://www.tralac.org/2012/06/13/trade-agreement-opens-thai-markets-for-sa-citrus-farmers/" target="_self">http://www.tralac.org/2012/06/13/trade-agreement-opens-thai-markets-for-...</a></p><p><i>Freshplaza.com</i>, ‘Continued ban on the export of South African deciduous fruits to Thailand’, 9 July 2012</p><p>
+<a href="http://www.freshplaza.com/news_detail.asp?id=98289#SlideFrame_1" target="_self">http://www.freshplaza.com/news_detail.asp?id=98289#SlideFrame_1</a></p><p><i>Freshplaza.com</i>, ‘South African citrus arrives in US’, 28 June 2012</p><p>
+<a href="http://www.freshplaza.com/news_detail.asp?id=97941#SlideFrame_1" target="_self">http://www.freshplaza.com/news_detail.asp?id=97941#SlideFrame_1</a></p><p>TRALAC, ‘Willemien Viljoen … discusses the Indian request list in the SACU-India trade negotiations’, 30 May 2012</p><p>
+<a href="http://www.tralac.org/2012/05/30/the-indian-request-list-in-the-sacu-india-trade-negotiations/" target="_self">http://www.tralac.org/2012/05/30/the-indian-request-list-in-the-sacu-ind...</a></p><p><i>Freshplaza.com</i>, ‘Good prospects South African citrus season’, 4 July 2012</p><p>
+<a href="http://www.freshplaza.com/news_detail.asp?id=98162#SlideFrame_1" target="_self">http://www.freshplaza.com/news_detail.asp?id=98162#SlideFrame_1</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>While non-traditional export markets in Asia, Russia, the Middle East and the US are growing in importance for certain South African agri-food exporters, these markets remain relatively small compared to the traditional EU market, with Europe taking between over 50% of the more than 1.5 million tonnes of citrus fruit exported each year. In addition, some of these non-traditional markets are volatile, requiring constant attention to evolving trends in other exporting countries. However, in some markets, e.g. the US, export volumes are now such as to warrant targeted marketing campaigns, with these creating new export opportunities.</p><p>South African exporters are favouring greater market diversification. However, given the scale of the economic downturn on traditional EU markets, targeted marketing strategies can only be developed to consolidate and further expand exports once a certain volume of exports has been achieved. The importance of export volumes in justifying investment in enhanced marketing to support sustainable export market diversification highlights the challenges faced by smaller ACP countries.</p><p>The diversity of the international market suggests a need to develop, wherever possible, sector-specific regional marketing strategies for promoting exports to non-traditional markets. Indeed, it also suggests a need for greater region-wide collaboration on marketing products in traditional markets, if returns are to be maintained during periods of economic recession.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/Trade-agreements-and-South-Africa-s-shifting-agricultural-trade-flows">Trade agreements and South Africa’s shifting agricultural trade flows</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/Horticulture-development-programmes-under-way">Horticulture development programmes under way</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/Citrus-market-under-huge-pressure">Citrus market under huge pressure</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/New-producer-network-is-launched">New producer network is launched</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":149,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

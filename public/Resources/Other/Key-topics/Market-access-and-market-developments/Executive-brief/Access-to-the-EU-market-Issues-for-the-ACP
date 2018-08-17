@@ -1,0 +1,1467 @@
+<!DOCTYPE html>
+<html class="no-js">
+<!--
+	/**
+	 * We congratulate Agritrade with their new, upgraded (HTML5!) website!
+	 * Created by Contactivity, www.contactivity.com
+	 * @version $Id: 1.0
+	 */
+
+
+																			--><head>
+	
+                                                    
+	<title>Access to the EU market: Issues for the ACP / Executive brief  / Market access and market developments / Key topics / Other / Resources / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+			
+		<meta name="description" content="Contents
+
+1 Background and key issues.
+
+2 Latest developments. 
+
+2.1 Market access
+
+2.1.1 The EU’s wider agro-food trade strategy.
+
+2.1.2 Impact of duty-free, quota-free access.
+
+2.1.3 Evolution of the GSP regime. 
+
+2.2 Market developments in the EU
+
+2.2.1 The EU’s agricultural product quality policy. 
+
+2.2.2 Market trends for organics. 
+
+2.2.3 The development of the fair-trade market 
+
+2.2.4 Private voluntary standards. 
+
+2.2.5 Functioning of the supply chain. 
+
+2.2.6 The trend towards long-..."/>
+			
+			
+		<meta name="keywords" content=","/>
+			
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+		<script src="/extension/agritrade/design/agritrade/js/contactivity.global.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/contactivity.input.js"></script>
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="Access to the EU market: Issues for the ACP"/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+<script src="https://valsplat.nl/clients/2852/invite.js"></script>
+</head>
+<body lang="en" onload="initialize()">
+
+<!-- [ wrapper -->
+<div id="wrapper">
+
+	<!-- [ main container -->
+	<div class="container" id="maincontainer">
+
+		<!-- [ header container -->
+		<header class="container">
+
+			<h6><a href="http://www.cta.int/" target="_blank">CTA</a></h6>
+			<div class="logo">
+				<h1><a href="/"><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></a></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+			<!-- [ font box -->
+			<div class="fontBox">
+				<dl>
+					<dt class="active"><a href="#" class="bind fontsize" rel="small"><img src="/extension/agritrade/design/agritrade/images/small_font.gif" alt=""/></a></dt>
+					<dd>Small fontsize</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="medium"><img src="/extension/agritrade/design/agritrade/images/medium_font.gif" alt=""/></a></dt>
+					<dd>Medium fontsize</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="big"><img src="/extension/agritrade/design/agritrade/images/big_font.gif" alt=""/></a></dt>
+					<dd>Big fontsize</dd>
+				</dl>
+			</div>
+			<!-- font box ] -->
+
+			<!-- [ language box -->
+			<div class="languageBox">
+				<dl>
+				
+				
+					<dt><a href="/en/Resources/Other/Key-topics/Market-access-and-market-developments/Executive-brief/Access-to-the-EU-market-Issues-for-the-ACP">English</a> | </dt>
+					<dd>Switch to English</dd>
+					<dt><a href="/fr/Resources/Other/Key-topics/Market-access-and-market-developments/Executive-brief/Access-to-the-EU-market-Issues-for-the-ACP">Français</a></dt>
+					<dd>Switch to French</dd>
+				</dl>
+			</div>
+			<!-- language box ] -->
+
+			<!-- [ search box -->
+			<div class="searchBox">
+				<form action="http://www.google.com/cse?hl=en&sa=Search&ie=UTF-8" method="get" name="search">
+	            <input type="hidden" value="013338266298253522945:rk5lmjqtluq" name="cx"/>
+					<input name="q" type="text" class="field" value="" placeholder="Search"/>
+					<input name="Search" type="image" alt="" class="button" src="/extension/agritrade/design/agritrade/images/search_button.jpg"/>
+				</form>
+
+
+
+			</div>
+			<!-- search box ] -->
+
+
+			<!-- [ navigation -->
+			<nav>
+				
+				<ul>
+				<li>
+					<h2><a href="/"><span>Home</span></a></h2>
+				</li>
+									
+					
+																					
+					<li>
+						<h2><a href="/Agriculture" title="Agriculture"><span>Agriculture</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Topics
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/Agriculture/Topics/WTO" title="WTO">											WTO
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/EPAs" title="EPAs">											EPAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/EU-FTAs" title="EU FTAs">											EU FTAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/ACP-FTAs" title="ACP - FTAs">											ACP - FTAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/ACP-regional-trade" title="ACP regional trade">											ACP regional trade
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/Market-access" title="Market access">											Market access
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/SPS-Food-safety" title="SPS / Food safety">											SPS / Food safety
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/Product-differentiation" title="Product differentiation">											Product differentiation
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/CAP-reform" title="CAP reform">											CAP reform
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/Biofuels" title="Biofuels">											Biofuels
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/Climate-change" title="Climate change">											Climate change
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/Aid-for-trade" title="Aid for trade">											Aid for trade
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Topics/Other" title="Other">											Other
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Commodities
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/Agriculture/Commodities/General" title="General">											General
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Bananas" title="Bananas">											Bananas
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Beef" title="Beef">											Beef
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Cereals" title="Cereals">											Cereals
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Cocoa" title="Cocoa">											Cocoa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Coffee" title="Coffee">											Coffee
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Cotton" title="Cotton">											Cotton
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Dairy" title="Dairy">											Dairy
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Horticulture" title="Horticulture">											Horticulture
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Oil-crops" title="Oil crops">											Oil crops
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Poultry" title="Poultry">											Poultry
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Rice" title="Rice">											Rice
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Rum" title="Rum">											Rum
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Sugar" title="Sugar">											Sugar
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Tea" title="Tea">											Tea
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Commodities/Other" title="Other">											Other
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Regions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/Agriculture/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Regions/EU" title="EU">											EU
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Agriculture/Regions/Global" title="Global">											Global
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/Fisheries" title="Fisheries"><span>Fisheries</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Topics
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/Fisheries/Topics/ACP-EU-relations-FPAs" title="ACP-EU relations; FPAs">											ACP-EU relations; FPAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Fisheries/Topics/EU-common-fisheries-policy" title="EU common fisheries policy">											EU common fisheries policy
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Fisheries/Topics/Market-access" title="Market access">											Market access
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Fisheries/Topics/News-from-the-IOC-region" title="News from the IOC region">											News from the IOC region
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Fisheries/Topics/WTO-international-developments" title="WTO &amp; international developments">											WTO &amp; international developments
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Regions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/Fisheries/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Fisheries/Regions/EU" title="EU">											EU
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Fisheries/Regions/Global" title="Global">											Global
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/Regions" title="Regions"><span>Regions</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/Regions/Global" title="Global">									Global
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/Regions/EU" title="EU">									EU
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+									<a href="/Regions/ACP" title="ACP">									ACP
+									
+																		
+									</a>								</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/Regions/ACP/All-ACP" title="All ACP">											All ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Regions/ACP/Caribbean" title="Caribbean">											Caribbean
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Regions/ACP/West-Africa" title="West Africa">											West Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Regions/ACP/Central-Africa" title="Central Africa">											Central Africa
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/Regions/ACP/Eastern-Africa" title="Eastern Africa">											Eastern Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Regions/ACP/Southern-Africa" title="Southern Africa">											Southern Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/Regions/ACP/Pacific" title="Pacific">											Pacific
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/Publications" title="Publications"><span>Publications</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/Publications/Compendium" title="Compendium">									Compendium
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/Publications/Executive-briefs" title="Executive briefs">									Executive briefs
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/Publications/Interviews" title="Interviews">									Interviews
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/Publications/News-Analysis" title="News &amp; Analysis">									News &amp; Analysis
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/Publications/Newsletter" title="Newsletter">									Newsletter
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/Publications/Special-Reports" title="Special Reports">									Special Reports
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+																
+																					
+					<li>
+						<h2><a href="/Welcome-to-Agritrade" title="About"><span>About</span></a></h2>
+						
+
+											</li>
+
+								
+		</ul>
+
+			</nav>
+			<!-- navigation ] -->
+
+
+		</header>
+		<!-- header container ] -->
+
+
+
+		<!-- [ content container -->
+		<section class="container">
+
+
+			
+						<!--  [ center container -->
+			<div id="centerCntr" class="article content  has_right">
+							
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt=""/>
+					
+
+		</div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style " addthis:title="Access to the EU market: Issues for the ACP">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/Resources/Other/Key-topics/Market-access-and-market-developments/Executive-brief/Access-to-the-EU-market-Issues-for-the-ACP" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				<a id="tool-email" href="http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2FResources%2FOther%2FKey-topics%2FMarket-access-and-market-developments%2FExecutive-brief%2FAccess-to-the-EU-market-Issues-for-the-ACP&amp;title=Access+to+the+EU+market%3A+Issues+for+the+ACP&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611" onclick="return popitup('http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2FResources%2FOther%2FKey-topics%2FMarket-access-and-market-developments%2FExecutive-brief%2FAccess-to-the-EU-market-Issues-for-the-ACP&amp;title=Access to the EU market: Issues for the ACP&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611')" target="_blank" class="tool popup">
+			Email
+		</a>
+		<a href="#" id="tool-print" class="tool" onclick="printMe('/en/layout/set/print/Resources/Other/Key-topics/Market-access-and-market-developments/Executive-brief/Access-to-the-EU-market-Issues-for-the-ACP'); return false">
+			print
+		</a>
+				</div>
+
+	
+	</div>
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																											,
+								<a href="/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+																																,
+
+							<a href="/Agriculture/(commodities)/7795/(search)/simple">General</a>
+							
+																																																																																																																																																																																																																																																																																																																																																													
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/Agriculture/(topics)/8254/(search)/simple">Market access</a>
+							
+																			
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+										
+			<h1>Access to the EU market: Issues for the ACP</h1>
+
+						<div class="pdf-file">
+				<a href="/content/download/1411/136804/file/0a119a2dadf53640ccac726491e87622.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+												28 February 2010
+										</h4>
+
+						<h2>Executive brief: Update, March 2010</h2>
+					</header>
+
+
+				<div class="intro">
+
+						<a name="eztoc32666_0_2" id="eztoc32666_0_2"></a><h3>Contents</h3><p>
+<b>
+<a href="#1" target="_self">1 Background and key issues.</a></b><br/>
+<b>
+<a href="#2" target="_self">2 Latest developments. </a></b><br/>
+
+<a href="#2" target="_self">2.1 Market access</a><br/>
+
+<a href="#2" target="_self">2.1.1 The EU’s wider agro-food trade strategy.</a><br/>
+
+<a href="#212" target="_self">2.1.2 Impact of duty-free, quota-free access.</a><br/>
+
+<a href="#213" target="_self">2.1.3 Evolution of the GSP regime. </a><br/>
+
+<a href="#22" target="_self">2.2 Market developments in the EU</a><br/>
+
+<a href="#221" target="_self">2.2.1 The EU’s agricultural product quality policy. </a><br/>
+
+<a href="#222" target="_self">2.2.2 Market trends for organics. </a><br/>
+
+<a href="#223" target="_self">2.2.3 The development of the fair-trade market </a><br/>
+
+<a href="#224" target="_self">2.2.4 Private voluntary standards. </a><br/>
+
+<a href="#225" target="_self">2.2.5 Functioning of the supply chain. </a><br/>
+
+<a href="#226" target="_self">2.2.6 The trend towards long-term price convergence.</a> <br/>
+<b>
+<a href="#3" target="_self">3 Implications for the ACP. </a></b><br/>
+
+<a href="#3" target="_self">3.1 EU offensive market interests</a><br/>
+
+<a href="#32" target="_self">3.2 Duty-free, quota-free access</a><br/>
+
+<a href="#33" target="_self">3.3 The GSP+ alternative</a><br/>
+
+<a href="#34" target="_self">3.4 Agricultural product quality policy</a><br/>
+
+<a href="#35" target="_self">3.5 Functioning of the supply chain</a><br/>
+
+<a href="#36" target="_self">3.6 Rules of origin: an unresolved issue</a><br/><b>
+<a href="#s" target="_self">Information sources. </a></b></p><p><b>About this update</b></p><p>CTA’s <i>Executive brief: Market access</i> was published in January 2008 and in CTA’s <i>Agritrade: ACP–EU Trade Issues (2009 Compendium)</i>. This update moves from market access to market developments in the EU and consists of:</p><p>
+<b>1. Background and key issues:</b> briefly summarising the original executive brief, and where necessary, updating developments related to key issues; <br/>
+<b>2. Latest developments:</b> reviewing developments that have taken place since the publication of the original executive brief; <br/><b>3. Implications for the ACP:</b> examining the implications of recent developments for the ACP countries concerned.</p><p>The original executive brief (2008) is available on request from: 
+<a href="mailto:info@agritrade.cta.int" target="_self">info@agritrade.cta.int</a>.</p>
+
+		</div>
+		
+		
+					<a name="eztoc32667_1" id="eztoc32667_1"></a><h2>1 Background and key issues</h2><p>Market access for ACP agricultural exports to the EU now takes place under three trade regimes:</p>
+<ul>
+
+<li>the ‘Everything But Arms’ (EBA) initiative in favour of all least developed countries (LDCs);</li>
+
+<li>the interim Economic Partnership Agreements (EPAs) and one comprehensive EPA initialled or signed with the governments of certain ACP countries;</li>
+
+<li>the standard Generalised System of (Tariff) Preferences (GSP) regime, applicable to all eligible developing countries, but which now provides the only trade framework for 10 non-least developed ACP countries whose governments have not initialled interim EPAs (IEPAs).</li>
+
+</ul>
+<p>Since 1 October 2009, transitional quotas under both the EBA and the various interim and full EPA arrangements have been discontinued. This means that all LDCs and countries whose governments have initialled or signed interim or full EPAs [(I)EPAs] now enjoy duty-free, quota-free access for all food and agricultural product exports to the EU. The duty-free, quota-free access granted is now only qualified by the rules of origin applied, specific restrictions on exports to EU overseas territories and the various safeguard provisions which have been retained.</p><p>In terms of the value of ACP agricultural market access arrangements, the erosion of the value of trade preferences, driven primarily by the process of CAP reform, is continuing. The overall thrust of the EU Common Agricultural Policy (CAP) reform process is towards the closing of the gap between EU and world market prices. Over time this will greatly reduce the attractiveness of the EU market relative to other third-country markets, particularly as overall EU tariff protection is reduced after the gap has closed between EU and world market prices (as, for example, happened in the rice sector following the implementation of reforms). In the short term, significant margins of tariff preference may remain, but these will progressively disappear beyond 2013. In this context, the significance of the market access preferences granted to ACP suppliers will decline markedly. This is well illustrated by the current situation in the sugar sector, where very high world market prices at the same time as the introduction of the final round of EU reference price reductions mean that some ACP suppliers have found that ‘it doesn’t pay in the short term to sell to Europe’.</p><p>While the effects of the CAP reform-led process of preference erosion are of primary significance, it should be noted that the EU is conducting a multiplicity of negotiations for free-trade agreements and preferential market access arrangements. These negotiations embrace the following non-ACP countries and regions: India, South Korea, Canada, Egypt, Jordan, Lebanon, Libya, Morocco, Syria, Tunisia, Israel, the Palestinian Authority, Ukraine, Belarus, China, Iran, Iraq, Kazakhstan, Russia, Serbia, Vietnam, the Association of Southeast Asian (ASEAN) nations, Central America, the Andean Pact group, Mercosur, and the Gulf Cooperation Council. With WTO negotiations at a standstill, the outcome of these bilateral processes of free-trade area (FTA) negotiations may well be the principal source of the erosion of margins of tariff preference of ACP suppliers in the food and agricultural sector in the coming years. Each of these negotiation processes will need to be carefully assessed to identify the likely impact on particular areas where individual ACP exporters enjoy trade preferences.</p><p>In addition to issues related to the erosion of the value of ACP preferential market access, there are important non-tariff barriers to trade with the EU, including those related to the particular trajectory that CAP reform is following as regards quality production and food safety. The commercial barrier to trade constituted by sanitary and phytosanitary (SPS) regulations is an area of increasing concern to ACP exporters. A further area of concern relates to the growing importance of private voluntary standards in determining access to the commercially most advantageous components of EU markets. Closely linked to this are concerns over the impact of such private voluntary standards on commercial relationships along the supply chain, particularly in the context of a growing concentration of market power within food supply chains.</p><a name="eztoc32667_2" id="eztoc32667_2"></a><h2>2 Latest developments</h2><a name="eztoc32667_2_1" id="eztoc32667_2_1"></a><h3>2.1 Market access</h3><a name="eztoc32667_2_1_1" id="eztoc32667_2_1_1"></a><h4>2.1.1 The EU’s wider agro-food trade strategy</h4><p>The EU is now pursuing an agro-food strategy that is ‘defending Europe’s openness to imports while taking a more “activist” approach to opening markets’ abroad. This policy sees a growing role for imports of low-priced, basic agricultural raw materials, which then feed into a globally oriented, quality-focused, high-value EU food and drinks industry. Thus we find the EU increasingly exporting value-added food products, while demand for imported agricultural raw materials is increasing. While on the export side the EU’s market share of bulk agricultural commodity exports is declining, its value-added food-product exports are increasing. Value-added food-product exports now account for over two-thirds of EU food and agricultural product exports. On the import side, the EU remains the world’s largest importer of agricultural products, accounting for 20% of world imports of agricultural products in the period from 2006-2008.</p><p>This situation underlies the EU’s emerging ‘openness’ to trade in food and agricultural products. It also accounts for the EU’s more active approach to securing primary raw materials, including the introduction in IEPAs of provisions that seek to restrict the use of export taxes aimed at promoting local value-added food-processing activities. It further accounts for the growing policy focus on promoting international recognition of various types of EU agricultural- and food-product quality standards, from geographical indicators to animal welfare labels.</p><p>Questions related to the value of traditional ACP preferential market access therefore need to be seen against the background of this new, ‘ambitious’ FTA policy, where the EC is seeking extensive commitments on trade-related areas, trade in services, and investment regulations from advanced developing countries, which have so far declined to negotiate these issues in the WTO context. Improved access for advanced developing country exports to EU markets is likely to be part of the price that the EU is willing to pay for progress on these broader trade-related issues. This is likely to be at the expense of traditional ACP trade preferences.</p><p>According to the former EU trade commissioner, Catherine Ashton, in future, ‘multilateral trade negotiations will not involve the classic tariff reduction rounds’ but will be ‘more relationship-centred’, with the main gains from multilateral trade negotiations coming from ‘identifying the non-tariff barriers that stifle trade in goods’ and services. The future of multilateral trade is therefore, in ex-Trade Commissioner Ashton’s view, ‘about tackling non-tariff barriers – regulations, rules and behaviour that stifle trade’. These are precisely the issues that have emerged as ‘contentious issues’ in a number of ACP regions in the final stages of the IEPA negotiations. A number of these ‘contentious issues’ have a direct impact on the use of agricultural trade-policy tools by ACP governments in support of local food and agricultural sector development. These range from provisions dealing with import licences and infant industry protection to the provisions limiting the use of export taxes. This provides the wider context for the EC’s approach to the development of agro-food sector relations with ACP countries.</p><a name="eztoc32667_2_1_2" id="eztoc32667_2_1_2"></a><h4>2.1.2 Impact of duty-free, quota-free access</h4><p>Under both (I)EPAs and the EBA initiative, the quantitative restrictions on least-developed ACP countries’ food and agricultural exports to the EU were discontinued on 1 October 2009 (except for rice, discontinued on 1 January 2010). Subject to certain safeguard provisions (most notably in the sugar sector), governments which have initialled or signed (I)EPAs now enjoy full duty-free access for all food and agricultural exports. A similar situation applies to all LDCs, as the EU has now fully delivered on the commitment made in the 2005 WTO Hong Kong Ministerial Declaration ‘[to] provide duty-free and quota-free market access on a lasting basis for all products from all LDCs … in a manner that ensures stability, security and predictability’.</p><p>The EC, announcing the introduction of full duty-free, quota-free access, noted that in 2008 almost €25 billion of products were imported from LDCs by the EU, with EBA preferences generating savings in import duties for LDC exports of approximately €657 million in 2008. However, the main beneficiaries of the EBA preferences have been non-ACP LDCs, most notably Bangladesh and Cambodia, with imports from Bangladesh under the EBA having ‘more than doubled’ since 2001 (+117%). In addition, the figures provided show that 62% of these imports would have entered duty free under the most favoured nation (MFN) regime (i.e. no import duties are applied on these items), while 6% would have entered duty free under the (I)EPA arrangements. Surprisingly, 7.4% of imports still paid MFN duties, with the cost of utilising the preferences presumably exceeding the tariff advantages gained under the EBA regime. Some 23.2% of total LDC exports to the EU <i>de facto</i> benefited from the new EBA preferences progressively introduced since 2001.</p><p>Looking beyond the trade effects of the EBA regime, it is important to acknowledge the investment-stimulating effects that the announcement of a clearly defined transition period for the introduction of full duty-free, quota-free access has had in certain sectors. The investment-stimulating effects have been most significant in the sugar sector. Two of out of the three major sugar companies in South Africa have launched substantial investment and acquisition programmes to expand sugar production in LDCs, not only in eastern and southern Africa (Mozambique, Malawi, Zambia and Tanzania), but also in west African LDCs such as Mali. While in west Africa this investment is mainly to serve national and regional markets, in eastern and southern African LDCs it is primarily to take advantage of the expanded market access opportunities available under the EBA. This investment has not only stimulated an expansion of sugar production in LDCs, but has also served to improve physical infrastructure and management capacities, in ways that are serving to effectively prepare LDC sugar exporters to compete in the EU market beyond the lifetime of traditional sugar-sector trade preferences.</p><p>Beyond the activities of these major corporate players, investments in sugar production are also under way in Uganda, Ethiopia and Sudan, mainly on the basis of investment from the Gulf States. While much of this investment is designed to secure supplies of raw materials for value-added processing activities in the Gulf States, the prospect of full duty-free, quota-free access to the EU market has also been a factor in the investment location decisions.</p><p>With the granting of full duty-free, quota-free access under the IEPAs, investment has also stimulated sugar production in certain non-LDCs, most notably at this point in Swaziland, where in the coming years sugar exports to the EU are expected to expand to around 300,000 tonnes. Any loss of IEPA access would be likely to jeopardise this new investment.</p><p>Looking beyond the sugar sector, the granting of full duty-free, quota-free access under the EBA has also seen new investments taking place in banana production in land-rich LDCs, such as Mozambique and Angola. This comes on top of the long-standing impact of duty-free, quota-free access under the EBA on investment patterns in the horticulture and floriculture sectors in eastern and southern Africa.</p><a name="eztoc32667_2_1_3" id="eztoc32667_2_1_3"></a><h4>2.1.3 Evolution of the GSP regime</h4><p>On 22 July 2008, the EU Council adopted a regulation extending the GSP scheme to 31 December 2011. The regulation had three minor modifications, dealing with:</p>
+<ul>
+
+<li>graduation and de-graduation of countries from the scheme; </li>
+
+<li>the procedures for securing GSP+ treatment (with a deadline for application of 31 October 2008); </li>
+
+<li>bringing sugar access under the EBA in line with revisions of the EU sugar marketing season and the minimum-price commitments made in the context of the EPA negotiations. </li>
+
+</ul>
+<p>This revision provided an opportunity to review the market access arrangements set in place for non-least developed ACP countries which had not initialled or signed an (I)EPA. However, no action was taken on this issue. Similarly, on 9 December 2008 the EC announced the revised GSP+ scheme for the period 2009-2011. This scheme grants duty-free access for 6,400 tariff lines. According to the EC, ‘GSP+ provides an important incentive to developing countries to ratify and effectively implement a broadly defined set of international standards in the fields of human rights, core labour standards, sustainable development and good governance’. Three new beneficiaries were added to the scheme, and some 16 developing countries are now eligible under it: Armenia, Azerbaijan, Bolivia, Colombia, Costa Rica, Ecuador, El Salvador, Georgia, Guatemala, Honduras, Mongolia, Nicaragua, Paraguay, Peru, Sri Lanka and Venezuela. However once again no steps were taken to accommodate non-least developed ACP countries (notably Nigeria) that had not initialled or signed an (I)EPA. The only impact of these developments from an ACP perspective will be to further exacerbate the erosion of traditional ACP trade preferences that is under way.</p><a name="eztoc32667_2_2" id="eztoc32667_2_2"></a><h3>2.2 Market developments in the EU</h3><a name="eztoc32667_2_2_4" id="eztoc32667_2_2_4"></a><h4>2.2.1 The EU’s agricultural product quality policy</h4><p>As part of the process of CAP reform, the EC has been seeking to promote a fundamental shift in the pattern of European food and agricultural production from ‘quantity’ to ‘quality’, from serving ‘necessity-purchase’ markets to serving ‘luxury-purchase’ markets. This is seen as a fundamental aspect of a reformed CAP. According to former Agriculture Commissioner Mariann Fischer Boel, with the emergence of strong new players on world agricultural markets, ‘competing on product quality is not an optional extra ... [but] … essential to our strategy in the future’. Former Trade Commissioner Peter Mandelson subsequently acknowledged that ‘Europe simply cannot compete in the long run with third-country producers in Brazil, Argentina or elsewhere’. Quality considerations are therefore now considered central to the CAP.</p><p>The quality dimension of EU policy is undergoing systematic review and development. This began on 15 October 2008 with the launch of a consultation process on agricultural product quality policy, covering three main areas:</p>
+<ul>
+
+<li>‘baseline production requirements and marketing standards’;</li>
+
+<li>specific EU quality schemes such as geographical indications (GIs), traditional specialities and organic farming;</li>
+
+<li>food-quality certification schemes.</li>
+
+</ul>
+<p>The consultation process covered such issues as: the use of logos and marketing standards; the future development of the EU’s GI policy and its policy on organic production; the future development of food-quality certification schemes, including how EU policy should deal with private voluntary standards. In consolidation of the consultation process, a formal communication on ‘agricultural product quality policy’ and an accompanying staff working paper assessing the impact of various options under consideration were issued on 28 May 2009. Specific proposals included:</p>
+<ul>
+
+<li>extending labelling to include identification of the place where a product was produced; </li>
+
+<li>creating a register of all GIs, while preserving the specificities of the different systems currently in use; </li>
+
+<li>improving the functioning of the single market under various labelling schemes, particularly organic labelling; </li>
+
+<li>improving international protection of GIs and international recognition of EU quality schemes in non-EU countries; </li>
+
+<li>promoting the development of ‘international standards for marketing standards and organic products’; </li>
+
+<li>the development of ‘good practice’ guidelines for private certification schemes in order to reduce consumer confusion, and red tape for farmers. </li>
+
+</ul>
+<p>The current discussions in the EU on its agricultural product quality policy need to be seen in the light of the growing competitive challenge from advanced developing country suppliers that EU producers face in an era of tariff reductions and global agricultural trade liberalisation. One of its primary aims is to effectively communicate the value of quality production to EU consumers, so that they will be willing to pay more for products meeting these quality standards. Domestically this is seen as a means of differentiating EU products from similar imported products, prices of which may be substantially lower than those required by EU producers. The aim is to enable EU producers to compete on quality, not on price.</p><p>Traditional ACP suppliers whose supply position does not allow them to compete on price with advanced developing country exporters will need to pay close attention to the evolution of the EU’s agricultural product quality policy, to ensure that the standards established do not create barriers to ACP suppliers serving high-value, high-quality components of the EU market.</p><a name="eztoc32667_2_2_5" id="eztoc32667_2_2_5"></a><h4>2.2.2 Market trends for organics</h4><p>The EU market for organic products constitutes one of the components of the so called ‘luxury purchase’ market. There are now two distinct components to the EU market: ‘necessity purchases’ and ‘luxury purchases’. ‘Necessity purchases’ are those products where purchase decisions are made exclusively on the basis of price considerations. For ‘luxury purchases’, in contrast, purchase decisions are primarily based not on price, but on some perceived quality attributes of the product. According to an EC-funded study, the EU’s underlying demographic means that there will be no expansion of overall EU demand for food and agricultural products in the coming period. Rather, as EU citizens become more affluent, patterns of food consumption will change, with consumers increasingly favouring high-quality products and convenience foods (luxury-purchase products).</p><p>Luxury-purchase products are less prone to price declines and tend to face stable or buoyant price trends. In contrast, in the face of a progressive liberalisation of imports of basic agricultural products, it is expected that prices of undifferentiated agricultural commodities in Europe (necessity-purchase products) will fall in real terms in the coming years. It is in the face of these very different market trends that the EU is seeking to shift European food and agricultural production from serving necessity-purchase markets to serving luxury-purchase markets.</p><p>According to a report from FAO before the economic downturn, the organic component of European food production had been experiencing annual growth in sales of between 15 and 20%, with annual growth in demand for organic products as high as 30% in some EU countries. While the economic downturn has slowed this rate of growth, the organic sector as a whole has proved surprisingly resilient (although certain sectors in certain national markets have faced dramatic declines in sales), with growth still occurring in sales of organic products across the EU as a whole, though at a single-digit level. There are however a number of important developments taking place within the organic sector.</p><p>First, according to press reports carried on <i>food navigator.com</i> on 3 June 2009, food firms involved in the marketing of organic products are increasingly looking for ‘organic plus’ certification, which includes ‘ethical sourcing, traceability, the carbon footprint, sustainability and corporate social responsibility’. The market analyst Organic Monitor suggests that ‘savvy food firms are marketing their organic products on these principles’, thereby enhancing the willingness of consumers to pay premium prices. This suggests that in future, health-conscious consumers are likely to be looking beyond just the organic nature of the production process, towards compliance with a range of other environmental and social standards.</p><p>Closely linked to this development is a second major trend, namely the increasing role of commercial bodies in the marketing of organic products, as part of wider corporate strategies. The emergence of ‘organic plus’ strategies highlights the commercial advantages being sought by mainstream companies through ethical sourcing and monitoring of the ‘carbon footprint’ of products. It further raises questions as to the distribution of the consumer price premiums along the supply chain. Is it only the ‘savvy food firms’ who benefit from these consumer price premiums, or are price premiums shared with producers who have to invest in meeting the various standards? The emergence of such strategies provides the backdrop against which the ongoing review of the EC’s agricultural product quality policy needs to be seen.</p><p>Another important context in which organic production needs to be seen from an ACP perspective is the likely resumption of dramatic increases in input costs, once the global economy emerges from the current severe economic downturn. In such a situation, organic production for export could begin to provide a more sustainable basis for the ACP export trade, according to analysis from UNCTAD. However if ACP exporters are increasingly to develop organic production for export, it needs to be recognised that this will require pump-priming support for the establishment of cost-effective systems of certification. Attention will also need to be paid to the ‘food miles’ debate, which could potentially undermine the prospects of ACP producers successfully serving this particular luxury-purchase market component. In this context, development NGOs such as Oxfam and environmental bodies such the International Institute for Environmental Development (IIED) are now advancing the concept of ‘fair miles’, which involves recognising that ‘there are also social and ethical aspects to choices about where food comes from’.</p><a name="eztoc32667_2_2_6" id="eztoc32667_2_2_6"></a><h4>2.2.3 The development of the fair-trade market</h4><p>Fair-trade goods constitute a further component of this luxury-purchase market. Since 1999, there has been a 70-fold increase in the size of the fair-trade market in the EU, with this market component now worth €1.5 billion per annum. The fair-trade market in Europe is thus no longer a small niche market, but part of a wide range of ethically or quality-differentiated market components that are playing an increasingly important role in consumer spending patterns.</p><p>The strong growth in the fair-trade market in the EU is in part attributable to the establishment of a recognisable fair-trade certification mark. Against the background of this growth, the EC on 5 May 2009 adopted a communication on the role of fair trade and non-governmental trade-related sustainability-assurance schemes. The communication identifies a number of different types of fair-trade labelling schemes operating in the EU. These include: fair trade proper; other niche, certified products not participating formally in fair trade (e.g. Rainforest Alliance); products covered by baseline industry-wide standards (e.g. Ethical Tea Partnership); the rest (unbranded commodity suppliers). What all these schemes have in common is that they require compliance with ‘a broad set of issues and conditions that impact on the producers in developing countries, including in particular a minimum price for the producer and a premium paid to the community of the producer’.</p><p>The communication recognises the essentially voluntary nature of fair trade and sustainability-assurance schemes, and expresses the view that ‘such schemes should apply standards and criteria in a transparent manner to allow informed consumer choice’. This should be supported by independent monitoring. However emerging EC policy is that ‘regulating criteria and standards could limit the dynamic element of private initiatives in this field and stand in the way of the further development of fair-trade and other private schemes’.</p><p>This hands-off approach favoured by the EC leaves issues related to the distribution of benefits along fair-trade supply chains unaddressed. Given the growing interest of multinational companies in the marketing of fair-trade products, this is an increasingly important issue. The most noteworthy example in this regard is perhaps the UK-based sugar company Tate &amp; Lyle, which on 23 February 2008 announced its decision to progressively convert its entire retail sugar range to fair trade, beginning with its granulated white-cane sugar brand at the end of 2009. This corporate decision, described as ‘the biggest ever fair-trade switch by a UK company’, needs to be seen in the context of increasing product differentiation and intensifying competition in EU sugar markets.</p><p>While the immediate beneficiary of Tate &amp; Lyle’s move will be the 6,000 smallholder sugar farmers in Belize, it raises the issue of risk of abuse of the reputation of the established fair-trade label, if large-scale commercial companies are seen to be securing major commercial advantages from the expanded marketing of fair-trade products. Critical in this regard will be the distribution of the ‘price premium’ paid by consumers for fair-trade sugar along the supply chain. The consumer expectation will be that the vast majority of any price premium paid will be going to sugar cane growers. If this proves not to be the case, and the price premium paid by consumers substantially exceeds the price premiums paid to sugar cane growers, then the whole integrity of the fair-trade movement could be undermined in the eyes of consumers. Current strategies for addressing this issue include insistence by the fair-trade movement that no fair-trade price mark-up occurs on the supermarket shelf. However this is likely to prove a tricky issue in the sugar sector, where reductions in the EU guaranteed price for ACP sugar are likely to see commercial prices paid to ACP sugar cane growers in the coming period decline markedly. Clearly, in engaging with major corporate players to develop fair-trade exports, ACP sugar producers will need to pay close attention to the commercial contract negotiations regarding the price to be paid. It is here that inequalities in the distribution of power along the supply chain could potentially result in abuse of a dominant market position.</p><p>Given the current policy discussions in the EU on the functioning of the EU food supply chain, and the ongoing elaboration of the EU’s agricultural product quality policy, there would appear to be a potential role for EU policy guidelines in this area.</p><p>Despite these emerging challenges, it has been argued that ‘farmers who follow certification requirements stand to be rewarded with substantial improvements in farming systems, premium prices and better market access’. This is indeed the case, given the massive growth that has occurred in this market in the last ten years. However the reality remains that outside a limited number of areas, there has been no major breakthrough in terms of fair-trade exports from African ACP countries.</p><p>Against this background, the call for public-sector support to ‘harmonis[e] standards, [build] up the capacity of certifiers’ and develop infrastructure that will help agricultural producers to access fair-trade markets would appear to be an area for immediate follow-up – particularly given that returns to farmers tend to be more quickly realised under fair-trade labelling schemes than under organic-certification schemes, which often require extensive transition periods.</p><a name="eztoc32667_2_2_7" id="eztoc32667_2_2_7"></a><h4>2.2.4 Private voluntary standards</h4><p>While private voluntary standards can facilitate access to premium-priced markets by assuring consumers of the quality of imported products, price benefits can be eroded where these private voluntary standards become the industry norm. ACP suppliers may find themselves facing higher compliance and certification costs while gaining little or no price premium. Yet non-adherence to these private voluntary standards may result in effective exclusion from this market component. In such a situation, the cost of certification and verification and overlapping demands from different importers and retailers can take on considerable importance.</p><p>However it is difficult to overgeneralise, as studies suggest that the impact of private voluntary standards varies considerably from supply chain to supply chain, and according to the geographical coverage of the supply: for example, a major distinction exists between anglophone and francophone supply chains, as a result of the structure of the retail sectors in the UK and France. According to research undertaken by the Pesticides Initiative Programme (PIP) published in May 2009, firms supplying the anglophone chain were under more pressure and experienced more problems than those supplying the francophone chain, with over half of the firms surveyed seeing ‘increased buyer demands’ as reducing profitability. It was noted that ‘over the longer term, some companies reported reduced profits due to the lack of price premium as well as the increased costs of maintaining certification’. In addition, some 20% of companies involved with smallholder out-growers reported that ‘some had chosen not to renew their certificate, despite the fact that they had the infrastructure, procedures and knowledge in place’. Significantly, smallholder growers who did not renew their certification were concentrated in countries where compliance with standards has been established for some years, and where the full impact of recurrent costs was known (e.g. Kenya). In this context, the question arises as to whether smallholder out-growers can cost-effectively sustain certification over the long term.</p><p>This survey suggested a need for:</p>
+<ul>
+
+<li>‘continued technical assistance both from national and international agencies’; </li>
+
+<li>‘improved routes of engagement with those who set and implement the private voluntary standards, as well as mechanisms to adjust them, in order that they can be better adapted to local circumstances’; </li>
+
+<li>‘improved dialogue … with EU buyers in order to ensure that their policies create and enhance opportunities to trade’; </li>
+
+<li>‘the fairer apportionment of costs along the supply chain’; </li>
+
+<li>a more proactive approach from developing countries to achieving compliance and defining how this is to be achieved.</li>
+
+</ul>
+<p>Looking beyond this issue of costs of private voluntary standards, in some farmer forums it has been argued that private voluntary standards (particularly for animal products, can undermine the standard-setting work of internationally recognised and mandated bodies, effectively excluding ACP and developing country governments from the whole process of standard-setting.</p><a name="eztoc32667_2_2_8" id="eztoc32667_2_2_8"></a><h4>2.2.5 Functioning of the supply chain</h4><p>In February 2009, a Fairtrade Foundation report highlighted concerns about the growing concentration in agro-food supply chains, with the ten leading food retailers controlling around a quarter of the world food market, and just three companies controlling 90% of the world grain trade. Given the EC communication of October 2009 on ‘a better functioning food supply chain in Europe’ and associated analysis of price transmission and competition issues within major supply chains, a case can be made for the EU extending its proposed programme of concrete measures to major ACP-EU agricultural supply chains. This could include identification of ‘unfair contractual practices stemming from asymmetries in bargaining power’ and monitoring ‘potential abuses’ through the establishment of intensified cooperation with competition authorities in ACP countries. In key sectors, where inequalities in power relationships are acute, it could even extend support for the development of ‘standard contracts’.</p><a name="eztoc32667_2_2_9" id="eztoc32667_2_2_9"></a><h4>2.2.6 The trend towards long-term price convergence</h4><p>The most profitable markets in the EU for ACP exporters have traditionally been those markets for products falling under the CAP, where high tariff protection and administrative decisions sustained high prices. The dominant trend in the EU, however, is towards a narrowing of the gap between high EU and lower world market prices. This process will be accelerated by the projection of a general increase in world market pries for agricultural commodities once the global economy comes out of the current economic downturn.</p><p>A second major trend on agricultural commodity markets is towards increased price volatility. This will make attaining parity between EU and world market prices a constantly moving target (as will variations in the euro-US dollar exchange rate). Sometimes EU market prices for bulk commodities will be above world market price levels, while on other occasions there will be little or no difference. What is clear is that EU markets will be likely to enjoy greater price stability than world markets, given the ‘safety net’ function that EU agricultural policies are increasingly intended to perform.</p><p>A third major trend relates to growing product differentiation (alluded to above), which will increasingly require ACP exporters to develop their marketing capacity, and not simply their capacity to trade. This will be essential if price premiums on the EU market are to be secured.</p><p>All of this suggests that in the coming period ACP exporters will face many difficult short- and medium-term challenges when seeking to maximise export revenues. This may require targeted programmes of sector-specific capacity-building support to help ACP agri-food exporters deal with increasingly complex markets both in the EU and beyond. The EU has some successful experience in supporting this type of programme under the Integrated Programme for the Development of the ACP Caribbean Rum Sector. The lessons to be derived from this programme would appear to be important for a wide range of ACP agricultural exporters as they seek to adjust to radically changing market conditions.</p><a name="eztoc32667_3" id="eztoc32667_3"></a><h2>3 Implications for the ACP</h2><a name="eztoc32667_3_3" id="eztoc32667_3_3"></a><h3>3.1 EU offensive market interests</h3><p>EU exporters of food and agricultural products are insisting that EC negotiators should focus on securing the removal of non-tariff barriers to trade and resolving ‘behind border’ issues, since these are increasingly being seen as the main obstacles to EU exports. This also applies to ACP countries, for while ACP markets overall are not of major significance for EU food and agricultural product exporters, in certain sub-sectors (for example, wheat flour and wheat-based value-added products) ACP markets are of major economic significance, with the EU sectors concerned having major offensive interests in these areas under the EPA negotiations. This has given rise to a range of contentious issues in the IEPA negotiations, since EC efforts to remove these barriers can directly impinge on the use of such policy tools within national strategies for agri-food sector development (e.g. the use of import licences, infant industry protection provisions and export taxes). Given the limited fiscal scope for the use of financial support instruments within food and agricultural sector development strategies (a tool increasingly favoured by the EU), ACP governments need to focus on maintaining the policy space for the use of such tools where these demonstrably assist in the promotion of agri-food sector development.</p><a name="eztoc32667_3_4" id="eztoc32667_3_4"></a><h3>3.2 Duty-free, quota-free access</h3><p>The granting of full duty-free, quota-free access from 1 October 2009 needs to be seen against the background of the progressive erosion of the value of traditional trade preferences through the implementation of CAP reform (particularly in the sugar, beef and banana sectors, but also the horticulture sector). However, this process of erosion of the value of traditional trade preferences does not have the same effect on all ACP suppliers. Some ACP exporters are able to fully exploit the increased access to the EU market, despite the decline in EU prices.</p><p>Swaziland’s sugar exports provide a case in point. Here, the granting of full duty-free, quota-free access is allowing the volume of exports to be expanded in ways that compensate for price declines, since sugars that previously went to lower-priced non-EU markets are now increasingly being directed to the EU market. Similarly, changes in the rules for the allocation of import licences for ACP sugar are allowing some ACP exporters to find new routes to market for value-added sugar products (e.g. in Mauritius), thereby reducing dependence on raw sugar exports and enhancing total revenues earned. Duty-free, quota-free access and associated changes to import licensing arrangements are thus opening up opportunities for some ACP exporters to identify new, more profitable routes to market for sugar products that have greater value added. This, however, depends critically on the strategies adopted by individual ACP exporters, including the new corporate alliances being made.</p><p>Similarly in the banana sector, new opportunities are arising for ACP exporters under the duty-free, quota-free provisions, but in this instance with wider trade-policy changes (linked to the resolution of the WTO banana dispute) profoundly changing the competitive market position of ACP suppliers. Here again the impact on individual ACP exporters of the granting of full duty-free, quota-free access varies according to their underlying competitiveness and the marketing strategies being adopted. This highlights the importance of ACP exporters differentiating their products from those of more price-competitive, advanced developing country suppliers. Where this can successfully be done, a long-term future for profitable export to the EU can be built, and, in some country-specific instances can allow full exploitation of the duty-free, quota-free access granted.</p><p>These examples highlight how important it is to analyse the impact of duty-free, quota-free access at the sector and country level. They also highlight the importance of accessing pump-priming support (whether ‘aid for trade’ finance or nationally mobilised funding) for the necessary production- and trade-adjustment processes required to reposition ACP exporters within the evolving market context.</p><a name="eztoc32667_3_5" id="eztoc32667_3_5"></a><h3>3.3 The GSP+ alternative</h3><p>Despite the fact that the EU’s GSP+ is open to all eligible beneficiaries, no ACP non-LDC country that has declined to sign an interim EPA has been added to the list of beneficiaries. On 17 November 2009, the EC issued guidelines on the process to be followed for a country to be added to the GSP+ regime beneficiary list from 1 July 2010 (the scheme runs until 31 December 2011). Governments of non-least developed ACP countries that have been relegated for trading under the standard GSP regime may wish to look at how, under these guidelines, they can make the case for being added to the list of beneficiaries of the EU’s GSP+ scheme from 1 July 2010.</p><a name="eztoc32667_3_6" id="eztoc32667_3_6"></a><h3>3.4 Agricultural product quality policy</h3><p>The EU’s agricultural product quality policy raises a fundamental issue for ACP agri-food exporters whose production constraints do not allow them to compete on price with advanced developing country exporters – namely, how can the elaboration of the EU’s agricultural product quality policy avoid creating barriers to ACP suppliers seeking to serve high-value, high-quality components of the EU market. With specific EC proposals scheduled to be tabled in 2010, a detailed analysis of the likely impact on ACP producers of the various EU policy options in each of the areas under consideration (marketing standards, GIs, ‘traditional specialties guaranteed’ and certification schemes such as organic farming) would appear to be required. This analysis could consider the price competitiveness of ACP suppliers seeking to serve luxury-purchase components of the EU market, and might address such questions as:</p>
+<ul>
+
+<li>What are the implications of a ‘place of farming’ labelling approach, as opposed to the use of a label indicating that EU requirements have been complied with?</li>
+
+<li>What will be the implications for ACP beef producers of the development of animal welfare labelling schemes? </li>
+
+<li>What implications might there be from the potential establishment of an official EU carbon footprint labelling scheme, and what criteria would be used to determine the carbon footprint of a product? </li>
+
+<li>What will be the implications for ACP producers and exporters of organic products of the introduction of an obligatory EU organic logo for all EU-farmed organic products from 2010? </li>
+
+<li>What will be the implications for organic producers in ACP countries of proposals for the mutual recognition of organic standards with non-EU countries? </li>
+
+</ul>
+<a name="eztoc32667_3_7" id="eztoc32667_3_7"></a><h3>3.5 Functioning of the supply chain</h3><p>Recent EC work on the functioning of the food supply chain could usefully be extended to an assessment of the functioning of ACP-EU food supply chains. In the case of international supply chains, a case in point is the functioning of banana supply chains. In December 2009, the EC confirmed that it ‘had sent a statement of objection under anti-trust rules to a number of companies active in the import and marketing of bananas’ concerning their ‘alleged participation in a cartel’. In January 2010, press reports announced the outbreak of another banana price war in supermarkets, with the retail price of bananas being cut by some 22% in stores across the UK. With the ‘buying power of the supermarket chains’ reported to be eclipsing the former power of the big banana companies, the position of ACP banana suppliers looks increasingly precarious in an EU market subject to the erosion of traditional margins of ACP tariff preferences. Against this background, certain ACP governments (e.g. the CARIFORUM states) may wish to consider requesting a joint investigation with the EC into the functioning of banana supply chains, with a view to identifying measures that could be taken to strengthen the market position of ACP banana suppliers within supply chains serving the EU market. With similar processes of erosion of the value of traditional tariff preferences under way in the sugar sector and a growing concentration of market power in the hands of a small number of EU sugar companies, similar investigations into the functioning of supply chains and their impact on price formation may also need to be considered in the coming years in the sugar sector.</p><a name="eztoc32667_3_8" id="eztoc32667_3_8"></a><h3>3.6 Rules of origin: an unresolved issue</h3><p>While improvements were made to rules of origin for fisheries and textile products, no fundamental revision has taken place of the rules of origin applied to ACP exports, despite ACP aspirations to move to a tariff sub-heading system (rather than the current value-added system) for calculating ‘origin’. Scope exists under various (I)EPAs for revisiting rules of origin issues, and these opportunities may need to be explored. However, to date the EC has shown a marked reluctance to make concessions in this area, given its overall concern to move towards rules-of-origin systems that are compatible across the EU’s various FTA agreements.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><b>Changing EU market conditions</b></p><p>
+1. CTA/ECDPM, paper setting out the changing context of ACP-EU agricultural trade, dialogue meeting on ‘Identifying an “aid for trade” agenda for the agricultural sector’, April 2008:<br/>
+<a href="http://www.acp-eu-trade.org/library/files/CTA_EN_140408_CTA_The-changing-context-of-ACP-EU-Agricultural-Trade-Relations.pdf" target="_self">http://www.acp-eu-trade.org/library/files/CTA_EN_140408_CTA_The-changing...</a></p><p><b>Agricultural product quality policy</b></p><p>
+2. EC, communication on agricultural product quality policy, COM(2009) 234 final, 28 May 2009: <br/>
+<a href="http://ec.europa.eu/agriculture/quality/policy/com2009_234_en.pdf" target="_self">http://ec.europa.eu/agriculture/quality/policy/com2009_234_en.pdf</a></p><p>
+3. EC, impact assessment report on EC communication on agricultural product quality policy (version 08-04-09):<br/>
+<a href="http://ec.europa.eu/agriculture/quality/policy/com2009_234/ia_en.pdf" target="_self">http://ec.europa.eu/agriculture/quality/policy/com2009_234/ia_en.pdf</a></p><p><b>Functioning of the food supply chain</b></p><p>
+4. EC, communication on ‘A better functioning food supply chain in Europe’ (provisional version), Brussels, COM(2009) 591, 28 October 2009:<br/>
+<a href="http://ec.europa.eu/economy_finance/publications/publication16061_en.pdf" target="_self">http://ec.europa.eu/economy_finance/publications/publication16061_en.pdf</a></p><p><b>EBA/GSP schemes</b></p><p>
+5. EC, DT Trade, information notice on GSP+ application procedures, 17 November 2009:<br/>
+<a href="http://trade.ec.europa.eu/doclib/docs/2009/november/tradoc_145451.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2009/november/tradoc_145451.pdf</a></p><p><b>EU-ACP agricultural trade relations</b></p><p>
+6. EC, DG Agriculture, point of access to a series of background information documents on all aspects of EU-ACP agricultural trade, organised by region, theme and commodity, October 2008:<br/>
+<a href="http://ec.europa.eu/agriculture/external/dev/acp/index_en.htm#detail" target="_self">http://ec.europa.eu/agriculture/external/dev/acp/index_en.htm#detail</a></p><p>
+7. EC, DT Trade, point of access to all presentations at the EU market access symposium held in Paris, December 2008:<br/>
+<a href="http://trade.ec.europa.eu/doclib/docs/2008/december/tradoc_141677.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2008/december/tradoc_141677.pdf</a></p><p><b>Product differentiation</b></p><p>
+8. EC communication on ‘Contributing to sustainable development: the role of fair trade and non-governmental trade-related sustainability assurance schemes’, COM(2009) 215 final, 5 May 2009:<br/>
+<a href="http://trade.ec.europa.eu/doclib/docs/2009/may/tradoc_143089.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2009/may/tradoc_143089.pdf</a></p><p>
+9. CTA, point of access to a report on the lessons to be drawn from the Caribbean rum experience of trade- and production-adjustment support in the context of preference erosion and the evolution of global markets towards differentiated products, and to documents on other product differentiation experiences, CTA/ECDPM/GTZ workshop on ‘“Aid for trade” and agriculture: towards a SADC agenda’, October 2009: <br/>
+<a href="http://www.cta.int/en/About-us/What-we-do/Agricultural-Trade-Programme/Main-areas-of-work/International-agricultural-trade-negotiations/Aid-for-Trade-and-Agriculture-workshop-SADC-region" target="_self">http://www.cta.int/en/About-us/What-we-do/Agricultural-Trade-Programme/M...</a></p><p><b>Private voluntary standards</b></p><p>
+10. Pesticides Initiative Programme (PIP), point of access for PIP survey of fresh fruit-and-vegetable exporters in sub-Saharan Africa, May 2009:<br/>
+<a href="http://www.coleacp.org/en/pip/13900-survey-fresh-fruit-and-vegetable-exporters-sub-saharan-africa#attachments" target="_self">http://www.coleacp.org/en/pip/13900-survey-fresh-fruit-and-vegetable-exp...</a></p><p>
+11. Centre for International Trade, Economics and Environment (CUTS-CITEE), briefing paper on ‘Standards in the food sector’, <i>7/2009</i>, 2009:<br/>
+<a href="http://www.acp-eu-trade.org/library/files/CUTS_EN_0509_CUTS_Standards-in-food-sector.pdf" target="_self">http://www.acp-eu-trade.org/library/files/CUTS_EN_0509_CUTS_Standards-in...</a></p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style " addthis:title="Access to the EU market: Issues for the ACP">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/Resources/Other/Key-topics/Market-access-and-market-developments/Executive-brief/Access-to-the-EU-market-Issues-for-the-ACP" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				</div>
+
+	
+	</div>
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+			</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+<a id="formstart"></a>
+<div class="separator"></div>
+
+<div class="content-login-box" id="login-box-popup" style="display: none;">
+	<div class="content-login-shadow">
+		<div class="content-login-main">
+			<div class="content-login-main-inner">
+
+					
+						<div style="margin:5px 0 5px 0">
+							Login with your MyAgritrade account:
+						</div>
+
+						<form action="/user/login" method="post">
+							<input type="hidden" name="Anchor" value="#addcomment"/>
+							<table cellpadding="0" cellspacing="0" width="100%">
+								<tr>
+									<td class="login-column-key">MyAgritrade</td>
+									<td class="login-column-value"><input type="text" class="shadow-background login-textfield" name="Login"/></td>
+								</tr>
+								<tr>
+									<td colspan="2" style="height: 5px;"></td>
+								</tr>
+								<tr>
+									<td class="login-column-key">Password</td>
+									<td class="login-column-value"><input type="password" class="shadow-background login-textfield" name="Password"/></td>
+								</tr>
+							</table>
+							<input type="hidden" name="RedirectURI" value="Resources/Other/Key-topics/Market-access-and-market-developments/Executive-brief/Access-to-the-EU-market-Issues-for-the-ACP"/>
+							<table cellpadding="0" cellspacing="0" width="100%" style="margin-top: 5px;">
+								<tr>
+									<td><a href="/user/forgotpassword">Forgot your password?</a><br/><a href="/user/register" alt="register">No account yet? Create one!</a></td>
+									<td align="right" valign="top"><input type="submit" class="login-form-button" value="&raquo; login" name="LoginButton"/></td>
+								</tr>
+							</table>
+						</form>
+					
+					<a href="javascript:loginBox();" class="login-box-close">&raquo; Close window</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="reaction">
+	<h3>Comment</h3>
+
+	
+	<a name="addcomment"></a>
+
+	<div class="reaction-thumb">
+		<div>
+			
+									<img class="profile-img" src="/extension/socialize/design/socialize/images/comment/unknown.png" alt=""/>
+				
+					</div>
+	</div>
+
+	<div class="reaction-buttons">
+		<a class="button" href="javascript:loginBox();"><span>
+							Choose ID
+					</span></a>
+	</div>
+
+
+	<div class="reaction-form">
+
+		<form action="/socialize/create" method="post">
+							<div class="line">
+					<div class="align-input">
+						<input id="reaction-name" type="text" name="Name" value="" class="reaction-input" placeholder="Login or fill your name in"/>
+					</div>
+				</div>
+			
+			<div class="line">
+				<div class="align-input">
+					<input id="reaction-subject" type="text" maxlength="40" name="Subject" value="" class="reaction-input" placeholder="Subject"/>
+				</div>
+			</div>
+
+			<div class="line">
+				<div class="align-input">
+					<textarea id="reaction-comment" name="Comment" class="reaction-textarea" placeholder="Your reaction"></textarea>
+				</div>
+			</div>
+
+			<div class="line">
+				<div class="recaptcha">
+															<script type="text/javascript">
+						var RecaptchaTheme='white';
+						var RecaptchaLang='en';
+						
+
+						var RecaptchaOptions = {
+							theme: RecaptchaTheme,
+							lang: RecaptchaLang
+						};
+						
+					</script>
+					<script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LdSNMMSAAAAADrQ5zWgH1gIPA-HR6iLYmJWVwvw"></script>
+
+	<noscript>
+  		<iframe src="http://api.recaptcha.net/noscript?k=6LdSNMMSAAAAADrQ5zWgH1gIPA-HR6iLYmJWVwvw" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>
+				</div>
+			</div>
+
+		<input type="hidden" value="1250" name="NodeID"/>
+
+		
+						<input type="hidden" value="Resources/Other/Key-topics/Market-access-and-market-developments/Executive-brief/Access-to-the-EU-market-Issues-for-the-ACP" name="RedirectURL"/>
+		
+		<div class="buttons">
+			<input type="submit" value="Add" class="reaction-submit"/>
+		</div>
+
+		</form>
+		<span class="big-red"><a href="/Welcome-to-Agritrade/Disclaimer">Terms and conditions</a></span>
+	</div>
+
+</div>			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				
+
+
+						<!-- center container ] -->
+			</div>
+			
+
+
+				<!-- [ right container -->
+		<div id="rightCntr">
+				
+<!-- login -->
+	<div class="block myagritrade rightsmall">
+		<form action="/user/login" method="post">
+				<h3>MyAgritrade</h3>
+				<div class="clear"></div>
+				<input type="text" class="field half set_password_user" name="Login" id="id1" value="" placeholder="Username"/>
+				<label class="passwordlabel"><span>Pass</span><input type="password" class="field half last set_password" value="" autocomplete="off" name="Password"/></label>
+				<input type="image" alt="Go" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif"/>
+			<input type="hidden" name="RedirectURI" value=""/>
+		</form>
+
+		<p class="smaller"><a href="/user/forgotpassword">Did you forget your password?</a></p>
+
+	</div>
+
+<!-- end login -->
+
+   <div class="block myagritrade rightsmall">
+		<form action="/user/register" method="get">
+				<h3>Signup</h3>
+				<input type="text" class="field full" value="" placeholder="Your E-mail Address" name="email"/>
+				<input type="image" alt="Go" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif"/>
+	   </form>
+	</div>
+	<div class="clear"></div>
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+			</div>
+</div>		</div>
+		<!-- right container ] -->
+		
+		<div style="clear:both;"></div>
+
+
+		</section>
+		<!-- content container ] -->
+
+		<footer class="container">
+
+			<!-- [ bottom container -->
+			<div id="sitemap">
+	<a class="sitemap_toggle closed" href="#">Sitemap</a>
+	<nav>
+		<div class="links agri">
+			<h3>Agriculture</h3>
+			<div class="column">
+				<ul>
+					<li><em>Topics</em></li>
+					
+					<li><a href="/Agriculture/Topics/WTO">WTO</a></li>
+					
+					<li><a href="/Agriculture/Topics/EPAs">EPAs</a></li>
+					
+					<li><a href="/Agriculture/Topics/EU-FTAs">EU FTAs</a></li>
+					
+					<li><a href="/Agriculture/Topics/ACP-FTAs">ACP - FTAs</a></li>
+					
+					<li><a href="/Agriculture/Topics/ACP-regional-trade">ACP regional trade</a></li>
+					
+					<li><a href="/Agriculture/Topics/Market-access">Market access</a></li>
+					
+					<li><a href="/Agriculture/Topics/SPS-Food-safety">SPS / Food safety</a></li>
+					
+					<li><a href="/Agriculture/Topics/Product-differentiation">Product differentiation</a></li>
+					
+					<li><a href="/Agriculture/Topics/CAP-reform">CAP reform</a></li>
+					
+					<li><a href="/Agriculture/Topics/Biofuels">Biofuels</a></li>
+					
+					<li><a href="/Agriculture/Topics/Climate-change">Climate change</a></li>
+					
+					<li><a href="/Agriculture/Topics/Aid-for-trade">Aid for trade</a></li>
+					
+					<li><a href="/Agriculture/Topics/Other">Other</a></li>
+									</ul>
+			</div>
+
+			<div class="column">
+				<ul>
+					<li><em>Commodities</em></li>
+
+										<li><a href="/Agriculture/Commodities/General">General</a></li>
+										<li><a href="/Agriculture/Commodities/Bananas">Bananas</a></li>
+										<li><a href="/Agriculture/Commodities/Beef">Beef</a></li>
+										<li><a href="/Agriculture/Commodities/Cocoa">Cocoa</a></li>
+										<li><a href="/Agriculture/Commodities/Coffee">Coffee</a></li>
+										<li><a href="/Agriculture/Commodities/Cotton">Cotton</a></li>
+										<li><a href="/Agriculture/Commodities/Dairy">Dairy</a></li>
+										<li><a href="/Agriculture/Commodities/Horticulture">Horticulture</a></li>
+										<li><a href="/Agriculture/Commodities/Oil-crops">Oil crops</a></li>
+										<li><a href="/Agriculture/Commodities/Poultry">Poultry</a></li>
+										<li><a href="/Agriculture/Commodities/Rice">Rice</a></li>
+										<li><a href="/Agriculture/Commodities/Rum">Rum</a></li>
+										<li><a href="/Agriculture/Commodities/Sugar">Sugar</a></li>
+										<li><a href="/Agriculture/Commodities/Cereals">Cereals</a></li>
+										<li><a href="/Agriculture/Commodities/Tea">Tea</a></li>
+										<li><a href="/Agriculture/Commodities/Other">Other</a></li>
+									</ul>
+			</div>
+
+		</div>
+		<div class="links">
+			<h3>Fisheries</h3>
+		<ul>
+		
+			<li><a href="/Fisheries/Topics/Market-access">Market access</a></li>
+		
+			<li><a href="/Fisheries/Topics/ACP-EU-relations-FPAs">ACP-EU relations; FPAs</a></li>
+		
+			<li><a href="/Fisheries/Topics/EU-common-fisheries-policy">EU common fisheries policy</a></li>
+		
+			<li><a href="/Fisheries/Topics/WTO-international-developments">WTO &amp; international developments</a></li>
+		
+			<li><a href="/Fisheries/Topics/News-from-the-IOC-region">News from the IOC region</a></li>
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Regions</h3>
+		<ul>
+					
+				<li><a href="/Regions/Global">Global</a></li>
+						
+					
+				<li><a href="/Regions/EU">EU</a></li>
+						
+															
+					<li><a href="/Regions/ACP/Surface-transport-slow">Surface transport slow</a></li>
+				
+					<li><a href="/Regions/ACP/All-ACP">All ACP</a></li>
+				
+					<li><a href="/Regions/ACP/Caribbean">Caribbean</a></li>
+				
+					<li><a href="/Regions/ACP/Central-Africa">Central Africa</a></li>
+				
+					<li><a href="/Regions/ACP/Eastern-Africa">Eastern Africa</a></li>
+				
+					<li><a href="/Regions/ACP/West-Africa">West Africa</a></li>
+				
+					<li><a href="/Regions/ACP/Pacific">Pacific</a></li>
+				
+					<li><a href="/Regions/ACP/Southern-Africa">Southern Africa</a></li>
+							
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Publications</h3>
+			<ul>
+			
+				<li><a href="/Publications/News-Analysis">News &amp; Analysis</a></li>
+			
+				<li><a href="/Publications/Newsletter">Newsletter</a></li>
+			
+				<li><a href="/Publications/Executive-briefs">Executive briefs</a></li>
+			
+				<li><a href="/Publications/Interviews">Interviews</a></li>
+			
+				<li><a href="/Publications/Special-Reports">Special Reports</a></li>
+			
+				<li><a href="/Publications/Compendium">Compendium</a></li>
+						</ul>
+		</div>
+
+
+
+		<div class="links last">
+			<h3>Links</h3>
+			<ul>
+			
+				<li><a href="http://agritrade.cta.int/en" target="_blank">Agritrade</a></li>
+			
+				<li>My Agritrade</li>
+			
+				<li><a href="http://www.cta.int/en/CTA-Portals" target="_blank">CTA Web Portals</a></li>
+			
+				<li><a href="http://brussels.cta.int/index.php" target="_blank">CTA Brussels Office Weblog</a></li>
+			
+				<li>ARD WebRing</li>
+			
+				<li><a href="http://spore.cta.int/" target="_blank">Spore </a></li>
+			
+				<li><a href="http://ictupdate.cta.int/" target="_blank">ICT Update</a></li>
+			
+				<li><a href="http://knowledge.cta.int/" target="_blank">Knowledge for Development</a></li>
+			
+			</ul>
+		</div>
+	</nav>
+</div>
+
+
+
+			<!-- bottom container ] -->
+
+			<!-- [ footer container -->
+			<div id="footer">
+				<div class="footerleft">
+					<div class="icon_left">
+						<img src="/extension/agritrade/design/agritrade/images/icon1.gif" alt=""/>
+					</div>
+
+					<div class="text_center">
+						
+																					
+
+	<div class="block custom ">
+
+		
+		<p>CTA is a joint institution operating under the framework of the Cotonou Agreement between the ACP Group of States (Africa, the Caribbean and the Pacific) and the EU Member States (EuropeanUnion). CTA is funded by the European Union.
+
+		
+		</p>
+
+	</div>													
+					</div>
+
+					<div class="icon_right">
+						<img src="/extension/agritrade/design/agritrade/images/icon2.gif" alt=""/>
+					</div>
+				</div>
+
+				<div class="footerright">
+											
+
+	<div class="block links">
+		
+									<p><a href="/Welcome-to-Agritrade" target="_blank">About &amp; Contact</a></p>
+												<p><a href="/Welcome-to-Agritrade/Disclaimer">Disclaimer</a></p>
+					
+	</div>
+											
+
+	<div class="block custom ">
+
+		
+		<p>Copyright © 2011, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)
+
+		
+		</p>
+
+	</div>									</div>
+
+			</div>
+			<!-- footer container ] -->
+
+		</footer>
+
+	</div>
+	<!-- main container ] -->
+
+</div>
+<!-- wrapper ] -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-724238-5";
+urchinTracker();
+</script>
+
+
+
+<script type="text/javascript">
+  var _sf_async_config = { uid: 39651, domain: 'agritrade.cta.int' };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+        "js/chartbeat.js");
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":1635,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

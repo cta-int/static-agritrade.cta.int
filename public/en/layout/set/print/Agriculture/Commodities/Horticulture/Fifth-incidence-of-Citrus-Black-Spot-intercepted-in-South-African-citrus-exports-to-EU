@@ -1,0 +1,222 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Fifth incidence of Citrus Black Spot intercepted in South African citrus exports to EU  / Horticulture / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																										
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+																																																																																																																																																																																										,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7802/(search)/simple">Horticulture</a>
+							
+																																																																																																																																																																																																			
+																																																																																																																																														,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7817/(search)/simple">SPS / Food safety</a>
+							
+																																																																																																																																																																													
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Fifth incidence of Citrus Black Spot intercepted in South African citrus exports to EU </h1>
+
+			
+			<h4>
+												06 October 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>At the end of August 2013, a fifth incidence of citrus black spot (CBS) was found this season in South Africa citrus shipments to the EU, leading Asaja, Spain’s young farmers’ organisation, to call for “immediate action by the European Union”. Asaja complained that “since the fifth detection in the Netherlands…, shipments from South Africa continue to arrive without the European administration having taken any action.” Asaja argued that the introduction of restrictions against South African citrus imports would not be protectionist, but rather a response to “a serious phytosanitary problem”.</p><p>The situation following the discovery of the fifth case of CBS in a South African citrus consignment was clarified by the EU Delegate to South Africa in a press statement on 30 August 2013. The Delegate endorsed the view that no EU action would be taken with protectionist intent, pointing out the counter-seasonal nature of South African exports, which ensure the continuity of distribution throughout the year.</p><p>The EU Delegate pointed out that the EC decision to introduce a “trigger” threshold of five interceptions comes against the background of 39 interceptions in 2011 and 32 in 2012, with little effective feedback and follow-up from the relevant South African authorities afterwards.</p><p>The Delegate announced that consultations would now be initiated with the South Africa authorities, with the aim of identifying the measures to be taken in response to the discovery of the fifth case of CBS. The Delegate maintained that “there is no automaticity between the 5 interceptions threshold and a possible ban.”</p><p>The European Food Safety Agency (EFSA), meanwhile, has been asked for a new opinion on the threat posed by CBS infections on imported fruit from South Africa, with the South African authorities submitting evidence to the EFSA as part of the process.</p><p>The South African authorities, for their part, have initiated a dispute settlement procedure at the International Plant Protection Convention (IPPC). The IPPC states on its website that it “provides a neutral forum for conciliation on technical issues”. The IPCC Secretariat, which falls under the FAO umbrella, also “provides technical support and facilitates communication to resolve disputes according to the IPPC Dispute Settlement System… based on the New Revised Text of the IPPC”. While IPCC findings are not binding, “the disputing parties can ask the Director-General of FAO to form an expert panel to review the situation and recommend a course of action” following an IPCC report.</p><p>The European Community acceded to the IPPC in July 2004 on the understanding, contained in Article 15 of the revised IPPC, that IPCC rulings would not be legally binding.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Freshfruitportal.com</i>, ‘Spanish association calls for action against south African citrus’, 30 August 2013</p><p>
+<a href="http://www.freshfruitportal.com/2013/08/30/spanish-association-calls-for-action-against-south-african-citrus/" target="_self">http://www.freshfruitportal.com/2013/08/30/spanish-association-calls-for...</a></p><p>EC, ‘SA-EU citrus trade stays in the limelight’, 30 August 2013</p><p>
+<a href="http://www.tralac.org/files/2013/09/CBS-final_30-08-13.pdf" target="_self">http://www.tralac.org/files/2013/09/CBS-final_30-08-13.pdf</a></p><p>International Plant Protection Convention (IPPC), Dispute avoidance and dispute settlement, web page</p><p>
+<a href="https://www.ippc.int/core-activities/dispute-settlement" target="_self">https://www.ippc.int/core-activities/dispute-settlement</a></p><p>EC, Summary of treaty, ‘International Plant Protection Convention - New revised text approved by Resolution 12/97 of the 29th Session of the FAO Conference in November 1997 – Declaration’, 7 November 2011</p><p>
+<a href="http://ec.europa.eu/world/agreements/prepareCreateTreatiesWorkspace/treatiesGeneralData.do?step=0&amp;redirect=true&amp;treatyId=5681" target="_self">http://ec.europa.eu/world/agreements/prepareCreateTreatiesWorkspace/trea...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The initiation of the consultations between the EU and South Africa authorities could usefully be formalised and the framework and scope for consultations could be more clearly defined.</p><p>Some form of independent arbitration would appear to be important, since there continues to be fundamental disagreement as to whether fruit imports constitute a pathway for the transmission of CBS.</p><p>As the EU Delegate acknowledged, CBS has been an issue “on the agenda between the EU and South Africa since the establishment of the EU’s single market in 1992”. In 2011 and 2012, with 39 and 32 interceptions respectively, there were no reported cases of contamination of EU citrus orchards. This raises the question: what developments have occurred that require the threshold for interception to be lowered to five, after which intensified consultations and additional measures to address the problem of possible contamination are required?</p><p>As noted by a recent report published by the World Bank Group, there are concerns that “regulatory standards are sometimes more prescriptive or restrictive than they need to be” in order to achieve the desired goals (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Topics/SPS-Food-safety/Quantifying-the-impact-of-non-tariff-measures-A-case-study-in-maximum-residue-levels" target="_blank">Quantifying the impact of NTMs, a case study in MRLs</a>’, 14 October 2013). This can give rise not only to unnecessary market closures, but can also increase the costs of serving the affected markets, as additional controls are required to maintain access. This can undermine the profitability of serving the EU market.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/EU-tightens-controls-on-citrus-imports-from-South-Africa">EU tightens controls on citrus imports from South Africa</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/Pressure-on-EC-to-act-pre-emptively-on-South-African-citrus-exports-as-new-season-approaches">Pressure on EC to act pre-emptively on South African citrus exports as new season approaches</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/SA-avocado-experience-highlights-growing-importance-of-addressing-SPS-issues-for-market-diversification">SA avocado experience highlights growing importance of addressing SPS issues for market diversification </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/EFSA-report-confirms-current-EC-control-measures-for-Citrus-Black-Spot">EFSA report confirms current EC control measures for Citrus Black Spot </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/Debate-on-Citrus-Black-Spot-continues">Debate on Citrus Black Spot continues</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":133,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

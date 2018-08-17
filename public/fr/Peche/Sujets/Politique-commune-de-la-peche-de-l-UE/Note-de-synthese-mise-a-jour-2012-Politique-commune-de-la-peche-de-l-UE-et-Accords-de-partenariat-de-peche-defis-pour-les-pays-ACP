@@ -1,0 +1,1669 @@
+<!DOCTYPE html>
+<html class="no-js">
+<!--
+	/**
+	 * We congratulate Agritrade with their new, upgraded (HTML5!) website!
+	 * Created by Contactivity, www.contactivity.com
+	 * @version $Id: 1.0
+	 */
+
+
+																													--><head>
+	
+                                        
+	<title>Note de synthèse - mise à jour 2012 : Politique commune de la pêche de l’UE et Accords de partenariat de pêche : défis pour les pays ACP / Politique commune de la pêche de l'UE / Sujets / Pêche / Accueil - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+			
+		<meta name="description" content="À propos de cette mise à jourCette note de synthèse a été mise à jour en septembre 2012 afin de prendre en compte les développements depuis juillet 2011. La note de synthèse de 2011 est basée sur la version intégrale publiée en mars 2009 et est disponible sur demande auprès de 
+agritrade-mail@cta.int.D’autres publications dans cette série et des ressources supplémentaires sur le commerce agricole et de la pêche ACP-UE peuvent être trouvées en ligne à 
+http://agritrade.cta.int/fr" />
+			
+			
+		<meta name="keywords" content="," />
+			
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+		<script src="/extension/agritrade/design/agritrade/js/contactivity.global.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/contactivity.input.js"></script>
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="Note de synthèse - mise à jour 2012 : Politique commune de la pêche de l’UE et Accords de partenariat de pêche : défis pour les pays ACP" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+<script src="https://valsplat.nl/clients/2852/invite.js"></script>
+</head>
+<body lang="fr" onload="initialize()">
+
+<!-- [ wrapper -->
+<div id="wrapper">
+
+	<!-- [ main container -->
+	<div class="container" id="maincontainer">
+
+		<!-- [ header container -->
+		<header class="container">
+
+			<h6><a href="http://www.cta.int/" target="_blank">CTA</a></h6>
+			<div class="logo">
+				<h1><a href="/fr"><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></a></h1>
+				<h2 class="subline">Le commerce ACP analysé et décrypté</h2>
+			</div>
+
+			<!-- [ font box -->
+			<div class="fontBox">
+				<dl>
+					<dt class="active"><a href="#" class="bind fontsize" rel="small"><img src="/extension/agritrade/design/agritrade/images/small_font.gif" alt="" /></a></dt>
+					<dd>Petite police</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="medium"><img src="/extension/agritrade/design/agritrade/images/medium_font.gif" alt="" /></a></dt>
+					<dd>Polic moyenne</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="big"><img src="/extension/agritrade/design/agritrade/images/big_font.gif" alt="" /></a></dt>
+					<dd>Grande police</dd>
+				</dl>
+			</div>
+			<!-- font box ] -->
+
+			<!-- [ language box -->
+			<div class="languageBox">
+				<dl>
+				
+				
+					<dt><a href="/en/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2012-Politique-commune-de-la-peche-de-l-UE-et-Accords-de-partenariat-de-peche-defis-pour-les-pays-ACP">English</a> | </dt>
+					<dd>Passer à l'anglais</dd>
+					<dt><a href="/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2012-Politique-commune-de-la-peche-de-l-UE-et-Accords-de-partenariat-de-peche-defis-pour-les-pays-ACP">Français</a></dt>
+					<dd>Passer au français</dd>
+				</dl>
+			</div>
+			<!-- language box ] -->
+
+			<!-- [ search box -->
+			<div class="searchBox">
+				<form action="http://www.google.com/cse?hl=en&sa=Search&ie=UTF-8" method="get" name="search">
+	            <input type="hidden" value="013338266298253522945:rk5lmjqtluq" name="cx" />
+					<input name="q" type="text" class="field" value="" placeholder="Recherche" />
+					<input name="Search" type="image" alt="" class="button" src="/extension/agritrade/design/agritrade/images/search_button.jpg" />
+				</form>
+
+
+
+			</div>
+			<!-- search box ] -->
+
+
+			<!-- [ navigation -->
+			<nav>
+				
+				<ul>
+				<li>
+					<h2><a href="/fr"><span>Accueil</span></a></h2>
+				</li>
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Agriculture" title="Agriculture"><span>Agriculture</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Sujets
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/fr/Agriculture/Sujets/Accord-de-l-OMC"  title="Accord de l'OMC">											Accord de l'OMC
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/APE"  title="APE">											APE
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-UE"  title="Accords de libre-échange UE">											Accords de libre-échange UE
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP"  title="Accords de libre-échange ACP">											Accords de libre-échange ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Commerce-regional-ACP"  title="Commerce régional ACP">											Commerce régional ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Acces-au-marche"  title="Accès au marché">											Accès au marché
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/SPS-Securite-des-aliments"  title="SPS / Sécurité des aliments">											SPS / Sécurité des aliments
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Differenciation-des-produits"  title="Différenciation des produits">											Différenciation des produits
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Reforme-de-la-PAC"  title="Réforme de la PAC">											Réforme de la PAC
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Biocarburants"  title="Biocarburants">											Biocarburants
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Changement-climatique"  title="Changement climatique ">											Changement climatique 
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Aide-au-commerce"  title="Aide au commerce ">											Aide au commerce 
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Autres"  title="Autres">											Autres
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Produits de base
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/General"  title="Général">											Général
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Banane"  title="Banane">											Banane
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Cacao"  title="Cacao">											Cacao
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Cafe"  title="Café">											Café
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Cereales"  title="Céréales">											Céréales
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Coton"  title="Coton">											Coton
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Horticulture"  title="Horticulture">											Horticulture
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Oleagineux"  title="Oléagineux">											Oléagineux
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Produits-laitiers"  title="Produits laitiers">											Produits laitiers
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Rhum"  title="Rhum">											Rhum
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Riz"  title="Riz">											Riz
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Sucre"  title="Sucre">											Sucre
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/The"  title="Thé">											Thé
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Viande-bovine"  title="Viande bovine">											Viande bovine
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Volaille"  title="Volaille">											Volaille
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Autres"  title="Autres">											Autres
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Régions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/fr/Agriculture/Regions/ACP"  title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Regions/Globale"  title="Globale">											Globale
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Regions/UE"  title="UE">											UE
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Peche" title="Pêche"><span>Pêche</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Sujets
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/fr/Peche/Sujets/Acces-au-marche"  title="Accès au marché">											Accès au marché
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/Accord-de-l-OMC"  title="Accord de l'OMC">											Accord de l'OMC
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/News-from-the-IOC-region"  title="News from the IOC region">											News from the IOC region
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE"  title="Politique commune de la pêche de l'UE">											Politique commune de la pêche de l'UE
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/Relations-ACP-UE-APP"  title="Relations ACP-UE ; APP">											Relations ACP-UE ; APP
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Régions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/fr/Peche/Regions/ACP"  title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Regions/Global"  title="Global">											Global
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Regions/UE"  title="UE">											UE
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Regions" title="Régions"><span>Régions</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/fr/Regions/Globale"  title="Globale">									Globale
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/fr/Regions/UE"  title="UE">									UE
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+									<a href="/fr/Regions/ACP"  title="ACP">									ACP
+									
+																		
+									</a>								</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/fr/Regions/ACP/Groupe-ACP"  title="Groupe ACP">											Groupe ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Caraibes"  title="Caraïbes">											Caraïbes
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-de-l-Ouest"  title="Afrique de l'Ouest">											Afrique de l'Ouest
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-Centrale"  title="Afrique Centrale">											Afrique Centrale
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-de-l-Est"  title="Afrique de l'Est">											Afrique de l'Est
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-Australe"  title="Afrique Australe">											Afrique Australe
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Pacifique"  title="Pacifique">											Pacifique
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Publications" title="Publications"><span>Publications</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Actualites-et-analyses"  title="Actualités et analyses">									Actualités et analyses
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Compendium"  title="Compendium">									Compendium
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Interviews"  title="Interviews">									Interviews
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Newsletter"  title="Newsletter">									Newsletter
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Notes-de-synthese"  title="Notes de synthèse">									Notes de synthèse
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Rapports-a-la-une"  title="Rapports à la une">									Rapports à la une
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+																
+																					
+					<li>
+						<h2><a href="/fr/Bienvenue-sur-Agritrade" title="À propos"><span>À propos</span></a></h2>
+						
+
+											</li>
+
+								
+		</ul>
+
+			</nav>
+			<!-- navigation ] -->
+
+
+		</header>
+		<!-- header container ] -->
+
+
+
+		<!-- [ content container -->
+		<section class="container">
+
+
+						<div id="leftCntr">
+				
+									
+
+<!-- [ filter box -->
+<div class="block filter">
+	<form id='searchform' action="/fr/agritrade/searchfilter" method="post">
+		<fieldset>
+			<legend>Filtrer par</legend>
+
+			
+										
+						
+										
+																																															
+
+				<a href="#" class="heading " title="">Questions pêche</a>
+				<div id='filter_fisheries' class="section ">
+
+													
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Accès au marché">
+						<input name="filter[fisheries][]" value="7828" type="checkbox"  />
+						Accès au marché
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with OMC ">
+						<input name="filter[fisheries][]" value="7831" type="checkbox"  />
+						OMC 
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with PCP de l'UE">
+						<input name="filter[fisheries][]" value="7830" type="checkbox"  />
+						PCP de l'UE
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Relations ACP-UE; APP">
+						<input name="filter[fisheries][]" value="7829" type="checkbox"  />
+						Relations ACP-UE; APP
+					</label>
+
+					
+									
+				
+
+
+				</div>
+						
+										
+						
+										
+																																																																																																					
+
+				<a href="#" class="heading " title="">Régions</a>
+				<div id='filter_regions' class="section ">
+
+													
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Afrique Australe">
+						<input name="filter[regions][]" value="7775" type="checkbox"  />
+						Afrique Australe
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Afrique Centrale">
+						<input name="filter[regions][]" value="7771" type="checkbox"  />
+						Afrique Centrale
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Afrique de l'Est">
+						<input name="filter[regions][]" value="7772" type="checkbox"  />
+						Afrique de l'Est
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Afrique de l'Ouest">
+						<input name="filter[regions][]" value="7773" type="checkbox"  />
+						Afrique de l'Ouest
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Caraïbes">
+						<input name="filter[regions][]" value="7770" type="checkbox"  />
+						Caraïbes
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Globale">
+						<input name="filter[regions][]" value="7766" type="checkbox"  />
+						Globale
+					</label>
+
+					
+																							
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Groupe ACP">
+						<input name="filter[regions][]" value="7769" type="checkbox"  />
+						Groupe ACP
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Pacifique">
+						<input name="filter[regions][]" value="7774" type="checkbox"  />
+						Pacifique
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with UE">
+						<input name="filter[regions][]" value="7767" type="checkbox"  />
+						UE
+					</label>
+
+					
+									
+				
+
+
+				</div>
+						
+										
+																																																																	
+
+				<a href="#" class="heading " title="">Type de publication</a>
+				<div id='filter_pubtype' class="section ">
+
+													
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Actualités et analyses">
+						<input name="filter[pubtype][]" value="7760" type="checkbox"  />
+						Actualités et analyses
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Compendium">
+						<input name="filter[pubtype][]" value="7765" type="checkbox"  />
+						Compendium
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Interviews">
+						<input name="filter[pubtype][]" value="7763" type="checkbox"  />
+						Interviews
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Newsletter">
+						<input name="filter[pubtype][]" value="7761" type="checkbox"  />
+						Newsletter
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Notes de synthèse">
+						<input name="filter[pubtype][]" value="7762" type="checkbox"  />
+						Notes de synthèse
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Rapports à la une">
+						<input name="filter[pubtype][]" value="7764" type="checkbox"  />
+						Rapports à la une
+					</label>
+
+					
+									
+				
+
+
+				</div>
+						
+										
+						
+										
+						
+										
+						
+
+			<a href="#" class="heading ">
+				Filtrer par date
+			</a>
+
+
+			<div class="section date ">
+				
+				<label>
+					Du:
+					<input id='filterfrom' name="filter[from]" type="date" class="field date trigger" width="8" value="" data-value="2018-08-16" />
+				</label>
+				<label>
+					Au:
+					<input id='filterto' name="filter[until]" type="date" class="field date trigger" width="8" value="16-08-2018" data-value="2018-08-16" />
+				</label>
+
+			</div>
+
+			<div class="section">
+
+				<label class="searchmethod" title="Choisissez cette méthode pour faire une recherche large pour toutes cases cochées ci-dessus.">
+					<input class="trigger" name="filter[search]" type="radio" value="simple"  />
+					Recherche simple
+				</label>
+				<label class="searchmethod" title="Choisissez cette méthode pour raffiner votre recherche une combinaison des cases cochées ci-dessus.">
+					<input class="trigger" name="filter[search]" type="radio" value="cross" checked="checked" />
+					Recherche croisée
+				</label>
+
+			</div>
+
+
+			<input id='searchfilter_sort' name="filter[sortby]" type="hidden" width="8" value="date"  />
+			<input type="hidden" name="RedirectTo" value="5300" />
+			<input type="hidden" name="RedirectToId" value="12185" />
+			<input type="hidden" id="nodeid" name="nodeid" value="12185" />
+			<input type="hidden" id="language" name="language" value="fr" />
+
+
+			<button type="submit">Soumettre</button>
+
+		</fieldset>
+	</form>
+</div>
+<!-- filter box ] -->
+
+
+
+
+											<a id="rss_feed" href="/fr/layout/set/custom_rss/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2012-Politique-commune-de-la-peche-de-l-UE-et-Accords-de-partenariat-de-peche-defis-pour-les-pays-ACP"><img src="/extension/agritrade/design/agritrade/images/rss.gif" alt="" /></a>
+					
+							</div>
+			
+						<!--  [ center container -->
+			<div id="centerCntr" class="article content has_left has_right">
+							
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs_fr.gif" alt="" />
+					
+
+		</div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style "
+							addthis:title="Note de synthèse - mise à jour 2012 : Politique commune de la pêche de l’UE et Accords de partenariat de pêche : défis pour les pays ACP"
+					>
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2012-Politique-commune-de-la-peche-de-l-UE-et-Accords-de-partenariat-de-peche-defis-pour-les-pays-ACP" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				<a id="tool-email" href="http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2Ffr%2FPeche%2FSujets%2FPolitique-commune-de-la-peche-de-l-UE%2FNote-de-synthese-mise-a-jour-2012-Politique-commune-de-la-peche-de-l-UE-et-Accords-de-partenariat-de-peche-defis-pour-les-pays-ACP&amp;title=Note+de+synth%C3%A8se+-+mise+%C3%A0+jour+2012+%3A+Politique+commune+de+la+p%C3%AAche+de+l%E2%80%99UE+et+Accords+de+partenariat+de+p%C3%AAche+%3A+d%C3%A9fis+pour+les+pays+ACP&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611" onclick="return popitup('http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2Ffr%2FPeche%2FSujets%2FPolitique-commune-de-la-peche-de-l-UE%2FNote-de-synthese-mise-a-jour-2012-Politique-commune-de-la-peche-de-l-UE-et-Accords-de-partenariat-de-peche-defis-pour-les-pays-ACP&amp;title=Note de synthèse - mise à jour 2012 : Politique commune de la pêche de l’UE et Accords de partenariat de pêche : défis pour les pays ACP&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611')" target="_blank" class="tool popup">
+			Email
+		</a>
+		<a href="#" id="tool-print" class="tool" onclick="printMe('/fr/layout/set/print/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2012-Politique-commune-de-la-peche-de-l-UE-et-Accords-de-partenariat-de-peche-defis-pour-les-pays-ACP'); return false">
+			imprimer
+		</a>
+				</div>
+
+	
+	</div>
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																														
+								<a href="/fr/Publications/(regions)/7769/(search)/simple">Groupe ACP</a>
+																																																																																																																																																																																												
+							
+							
+																																																																			,
+							<a href="/fr/Fisheries/(fisheries)/7829/(search)/simple">Relations ACP-UE; APP</a>
+							
+							
+																																																												,
+							<a href="/fr/Fisheries/(fisheries)/7830/(search)/simple">PCP de l'UE</a>
+							
+							
+																																															
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+										
+			<h1>Note de synthèse - mise à jour 2012 : Politique commune de la pêche de l’UE et Accords de partenariat de pêche : défis pour les pays ACP</h1>
+
+						<div class="pdf-file">
+				<a href="/fr/content/download/67305/1141171/file/c1cd4b915e1f127be9bc085dc4bc44e9.pdf">Télécharger <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+												29 octobre 2012
+										</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>À propos de cette mise à jour</b></p><p>Cette note de synthèse a été mise à jour en septembre 2012 afin de prendre en compte les développements depuis juillet 2011. La note de synthèse de 2011 est basée sur la version intégrale publiée en mars 2009 et est disponible sur demande auprès de 
+<a href="mailto:agritrade-mail@cta.int" target="_self">agritrade-mail@cta.int</a>.</p><p>D’autres publications dans cette série et des ressources supplémentaires sur le commerce agricole et de la pêche ACP-UE peuvent être trouvées en ligne à 
+<a href="http://agritrade.cta.int/fr" target="_self">http://agritrade.cta.int/fr</a></p>
+
+		</div>
+		
+		
+					<a name="eztoc1141160_0_1" id="eztoc1141160_0_1"></a><h3>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contexte et principaux enjeux</h3><p>La Politique commune de la pêche (PCP) régit les activités des flottes nationales de l'UE, y compris de nombreux aspects de leurs activités en eaux lointaines. Elle comporte quatre axes majeurs : la politique de conservation, la politique structurelle, la politique de marché et la dimension extérieure, notamment les accords de partenariat de pêche (APP) et l'engagement au sein des organisations internationales et régionales de gestion des pêches (ORGP) (pour de plus amples informations, voir <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2011-Politique-commune-de-la-peche-de-l-UE-et-Accords-de-partenariat-de-peche-defis-pour-les-pays-ACP" target="_self">Politique commune de la pêche de l'UE et Accords de partenariat de pêche...</a> », <i>Note de synthèse, mise à jour 2011</i>)<i>.</i></p><p>La PCP est financée par le Fonds européen pour la pêche (FEP) à l’aide d’un instrument spécifique aux APP et à la participation à l’activité des ORGP. Dans les pays ACP, le financement de la PCP peut être complété par celui du FED, en particulier pour les programmes de suivi, de contrôle et de surveillance (SCS).</p><p>La PCP est révisée tous les 10 ans. Depuis juillet 2009, une concertation publique est en cours pour réformer cette politique au plus tard à la fin de 2012. Le Parlement européen détient désormais le pouvoir de codécision sur la PCP, ce qui devrait reporter la conclusion des réformes après 2012.</p><p>Au titre de la PCP, les APP et les initiatives de l'UE au sein des ORGP constituent le principal cadre régissant les relations de pêche ACP-UE. À l’heure actuelle, l'UE dispose de 14 APP en vigueur, dont 11 portent sur le thon et trois sur plusieurs espèces (la Mauritanie, la Guinée-Bissau et un État hors ACP, le Groenland). Il existe quelques accords en sommeil, qui ne comportent aucun protocole en vigueur (par ex. avec le Gabon, la Guinée et un État hors ACP, le Maroc).</p><p>Près de la moitié de la flotte extérieure de l’UE, qui compte 700 navires, est impliquée dans les APP, tandis que quelque 400 autres opèrent dans le cadre de sociétés mixtes établies dans des pays tiers. Les produits halieutiques capturés dans le cadre des APP représentent environ 3&nbsp;% de l'approvisionnement en poisson du marché de l'UE, soit 400&nbsp;000 à 450 000 tonnes par an. Quelque 160 millions d’euros ont été budgétisés pour les APP, dont 40 millions sont consacrés au soutien à la mise en œuvre de la politique de la pêche dans les pays tiers.</p><p>Les propositions de la CE pour la réforme des APP sont axées sur la promotion de la transparence, de la responsabilité, de la durabilité des activités de pêche, ainsi que du respect des droits de l'homme et de la bonne gouvernance.</p><a name="eztoc1141160_0_2" id="eztoc1141160_0_2"></a><h3>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Récents développements</h3><p><b>2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accords de partenariat de pêche</b></p><p><b>Une nouvelle approche</b></p><p>Les orientations de la réforme des APP sont basées sur :</p>
+<ul>
+
+<li>l’application du meilleur avis scientifique disponible ;</li>
+
+<li>le respect scrupuleux des mesures de gestion adoptées, notamment le renforcement du contrôle dans la lutte contre la pêche illégale, non réglementée et non déclarée (INN) ;</li>
+
+<li>l’appui à la politique de la pêche, en coordination avec la politique de développement de l'UE ;</li>
+
+<li>la contribution au développement économique local ;</li>
+
+<li>la promotion d’une plus grande transparence dans l'effort de pêche global ;</li>
+
+<li>la promotion de l’accroissement de la contribution des armateurs aux coûts d'accès aux eaux des pays tiers&nbsp;;</li>
+
+<li>le respect de la clause des droits de l’homme et des principes démocratiques.</li>
+
+</ul>
+<p>L'UE a également proposé le découplage de l’appui sectoriel du paiement des droits d'accès, assorti du renforcement des conditionnalités relatives au versement de cet appui financier, afin d’améliorer la gouvernance dans le secteur de la pêche. Les discussions sur la PCP sont en cours, avec des préoccupations relatives à des ressources halieutiques ciblées particulières.</p><p><b>Ressources halieutiques des pays ACP ciblées dans le cadre des APP</b></p><p>Les performances économiques des pêcheries européennes indiquent qu’en 2009, n’eût été les subventions directes aux revenus, la flotte de l’UE aurait enregistré une perte de 4,6&nbsp;%. Malgré ces subventions, la flotte a subi une perte de 1,5&nbsp;%. Pour les engins mobiles grands consommateurs de carburant, à savoir les chalutiers, la perte était encore plus importante. D'autre part, la qualité des données soumises par les États membres peut poser problème, notamment celles fournies par les importantes flottes de pêche opérant en dehors des eaux communautaires (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Un-seminaire-sur-les-stocks-halieutiques-demontre-les-pietres-performances-des-chalutiers-de-l-UE" target="_self">Un séminaire sur les stocks halieutiques démontre les piètres performanc...</a>&nbsp;», 28 octobre 2011).</p><p><b>Thon</b></p><p>La flotte thonière à intérêt à continuer de battre pavillon de l'UE pour assurer son accès en vertu des APP et bénéficier des règles d'origine applicables aux importations thonières. Toutefois, le réseau actuel d'accords bilatéraux étant insuffisant pour garantir l'accès de la flotte thonière de l'UE aux stocks de thon migrateurs, d'autres accords d'accès au thon sont nécessaires.</p><p><b>Petits pélagiques</b></p><p>Selon l'ONG Greenpeace, les activités des flottes de l'UE ciblant les petites espèces pélagiques mettent en péril à la fois le développement socio-économique des flottilles locales et la sécurité alimentaire des populations locales. La situation des stocks de petits pélagiques dans le Pacifique Sud, qui ont été décimés en deux décennies, est particulièrement alarmante (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Gros-plan-Activites-des-flottes-de-l-UE-pechant-les-petits-pelagiques-dans-les-eaux-des-pays-tiers" target="_self">Gros plan : Activités des flottes de l’UE pêchant les petits pélagiques...</a>&nbsp;», 18 mars 2012).</p><p>En Mauritanie, des craintes sont également exprimées au sujet du manque actuel de solutions de rechange pour la flotte de pêche aux petits pélagiques en Afrique de l'Ouest. Cette situation a abouti à la clôture de la pêche à cette espèce en Mauritanie, suite à l’épuisement des quotas de captures annuelles de l’UE, puis à la remise en question du renouvellement du protocole à l’accord d'accès à la pêche, en raison de la concurrence déloyale entre les navires de la PFA de l’Union et les pêcheurs artisanaux (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Reponse-des-flottes-de-l-UE-pechant-en-Afrique-de-l-Ouest-aux-critiques-de-Greenpeace" target="_self">Réponses des flottes de l’UE pêchant en Afrique de l’Ouest aux critiques...</a>&nbsp;», 30 avril 2012). Le manque de données fiables sur l’effort de pêche et les captures entrave sérieusement les efforts pour promouvoir une pêche durable là où des navires à large capacité sont déployés. Le non-renouvellement du protocole serait particulièrement préoccupant pour la flotte polonaise de pêche aux petits pélagiques (voir article <i>Agritrade «&nbsp;</i>
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Inquietudes-au-sujet-de-la-cloture-de-la-peche-aux-petits-pelagiques-en-Mauritanie" target="_self">Inquiétudes au sujet de la clôture de la pêche aux petits pélagiques en...</a>&nbsp;», 9 juillet 2012).</p><p><b>Développements en Afrique de l’Ouest et centrale</b></p><p>Un APP entre l’UE et le Cap-Vert est entré en vigueur le 1<sup>er</sup> septembre 2011, apportant une compensation annuelle de 325&nbsp;000&nbsp;€ par an contre l’accès à 5&nbsp;000 tonnes de thon par an. En outre, un montant de 110&nbsp;000&nbsp;€ sera octroyé au pays pour soutenir la mise en œuvre de sa politique de la pêche. Une évaluation <i>ex post</i> publiée en juillet 2011 a souligné les inquiétudes relatives au niveau élevé des captures thonières non déclarées par les navires opérant dans la région ouest-africaine. L'évaluation a noté les progrès réalisés dans le domaine du contrôle de qualité et du développement de la pêche artisanale, mais a appelé à davantage d'efforts pour renforcer l'évaluation des stocks, ainsi que le suivi, le contrôle et la surveillance (SCS). Enfin, l'importance de l’adoption d'une politique de pêche durable par le gouvernement du Cap-Vert, notamment des mesures visant la pêche INN, a été soulignée (voir article <i>Agritade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Fisheries/Topics/ACP-EU-relations-FPAs/Opportunities-and-challenges-for-the-new-FPA-with-Cape-Verde" target="_self">Opportunités et défis pour le nouvel APP avec le Cap-Vert</a>&nbsp;»<i>,</i> 28 octobre 2011).</p><p>L’UE et la Guinée-Bissau ont signé un protocole d’un an prolongeant les accords d’accès actuels, mais permettant la suspension du protocole en cas de violation des droits de l’homme ou des principes démocratiques. La CE a exigé la garantie de l’amélioration et du suivi régulier de la mise en œuvre de l’appui sectoriel. Elle a également souligné l’importance de suivre minutieusement la durabilité des stocks, à l’aide de toutes les données scientifiques disponibles (voir article <i>Agritrade </i>«<i>&nbsp;</i>
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Renouvellement-du-protocole-de-l-accord-de-peche-UE-Guinee-Bissau" target="_self">Renouvellement du protocole de l’accord de pêche UE-Guinée-Bissau</a>&nbsp;», 7 septembre 2012). Par la suite, il a été conclu un protocole pluriannuel (2012-2015), qui est entré provisoirement en vigueur en juin 2012.</p><p>Les relations de pêche entre l'UE et la Mauritanie se trouvent à un point crucial. Les États membres sont préoccupés par l'impact du non-renouvellement du protocole. Les parties prenantes de l'industrie de la pêche espagnole insistent sur la nécessité que la CE améliore ses dispositions techniques et financières, afin d’assurer « la viabilité et la rentabilité des activités de la flotte espagnole&nbsp;» (voir article <i>Agritrade </i>«&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Inquietudes-au-sujet-de-la-cloture-de-la-peche-aux-petits-pelagiques-en-Mauritanie" target="_self">Inquiétudes au sujet de la clôture de la pêche aux petits pélagiques en...</a>&nbsp;», 9 juillet 2012).</p><p>Le Conseil consultatif régional pour la pêche lointaine (<i>CCRPL</i>) soutient le principe selon lequel les flottes de l’Union devraient accéder uniquement aux ressources halieutiques excédentaires qui ne peuvent pas être extraites par les flottes locales. Toutefois, il est préoccupé par la concurrence croissante des autres flottes de pêche lointaine vis-à-vis de celles de l’UE pour l’accès à cet excédent (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Les-acteurs-de-l-UE-prennent-position-sur-les-negociations-des-accords-UE-Mauritanie" target="_self">Les acteurs de l’UE prennent position sur les négociations des accords U...</a>&nbsp;», 3 mars 2012). Des données scientifiques fiables sont donc nécessaires pour déterminer les efforts de pêche cumulés de toutes les flottes et l'excédent éventuellement disponible pour l’attribution aux navires de l'UE.</p><p>Les négociations avec le Gabon sont bloquées par l'inclusion d'une clause de droits de l'homme et les conditions qui régissent les paiements au titre de l'appui sectoriel. L'UE cherche à conditionner les paiements à la mise en œuvre effective des mesures prises par le gouvernement gabonais dans la poursuite des objectifs définis d’un commun accord (voir article <i>Agritrade </i>«&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Le-renouvellement-de-l-APP-UE-Gabon-bloque-par-la-clause-de-droits-de-l-homme-et-la-conditionnalite-relative-aux-paiements" target="_self">Le renouvellement de l’APP UE-Gabon bloqué par la clause de droits de l'...</a>&nbsp;», 3 mars 2012).</p><p>En septembre 2011, il a été confirmé qu’aucun APP entre l’UE et la Guinée n’était en vigueur (l'UE a dénoncé le protocole en décembre 2009) et qu’aucune négociation ne serait entamée avant la conclusion du processus de réforme de la PCP (voir article Agritrade «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/La-CE-retablit-le-contact-avec-les-autorites-guineennes-des-peches" target="_self">La CE rétablit le contact avec les autorités guinéennes des pêches</a>&nbsp;», 7 septembre 2011). De façon globale, ces évolutions soulèvent des inquiétudes au sujet du renouvellement des APP avec des pays comme la Mauritanie et la Guinée-Bissau (voir article <i>Agritrade</i> « 
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Le-secteur-de-la-peche-preoccupe-par-la-continuite-des-accords-bilateraux" target="_self">Le secteur de la pêche préoccupé par la continuité des accords bilatéraux</a>&nbsp;», 3 mars 2012).</p><p><b>Développements au Maroc</b></p><p>Au-delà des pays ACP, un nouveau protocole pluriannuel a été rejeté par le Parlement européen en décembre 2011, à la suite de la conclusion d'un protocole provisoire d’un an à l’APP signé avec le Maroc. En conséquence, il n'existe pas de protocole d'accès aux pêcheries en vigueur, en vertu de l'accord de partenariat avec ce pays. Toutefois, sous la pression du Comité hispano-marocain des associations de pêche, les discussions se poursuivent (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Les-associations-de-peche-espagnoles-et-marocaines-insistent-sur-l-importance-de-l-accord-UE-Maroc" target="_self">Les associations de pêche espagnoles et marocaines insistent sur l’impor...</a>&nbsp;», 28 octobre 2011). Cette situation a poussé le ministère espagnol de la Pêche à adopter un plan de plus de 28 millions d’euros pour la mise à la casse des navires espagnols pêchant dans les eaux de pays tiers et dans des zones de pêche internationales. Ce système pourrait également s’appliquer aux chalutiers congélateurs opérant dans les eaux de la Mauritanie et de la Guinée-Bissau (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/L-Espagne-approuve-un-plan-de-casse-des-navires-pechant-hors-des-eaux-de-l-UE" target="_self">L’Espagne approuve un plan de casse des navires pêchant hors des eaux de...</a>&nbsp;», 19 janvier 2012). La casse subventionnée est perçue comme une meilleure option que la réimmatriculation dans les pays tiers (notamment en Afrique de l'Ouest), qui reviendrait à un simple transfert de la charge de gestion aux États côtiers.</p><p><b>Développements dans l'océan Indien</b></p><p>La conclusion d’un APP avec Maurice a été saluée par les flottes de l’UE. Le protocole fournit à l'Union des opportunités de pêche au bénéfice des thoniers contre le versement de 660&nbsp;000&nbsp;€ par an à Maurice, dont 302&nbsp;000&nbsp;€ seront réservés à l'appui à la politique du pays en matière de pêche. Pour éviter les effets néfastes sur les pêcheurs artisanaux, les navires de l’UE seront autorisés à pêcher uniquement au-delà de 15 milles nautiques (12 actuellement) de la ligne de base côtière. Une clause relative au respect des droits de l'homme a été introduite dans le protocole, qui comporte également des conditionnalités régissant la mise en œuvre de la politique sectorielle (voir articles <i>Agritrade </i>«<i>&nbsp;</i>
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Nouvel-APP-entre-l-UE-et-Maurice" target="_self">Nouvel APP entre l'UE et Maurice</a> », 30 avril 2012, et «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Maurice-et-l-UE-identifient-leurs-interets-mutuels-dans-la-conclusion-d-un-nouvel-APP" target="_self">Maurice et l’UE identifient leurs intérêts mutuels dans la conclusion d’...</a>&nbsp;», 19 janvier 2012).</p><p>Un nouveau protocole d’accord UE-Mozambique, signé en mars 2012, découple les paiements des droits d'accès de l’appui à la politique sectorielle et introduit des journaux de bord électroniques. La contribution financière de 2&nbsp;940&nbsp;000&nbsp;€, étalée sur une période de trois ans, est répartie entre le paiement des droits d'accès, soit un montant annuel de 520&nbsp;000&nbsp;€ correspondant à la capture de 8&nbsp;000&nbsp;tonnes de thon par les thoniers senneurs et les palangriers de surface, et de 460&nbsp;000&nbsp;€ destinés à l’appui sectoriel (voir article <i>Agritrade </i>«&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Nouveau-protocole-a-l-accord-de-partenariat-de-peche-UE-Mozambique" target="_self">Nouveau protocole à l’accord de partenariat de pêche UE-Mozambique</a>&nbsp;», 3 mars 2012). Le nouveau protocole a été approuvé par le Parlement européen à une large majorité, lors de sa session plénière de mai 2012 (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Les-deputes-europeens-soutiennent-l-APP-UE-Mozambique" target="_self">Les députés européens soutiennent l’APP UE-Mozambique</a>&nbsp;», 16 juillet 2012).</p><p>Dans la lutte contre la pêche INN, l'UE se servira de l'accord de partenariat avec les Comores comme plate-forme de dialogue pour lutter contre la pêche INN. Les Comores ont accepté de mettre en œuvre des mesures visant à prévenir toute nouvelle inscription de navires de pêche INN au pavillon comorien, après que deux navires de pêche battant pavillon comorien ont été pris sans autorisation régulière de pêche dans les eaux sénégalaises (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Les-Comores-s-engagent-a-combattre-la-peche-INN" target="_self">Les Comores s’engagent à combattre la pêche INN</a>&nbsp;», 30 janvier 2012).</p><p>Madagascar et l'UE ont signé, en mai 2012, un nouveau protocole de 2 ans, qui entrera en vigueur le 1<sup>er</sup> janvier 2013.</p><p><b>Développements dans le Pacifique</b></p><p>La durabilité constitue un important sujet de préoccupation dans le Pacifique, et l’approche régionale est considérée comme vitale. L'UE s’achemine vers l’appui à une telle approche régionale de conception locale. Les Parties à l’accord de Nauru (PNA) et la Commission des pêches du Pacifique Centre-Ouest (WCPFC) gèrent les ressources halieutiques dans le Pacifique. Les PNA opèrent selon un «&nbsp;<i>vessel day scheme&nbsp;»</i> (VDS), qui fixe le nombre total de jours de pêche alloués aux senneurs, et chaque PNA possède un nombre de jours autorisés&nbsp;(voir Article <i>Agritrade </i>«<i>&nbsp;</i>
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Les-Iles-Salomon-vont-fermer-leur-pecherie-thoniere-aux-senneurs-etrangers" target="_self">Les îles Salomon vont fermer leur pêcherie thonière aux senneurs étrangers</a>&nbsp;», 5 juillet 2011). Les PNA ont sommé les participants de l'industrie thonière, notamment les nations de pêche étrangères, de travailler avec elles et de respecter leurs mesures de conservation, sous peine de perdre tout accès aux ressources. L'état des stocks de skipjack a révélé que les captures de cette ressource dans le Pacifique Centre-Ouest ont connu une baisse de 6&nbsp;% en 2011. Les flottes de pêche étrangères ont été appelées à soutenir le développement économique des îles du Pacifique par la promotion des débarquements et de la transformation, dans la région ou dans des unités de production à capitaux PNA, des produits halieutiques pêchés dans les eaux de ces parties (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Secouez-vous-ou-partez-dit-PNA-a-l-industrie-du-thon" target="_self">“Secouez vous ou partez”, dit PNA à l’industrie du thon</a>&nbsp;», 28 octobre 2011).</p><p>À titre d'exemple, le protocole UE-îles Salomon renouvelé promeut la coopération au niveau sous-régional à une pêche responsable, avec le soutien des PNA pour le suivi du fonctionnement du régime VDS et l’élargissement de l’assistance aux autorités des îles Salomon si nécessaire (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Les-Iles-Salomon-vont-fermer-leur-pecherie-thoniere-aux-senneurs-etrangers" target="_self">Les îles Salomon vont fermer leur pêcherie thonière aux senneurs étrangers</a>&nbsp;», 5 juillet 2011). Le gouvernement des îles Salomon cherche à conditionner l'accès des flottes de pêche lointaine à l'investissement dans la transformation à terre, un développement étroitement lié aux négociations relatives aux règles d'origine au titre de l’APE Pacifique-UE (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Iles-Salomon-conditionner-les-accords-d-acces-a-des-investissements-a-terre" target="_self">Îles Salomon&nbsp;: conditionner les accords d’accès à des investissemen...</a>&nbsp;», 28 octobre 2011).</p><p>Un nouveau protocole à l'accord de partenariat UE-Kiribati a été finalisé en juin 2012, avec un tonnage de référence de 15&nbsp;000 tonnes réparties entre quatre senneurs et six palangriers espagnols, français et portugais. Il s'agit d'un développement important pour les flottilles thonières de l'UE opérant dans le Pacifique. Les sociétés mixtes sont très développées à Kiribati et assurent un emploi aux équipages locaux (voir article <i>Agritrade</i> « 
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Nouveau-protocole-a-l-APP-UE-Kiribati" target="_self">Nouveau protocole à l’APP UE-Kiribati</a>&nbsp;»,16 juillet 2012).</p><p>Le conditionnement de l'accès aux ressources halieutiques aux investissements à terre sert de mécanisme pour garantir le maintien, dans les pays ACP, d'une part accrue de la valeur de leurs ressources halieutiques.</p><p>En juin 2012, lors de la troisième réunion des ministres ACP de la pêche organisée dans les îles Fidji, des discussions ont été tenues sur l'amélioration de la contribution des APP au développement du secteur de la pêche des pays ACP. Celles-ci ont également eu lieu avec l'UE, qui cherche de plus en plus à négocier des accords de pêche régionaux, en particulier dans le Pacifique.</p><p><b>Évolutions dans le domaine de la transparence des APP de l’UE</b></p><p>L’amélioration de la transparence dans le fonctionnement des accords de partenariat de pêche signés par l’UE et de leur contribution globale à une pêche durable fait l’objet d’appels croissants. Ces derniers comprennent les appels pour la diffusion publique des évaluations <i>ex ante</i> et <i>ex post</i> des APP (voir articles <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Fisheries/Topics/ACP-EU-relations-FPAs/MEPs-call-for-more-onshore-investment-and-transparency-in-a-new-EU-Mauritania-FPA" target="_self">Les MPE réclament plus d’investissement à terre et plus de transparence...</a>&nbsp;», 20 janvier 2011, «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Appel-aux-MPE-pour-ameliorer-l-accord-de-peche-UE-Iles-Salomon" target="_self">Appel aux MPE pour améliorer l’accord de pêche UE-îles Salomon</a>&nbsp;», 30 octobre 2010, « 
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Le-CESE-appelle-a-plus-de-transparence-dans-les-accords-de-peche-UE-ACP" target="_self">Le CESE appelle à plus de transparence dans les accords de pêche UE-ACP</a>&nbsp;», 23 avril 2012, « 
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/L-ICCAT-recommande-la-transparence-dans-les-accords-d-acces" target="_self">L’ICCAT recommande la transparence dans les accords d'accès</a>&nbsp;», 19 janvier 2012).</p><p><b>Discussions sur le rôle des sociétés mixtes de pêche</b></p><p>Les APP contiennent des dispositions visant à soutenir les investissements de l'UE dans les pêcheries ACP, notamment par le biais de sociétés mixtes, mais la promotion de ce type de société à travers ces accords s’est heurtée à des difficultés. En mars 2012, TransparentSea, une ONG basée au Kenya, avait publié des données fournies par le «&nbsp;Cluster des sociétés mixtes du secteur de la pêche dans les pays tiers&nbsp;» (CEPPT), comportant une liste des noms des navires, des sociétés au nom desquelles ils sont immatriculés dans les pays tiers, les données de captures globales et des informations sur le nombre de personnes&nbsp; de l'UE et des pays tiers employées sur ces navires. Ces données ont montré que, dans certains cas, les captures effectuées par les thoniers opérant dans le cadre de sociétés mixtes dépassent le tonnage de référence des captures entrant dans le cadre de l’APP (Kiribati, 11&nbsp;500 tonnes par rapport au niveau de référence au titre de l’APP de 6&nbsp;400 tonnes&nbsp;; Cap-Vert, 7&nbsp;200 tonnes, contre 5&nbsp;000 tonnes au titre de l'APP) (voir article <i>Agritrade</i> « 
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/De-nouvelles-donnees-sur-les-societes-mixtes-de-peche-europeennes-dans-les-pays-tiers" target="_self">De nouvelles données sur les sociétés mixtes de pêche européennes dans l...</a>&nbsp;», 30 avril 2012).</p><p>Cette initiative qui consiste à publier les données de captures effectuées dans le cadre de sociétés mixtes pourrait servir d’exemple utile à d'autres flottes de pêche étrangères opérant dans les eaux des pays ACP, en vue d'accroître la transparence de l'effort de pêche global.</p><p>Toutefois, malgré la nécessité de coordonner les efforts de pêche déployés dans le cadre des sociétés mixtes et des APP pour assurer la durabilité de ces efforts, cette question n'a pas encore été pleinement prise en compte dans le cadre des propositions de réforme de la PCP.</p><p><b>2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Processus de réforme de la PCP : propositions et discussions</b></p><p>Propositions de réforme de la PCP</p><p>La CE a lancé, le 13 juillet 2011, une série de propositions pour la réforme de la PCP. Tant la proposition législative générale pour la PCP que la communication de la CE sur la dimension extérieure de cette politique traitent d’accords de pêche durables (les APD – destinés à remplacer les APP – et la participation de l'UE aux instances internationales et à l’activité des ORGP) (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/La-CE-divulgue-sa-proposition-de-reforme-du-volet-exterieur-de-la-PCP" target="_self">La CE divulgue sa proposition de réforme du volet extérieur de la PCP</a>&nbsp;», 30 août 2011).</p><p>La dimension extérieure de la PCP est considérée comme comportant deux piliers&nbsp;: «&nbsp;l’application des principes de gestion durable au niveau mondial pour assurer des stocks sains de poissons, qui formeront la base économique pour les flottes européennes, et la lutte visant à assurer des règles du jeu équitables entre les industries européennes » (voir article Agritrade «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/La-dimension-exterieure-de-la-nouvelle-PCP-partie-integrante-de-la-reforme" target="_self">La dimension extérieure de la nouvelle PCP, “partie intégrante de la réf...</a>”&nbsp;», 19 janvier 2012.</p><p>La réforme des APP vise à faire en sorte que l'accès aux pêcheries soit basé sur le déploiement transparent et responsable de l'effort de pêche, ainsi que sur l’avis scientifique rationnel, et concerne uniquement l'excédent disponible. La réforme propose le découpage du soutien financier à la gestion du secteur de la pêche des droits d'accès et le conditionnement de l’assistance aux principes démocratiques et des droits de l'homme. L'accent est également mis sur la cohérence des politiques, notamment les politiques commerciales et de développement (cohérence horizontale), mais également sur les initiatives internationales, régionales et bilatérales (cohérence verticale).</p><p>Deux aspects de ce système sont particulièrement importants : la lutte contre la pêche INN et la réduction de la surcapacité mondiale, qui sont toutes deux particulièrement préoccupantes dans les pays ACP. Les gouvernements ACP doivent œuvrer avec l'UE sur ces questions, afin de promouvoir une action commune en faveur des objectifs de développement du secteur de la pêche de leur pays (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/La-CE-divulgue-sa-proposition-de-reforme-du-volet-exterieur-de-la-PCP" target="_self">La CE divulgue sa proposition de réforme du volet extérieur de la PCP</a>&nbsp;», 30 août 2011). Le rôle important des ORGP dans la lutte contre la pêche INN a été mis en évidence par la CE (voir article <i>Agritrade</i> « 
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Outiller-les-ORGP-pour-l-avenir" target="_self">Outiller les ORGP pour l’avenir</a>&nbsp;», 16 juillet 2012).</p><p>La CE a publié sa proposition de nouvel instrument financier visant à soutenir les politiques maritime et de pêche de l'UE pour la période 2014-2020 : le Fonds européen pour les affaires maritimes et la pêche (FEAMP). Les dépenses annuelles prévues pour les APP et les ORGP varient entre 146 millions € en 2014 et 136 millions&nbsp;€ en 2020 (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Un-nouvel-instrument-financier-pour-soutenir-la-dimension-exterieure-de-la-PCP" target="_self">Un nouvel instrument financier pour soutenir la dimension extérieure de...</a> », 30 janvier 2012). Les accords de pêche et la participation à l’activité des ORGP sont actuellement prévus par des instruments financiers. L’intégration dans un seul FEAMP peut simplifier le système et constitue une étape vers une plus grande cohérence entre les politiques intérieure et extérieure de la pêche.</p><p>Dans le cadre des discussions sur le FEAMP, les détenteurs d’intérêts de pêche ont souligné l'importance du maintien de l’aide publique au secteur, notamment la création d'un « fonds de crise » pour faire face à d'éventuelles violations des accords de pêche. Toutefois, lors de la réunion du Conseil pêche qui a débattu du FEAMP, le commissaire européen a maintenu sa position selon laquelle l'aide à la casse ne sera plus disponible après 2013, et que d'autres mesures seront soutenues pour aider la flotte à s'adapter à la nouvelle politique, telles que la mise au point de techniques de pêche plus sélectives et des incitations pour l'aquaculture (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Le-secteur-devoile-ses-priorites-concernant-les-subventions-a-la-peche" target="_self">Le secteur dévoile ses priorités concernant les subventions à la pêche</a>&nbsp;», 9 avril 2012).</p><p>Les subventions à la casse, notamment pour les navires pêchant dans les eaux des pays ACP, ne se sont pas encore avérées efficaces, et de simples changements de pavillon surviennent souvent, intensifiant ainsi l'effort de pêche. L'objectif à l'avenir est d'éviter ces effets indésirables. Ce train de mesures est en discussion au sein du Conseil de l'UE et du Parlement européen.</p><p><b>Discussions au sein du Conseil de l’UE</b></p><p>En mars 2012, le Conseil pêche de l'UE a approuvé, dans ses conclusions, les principales propositions de la CE concernant les futures relations ACP-UE, en mettant en exergue les questions liées aux ORGP et aux accords de pêche bilatéraux entre les deux entités. Les conclusions du Conseil confirment la position de la CE selon laquelle l'UE devrait chercher à accéder uniquement aux stocks excédentaires disponibles, et appellent à la création d'un environnement propice aux investissements de l'Union dans les pêcheries ACP, ainsi qu’à la fin du changement abusif de pavillon (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Le-Conseil-peche-adopte-les-conclusions-sur-la-dimension-exterieure-de-la-PCP" target="_self">Le Conseil pêche adopte les conclusions sur la dimension extérieure de l...</a>&nbsp;», 23 avril 2012).</p><p>«&nbsp;En mars 2012, le Conseil pêche de l'UE a appelé à la création d'un environnement propice aux investissements de l'Union dans les pêcheries ACP, ainsi qu’à la fin du changement abusif de pavillon&nbsp;»</p><p>En juillet 2012, la présidence danoise de l'UE a obtenu l’approbation d'une approche générale de la réforme de la PCP, qui soulignait l'importance de la «&nbsp;clause d'exclusivité&nbsp;», laquelle signifie que, dans un pays tiers où il existe un accord de partenariat, les navires européens ne peuvent pêcher que dans le cadre de cet accord (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/La-presidence-danoise-adopte-un-compromis-sur-la-reforme-de-la-PCP" target="_self">La présidence danoise adopte un compromis sur la réforme de la PCP</a>&nbsp;», 9 juillet 2012,). Ce compromis proposé par la présidence danoise peut être considéré comme faisant partie des relations entre le Conseil des ministres et le Parlement européen sur la réforme de la PCP.</p><p><b>Discussions au Parlement européen</b></p><p>Le document de travail de janvier 2012 du Parlement relatif à la réforme de la PCP a souligné la nécessité d'aborder tous les accords permettant aux entreprises et aux citoyens européens d'accéder aux ressources des pays ACP (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Fisheries/Topics/ACP-EU-relations-FPAs/Debate-on-reform-of-the-external-dimension-of-the-CFP-opens-in-European-Parliament" target="_self">Ouverture du débat sur la réforme de la dimension extérieure de la PCP a...</a>», 3 mars 2012). Si la CE et les autorités des États membres ont consenti des efforts pour contrôler les flottes communautaires opérant dans les eaux de pays tiers, l’appui à l'amélioration des opérations de SCS est considéré comme essentiel, et ces opérations concernent également les activités des navires non communautaires.</p><p>Le document de travail du Parlement européen a appelé les gouvernements des pays ACP à concevoir des mécanismes pour assumer entièrement leurs responsabilités d’États de pavillon dans la lutte contre la pêche INN. Le document propose la mise en place d'un cadre juridique transparent pour empêcher que les activités des flottes de l'UE contribuent à la surpêche, à la destruction de l'environnement et à la concurrence avec les communautés locales de pêcheurs, en utilisant l’appui sectoriel pour mobiliser les ressources financières nécessaires pour assurer aux autorités des États côtiers la capacité de gérer efficacement leurs activités de pêche et de maximiser les avantages à long terme en matière de développement durable. Il a été estimé que ces APP de l’UE pourraient servir de modèle aux relations entre les pays ACP et d'autres nations de pêche lointaine (voir interview <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Entretien-point-de-vue-d-acteurs-ACP-UE/Les-Etats-membres-de-l-UE-devraient-prendre-davantage-de-responsabilites-pour-leurs-flottes" target="_self">Les États membres de l'UE devraient prendre davantage de responsabilités...</a> » avec la députée européenne Isabella Lövin, 25 février 2012).</p><p>En mai 2012, la Commission environnement du Parlement européen avait appelé la PCP à traiter de façon plus complète la dimension environnement de la pêche et à assurer la durabilité des efforts de promotion de l'aquaculture (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Publication-du-rapport-provisoire-du-Parlement-europeen-sur-la-reforme-de-la-PCP" target="_self">Publication du rapport provisoire du Parlement européen sur la réforme d...</a>&nbsp;», 10 juin 2012).</p><p>Le Parlement européen a également adopté une résolution visant la lutte contre la pêche illégale, appelant les pays tiers à signer, à ratifier et à mettre en œuvre les instruments internationaux pertinents. Il appelle également à l’inclusion, dans toutes les mesures d’aide extérieure, d’une assistance pour l’application des interdictions relatives à la pêche INN dans leurs eaux, ainsi qu’à l’amélioration de la gouvernance dans le secteur de la pêche (voir article <i>Agritrade</i> «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Le-Parlement-europeen-exige-davantage-d-action-contre-la-peche-illegale" target="_self">Le Parlement européen exige davantage d’action contre la pêche illégale</a> », 30 janvier 2012).</p><p><b>Discussions au CESE</b></p><p>Le Comité économique et social européen (CESE) a adopté une position soutenant que les futures PCP et OCM doivent assurer «&nbsp;des conditions environnementales, économiques et sociales durables ». Le CESE se félicite de l’initiative prise dans le sens de la transparence dans les APP et encourage la CE à publier les évaluations <i>ex ante</i> et <i>ex post </i>(voir article <i>Agritrade </i>«<i>&nbsp;</i>
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Le-CESE-appelle-a-plus-de-transparence-dans-les-accords-de-peche-UE-ACP" target="_self">Le CESE appelle à plus de transparence dans les accords de pêche UE-ACP</a>&nbsp;», 23 avril 2012).</p><p>Dans les discussions au sein des institutions de l'UE, il semble se dégager un consensus sur la nécessité d’appliquer les mêmes règles et normes aux flottes de l'UE, qu’elles opèrent à l'intérieur ou à l'extérieur des eaux communautaires.</p><p><b>Participation des gouvernements ACP à la réforme de la PCP</b></p><p>Les parties prenantes ACP ont également cherché à s’impliquer dans le débat sur la réforme de la PCP. Le Groupe de travail pour les affaires sociales et l’environnement de l’Assemblée parlementaire paritaire (APP) ACP-UE a proposé une déclaration soulignant les questions qui préoccupent les pays ACP, notamment :</p>
+<ul>
+
+<li>le champ d’application des accords de pêche régionaux dans certaines régions ACP&nbsp;; </li>
+
+<li>l'importance de veiller au traitement de tous les volets des relations de pêche UE-ACP dans le cadre des réformes, dans le but d’assurer une pêche plus durable dans les eaux des pays ACP ; </li>
+
+<li>la nécessité d’un traitement plus minutieux de tout lien entre les régimes d'importation et les normes de production. </li>
+
+</ul>
+<p>Cette déclaration a été adoptée lors de la session plénière de l’Assemblée paritaire tenue en mai 2012 au Danemark (voir article <i>Agritrade </i>«&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/L-Assemblee-paritaire-ACP-UE-discute-de-la-dimension-exterieure-de-la-reforme-de-la-PCP" target="_self">L’Assemblée paritaire ACP-UE discute de la dimension extérieure de la ré...</a>&nbsp;», 23 avril 2012).</p><a name="eztoc1141160_0_3" id="eztoc1141160_0_3"></a><h3>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implications pour les pays ACP</h3><p><b>3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; La nécessité de rendre plus attrayants les APP aux yeux des pays ACP</b></p><p>Devant la diminution des APP et la réticence de certains pays à les signer, ces accords sont de moins en moins importants pour assurer l'approvisionnement du marché de l'UE en produits halieutiques, ainsi que des possibilités de pêche aux flottes de l'Union, d’où la nécessité pour ces dernières de trouver d'autres moyens d'accéder aux eaux de ces pays. Le débat sur la réforme de la PCP a révélé une véritable motivation de la part des gouvernements ACP de maintenir ou de s’engager dans un dialogue avec la CE sur la pêche durable. En effet, si les futurs accords peuvent assurer la possibilité de mieux rapprocher les ressources financières mises à disposition par l'UE des besoins réels des pays ACP côtiers (par le découplage de l’appui sectoriel des droits d'accès), cela constituera un pas dans la bonne direction. Une question qui nécessite encore de l’attention est celle de savoir comment intégrer progressivement, dans une dynamique régionale, ces dialogues bilatéraux avec un certain nombre de pays d'une sous-région, en privilégiant les questions d'intérêt commun, telles que la lutte contre la pêche INN et la promotion de la recherche, entre autres.</p><p>L'exploitation des pêcheries aux petits pélagiques en Afrique occidentale, qui semble requérir particulièrement une approche régionale, fait l’objet d’importantes préoccupations. Toutefois, une telle approche laisserait en suspens la question des accords d'accès privés qui auraient lieu en dehors de tout cadre régional commun régissant la gestion durable des pêches, dans les pays ACP où il n’existe aucun accord de partenariat. Une coopération intra-régionale plus forte en matière de gestion des pêches pourrait aider à résoudre ce problème, par l’établissement d’un cadre commun régissant ces accords privés.</p><p>En outre, le conditionnement de l'accès aux ressources halieutiques aux investissements à terre peut fournir un mécanisme permettant de faire en sorte qu’une part accrue de la valeur tirée des produits halieutiques reste dans les pays ACP. Toutefois, la priorité doit toujours être accordée à la pêche artisanale, avec le soutien des investissements appropriés dans ce domaine.</p><p><b>3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mettre la bonne gouvernance au cœur des relations de pêche ACP-UE</b></p><p>
+Les propositions de la CE soulignent la nécessité de mettre la bonne gouvernance au cœur des APP proposés, mais les APP de l'UE sont déjà les plus transparents parmi de tels accords, et les activités des flottes des autres pays tiers sont beaucoup plus opaques. <br /> Cette situation met en évidence l'importance de la coopération des dirigeants politiques des pays ACP dans la promotion de la gestion durable des pêches. Sur cette base, les capacités humaines et financières nécessaires pourraient alors être renforcées dans un cadre de transparence et de responsabilité publique de cette gestion. Une plus grande transparence des efforts de pêche déployés par les pays tiers (notamment la publication collective des données de capture) pourrait alors soutenir les efforts des pays ACP dans ce sens.</p><p>Toutefois, afin de promouvoir la bonne gouvernance dans les relations de pêche ACP-UE, cette démarche devra également aller au-delà des APP, en utilisant d'autres plates-formes de dialogue entre ces deux entités pour assurer le traitement cohérent des questions de gouvernance.</p><p><b>3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Priorité à la lutte contre la pêche INN</b></p><p>Les pays ACP paient le plus lourd tribut à la pêche INN. Par conséquent, la résolution des questions liées à ce fléau constitue un domaine essentiel des relations de pêche ACP-UE et nécessite un appui approprié aux pays ACP dans la lutte contre cette pratique.</p><p>Les pays ACP doivent déterminer si le nouveau cadre de la PCP permettra de s’assurer que les opérateurs de l’UE ne sont pas impliqués dans la pêche INN. L'utilisation du Système de surveillance des navires (VMS), introduit dans le cadre des APP, apporte une réponse partielle à cette question, mais des efforts sont encore nécessaires pour améliorer les capacités des pays ACP en termes de suivi, de contrôle et de surveillance (SCS).</p><p>En tant qu’instrument juridique, le « Règlement INN » constitue un point de départ utile pour la coopération dans ces domaines. Cependant, de graves problèmes ont été identifiés, tant à la Commission que parmi les États membres, dans la mise en œuvre des volets spécifiques de la réglementation, avec notamment un certain nombre de lacunes qui ont été notées (voir article <i>Agritrade </i>«&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Des-failles-decelees-par-l-IEEP-dans-le-reglement-INN" target="_self">Des failles décelées par l’IEEP dans le règlement INN</a>&nbsp;», 30 janvier 2012).</p><p>Les gouvernements ACP ont également demandé à l'UE une assistance technique et financière dans la mise en œuvre de la réglementation INN. Dans ce sens, une attention particulière doit être accordée aux formes d’appui les plus efficientes et à la coopération à la lutte contre la pêche INN.</p><p><b>3.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intégration des considérations régionales</b></p><p>Par le passé, certains groupes de pays ACP (dans le Pacifique, l'océan Indien ou en Afrique de l'Ouest) ont proposé la négociation des accords d'accès aux pêcheries à l’échelle régionale. La CE a traditionnellement favorisé les accords bilatéraux, ce qui demeure le cas dans la proposition actuelle. Toutefois, l'UE semble entreprendre des démarches pour négocier des accords d'accès régionaux dans le Pacifique. Pour l’accès aux eaux africaines, la CE semble disposée à soutenir une évolution vers une approche régionale en Afrique de l'Ouest, en s’appuyant sur la Commission de l'océan Indien.</p><p>Néanmoins, la consolidation d’une approche régionale par le biais de partenariats ACP-UE nécessite également un engagement fort des pays ACP, fondé sur une solide coopération intra-ACP dans la gestion des pêches et des stratégies de développement du secteur.</p><p><b>&nbsp;3.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Découplage de l’appui sectoriel du paiement des droits d'accès</b></p><p>Une meilleure adaptation de l’appui sectoriel aux besoins des pays, dissocié des droits d'accès aux pêcheries, peut aider à mobiliser un soutien supplémentaire pour répondre aux besoins de gestion du secteur de la pêche des pays ACP. L’inclusion d’une clause de droits de l'homme peut non seulement renforcer la cohérence, mais également permettre la suspension temporaire des protocoles relatifs à la pêche, en attendant la résolution des questions préoccupantes, plutôt que leur suppression comme c’est le cas actuellement. Toutefois, les dispositions d’une telle suspension devront s’appliquer en toute transparence, en particulier dans toutes les initiatives allant dans le sens de l’établissements d’APP régionaux.</p><p><b>3.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accroître les coûts d'accès des armateurs</b></p><p>Si des appels ont été&nbsp;lancés pour l’accroissement de la contribution des armateurs aux coûts des APP, il est peu probable que ceux-ci soient en mesure de supporter les niveaux actuels de paiements effectués en vertu des APP sans nuire à leur compétitivité commerciale. Par conséquent, devant les efforts d’un certain nombre de gouvernements de l'UE visant à maintenir les subventions à la pêche, la question des subventions à l'accès aux pêcheries est susceptible de demeurer un important problème (voir<i> </i>article <i>Agritrade</i> « 
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Un-nouveau-rapport-sur-les-subventions-de-l-UE-au-secteur-de-la-peche" target="_self">Un nouveau rapport sur les subventions de l'UE au secteur de la pêche</a>&nbsp;», 28 octobre 2011, et «&nbsp;
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/14-Etats-membres-veulent-maintenir-les-subventions-au-secteur-de-la-peche" target="_self">14 États membres veulent maintenir les subventions aux secteur de la pêche</a> », 13 août 2011).</p><p>Il est également essentiel de veiller à ce que les programmes de subventions de l'UE ne contribuent pas à la surcapacité dans les zones de pêche des pays ACP, d’où la nécessité d'une plus grande transparence dans les subventions à la pêche, s’agissant notamment des données publiques soumises à l'OMC non seulement par l'UE, mais également par toutes les nations de pêche (voir article <i>Agritrade</i> « 
+<a href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Les-regles-de-transparence-de-l-UE-ne-sont-pas-appliquees-pour-les-subventions-aux-pecheries" target="_self">Les règles de transparence de l’UE ne sont pas appliquées pour les subve...</a>&nbsp;», 19 décembre 2011).</p><p>À ce jour, seule une poignée de membres de l'OMC respectent leur obligation de soumettre des rapports sur les subventions, et, même lorsque les données sont soumises, les lacunes identifiées dans leur collecte peuvent influer sur l'exactitude de ces notifications.</p><p><b>3.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cohérence avec les politiques en matière de développement, d'environnement et de commerce </b></p><p>L’harmonisation d’un certain nombre d'aspects des relations de pêche entre l'UE et les pays ACP, par exemple l'accès aux ressources, le commerce, l'accès aux marchés, les mesures SPS, la coopération et le développement, est une impérieuse nécessité. La cohérence entre les politiques de l'UE ayant un impact sur les pays ACP constitue une des préoccupations de la réforme. Les États ACP ont demandé à l'Union plus d’intégration dans le dialogue bilatéral concernant tous les aspects de leurs relations. Les préoccupations du secteur de la pêche des pays ACP étant placées au cœur des efforts visant à renforcer la cohérence des politiques de l'Union, ce domaine exige des discussions plus poussées.</p><p><b>Principales sources</b></p><p>1. CE, Document de travail des services de la Commission, «&nbsp;Synthesis of the consultation on the reform of the Common Fisheries Policy&nbsp;», Ref. SEC(2010)428 final, 16 avril 2010</p><p>
+<a href="http://ec.europa.eu/fisheries/reform/sec(2010)0428_fr.pdf" target="_self">http://ec.europa.eu/fisheries/reform/sec(2010)0428_fr.pdf</a></p><p>2. CE, «&nbsp;Annual Evaluation Review 2009: Summary information on evaluations in the European Commission&nbsp;», mai 2010</p><p>
+<a href="http://ec.europa.eu/dgs/secretariat_general/evaluation/docs/final_aer_2009_en.pdf" target="_self">http://ec.europa.eu/dgs/secretariat_general/evaluation/docs/final_aer_20...</a></p><p>3. Contribution du groupe ACP à la concertation de la CE sur la réforme de la PCP, ACP/84/103/09 Bruxelles, SEDT/HF/dn, 16 décembre 2009</p><p>
+<a href="http://ec.europa.eu/fisheries/reform/docs/acp_en.pdf" target="_self">http://ec.europa.eu/fisheries/reform/docs/acp_en.pdf</a></p><p>4. CFP Reformwatch, «&nbsp;Draft Fisheries committee report on the proposal for a regulation of the European Parliament and of the Council on the Common Fisheries Policy », 7 mai 2012</p><p>
+<a href="http://cfp-reformwatch.eu/2012/05/parliament-cfp-reforms-most-important-" target="_self">http://cfp-reformwatch.eu/2012/05/parliament-cfp-reforms-most-important-</a>...</p><p>5. CFP Reformwatch, version préliminaire de l’Avis de la Commission environnement relatif à la «&nbsp;Proposition de Règlement du Parlement européen et du Conseil relatif à la Politique commune de la pêche&nbsp;», 10 mai 2012</p><p>
+<a href="http://cfp-reformwatch.eu/wp-content/uploads/2012/05/ENVI_vote_Basic-reg" target="_self">http://cfp-reformwatch.eu/wp-content/uploads/2012/05/ENVI_vote_Basic-reg</a>...</p><p>6. Avis du CESE sur la réforme de la PCP, 28 mars 2012</p><p>
+<a href="http://www.eesc.europa.eu/?i=portal.en.nat-opinions.22785" target="_self">http://www.eesc.europa.eu/?i=portal.en.nat-opinions.22785</a></p><p>7. Réponse écrite de la commissaire européenne à une question parlementaire, 19 janvier 2012</p><p>
+<a href="http://www.europarl.europa.eu/sides/getAllAnswers.do?reference=E-2011-010057&amp;language=EN" target="_self">http://www.europarl.europa.eu/sides/getAllAnswers.do?reference=E-2011-01...</a></p><p>8. Recommandation de l’ICCAT sur les accords d’accès, adoptée en sa 22<sup>e</sup> session ordinaire, novembre 2011</p><p>
+<a href="http://www.iccat.int/Documents/Recs/RECS_ADOPTED_2011_ENG.pdf" target="_self">http://www.iccat.int/Documents/Recs/RECS_ADOPTED_2011_ENG.pdf</a></p><p>9. Présentation des performances économiques globales de l’UE en matière de pêche,<b> </b>Centre commun de recherche de la CE, «&nbsp;Economic performance of the EU fishing fleet&nbsp;», septembre 2011</p><p>
+<a href="http://ec.europa.eu/fisheries/news_and_events/events/080911/anderson_en.pdf" target="_self">http://ec.europa.eu/fisheries/news_and_events/events/080911/anderson_en.pdf</a></p><p>10.&nbsp; Question parlementaire posée par Isabella Lövin (Verts/ALE) et réponse écrite de la CE, publiée le 1<sup>er</sup> juillet 2011</p><p>
+<a href="http://www.europarl.europa.eu/sides/getAllAnswers.do?reference=E-2011-003207&amp;language=EN" target="_self">http://www.europarl.europa.eu/sides/getAllAnswers.do?reference=E-2011-00...</a></p><p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rapport, «&nbsp;Empty nets, empty future&nbsp;», Greenpeace, août 2011</p><p>
+<a href="http://www.greenpeace.de/fileadmin/gpd/user_upload/themen/meere/Empty_nets_empty_future.pdf" target="_self">http://www.greenpeace.de/fileadmin/gpd/user_upload/themen/meere/Empty_ne...</a></p><p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ECDPM, «&nbsp;Fishing in troubled waters: An analysis of the upcoming reform of the Common Fisheries Policy from the perspective of policy coherence for development&nbsp;», Document de discussion 120, septembre 2011</p><p>
+<a href="http://www.ecdpm.org/dp120" target="_self">http://www.ecdpm.org/dp120</a></p><p><b>Autres sites Web utiles </b></p><p>Page Web de la CE sur les relations de pêche extérieures</p><p>
+<a href="http://ec.europa.eu/fisheries/cfp/international/index_en.htm" target="_blank">http://ec.europa.eu/fisheries/cfp/international/index_en.htm</a></p><p>Site du Conseil consultatif régional pour la pêche lointaine (CCRPL)</p><p>
+<a href="http://www.ldrac.eu/fr/" target="_self">http://www.ldrac.eu/fr/</a></p><p>Site des ORGP thonières</p><p>
+<a href="http://www.tuna-org.org/" target="_self">http://www.tuna-org.org/</a></p><p>Site de «&nbsp;Stop Illegal Fishing&nbsp;»</p><p>
+<a href="http://www.stopillegalfishing.com/" target="_self">http://www.stopillegalfishing.com/</a></p><p>Site de la Coalition pour des accords de pêche équitables</p><p>
+<a href="http://www.cape-cffa.org/" target="_self">http://www.cape-cffa.org</a></p><p>Site de l’IUCN Afrique de l’Ouest sur les accords de pêche</p><p>
+<a href="http://www.accordsdepeche.com/en/index.php" target="_self">http://www.accordsdepeche.com/en/index.php</a></p><p>Évaluations <i>ex ante</i> et <i>ex post </i>des APP</p><p>http://ec.europa.eu/fisheries/documentation/studies/index_en.htm </p><p>Règles de l’UE relatives à la lutte contre la pêche illicite, non déclarée et non réglementée (INN)</p><p>
+<a href="http://ec.europa.eu/fisheries/cfp/illegal_fishing/index_fr.htm" target="_self">http://ec.europa.eu/fisheries/cfp/illegal_fishing/index_fr.htm</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style "
+							addthis:title="Note de synthèse - mise à jour 2012 : Politique commune de la pêche de l’UE et Accords de partenariat de pêche : défis pour les pays ACP"
+					>
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2012-Politique-commune-de-la-peche-de-l-UE-et-Accords-de-partenariat-de-peche-defis-pour-les-pays-ACP" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				</div>
+
+	
+	</div>
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Lire aussi</h3>
+	<div>
+								<p><a href="/fr/Peche/Sujets/Relations-ACP-UE-APP/Note-de-synthese-mise-a-jour-2013-Secteur-du-thon-defis-et-enjeux">Note de synthèse - mise à jour 2013 : Secteur du thon : défis et enjeux </a></p>
+						<p><a href="/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2013-Politique-commune-de-la-peche-de-l-UE-et-accords-de-partenariat-de-peche-enjeux-pour-les-pays-ACP">Note de synthèse - mise à jour 2013 : Politique commune de la pêche de l’UE et accords de partenariat de pêche : enjeux pour les pays ACP </a></p>
+						<p><a href="/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2012-Politique-commune-de-la-peche-de-l-UE-et-Accords-de-partenariat-de-peche-defis-pour-les-pays-ACP">Note de synthèse - mise à jour 2012 : Politique commune de la pêche de l’UE et Accords de partenariat de pêche : défis pour les pays ACP</a></p>
+						<p><a href="/fr/Peche/Sujets/Relations-ACP-UE-APP/Note-de-synthese-mise-a-jour-2012-Secteur-du-thon-problemes-et-defis">Note de synthèse - mise à jour 2012, Secteur du thon : problèmes et défis</a></p>
+						<p><a href="/fr/Peche/Sujets/Accord-de-l-OMC/Les-aspects-OMC-dans-le-secteur-de-la-peche-Note-de-synthese"> Les aspects OMC dans le secteur de la pêche : Note de synthèse</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+<a id="formstart"></a>
+<div class="separator"></div>
+
+<div class="content-login-box" id="login-box-popup" style="display: none;">
+	<div class="content-login-shadow">
+		<div class="content-login-main">
+			<div class="content-login-main-inner">
+
+					
+						<div style="margin:5px 0 5px 0">
+							Connectez-vous avec votre compte MyAgritrade : 
+						</div>
+
+						<form action="/fr/user/login" method="post">
+							<input type="hidden" name="Anchor" value="#addcomment" />
+							<table cellpadding="0" cellspacing="0" width="100%">
+								<tr>
+									<td class="login-column-key">MyAgritrade</td>
+									<td class="login-column-value"><input type="text" class="shadow-background login-textfield" name="Login" /></td>
+								</tr>
+								<tr>
+									<td colspan="2" style="height: 5px;"></td>
+								</tr>
+								<tr>
+									<td class="login-column-key">Mot de passe</td>
+									<td class="login-column-value"><input type="password" class="shadow-background login-textfield" name="Password" /></td>
+								</tr>
+							</table>
+							<input type="hidden" name="RedirectURI" value="Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2012-Politique-commune-de-la-peche-de-l-UE-et-Accords-de-partenariat-de-peche-defis-pour-les-pays-ACP" />
+							<table cellpadding="0" cellspacing="0" width="100%" style="margin-top: 5px;">
+								<tr>
+									<td><a href="/fr/user/forgotpassword">Mot de passe oublié ?</a><br/><a href="/fr/user/register" alt="s'incrire">Pas encore abonné? Inscrivez-vous ! </a></td>
+									<td align="right" valign="top"><input type="submit" class="login-form-button" value="&raquo; login" name="LoginButton"/></td>
+								</tr>
+							</table>
+						</form>
+					
+					<a href="javascript:loginBox();" class="login-box-close">&raquo; Fermer cette fenêtre</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="reaction">
+	<h3>Commenter</h3>
+
+	
+	<a name="addcomment"></a>
+
+	<div class="reaction-thumb">
+		<div>
+			
+									<img class="profile-img" src="/extension/socialize/design/socialize/images/comment/unknown.png" alt="" />
+				
+					</div>
+	</div>
+
+	<div class="reaction-buttons">
+		<a class="button" href="javascript:loginBox();"><span>
+							Choisir ID
+					</span></a>
+	</div>
+
+
+	<div class="reaction-form">
+
+		<form action="/fr/socialize/create" method="post">
+							<div class="line">
+					<div class="align-input">
+						<input id="reaction-name" type="text" name="Name" value="" class="reaction-input" placeholder="Connectez-vous ou introduisez votre nom" />
+					</div>
+				</div>
+			
+			<div class="line">
+				<div class="align-input">
+					<input id="reaction-subject" type="text" maxlength="40" name="Subject" value="" class="reaction-input" placeholder="Sujet" />
+				</div>
+			</div>
+
+			<div class="line">
+				<div class="align-input">
+					<textarea id="reaction-comment" name="Comment" class="reaction-textarea" placeholder="Publier"></textarea>
+				</div>
+			</div>
+
+			<div class="line">
+				<div class="recaptcha">
+															<script type="text/javascript">
+						var RecaptchaTheme='white';
+						var RecaptchaLang='fr';
+						
+
+						var RecaptchaOptions = {
+							theme: RecaptchaTheme,
+							lang: RecaptchaLang
+						};
+						
+					</script>
+					<script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LdSNMMSAAAAADrQ5zWgH1gIPA-HR6iLYmJWVwvw"></script>
+
+	<noscript>
+  		<iframe src="http://api.recaptcha.net/noscript?k=6LdSNMMSAAAAADrQ5zWgH1gIPA-HR6iLYmJWVwvw" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>
+				</div>
+			</div>
+
+		<input type="hidden" value="12185" name="NodeID" />
+
+		
+						<input type="hidden" value="Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2012-Politique-commune-de-la-peche-de-l-UE-et-Accords-de-partenariat-de-peche-defis-pour-les-pays-ACP" name="RedirectURL"/>
+		
+		<div class="buttons">
+			<input type="submit" value="Ajouter" class="reaction-submit" />
+		</div>
+
+		</form>
+		<span class="big-red"><a href="/fr/Bienvenue-sur-Agritrade/Notice-legale">Termes et conditions</a></span>
+	</div>
+
+</div>			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				
+
+
+						<!-- center container ] -->
+			</div>
+			
+
+
+				<!-- [ right container -->
+		<div id="rightCntr">
+				
+<!-- login -->
+	<div class="block myagritrade rightsmall">
+		<form action="/fr/user/login" method="post">
+				<h3>S'identifier</h3>
+				<div class="clear"></div>
+				<input type="text" class="field half set_password_user" name="Login" id="id1" value="" placeholder="Nom d'utilisateur" />
+				<label class="passwordlabel"><span>Mot de passe</span><input type="password" class="field half last set_password" value="" autocomplete="off" name="Password" /></label>
+				<input type="image" alt="Aller" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif" />
+			<input type="hidden" name="RedirectURI" value="" />
+		</form>
+
+		<p class="smaller"><a href="/fr/user/forgotpassword">Vous avez oublié votre mot de passe?</a></p>
+
+	</div>
+
+<!-- end login -->
+
+   <div class="block myagritrade rightsmall">
+		<form action="/fr/user/register" method="get">
+				<h3>S'abonner à Agritrade</h3>
+				<input type="text" class="field full" value="" placeholder="Votre adresse email" name="email" />
+				<input type="image" alt="Aller" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif" />
+	   </form>
+	</div>
+	<div class="clear"></div>
+					
+<div class="block yellow">
+	<h3>Lire aussi</h3>
+	<div>
+								<p><a href="/fr/Peche/Sujets/Relations-ACP-UE-APP/Note-de-synthese-mise-a-jour-2013-Secteur-du-thon-defis-et-enjeux">Note de synthèse - mise à jour 2013 : Secteur du thon : défis et enjeux </a></p>
+						<p><a href="/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2013-Politique-commune-de-la-peche-de-l-UE-et-accords-de-partenariat-de-peche-enjeux-pour-les-pays-ACP">Note de synthèse - mise à jour 2013 : Politique commune de la pêche de l’UE et accords de partenariat de pêche : enjeux pour les pays ACP </a></p>
+						<p><a href="/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2012-Politique-commune-de-la-peche-de-l-UE-et-Accords-de-partenariat-de-peche-defis-pour-les-pays-ACP">Note de synthèse - mise à jour 2012 : Politique commune de la pêche de l’UE et Accords de partenariat de pêche : défis pour les pays ACP</a></p>
+						<p><a href="/fr/Peche/Sujets/Relations-ACP-UE-APP/Note-de-synthese-mise-a-jour-2012-Secteur-du-thon-problemes-et-defis">Note de synthèse - mise à jour 2012, Secteur du thon : problèmes et défis</a></p>
+						<p><a href="/fr/Peche/Sujets/Accord-de-l-OMC/Les-aspects-OMC-dans-le-secteur-de-la-peche-Note-de-synthese"> Les aspects OMC dans le secteur de la pêche : Note de synthèse</a></p>
+						</div>
+</div>		</div>
+		<!-- right container ] -->
+		
+		<div style="clear:both;"></div>
+
+
+		</section>
+		<!-- content container ] -->
+
+		<footer class="container">
+
+			<!-- [ bottom container -->
+			<div id="sitemap">
+	<a class="sitemap_toggle closed" href="#">Plan du site</a>
+	<nav>
+		<div class="links agri">
+			<h3>Agriculture</h3>
+			<div class="column">
+				<ul>
+					<li><em>Sujets</em></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Accord-de-l-OMC">Accord de l'OMC</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/APE">APE</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-UE">Accords de libre-échange UE</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP">Accords de libre-échange ACP</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Commerce-regional-ACP">Commerce régional ACP</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Acces-au-marche">Accès au marché</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/SPS-Securite-des-aliments">SPS / Sécurité des aliments</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Differenciation-des-produits">Différenciation des produits</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Reforme-de-la-PAC">Réforme de la PAC</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Biocarburants">Biocarburants</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Changement-climatique">Changement climatique </a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Aide-au-commerce">Aide au commerce </a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Autres">Autres</a></li>
+									</ul>
+			</div>
+
+			<div class="column">
+				<ul>
+					<li><em>Produits de base</em></li>
+
+										<li><a href="/fr/Agriculture/Produits-de-base/General">Général</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Banane">Banane</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Viande-bovine">Viande bovine</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Cacao">Cacao</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Cafe">Café</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Coton">Coton</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Produits-laitiers">Produits laitiers</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Horticulture">Horticulture</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Oleagineux">Oléagineux</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Volaille">Volaille</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Riz">Riz</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Rhum">Rhum</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Sucre">Sucre</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Cereales">Céréales</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/The">Thé</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Autres">Autres</a></li>
+									</ul>
+			</div>
+
+		</div>
+		<div class="links">
+			<h3>Pêche</h3>
+		<ul>
+		
+			<li><a href="/fr/Peche/Sujets/Acces-au-marche">Accès au marché</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/Relations-ACP-UE-APP">Relations ACP-UE ; APP</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE">Politique commune de la pêche de l'UE</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/Accord-de-l-OMC">Accord de l'OMC</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/News-from-the-IOC-region">News from the IOC region</a></li>
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Régions</h3>
+		<ul>
+					
+				<li><a href="/fr/Regions/Globale">Globale</a></li>
+						
+					
+				<li><a href="/fr/Regions/UE">UE</a></li>
+						
+															
+					<li><a href="/fr/Regions/ACP/Surface-transport-slow">Surface transport slow</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Groupe-ACP">Groupe ACP</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Caraibes">Caraïbes</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-Centrale">Afrique Centrale</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-de-l-Est">Afrique de l'Est</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-de-l-Ouest">Afrique de l'Ouest</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Pacifique">Pacifique</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-Australe">Afrique Australe</a></li>
+							
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Publications</h3>
+			<ul>
+			
+				<li><a href="/fr/Publications/Actualites-et-analyses">Actualités et analyses</a></li>
+			
+				<li><a href="/fr/Publications/Newsletter">Newsletter</a></li>
+			
+				<li><a href="/fr/Publications/Notes-de-synthese">Notes de synthèse</a></li>
+			
+				<li><a href="/fr/Publications/Interviews">Interviews</a></li>
+			
+				<li><a href="/fr/Publications/Rapports-a-la-une">Rapports à la une</a></li>
+			
+				<li><a href="/fr/Publications/Compendium">Compendium</a></li>
+						</ul>
+		</div>
+
+
+
+		<div class="links last">
+			<h3>Liens</h3>
+			<ul>
+			
+				<li><a href="http://agritrade.cta.int/en" target="_blank">Agritrade</a></li>
+			
+				<li>My Agritrade</li>
+			
+				<li><a href="http://www.cta.int/en/CTA-Portals" target="_blank">CTA Web Portals</a></li>
+			
+				<li><a href="http://brussels.cta.int/index.php" target="_blank">CTA Brussels Office Weblog</a></li>
+			
+				<li>ARD WebRing</li>
+			
+				<li><a href="http://spore.cta.int/" target="_blank">Spore </a></li>
+			
+				<li><a href="http://ictupdate.cta.int/" target="_blank">ICT Update</a></li>
+			
+				<li><a href="http://knowledge.cta.int/" target="_blank">Knowledge for Development</a></li>
+			
+			</ul>
+		</div>
+	</nav>
+</div>
+
+
+
+			<!-- bottom container ] -->
+
+			<!-- [ footer container -->
+			<div id="footer">
+				<div class="footerleft">
+					<div class="icon_left">
+						<img src="/extension/agritrade/design/agritrade/images/icon1.gif" alt="" />
+					</div>
+
+					<div class="text_center">
+						
+																					
+
+	<div class="block custom ">
+
+		
+		<p>Le CTA est une institution du Groupe des Etats ACP (Afrique, Caraïbes et Pacifique) et de l'Union Européenne, dans le cadre de l'Accord de Cotonou. Le CTA est financé par l'UE.
+
+		
+		</p>
+
+	</div>													
+					</div>
+
+					<div class="icon_right">
+						<img src="/extension/agritrade/design/agritrade/images/icon2.gif" alt="" />
+					</div>
+				</div>
+
+				<div class="footerright">
+											
+
+	<div class="block links">
+		
+									<p><a href="/fr/Bienvenue-sur-Agritrade" target="_blank">À propos et Contact</a></p>
+												<p><a href="/fr/Bienvenue-sur-Agritrade/Notice-legale">Notice légale </a></p>
+					
+	</div>
+											
+
+	<div class="block custom ">
+
+		
+		<p>Centre Technique de Coopération Agricole et Rurale (CTA) (ACP-UE Accord de Cotonou) Droit d'auteur CTA © 2011
+
+		
+		</p>
+
+	</div>									</div>
+
+			</div>
+			<!-- footer container ] -->
+
+		</footer>
+
+	</div>
+	<!-- main container ] -->
+
+</div>
+<!-- wrapper ] -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-724238-5";
+urchinTracker();
+</script>
+
+
+
+<script type="text/javascript">
+  var _sf_async_config = { uid: 39651, domain: 'agritrade.cta.int' };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+        "js/chartbeat.js");
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":1122,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

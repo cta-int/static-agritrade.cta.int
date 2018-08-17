@@ -1,0 +1,221 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Wider development concerns remain around SADC-EU EPA negotiations / EPAs / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																																					
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																																																																																																																																																													,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7795/(search)/simple">General</a>
+							
+																																																																																																																																																																																																																																																																																																																																																													
+																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7813/(search)/simple">EPAs</a>
+							
+																																																																																																																																																																																																																																																																					
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Wider development concerns remain around SADC-EU EPA negotiations</h1>
+
+			
+			<h4>
+												26 September 2010
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>More details have emerged on the state of play on the SADC-EU EPA following the July 2010 round of negotiations. The meeting was described as ‘constructive’ and encouraging by South Africa’s top EPA negotiator Xavier Carim, however ‘we are not out of the woods yet’, he added. According to press reports, positive developments took place around ‘about 60% of the outstanding issues where more precise language was agreed’. In addition it was reported that ‘almost all of the proposals put forward by SADC were accepted.’ However the parties remained ‘miles apart’ on the issue of the MFN clause, with Carim claiming that the EC had ‘not shifted their position’ on this issue, and that it would once again have to be revisited, since the EC position was not seen as ‘a sustainable one’.</p><p>Discrepancies in rules of origin applied to SACU members under the TDCA and the interim EPA (IEPA) were seen as a problem, ‘potentially requiring stricter border controls’ within the Southern African Customs Union. From a South African perspective, a comprehensive EPA which aligned South African market access with that of the Botswana, Lesotho, Namibia and Swaziland (BLNS) group of countries would be the simplest means of addressing this issue.</p><p>According to press reports, while on tariff issues an agreement has been reached on fisheries products, ‘issues remain outstanding in the agriculture sector and require detailed technical work.’ </p><p>SADC has also proposed a special agricultural safeguard text which is more stringent than the existing general safeguard. Acceptance of this text would require further EC deliberation.</p><p>Meanwhile, the wider development implications of the EPA process have been highlighted by the Namibian deputy minister of finance, Calle Schlettwein, who warned that in harmonising regional agreements and negotiating trade pacts, ‘SADC must be careful that its own development agenda does not suffer.’ Deputy Minister Schlettwein argued before the 2010 SADC Women Investment Forum that SADC ‘should not be part of trade agreements which perpetuate the current situation where we, the developing countries on the one side, remain the suppliers of raw materials at prices that we do not determine and, on the other, stay dependent on finished goods from the industrialised world.’ Specific reference was made to the EPA negotiations with the EU.</p><p>Deputy Minister Schlettwein pointed out that the Namibian government had consistently argued for ‘asymmetrical measures’ which would ‘enable SADC counties to implement policies that are supporting hitherto disadvantaged groups, including women.’ He maintained that ‘there are other sensitive issues that in our opinion will negatively impact on our development agenda as our policy space is seriously eroded,’ adding that of late ‘there appears to be some progress towards acceptance of the SADC positions.’ In this context, press reports specifically referred to the EC’s recent agreement to the inclusion of ‘concessions on food security, free flow of goods, infant industry protection and export taxes in the final EPA.’</p><p>According to some analysts, a desire on the part of the EC to make a success of the EU-Africa summit scheduled to be held in Libya in November 2010, by avoiding ‘tense negotiations on trade’, was seen as an important factor in recent progress in the EPA negotiations.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Engineering News Online</i>, ‘New push to conclude fraught SADC-EC trade deal by year-end’, 12 August 2010</p><p>
+<a href="http://www.tralac.org/cgi-bin/giga.cgi?cmd=cause_dir_news_item&amp;news_id=91146&amp;cause_id=1694" target="_self">http://www.tralac.org/cgi-bin/giga.cgi?cmd=cause_dir_news_item&amp;news_...</a></p><p><i>The Namibian</i>, ‘Don’t let trade pact trip development’, 11 August 2010 </p><p>
+<a href="http://www.tralac.org/cgi-bin/giga.cgi?cmd=cause_dir_news_item&amp;news_id=91085&amp;cause_id=1694" target="_self">http://www.tralac.org/cgi-bin/giga.cgi?cmd=cause_dir_news_item&amp;news_...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Issues related to the use of import licences, infant industry protection and special agricultural safeguard provisions can be seen as the important policy tool issues where governments such as that of Namibia would like to maintain policy space in an increasingly volatile and competitive international production and trade context. One illustration of this is the planned review of the policy required to support the further development of the dairy industry in Namibia (see article ‘Prospects for expansion of Namibian dairy sector’). Among other issues, the texts related to infant industry protection (Article 23 bis), export duties (Article 24), bilateral safeguards (Article 34) and rules of origin (Article 21) have not yet been agreed, but both sides have agreed to rediscuss these issues at a later stage.</p><p>There has been a long-standing concern over the effectiveness of current IEPA safeguard provisions, in the specific context of EU-SADC agricultural trade relations. These concerns hinge on the limited duration of the general safeguard provisions, in a context of the structural nature of the distortion in EU-SADC food and agricultural trade. This distortion arises from the deployment of EU financial support instruments, which sustain higher levels of production and trade than would be the case in the absence of such tools. </p><p>Concerns in the SADC region over the need for specific agricultural safeguard provisions also need to be seen against the background of the difficulties EU exporters are facing on certain third-country markets arising from increased competition from non-traditional exporters (e.g. Ukraine and Russia) and advanced developing country suppliers (e.g. Brazil). This can lead to African markets being targeted by EU exporters as ‘markets of last resort’.</p><p>In this context the main justification for the insertion of specific agricultural safeguard provisions in the SADC IEPA is seen to lie in the fact that the issues faced in the food and agricultural trade are quite different from those addressed by standard safeguard provisions. The latter primarily seek to deal with temporary import surges, while the agricultural safeguard provisions are seen as necessary to deal with more structural problems within the global agricultural production and trading system. </p><p>From a South African and Namibian perspective, the case for specific agricultural safeguards is strengthened by the acknowledged EU ‘offensive interests’ in the food and agricultural sector, notably for ‘cheeses, some cereals and derivatives (malt, barley, cereal flours), some poultry products (poultry meat and eggs), processed pork meat (sausages/ham)’ and certain ‘highly processed fruit and vegetables, olive oil, wine’. This is reflected in strong EU export growth to the SACU market in these and other sectors in recent years (for the period 1996-2005, there were increases of +72.1% for beverages; +38.0% for chocolate; +38.6% for biscuits; +106.5% for food preparations; +105.9% for olive oil; +107.7% for fruits and vegetables; and +159.5% for animal feed). </p><p>It remains to be seen how this issue of specific agricultural safeguards will be dealt with in the forthcoming rounds of SADC-EU EPA negotiations.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/Review-of-the-treatment-of-NTBs-under-I-EPAs-posted">Review of the treatment of NTBs under (I)EPAs posted</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EU-FTAs/A-more-integrated-flexible-approach-required-to-services-EPAs">A more integrated, flexible approach required to services EPAs </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/Non-tariff-barriers-found-to-hinder-EAC-trade">Non-tariff barriers found to hinder EAC trade</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/After-intensified-negotiations-more-optimism-expressed-about-concluding-a-SADC-EPA">After ‘intensified negotiations’, more optimism expressed about concluding a SADC EPA</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/EPA-implementation-discussed-including-climate-change-concerns">EPA implementation discussed, including climate change concerns </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":162,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

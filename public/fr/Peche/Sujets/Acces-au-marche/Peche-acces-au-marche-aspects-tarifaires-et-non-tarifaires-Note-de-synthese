@@ -1,0 +1,1921 @@
+<!DOCTYPE html>
+<html class="no-js">
+<!--
+	/**
+	 * We congratulate Agritrade with their new, upgraded (HTML5!) website!
+	 * Created by Contactivity, www.contactivity.com
+	 * @version $Id: 1.0
+	 */
+
+
+																													--><head>
+	
+                                        
+	<title> Pêche : accès au marché ; aspects tarifaires et non tarifaires : Note de synthèse / Accès au marché / Sujets / Pêche / Accueil - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+			
+		<meta name="description" content="1. Principales questions en matière d’accès au marché pour le secteur...
+
+2. Développements récents.
+
+2.1 Le contexte international du commerce ACP-UE des produits de la pêche.
+
+2.2 L’importance du marché de l’UE pour les exportateurs ACP de poisson...
+
+2.3 L’importance des produits de la pêche ACP pour le marché de l’UE.
+
+2.4 Perspectives pour les exportations ACP de produits de la pêche vers...
+
+2.4.1 Investissements.
+
+2.4.2 Le système de certification des captures pour lutter contre la p..."/>
+			
+			
+		<meta name="keywords" content=","/>
+			
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+		<script src="/extension/agritrade/design/agritrade/js/contactivity.global.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/contactivity.input.js"></script>
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=" Pêche : accès au marché ; aspects tarifaires et non tarifaires : Note de synthèse"/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+<script src="https://valsplat.nl/clients/2852/invite.js"></script>
+</head>
+<body lang="fr" onload="initialize()">
+
+<!-- [ wrapper -->
+<div id="wrapper">
+
+	<!-- [ main container -->
+	<div class="container" id="maincontainer">
+
+		<!-- [ header container -->
+		<header class="container">
+
+			<h6><a href="http://www.cta.int/" target="_blank">CTA</a></h6>
+			<div class="logo">
+				<h1><a href="/fr"><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></a></h1>
+				<h2 class="subline">Le commerce ACP analysé et décrypté</h2>
+			</div>
+
+			<!-- [ font box -->
+			<div class="fontBox">
+				<dl>
+					<dt class="active"><a href="#" class="bind fontsize" rel="small"><img src="/extension/agritrade/design/agritrade/images/small_font.gif" alt=""/></a></dt>
+					<dd>Petite police</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="medium"><img src="/extension/agritrade/design/agritrade/images/medium_font.gif" alt=""/></a></dt>
+					<dd>Polic moyenne</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="big"><img src="/extension/agritrade/design/agritrade/images/big_font.gif" alt=""/></a></dt>
+					<dd>Grande police</dd>
+				</dl>
+			</div>
+			<!-- font box ] -->
+
+			<!-- [ language box -->
+			<div class="languageBox">
+				<dl>
+				
+				
+					<dt><a href="/en/Peche/Sujets/Acces-au-marche/Peche-acces-au-marche-aspects-tarifaires-et-non-tarifaires-Note-de-synthese">English</a> | </dt>
+					<dd>Passer à l'anglais</dd>
+					<dt><a href="/fr/Peche/Sujets/Acces-au-marche/Peche-acces-au-marche-aspects-tarifaires-et-non-tarifaires-Note-de-synthese">Français</a></dt>
+					<dd>Passer au français</dd>
+				</dl>
+			</div>
+			<!-- language box ] -->
+
+			<!-- [ search box -->
+			<div class="searchBox">
+				<form action="http://www.google.com/cse?hl=en&sa=Search&ie=UTF-8" method="get" name="search">
+	            <input type="hidden" value="013338266298253522945:rk5lmjqtluq" name="cx"/>
+					<input name="q" type="text" class="field" value="" placeholder="Recherche"/>
+					<input name="Search" type="image" alt="" class="button" src="/extension/agritrade/design/agritrade/images/search_button.jpg"/>
+				</form>
+
+
+
+			</div>
+			<!-- search box ] -->
+
+
+			<!-- [ navigation -->
+			<nav>
+				
+				<ul>
+				<li>
+					<h2><a href="/fr"><span>Accueil</span></a></h2>
+				</li>
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Agriculture" title="Agriculture"><span>Agriculture</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Sujets
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/fr/Agriculture/Sujets/Accord-de-l-OMC" title="Accord de l'OMC">											Accord de l'OMC
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/APE" title="APE">											APE
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-UE" title="Accords de libre-échange UE">											Accords de libre-échange UE
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP" title="Accords de libre-échange ACP">											Accords de libre-échange ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Commerce-regional-ACP" title="Commerce régional ACP">											Commerce régional ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Acces-au-marche" title="Accès au marché">											Accès au marché
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/SPS-Securite-des-aliments" title="SPS / Sécurité des aliments">											SPS / Sécurité des aliments
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Differenciation-des-produits" title="Différenciation des produits">											Différenciation des produits
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Reforme-de-la-PAC" title="Réforme de la PAC">											Réforme de la PAC
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Biocarburants" title="Biocarburants">											Biocarburants
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Changement-climatique" title="Changement climatique ">											Changement climatique 
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Aide-au-commerce" title="Aide au commerce ">											Aide au commerce 
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Autres" title="Autres">											Autres
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Produits de base
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/General" title="Général">											Général
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Banane" title="Banane">											Banane
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Cacao" title="Cacao">											Cacao
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Cafe" title="Café">											Café
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Cereales" title="Céréales">											Céréales
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Coton" title="Coton">											Coton
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Horticulture" title="Horticulture">											Horticulture
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Oleagineux" title="Oléagineux">											Oléagineux
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Produits-laitiers" title="Produits laitiers">											Produits laitiers
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Rhum" title="Rhum">											Rhum
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Riz" title="Riz">											Riz
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Sucre" title="Sucre">											Sucre
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/The" title="Thé">											Thé
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Viande-bovine" title="Viande bovine">											Viande bovine
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Volaille" title="Volaille">											Volaille
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Autres" title="Autres">											Autres
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Régions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/fr/Agriculture/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Regions/Globale" title="Globale">											Globale
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Regions/UE" title="UE">											UE
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Peche" title="Pêche"><span>Pêche</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Sujets
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/fr/Peche/Sujets/Acces-au-marche" title="Accès au marché">											Accès au marché
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/Accord-de-l-OMC" title="Accord de l'OMC">											Accord de l'OMC
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/News-from-the-IOC-region" title="News from the IOC region">											News from the IOC region
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE" title="Politique commune de la pêche de l'UE">											Politique commune de la pêche de l'UE
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/Relations-ACP-UE-APP" title="Relations ACP-UE ; APP">											Relations ACP-UE ; APP
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Régions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/fr/Peche/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Regions/Global" title="Global">											Global
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Regions/UE" title="UE">											UE
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Regions" title="Régions"><span>Régions</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/fr/Regions/Globale" title="Globale">									Globale
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/fr/Regions/UE" title="UE">									UE
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+									<a href="/fr/Regions/ACP" title="ACP">									ACP
+									
+																		
+									</a>								</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/fr/Regions/ACP/Groupe-ACP" title="Groupe ACP">											Groupe ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Caraibes" title="Caraïbes">											Caraïbes
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-de-l-Ouest" title="Afrique de l'Ouest">											Afrique de l'Ouest
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-Centrale" title="Afrique Centrale">											Afrique Centrale
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-de-l-Est" title="Afrique de l'Est">											Afrique de l'Est
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-Australe" title="Afrique Australe">											Afrique Australe
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Pacifique" title="Pacifique">											Pacifique
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Publications" title="Publications"><span>Publications</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Actualites-et-analyses" title="Actualités et analyses">									Actualités et analyses
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Compendium" title="Compendium">									Compendium
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Interviews" title="Interviews">									Interviews
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Newsletter" title="Newsletter">									Newsletter
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Notes-de-synthese" title="Notes de synthèse">									Notes de synthèse
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Rapports-a-la-une" title="Rapports à la une">									Rapports à la une
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+																
+																					
+					<li>
+						<h2><a href="/fr/Bienvenue-sur-Agritrade" title="À propos"><span>À propos</span></a></h2>
+						
+
+											</li>
+
+								
+		</ul>
+
+			</nav>
+			<!-- navigation ] -->
+
+
+		</header>
+		<!-- header container ] -->
+
+
+
+		<!-- [ content container -->
+		<section class="container">
+
+
+						<div id="leftCntr">
+				
+									
+
+<!-- [ filter box -->
+<div class="block filter">
+	<form id='searchform' action="/fr/agritrade/searchfilter" method="post">
+		<fieldset>
+			<legend>Filtrer par</legend>
+
+			
+										
+						
+										
+																																															
+
+				<a href="#" class="heading " title="">Questions pêche</a>
+				<div id='filter_fisheries' class="section ">
+
+													
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Accès au marché">
+						<input name="filter[fisheries][]" value="7828" type="checkbox"/>
+						Accès au marché
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with OMC ">
+						<input name="filter[fisheries][]" value="7831" type="checkbox"/>
+						OMC 
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with PCP de l'UE">
+						<input name="filter[fisheries][]" value="7830" type="checkbox"/>
+						PCP de l'UE
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Relations ACP-UE; APP">
+						<input name="filter[fisheries][]" value="7829" type="checkbox"/>
+						Relations ACP-UE; APP
+					</label>
+
+					
+									
+				
+
+
+				</div>
+						
+										
+						
+										
+																																																																																																					
+
+				<a href="#" class="heading " title="">Régions</a>
+				<div id='filter_regions' class="section ">
+
+													
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Afrique Australe">
+						<input name="filter[regions][]" value="7775" type="checkbox"/>
+						Afrique Australe
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Afrique Centrale">
+						<input name="filter[regions][]" value="7771" type="checkbox"/>
+						Afrique Centrale
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Afrique de l'Est">
+						<input name="filter[regions][]" value="7772" type="checkbox"/>
+						Afrique de l'Est
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Afrique de l'Ouest">
+						<input name="filter[regions][]" value="7773" type="checkbox"/>
+						Afrique de l'Ouest
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Caraïbes">
+						<input name="filter[regions][]" value="7770" type="checkbox"/>
+						Caraïbes
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Globale">
+						<input name="filter[regions][]" value="7766" type="checkbox"/>
+						Globale
+					</label>
+
+					
+																							
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Groupe ACP">
+						<input name="filter[regions][]" value="7769" type="checkbox"/>
+						Groupe ACP
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Pacifique">
+						<input name="filter[regions][]" value="7774" type="checkbox"/>
+						Pacifique
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with UE">
+						<input name="filter[regions][]" value="7767" type="checkbox"/>
+						UE
+					</label>
+
+					
+									
+				
+
+
+				</div>
+						
+										
+																																																																	
+
+				<a href="#" class="heading " title="">Type de publication</a>
+				<div id='filter_pubtype' class="section ">
+
+													
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Actualités et analyses">
+						<input name="filter[pubtype][]" value="7760" type="checkbox"/>
+						Actualités et analyses
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Compendium">
+						<input name="filter[pubtype][]" value="7765" type="checkbox"/>
+						Compendium
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Interviews">
+						<input name="filter[pubtype][]" value="7763" type="checkbox"/>
+						Interviews
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Newsletter">
+						<input name="filter[pubtype][]" value="7761" type="checkbox"/>
+						Newsletter
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Notes de synthèse">
+						<input name="filter[pubtype][]" value="7762" type="checkbox"/>
+						Notes de synthèse
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Rapports à la une">
+						<input name="filter[pubtype][]" value="7764" type="checkbox"/>
+						Rapports à la une
+					</label>
+
+					
+									
+				
+
+
+				</div>
+						
+										
+						
+										
+						
+										
+						
+
+			<a href="#" class="heading ">
+				Filtrer par date
+			</a>
+
+
+			<div class="section date ">
+				
+				<label>
+					Du:
+					<input id='filterfrom' name="filter[from]" type="date" class="field date trigger" width="8" value="" data-value="2018-08-16"/>
+				</label>
+				<label>
+					Au:
+					<input id='filterto' name="filter[until]" type="date" class="field date trigger" width="8" value="16-08-2018" data-value="2018-08-16"/>
+				</label>
+
+			</div>
+
+			<div class="section">
+
+				<label class="searchmethod" title="Choisissez cette méthode pour faire une recherche large pour toutes cases cochées ci-dessus.">
+					<input class="trigger" name="filter[search]" type="radio" value="simple"/>
+					Recherche simple
+				</label>
+				<label class="searchmethod" title="Choisissez cette méthode pour raffiner votre recherche une combinaison des cases cochées ci-dessus.">
+					<input class="trigger" name="filter[search]" type="radio" value="cross" checked="checked"/>
+					Recherche croisée
+				</label>
+
+			</div>
+
+
+			<input id='searchfilter_sort' name="filter[sortby]" type="hidden" width="8" value="date"/>
+			<input type="hidden" name="RedirectTo" value="5300"/>
+			<input type="hidden" name="RedirectToId" value="1364"/>
+			<input type="hidden" id="nodeid" name="nodeid" value="1364"/>
+			<input type="hidden" id="language" name="language" value="fr"/>
+
+
+			<button type="submit">Soumettre</button>
+
+		</fieldset>
+	</form>
+</div>
+<!-- filter box ] -->
+
+
+
+
+											<a id="rss_feed" href="/fr/layout/set/custom_rss/Peche/Sujets/Acces-au-marche/Peche-acces-au-marche-aspects-tarifaires-et-non-tarifaires-Note-de-synthese"><img src="/extension/agritrade/design/agritrade/images/rss.gif" alt=""/></a>
+					
+							</div>
+			
+						<!--  [ center container -->
+			<div id="centerCntr" class="article content has_left has_right">
+							
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs_fr.gif" alt=""/>
+					
+
+		</div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style " addthis:title=" Pêche : accès au marché ; aspects tarifaires et non tarifaires : Note de synthèse">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Peche-acces-au-marche-aspects-tarifaires-et-non-tarifaires-Note-de-synthese" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				<a id="tool-email" href="http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2Ffr%2FPeche%2FSujets%2FAcces-au-marche%2FPeche-acces-au-marche-aspects-tarifaires-et-non-tarifaires-Note-de-synthese&amp;title=+P%C3%AAche+%3A+acc%C3%A8s+au+march%C3%A9+%3B+aspects+tarifaires+et+non+tarifaires+%3A+Note+de+synth%C3%A8se&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611" onclick="return popitup('http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2Ffr%2FPeche%2FSujets%2FAcces-au-marche%2FPeche-acces-au-marche-aspects-tarifaires-et-non-tarifaires-Note-de-synthese&amp;title= Pêche : accès au marché ; aspects tarifaires et non tarifaires : Note de synthèse&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611')" target="_blank" class="tool popup">
+			Email
+		</a>
+		<a href="#" id="tool-print" class="tool" onclick="printMe('/fr/layout/set/print/Peche/Sujets/Acces-au-marche/Peche-acces-au-marche-aspects-tarifaires-et-non-tarifaires-Note-de-synthese'); return false">
+			imprimer
+		</a>
+				</div>
+
+	
+	</div>
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																							
+							<a href="/fr/Publications/(regions)/7766/(search)/simple">Globale</a>
+																																																																,
+							<a href="/fr/Publications/(regions)/7767/(search)/simple">UE</a>
+																																																																																																																					,
+								<a href="/fr/Publications/(regions)/7769/(search)/simple">Groupe ACP</a>
+																																																																																																																																																																																																																																																																																																																																																																																																														
+							
+							
+																																,
+							<a href="/fr/Fisheries/(fisheries)/7828/(search)/simple">Accès au marché</a>
+							
+							
+																																																																														
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+										
+			<h1> Pêche : accès au marché ; aspects tarifaires et non tarifaires : Note de synthèse</h1>
+
+						<div class="pdf-file">
+				<a href="/fr/content/download/1531/137277/file/26f76e9b91b8a247010d935a1613c82b.pdf">Télécharger <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+												05 octobre 2009
+										</h4>
+
+						<h2>octobre 2009</h2>
+					</header>
+
+
+				<div class="intro">
+
+						<p>
+
+<a href="#21" target="_self"><i>1. Principales questions en matière d’accès au marché pour le secteur...</a><br/>
+
+<a href="#21" target="_self"><i>2. Développements récents.</i></a><br/>
+
+<a href="#21" target="_self">2.1 Le contexte international du commerce ACP-UE des produits de la pêche.</a><br/>
+
+<a href="#24" target="_self">2.2 L’importance du marché de l’UE pour les exportateurs ACP de poisson...</a><br/>
+
+<a href="#24" target="_self">2.3 L’importance des produits de la pêche ACP pour le marché de l’UE.</a><br/>
+
+<a href="#24" target="_self">2.4 Perspectives pour les exportations ACP de produits de la pêche vers...</a><br/>
+
+<a href="#243" target="_self">2.4.1 Investissements.</a><br/>
+
+<a href="#243" target="_self">2.4.2 Le système de certification des captures pour lutter contre la pêc...</a><br/>
+
+<a href="#243" target="_self">2.4.3 La question des règles d’origine.</a><br/>
+<a href="#s" target="_self"><i>Sources</i></a></p>
+
+		</div>
+		
+		
+					<a name="eztoc36295_1" id="eztoc36295_1"></a><h2>
+<a name='1'></a>1. Principales questions en matière d’accès au marché pour le secteur de la pêche ACP </h2><p>Près de 40% de la production des pêcheries mondiales, aussi bien l’aquaculture que la capture, est écoulée sur le marché international. Au cours de ces dernières années, la contribution de l’aquaculture à la production et au commerce mondial des produits de la pêche a rapidement augmenté. Pour faire face au déclin des niveaux de captures, un intérêt grandissant, y compris dans les pays ACP, se focalise, sur les potentialités offertes par l'aquaculture pour combler le déficit d’approvisionnement de poissons tant pour la consommation locale que pour les marchés d’exportation. </p><p>Dans son ensemble, l’UE représente le plus grand marché mondial de la pêche et elle constitue à ce titre, le marché le plus lucratif pour les pays ACP. Depuis 1975, dans le cadre des différentes Conventions de Lomé puis de l’Accord de Cotonou signé en 2000, les exportations de poisson issues des pays ACP ont bénéficié d’avantages préférentiels non réciproques. Ce système autorisait l’accès des produits de la pêche en franchise de droits sur le marché de l’UE. Aujourd’hui, ces avantages non réciproques sont progressivement remplacés par de nouveaux accords, les Accords de partenariat économique (APE), qui visent la réciprocité dans les échanges et la compatibilité avec les règles de l’OMC. </p><p>Les pays ACP qui n’ont pas signé ou paraphé un APE avant le 31 décembre 2007 bénéficient du Système de préférences généralisées (SPG) qui offre un accès préférentiel aux importations en provenance des pays en développement (PED) sur le marché de l’UE. Suite à l’approbation du règlement du Conseil le 22 juillet 2008, un nouveau système de préférences tarifaires généralisées s’appliquera du 1er janvier 2009 au 31 décembre 2011. En réponse au souhait exprimé par les bénéficiaires du SPG d’assurer une stabilité, une prévisibilité et une transparence à long terme, le système demeure largement inchangé, et comprend trois accords différents :</p>
+<ul>
+
+<li>les accords généraux (SPG) ; </li>
+
+<li>les accords spéciaux pour les PMA, l’initiative dite « Tout sauf les armes » (TSA), qui fournit depuis 2001 un accès en franchise de droits à pratiquement tous les produits en provenance des PMA ; </li>
+
+<li>le régime spécial d’encouragement pour le développement durable et la bonne gouvernance (également connu sous le nom de SPG+). </li>
+
+</ul>
+<p> En termes d’accès au marché, le régime TSA et les APE offrent tous deux un accès en franchise de droits et de contingent pour les produits de la pêche et sont par conséquent plus avantageux que le SPG. Ceci explique pourquoi certains pays ACP non PMA ont décidé de se désolidariser de leur groupe régional et de parapher un APE intérimaire en décembre 2007 afin de maintenir leur accès préférentiel au marché de l’UE (Papouasie-Nouvelle-Guinée, Ghana, Côte d’Ivoire, Seychelles, etc.). </p><p>Les marges préférentielles constituent le principal avantage des exportateurs de poisson des pays ACP dans le cadre de l’initiative TSA et/ou des APE. Cependant, ces avantages sont progressivement et inexorablement érodés par deux grands facteurs : </p>
+<ul>
+
+<li>la politique de l’OMC sur la libéralisation du commerce, par laquelle les barrières tarifaires et non tarifaires sont amenées à être supprimées. Deux pays de l’ASEAN ont contesté avec succès les avantages dont bénéficiaient de manière exclusive les pays ACP sur le marché de l’UE, notamment pour le thon en conserve ; </li>
+
+<li>les nouvelles dispositions spéciales du SPG pour les PMA et le régime spécial d’encouragement pour le développement durable et la bonne gouvernance, au titre desquels les pays latino-américains et asiatiques exportateurs de poisson bénéficient de réductions tarifaires sur le poisson et les produits de la pêche.</li>
+
+</ul>
+<p>Les restrictions imposées par les règles d'origine ont longtemps été une source de contestation dans le cadre des relations UE-ACP dans le secteur de la pêche, et notamment en ce qui concerne la pêche thonière dont la valeur est élevée. Afin d’acquérir la mention « poisson originaire » pour la fabrication de produits dérivés du thon, l'industrie de transformation des pays ACP se voit contrainte de s'approvisionner auprès de fournisseurs de l'UE qui pratiquent des prix élevés (ce phénomène s’explique par le fait que les pays ACP ne possèdent pas de flottes thonières et que les poissons pêchés par des navires de pays tiers ne sont pas considérés comme étant « originaires »).. Le fait de limiter les sources d’approvisionnement possibles freine le développement des activités de transformation des pays ACP. Par ailleurs, ce système favorise l’octroi par les pays ACP d’accès préférentiels aux navires de l’UE à leurs Zones Economiques Exclusives (ZEE) afin d’assurer l’approvisionnement de leur conserveries en « thon originaire ». Actuellement, les règles d’origine applicables au titre des protocoles découlant de la nouvelle réglementation d’accès au marché incluent une série de changements par rapport à l’accord de Cotonou.</p><p>Bien que les exportateurs de poisson des pays ACP bénéficient d’un accès en franchise de droits et de contingents sur le marché de l’UE, ils se heurtent à des normes de qualité de plus en plus strictes réglementant l’accès au marché européen. Les questions de sécurité des denrées alimentaires, d’identification des produits (espèce, origine, etc.), de traçabilité (de la capture à la consommation), et d’écolabels privés (pour la durabilité des stocks de poissons et l’aquaculture biologique) deviennent de plus en plus importantes pour les exportateurs de poisson ACP désireux d'approvisionner le marché de l’UE. Les normes sanitaires et phytosanitaires (SPS) doivent être respectées dans les usines de transformation du poisson et tout le long de la filière (du navire au consommateur). Il est également important de noter le pouvoir croissant des chaînes de distribution internationales qui ont été en mesure, parfois avec davantage de succès que les gouvernements, d’imposer des normes de qualité et d’hygiène de plus en plus strictes pour les importations de poisson, mais également d’imposer aux producteurs des exigences en matière d’écolabels. </p><p>Bien que ces mesures soient importantes pour protéger les consommateurs européens, elles représentent également pour les exportateurs tiers des barrières non tarifaires (BNT), imposant des contraintes considérables en termes d’accès au marché pour les producteurs et les exportateurs de poisson ACP, en particulier les petites et moyennes entreprises. De fait, les BNT au commerce empêchent les pays ACP de bénéficier pleinement des avantages potentiels de l'exportation vers l'UE. Les principales BNT pour les produits de la pêche des pays ACP comprennent : </p>
+<ul>
+
+<li>les normes sanitaires et phytosanitaires de l’UE (mesures SPS) ; </li>
+
+<li>la législation de l’UE sur les niveaux de résidus et de métaux lourds dans les produits de la pêche ; </li>
+
+<li>la législation de l’UE sur les labels ;</li>
+
+<li>la réglementation future de l’UE sur la lutte contre la pêche INN, en particulier le système de certification des captures (entrée en vigueur prévue pour le 1er janvier 2010).</li>
+
+</ul>
+<p>La transformation à terre (les installations de transformation du thon par exemple) représente un domaine dans lequel les pays ACP souhaitent ardemment attirer des investissements européens, afin de générer de l’emploi et de créer des bénéfices économiques dérivés. Un autre domaine impliquant un certain degré de coopération avec les producteurs de poisson ACP est le système de certification des captures INN de l’UE.</p><a name="eztoc36295_2" id="eztoc36295_2"></a><h2>
+<a name='2'></a>2. Développements récents </h2><a name="eztoc36295_2_1" id="eztoc36295_2_1"></a><h3>
+<a name='21'></a>2.1 Le contexte international du commerce ACP-UE des produits de la pêche </h3><p>Les chiffres de la FAO montrent que près de 40% de la production mondiale de produits de la pêche (capture et aquaculture confondues) est exportée, ce qui confirme le fait que le poisson compte parmi les produits alimentaires et aliments pour animaux les plus échangés sur le marché international. Toutefois, les chiffres de la FAO pour 2009 montrent un fléchissement de la demande début 2008 qui s’explique par la crise dans le secteur financier qui a affecté la confiance du consommateur sur les principaux marchés. </p><p>Plusieurs analystes estiment que la crise économique en Europe (et ailleurs) va se poursuivre. Les pays ACP exportateurs de poisson se doivent par conséquent de tenir compte de cette tendance dans leurs stratégies de commercialisation pour définir les types de produits qui seront susceptibles d’apporter plus de valeur ajoutée à leur poisson, mais également d’assurer que les principales barrières au commerce – règlements en matière de santé et d’hygiène, de traçabilité – seront correctement traitées. </p><p>Les PED représentent aujourd’hui la moitié de la valeur totale des exportations de poisson, la Chine étant le principal exportateur des PED. La hausse des importations de la Chine résulte en partie de l’externalisation puisque les transformateurs chinois recourent à du poisson originaire d’autres régions, notamment de l’UE, pour ensuite le transformer et l’exporter. </p><p>La stagnation et le déclin des captures de poisson, d’une part, et l’inquiétude concernant l’état des stocks halieutiques, d’autre part, a attiré l’attention sur le potentiel de l’aquaculture pour répondre aux besoins croissants du commerce mondial et de la sécurité alimentaire nationale. Un rapport Globefish de 2008 montre que l’aquaculture représente aujourd’hui 45% de la production de poisson destinée à l’alimentation au niveau mondial et ce chiffre devrait atteindre 50% en 2015. La Chine compte pour près de 70% de la production aquacole, les principales espèces élevées exportées étant les crevettes, le tilapia et le loup de mer. Certaines régions sont à la traîne et les pays ACP en particulier, où l’aquaculture représente moins de 2% de la production totale. Plusieurs initiatives sont en cours, en particulier dans les pays africains suite à l’initiative « Poisson pour tous » du NEPAD destinée à promouvoir la production aquacole. Pour les pays ACP, les deux espèces les plus importantes en termes d’exportation sont le tilapia et la crevette/crevette rose. Toutefois, certains préconisent le développement d’autres types d’aquaculture (tels que les mollusques), dont les exigences liées à la production sont moindres, les taux de survie enregistrés sont plus élevés et la concurrence internationale, en particulier vis à vis des produits asiatiques à faible coût, s’avère moins féroce. </p><p>En 2006, dans le cadre de son programme de mise en œuvre d’un Code de Conduite pour une pêche responsable, la FAO publiait des directives techniques sur le développement de la filière aquacole en vue de promouvoir les bonnes pratiques dans ce secteur. Ces directives soulignent les principaux enjeux du développement de l’aquaculture dans les PED qui sont « d’exploiter des piscicultures de la manière la plus responsable d’un point de vue social et environnemental et de contribuer de manière tangible au développement rural et à l’allègement de la pauvreté dans les zones côtières ». </p>
+<ol>
+
+<li>Pour que le secteur de la pêche dans les pays ACP puisse bénéficier des retombées offertes par le commerce international, la question de la distribution des bénéfices à tous les niveaux de la filière apparaît cruciale. Les intrants payés par les producteurs ACP de poisson sont de plus en plus coûteux, en particulier en raison de la montée des prix du carburant et du transport. Les producteurs, pêcheurs et pisciculteurs ACP sont davantage placés dans une situation de « price taker » (preneurs de prix) que dans celle de « price maker » (faiseur de prix) – en effet, ils n’ont pas le pouvoir de répercuter l’augmentation des coûts sur les prix, en particulier lorsque les acheteurs sont d’importants distributeurs européens. Le développement durable ne passe pourtant que par l’obtention d’un prix rémunérateur pour le poisson, basé sur le paradigme : « pêcher/cultiver moins, gagner plus ». Récemment, plusieurs pays ACP ont souligné l’importance de développer le secteur de la transformation en vue de dégager des bénéfices plus importants dans le cadre de l’exploitation des ressources halieutiques. </li>
+
+</ol>
+<p> Cependant, ceci est vérifié seulement si toutes les conditions sont satisfaites pour assurer une production de haute qualité et conforme aux normes SPS en particulier ; et si des mécanismes sont en place pour assurer des niveaux durables d’exploitation des ressources et des avantages socio-économiques (nombre et qualité des emplois plus particulièrement). </p><a name="eztoc36295_2_2" id="eztoc36295_2_2"></a><h3>
+<a name='22'></a>2.2 L’importance du marché de l’UE pour les exportateurs ACP de poisson et de produits de la pêche </h3><p>Une étude de la CE publiée en 2009 montre que l’UE représente un marché pour les produits de la pêche et de l’aquaculture d’environ 12 millions de tonnes par an pour une valeur de €55 milliards. L’UE constitue le plus gros exportateur de poisson du monde avec 26% des exportations totales mais également le plus gros importateur, avec 43,5% des importations totales. Elle a importé US$20,75 milliards de poissons et de produits de la pêche en provenance de fournisseurs non UE en 2007, soit une augmentation de 11% par rapport à l’année précédente. Six pays de l’UE figurent parmi les dix principaux importateurs de poisson : l’Espagne, avec des importations de fournisseurs non UE d’une valeur de US$4,37 milliards en 2007, suivie par le Royaume-Uni (US$2,2 milliards), le Danemark (US$2 milliards), l’Allemagne (US$1,9 milliard), l’Italie (US$1,8 milliard), et la France (US$1,77 milliard).</p><p>L’étude présente également le déclin du taux d’autosuffisance de l’UE pour le poisson capturé dans ses propres eaux, qui atteint à peine plus de 30% en 2007. Dans l’ensemble, les approvisionnements de poisson de l’UE dépendent des importations à concurrence de 69%, mais pour certaines catégories, la dépendance à l’égard des importations atteint 90%, comme c’est le cas pour le poisson blanc en 2007.</p><p>Cette dépendance aux importations ainsi que le processus d’élargissement de l’UE à 15, à 25 et puis à 27 Etats membres entre 2005 et 2007, offrent d’importantes opportunités aux exportateurs ACP, à condition qu’ils puissent se conformer aux règles d’origine et aux barrières non tarifaires que constituent les normes d’hygiène et autres normes de l’UE en vigueur. </p><p>Une étude de 2007 indique que, bien que la valeur nominale et le volume global des exportations de poisson des PED aient augmenté au cours de ces dernières années, la valeur relative a quant à elle décliné : en 1984, la tonne de poisson exportée par les PED valait 28,4% de plus que celle des pays développés ; en 2004, elle valait 10,4% de moins. Ce constat indique que les pays ACP et autres PED pourraient augmenter leurs revenus l’exportation de manière considérable pour le poisson et les produits de la pêche en développant les activités de transformation et en améliorant la qualité. </p><p>Toutefois, la prudence est de mise. La demande mondiale croissante exerce une pression énorme sur les ressources halieutiques, ce qui a pour effet d’encourager la surpêche dans un contexte de faible gestion des ressources halieutiques et d’utilisation d’engins de capture dommageables pour l’environnement. Certains s’inquiètent également du fait que le commerce international des produits de la pêche puisse avoir des conséquences négatives sur la sécurité alimentaire locale. Une analyse de l’OCDE parue en 2009 montre que ces craintes ne sont pas fondées mais révèle également qu’il n’existe aucun lien entre commerce de poisson et croissance économique ou allègement de la pauvreté. Les auteurs affirment que cela est dû aux faibles « mécanismes de distribution des richesses » qui échouent à redistribuer les revenus générés par les exportations de poisson aux tranches de la population les plus démunies. </p><p><b>L’importance du marché de l’UE pour les exportations de poisson ACP </b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="92" valign="top">  <b>Régions ACP </b>
+  </td><td width="192" valign="top">  <b>Exportations de poisson ACP vers l’UE27 (valeur moyenne 2004-2006, en milliers de US$)</b>
+  </td><td width="168" valign="top">  <p><b>Exportations totales de poisson ACP </b></p><p><b>(valeur moyenne 2004-2006, en milliers de US$)</b></p>
+  </td><td width="96" valign="top">  <b>Importance relative du marché de l’UE %</b>
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  <b>Afrique</b>
+  </td><td width="192" valign="top">  1 241 172
+  </td><td width="168" valign="top">  2 178 036
+  </td><td width="96" valign="top">  57
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  <b>Caraïbes</b>
+  </td><td width="192" valign="top">  100 783
+  </td><td width="168" valign="top">  204 526
+  </td><td width="96" valign="top">  49
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  <b>Pacifique</b>
+  </td><td width="192" valign="top">  42 654
+  </td><td width="168" valign="top">  188 425
+  </td><td width="96" valign="top">  23
+  </td>
+</tr>
+
+</table>
+<p>Source: Statistiques FAO, flux de commerce du poisson par région, 2008</p><p>Pour toutes les régions ACP, l’UE est le marché d’exportation le plus important pour leurs produits de la pêche. Les autres marchés importants pour les pays ACP, comprennent les États-Unis, l’Asie du Sud-Est et les marchés régionaux.</p><a name="eztoc36295_2_3" id="eztoc36295_2_3"></a><h3>
+<a name='23'></a>2.3 L’importance des produits de la pêche ACP pour le marché de l’UE </h3><p>En tant que groupe, les pays ACP sont l’un des principaux partenaires commerciaux de l’UE dans le secteur de la pêche. Les statistiques commerciales de l’UE dévoilent qu’en 2006, la valeur des importations de poisson de l’UE en provenance des pays ACP s’élevait à 1,4 milliard d’euros, soit environ 12% de la valeur totale des importations de poisson de provenance hors UE (13,3 milliards d’euros). Dans le tableau suivant figurent les dix principaux exportateurs de poisson des pays ACP vers l’UE, la valeur et les quantités de poissons exportés, les types de produits exportés et la valeur moyenne à la tonne pour 2008. </p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="98" valign="top">  <p><b>Pays </b></p><p><b> </b></p>
+  </td><td width="108" valign="top">  <p><b>Valeur des exportations de poisson</b></p><p><b>(en milliers d’€)</b></p>
+  </td><td width="96" valign="top">  <b>Volume des exportations de poisson (en milliers de kg)</b>
+  </td><td width="204" valign="top">  <p><b>Principaux poissons exportés </b></p><p><b>(par ordre d’importance)</b></p>
+  </td><td width="108" valign="top">  <p><b>Valeur moyenne par tonne</b></p><p><b>(en milliers d’€)</b></p>
+  </td>
+</tr>
+
+<tr>
+<td width="98" valign="top">  <p><b>Namibie </b></p><p><b> </b></p>
+  </td><td width="108" valign="top">  232 168 
+  </td><td width="96" valign="top">  71 213 
+  </td><td width="204" valign="top">  Filets de poisson blanc/ Poisson blanc congélé
+  </td><td width="108" valign="top">  3,4
+  </td>
+</tr>
+
+<tr>
+<td width="98" valign="top">  <b>Afrique du Sud</b>
+  </td><td width="108" valign="top">  215 725 
+  </td><td width="96" valign="top">  58 593 
+  </td><td width="204" valign="top">  Poisson blanc frais/Poisson blanc congélé/Filets de poisson blanc 
+  </td><td width="108" valign="top">  4,0
+  </td>
+</tr>
+
+<tr>
+<td width="98" valign="top">  <b>Sénégal </b>
+  </td><td width="108" valign="top">  142 596 
+  </td><td width="96" valign="top">  35 096 
+  </td><td width="204" valign="top">  Poisson blanc frais/Filets de poisson blanc/Poisson blanc congélé 
+  </td><td width="108" valign="top">  4,1
+  </td>
+</tr>
+
+<tr>
+<td width="98" valign="top">  <b>Tanzanie </b>
+  </td><td width="108" valign="top">  111 083 
+  </td><td width="96" valign="top">  28 013 
+  </td><td width="204" valign="top">  Filets de poisson blanc (congélé) 
+  </td><td width="108" valign="top">  3,6
+  </td>
+</tr>
+
+<tr>
+<td width="98" valign="top">  <b>Ouganda </b>
+  </td><td width="108" valign="top">  79 572 
+  </td><td width="96" valign="top">  19 695 
+  </td><td width="204" valign="top">  Filets de poisson blanc (frais) 
+  </td><td width="108" valign="top">  3,9
+  </td>
+</tr>
+
+<tr>
+<td width="98" valign="top">  <b>Madagascar </b>
+  </td><td width="108" valign="top">  95 146 
+  </td><td width="96" valign="top">  12 930 
+  </td><td width="204" valign="top">  Crustacés (crevettes et crevettes roses) 
+  </td><td width="108" valign="top">  8,0
+  </td>
+</tr>
+
+<tr>
+<td width="98" valign="top">  <b>Mauritanie </b>
+  </td><td width="108" valign="top">  94 708 
+  </td><td width="96" valign="top">  20 454 
+  </td><td width="204" valign="top">  Mollusques (poulpe)/poisson frais/poisson congélé
+  </td><td width="108" valign="top">  4,1
+  </td>
+</tr>
+
+<tr>
+<td width="98" valign="top">  <b>Mozambique </b>
+  </td><td width="108" valign="top">  44 270 
+  </td><td width="96" valign="top">  6 562
+  </td><td width="204" valign="top">  Crustacés (crevettes et crevettes roses) 
+  </td><td width="108" valign="top">  7,2
+  </td>
+</tr>
+
+<tr>
+<td width="98" valign="top">  <b>Nigeria </b>
+  </td><td width="108" valign="top">  35 822 
+  </td><td width="96" valign="top">  4 509 
+  </td><td width="204" valign="top">  Crustacés (crevettes et crevettes roses) 
+  </td><td width="108" valign="top">  7,1
+  </td>
+</tr>
+
+<tr>
+<td width="98" valign="top">  <b>Seychelles </b>
+  </td><td width="108" valign="top">  14 633 
+  </td><td width="96" valign="top">  7 871 
+  </td><td width="204" valign="top">  Thon en conserve 
+  </td><td width="108" valign="top">  1,6
+  </td>
+</tr>
+
+</table>
+<p>Source: EU Export helpdesk, statistiques 2008.</p><p>Bien que d’autres facteurs puissent jouer un rôle, tels que les espèces de poissons concernées ou le niveau d'intégration entre les opérateurs ACP et de l’UE, ce tableau semble indiquer que les revenus à l’exportation pourraient être accrus si certains produits, comme par exemple le poisson frais haut de gamme, étaient davantage favorisés. Contrairement à une croyance largement répandue selon laquelle la transformation est systématiquement synonyme de valeur supplémentaire, ce tableau indique que pour certaines transformations, telles que le thon en conserve, la valeur peut s'en trouver réduite. Dans un contexte où plusieurs stocks de poisson ACP sont soit totalement exploités soit surexploités (ce qui signifie qu’il sera difficile d’augmenter les bénéfices en augmentant la production), la manière dont ces ressources seront exploitées et transformées aura des conséquences sur la mesure dans laquelle les pays ACP pourront maximiser les bénéfices tirés de cette pêche. </p><a name="eztoc36295_2_4" id="eztoc36295_2_4"></a><h3>
+<a name='24'></a>2.4 Perspectives pour les exportations ACP de produits de la pêche vers le marché de l’UE </h3><a name="eztoc36295_2_4_1" id="eztoc36295_2_4_1"></a><h4>
+<a name='241'></a>2.4.1 Investissements</h4><p>Sous l’égide du NEPAD, les gouvernements africains se sont réunis en août 2005 autour de l’initiative « Poisson pour tous ». Ils ont affirmé que : « des investissements stratégiques sont requis de toute urgence pour que le secteur de la pêche africain continue à contribuer à l’allègement de la pauvreté et au développement économique régional ». De manière générale, des investissements sont nécessaires pour : </p>
+<ul>
+
+<li>améliorer la gestion des stocks naturels de poisson ; </li>
+
+<li>développer la production aquacole ; </li>
+
+<li>accroître le commerce de poisson sur les marchés intérieurs, régionaux et mondiaux. </li>
+
+</ul>
+<p>Les APE contiennent des dispositions qui pourraient aider à atteindre ces objectifs, tout en améliorant la compétitivité des ACP, ce qui est un élément crucial pour contrer les conséquences de l’érosion des préférences. Les pays ACP devraient profiter de cette opportunité pour obtenir des investissements et de l’aide au développement de l’UE pour améliorer les infrastructures de débarquement, de transport et de transformation, et améliorer la capacité de leur secteur de transformation/exportation de poisson afin de satisfaire aux normes sanitaires et de traçabilité en vigueur au niveau international. Mais il convient de rester prudent : l’amélioration de la compétitivité au travers de la promotion des investissements européens ne doit pas se faire aux dépens des entreprises locales, des normes de travail, de la qualité de vie et de l’environnement local. </p><p>La transformation à terre, comme par exemple les installations de transformation du thon, est un domaine dans lequel les pays ACP souhaitent ardemment attirer des investissements européens afin de générer de l’emploi et de créer des bénéfices économiques dérivés, tels que des investissements dans les infrastructures portuaires et de transport et d’autres activités liées à la transformation du thon. Sur cette base, plusieurs pays ACP ont obtenu des installations de transformation à terre dans leurs pays, souvent en garantissant l’octroi de licences de pêche en échange. Toutefois, certains ont exprimé des craintes quant au fait que les investissements à terre ont été obtenus sans évaluer pleinement les bénéfices des projets par rapport à la pression exercée sur les ressources de thon et sur les communautés et environnements à l’échelle locale. Aussi, certains s’inquiètent du fait que les gouvernements aient accordé des licences de pêche sur base de promesses d’installations qui pourraient ne jamais se matérialiser pleinement. En ce qui concerne la transformation de thon dans le Pacifique, des conflits inattendus ont éclaté entre les communautés côtières et les responsables des installations de transformation (sur les conditions de travail, les droits fonciers et la pollution). Ces conflits ont non seulement un impact négatif sur le succès à long terme des investissements, mais ils remettent également en question les avantages nets d’ensemble des investissements à terre sans assurer des bénéfices socio-économiques. Les pays ACP doivent absolument développer une stratégie pour bénéficier pleinement de ces projets. Ils doivent pour ce faire : </p>
+<ul>
+
+<li>développer une méthodologie afin d’éviter la surcapacité dans le secteur de la pêche ; </li>
+
+<li>développer des mesures de responsabilité pour les investisseurs afin qu’ils rendent des comptes et que les installations livrent les résultats promis ;</li>
+
+<li>évaluer les bénéfices nets en termes de rentrées de devises ; </li>
+
+<li>évaluer comment de tels développements affectent les communautés locales et développer des mécanismes pour éviter et minimiser les conflits avant qu’ils n’éclatent ;</li>
+
+<li>évaluer les bénéfices pour les travailleurs dans les installations de transformation.</li>
+
+</ul>
+<p> L’investissement étant une composante clé des accords de partenariats de pêche (APP, cf. la note de synthèse sur les APP), une approche cohérente se doit d’être développée par les pays ACP et l’UE pour assurer une synergie entre les investissements promus au travers des APP et des APE, ainsi que leur cohérence par rapport au développement de pêcheries durables dans les ACP. </p><a name="eztoc36295_2_4_2" id="eztoc36295_2_4_2"></a><h4>
+<a name='242'></a>2.4.2 Le système de certification des captures pour lutter contre la pêche INN </h4><p>En juillet 2008, les ministres européens chargés de la pêche ont adopté à l’unanimité un nouveau règlement destiné à lutter contre la pêche illicite, non déclarée et non réglementée (INN). Il inclut un système de certification des captures pour certifier l’origine légale du produit. Ce système, qui serait basé sur le modèle utilisé pour assurer la conformité aux normes SPS, soulève plusieurs questions.</p><p>Le système proposé ne fonctionnera pas s’il n’est pas étayé ou basé sur des observations en mer. Si la certification des captures n’est pas soutenue par des systèmes de suivi, de contrôle et de surveillance (MCS) appropriés dans les pays où les captures sont effectuées, il y a un risque que ces certificats soient truqués et n’apportent donc aucun apport à la lutte contre la pêche INN. D’autre part, le système de certification des captures, en confiant une tâche supplémentaire aux autorités, producteurs et exportateurs ACP, peut devenir un obstacle aux importations légales de poisson en provenance des pays ACP. </p><p>Des problèmes découlant de la mise en place de systèmes de certification des captures INN ont été examinées dans une série d’études de cas nationales (notamment la Namibie, le Sénégal et la Mauritanie) publiée en juillet 2009. Sur cette base, la Commission a déjà exprimé son vœu d’introduire un certain degré de flexibilité au niveau des exigences de certification des bateaux de pêche artisanale, pour lesquels le certificat de capture serait la responsabilité de l’exportateur, qui devra fournir aux autorités de validation les informations sur l’approvisionnement des bateaux individuels. En l’absence d’une définition de la pêche artisanale acceptée au niveau international, les règles d’application pour cette pêche seront basées sur les principales caractéristiques suivantes: longueur maximale de l’embarcation, absence de superstructure, débarquement dans l’état du pavillon, sorties en mer courtes, lots exportés formés d’approvisionnement venant de plusieurs embarcations, etc. </p><a name="eztoc36295_2_4_3" id="eztoc36295_2_4_3"></a><h4>
+<a name='243'></a>2.4.3 La question des règles d’origine </h4><p>Depuis janvier 2008, l’origine préférentielle pour les exportations ACP est établie par l’Annexe II au règlement 1528/2007 du Conseil (règlement d’accès aux marchés - RAM - applicable à 35 pays ACP ayant paraphé avec l’UE des accords compatibles avec les règles de l’OMC) et par les Articles 66-97 du règlement 2454/1993 de la Commission (système SPG/TSA applicable aux 43 pays ACP restants). </p><p>Le RAM a été introduit en tant que mesure transitoire et sera remplacé par les protocoles d’origine annexés aux APE lorsque ceux-ci entreront en vigueur.</p><p>Les restrictions imposées par les règles d'origine ont longtemps été une source de contestation dans le cadre des relations ACP-UE dans le secteur de la pêche, notamment en ce qui concerne la pêche thonière dont la valeur est élevée. La définition de « poisson originaire » contraint l'industrie de transformation des pays ACP à s'approvisionner auprès de fournisseurs de l'UE qui pratiquent des prix élevés (puisque les pays ACP ne possèdent pas de flottes thonières en nombre suffisant et que les poissons pêchés par des navires de pays tiers ne sont pas considérés comme étant « originaires »), et ce pour produire des produits dérivés du thon qui soient originaires. </p><p>Une étude récente commanditée par la CE (2007) affirme que les règles d’origine fournissent aux flottes thonières de l’UE un marché captif capable et désireux de payer le prix nécessaire aux flottes européennes pour opérer de façon viable. Le fait que la hausse des coûts d’exploitation des flottes de l’UE soit répercutée sur les acheteurs de thon ACP soulève quelques questions quant à leur capacité à être compétitif sur un marché extrêmement concurrentiel comme celui du thon en conserve. D’après certains observateurs, la marge préférentielle proposée aux pays ACP pour le thon en conserve originaire pourrait alors être considérée comme une forme de subvention en amont aux navires de l’UE via les accords d’accès aux pêcheries plutôt que comme une concession commerciale aux pays ACP. </p><p>Actuellement, les règles d’origine applicables au titre des protocoles dérivant du RAM incluent une série de changements par rapport à l’accord de Cotonou : </p>
+<ul>
+
+<li>suppression des prescriptions applicables à l’équipage, à l’armateur et au personnel dans les règles applicables aux navires de pêche ;</li>
+
+<li>simplification et reformulation du critère de propriété ; </li>
+
+<li>changement de la règle principale pour plusieurs produits des chapitres 3 et 16. Plutôt que l’exigence globale en ce qui concerne les matières du chapitre 3, 15% des intrants non originaires sont maintenant autorisés. </li>
+
+</ul>
+<p> Il existe une dérogation spécifique pour les pays ACP du Pacifique (PACP- notamment la Papouasie-Nouvelle-Guinée et Fidji) au titre des APE signés/paraphés avec eux en juillet 2009. Cette dérogation offre à ces pays « la possibilité pour l’industrie de transformation des produits de la pêche de s’approvisionner en matières premières poisson dans n’importe quel pays tiers ». Cet approvisionnement au niveau mondial est accepté sous certaines conditions, telles que la notification par le pays du Pacifique fournissant des informations concrètes sur les espèces concernées, les produits finaux et les quantités faisant l’objet d’un assouplissement de la règle. Pour les PACP, cet assouplissement des règles d’origine pourrait constituer le seul moyen pour les conserveries de demeurer économiquement viables. Les effets commencent déjà à se faire ressentir en termes de création d’emplois et de réduction de la pauvreté. Bien que l’UE ait insisté sur le fait que cette concession était due aux spécificités (géographiques, etc.) des PACP, elle montre comment l’assouplissement des règles d’origine pourrait profiter à d’autres régions ACP, à condition que d’autres exigences de l’UE (normes d’hygiène, etc.) soient satisfaites. </p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><b>
+<a name='s'></a>10 principales sources</b></p><p>
+Situation mondiale des pêches et de l’aquaculture (SOFIA), FAO 2008<br/>
+<a href="ftp://ftp.fao.org/docrep/fao/011/i0250e/i0250e.pdf" target="_self">ftp://ftp.fao.org/docrep/fao/011/i0250e/i0250e.pdf</a></p><p>
+ « Le <i>Codex</i> et le commerce international des denrées alimentaires »<br/>
+<a href="http://www.fao.org/docrep/meeting/X2582E.htm" target="_self">http://www.fao.org/docrep/meeting/X2582E.htm</a> </p><p>
+Site web <i>Globefish </i>de la FAO<br/>
+<a href="http://www.globefish.org/" target="_self">http://www.globefish.org/</a> </p><p>
+Réglementations sur le commerce du poisson sur le web<br/>
+<a href="http://www.globefish.org/index.php?id=3206" target="_self">http://www.globefish.org/index.php?id=3206</a> </p><p>
+Comité consultatif CE sur la pêche et l’aquaculture – groupe de travail technique sur les marchés et le commerce<br/>
+<a href="http://ec.europa.eu/fisheries/cfp/governance/acfa/minutes_en.htm" target="_self">http://ec.europa.eu/fisheries/cfp/governance/acfa/minutes_en.htm</a></p><p>
+FFA <i>Fisheries Trade Briefings</i><br/>
+<a href="http://www.ffa.int/system/files/FFA-Fisheries-Trade-News" target="_self">http://www.ffa.int/system/files/FFA-Fisheries-Trade-News</a></p><p>
+ICTSD <i>Éclairage sur les négociations</i><br/>
+<a href="http://www.ictsd.org/tni/tni_english" target="_self">http://www.ictsd.org/tni/tni_english</a></p><p>
+Page web de la CE, Pêche, sur la réglementation contre la pêche INN<br/> 
+<a href="http://ec.europa.eu/fisheries/cfp/external_relations/illegal_fishing_en.htm" target="_self">http://ec.europa.eu/fisheries/cfp/external_relations/illegal_fishing_en.htm</a> </p><p>
+OCDE – Documents de travail sur l’alimentation, l’agriculture et la pêche<br/>
+<a href="http://www.acp-eu-trade.org/library/files/Bene_EN_0708_OECD_Global-change-in-African-fish-trade.pdf" target="_self">http://www.acp-eu-trade.org/library/files/Bene_EN_0708_OECD_Global-chang...</a></p><p>
+Étude de l’ICTSD : Fisheries aspects of ACP-EU interim economic partnership agreements: trade and sustainable development implications<br/>
+<a href="http://ictsd.net/downloads/2008/11/fisheries-aspects-of-acp-eu-interim-economic-partnership-agreements1.pdf" target="_self">http://ictsd.net/downloads/2008/11/fisheries-aspects-of-acp-eu-interim-e...</a> </p><p><b> Documents relatifs aux règlements</b></p><p>
+« The European Community’s rules of origin for the Generalised System of Preferences: a guide for traders », juillet 2002<br/>
+<a href="http://europa.eu.int/comm/taxation_customs/customs/origin/gsp/contents.pdf" target="_self">http://europa.eu.int/comm/taxation_customs/customs/origin/gsp/contents.pdf </a></p><p>
+Note d’orientation n° 7 sur l’étiquetage du poisson et des produits de l’aquaculture conformément au règlement (CE) n° 104/2000 du Conseil et le règlement (CE) n° 2065/2001 de la Commission (Révision 1) 2003<br/>
+<a href="http://www.fsai.ie/publications/guidance_notes/gn7.pdf" target="_self">http://www.fsai.ie/publications/guidance_notes/gn7.pdf </a></p><p>
+Règlement TSA, règlement du Conseil No. 416/2001<br/>
+<a href="http://europa.eu.int/comm/trade/issues/global/gsp/eba/index_en.htm" target="_self">http://europa.eu.int/comm/trade/issues/global/gsp/eba/index_en.htm </a></p><p>
+Règlement du Conseil appliquant un schéma de préférences tarifaires généralisées pour la période allant du 1er janvier 2009 au 31 décembre 2011, et modifiant les règlements (CE) n° 552/97 et (CE) n° 1933/2006 ainsi que les règlements (CE) n° 1100/2006 et (CE) n° 964/2007 de la Commission<br/>
+<a href="http://register.consilium.europa.eu/pdf/en/08/st09/st09792.en08.pdf" target="_self">http://register.consilium.europa.eu/pdf/en/08/st09/st09792.en08.pdf</a></p><p>
+Exigences en matière de règles d’origine du SPG : deux liens web : un guide au SPG<br/>
+<a href="http://europa.eu.int/comm/taxation_customs/customs/origin/gsp/index_en.htm" target="_self">http://europa.eu.int/comm/taxation_customs/customs/origin/gsp/index_en.htm </a></p><p>
+Règlement CE 2454/93, amendé par règlement 12/97, 1602/2000, 881/2003<br/>
+<a href="http://europa.eu.int/comm/taxation_customs/customs/origin/gsp/annex2.pdf" target="_self">http://europa.eu.int/comm/taxation_customs/customs/origin/gsp/annex2.pdf </a></p><p>
+Directive de l’UE sur la production et la mise sur le marché de produits de la pêche destinés à la consommation humaine, directive 91/493/CE du Conseil<br/>
+<a href="http://vm.cfsan.fda.gov/%7Eacrobat/hp91493.pdf" target="_self">http://vm.cfsan.fda.gov/~acrobat/hp91493.pdf </a></p><p>
+Plusieurs amendements (Directive 95/71/CE du Conseil et directive 97/79/CE du Conseil) et travail en cours peut être consulté à la page<br/>
+<a href="http://europa.eu.int/scadplus/leg/en/lvb/l12008.htm" target="_self">http://europa.eu.int/scadplus/leg/en/lvb/l12008.htm </a></p><p>
+Manuel d’inspection sanitaire des produits de la pêche<br/>
+<a href="http://www.sfp-acp.eu/EN/B3-DocTechniques.htm" target="_self">http://www.sfp-acp.eu/EN/B3-DocTechniques.htm</a> </p><p>
+Mesures de la directive 96/23/CE pour contrôler certaines substances et résidus de celles-ci chez les animaux vivants et leurs produits<br/>
+<a href="http://europa.eu.int/scadplus/leg/en/lvb/l12033b.htm" target="_self">http://europa.eu.int/scadplus/leg/en/lvb/l12033b.htm </a></p><p>
+Règlement CE n° 2377/90 établissant une procédure communautaire pour la fixation des limites maximales de résidus de médicaments vétérinaires dans les aliments d’origine<br/>
+<a href="http://europa.eu.int/comm/food/fs/sfp/fcr/residues_en.html" target="_self">http://europa.eu.int/comm/food/fs/sfp/fcr/residues_en.html </a></p><p>
+Règlement CE n° 466/2001 portant fixation de teneurs maximales en métaux lourds<br/>
+<a href="http://europa.eu.int/comm/food/fs/sfp/fcr/fcr02_en.pdf" target="_self">http://europa.eu.int/comm/food/fs/sfp/fcr/fcr02_en.pdf </a></p><p>
+Harmonisation de la législation des États membres de l’UE en matière d’étiquetage, présentation et publicité des denrées alimentaires<br/>
+<a href="http://europa.eu.int/scadplus/leg/en/lvb/l21090.htm" target="_self">http://europa.eu.int/scadplus/leg/en/lvb/l21090.htm</a> </p><p><b>Statistiques</b></p><p>
+Export helpdesk pour les PED<br/>
+<a href="http://exporthelp.europa.eu/" target="_self">http://exporthelp.europa.eu/</a> </p><p>
+Les données de la FAO sur les produits de capture, l’aquaculture et le commerce sont disponibles sous forme de base de données téléchargeable à l’adresse :<br/>
+<a href="http://www.fao.org/fi/statist/FISOFT/FISHPLUS.asp" target="_self">http://www.fao.org/fi/statist/FISOFT/FISHPLUS.asp</a> </p><p><b>Rapports</b></p><p>
+Analyse CE de l’approvisionnement et de la commercialisation des produits de la pêche et de l’aquaculture dans l’Union européenne, mai 2009<br/>
+<a href="http://ec.europa.eu/fisheries/publications/studies/fap_part2_fr.pdf" target="_self">http://ec.europa.eu/fisheries/publications/studies/fap_part2_fr.pdf</a></p><p>
+Note d’information, ANFACO (Association espagnole des fabricants des conserves de poissons et de fruits de mer), 25 octobre 2009 (en espagnol)<br/>
+<a href="http://www.seafood-today.com/noticia.php?art_clave=2530" target="_self">http://www.seafood-today.com/noticia.php?art_clave=2530</a></p><p>
+FAO <i>Fisheries Circular</i> No. 1019FIIU/C1019(En), « Revenue distribution through the seafood value chain »<br/>
+<a href="http://www.fao.org/docrep/009/a0564e/a0564e00.htm#Contents" target="_self">http://www.fao.org/docrep/009/a0564e/a0564e00.htm#Contents</a></p><p>
+FAO, « Globalisation and the dynamics of the international fisheries trade », juillet 2008<br/>
+<a href="http://www.globefish.org/filedownload.php?fileId=629" target="_self">www.globefish.org/filedownload.php?fileId=629</a></p><p>
+Pacific tuna trade, FFA <i>Fisheries Trade News</i>, Vol. 2, Issue 6, June 2009<br/>
+<a href="http://www.ffa.int/node/251" target="_self">http://www.ffa.int/node/251</a></p><p>
+Responsible fish trade and food security, document technique sur la pêche de la FAO n°456, 2005<br/>
+<a href="http://www.globefish.org/index.php?id=2168" target="_self">http://www.globefish.org/index.php?id=2168</a> </p><p>
+OCDE : « The development dimension of trade and environment: case studies on environmental requirements and market access ». Comm/Env/Td(2002)86/Final. OCDE<br/>
+<a href="http://www.olis.oecd.org/olis/2002doc.nsf/LinkTo/com-env-td(2002)86-final" target="_self">http://www.olis.oecd.org/olis/2002doc.nsf/LinkTo/com-env-td(2002)86-final </a></p><p>
+Food safety in food security and trade: ‘Case study: Kenyan fish exports’ par Richard Abila, <i>IFPRI Briefing</i><br/>
+<a href="http://www.ifpri.org/2020/focus/focus10/focus10_08.pdf" target="_self">http://www.ifpri.org/2020/focus/focus10/focus10_08.pdf </a></p><p>
+FAO – document technique sur la pêche n° 422: ‘Product certification and eco-labelling for fisheries sustainability’<br/>
+<a href="http://www.fao.org/DOCREP/005/Y2789E/Y2789E00.HTM" target="_self">http://www.fao.org/DOCREP/005/Y2789E/Y2789E00.HTM</a> </p><p>
+Expert consultation on the development of international guidelines for eco-labelling of fish and fishery products from marine capture fisheries, Rome, Italie, 14-17 octobre 2003<br/>
+<a href="http://www.fao.org/fi/meetings/eco-lab/2003/default.asp" target="_self">http://www.fao.org/fi/meetings/eco-lab/2003/default.asp </a></p><p>
+« Evolution of the international regulatory framework governing international trade in fishery products », in Proceedings of the Tenth Conference of the International Institute of Fisheries Economics and Trade, IIFET 2000 ‘Microbehaviours and Macroresults’, 10-14 juillet 2000, Corvallis, Oregon, États-Unis. Ruckes, E.<br/>
+<a href="http://osu.orst.edu/dept/IIFET/2000/papers/ruckes2.pdf" target="_self">http://osu.orst.edu/dept/IIFET/2000/papers/ruckes2.pdf </a></p><p>
+Étude sur le poisson blanc 2007 – AIPCE (Association des industries du poisson de l’UE)<br/>
+<a href="http://www.thefishsite.com/articles/374/white-fish-study-2007" target="_self">http://www.thefishsite.com/articles/374/white-fish-study-2007</a></p><p>
+‘Aquaculture: small, but growing rapidly’, <i>Globefish</i>, février 2007<br/>
+<a href="http://www.globefish.org/index.php?id=3497" target="_self">http://www.globefish.org/index.php?id=3497</a> </p><p>
+Le cas des sardines et l’OMC: Pérou contre UE<br/>
+<a href="http://www.fao.org/worldfoodsummit/english/newsroom/news/7480-en.html" target="_self">http://www.fao.org/worldfoodsummit/english/newsroom/news/7480-en.html </a></p><p>
+Évaluation d’impact ‘Rules of origin in preferential trade arrangements – new rules for the fisheries sector’ (Règles d’origine dans les accords commerciaux préférentiels – nouvelles règles pour le secteur de la pêche)<br/>
+<a href="http://ec.europa.eu/fisheries/publications/studies/fish06_20_en.pdf" target="_self">http://ec.europa.eu/fisheries/publications/studies/fish06_20_en.pdf</a></p><p>
+FAO – 11ème session du Sous-comité sur le commerce du poisson, 2-6 juin 2008<br/>
+<a href="ftp://ftp.fao.org/FI/DOCUMENT/COFI/cofift_11/Default.htm" target="_self">ftp://ftp.fao.org/FI/DOCUMENT/COFI/cofift_11/Default.htm</a></p><p>
+Article scientifique, ‘Barriers to biodiversity conservation in marine fishery certification’, <i>Fish</i> <i>and Fisheries</i>, résumé, Vol. 9, pp. 169–177, 2008<br/>
+<a href="http://www.ingentaconnect.com/content/bsc/faf/2008/00000009/00000002/art00005" target="_self">http://www.ingentaconnect.com/content/bsc/faf/2008/00000009/00000002/art...</a></p><p>
+Séminaire sur l’APE Pacifique-UE, page web DG Commerce<br/>
+<a href="http://ec.europa.eu/trade/issues/bilateral/regions/acp/sem290408_en.htm" target="_self">http://ec.europa.eu/trade/issues/bilateral/regions/acp/sem290408_en.htm</a></p><p>
+‘Doing business in the Pacific’, présentation pour le séminaire sur l’APE Pacifique-UE<br/>
+<a href="http://trade.ec.europa.eu/doclib/docs/2008/june/tradoc_139173.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2008/june/tradoc_139173.pdf</a></p><p>
+Présentations du panel sur la qualité et la traçabilité : enjeux pour les produits de la pêche artisanale en Afrique de l‘Ouest, Sommet des produits de la pêche, Barcelone, janvier 2008 (en français)<br/>
+<a href="http://www.cape-cffa.org/pub_WAFR_fr/Qualit%C3%A9%20et%20tra%C3%A7abilit%C3%A9%20Afrique%20de%20l/%27Ouest%20Seafood%20Barcelone%202008.doc" target="_self">http://www.cape-cffa.org/pub_WAFR_fr/Qualit%C3%A9%20et%20tra%C3%A7abilit...</a></p><p>
+Rapport de réunion, DG Commerce, « Civil society dialogue on preferential rules of origin », 9 octobre 2007<br/>
+<a href="http://trade.ec.europa.eu/doclib/docs/2007/october/tradoc_136503.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2007/october/tradoc_136503.pdf</a></p><p>
+<i>New Zealand Herald</i>, article de presse<br/>
+<a href="http://www.nzherald.co.nz/category/62/story.cfm?c_id=62&amp;objectid=10472812" target="_self">http://www.nzherald.co.nz/category/62/story.cfm?c_id=62&amp;objectid=104...</a></p><p>
+Consultation technique sur les directives internationales pour un commerce du poisson responsable, documents pour la réunion<br/>
+<a href="ftp://ftp.fao.org/FI/DOCUMENT/tc-rft/Default.htm" target="_self">ftp://ftp.fao.org/FI/DOCUMENT/tc-rft/Default.htm</a></p><p>
+Étude OXFAM « Weighing the options », août 2007<br/>
+<a href="http://www.oxfam.org.nz/imgs/whatwedo/mtf/onz_briefing_weighingoptions_jul07.pdf" target="_self">http://www.oxfam.org.nz/imgs/whatwedo/mtf/onz_briefing_weighingoptions_j...</a></p><p>
+Évaluation d’impact « Rules of origin in preferential trade arrangements – new rules for the fisheries sector » (Règles d’origine dans les accords commerciaux préférentiels – nouvelles règles pour le secteur de la pêche)<br/>
+<a href="http://ec.europa.eu/fisheries/publications/studies/fish06_20_en.pdf" target="_self">http://ec.europa.eu/fisheries/publications/studies/fish06_20_en.pdf</a></p><p><b>Sites web utiles </b></p><p>
+NEPAD – Initiative « Poisson pour tous »<br/>
+<a href="http://www.fishforall.org/ffa-summit/africasummit.asp" target="_self">http://www.fishforall.org/ffa-summit/africasummit.asp</a></p><p>
+ATUNA<br/>
+<a href="http://www.atuned.biz/" target="_self">http://www.atuned.biz</a></p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style " addthis:title=" Pêche : accès au marché ; aspects tarifaires et non tarifaires : Note de synthèse">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Peche-acces-au-marche-aspects-tarifaires-et-non-tarifaires-Note-de-synthese" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				</div>
+
+	
+	</div>
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Lire aussi</h3>
+	<div>
+								<p><a href="/fr/Agriculture/Sujets/Acces-au-marche/Note-de-synthese-mise-a-jour-2013-Acces-au-marche">Note de synthèse - mise à jour 2013 : Accès au marché </a></p>
+						<p><a href="/fr/Peche/Sujets/Acces-au-marche/Note-de-synthese-mise-a-jour-2013-Peche-ACP-UE-acces-au-marche-et-commerce">Note de synthèse - mise à jour 2013 : Pêche ACP-UE : accès au marché et commerce </a></p>
+						<p><a href="/fr/Peche/Sujets/Acces-au-marche/Note-de-synthese-mise-a-jour-2012-Peche-ACP-UE-acces-au-marche-et-commerce">Note de synthèse - mise à jour 2012 : Pêche ACP-UE : accès au marché et commerce</a></p>
+						<p><a href="/fr/Peche/Sujets/Acces-au-marche/Peche-acces-au-marche-aspects-tarifaires-et-non-tarifaires-Note-de-synthese"> Pêche : accès au marché ; aspects tarifaires et non tarifaires : Note de synthèse</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+<a id="formstart"></a>
+<div class="separator"></div>
+
+<div class="content-login-box" id="login-box-popup" style="display: none;">
+	<div class="content-login-shadow">
+		<div class="content-login-main">
+			<div class="content-login-main-inner">
+
+					
+						<div style="margin:5px 0 5px 0">
+							Connectez-vous avec votre compte MyAgritrade : 
+						</div>
+
+						<form action="/fr/user/login" method="post">
+							<input type="hidden" name="Anchor" value="#addcomment"/>
+							<table cellpadding="0" cellspacing="0" width="100%">
+								<tr>
+									<td class="login-column-key">MyAgritrade</td>
+									<td class="login-column-value"><input type="text" class="shadow-background login-textfield" name="Login"/></td>
+								</tr>
+								<tr>
+									<td colspan="2" style="height: 5px;"></td>
+								</tr>
+								<tr>
+									<td class="login-column-key">Mot de passe</td>
+									<td class="login-column-value"><input type="password" class="shadow-background login-textfield" name="Password"/></td>
+								</tr>
+							</table>
+							<input type="hidden" name="RedirectURI" value="Peche/Sujets/Acces-au-marche/Peche-acces-au-marche-aspects-tarifaires-et-non-tarifaires-Note-de-synthese"/>
+							<table cellpadding="0" cellspacing="0" width="100%" style="margin-top: 5px;">
+								<tr>
+									<td><a href="/fr/user/forgotpassword">Mot de passe oublié ?</a><br/><a href="/fr/user/register" alt="s'incrire">Pas encore abonné? Inscrivez-vous ! </a></td>
+									<td align="right" valign="top"><input type="submit" class="login-form-button" value="&raquo; login" name="LoginButton"/></td>
+								</tr>
+							</table>
+						</form>
+					
+					<a href="javascript:loginBox();" class="login-box-close">&raquo; Fermer cette fenêtre</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="reaction">
+	<h3>Commenter</h3>
+
+	
+	<a name="addcomment"></a>
+
+	<div class="reaction-thumb">
+		<div>
+			
+									<img class="profile-img" src="/extension/socialize/design/socialize/images/comment/unknown.png" alt=""/>
+				
+					</div>
+	</div>
+
+	<div class="reaction-buttons">
+		<a class="button" href="javascript:loginBox();"><span>
+							Choisir ID
+					</span></a>
+	</div>
+
+
+	<div class="reaction-form">
+
+		<form action="/fr/socialize/create" method="post">
+							<div class="line">
+					<div class="align-input">
+						<input id="reaction-name" type="text" name="Name" value="" class="reaction-input" placeholder="Connectez-vous ou introduisez votre nom"/>
+					</div>
+				</div>
+			
+			<div class="line">
+				<div class="align-input">
+					<input id="reaction-subject" type="text" maxlength="40" name="Subject" value="" class="reaction-input" placeholder="Sujet"/>
+				</div>
+			</div>
+
+			<div class="line">
+				<div class="align-input">
+					<textarea id="reaction-comment" name="Comment" class="reaction-textarea" placeholder="Publier"></textarea>
+				</div>
+			</div>
+
+			<div class="line">
+				<div class="recaptcha">
+															<script type="text/javascript">
+						var RecaptchaTheme='white';
+						var RecaptchaLang='fr';
+						
+
+						var RecaptchaOptions = {
+							theme: RecaptchaTheme,
+							lang: RecaptchaLang
+						};
+						
+					</script>
+					<script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LdSNMMSAAAAADrQ5zWgH1gIPA-HR6iLYmJWVwvw"></script>
+
+	<noscript>
+  		<iframe src="http://api.recaptcha.net/noscript?k=6LdSNMMSAAAAADrQ5zWgH1gIPA-HR6iLYmJWVwvw" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>
+				</div>
+			</div>
+
+		<input type="hidden" value="1364" name="NodeID"/>
+
+		
+						<input type="hidden" value="Peche/Sujets/Acces-au-marche/Peche-acces-au-marche-aspects-tarifaires-et-non-tarifaires-Note-de-synthese" name="RedirectURL"/>
+		
+		<div class="buttons">
+			<input type="submit" value="Ajouter" class="reaction-submit"/>
+		</div>
+
+		</form>
+		<span class="big-red"><a href="/fr/Bienvenue-sur-Agritrade/Notice-legale">Termes et conditions</a></span>
+	</div>
+
+</div>			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				
+
+
+						<!-- center container ] -->
+			</div>
+			
+
+
+				<!-- [ right container -->
+		<div id="rightCntr">
+				
+<!-- login -->
+	<div class="block myagritrade rightsmall">
+		<form action="/fr/user/login" method="post">
+				<h3>S'identifier</h3>
+				<div class="clear"></div>
+				<input type="text" class="field half set_password_user" name="Login" id="id1" value="" placeholder="Nom d'utilisateur"/>
+				<label class="passwordlabel"><span>Mot de passe</span><input type="password" class="field half last set_password" value="" autocomplete="off" name="Password"/></label>
+				<input type="image" alt="Aller" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif"/>
+			<input type="hidden" name="RedirectURI" value=""/>
+		</form>
+
+		<p class="smaller"><a href="/fr/user/forgotpassword">Vous avez oublié votre mot de passe?</a></p>
+
+	</div>
+
+<!-- end login -->
+
+   <div class="block myagritrade rightsmall">
+		<form action="/fr/user/register" method="get">
+				<h3>S'abonner à Agritrade</h3>
+				<input type="text" class="field full" value="" placeholder="Votre adresse email" name="email"/>
+				<input type="image" alt="Aller" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif"/>
+	   </form>
+	</div>
+	<div class="clear"></div>
+						
+<div class="block yellow">
+	<h3>Lire aussi</h3>
+	<div>
+								<p><a href="/fr/Agriculture/Sujets/Acces-au-marche/Note-de-synthese-mise-a-jour-2013-Acces-au-marche">Note de synthèse - mise à jour 2013 : Accès au marché </a></p>
+						<p><a href="/fr/Peche/Sujets/Acces-au-marche/Note-de-synthese-mise-a-jour-2013-Peche-ACP-UE-acces-au-marche-et-commerce">Note de synthèse - mise à jour 2013 : Pêche ACP-UE : accès au marché et commerce </a></p>
+						<p><a href="/fr/Peche/Sujets/Acces-au-marche/Note-de-synthese-mise-a-jour-2012-Peche-ACP-UE-acces-au-marche-et-commerce">Note de synthèse - mise à jour 2012 : Pêche ACP-UE : accès au marché et commerce</a></p>
+						<p><a href="/fr/Peche/Sujets/Acces-au-marche/Peche-acces-au-marche-aspects-tarifaires-et-non-tarifaires-Note-de-synthese"> Pêche : accès au marché ; aspects tarifaires et non tarifaires : Note de synthèse</a></p>
+						</div>
+</div>		</div>
+		<!-- right container ] -->
+		
+		<div style="clear:both;"></div>
+
+
+		</section>
+		<!-- content container ] -->
+
+		<footer class="container">
+
+			<!-- [ bottom container -->
+			<div id="sitemap">
+	<a class="sitemap_toggle closed" href="#">Plan du site</a>
+	<nav>
+		<div class="links agri">
+			<h3>Agriculture</h3>
+			<div class="column">
+				<ul>
+					<li><em>Sujets</em></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Accord-de-l-OMC">Accord de l'OMC</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/APE">APE</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-UE">Accords de libre-échange UE</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP">Accords de libre-échange ACP</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Commerce-regional-ACP">Commerce régional ACP</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Acces-au-marche">Accès au marché</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/SPS-Securite-des-aliments">SPS / Sécurité des aliments</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Differenciation-des-produits">Différenciation des produits</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Reforme-de-la-PAC">Réforme de la PAC</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Biocarburants">Biocarburants</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Changement-climatique">Changement climatique </a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Aide-au-commerce">Aide au commerce </a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Autres">Autres</a></li>
+									</ul>
+			</div>
+
+			<div class="column">
+				<ul>
+					<li><em>Produits de base</em></li>
+
+										<li><a href="/fr/Agriculture/Produits-de-base/General">Général</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Banane">Banane</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Viande-bovine">Viande bovine</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Cacao">Cacao</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Cafe">Café</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Coton">Coton</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Produits-laitiers">Produits laitiers</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Horticulture">Horticulture</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Oleagineux">Oléagineux</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Volaille">Volaille</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Riz">Riz</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Rhum">Rhum</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Sucre">Sucre</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Cereales">Céréales</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/The">Thé</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Autres">Autres</a></li>
+									</ul>
+			</div>
+
+		</div>
+		<div class="links">
+			<h3>Pêche</h3>
+		<ul>
+		
+			<li><a href="/fr/Peche/Sujets/Acces-au-marche">Accès au marché</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/Relations-ACP-UE-APP">Relations ACP-UE ; APP</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE">Politique commune de la pêche de l'UE</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/Accord-de-l-OMC">Accord de l'OMC</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/News-from-the-IOC-region">News from the IOC region</a></li>
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Régions</h3>
+		<ul>
+					
+				<li><a href="/fr/Regions/Globale">Globale</a></li>
+						
+					
+				<li><a href="/fr/Regions/UE">UE</a></li>
+						
+															
+					<li><a href="/fr/Regions/ACP/Surface-transport-slow">Surface transport slow</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Groupe-ACP">Groupe ACP</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Caraibes">Caraïbes</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-Centrale">Afrique Centrale</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-de-l-Est">Afrique de l'Est</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-de-l-Ouest">Afrique de l'Ouest</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Pacifique">Pacifique</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-Australe">Afrique Australe</a></li>
+							
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Publications</h3>
+			<ul>
+			
+				<li><a href="/fr/Publications/Actualites-et-analyses">Actualités et analyses</a></li>
+			
+				<li><a href="/fr/Publications/Newsletter">Newsletter</a></li>
+			
+				<li><a href="/fr/Publications/Notes-de-synthese">Notes de synthèse</a></li>
+			
+				<li><a href="/fr/Publications/Interviews">Interviews</a></li>
+			
+				<li><a href="/fr/Publications/Rapports-a-la-une">Rapports à la une</a></li>
+			
+				<li><a href="/fr/Publications/Compendium">Compendium</a></li>
+						</ul>
+		</div>
+
+
+
+		<div class="links last">
+			<h3>Liens</h3>
+			<ul>
+			
+				<li><a href="http://agritrade.cta.int/en" target="_blank">Agritrade</a></li>
+			
+				<li>My Agritrade</li>
+			
+				<li><a href="http://www.cta.int/en/CTA-Portals" target="_blank">CTA Web Portals</a></li>
+			
+				<li><a href="http://brussels.cta.int/index.php" target="_blank">CTA Brussels Office Weblog</a></li>
+			
+				<li>ARD WebRing</li>
+			
+				<li><a href="http://spore.cta.int/" target="_blank">Spore </a></li>
+			
+				<li><a href="http://ictupdate.cta.int/" target="_blank">ICT Update</a></li>
+			
+				<li><a href="http://knowledge.cta.int/" target="_blank">Knowledge for Development</a></li>
+			
+			</ul>
+		</div>
+	</nav>
+</div>
+
+
+
+			<!-- bottom container ] -->
+
+			<!-- [ footer container -->
+			<div id="footer">
+				<div class="footerleft">
+					<div class="icon_left">
+						<img src="/extension/agritrade/design/agritrade/images/icon1.gif" alt=""/>
+					</div>
+
+					<div class="text_center">
+						
+																					
+
+	<div class="block custom ">
+
+		
+		<p>Le CTA est une institution du Groupe des Etats ACP (Afrique, Caraïbes et Pacifique) et de l'Union Européenne, dans le cadre de l'Accord de Cotonou. Le CTA est financé par l'UE.
+
+		
+		</p>
+
+	</div>													
+					</div>
+
+					<div class="icon_right">
+						<img src="/extension/agritrade/design/agritrade/images/icon2.gif" alt=""/>
+					</div>
+				</div>
+
+				<div class="footerright">
+											
+
+	<div class="block links">
+		
+									<p><a href="/fr/Bienvenue-sur-Agritrade" target="_blank">À propos et Contact</a></p>
+												<p><a href="/fr/Bienvenue-sur-Agritrade/Notice-legale">Notice légale </a></p>
+					
+	</div>
+											
+
+	<div class="block custom ">
+
+		
+		<p>Centre Technique de Coopération Agricole et Rurale (CTA) (ACP-UE Accord de Cotonou) Droit d'auteur CTA © 2011
+
+		
+		</p>
+
+	</div>									</div>
+
+			</div>
+			<!-- footer container ] -->
+
+		</footer>
+
+	</div>
+	<!-- main container ] -->
+
+</div>
+<!-- wrapper ] -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-724238-5";
+urchinTracker();
+</script>
+
+
+
+<script type="text/javascript">
+  var _sf_async_config = { uid: 39651, domain: 'agritrade.cta.int' };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+        "js/chartbeat.js");
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":1698,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

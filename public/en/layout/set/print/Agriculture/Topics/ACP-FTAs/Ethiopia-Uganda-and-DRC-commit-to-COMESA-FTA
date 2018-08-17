@@ -1,0 +1,224 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Ethiopia, Uganda and DRC commit to COMESA FTA / ACP - FTAs / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7771/(search)/simple">Central Africa</a>
+																																																																																																			,
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																																																																																																																																			,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+							
+																																																																																																		,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7815/(search)/simple">ACP - FTAs</a>
+							
+																																																																																																																																																																																																																									
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Ethiopia, Uganda and DRC commit to COMESA FTA</h1>
+
+			
+			<h4>
+												03 August 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>In March 2014, Ethiopia and Uganda both announced that they were committed to depositing their instruments of access to the COMESA FTA with the COMESA Secretariat by December 2014. This followed a similar commitment from the DRC. Analysts believe that Ethiopian accession may reduce the level of protection in place against imports from COMESA FTA members.</p><p>Currently, the COMESA FTA includes: Burundi; Comoros; Djibouti; Egypt; Kenya; Madagascar; Malawi; Mauritius, Rwanda; Seychelles; Sudan (North); Zambia; and Zimbabwe. COMESA members that are not a party to the FTA include: DRC; Eritrea; Ethiopia; South Sudan; Swaziland; and Uganda.</p><p>According to press reports, the government of Ethiopia recently “introduced price curbs to tame runaway inflation, triggering protest among COMESA partners such as Kenya who favour free market policy”. This is seen in Kenya as symptomatic of long-running trade restrictions introduced on Kenyan exports to Ethiopia, despite a commitment to establishing a COMESA Simplified Trade Regime (STR) arrangement between the two countries. This has resulted in the Kenyan government calling on the COMESA Secretariat to arbitrate, in order to ensure that the Ethiopian government increasingly abides by COMESA-based trade arrangements.</p><p>Meanwhile, reports at the beginning of 2014 indicated that progress towards the establishment of the tripartite FTA was on track, and that considerable progress had. The initial stages of negotiations, related to exchanging information and establishing the trade data basis for tariff reductions, have been completed. The process of negotiation of tariff liberalisation commitments, rules of origin, customs procedures, simplification of customs documents, transit procedures, non-tariff measures, technical barriers to trade, trade remedies and dispute settlement is now underway. Negotiations on trade in services and trade-related areas have yet to be initiated. The aim is to establish a single COMESA–EAC–SADC FTA by 2016, building on the FTAs that are already in place.</p><p>The press analysis recognises that “less prepared nations are at risk of being swallowed economically by more powerful nations, as their local industries would suffer from the stiff competition from more rival firms in an open market.” This will require companies in countries potentially adversely affected to set in place measures to enhance their competitiveness before the entry into force of any tripartite FTA.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p class=" text-LEFT"><i>The East African</i>, ‘Uganda Ethiopia to join Comesa free trade area’, 3 March 2014</p><p class=" text-LEFT">
+<a href="http://www.theeastafrican.co.ke/news/Uganda-and-Ethiopia-to-join-Comesa-free-trade-area/-/2558/2230370/-/y2wrj0/-/index.html" target="_self">http://www.theeastafrican.co.ke/news/Uganda-and-Ethiopia-to-join-Comesa-...</a></p><p class=" text-LEFT">Southern African Research and Documentation Centre, ‘Tripartite free trade area to become a reality’, 8 January 2014</p><p class=" text-LEFT">
+<a href="http://www.sardc.net/editorial/newsfeature/14010114.htm" target="_self">http://www.sardc.net/editorial/newsfeature/14010114.htm</a></p><p class=" text-LEFT">Mauritius Chamber of Commerce and Industry, ‘The COMESA Free Trade Area’, web page, undated</p><p class=" text-LEFT">
+<a href="http://www.mcci.org/trade_agreements_comesa.aspx" target="_self">http://www.mcci.org/trade_agreements_comesa.aspx</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p class=" text-JUSTIFY">The difficulties facing Kenyan exporters in exporting to Ethiopia under the COMESA Simplified Trade Regime highlight the difficulties that will be faced in carrying through regional trade liberalisation commitments, given the wide divergence of agricultural policy frameworks and associated trade measures implemented by COMESA members. In some instances, domestic policy framework effectively insulates national producers from regional market trends and influences (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Cereals/Strengthening-supply-chains-could-boost-cereals-production-in-Ethiopia" target="_blank">Strengthening supply chains could boost cereals production in Ethiopia</a>’, 26 May 2013).</p><p class=" text-JUSTIFY">This is not solely a problem between Kenya and Ethiopia. Divergent ‘on–off’ use of trade policy measures, such as import and export bans, highlight the extent of the difficulties that will be faced in moving forward with the implementation of intra-regional trade policy commitments in the highly sensitive agro-food sector (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/The-intra-regional-trade-consequences-of-import-and-export-restrictions" target="_blank">The intra-regional trade consequences of import and export restrictions</a>’, 4 August 2014).</p><p class=" text-JUSTIFY">Concrete sustainable benefits may well be most easily attained if, at the sector level, private sector associations are brought into discussions on the specific modalities for liberalising trade in particular product areas (e.g. the Eastern Africa Grain Council for trade in cereals and cereal products). This, alongside improved regional market information systems, would allow national sensitivities to be accommodated, while at the same time establishing a more transparent framework for the promotion of intra-regional trade.</p><p class=" text-JUSTIFY">Such initiatives may offer a pragmatic way forward, in view of the discrepancies between commitments and operational practice within existing trade arrangements and the extent to which the tripartite FTA process seeks to build on FTAs that are already in place.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/Africa-s-tripartite-free-trade-area-set-for-launch-in-June">Africa's tripartite free trade area set for launch in June</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/Maize-value-chain-Zimbabwe-Government-Issues-Interim-Maize-Import-Permits">Maize value chain/Zimbabwe - Government Issues Interim Maize Import Permits</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/Tripartite-free-trade-area-in-Africa-to-launch-in-May-AU-official">Tripartite free trade area in Africa to launch in May: AU official</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Approvals-delay-EAC-double-taxation-law">Approvals delay EAC double taxation law</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/Angola-announces-import-quotas-on-food-and-non-food-products">Angola announces import quotas on food and non-food products</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":160,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

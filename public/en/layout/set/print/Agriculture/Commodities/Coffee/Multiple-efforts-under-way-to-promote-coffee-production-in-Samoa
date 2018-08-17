@@ -1,0 +1,231 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Multiple efforts under way to promote coffee production in Samoa / Coffee / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																
+								<a href="/en/layout/set/print/Publications/(regions)/7774/(search)/simple">Pacific</a>
+																																																										
+																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7799/(search)/simple">Coffee</a>
+							
+																																																																																																																																																																																																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Multiple efforts under way to promote coffee production in Samoa</h1>
+
+			
+			<h4>
+												08 October 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>While coffee has been grown in Samoa since the 1930s, the robusta coffee beans produced are not up to standards expected in the market. Productivity is also low, given the vulnerability to disease of the varieties used. However, the climate in Samoa is considered ‘perfect for growing …coffee’, and the country is seen to have ‘huge potential’ for coffee production.</p><p>In June 2012, the ICO said that while there were short-term fears of oversupply (with a projected production of 131.9 million bags in 2011–12), world coffee consumption may grow by 23% by 2020, based on the annual 2.5% growth rate achieved), indicating an expanding global demand based on rapid growth in emerging markets (4.3% per annum since 2000) .</p><p>Given the country’s potential and the global demand trends, a number of initiatives are in progress to support coffee sector development in Samoa. These include:</p>
+<ul>
+
+<li>efforts to mobilise Australian government support, following expressions of concerns over rising global coffee demand by an Australian coffee company;</li>
+
+<li>a seedlings programme financed by the Australian government aimed at introducing improved arabica varieties </li>
+
+<li>an NGO-supported initiative to strengthen both the production and marketing of coffee. </li>
+
+</ul>
+<p>Since 2007, an initiative by Women in Business Development (WIBD) has been seeking both to introduce new arabica varieties to some 300 smallholder organic coffee farmers and to develop direct sales arrangement with C1 Espresso, a New Zealand coffee house chain. Local families are also receiving training in production, processing and packaging.</p><p>Meanwhile, Commerzbank reported in June 2012 that ‘the sharp fall in the price of arabica coffee’, which has been under way since autumn 2011, ‘may have come to an end’, with weather damage in South America likely to boost prices. This follows coffee prices reaching a 2-year low in mid June 2012 (for more details on current trends in global coffee prices see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Poor-start-to-Brazilian-coffee-crop-prompts-price-recovery" target="_blank">Poor start to Brazilian coffee crop prompts price recovery</a>’, 8 October 2012). Global coffee prices are highly volatile, with clear marketing strategies for differentiated coffee seen as a key to sustainable production.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>Radio Australia, ‘Australia urged to divert aid to Samoan coffee’, 25 June 2012</p><p>
+<a href="http://www.abc.net.au/news/2012-06-25/an-australia-urged-to-aid-samoan-coffee/4090038" target="_self">http://www.abc.net.au/news/2012-06-25/an-australia-urged-to-aid-samoan-c...</a></p><p><i>World Coffee News</i>, ‘Australia to help with Samoan coffee plants’, 27 June 2012</p><p>
+<a href="http://www.worldcoffeenews.com/3357/australia-to-help-with-samoan-coffee-plants/" target="_self">http://www.worldcoffeenews.com/3357/australia-to-help-with-samoan-coffee...</a></p><p>Women in Business Development, ‘Kofe Samoa’, web page, undated</p><p>
+<a href="http://www.womeninbusiness.ws/coffee.html" target="_self">http://www.womeninbusiness.ws/coffee.html</a></p><p><i>Savalinews.com</i>, ‘Coffee, cocoa on the comeback’, 15 February 2011</p><p>
+<a href="http://www.savalinews.com/2011/02/15/coffee-cocoa-on-the-comeback/" target="_self">http://www.savalinews.com/2011/02/15/coffee-cocoa-on-the-comeback/</a></p><p><i>Agrimoney.com</i>, ‘Commerzbank joins upbeat chorus on arabica futures’, 28 June 2012</p><p>
+<a href="http://www.agrimoney.com/news/commerzbank-joins-upbeat-chorus-on-arabica-futures--4694.html" target="_self">http://www.agrimoney.com/news/commerzbank-joins-upbeat-chorus-on-arabica...</a></p><p><i>Agrimoney.com</i>, ‘World coffee consumption “may soar 25% by 2020”’, 14 June 2012</p><p>
+<a href="http://www.agrimoney.com/news/world-coffee-consumption-may-soar-25percent-by-2020--4638.html" target="_self">http://www.agrimoney.com/news/world-coffee-consumption-may-soar-25percen...</a></p><p><i>Agrimoney.com</i>, ‘Coffee prices “highly vulnerable” to price spike’, 11 May 2012</p><p>
+<a href="http://www.agrimoney.com/news/coffee-prices-highly-vulnerable-to-price-spike--4512.html" target="_self">http://www.agrimoney.com/news/coffee-prices-highly-vulnerable-to-price-s...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Plans to revive an old industry, but with some fundamental changes in order to take advantage of specific market opportunities, are likely to prove successful in Samoa, given the package of support measures being set in place to address issues along the whole of the supply chain. These range from government-supported distribution of improved varieties and pilot schemes supported by the private sector, to training in production, processing and packaging, and the establishment of direct marketing arrangements. Government, official donor, NGO and private sector contributions are all being mobilised to address specific challenges, including developing and strengthening direct marketing arrangements.</p><p>This is, however, a complex process, with some official assistance being linked to macro-economic objectives, such as increasing the level of national debt repayments, drawing on expanded export earnings and reducing unemployment in rural areas. The involvement of NGOs, such as the WIBD initiative, allows experience gained in other sectors to be mobilised (e.g. in the development of organic and virgin coconut oil exports) in order to strengthen access to micro-financing and help establish direct trade relationships. The establishment of such direct trade relationships (e.g. with C1 Espresso) is particularly important in dealing with market price volatility. However, this requires ongoing dialogue to proactively deal with the problems which may emerge within any such exclusive supply relationship (e.g. regarding delivery schedules, quality, etc).&nbsp;</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Constraints-on-product-differentiation-in-the-Pacific">Constraints on product differentiation in the Pacific </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Multiple-efforts-under-way-to-promote-coffee-production-in-Samoa">Multiple efforts under way to promote coffee production in Samoa</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/PNG-coffee-production-set-to-grow-while-Fijian-wild-coffee-shows-potential">PNG coffee production set to grow, while Fijian wild coffee shows potential </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/High-coffee-prices-expected-to-endure-throughout-2011">High coffee prices expected to endure throughout 2011</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Few-ACP-countries-benefit-from-coffee-price-surge">Few ACP countries benefit from coffee price surge</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":143,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

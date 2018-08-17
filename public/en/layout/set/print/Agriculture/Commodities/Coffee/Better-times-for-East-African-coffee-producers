@@ -1,0 +1,269 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Better times for East African coffee producers  / Coffee / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																														
+																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7799/(search)/simple">Coffee</a>
+							
+																																																																																																																																																																																																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Better times for East African coffee producers </h1>
+
+			
+			<h4>
+												18 March 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>According to the International Coffee Organization (ICO), progress in the development of coffee production in Ethiopia has taken projected production for 2011/12 to 9.8 million bags, making Ethiopia ‘the world’s third largest producer after Brazil and Vietnam’. Ethiopian production has doubled in three seasons, stimulated by high prices, which has encouraged investment in the sector. Coffee now accounts for 40% of Ethiopian exports. Ethiopia grows mainly arabica coffee.</p><p><b>Green coffee production (2007–2011 60-kg bags)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="155" valign="top">  &nbsp;
+  </td><td width="155" valign="top">  <b>Ethiopia</b>
+  </td><td width="155" valign="top">  <b>Rwanda</b>
+  </td><td width="155" valign="top">  <b>Tanzania</b>
+  </td>
+</tr>
+
+<tr>
+<td width="155" valign="top">  2007
+  </td><td width="155" valign="top">  4,036,000
+  </td><td width="155" valign="top">  400,000
+  </td><td width="155" valign="top">  515,000
+  </td>
+</tr>
+
+<tr>
+<td width="155" valign="top">  2008
+  </td><td width="155" valign="top">  3,906,000
+  </td><td width="155" valign="top">  230,000
+  </td><td width="155" valign="top">  525,000
+  </td>
+</tr>
+
+<tr>
+<td width="155" valign="top">  2009
+  </td><td width="155" valign="top">  3,650,000
+  </td><td width="155" valign="top">  340,000
+  </td><td width="155" valign="top">  700,000
+  </td>
+</tr>
+
+<tr>
+<td width="155" valign="top">  2010
+  </td><td width="155" valign="top">  4,000,000
+  </td><td width="155" valign="top">  240,000
+  </td><td width="155" valign="top">  620,000
+  </td>
+</tr>
+
+<tr>
+<td width="155" valign="top">  2011
+  </td><td width="155" valign="top">  4,400,000
+  </td><td width="155" valign="top">  317,000
+  </td><td width="155" valign="top">  640,000
+  </td>
+</tr>
+
+</table>
+<p>Sources: USDA:</p><p>Ethiopia: 
+<a href="http://www.indexmundi.com/agriculture/?country=et&amp;commodity=green-coffee&amp;graph=arabica-production" target="_self">http://www.indexmundi.com/agriculture/?country=et&amp;commodity=green-co...</a></p><p>Rwanda: 
+<a href="http://www.indexmundi.com/agriculture/?country=rw&amp;commodity=green-coffee&amp;graph=arabica-production" target="_self">http://www.indexmundi.com/agriculture/?country=rw&amp;commodity=green-co...</a></p><p>Tanzania: 
+<a href="http://www.indexmundi.com/agriculture/?country=tz&amp;commodity=green-coffee&amp;graph=arabica-production" target="_self">http://www.indexmundi.com/agriculture/?country=tz&amp;commodity=green-co...</a></p><p>Elsewhere in the region, according to press reports, Rwandan exports of roasted coffee are beginning to penetrate the Chinese market, in addition to the recent success in Japan and good prospects for developing exports to South Korea. The National Agricultural Export Board (NAEB) is assisting Rwandan coffee farmers in increasing coffee production, through land consolidation, the rehabilitation of coffee trees, the promotion of better farmer organisation and enhancing the functioning of the supply chain by ‘bringing together the traders and processors and exporters’. NAEB is also seeking to develop value addition through the establishment of coffee factories.</p><p>In Tanzania, five newly developed coffee seed varieties are to be made available to farmers in the northern region in an effort to revive the sector. The new varieties are reported to be able to ‘withstand harsh climate conditions, resist diseases as well as take shorter period for their fruits to ripen’. It is hoped that this will provide an immediate boost to Tanzanian coffee production.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Agrimoney.com</i>, ‘Ethiopia coffee bonanza lifts world output hopes’, 16 January 2012</p><p>
+<a href="http://www.agrimoney.com/news/ethiopian-coffee-bonanza-lifts-world-output-hopes--4051.html" target="_self">http://www.agrimoney.com/news/ethiopian-coffee-bonanza-lifts-world-outpu...</a></p><p><i>New Times</i> (Kigali), ‘Farmers to reap big as Rwandan coffee penetrates Asian market’, 15 December 2011</p><p>
+<a href="http://allafrica.com/stories/201112150357.html" target="_self">http://allafrica.com/stories/201112150357.html</a></p><p><i>Arusha Times</i>, ‘New coffee seed varieties revive farmers’ hopes’, 21 January 2012</p><p>
+<a href="http://allafrica.com/stories/201201230672.html" target="_self">http://allafrica.com/stories/201201230672.html</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>No sooner had word got around about Ethiopia’s outstanding production performance, when the ICO in its February monthly update cut its forecast for Ethiopia’s crop as adverse weather capped production. The Ethiopian authorities reduced their production estimate by 15% (from 9.8 to 8.3 million bags), with other sources suggesting even larger cuts in likely production. In addition, export levels were in trouble.</p><p>Total exports in the first half of 2011/12 are pegged at 952,980 bags of 60 kg, down from the 1.58 million bags exported during the same period a year ago. By the end of January, only 20% of the 270,000 tonnes quarterly exports planned had taken place. While an urgent meeting was called by the Minister of Trade with the Ethiopian Coffee Exporters Association and the Ethiopian Commodity Exchange Authority, no explanation could be found for this drop in exports.</p><p>Industry observers blame turmoil following allegations in 2011 by the federal authorities of hoarding by exporters and a failure to honour export contracts. In October 2011, the Ministry had banned 41 exporters for hoarding coffee, while a further 57 exporters were suspended.</p><p>Another explanation offered is the impact of the authorities’ decisions to compel exporters to ship coffee in containers, even though no appropriate silo facilities are held to exist in the ports. Some industry players maintain that this is impractical, since the differentiated coffee types – of which there are more than two dozen – should not be mixed in containers and silos.</p><p>There is also controversy over price differences, between what the international market offers and what exporters are asked to pay at the Ethiopian Commodity Exchange. The growth potential in the Chinese coffee market, which Rwanda is seeking to tap into, is enormous. Current average consumption is 3 cups per person per year, compared to a global average of 240 cups. Between 2003 and 2008 Chinese consumption grew at 15% per annum, with a 25% growth in specialist coffee shops between 2008 and 2010. However there is likely to be competition from domestic Chinese production. This may also give rise to tariff barriers, unless China joins international moves towards extending full tariff preferences to LDCs along the lines of the ‘Everything But Arms’ scheme.</p><p>Better auction prices in Tanzania may encourage the take up of new coffee varieties, given the improved commercial prospects for growers. With only 30% of the land area potentially suitable for coffee production already being exploited, there is considerable scope for the expansion of the Tanzanian coffee sector, despite current production difficulties (production is expected to fall to 45,000 tonnes from 56,247 tonnes in the previous season). If proper marketing arrangements are set in place, this could bring significant benefits to the 5% of the Tanzanian population that lives off the coffee sector. Indeed across the region there is need for innovation in both production and marketing of the crop in order to avoid challenges posed by international price instability. If issues around the management of price volatility are not addressed, this could undermine prospects for the sustainable development of production. Greater product quality-based differentiation, better marketing and strengthening the functioning of coffee supply chains could all serve to contribute to more stable and remunerative producer prices.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Coffee-sector-s-important-contribution-to-household-food-security-potentially-undermined-by-price-volatility">Coffee sector’s important contribution to household food security potentially undermined by price volatility</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Ethiopian-coffee-sector-caught-out-by-declining-global-prices-in-2013-14">Ethiopian coffee sector caught out by declining global prices in 2013/14</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Investment-in-storage-reduces-vulnerability-of-Rwandan-coffee-sector-to-global-price-volatility">Investment in storage reduces vulnerability of Rwandan coffee sector to global price volatility </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Improving-global-prices-could-boost-East-African-coffee-sector-development">Improving global prices could boost East African coffee sector development</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Falling-arabica-coffee-prices-could-boost-demand-from-coffee-blenders-in-emerging-markets">Falling arabica coffee prices could boost demand from coffee blenders in emerging markets </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":151,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

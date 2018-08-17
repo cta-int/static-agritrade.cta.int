@@ -1,0 +1,261 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Agreement on a mini-deal reached in Bali   / WTO / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																										
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																																																																																			,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+							
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7812/(search)/simple">WTO</a>
+							
+																																																																																																																																																																																																																																																																																											
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Agreement on a mini-deal reached in Bali  </h1>
+
+			
+			<h4>
+												10 December 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The agreement reached at the Ninth WTO Ministerial meeting in Bali includes a range of decisions and declarations potentially impacting on ACP agricultural sectors. These include:</p>
+<ul>
+
+<li><b>duty-free quota-free (DFQF) market access for least-developed countries (LDCs):</b> a Ministerial decision involving a commitment to improve DFQF access for LDC exporters for “at least 97% of products originating from LDCs”, but with these being “best endeavour” provisions, with no specific timetable; </li>
+
+<li><b>preferential rules of origin for LDCs:</b> a Ministerial decision whereby WTO members undertook to endeavour to improve rules of origin in ways that enable LDCs to take advantage of available preferences;</li>
+
+</ul>
+
+<ul>
+
+<li><b>cotton: </b>a Ministerial decision that limited commitments to enhancing transparency and monitoring of the trade-related aspects of cotton, as well as monitoring cotton-related development assistance provisions; </li>
+
+<li><b>understanding on tariff-rate quota administration provisions of agricultural products:</b> a Ministerial decision that committed governments to addressing issues of quota under-fill through simplification of procedures, including exploring whether economic operators that are unable to utilise quota allocations “would be prepared to make them available to other potential users”; </li>
+
+<li><b>export competition: </b>a Ministerial declaration acknowledging the importance of the issue, but regretting that no agreement could be reached in 2013 on how to eliminate export subsidies and equivalent measures; </li>
+
+<li><b>public stockholdings for food security purposes:</b> a Ministerial decision that found a compromise wording, making the “Peace Clause” secure until a permanent solution has been agreed and adopted at the Eleventh WTO Ministerial Conference. The decision includes a commitment from developing countries to “ensure that stocks procured under such programmes do not distort trade or adversely affect the food security of other Members”; </li>
+
+<li><b>agreement on trade facilitation:</b> a comprehensive Ministerial decision that includes detailed provisions for the application of special and differential treatment to the implementation of trade facilitation commitments by developing and least-developed countries, based on their developing and acquiring the necessary implementation capacities; </li>
+
+<li><b>monitoring mechanism on special and differential treatment:</b> a ministerial decision that avoided any wider agreement on special and differential treatment, given “the complexities that emerged in revisiting the decade-old proposals”. </li>
+
+</ul>
+<p>The agreement reached in Bali was thus a subset of issues under negotiation as part of the wider Doha Development Round.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>WTO, ‘Duty-free and quota-free (DFQF) market access for least-developed countries: Draft Ministerial decision’, WT/MIN(13)/W/16, 5 December 2013</p><p>
+<a href="https://mc9.wto.org/system/files/documents/w16.pdf" target="_self">https://mc9.wto.org/system/files/documents/w16.pdf</a></p><p>WTO, ‘Preferential rules of origin for least-developed countries: Draft Ministerial decision’, WT/MIN(13)/W/14, 5 December 2013</p><p>
+<a href="https://mc9.wto.org/system/files/documents/w14.pdf" target="_self">https://mc9.wto.org/system/files/documents/w14.pdf</a></p><p>WTO, ‘Cotton: Draft Ministerial decision’, WT/MIN(13)/W/13, 6 December 2013</p><p>
+<a href="https://mc9.wto.org/system/files/documents/w13_0.pdf" target="_self">https://mc9.wto.org/system/files/documents/w13_0.pdf</a></p><p>WTO, ‘Understanding on tariff-rate quota administration provisions of agricultural products, as defined in Article 2 of the Agreement on Agriculture: Draft Ministerial decision’, WT/MIN(13)/W/11, 6 December 2013</p><p>
+<a href="https://mc9.wto.org/system/files/documents/w11_1.pdf" target="_self">https://mc9.wto.org/system/files/documents/w11_1.pdf</a></p><p>WTO, ‘Export competition: Draft Ministerial decision’, WT/MIN(13)/W/12, 6 December 2013</p><p>
+<a href="https://mc9.wto.org/system/files/documents/w12_1.pdf" target="_self">https://mc9.wto.org/system/files/documents/w12_1.pdf</a></p><p>WTO, ‘Public stockholdings for food security purposes: Draft Ministerial decision’, WT/MIN (13)/W/10, 6 December 2013</p><p>
+<a href="https://mc9.wto.org/system/files/documents/w10_1.pdf" target="_self">https://mc9.wto.org/system/files/documents/w10_1.pdf</a></p><p>WTO, ‘Agreement on trade facilitation: Draft Ministerial decision’, WT/MIN(13)/W/8, 6 December 2013</p><p>
+<a href="https://mc9.wto.org/system/files/documents/w8_0.pdf" target="_self">https://mc9.wto.org/system/files/documents/w8_0.pdf</a></p><p>WTO, ‘Monitoring mechanisms on special and differential treatment: Draft Ministerial decision’, WT/MIN(13)/W/17, 5 December 2013</p><p>
+<a href="https://mc9.wto.org/system/files/documents/w17.pdf" target="_self">https://mc9.wto.org/system/files/documents/w17.pdf</a></p><p>ICTSD, ‘Special and differential treatment: ensuring flexibilities for developing countries’, <i>Bridges Africa</i>, 28 November 2013</p><p>
+<a href="http://ictsd.org/i/news/bridges-africa/180119/" target="_self">http://ictsd.org/i/news/bridges-africa/180119/</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>These decisions and declarations which came out of the Ninth WTO Ministerial Conference need to be seen in the light of the aspirations and expectations that ACP/LDC governments had in the run-up to the meeting.</p><p>In a number of these areas, ACP/LDC governments had been seeking binding commitments, specifically with regard to:</p>
+<ul>
+
+<li>full DFQF access; </li>
+
+<li>the rules of origin to be applied to LDCs; </li>
+
+<li>the long-standing request for cotton sector trade distortions to be addressed; </li>
+
+<li>the elimination of export subsidies and equivalent measures. </li>
+
+</ul>
+<p>In the run-up to Bali, it became clear that no binding commitments would be made in these areas, with “best endeavour” commitments being the most likely outcome. This proved to be the case.</p><p>Equally, in the preparatory period before the conference, it became apparent that a comprehensive operationalisation of special and differential treatment would not be up for discussion. However, under the trade facilitation provisions, a number of aspects of the special and differential treatment (SDT) that were agreed potentially provide a basis on which ACP/LDC countries can build in seeking a generalised application of the SDT principle across the wider ambit of WTO rules.</p><p>The commitments on tariff-rate quota (TRQ) administration in certain specific areas could intensify competition for very specific ACP export products (e.g. naturally raised, quality-differentiated beef exports from Namibia). However, it is unclear to what extent existing TRQ ‘under-fill’ in the beef sector is a result of TRQ administration procedures rather than a failure by the potential exporter to comply with EU SPS and food safety requirements.</p><p>In terms of agreement on public stockholdings for food security purposes, concerns potentially arise in the rice sector over the global market effects of, for example, Indian support measures. In an ACP context, this needs to be seen in the light of Guyana’s quest for favourably priced markets for its expanding rice production, and West African efforts to promote greater national rice sector self-sufficiency.</p><p>Against this background, it may well be necessary to monitor the use of the provisions on public stockholdings for food security purposes and their effect on global markets that are of export interest to ACP suppliers. (For more details on all these issues, see <i>Agritrade</i> Special Report, ‘
+<a href="/en/layout/set/print/Agriculture/Topics/WTO/ACP-aspirations-and-expectations-and-the-outcome-of-the-Ninth-WTO-Bali-Ministerial-Conference" target="_blank">ACP aspirations and expectations and the outcome of the Ninth WTO Minist...</a>’, 11 December 2013).</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/The-WTO-and-animal-welfare-related-trade-restrictions">The WTO and animal welfare-related trade restrictions</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Cairns-Group-presents-paper-on-total-trade-distorting-support">Cairns Group presents paper on ‘total trade-distorting support’</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Outlook-for-Doha-still-uncertain-after-Bali">Outlook for Doha still uncertain after Bali</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Agreement-on-a-mini-deal-reached-in-Bali">Agreement on a mini-deal reached in Bali  </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Calls-for-a-right-to-development-and-a-right-to-trade-to-be-enshrined-in-WTO-rules">Calls for ‘a right to development’ and ‘a right to trade’ to be enshrined in WTO rules</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":133,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

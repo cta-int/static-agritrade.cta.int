@@ -1,0 +1,240 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Tereos - corporate profile / Sugar / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																													
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																																																																																																																																																																																																																									
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Tereos - corporate profile</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/272876/3290552/file/0e10690ad210792d1b2d7d0b4957265e.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+												23 July 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc3290519_0_1" id="eztoc3290519_0_1"></a><h3>Ownership structure</h3><p>Tereos, a cooperative owned by 12,000 French sugar beet producers, came into being following a period of consolidation among sugar farming cooperatives, culminating in the merger of two major cooperatives, USDA and UBS, which took 60% and 40% respectively of the voting rights. The name Tereos was adopted in 2003.</p><p>In terms of its management structure, “Tereos is overseen by a Supervisory Board, responsible for mapping out the Group's strategies, and by an Executive Board, which ensure that the interests of the various cooperative growers are respected.” The cooperative statutes of Tereos reportedly oblige the company to “ensure the industrial and commercial extension of its cooperative members' operations, to improve their profitability and thus contribute to the sustainability of their agricultural businesses”. (1)</p><p>In the sugar sector, Tereos farmers enjoy the benefits of:</p>
+<ul>
+
+<li>a contracted price;</li>
+
+<li>an additional amount fixed by the inter-professional agreement; and </li>
+
+<li>a dividend indexed to the company’s performance. (1) </li>
+
+</ul>
+<p>With sugar beet and cereals being complementary crops, which are rotated in order to enhance yields, Tereos has a dual focus, serving both its 12,000 farmer/shareholders and some 40,000 cereal producers, grouped into associated cooperatives farming some 460,000 ha. This dual focus leaves Tereos well placed to serve the needs of its ‘mixed’ farming owners.</p><p>Cereal operations are grouped together under Tereos-Syral, which operates nine production plants in five EU member states, producing a range of cereal-based products. As a result, Tereos has become the third largest producer of starch-based products in Europe and the second largest producer of starch-based sweeteners and wheat proteins. Tereos-Syral also operates a cereals processing plant in Brazil.</p><p>According to the company’s website, Tereos is also the largest distributor of ethanol and alcohol in Europe.</p><p>As a result of Tereos’ global interests in cane sugar production and the cereals sector, sugar beet production now accounts for less than 25% of the total area farmed by Tereos’ affiliated farming cooperatives and companies.</p><a name="eztoc3290519_0_2" id="eztoc3290519_0_2"></a><h3>Global reach</h3><p>In the early 2000s, Tereos began investing extensively in Brazil through a joint venture with the Brazilian company Cosun and the French trader Sucden. Following its initial investments in 2011, Tereos launched a €330 million investment programme to increase its production capacity in Brazil. Between 2003–04 and 2013–14, cane processing capacity increased from 3.8 million tonnes to around 20 million tonnes (2). According to ISO, the total sugar output of the Tereos operations in Brazil is around 1,235,000 tonnes. (3)</p><p>In 2010, Brazilian and other investments outside the EU were grouped together in Tereos Internacional, which is registered in Brazil. The company website notes that “Tereos Internacional… combines Tereos EU (European grain assets and Indian Ocean sugar cane assets) and Guarani (Brazilian sugar cane assets).” (4) In 2010, Tereos also launched a partnership with Petrobras with the aim of consolidating its position in the ethanol market and reducing its dependency on the sugar market. Tereos Internacional’s operations make it the third largest sugar producer and sixth largest ethanol producer in Brazil. Tereos Internacional is also a significant generator of electricity for its own use and for sale to the grid.</p><p>For the farmers’ cooperative Tereos, Tereos Internacional is set up as a “profit-making centre”. (1) In terms of the revenues of Tereos Internacional (which includes the sugar operations in Brazil), processing of cereal and tubers accounts for 60.5% of consolidated revenues. Sugar cane-related operations in Brazil, in contrast, account for 27.2% of consolidated revenues, while operations in Reunion and Mozambique account for 12.3%. Given its presence in Brazil, Tereos is well placed to benefit from full liberalisation of the EU sugar trade regime.</p><p>In the cereals sector, Tereos Internacional launched a partnership for starch production with the Wilmar group in China in 2012. (5) In addition, in January 2014 it was announced that Tereos Internacional was to establish a presence in Indonesia through the purchase of a 50% share in Redwood Industries, in partnership with the FKS Group, “one of the leading agro-industrial groups in Indonesia”. (6) While Redwood Industries is a starch processing company, the co-owner, FKS Group, has a strong position in both the cereals and sugar sectors.</p><p>Since 2011, more than 70% of Tereos’ turnover has been generated outside France.</p><a name="eztoc3290519_0_3" id="eztoc3290519_0_3"></a><h3>Installed EU production capacity</h3><p>The imminence of EU sugar sector reforms has encouraged Tereos to diversify geographically. The process commenced relatively early, after the failure of the proposals to reform the EU sugar sector in 2000 and the subsequent adoption in 2001 of the ‘Everything but Arms’ (EBA) initiative. The phased introduction of duty-free access for least-developed country (LDC) sugar exports implicitly set a time frame for the design and implementation of EU sugar sector reforms.</p><p>Tereos built on a diversification strategy which had been under way since 1992, involving both diversification within the sugar sector (alcohol, bioethanol, chemicals, co-generated electricity) and beyond. Tereos is now an broader “agro-industrial cooperative group specialized in the primary processing of sugar beet, sugar cane, potatoes and cereals into a full range of sugars, starch products, alcohols, bioethanol and co-products intended for animal feed and electrical power”.</p><p>As part of the 2006 round of reforms, Tereos abandoned 13% of its quota and closed three sugar refineries. Tereos nevertheless remained the largest sugar producer in France (40.2% of beet production). While Tereos maintains sugar production lines at its Nantes sugar refinery, the plant stopped refining raw cane sugar in 2009. (7)</p><p>In November 2008, Tereos and ACOR, the Spanish beet sugar farmers’ cooperative, created a joint industrial company. Under this agreement, a refining unit was established at ACOR’s factory in Olmedo, Vallidolid, to refine 120,000 tonnes of raw cane sugar per annum. According to the then Chair of the Tereos Supervisory Board, the raw sugar supplied to the Olmedo refinery can be “refined under highly competitive conditions in a strategic location situated in one of the major consumer areas in Spain, a country clearly lacking sugar production” (this followed the renunciation of 50% of the Spanish sugar beet production quota). While this potentially provides a ready outlet for raw sugar sales from the operations of Tereos in Mozambique and even Tanzania, priority is always likely to be given to supplies from Réunion, which forms an integral part of national French sugar production.</p><p>Tereos now has nine sugar facilities in France, five of which have distillery facilities attached to them. None of these facilities, however, are set up for raw cane sugar co-refining. Tereos also operates two facilities in the Czech Republic, where it began operations following its 1992 purchase of an 80% share in the Czech sugar producer TTD.</p><p>Tereos TTD is the market leader in sugar and alcohol production in the Czech Republic. Through its Czech operations, Tereos produces “450,000 tonnes of polarizable sugar” per annum. (8) In February 2012, Tereos announced the acquisition of Moravský lihovar Kojetín, a Czech producer of “a very refined alcohol intended for the food production and cosmetics industries”. (9)</p><p>In October 2012, Tereos took over the Ludus sugar plant in Romania, which has the capacity to produce 34,000 tonnes of beet sugar per annum. The refinery is located in one of Romania’s best sugar producing regions. This acquisition is seen as providing Tereos with access to “a market where sugar consumption is expected to increase significantly over the coming years”. Tereos aims to expand beet production in Romania by rolling out more efficient beet production practices, providing the company with “a stronger position in one of the major European regions still importing large volumes of sugar&quot;. (10)</p><a name="eztoc3290519_0_4" id="eztoc3290519_0_4"></a><h3>Recent developments: Refining operations and market developments</h3><p>The focus on product and geographical diversification has been reinforced by the decision to end EU sugar production quotas. Since 2011, Tereos has also produced and marketed “SteviaSucres” – alternatives to sugar that are claimed to be “easy to use”, with “excellent dissolution potential”. (11)</p><p>In 2010, Tereos acquired “the sugar assets of the Quartier Français Group”, making it the only sugar producer in Réunion, given its existing ownership of Bois Rouge Sucrerie. The acquisition of the sugar assets of the Quartier Français Group brought into the company 4,500 growers farming 24,000 ha and producing 150,000 tonnes of raw cane sugar. At the time of the 2008 agreement with ACOR, Tereos guaranteed the supply of raw sugar to be refined in Olmedo, which mainly comes from Réunion (total sugar production in 2009 was 210,000 tonnes). (12)</p><p>Unlike other EU beet processing companies such as Suiker Unie, British Sugar and Südzucker, Tereos does not appear to be envisaging the start of co-refining at its beet processing facilities in France, given its installed capacity in Spain and the speciality sugar lines maintained at the Nantes facility.</p><p>Of far greater significance is the expansion of cane farming operations in Brazil, which place Tereos in a strong position to benefit from any sugar trade liberalisation that may follow on from EU production quota abolition. Tereos now has more than 50% more land under sugar cane than under sugar beet (330,000 ha compared to 210,000 ha).</p><p>In terms of market developments, a number of trends can be identified. First, there has been investment in, or joint ventures established with, companies in sugar-deficit areas of the EU, with the aim of positioning Tereos to supply these deficit markets (Spain) or meet growing demand (Romania), either through expanding local production, as is the case in Romania, or distributing Tereos sugar produced within the broader corporate group, as is the case in Spain.</p><p>A second trend is market expansion in competition with established monopolistic/oligopolistic suppliers, in markets where established companies are facing difficulties. This trend is most notable in the UK, where in September 2013 Tereos “aggressively” sought to gain market share as annual industrial sugar supply contract negotiations got under way. (13) However, it was unclear whether this was a permanent long-term strategy or simply a tactical move to take advantage of short-term market opportunities.</p><p>Overall, with the prospect of a contraction in EU demand for sugar in the coming years, the main focus of interest for Tereos is in developing its sugar and cereals-related activities in Asia, where demand for sugar and cereal-based products is rapidly growing. This represents the major focus for Tereos activities, beyond the consolidation of its market position on EU sugar and cereals markets in the interests of its farmer/shareholders and associated cooperative allies in the cereals sector.</p><p>Tereos is seen as being well placed to grow its presence in the EU sugar market following quota abolition. This is in part linked to the scope for yield and productivity improvements in newly acquired facilities in Romania, and in part linked to the high beet yields around its French factories and the strategic partnerships established to give the company access to deficit markets.</p><a name="eztoc3290519_0_5" id="eztoc3290519_0_5"></a><h3>Link to ACP sugar sectors</h3><p>Tereos has two main areas of corporate engagement in ACP sugar production, first through its acquisition in 2006 of a 67% shareholding in the Companhia de Sena in Mozambique (14) and, second, through its 30% shareholding in the Tanganyika Plantation Company (TPC), following the acquisition in 2010 of the Quartier Français Group.</p><p>Through its operations in both Mozambique and Tanzania, Tereos is in partnership with the Mauritian sugar company, Alteo Ltd (which brought together Deep River Beau Champ Ltd and Flacq United Estates Ltd, producers of 160,000 tonnes of sugar in Mauritius). According to International Sugar Organization (ISO) reports, TPC has “already completed a substantial part of [its] rehabilitation and capacity expansion plans” (15), with production of 90,000 tonnes of sugar. Any further Investment in expanding sugar production capacity in Tanzania is likely to be focused on serving the sugar-deficit East African Community (EAC) market, possibly in tandem with refining operations in Mauritius.</p><p>In Mozambique, the Companhia de Sena operates the Marromeu sugar estate and mill, with an installed capacity of 100,000 tonnes of sugar production. However, according to reports from the AIM Mozambican state news agency, production in 2012 was only 75,000 tonnes, falling to 50,000 tonnes in 2013. The Companhia de Sena plans to resume sugar production from 2015 at Luabo, in the Chinde district on the north bank of the Zambezi, with the investment of some US$300 million in “installation of entirely new state-of-the-art machinery”. (16) This is consistent with the plans of Alteo Ltd to expand the company’s annual sugar production outside Mauritius to 400,000 tonnes. (15)</p><a name="eztoc3290519_0_6" id="eztoc3290519_0_6"></a><h3>Issues and prospects</h3><p>Since 2011, Tereos has generated the bulk of its revenues from beyond its French beet sugar operations. However, the company has only a limited production and trade interest in ACP sugar sectors. The raw cane sugar refining operations of Tereos are primarily focused on its operations in Réunion.</p><p>The primary overseas raw cane sugar interests of Tereos are in Brazil, giving Tereos a major stake in any liberalisation of the EU’s general sugar import regime. Brazil is already the principal supplier of raw cane sugar to the EU market under the CXL import arrangement. (17) This suggests that Tereos has little interest in expanding its refining of ACP raw cane sugar beyond its limited operations in Mozambique and Tanzania. Even here, it seems likely that refining operations would be carried out in Mauritius with Alteo Ltd, the Tereos partner in these two countries. The refined sugar thus produced might well then be directed towards regional African markets or other Indian Ocean rim markets.</p><p>For Tereos, the EU market appears to be an unlikely destination for the output of expanded sugar production operations in either Mozambique or Tanzania.</p><p><b>Further reading:</b></p><p>
+<a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Sugar-industry-corporate-profiles-Introduction" target="_blank">Introduction to sugar industry corporate profiles</a></p><p>
+<a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Tate-Lyle-American-Sugar-Refining-corporate-profile" target="_blank">Tate &amp; Lyle/American Sugar Refining</a></p><p>
+<a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Suiker-Unie-Royal-Cosun-corporate-profile" target="_blank">Suiker Unie/Royal Cosun</a></p><p>
+<a href="/en/layout/set/print/Agriculture/Commodities/Sugar/British-Sugar-Associated-British-Foods-corporate-profile" target="_blank">British Sugar/Associated British Foods</a></p><p>
+<a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Suedzucker-corporate-profile" target="_blank">Südzucker</a></p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>1. EC, ‘Support for farmers’ cooperatives – Case study report: Internationalisation of sugar cooperatives: COSUN, Südzucker/Agrana, Tereos’, November 2012</p><p>
+<a href="http://edepot.wur.nl/244987" target="_self">http://edepot.wur.nl/244987</a></p><p>2. Tereos Internacional, ‘Business model’, 9 August 2013</p><p>
+<a href="http://www.tereosinternacional.com.br/Show.aspx?IdMateria=fQ9XBsAarOFzdAK/WipVbA" target="_self">http://www.tereosinternacional.com.br/Show.aspx?IdMateria=fQ9XBsAarOFzdA...</a>==</p><p>3. ISO, ‘FDI [foreign direct investment] and M&amp;A [mergers and acquisitions] in the world sugar industry’, Table A.4, October 2012</p><p>4. Tereos, ‘Tereos first-half 2009/2010: Rise in operating income strengthened financial structure’, 7 July 2010</p><p>
+<a href="http://www.tereos.com/upload/pdf/uk/Press_release___H1_09_10_ENG_FINAL.pdf" target="_self">http://www.tereos.com/upload/pdf/uk/Press_release___H1_09_10_ENG_FINAL.pdf</a></p><p>5. Tereos, ‘History’, web page</p><p>
+<a href="http://www.tereos.com/en-gb/groupe/historique.html" target="_self">http://www.tereos.com/en-gb/groupe/historique.html</a></p><p>6. Tereos, ‘Tereos establishes its presence in Indonesia’, 22 January 2014</p><p>
+<a href="http://tereos.com/en-gb/groupe/actualites.html?actu=141" target="_self">http://tereos.com/en-gb/groupe/actualites.html?actu=141</a></p><p>7. <i>L’usine nouvelle</i>, ‘Tereos maintient son activité de conditionnement à Nantes’, 14 May 2012</p><p>
+<a href="http://www.usinenouvelle.com/article/tereos-maintient-son-activite-de-conditionnement-a-nantes.N174627" target="_self">http://www.usinenouvelle.com/article/tereos-maintient-son-activite-de-co...</a></p><p>8. Tereos, ‘Tereos reports strong earnings growth for 2011/2012’, 24 January 2013</p><p>
+<a href="http://www.tereos.com/upload/pdf/uk/PR_Tereos_Results_2011_12.pdf" target="_self">http://www.tereos.com/upload/pdf/uk/PR_Tereos_Results_2011_12.pdf</a></p><p>9. Tereos, ‘Tereos continues to expand in the Czech Republic: Takeover of distillery Moravský lihovar Kojetín’, 16 February 2012</p><p>
+<a href="http://www.tereos.com/upload/pdf/uk/Communiqu___Kojet__n_022012_GB.pdf" target="_self">http://www.tereos.com/upload/pdf/uk/Communiqu___Kojet__n_022012_GB.pdf</a></p><p>10. Tereos, ‘Tereos announces the acquisition of the Ludus sugar plant in Romania (Tereos SA)’, 16 October 2012</p><p>
+<a href="http://www.tereos.com/en-gb/groupe/actualites.html?actu=119" target="_self">http://www.tereos.com/en-gb/groupe/actualites.html?actu=119</a></p><p>11. Tereos, ‘Following the European Commission’s final approval for the use of stevia extracts, Tereos PureCircle Solutions announces the forthcoming launch of “SteviaSucres”’, 15 November 2011</p><p>
+<a href="http://www.tereos.com/upload/pdf/uk/PressRelease_Tereos_PureCircle_Solutions_november2011_ENG.pdf" target="_self">http://www.tereos.com/upload/pdf/uk/PressRelease_Tereos_PureCircle_Solut...</a></p><p>12. Tereos, ‘Acquisition of Quartier Français will expand Tereos’ position in sugarcane on Réunion’, 1 June 2010</p><p>
+<a href="http://www.tereos.com/upload/pdf/uk/Communique_de_presse_Tereos_La_R__union_V24_eng_OK.pdf" target="_self">http://www.tereos.com/upload/pdf/uk/Communique_de_presse_Tereos_La_R__un...</a></p><p>13. <i>The Grocer</i>, ‘French sugar giant Tereos ups the ante as UK prices tumble’, 14 September 2013</p><p>
+<a href="http://www.thegrocer.co.uk/topics/french-sugar-giant-tereos-ups-the-ante-as-uk-prices-tumble/349507.article " target="_self">http://www.thegrocer.co.uk/topics/french-sugar-giant-tereos-ups-the-ante...</a></p><p>14. According to USDA’s report on the Mozambican sugar sector, from 2012 the direct shareholding of Tereos in the Sena Company Plc was 22%, with the Sena Holding Company owning a 65% stake and the Mozambican government a 13% stake.</p><p>15. ISO, ‘Future role of sub-Saharan Africa in world sugar and sugar crop renewable energy’, 25 April 2013</p><p>16. Agencia de Informacão de Moçambique, ‘Plans to resume sugar production at Luabo’, 18 September 2013</p><p>
+<a href="http://www.clubofmozambique.com/solutions1/sectionnews.php?secao=business&amp;id=29986&amp;tipo=one" target="_self">http://www.clubofmozambique.com/solutions1/sectionnews.php?secao=busines...</a></p><p>17. Under the CXL arrangement, the volume of sugar imported into the EU increased from an average of 82,899 tonnes per annum between 2001/02 and 2005/06 to an average of 899,343 tonnes between 2007/08 and 2011/12.</p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Suedzucker-corporate-profile">Südzucker - corporate profile</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Sugar-industry-corporate-profiles-Introduction">Sugar industry corporate profiles - Introduction</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Tereos-corporate-profile">Tereos - corporate profile</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/British-Sugar-Associated-British-Foods-corporate-profile">British Sugar/Associated British Foods - corporate profile</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Suiker-Unie-Royal-Cosun-corporate-profile">Suiker Unie/Royal Cosun - corporate profile</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":132,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

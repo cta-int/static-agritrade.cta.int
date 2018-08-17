@@ -1,0 +1,260 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Agricultural dimensions of the WTO EU trade policy review / WTO / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																																																																																			
+		
+		<div class='contentrealtionlist'>
+							
+																																										
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																			,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																																																																																																																																																																	
+																																																																																																																																																																																																																																																																		,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7797/(search)/simple">Beef</a>
+							
+																																																																																																																																																																																																																																																																																																																																																																																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7800/(search)/simple">Cotton</a>
+							
+																																																																																																																																																	,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7801/(search)/simple">Dairy</a>
+							
+																																																																																																																																																	,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7802/(search)/simple">Horticulture</a>
+							
+																																																																																																																																																	,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7803/(search)/simple">Oil crops</a>
+							
+																																																																																																																																																	,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7804/(search)/simple">Poultry</a>
+							
+																																																																																																																																																																																																																																																																																																																																																																																			,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																																																																																																							,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7893/(search)/simple">Cereals</a>
+							
+																																																																																																																																																																																																																		
+																																																										,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7812/(search)/simple">WTO</a>
+							
+																																																																																																																																																																																																																																																																																																																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7819/(search)/simple">CAP reform</a>
+							
+																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7820/(search)/simple">Biofuels</a>
+							
+																																																																																																																																																																																																																																													
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Agricultural dimensions of the WTO EU trade policy review</h1>
+
+			
+			<h4>
+												30 August 2011
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The WTO has published its review of the trade policy of the EU, including a section on developments in the agricultural sector. The review provides a summary overview of CAP reform since 1992. It notes that ‘support to agriculture … remains considerable in both absolute and relative terms’, at ‘just over €100 billion’ in 2009, equivalent to one-third of the value of EU production.</p><p>The EU is the world’s biggest producer of dairy milk, wheat, grapes, olives, rapeseed and sunflower seed, and the second or third biggest producer of beef, pig meat, eggs and potatoes. As a major importer and exporter, the agricultural policies of the EU ‘can have a significant impact on other countries … whose economies depend on agriculture’. (By contrast, agriculture in the EU accounts for less than 1.6% of gross value-added, 5.1% of employment, 6.7% of exports and 5.7% of imports.)</p><p>While there has been a shift from market support to producer support, ‘market price support … continues to represent a large, though declining portion of transfers to producers’. In sectors such as cotton, coupled support remains significant. In 2005/06, for example, coupled support came to €255 million, on production valued at €1.23 billion.</p><p>The analysis highlights the declining use of intervention buying, which is increasingly being used as a safety-net measure, and not a vehicle for influencing market price formation. However, figures cited reveal that in crisis situations (e.g. the 2009 EU dairy farmers’ milk crisis), intervention ceilings are breached, with purchases well over twice the level of nominal intervention purchase ceilings.</p><p>The impact of other EU policies on agricultural markets is noted, in particular the renewable energy targets, which it is held ‘impact on world markets, particularly for oilseeds’.</p><p>While the use of export subsidies has been reduced as the gap between EU and world market prices have closed, the WTO notes that ‘reforms of the CAP have not reduced MFN tariffs which remain relatively high’. It notes that preference erosion is largely occurring as a result of bilateral agreements.</p><p>The report notes that ‘in 2011, the EU had 1,998 tariff lines for agricultural products, with an average rate of 15.2%’ (compared to an average rate for non-agricultural products of 4.1%). The EU in addition ‘applies a large number of non-<i>ad valorem </i>tariffs to agriculture goods’, some specific duties, some compound duties and some mixed duties, as well as seasonal tariffs particularly for fresh fruit and vegetables. <i>Ad valorem </i>duties give rise to considerable variation in average tariffs, for example ‘15.2% in 2011, down from 18.6% in 2006’.</p><p>Significantly, ‘in response to fluctuations in world prices, the EU has, within the limits of its bound tariffs, changed its MFN applied tariffs’. Duties have thus been set at zero for ‘durum wheat and high quality soft wheat since 1 July 2010; maize since 17 August 2010; and sorghum and rye since 19 October 2010’. In addition, in February 2011, the Commission suspended the ‘in-quota tariff for low and medium quality soft wheat and feed barley … until end-June 2011’. The WTO notes that ‘such changes in duties in response to world market prices can reduce predictability and exacerbate fluctuations in world market prices’.</p><p>The report provides a detailed description of the EU’s use of tariff rate quotas (TRQs), noting some 114 separate TRQs in operation in 2009. The EU’s use of TRQs is complex, with multiple TRQs applying in some sectors, and highly variable fill rates. The use of TRQs grew with the process of EU enlargement in order to accommodate long-standing market access arrangements of the new member states.</p><p>According to the WTO, the EU has retained the right to use special agricultural safeguard arrangements for 539 tariff lines (out of a total of 1,998 agricultural tariff lines), although the use of this tool has been more limited. The report notes that ‘the price-based SSG has been made operational for chicken, turkey, and sugar products almost continuously’, while the EU ‘has calculated trigger volumes for fruit and vegetables on a regular basis’.</p><p>The EU retains the right to use export subsidies in 20 product groups, with 10 actively supported, including cereals, beef, poultry, pig meat, eggs, sugar and some processed goods. The use of export refunds reflects global market price trends. According to the WTO, ‘the application of export subsidies can exacerbate swings in world prices and change the terms of trade to the detriment of other exporters.’ The EC however argues that the use of export subsidies has been reduced 90% since the 1990s, with there being ‘no correlation between the use of export subsidies by the EU and its share in the world market’.</p><p>The WTO notes that since 2000/01, EU ‘Green Box support has increased nearly three-fold, to €62.6 billion, while Blue and Amber Box support have both declined by three-quarters, to about €5.2 billion and €12.4 billion respectively’.</p><p>In conclusion, the WTO analysis notes that ‘in total, during the ten years to 2009, taxpayers and consumers in the EU have transferred nearly €1 trillion to agricultural producers …, which represents a high level of support and keeps production and exports higher, and imports lower, than would otherwise be the case.’ CAP reform has however ‘improved transparency and reduced trade and production distortions’. The WTO Secretariat notes the EC argument that ‘complete liberalization of the CAP… would not dramatically lower production in the EU but would have a severe impact on farm income and the territorial balance.’ However, it also notes other studies which highlight the reality that after 20 years of reform, the CAP ‘continues to have negative effects both within and outside the EU’.</p><p>Discussions of the WTO review found that ‘the EU still has room for improvement in … agricultural support and tariff policies’. Considerable concern was expressed by WTO members over ‘the trade impact of the EU’s technical regulations’. China described EU TBTs and SPS measures as ‘persistent causes of concern’.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>WTO, point of entry for the WTO trade policy review of the EU, 6 and 8 July 2011</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp348_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp348_e.htm</a></p><p>WTO, ‘Summary’, summary of WTO secretariat Trade policy review for the EU, WT/TPR/S248</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/s248_sum_e.pdf" target="_self">http://www.wto.org/english/tratop_e/tpr_e/s248_sum_e.pdf</a></p><p>ICTSD, ‘Trade policy review lauds EU for resisting protectionism, marks areas for improvement’, <i>Bridges Weekly Trade News Digest</i>, Volume 15, Number 26, 13 July 2011</p><p>
+<a href="http://ictsd.org/i/news/bridgesweekly/110419/" target="_self">http://ictsd.org/i/news/bridgesweekly/110419/</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The WTO analysis notes a range of areas where EU policies impact on production and trade outcomes. These need to be acknowledged, and discussions launched on how to minimise the negative effects of the external consequences of EU agricultural policies on food and agricultural sector development in ACP countries. This is particularly important in view of the economic significance of agriculture in many ACP countries, which is far greater than in the EU.</p><p>For example, while intervention buying is increasingly used as a safety net, it does carry external trade implications. This is illustrated by the large-scale expansion of EU exports of milk powder in 2010. However it should be noted the EU has licensing tools available that could be used to dovetail EU milk powder exports with dairy sector development strategies in ACP countries and regions.</p><p>The WTO notes that MFN tariffs have remained relatively high, despite the CAP reform process. This highlights two points: first, the erosion of the value of traditional ACP agricultural preferences is being driven primarily by the process of CAP reform; second, where preference erosion is occurring, this is taking place largely through bilateral trade arrangements.</p><p>Significantly the maintenance of high MFN tariffs means that the food and agricultural sector is one of the main areas for trade concessions which the EU can offer advanced developing countries, as part of EU efforts to secure free-trade area agreements that bring real tariff advantages for EU exporters. The process of erosion of margins of ACP tariff preferences through EU FTA negotiations is thus intimately connected to the EU’s pursuit of its commercial interests in trade with non-ACP developing countries.</p><p>The WTO report highlights the extent to which the EU makes use of various forms of tariff protection (including a complex system of TRQs) in protecting sensitive products. In this context it highlights the extent to which the EU varies tariffs within its bound ceilings in response to volatile global food prices. This highlights both the need to have an informed discussion on the standstill provisions, which are a feature of a number of (I)EPAs, and the importance of the current debate on the relevance of a regulated and nuanced use of tariff protection in ACP countries that are heavily dependent on the agricultural sector.</p><p>The fact that the EU retains the right to use special agricultural safeguards on 27% of agricultural tariff lines should also inform the current discussions on the use of non-tariff trade tools in the ongoing EPA negotiations.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+																	
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/The-WTO-and-animal-welfare-related-trade-restrictions">The WTO and animal welfare-related trade restrictions</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/Parliamentary-perspectives-on-the-EU-fruit-and-vegetable-regime">Parliamentary perspectives on the EU fruit and vegetable regime</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Impact-of-CAP-reform-agreement-on-the-sugar-sector">Impact of CAP reform agreement on the sugar sector </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/CAP-reform/Building-coherence-with-development-policy-into-the-CAP">Building coherence with development policy into the CAP</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/CAP-reform/The-current-state-of-CAP-reform-negotiations">The current state of CAP reform negotiations</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":138,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

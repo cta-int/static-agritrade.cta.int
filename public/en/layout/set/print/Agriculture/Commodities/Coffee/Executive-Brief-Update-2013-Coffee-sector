@@ -1,0 +1,500 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2013: Coffee sector / Coffee / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																														
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																												
+																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7799/(search)/simple">Coffee</a>
+							
+																																																																																																																																																																																																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2013: Coffee sector</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/234239/2813237/file/775fec63e71bef067ff69a2112fe6768.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+												17 December 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc2813204_0_1" id="eztoc2813204_0_1"></a><h3>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Background and key issues</h3><p>Since the 2006/07 season, ACP coffee producers have been playing an increasing role in global coffee production, with strong growth in East Africa but a continued decline in West Africa. Some 55% of ACP production is of arabica coffee, with producers in 10 ACP countries growing only arabica beans. The sharp decline in arabica prices in 2012 has therefore fallen particularly heavily on these ACP producers. Only a relatively small price recovery is projected for arabica coffee in 2013; after an initial rally, prices declined marginally through to May 2013. Meanwhile, robusta coffee prices have proved more stable, with a smaller price fall in 2012 and a recovery in the first months of 2013, taking prices to within 1.4% of their February 2012 level. However, the price gains in early 2013 had been largely lost by the end of May 2013.</p><p>African robusta coffee producers have launched initiatives to improve quality and promote greater use of robusta beans, which is considered necessary given the predominance of arabica production in Africa and the rapid growth in robusta consumption in recent years. Although demand growth is strongest in emerging markets, product differentiation is a growing feature of established coffee markets (e.g. single-origin coffees, coffee certified as sustainably produced, fair-trade coffee and organic coffee). The growth in sales of single-serve coffee pods is also a major feature of established coffee markets.</p><p>The challenge of serving differentiated coffee markets is increasingly being taken up in Eastern Africa. However, the bulk of sustainably certified coffee continues to be sourced from Latin America. This raises the policy challenge of promoting sustainability certification and guiding producers through the numerous schemes available, many of which involve different costs and benefits. The distribution of the costs and benefits of certification schemes along the supply chain is likely to gain significance in the coming years.</p><p>Because of the strong demand growth in emerging markets, East African producers are continuing to seek new partners not only for marketing coffee but also for investment in value-added processing. The Jamaican experience in marketing Blue Mountain Coffee highlights the challenges faced in identifying new partners in non-traditional markets, which has led to a quest for entirely new partners.</p><p>In Ethiopia, Africa’s largest coffee producer, export levels were adversely affected in 2011/12 by disputes between the government and private exporting companies, in part linked to strategies for managing disease transmission challenges. Although there was strong export growth in 2012/13, price declines held back the growth in earnings. The dispute between the government and private sector in 2011/12 exemplifies the importance of harmonious relationships if volatile markets are to be effectively managed. There is also the issue of the role of government regulation and parastatals in the context of a need to serve increasingly differentiated coffee markets. This is a challenge across a number of ACP regions, and is linked to the need for innovative strategies in the production and marketing of coffee, to deal more effectively with price volatility and rising input costs.</p><p>The related problems of pest infestations and climate change are also affecting coffee production in some ACP regions, with ‘aid for trade’ support potentially having a role to play in facilitating necessary adjustments.</p><p>Coffee production in the Caribbean’s main producer, the Dominican Republic, continues to rise, while Jamaican production still falls below expectations, despite efforts to diversify markets and improve marketing. In the Pacific, however, there continues to be scope to expand quality-differentiated coffee production, which serves particular niche markets.</p><a name="eztoc2813204_0_2" id="eztoc2813204_0_2"></a><h3>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Latest developments</h3><p><b>2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in international coffee markets</b></p><p><b>Declining prices since 2012</b></p><p>In May 2011, arabica and robusta coffee prices hit record highs of US$304.9 cents/lb and US$2,588 per tonne, but prices have consistently fallen since: by June 2013 there had been a 60% drop in arabica and 30% drop in robusta prices. Despite these price declines, world coffee prices remain high in historical terms. However, high world prices have not necessarily translated into higher net producer incomes. Indeed, in June 2013, the International Coffee Organization (ICO) warned that the weak coffee market was generating “prices below the cost of production” (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Coffee/Ethiopian-coffee-sector-caught-by-falling-global-prices" target="_self">Ethiopian coffee sector caught by falling global prices</a>’, 22 July 2013). Higher prices of alternative crops have led to some producers abandoning coffee production, raising concerns over long-term supplies.</p><p>The evolution of the price differential between arabica and robusta coffee has had a major effect on demand in recent years. In 2011, the arabica price premium was US$1.90/lb, up from between US$0.35 and 0.85/lb in 2009/10, leading some coffee roasters to increase use of robusta coffee in blends. However, by March 2013 the price differential was back down to US$0.35/lb, reversing this trend.</p><p><b>Production and demand trends</b></p><p>According to the ICO, in 2012/13 world coffee production reached 135.9 million (60-kg) bags and an estimated 144.6 million bags in 2012/13 (US Department for Agriculture – USDA – estimated 150.7 million bags), following a second year of massive production in Brazil and Vietnam in response to the high prices of 2011 and favourable weather conditions. But even larger production increases were held back by heavy rains in Indonesia, and coffee rust disease affected production in 50% of the Central American coffee growing areas.</p><p>Consumption also grew rapidly, reaching 139 million bags in 2011 and 142 million bags in 2012, which reflects a strong demand growth in emerging markets of 6.6% per annum, compared to the global average of 2.4%. Consequently, stocks have fallen by some 17.1% (from 18.2 to 15.1 million bags in 2012/13). The strong growth in demand in emerging markets may have prevented even more dramatic price declines; however, production is expected to fall back in both Brazil and Vietnam in 2013/14.</p><p>It is now apparent that the longer-term impact of Brazil’s “off-and-on year cycle” is reducing in intensity, as new coffee areas have been opened up with higher yields and less risk of frost damage.</p><p>A major feature of the coffee market in 2012/13 was the continued growth in demand for robusta coffee beans. Although markets such as the US have denigrated robusta for many years, things are changing. In 2011, US imports of robusta coffee increased threefold (although they are still only equivalent to 14% of the volume of arabica imports), with this trend continuing into 2012 (+80%). In contrast, arabica imports fell by a third in 2012, resulting in growing exchange-certified stocks of arabica coffee (+72%) and a decline in exchange-certified stocks of robusta coffee (−55%).</p><p>In the long term, the ICO forecasts that the demand for robusta will grow by 6% per year in 2014 and 2015, compared to +1% for arabica. Despite this growing trend toward robusta coffee, some major retailers, such as Starbucks or KFC’s fast-food chain Yum Brands, still remain hostile to robusta because of a persistent image of lower standard coffee.</p><p>Rising coffee consumption in emerging countries (+21% between 2009 and 2012) was the second major feature of the coffee market that was confirmed in 2012/13. This is closely linked to increasing consumption in coffee producing countries, in some instances with a growing demand for quality coffee. Thus Brazilian consumers are now increasingly in direct competition with the average European and American coffee consumers; in 2012, Brazilian robusta coffee exports fell by 57% because of rising local demand. Local coffee consumption is also increasing in Indonesia, which is increasing demand pressure and hence supporting prices.</p><p>There is considerable effort to promote coffee consumption in a number of ACP coffee producing countries. For example, with government support, Cameroon’s private sector <i>Conseil interprofessionnel café cacao</i> (CICC) has launched ‘Festicoffee’, an annual event with the dual aim of rejuvenating coffee production and stimulating domestic consumption.</p><p>In East Africa, the Coffee Board of Kenya has been encouraging domestic coffee consumption through coffee awareness campaigns. Indeed, over the last 3 years, many coffee shops have opened in major urban centres across the East African Community (EAC), catering for a growing middle class. Coffee consumption is taking off most strongly in Kenya, with estimated growth rates of 15–20%. In Tanzania, where a distinct preference for tea exists, growth rates are one-tenth of those in Kenya. Elsewhere, little effort is being put into promoting domestic coffee consumption. Nevertheless, it is anticipated that coffee consumption within the EAC will continue to grow steadily.</p><p><b>Trade developments in 2012/13</b></p><p>According to the ICO, world coffee exports grew by some 10% between production years May 2011/April 2012 and May 2012/April 2013, from 103.4 to 113.8 million bags (USDA estimates put 2011/12 exports at 114.5 million bags and 2012/13 exports at 115.6 million bags, with a drop to 114 million bags in 2013/14). However, perspectives for 2013/14 vary. Rabobank envisages a positive outlook for the arabica price, owing to a potential deficit on world markets, with anticipated purchases by roasters and Brazilian producers holding off the market. A similar strategy might be followed by Vietnamese producers in the coming months to shore up world robusta prices. On the other hand, USDA forecasts that world prices will drift in the coming months as world coffee inventories rise to a 5-year high.</p><p>Trends in differentiated coffee, direct marketing and processed coffee products</p><p>In spite of the economic crisis, there has been a continued development of the gourmet coffee culture during 2012 and 2013, similar to the gourmet wine culture. Top Parisian hotels such as George V and the Hotel Vendôme have therefore developed special “coffee times”, with coffee “grand cru” being offered, all of which highlight the availability of niche markets for top-quality coffee.</p><p>According to Euromonitor, a second major trend is the increased sales of coffee pods – easy-to-use “single-serve” capsules and bags popularised by brands such as Nespresso, Senseo and Lavazza. This market component was worth US$8 billion in 2012 ($5.1 billion alone in western Europe). It is estimated that sales of coffee pods have been increasing at 20% per annum in recent years, with the potential to constitute a third of the coffee market by 2016. Reports in <i>The</i><i>New York Times</i> in June 2013 found that the retail price of single-serve coffee pods was equivalent to US$50/lb, suggesting that considerable additional value is being generated along the supply chain for coffee pods, little of which currently finds its way into the pockets of ACP coffee producers and coffee sector enterprises.</p><p>A third trend in 2012 was the increasing number of initiatives to directly link producers to consumers. Most, but not all, are linked to sustainability, organic and fair-trade certification schemes. Sales of “UTZ Certified” coffee, for example, increased by 38% in 2012 to 188,096 tonnes, with new partners such as the Dutch airline KLM supporting the product.</p><p>US imports of certified Fairtrade and Rainforest Alliance coffee reached a record of 74,000 tonnes in 2012, valued at US$32 million, with 60 new importers and roasters becoming involved in fair-trade coffee and 50 new products being launched. According to Rainforest Alliance, this growth was boosted, among other initiatives, by McDonald’s, whose espressos are now 100% Rainforest Alliance certified. Other North American companies, such as Caribou Coffee, Second Cup, Green Mountain Coffee Roasters and Nespresso, have also contributed to the trend.</p><p>For its part, the UK Department for International Development’s (DFID’s) Food Retail Industry Challenge Fund (FRICH) has financed fair-trade coffee projects and facilitated direct marketing links with major UK retailers such as Sainsbury’s. This has created opportunities for exports of gourmet coffee from a Fairtrade-certified producers’ cooperative in the Democratic Republic of Congo (DRC). Also, since December 2012, Sainsbury’s has been displaying Malawian Mzuzu Fairtrade Ground Coffee.</p><p>While the UK remains the leading fair-trade market in the world, China is also a growing market. According to a 2012 survey, Chinese consumers are willing to pay a 22% price premium for fair-trade coffee, or even more in the case of female consumers. Consumers who make their own coffee are reported to be likely to increase the trend the following year.</p><p>Developments on the Chinese market also highlight the soaring demand for instant coffee in emerging markets. The demand growth for robusta has, therefore, outpaced demand growth for arabica, which has traditionally dominated the gourmet market.</p><p>World soluble imports have gone from 9 million bags in 2008/09 to 12.1 million bags in 2011/12, decreasing only slightly in 2012/13 to 11.8 million bags (USDA). Chinese imports have gone from 115,000 bags in 2008/09 to 400,000 in 2011/12 and 700,000 bags in 2012/13 – a sixfold increase in 4 years. Japan’s imports are also rising, from 630,000 bags in 2008/09 to 800,000 in 2012/13 (although shifts in demand have created considerable problems for Jamaican Blue Mountain Coffee exporters); and in Thailand from 270,000 to 650,000 bags in 2012/13.</p><p>Russia, however, remains the leading importer of soluble coffee, importing 2.3 million bags in 2012/13, with the second largest importer, the Philippines, showing considerable import volatility, but still accounting for 1.5 million bags in 2012/13 (USDA).</p><p>Significantly, with the price differential between robusta and arabica coffee having declined dramatically, some instant coffee makers have started using low-grade arabica in their instant coffee blends. For example, Uganda Drugar beans, an unwashed and low-quality arabica, stored in US warehouses, fetched roughly US$1.15/lb in early June 2013, while Uganda standard robusta was being sold to US importers at the same time for around US$1.18/lb. Some roasters are also returning to arabica after having switched a couple of years ago to lower-priced robusta. So far, the switch in beans is limited in scale because it is easier for instant coffee makers or small roasters to change blends than for large roasters.</p><p><b>2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in the ACP</b></p><p><b>Overall trends</b></p><p>According to ICO estimates, between 2011/12 and 2012/13, ACP countries increased their production by 13.6%. Increases were registered in all ACP coffee producing countries except Ghana, Liberia, Malawi, Papua New Guinea (PNG), Sierra Leone and Togo. It is estimated that ACP producers will represent 14.1% of global coffee production in 2012/13, compared to 13.2% in 2011/12, in the context of a 6.4% increase in global production.</p><p>ACP exports have increased strongly with a 19.3% increase in comparison to global growth of 7%, resulting in the ACP region’s share rise from 9 to 10% of global exports between October 2012 and April 2013. Several ACP countries have registered strong increases in the volume of export: Burundi (+77%), Dominican Republic (+54%), Ethiopia (+51%), Tanzania (+92%) and Uganda (+27%). But there have been disappointing financial returns, given the lower global prices. Indeed, the fall in world market prices in 2012 and 2013 has strongly affected the 26 ACP coffee producing countries. Countries with a high coffee export dependence were particularly affected (e.g. Burundi, with 59% of total export earnings between 2000 and 2010, Ethiopia 33%, and Rwanda 27%).</p><p>In Kenya, for example, prices per tonne fell from KShs&nbsp;513,590 in 2011 to KShs&nbsp;429,327 in June 2012, while in Cameroon producer prices at the beginning 2013 were FCFA&nbsp;850/kg compared to FCFA&nbsp;1,400 3 years earlier. Against this background, it is a major challenge to keep coffee farmers interested in coffee production, rather than switching to other crops.</p><p><b>Developments in West and Central Africa</b></p><p>Developments in Côte d’Ivoire (Africa’s second largest robusta producer) were dominated in 2012 by increased state engagement in the coffee sector, with the first full year of application of the 2011 coffee reform programme. Auction sales are held under the reformed system to determine the guaranteed producer price, which was set at FCFA 620/kg – a level higher than the average FCFA&nbsp;406 paid over the previous 8 years. Coffee production in Côte d’Ivoire is increasing: the ICO estimated production of 2 million bags in 2012/13 (according to USDA 1.7 million bags), compared to less than 1 million bags 2 years ago. However, coffee bean exports totalled 32,564 tonnes from October 2012 to April 2013, down nearly 8% on the same period last season.</p><p>In March 2013, the government of Côte d’Ivoire approved a 4-year programme to relaunch the coffee sector, totally financed from its own resources. The programme’s aim is to achieve coffee production of around 200,000–300,000 tonnes in the next 5&nbsp;years (from a current level of 120,000 tonnes). The programme involves training and management support to farmers, improving access to credit, and encouraging the formation of cooperative associations to reduce the role of intermediaries. Emphasis is also placed on developing value-added coffees, including developing geographical designations of origin for quality washed coffee from the mountainous regions of Côte d’Ivoire (which currently accounts for 40% of production). There is an ongoing campaign to promote the local consumption of coffee with financing and training being provided to young people to open “coffee kiosks”. Local coffee consumption in Côte d’Ivoire is currently estimated at 108,000 bags, down from an earlier average of 300,000 bags (this is attributed by USDA representatives to a higher portion of production being exported, which leaves less available for domestic consumption).</p><p>Cameroon is pursuing a strong coffee policy, with the aim of producing 160,000 tonnes of arabica and robusta by 2020 as against 51,000 tonnes forecast in 2012/13 (ICO). The country hopes to attract young farmers into coffee production (the current average age is 55.8 years) through the “new generation” programme. This is accompanied by efforts to boost local consumption through the annual “Festicoffee”. Currently, coffee consumption in Cameroon amounts to 75,000 bags per annum.</p><p>In May 2013, Nestlé announced a decision to invest FCFA&nbsp;20 billion in a coffee processing factory in Cameroon. Works are scheduled to start in August 2013 with output to be sold largely on the domestic and regional markets. This investment represents a major expansion; in 2012, locally processed coffee amounted to only around 200 tonnes, under half of 1% of domestic coffee production.</p><p>Efforts are under way to redevelop coffee production in Angola, which currently produces approximately 15,000 tonnes (compared to 235,000 tonnes in 1967). A contract was signed with Thai Hoa Vietnam Group in July 2012 to rehabilitate 100,000&nbsp;ha of former coffee producing lands over a 10-year period, using Brazilian financing (US$250 million). A US$8.5 million project to rehabilitate 13 cooperatives and more than 100 associations on 4,000 ha in Porto Amboim, in Kwanza Sul Province, has also been agreed.</p><p><b>Table 1: ACP coffee production in selected African countries (’000 60-kg bags)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="142" valign="top">  &nbsp;
+  </td><td width="94" valign="top">  <b>Crop year</b>
+  </td><td width="95" valign="top">  <b>2010/11</b>
+  </td><td width="94" valign="top">  <b>2011/12</b>
+  </td><td width="104" valign="top">  <b>2012/13</b>
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  <b>World</b>
+  </td><td width="94" valign="top">  &nbsp;
+  </td><td width="95" valign="top">  <b>133,498</b>
+  </td><td width="94" valign="top">  <b>135,934</b>
+  </td><td width="104" valign="top">  <b>144,646</b>
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  <b>Africa</b>
+  </td><td width="94" valign="top">  &nbsp;
+  </td><td width="95" valign="top">  &nbsp;
+  </td><td width="94" valign="top">  &nbsp;
+  </td><td width="104" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Angola
+  </td><td width="94" valign="top">  Apr/March
+  </td><td width="95" valign="top">  35
+  </td><td width="94" valign="top">  29
+  </td><td width="104" valign="top">  50
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Burundi
+  </td><td width="94" valign="top">  Apr/March
+  </td><td width="95" valign="top">  353
+  </td><td width="94" valign="top">  204
+  </td><td width="104" valign="top">  483
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Cameroon
+  </td><td width="94" valign="top">  Oct/Sept
+  </td><td width="95" valign="top">  608
+  </td><td width="94" valign="top">  555
+  </td><td width="104" valign="top">  850
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Central African Rep.
+  </td><td width="94" valign="top">  Oct/Sept
+  </td><td width="95" valign="top">  95
+  </td><td width="94" valign="top">  86
+  </td><td width="104" valign="top">  100
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Congo, DR
+  </td><td width="94" valign="top">  Oct/Sept
+  </td><td width="95" valign="top">  305
+  </td><td width="94" valign="top">  352
+  </td><td width="104" valign="top">  450
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Côte d'Ivoire
+  </td><td width="94" valign="top">  Oct/Sept
+  </td><td width="95" valign="top">  982
+  </td><td width="94" valign="top">  1,907
+  </td><td width="104" valign="top">  2,000
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Ethiopia
+  </td><td width="94" valign="top">  Oct/Sept
+  </td><td width="95" valign="top">  7,500
+  </td><td width="94" valign="top">  6,798
+  </td><td width="104" valign="top">  8,100
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Gabon
+  </td><td width="94" valign="top">  Oct/Sept
+  </td><td width="95" valign="top">  1
+  </td><td width="94" valign="top">  0
+  </td><td width="104" valign="top">  1
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Ghana
+  </td><td width="94" valign="top">  Oct/Sept
+  </td><td width="95" valign="top">  112
+  </td><td width="94" valign="top">  146
+  </td><td width="104" valign="top">  85
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Guinea
+  </td><td width="94" valign="top">  Oct/Sept
+  </td><td width="95" valign="top">  386
+  </td><td width="94" valign="top">  351
+  </td><td width="104" valign="top">  415
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Kenya
+  </td><td width="94" valign="top">  Oct/Sept
+  </td><td width="95" valign="top">  658
+  </td><td width="94" valign="top">  680
+  </td><td width="104" valign="top">  767
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Liberia
+  </td><td width="94" valign="top">  Oct/Sept
+  </td><td width="95" valign="top">  10
+  </td><td width="94" valign="top">  11
+  </td><td width="104" valign="top">  10
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Madagascar
+  </td><td width="94" valign="top">  Apr/March
+  </td><td width="95" valign="top">  530
+  </td><td width="94" valign="top">  604
+  </td><td width="104" valign="top">  575
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Malawi
+  </td><td width="94" valign="top">  Apr/March
+  </td><td width="95" valign="top">  17
+  </td><td width="94" valign="top">  27
+  </td><td width="104" valign="top">  20
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Rwanda
+  </td><td width="94" valign="top">  Apr/March
+  </td><td width="95" valign="top">  323
+  </td><td width="94" valign="top">  247
+  </td><td width="104" valign="top">  400
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Sierra Leone
+  </td><td width="94" valign="top">  Oct/Sept
+  </td><td width="95" valign="top">  33
+  </td><td width="94" valign="top">  76
+  </td><td width="104" valign="top">  50
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Tanzania
+  </td><td width="94" valign="top">  July/June
+  </td><td width="95" valign="top">  846
+  </td><td width="94" valign="top">  534
+  </td><td width="104" valign="top">  918
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Togo
+  </td><td width="94" valign="top">  Oct/Sept
+  </td><td width="95" valign="top">  160
+  </td><td width="94" valign="top">  162
+  </td><td width="104" valign="top">  150
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Uganda
+  </td><td width="94" valign="top">  Oct/Sept
+  </td><td width="95" valign="top">  3,203
+  </td><td width="94" valign="top">  2,817
+  </td><td width="104" valign="top">  3,000
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Zambia
+  </td><td width="94" valign="top">  July/June
+  </td><td width="95" valign="top">  13
+  </td><td width="94" valign="top">  10
+  </td><td width="104" valign="top">  10
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Zimbabwe
+  </td><td width="94" valign="top">  Apr/March
+  </td><td width="95" valign="top">  10
+  </td><td width="94" valign="top">  9
+  </td><td width="104" valign="top">  10
+  </td>
+</tr>
+
+</table>
+<p>Source: ICO/CommodAfrica</p><p><b>Developments in East and Southern Africa</b></p><p>Ethiopia is Africa’s top coffee producer and the fifth largest producer in the world. However, almost half of Ethiopia’s coffee production is consumed domestically. In 2012/13, Ethiopia was caught out by falling coffee prices because disputes with the private sector in the previous season had left large carry-over stocks. This saw an increase in exports at a time of rapidly falling arabica coffee prices. As a consequence, elevated export levels “failed to generate a proportionate increase in foreign exchange” (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Coffee/Ethiopian-coffee-sector-caught-by-falling-global-prices" target="_self">Ethiopian coffee sector caught by falling global prices</a>’, 22 July 2013). Indeed, export volumes rose by 31.7% but receipts fell by 1.3% to US$199.3 million. According to the Coffee Board, Ethiopian farmers are not producing enough, and there are plans to introduce coffee into new production areas. Low levels of productivity in existing production zones would appear to be linked to the traditional production and farm management systems used and to limited government extension service support (compared to neighbouring EAC countries).</p><p>There was a slight (2%) decline during the marketing year 2012/13 in Kenyan production to 48,000 tonnes – substantially below the record production level of 130,000 tonnes achieved in 1987/88. According to the Kenya Coffee Traders Association, between October 2012 and March 2013, earnings at the Nairobi Coffee Exchange fell by 33.7% (to US$67.34 million) compared to the same period the previous season. The average auction price fell to US$180.73 per 50kg from US$286.89 (−37%). The website <i>Agrimoney.com</i>, however, has argued that the desirability of high-quality Kenyan beans for blending purposes has enabled Kenyan beans to fetch prices of up to US$290 cent/lb, far more than New York arabica futures prices (US$1.39/lb in mid June 2013). This suggests considerable scope for improved marketing of Kenyan coffee beans.</p><p>According to USDA, similar scope for the development of Tanzanian speciality coffee exports is also thought to exist “if production and processing are improved”. Because of this, the Tanzanian Coffee Industry Strategy 2011–2021 places considerable emphasis on improving the efficiency of the coffee chain, enhancing the marketing of premium coffee, and diversifying export markets (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Coffee/Good-performance-in-the-EAC-s-coffee-sector-despite-depressed-global-prices" target="_self">Good performance in the EAC’s coffee sector, despite depressed global pr...</a>’, 29 July 2013).</p><p>Meanwhile, Ugandan robusta coffee production continues to grow although arabica production remains depressed, leaving Uganda less affected by falling prices, given the lower price declines of robusta relative to arabica. Nevertheless, earnings only increased 1.2% despite a 29% increase in the volume of sales. The spread of coffee wilt remains a major source of concern in Uganda, while the black twig borer beetle is causing increasing concerns in robusta coffee growing areas.</p><p>In Burundi, while production almost doubled and there was a 75% increase in sales, falling prices resulted in earnings rising by only 8.3%. Production is therefore likely to fall back considerably as farmers switch to other crops. In Rwanda, fluctuating world prices have led exporters to withhold coffee, creating large stockpiles. The Rwanda Development Bank is concerned over possible defaults on loans to coffee farmers and now requires farmers to demonstrate that they have strategies in place for dealing with world market price volatility.</p><p>In terms of direct sales in East Africa, the successful launch of the Oromo Coffee Company in the UK (marketing coffee produced in Ethiopia) has opened up new routes to market, with certified organic and fair-trade coffees now in stores, restaurants and hotels. The move toward increased private sector initiative in the Ethiopian coffee sector is likely to be given added impetus with the planned privatisation of six government-owned enterprises, including the 600&nbsp;ha Arbagugu Coffee Plantation in the Oromia Region, which grows the Harar coffee variety.</p><p>In terms of linking up to Asian consumers, the Ugandan joint venture Beijing Chenao Coffee Company exhibited and operated a coffee bazaar at the Guangzhou Food Expo and Coffee Boutique in May 2013, where Ugandan arabica coffee was presented.</p><p>Across the East African region, coffee producers are looking at market diversification and value addition as tools for dealing with international coffee price volatility. The Coffee Board of Kenya announced in July 2012 that it was looking for partners to help expand “local processing and packaging capacity to improve export of processed coffee to the emerging foreign coffee markets”. It was considered that this would help insulate Kenyan producers from the price volatility being experienced on global coffee bean markets. Considerable scope was seen for mobilising Chinese investment in this process of moving up the coffee value chain (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Coffee/Developing-new-partnerships-for-movement-up-the-coffee-value-chain" target="_self">Developing new partnerships for movement up the coffee value chain’</a>, 9 September 2012). In October 2012, the Tanzania Coffee Board announced plans to promote local coffee consumption and target “strategic markets” (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Coffee/Tanzania-Coffee-Board-looking-for-market-diversification" target="_self">Tanzania coffee board looking for market diversification</a>’, 2 December 2012). Rwanda, for its part, is reportedly looking to expand sales of speciality coffees to Japan, with plans being developed for shipping coffee directly to the Japanese market.</p><p>While efforts to identify potential Asian joint venture partners potentially offer an important vehicle for redefining East Africa’s engagement with the evolving global coffee economy, the current policy emphasis on market diversification has not yet changed the region’s dependence on traditional European markets. In the case of Tanzania in 2012/13, the importance of the EU market increased to 50.69% of total exports, up from 32.63% in 2011/12, while 70% of Kenyan and between 75 and 79% of Ugandan coffee continues to be sold on the EU market.</p><p>In both Kenya and Tanzania, increased emphasis is being placed on developing local coffee consumption, as it is considered that this will facilitate opportunities for increased local value-added processing of coffee. The emergence of Kenyan roasters, blenders and processors could offer a new outlet for Tanzanian and other regional coffee production, as well as offering scope for the development of joint marketing strategies for single origin and other premium label coffees.</p><p><b>Developments in the Caribbean</b></p><p>The two main coffee producers in the Caribbean are the Dominican Republic and Haiti. Reported coffee production in the Dominican Republic grew strongly in 2011/12, before falling back in 2012/13, while Haiti’s production remained fairly stable. Most Haitian coffee is exported via the Dominican Republic. However, there are private sector projects in place to sell organic Haitian coffee throughout the United States, alongside several projects aimed at developing Haiti’s high-quality coffee production. In 2012, this included a €2-million value chain project launched by the French Development Agency and the Inter-American Development Bank to reinforce cooperatives involving some 10,000 producers.</p><p><b>Table 2: Caribbean coffee production (crop year July/June, ’000 60-kg bags)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="142" valign="top">  &nbsp;
+  </td><td width="113" valign="top">  <b>2010/11</b>
+  </td><td width="113" valign="top">  <b>2011/12</b>
+  </td><td width="116" valign="top">  <b>2012/13</b>
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Dominican Republic
+  </td><td width="113" valign="top">  378
+  </td><td width="113" valign="top">  682
+  </td><td width="116" valign="top">  550
+  </td>
+</tr>
+
+<tr>
+<td width="142" valign="top">  Haiti
+  </td><td width="113" valign="top">  350
+  </td><td width="113" valign="top">  349
+  </td><td width="116" valign="top">  325
+  </td>
+</tr>
+
+</table>
+<p>Source: ICO/CommodAfrica</p><p>In 2012/13, the Jamaican coffee sector reported continuing declines in production – down to 6,600 tonnes from 15,177 tonnes in 2006 – resulting in lower export sales. The premium Blue Mountain Coffee brand is also facing financial difficulties, with demand falling and prices well below the pre-recession level. This largely reflects the weakness of Japanese demand and the fundamental transformation of previous marketing arrangements (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Coffee/Jamaican-coffee-sector-falls-short-of-expectations" target="_self">Jamaican coffee sector falls short of expectations</a>’, 28 October 2012).</p><p>Although there has been some successful marketing for Blue Mountain Coffee in the US and the UK, the volumes involved are relatively small. Efforts to develop markets in China have faced serious challenges. In December 2012, the Jamaican government announced that it was looking for new partners for coffee marketing in China, following violations of trademark protection, which the Coffee Industry Board was unable to address with the existing partners (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Coffee/Jamaica-seeking-new-partners-for-coffee-marketing-in-China" target="_self">Jamaica seeking new partners for coffee marketing in China</a>’, 2 February 2013).</p><p><b>Developments in the Pacific</b></p><p>In PNG, which is developing the production of award-winning gourmet coffees, overall production shot up in 2011/12 to a record of 1.4 million bags of arabica as a result of favourable weather and high international prices. However, this is projected to fall back to 1.2 million bags in 2012/13. Exports fell from 767,712 in October 2011/April 2012 to 329,659 in October 2012/April 2013. This can partially be attributed to the off-year biennial production cycle, and in part to fears of election-related violence disrupting coffee activities. While coffee rehabilitation, nursery, coffee freight schemes and grower mobilisation projects are under way, there are fears that job opportunities in other sectors of the economy will draw labour away from the coffee sector, with consequent declines in production.</p><p><b>Table 3: Pacific coffee production (crop year, thousands of 60-kg bags)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="151" valign="top">  &nbsp;
+  </td><td width="113" valign="top">  <b>2010/11</b>
+  </td><td width="104" valign="top">  <b>2011/12</b>
+  </td><td width="116" valign="top">  <b>2012/13</b>
+  </td>
+</tr>
+
+<tr>
+<td width="151" valign="top">  Papua New Guinea
+  </td><td width="113" valign="top">  870
+  </td><td width="104" valign="top">  1,414
+  </td><td width="116" valign="top">  1,200
+  </td>
+</tr>
+
+</table>
+<p>Source: ICO/CommodAfrica</p><p>PNG is facing problems with third-party certification (TPC), where the “costs of compliance often lead to the exclusion of smallholders”. This situation is compounded by road infrastructure constraints and weaknesses in the supply chains, which mean that 50 to 85% of possible third-party certified coffee is “sold to alternate ‘predatory’ buyers at a much lower rate”. Overall it is held that while “in most cases the benefits of TPC for farmers outweigh the costs… only a few thousand farmers supply the market.” It is considered that more needs to be done to strengthen producer organisations and improve infrastructure, which could reduce the cost of TPC (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Coffee/Constraints-on-product-differentiation-in-the-Pacific" target="_self">Constraints on product differentiation in the Pacific</a>’, 13 June 2013). There would appear to be scope for this type of support through the US$46.3-million World Bank-funded project, ‘Productive Partnership on Agriculture’.</p><p>In 2012, an agreement was reached with fair-trade organisations in Australia and New Zealand to develop sustainable coffee farming in PNG. So far, only the Neknasi Coffee Cooperative (Morobe Province) has received Fairtrade certification and eight others are in the process. Meanwhile, PNG coffee companies have been invited to the 10th China Agriculture Trade Fair.</p><p>Apart from PNG, initiatives were launched in June 2012 to boost the coffee sector in Samoa, including a programme to distribute seedlings of improved arabica varieties and NGO initiatives to support direct sales to the New Zealand Coffee House chain.</p><a name="eztoc2813204_0_3" id="eztoc2813204_0_3"></a><h3>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implications for the ACP</h3><p><b>3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scope for joint action in developing new markets in emerging economies</b></p><p>The continued dependence in East Africa on a limited number of export markets remains a concern, despite strong consumption growth in emerging economies and policy commitments to diversification. Given the limited success to date of national market diversification efforts, a concerted region-wide strategy for repositioning the EAC coffee sector may yield greater benefits. A regional approach could potentially:</p>
+<ul>
+
+<li>mobilise more resources;</li>
+
+<li>achieve economies of scale in developing new marketing strategies (particularly for quality-differentiated and value-added coffee products);</li>
+
+<li>allow more cost-effective instruments of support to be established.</li>
+
+</ul>
+<p>These would assist with necessary investment in improved competitiveness and value-added processing in order to exploit the evolving global market trends.</p><p>Indeed, when it comes to getting to grips with new markets such as China (the size of which makes intra-ACP competition a non-issue), a case can be made for joint ACP coffee sector programmes, given the commonality of the challenges faced and the diverse experience to date of individual ACP coffee sectors. This is particularly the case when it comes to developing investment and trade strategies and developing commercial relationships for marketing coffee in China. The key challenge is to engage with these new markets in ways that structurally transform the basis of engagement of individual ACP coffee sectors with global coffee supply chains.</p><p><b>3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moving up the value chain in traditional markets</b></p><p>The growing trend in traditional European and US markets toward single-serve coffee pod consumption potentially creates new opportunities for value addition. Kenya already has companies involved in roasting and vacuum packing coffee for direct retail sale. In the horticulture sector, the success of shelf-ready vegetable packs targeting newly emerging market components suggests that there could be considerable scope in the growing market for single-serve coffee pods. Based on retail prices of single-serve coffee pods in the US and the weight of coffee contained in each pod, <i>The</i><i>New York Times</i> estimated the retail-equivalent price for the coffee contained in the pods at around US$50/lb.</p><p><b>3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Getting to grips with evolving market trends</b></p><p>New opportunities for marketing coffee arise: from the gourmet coffee culture, through organic and fair-trade certified coffees, to the growing rise of single-serve coffee pod consumption in traditional markets, and the rise of instant coffee markets in emerging economies. While a variety of national initiatives have been launched to try to tap into these evolving trends, there would appear to be real cost benefits from a collective undertaking of basic analytical work on market trends. This could be carried out at the regional level (e.g. through the African Fine Coffees Association) or collectively at the ACP level, given the commonality of interest across the ACP. More detailed market research could then be left to industry associations to define the specific marketing strategies required in the specific national and regional contexts to most effectively capitalise on evolving trends.</p><p><b>3.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Promoting investment in value-added processing for local markets</b></p><p>In the face of rising urban incomes and changing patterns of consumption as economic growth takes off across the region, Nestlé’s decision to invest in the Cameroonian coffee sector can be viewed as indicative of the growing local and regional demand for value-added coffee products in Central and West Africa. Questions arise, however, over the relative roles that local companies and major multinationals should play in developing production for specific market components. Clear government strategies will be needed to ensure that local companies can also benefit from these emerging market components.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Coffee Organization (ICO), ‘ICO monthly coffee market report’, May 2013</p><p>
+<a href="http://www.ico.org/documents/cy2012-13/cmr-0513-e.pdf" target="_self">http://www.ico.org/documents/cy2012-13/cmr-0513-e.pdf</a></p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ICO, ‘Report on the outbreak of coffee leaf rust in Central America and action plan to combat the pest’, 13&nbsp;May 2013</p><p>
+<a href="http://dev.ico.org/documents/cy2012-13/ed-2157e-report-clr.pdf" target="_self">http://dev.ico.org/documents/cy2012-13/ed-2157e-report-clr.pdf</a></p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oxford Business Group, ‘Papua New Guinea: Coffee industry builds steam’, 7&nbsp;February 2013</p><p>
+<a href="http://www.oxfordbusinessgroup.com/economic_updates/papua-new-guinea-coffee-industry-builds-steam" target="_self">http://www.oxfordbusinessgroup.com/economic_updates/papua-new-guinea-cof...</a></p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ICO, ‘World coffee trade’, web page</p><p>
+<a href="http://www.ico.org/trade_e.asp?section=About_Coffee" target="_self">http://www.ico.org/trade_e.asp?section=About_Coffee</a></p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UTZ, ‘Over 13.3 billion cups of UTZ Certified coffee sold in first half of 2012’, 26&nbsp;July 2012</p><p>
+<a href="https://www.utzcertified.org/attachments/article/26582665/Full%20press%20release.pdf" target="_self">https://www.utzcertified.org/attachments/article/26582665/Full%20press%2...</a></p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ugandan Coffee Development Authority, ‘UCDA monthly report’, May 2013</p><p>
+<a href="http://www.ugandacoffee.org/resources/reports/08%20May%202013%20report.pdf" target="_self">http://www.ugandacoffee.org/resources/reports/08%20May%202013%20report.pdf</a></p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Coffeecorp.org</i>, ‘Production and export statistics’, Papua New Guinea</p><p>
+<a href="http://www.coffeecorp.org.pg/pestats.html" target="_self">http://www.coffeecorp.org.pg/pestats.html</a></p><p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>New York Times</i> ‘$51 per pound: The deceptive costs of single-serve coffee’, 2&nbsp;August 2012 
+<a href="http://www.thekitchn.com/51-per-pound-the-deceptive-cost-of-single-serve-coffee-the-new-york-times-165712" target="_self">http://www.thekitchn.com/51-per-pound-the-deceptive-cost-of-single-serve...</a></p><p><b>About this update</b></p><p>This brief was updated in October 2013 to reflect developments since August 2012. Other publications in this series and additional resources on ACP–EU agriculture and fisheries trade issues can be found online at 
+<a href="http://agritrade.cta.int/" target="_self">http://agritrade.cta.int/</a>.</p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Executive-Brief-Update-2013-Coffee-sector">Executive Brief Update 2013: Coffee sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Executive-Brief-Update-2012-Coffee-sector">Executive Brief Update 2012: Coffee sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Executive-Brief-Update-2012-Product-differentiation">Executive Brief Update 2012: Product differentiation</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Coffee-Trade-issues-for-the-ACP">Coffee: Trade issues for the ACP</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":128,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

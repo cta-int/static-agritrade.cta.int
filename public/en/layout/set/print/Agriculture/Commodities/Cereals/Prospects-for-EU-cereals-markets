@@ -1,0 +1,445 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Prospects for EU cereals markets / Cereals / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																																									
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+																																																																																																																																																																																																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7893/(search)/simple">Cereals</a>
+							
+																																									
+																																																																																																																							,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7813/(search)/simple">EPAs</a>
+							
+																																																																																													,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7814/(search)/simple">EU FTAs</a>
+							
+																																									,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7815/(search)/simple">ACP - FTAs</a>
+							
+																																																																																																																																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7819/(search)/simple">CAP reform</a>
+							
+																																																																																																																																																																																																																																																																																																																																																														
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Prospects for EU cereals markets</h1>
+
+			
+			<h4>
+												01 May 2009
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>In the cereals sector the latest EC review of the prospects for EU agricultural markets and incomes notes that while prices reached record levels up to spring 2008, this was followed by ‘a rapid decline’, taking prices down to below pre-price-surge levels in some cases. This was partly attributable to the production and policy response to high prices, and partly a product of the economic crisis. With depressed feed demand, cereals prices are expected to remain under pressure. Net EU cereals exports in 2009 are expected to reach 21.5 million tonnes, before falling back to an average of 17.2 million tonnes up to 2013, followed by a further decline to average net exports of 15 million tonnes. </p><p><b>EU: Cereals (million tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="101" valign="top">  Year
+  </td><td width="144" valign="top">  Production
+  </td><td width="162" valign="top">  Consumption
+  </td><td width="126" valign="top">  Imports
+  </td><td width="126" valign="top">  Exports
+  </td><td width="126" valign="top">  Net trade
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2007
+  </td><td width="144" valign="top">  257.7
+  </td><td width="162" valign="top">  267.9
+  </td><td width="126" valign="top">  26.7
+  </td><td width="126" valign="top">  22.4
+  </td><td width="126" valign="top">  -4.3
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2008
+  </td><td width="144" valign="top">  311.9
+  </td><td width="162" valign="top">  270.9
+  </td><td width="126" valign="top">  9.4
+  </td><td width="126" valign="top">  30.5
+  </td><td width="126" valign="top">  +21.1
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2009
+  </td><td width="144" valign="top">  293.0
+  </td><td width="162" valign="top">  271.8
+  </td><td width="126" valign="top">  8.4
+  </td><td width="126" valign="top">  29.9
+  </td><td width="126" valign="top">  +21.5
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2010
+  </td><td width="144" valign="top">  287.7
+  </td><td width="162" valign="top">  272.1
+  </td><td width="126" valign="top">  11.3
+  </td><td width="126" valign="top">  27.4
+  </td><td width="126" valign="top">  +16.1
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2011
+  </td><td width="144" valign="top">  291.0
+  </td><td width="162" valign="top">  273.1
+  </td><td width="126" valign="top">  9.2
+  </td><td width="126" valign="top">  27.2
+  </td><td width="126" valign="top">  +18.0
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2012
+  </td><td width="144" valign="top">  293.6
+  </td><td width="162" valign="top">  275.9
+  </td><td width="126" valign="top">  9.6
+  </td><td width="126" valign="top">  26.3
+  </td><td width="126" valign="top">  +16.7
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2013
+  </td><td width="144" valign="top">  296.2
+  </td><td width="162" valign="top">  279.5
+  </td><td width="126" valign="top">  9.6
+  </td><td width="126" valign="top">  27.7
+  </td><td width="126" valign="top">  +18.1
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2014
+  </td><td width="144" valign="top">  299.0
+  </td><td width="162" valign="top">  283.2
+  </td><td width="126" valign="top">  10.4
+  </td><td width="126" valign="top">  25.6
+  </td><td width="126" valign="top">  +15.2
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2015
+  </td><td width="144" valign="top">  302.0
+  </td><td width="162" valign="top">  288.0
+  </td><td width="126" valign="top">  10.5
+  </td><td width="126" valign="top">  25.3
+  </td><td width="126" valign="top">  +14.8
+  </td>
+</tr>
+
+</table>
+<p>In the medium term a ‘relatively balanced cereals market’ is expected in the EU, partly as a result of the demand stimulus arising from EU biofuel policies, but still with substantial net exports. However, ‘cereal prices are expected to exhibit greater price fluctuations than observed in the past’. With regard to the wheat subsector a similar trend is expected.</p><p><b>EU: Wheat (million tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="101" valign="top">  Year
+  </td><td width="144" valign="top">  Production
+  </td><td width="162" valign="top">  Consumption
+  </td><td width="126" valign="top">  Imports
+  </td><td width="126" valign="top">  Exports
+  </td><td width="126" valign="top">  Net trade
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2007
+  </td><td width="144" valign="top">  119.9
+  </td><td width="162" valign="top">  117.4
+  </td><td width="126" valign="top">  6.0
+  </td><td width="126" valign="top">  12.5
+  </td><td width="126" valign="top">  +6.5
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2008
+  </td><td width="144" valign="top">  150.2
+  </td><td width="162" valign="top">  125.5
+  </td><td width="126" valign="top">  5.7
+  </td><td width="126" valign="top">  19.8
+  </td><td width="126" valign="top">  +12.1
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2009
+  </td><td width="144" valign="top">  137.7
+  </td><td width="162" valign="top">  126.4
+  </td><td width="126" valign="top">  4.9
+  </td><td width="126" valign="top">  17.0
+  </td><td width="126" valign="top">  +12.1
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2010
+  </td><td width="144" valign="top">  136.1
+  </td><td width="162" valign="top">  126.0
+  </td><td width="126" valign="top">  6.9
+  </td><td width="126" valign="top">  16.9
+  </td><td width="126" valign="top">  +10.0
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2011
+  </td><td width="144" valign="top">  138.1
+  </td><td width="162" valign="top">  126.1
+  </td><td width="126" valign="top">  5.6
+  </td><td width="126" valign="top">  17.6
+  </td><td width="126" valign="top">  +12.0
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2012
+  </td><td width="144" valign="top">  139.4
+  </td><td width="162" valign="top">  126.8
+  </td><td width="126" valign="top">  5.7
+  </td><td width="126" valign="top">  17.2
+  </td><td width="126" valign="top">  +11.5
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2013
+  </td><td width="144" valign="top">  140.7
+  </td><td width="162" valign="top">  128.8
+  </td><td width="126" valign="top">  5.8
+  </td><td width="126" valign="top">  17.3
+  </td><td width="126" valign="top">  +11.5
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2014
+  </td><td width="144" valign="top">  142.3
+  </td><td width="162" valign="top">  130.9
+  </td><td width="126" valign="top">  5.9
+  </td><td width="126" valign="top">  16.8
+  </td><td width="126" valign="top">  +10.9
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  2015
+  </td><td width="144" valign="top">  144.2
+  </td><td width="162" valign="top">  133.9
+  </td><td width="126" valign="top">  5.9
+  </td><td width="126" valign="top">  15.5
+  </td><td width="126" valign="top">  +9.6
+  </td>
+</tr>
+
+</table>
+
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>
+EC, Prospects for agricultural markets and income in the EU, full text, March 2009<br />
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2008/fullrep_en.pdf" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2008/fullrep_en.pdf</a></p><p>
+EC, summary text, March 2009<br />
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2008/summary_en.pdf" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2008/summary_en.pdf</a></p><p>
+EC, DG Agriculture and Rural Development information note, March 16th 2009<br />
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2008/index_en.htm" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2008/index_en.htm</a></p><p>
+EC, presentation, March 2009<br />
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2008/pres_en.pdf" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2008/pres_en.pdf</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The scale of the price fluctuations which have occurred and the prospect of a period of considerable volatility in cereals prices is leading some ACP governments to look very carefully at the impact of certain provisions of interim EPAs which impact on the use of trade policy tools in regulating trade in basic food stuffs (import licensing arrangements, agricultural safeguards, export taxes etc). While the EC is establishing financial instruments to insulate EU farmers from the worst effects of price volatility, ACP governments have little scope for using such instruments and continue to make greater use of trade policy tools. This divergent evolution of the use of trade policy tools (with the EU increasingly replacing trade policy tools with financial support tools, and some ACP governments wanting to make increasing use of the trade policy tools that the EU is now replacing with financial support) is throwing up some sharp disagreements between EU and ACP negotiators in the final stages of the IEPA negotiations.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+											
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/China-s-evolving-role-in-global-agricultural-trade">China’s evolving role in global agricultural trade </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cereals/Challenges-facing-the-EU-flour-milling-sector">Challenges facing the EU flour milling sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/EC-impact-assessment-study-suggests-beef-sector-will-be-the-worst-affected-by-an-EU-Mercosur-FTA">EC impact assessment study suggests beef sector will be the worst affected by an EU–Mercosur FTA</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Agricultural-dimensions-of-the-WTO-EU-trade-policy-review">Agricultural dimensions of the WTO EU trade policy review</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/CAP-reform/Emerging-EP-position-broadly-supportive-of-EC-approach-to-2013-CAP-reforms">Emerging EP position broadly supportive of EC approach to 2013 CAP reforms </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":186,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

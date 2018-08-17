@@ -1,0 +1,228 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Obstacles remain to growth of regional food trade in Eastern and Southern Africa / Cereals / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																																
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																																																																																						,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+																																																																																																																																																																																																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7893/(search)/simple">Cereals</a>
+							
+																																									
+																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7816/(search)/simple">ACP regional trade</a>
+							
+																																																																																																																																																																																																			
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Obstacles remain to growth of regional food trade in Eastern and Southern Africa</h1>
+
+			
+			<h4>
+												01 December 2010
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The East African Community’s Common Market, created on 1 July this year, is a big step in the development of cross-border trade, and there are signs that it is starting to grow roots. Nevertheless, recent press reports show that many obstacles still lie across the path of regional commerce throughout Eastern and Southern Africa.</p><p>In 2009, the Great Lakes region already accounted for 46% of Uganda’s exports, the country’s four largest trading partners being Sudan, Kenya, Rwanda and Democratic Republic of Congo. It is of little surprise therefore that Uganda shows open enthusiasm for regional integration.</p><p>Uniting forces with neighbours means ‘having an advantage on trade returns because of a larger market, which is capable of consuming goods and services produced locally,’ said state planning minister Ephraim Kamuntu in October.</p><p>Not all Ugandans appear to agree. At Busia, the bustling border point for Uganda’s food trade with Kenya, local traders complain that they are losing business as Kenyan merchants are now buying fish, maize and beans directly from Ugandan producers. However, this is a clear sign that Ugandan and Kenyan markets are beginning to integrate.</p><p>And not a day too soon, judging by the World Bank’s figures. Obiageli Ezekwesili, the Bank’s vice-president for Africa, reported recently that only 10% of African trade is conducted within the continent, compared to about 60% in western Europe, half a century after Europe’s Common Market was started.</p><p>Tanzania seems to be in a good position to benefit from the new Common Market after a bumper crop of 12.8 million tonnes of food this year, including a 38% increase in the maize crop to 4.73 million tonnes. The millet crop rose 31% to 1.18 million tonnes and sorghum by 33% to 1.12 million tonnes, alongside substantially higher production of potatoes, cassava and plantains, according to agriculture minister Stephen Wassira.</p><p>This means an estimated surplus for export of 1.4 million tonnes of food, including 199,000 tonnes of maize and 441,000 tonnes of rice, justifying the government’s lifting of its export ban in October, although wheat, sorghum and millet remain in deficit.</p><p>However, elsewhere it is not proving so easy. After a good harvest Kenya has considered lifting its own maize export ban. But forecasts of lower than usual short rains in October-December this year and possible drought in 2011 have led the government to double the grain reserve’s requirement to 8 million bags of 90 kg.</p><p>And the development of Kenya’s trade with Ethiopia has also gone less smoothly, as Kenya has asked the COMESA secretariat to arbitrate over the list of products that can be traded across the two countries’ border.</p><p>Familiar technical problems also remain. Traditionally, South Africa is an important maize supplier to its African neighbours, and this year it achieved the biggest maize harvest for at least 50 years at 13.6 million tonnes, according to the US Department of Agriculture.</p><p>However, the deterioration of South Africa’s railways and the strength of the rand led the USDA to halve the maize export forecast for the 2010-11 crop year to 2 million tonnes. Rail now carries less than 30% of South Africa’s grain crop from the silos, compared with 85% in the early 1990s.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>New Vision </i>(Kampala), 'Uganda reaping big from the lucrative regional market', 27 October 2010</p><p>
+<a href="http://www.newvision.co.ug/D/9/32/736263" target="_self">www.newvision.co.ug/D/9/32/736263</a></p><p><i>New Vision </i>(Kampala), 'Minister says quicker EAC integration good for business', 27 October 2010</p><p>
+<a href="http://www.newvision.co.ug/D/9/32/736273" target="_self">http://www.newvision.co.ug/D/9/32/736273</a></p><p><i>New Vision </i>(Kampala), 'Busia traders bitter with EA Common Market, farmers happy', 27 October 2010</p><p>
+<a href="http://www.newvision.co.ug/D/9/32/736268" target="_self">http://www.newvision.co.ug/D/9/32/736268</a></p><p><i>Daily Monitor </i>(Kampala), 'Africa’s intra-regional trade lowest – World Bank', 29 October 2010</p><p>
+<a href="http://www.monitor.co.ug/Business/-/688322/1042674/-/3aad9c/-/index.html" target="_self">www.monitor.co.ug/Business/-/688322/1042674/-/3aad9c/-/index.html</a>&nbsp;</p><p><i>The East African</i>, 'At 13m tonnes, Tanzania is headed for a food surplus', 25 October 2010</p><p>
+<a href="http://www.theeastafrican.co.ke/news/-/2558/1038866/-/ongapmz/-/index.html" target="_self">www.theeastafrican.co.ke/news/-/2558/1038866/-/ongapmz/-/index.html</a></p><p>The East African, 'Kenya considers lifting ban after good harvest', 25 October 2010</p><p>
+<a href="http://allafrica.com/stories/201010261099.html" target="_self">http://allafrica.com/stories/201010261099.html</a></p><p><i>Reuters Africa</i>, 'Kenya to double grain reserves after poor forecast', 12 October 2010</p><p>
+<a href="http://af.reuters.com/article/investingNews/idAFJOE69B0GG20101012" target="_self">http://af.reuters.com/article/investingNews/idAFJOE69B0GG20101012</a></p><p><i>Capital FM Kenya</i>, 'Kenya wants COMESA to resolve trade row', 5 November 2010</p><p>
+<a href="http://www.tralac.org/cgi-bin/giga.cgi?cmd=cause_dir_news_item&amp;cause_id=1694&amp;news_id=95146&amp;cat_id=1026" target="_self">http://www.tralac.org/cgi-bin/giga.cgi?cmd=cause_dir_news_item&amp;cause...</a></p><p><i>Agrimoney</i>, 'Rail hitch costs South Africa dear in corn exports', 4 November 2010</p><p>
+<a href="http://www.agrimoney.com/news/rail-hitch-costs-south-africa-dear-in-corn-exports--2442.html" target="_self">www.agrimoney.com/news/rail-hitch-costs-south-africa-dear-in-corn-export...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>One of the objectives of the establishment of the EAC Common Market is to sustain the expansion and integration of economic activities as well as to strengthen, coordinate and regulate the economic and trade relations among the Partner States, in order to promote accelerated growth.</p><p>The press articles underlying the trading experiences above highlight that in order to facilitate the objective of cross-border trade, certain measures have to be in place. There is a price to deeper regional integration, with the risk of some stakeholders losing out, such as the Ugandan traders at Busia (whose role as middlemen has become redundant), but with gains for other stakeholders, such as producers and consumers.</p><p>Kenya, Uganda, Tanzania, Burundi and Rwanda will need to pursue trade facilitation measures vigorously if they are to reap the full benefits of the common market. Many African countries conduct very little trade among themselves, but Uganda is an exception to this on the continent, with about 46% of its exports going to its neighbours. There are many reasons which impede trade among developing countries, including, <i>inter alia</i>, lower regional prices, high transaction costs and poor infrastructure, and especially transportation. This sector is very capital intensive, requiring huge investments, which are sometimes not budgeted for.</p><p>Cereal production is in its nature very cyclical in rain-fed systems, with surplus or shortages occurring frequently. Countries seek export markets in times of bumper crops but governments may tend to close borders (sometimes without notice) during shortages, in order to secure domestic supplies and maximise national food security. These issues underline the importance, particularly where food is concerned, of carefully considering the implications for stakeholders throughout the supply chain when moving to new trading mechanisms such as regional common markets.</p><p>﻿</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Maize-value-chain-East-Southern-Africa-COMESA-launches-Road-Map-to-boost-regional-maize-trade">Maize value chain/East-Southern Africa – COMESA launches Road Map to boost regional maize trade</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Ethiopia-Over-5-million-Ethiopian-farmers-to-benefit-from-IBM-s-ECX-Traceability-System">Input value chain/Ethiopia - Over 5 million Ethiopian farmers to benefit from IBM's ECX Traceability System</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Wheat-value-chain-Zambia-State-bans-wheat-importation">Wheat value chain/Zambia - State bans wheat importation</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Grain-value-chain-Rwanda-Maize-farmers-decry-lack-of-market-for-their-produce">Grain value chain/ Rwanda: Maize farmers decry lack of market for their produce</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cereals/Grain-value-chain-Ethiopia-Meta-local-barley-sourcing-program-said-effective">Grain value chain/ Ethiopia - Meta local barley sourcing program said effective</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":251,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

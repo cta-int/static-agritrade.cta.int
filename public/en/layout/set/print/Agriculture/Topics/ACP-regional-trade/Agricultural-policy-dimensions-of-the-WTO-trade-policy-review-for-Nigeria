@@ -1,0 +1,233 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Agricultural policy dimensions of the WTO trade policy review for Nigeria / ACP regional trade / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																						
+								<a href="/en/layout/set/print/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																				
+							
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7812/(search)/simple">WTO</a>
+							
+																																																																																																																																																																																																																																																																																											
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Agricultural policy dimensions of the WTO trade policy review for Nigeria</h1>
+
+			
+			<h4>
+												09 August 2011
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>A range of WTO trade policy reports for Nigeria has been posted as part of the WTO’s review of trade policies and practices in the country. The WTO Secretariat’s report notes that ‘although the petroleum sector dominates the economy, agriculture is more important to most Nigerians as it represents over half of employment.’ It adds that ‘In 2009, agriculture … contributed 41.7% to GDP’, and that this contribution ‘has been steady in real terms over the past few years reflecting strong growth in output that averaged 6.7% in real terms in the 2004 to 2009 period’. This reflects ‘better prices, a more stable policy environment, and the revaluation of the naira’.</p><p>Despite this, agricultural production is seen in the review as being below potential. Challenges faced include: ‘the small size of farms, the low levels of mechanization and input use, poor infrastructure’, high levels of post-harvest losses due to pests, poor transport and storage conditions, and a lack of access to credit. A number of initiatives are under way to address these various issues, including a new land tenure law, which should improve access to credit.</p><p>Two-thirds of agricultural production in Nigeria is from subsistence farming. Nigeria accounts for half of global production of yams ands cowpeas, and a significant proportion of cashew nuts, cassava, millet, sorghum and cocoa beans. The main cash crops grown on larger farms include palm kernels, cotton, cocoa, rubber and groundnuts.</p><p>The livestock sector in Nigeria represents only 7% of the total value of agricultural production. With the exception of the beef sector, production has been steadily increasing in recent years. Overgrazing is a growing problem in some regions, and with the exception of rinderpest, major animal diseases are endemic.</p><p>Nigeria is a net importer of agricultural goods. According to the WTO Secretariat report, ‘the value of imports increased sharply from 2003 to 2007 but fell back in 2008…Wheat, milled rice, raw cane sugar and whole milk powder make up over half of all imports’. All major imported products except milk powder are sourced from non-EU sources (wheat imports from the USA, milled rice from Thailand, raw cane sugar from Brazil).</p><p>Nigeria’s main exports are ‘cocoa beans and products thereof, sesame seeds, gum arabic, cigarettes, cut flowers, and cotton’, with ‘a dramatic increase in agricultural exports over the past few years, from US$8 million in 2003 to US$2,225 million in 2008’. Despite this rapid growth, agricultural exports are still concentrated in a narrow range of products, with the top 10 products accounting for 93% of the value of agricultural exports. The destination of exports varies by product. Cocoa products are exported mainly to the EU (88%), sesame seeds mainly to Turkey, and gum arabic mainly to India.</p><p>Trade measures used in Nigeria include prohibitions on imports, although the range of products covered is being reduced, with import tariffs increasingly used in place of prohibitions. This policy shift has boosted value-added processing in the food sector, while in some sectors (e.g. biscuits and wheat flour) the move over to tariffs ‘has not led to significant imports of either product’.</p><p>While Nigeria’s 810 agricultural product tariff lines largely fall into four bands (5%, 10%, 20% and 35%) in line with the ECOWAS CET, tariffs for products formerly subject to prohibitions tend to be higher. In 2009 average tariffs on agricultural products were 15.6%, while average tariffs overall were only 11.4%.</p><p>In addition to tariffs, ‘other duties and charges are applied to imports of some products. The charge varies from 100% or 50% on some tobacco products, 30% on some alcohol products, 20% on rice and biscuits, and 10% on sugar. In addition, a 20% sugar levy is applied to tobacco and alcohol products. Value-added tax is also charged upon entry, at a rate of 5% on wide range of alcohol products.’</p><p>According to the WTO Secretariat, ‘Nigeria does not have tariff quotas. Nor does it have export subsidies for agriculture products or export credits specifically for agriculture products.’</p><p>The main objectives of Nigeria’s agricultural policy are:</p>
+<ul>
+
+<li>‘to increase production in order to become self-sufficient in basic foodstuffs’ and </li>
+
+<li>‘to provide raw materials for manufacturing and products for export by improving productivity and increasing employment in agriculture.’ </li>
+
+</ul>
+<p>According to the WTO Secretariat, ‘Nigeria's support to agriculture has been increasing over the past few years although it remains relatively low as a percentage of the value of production’. Three major government programmes are in place:</p>
+<ul>
+
+<li>a programme for the distribution of fertiliser (43% of current spending); </li>
+
+<li>the National Special Programme for Food Security (22% of current spending); </li>
+
+<li>a buyer of last resort/guaranteed minimum-price grain programme (26% of current spending). </li>
+
+</ul>
+<p>Since 2006, the range of government support programmes has been expanded considerably and now includes various infrastructure development programmes aimed at improving value generation, retention and addition in food and agricultural product chains.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>
+WTO, ‘Nigeria Trade Policy Review 2011’, point of access for all WTO Nigeria trade policy review documents, 28 and 30 June 2011<br/>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp347_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp347_e.htm</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Nigeria is a major market for regional agricultural producers in West Africa. Despite nominal commitments to intra-regional free trade, differing agricultural policies and differing agricultural trade policies give rise to widespread smuggling of food and agricultural products. This affects sectors as diverse as rice and poultry. In the rice sector, intra-regional trade takes place to circumvent Nigerian tariff policy, giving rise to unilateral Nigerian measures to restrict trade in rice across land borders. In the poultry sector, the World Bank estimates that some 90% of Benin’s poultry imports are re-exported, primarily to Nigeria, where a ban on poultry meat imports has nominally been in force since 2000.</p><p>In view of these realities, WTO Secretariat references to the periodic use of trade restrictions and non-tariff barriers to trade, such as rules banning the use of containers for goods imported by road, can be seen as just the tip of the iceberg in terms of the complex impact of the use of trade-policy tools by the Nigerian government.</p><p>Trade flows into Nigeria disrupting markets for national producers are however only one side of the coin. The stimulus given to Nigerian value-added processing, arising from the shift from import prohibitions to the use of import tariffs, is leading to a situation where Nigerian companies across a number of sectors are looking to invest in value-added processing to serve regional markets, based partly on local production but also on the import of agricultural raw materials (e.g. the production and export of refined sugar). This is likely to run up against the agricultural trade sensitivities of regional partners, and could potentially lead to the reintroduction of restrictions on intra-regional trade which mirror current Nigerian policy measures.</p><p>In addition, in some sectors physical infrastructure constraints and the absence of common SPS and food-safety standards act as major impediments to Nigerian imports form neighbouring countries. Indeed, for many food products, even where regional production potential exists (e.g. livestock products) it is often easier to import from overseas to serve coastal markets in Nigeria than it is to import from fellow ECOWAS countries.</p><p>There is thus a keen interest in the development of Nigerian agricultural trade policy in the whole West African region, and indeed beyond (South Africa).</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/Does-the-new-US-Farm-Bill-meet-US-cotton-subsidy-reduction-commitments">Does the new US Farm Bill meet US cotton subsidy reduction commitments?</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/Sharp-downturn-in-global-cotton-output-projected">Sharp downturn in global cotton output projected</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Moving-forward-WTO-debates-of-practical-importance-to-the-ACP">Moving forward WTO debates of ‘practical importance’ to the ACP</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Agricultural-dimensions-of-the-WTO-trade-policy-review-for-Guinea-Bissau-Togo-and-Cote-d-Ivoire">Agricultural dimensions of the WTO trade policy review for Guinea Bissau, Togo and Côte d’Ivoire</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/C4-and-China-agree-cooperation-deal-on-fringes-of-the-WTO-Ministerial">C4 and China agree cooperation deal on fringes of the WTO Ministerial</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":142,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

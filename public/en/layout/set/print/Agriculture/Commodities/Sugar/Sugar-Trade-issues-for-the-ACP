@@ -1,0 +1,1087 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Sugar: Trade issues for the ACP / Sugar / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																										
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																																																																																			,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																					
+																																																																																																		,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7815/(search)/simple">ACP - FTAs</a>
+							
+																																																																																																																																																																																																																									
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Sugar: Trade issues for the ACP</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/1783/137788/file/10a2ec65fe493784ea8d86f662e5cda5.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+												31 March 2010
+										</h4>
+
+						<h2>Executive brief: Update, March 2010</h2>
+					</header>
+
+
+				<div class="intro">
+
+						<a name="eztoc43150_0_2" id="eztoc43150_0_2"></a><h3>Contents</h3><p>
+<b>
+<a href="#1" target="_self">1. Background and key issues in the sugar sector.</a></b><br />
+<b>
+<a href="#2" target="_self">2 Latest developments.</a></b><br />
+
+<a href="#2" target="_self">2.1 Progress in EU sugar sector reform</a><br />
+
+<a href="#22" target="_self">2.2 Available EU market management tools</a><br />
+
+<a href="#23" target="_self">2.3 EU corporate restructuring</a><br />
+
+<a href="#24" target="_self">2.4 The 2013 CAP reform: The future of the EU sugar sector</a><br />
+
+<a href="#25" target="_self">2.5 From sugar protocol to duty-free, quota-free access</a><br />
+
+<a href="#26" target="_self">2.6 Managing the EU market</a><br />
+
+<a href="#27" target="_self">2.7 Sugar-protocol accompanying measures programme implementation</a><br />
+
+<a href="#28" target="_self">2.8 Developments at the WTO</a><br />
+<b>
+<a href="#3" target="_self">3 Implications for the ACP</a></b><br />
+
+<a href="#31" target="_self">3.1 Implications of CAP 2013 reforms</a><br />
+
+<a href="#32" target="_self">3.2 Corporate restructuring, functioning of supply chain, and price form...</a><br />
+
+<a href="#33" target="_self">3.3 The WTO dimension</a><br />
+
+<a href="#34" target="_self">3.4 Sugar-protocol accompanying measures: Implementation issues</a><br />
+
+<a href="#a" target="_self">Annex: EU sugar-protocol beneficiaries and disbursement rates.</a><br /><b>
+<a href="#s" target="_self">Information sources.</a></b></p><p><b>About this update:</b></p><p>CTA’s Executive brief:<i> Sugar: Trade issues for the ACP</i>, was published in January 2009 and in CTA’s <i>Agritrade: ACP–EU Trade Issues (2009 Compendium)</i>. This update consists of: </p><p>
+<b>1. Background and key issues:</b> briefly summarising the original executive brief, and where necessary, updating developments related to key issues; <br />
+<b>2. Latest developments:</b> reviewing developments that have taken place since the publication of the original executive brief; <br /><b>3. Implications for the ACP:</b> examining the implications of recent developments for the ACP countries concerned. </p><p>The original executive brief (2009) is available on request from: 
+<a href="mailto:info@agritrade.cta.int" target="_self">agritrade-mail@cta.int</a>. </p>
+
+		</div>
+		
+		
+					<a name="eztoc43151_1" id="eztoc43151_1"></a><h2>
+<a name='1'></a>1 Background and key issues</h2><p>ACP access to the EU sugar market traditionally took place under the sugar protocol. This was supplemented over the years by the special preferential sugar arrangement and, from 2002, quota-restricted access under the ‘Everything But Arms’ (EBA) initiative. These arrangements not only provided duty-free access to the EU market, but also a guaranteed price and country-specific export quotas. However these arrangements also gave traditional EU raw sugar cane refiners preferential access to licences to import ACP sugar. Thus, while there were no formal barriers to ACP exporters delivering a range of sugar products, in reality the role of traditional EU refiners in the import process meant that non-raw sugar exports were the exception. </p><p>EU sugar sector reforms were intended to close the gap between EU and world market prices (by shifting from a system of price support to direct-aid payments to farmers). The aim was to establish a reference price which provided a ‘safety net’ but that did not on a day-to-day basis determine market prices. The sugar protocol arrangement was seen by the EC as being incompatible with this new reformed sugar regime, since with price guarantees having been removed for EU farmers they could scarcely be maintained for ACP exporters. In this context, on 1 October 2007 the EU formally announced its renunciation of the sugar protocol, providing the obligatory two years’ notice before its formal termination. This was accompanied by:</p>
+<ul>
+
+<li>the ongoing phased implementation of reductions in the EU reference prices and the corresponding guaranteed price for ACP sugar, totalling 36% over four years; </li>
+
+<li>the progressive introduction (in the context of the interim or full European Partnership Agreements [EPAs] and the full implementation of the EBA initiative) of full duty-free, quota-free access for ACP sugar exports to the EU. The only restriction on this duty-free, quota-free access was a special safeguard mechanism setting a ceiling on total ACP/LDC exports of 3.5 million tonnes of white sugar equivalent. (The ceilings for non-Least Developed Countries [LDCs] were 1.38 million tonnes in 2009/10, 1.45 million tonnes in 2010/11, and 1.6 million tonnes per season from the 2011/2012 season up to and including the 2015/16 season). </li>
+
+</ul>
+<p>The implementation of these measures also saw an opening up of access to import licences, although traditional refiners still retain priority access to import licences for three months, up to the 2.4 million tonnes set out in the ‘traditional supply needs’ of these refiners. </p><p>Taken together, these changes effectively transformed the long-standing basis for ACP exports of sugar to the EU market by:</p><p>a) phasing out the guaranteed price that EU importers were obliged to pay to ACP sugar exporters, and replacing it with an obligation on importers to pay not less than 90% of the reference price up to October 2012;</p><p>b) abolishing the supply obligations and national sugar export quotas and replacing them with full duty-free, quota-free access opportunities;</p><p>c) increasing the scope for exporters to find new routes to evolving EU markets that are less dependent on the import preference of traditional refiners, thereby increasing the scope for the export of more value-added sugars.</p><p>ACP sugar exporters from countries that are LDCs or have initialled or signed interim or full EPAs now have full duty-free, quota-free access to the EU market, but at guaranteed prices which are currently substantially below world market prices.</p><p><b> Table 1: Evolution of ACP price guarantees for raw sugar: 2005–2013</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="99" valign="top">  <b> </b>
+  </td><td width="91" valign="top">  <b>2005/06</b>
+  </td><td width="91" valign="top">  <b>2006/08</b>
+  </td><td width="91" valign="top">  <b>2008/09</b>
+  </td><td width="91" valign="top">  <b>2009/10</b>
+  </td><td width="91" valign="top">  <b>2010/11</b>
+  </td><td width="91" valign="top">  <b>2011/12</b>
+  </td><td width="91" valign="top">  <b>2012/13</b>
+  </td>
+</tr>
+
+<tr>
+<td width="99" valign="top">  Price (euros/tonne)
+  </td><td width="91" valign="top">  €523.70
+  </td><td width="91" valign="top">  €496.80
+  </td><td width="91" valign="top">  €448.80
+  </td><td width="91" valign="top">  ‘Not less than 90% of the EU reference price’
+  </td><td width="91" valign="top">  ‘Not less than 90% of the EU reference price’
+  </td><td width="91" valign="top">  ‘Not less than 90% of the EU reference price’
+  </td><td width="91" valign="top">  Market-related prices
+  </td>
+</tr>
+
+</table>
+<p>Source: collated from European Commission statements.</p><p>The 2005 sugar sector reforms involved moving away from price support and towards direct aid to EU farmers and the establishment of incentives for the renunciation of national sugar production quotas. The measures agreed by the EU member states to bring this about included:</p>
+<ul>
+
+<li>a 36% reduction in the sugar reference price, phased in over four years;</li>
+
+<li>the establishment of decoupled direct-aid payments equivalent to 64.2% of the price cut, with additional coupled payments equivalent to 30% of the price cut on a transitional five-year basis, plus possible national payments for countries giving up more than half of their production quota;</li>
+
+<li>a ‘voluntary’ restructuring scheme for sugar-, isoglucose- and inulin-processing factories, with declining payments (depending on the year of entry into the scheme), aimed at eliminating 6 million tonnes of production quota (with the prospect of compulsory quota cuts if the necessary reductions were not achieved);</li>
+
+<li>the financing of restructuring through a special levy on remaining quota holders;</li>
+
+<li>a special scheme for sugar beet producers affected by factory closures;</li>
+
+<li>a ‘diversification fund’ for member states giving the highest quotas;</li>
+
+<li>the merging of the ‘A’ and ‘B’ production quotas and opening up of possibilities for countries to buy additional production quotas; </li>
+
+<li>a provision for the use of non-quota sugar by the domestic chemical and pharmaceutical industries;</li>
+
+<li>the phasing out of intervention buying over four years;</li>
+
+<li>the opening up of import-licensing arrangements after a four-year transitional period;</li>
+
+<li>the maintenance of MFN import duties and associated import-licensing arrangements;</li>
+
+<li>the maintenance of export refunds for sugar within WTO limits (the EU is allowed to export 1,273,500 tonnes of sugar supported by €499.1 million in financial support, but is no longer able to export ‘C’ quota sugar or the amount equivalent to ‘ACP and Indian imports into the EU under preferential arrangements’) and export-licensing arrangements.</li>
+
+</ul>
+<p>After modification of the original reform measures, the EC succeeded in reducing the volume of EU in-quota sugar production by 5.8 million tonnes of sugar, isoglucose and inulin syrup quota (5.23 million tonnes of sugar). The process of reform has been greatly facilitated by the exceptionally high world market sugar prices, which emerged in 2009. This has supported a rapid return to profitability for the restructured EU sugar sector. Nevertheless, in the medium to long term, if and when there is return to more normal world market prices, the EC will still face the challenge of managing the EU sugar market in order to maintain a balance of supply and demand. </p><p>In this context, the maintenance of high levels of tariff protection makes sugar a controversial issue in the WTO Doha Round negotiations, with the final outcome of a deal on sugar likely to have implications for the trajectory of sugar sector reform in 2013. As the EC remains committed in the long term to the sustainable reduction and, where possible, elimination of the gap between EU and world market sugar prices, it may well be necessary to introduce a further round of sugar sector reforms in 2013, possibly involving the introduction of further cuts in the reference price and the abolition of quota restrictions on domestic EU sugar production. The latter move would be consistent with the EU’s long-term aim of concentrating sugar production in those areas of the EU most suited to sugar production. </p><a name="eztoc43151_2" id="eztoc43151_2"></a><h2>
+<a name='2'></a>2 Latest developments</h2><a name="eztoc43151_2_1" id="eztoc43151_2_1"></a><h3>2.1 Progress in EU sugar sector reform</h3><p>By the end of 2009, the sugar sector reforms agreed in 2005 had been fully implemented. The reforms implemented included: </p>
+<ul>
+
+<li>the incorporation of sugar into the single farm-payment scheme;</li>
+
+<li>a 36% reduction in the reference price for sugar; </li>
+
+<li>the voluntary renunciation by sugar milling companies of 5.8 million tonnes of nationally allocated sugar, isoglucose and inulin syrup quota (5.23 million tonnes of sugar), following modification of the initial incentive package for beet millers and beet farmers. </li>
+
+</ul>
+<p>The reforms saw the end of sugar production in five EU member states, and major production-quota reductions of between 44.6 and 74% of nationally allocated quotas in a further six EU member states. All the other sugar-producing EU member states also contributed to the process of quota reduction, giving up between 4.1 and 24% of nationally allocated quotas. As a consequence, EU sugar production is concentrated in the seven member states with the highest sugar yields, with these countries accounting for 70% of EU sugar production. The exit of the least competitive producers from the sugar sector has improved the average competitiveness of the EU sugar sector, both at the level of beet production and beet processing. It has also seen beet refiners extend their processing of imported raw cane sugar. These trends are wholly consistent with the basic objective of the EU Common Agricultural Policy (CAP) reform process: that of shifting sugar production to the areas of the EU most suited to its production.</p><p>While production quotas were reduced in all EU member states, this did not always result in an actual reduction in the volume of sugar beet harvested and sucrose extracted. In June 2009, Reuters reported that sugar production in Germany, the second-largest national quota holder in the EU, was 28.6% above the post-reform quota, and indeed exceeded the pre-reform quota level. Biofuel production was the main outlet for this out-of-quota production in Germany. In this context, the EU’s biofuel policy will clearly play a role in the future of the EU sugar beet sector.</p><p>While the sugar reference price was reduced by 36%, the ‘exceptional market conditions’ that prevailed in 2009/10 saw the world market price of sugar reach record price levels (up to 30 US cents/lb), which were some 29% above the EU reference price. For the first time since the 1970s, world market sugar prices were not only substantially above the reference price but also ‘well above the market price for EU quota sugar’. This has created a situation where, at least on a temporary basis, the EU reference price is truly a ‘safety net’ price and has no influence on price formation in the EU sugar sector. Under these exceptional market conditions EU sugar prices have been largely determined by the world market price of sugar. This allowed the EC to table a regulation on 27 January 2010 for ‘the export of an additional 500,000 tonnes of out-of-quota sugar in the 2009/10 marketing year’ (up to 31 July 2010), without in its view violating its WTO obligations (since, the EC argues, at current world market prices EU companies can profitably export without any need for cross-subsidisation). It was argued by the EC and the EU beet industry that this measure ‘can contribute to easing the tight demand situation on the world market’, to the benefit of consumers in poor countries. It should be noted, however, that given the tight corporate control of sugar markets, consumers tend to be the last ones to benefit from changes in sugar prices. The EC also recognises that ‘the present market situation for sugar is very unlikely to occur again in the future’.</p><p>As a consequence, the EC is committed to keeping the situation under constant review. While high world market prices have facilitated the EU reform process, it is recognised that the situation is likely to change as global production responds to high global sugar prices. Against this background, the EC remains committed to a managed sugar trade regime, with the success of market management measures being an important determinant of whether preventive withdrawals of production quotas are necessary, and indeed whether reforms including further reductions in the sugar reference price will be required as part of the 2013 round of CAP reforms.</p><a name="eztoc43151_2_2" id="eztoc43151_2_2"></a><h3>
+<a name='22'></a>2.2 Available EU market management tools</h3><p>The EC currently has three basic market management tools available, apart from the production quota system. These are export refunds, the inward processing regime, and the management of tariff-rate quota-regulated imports. In terms of export refunds, extensive use is made of this tool within the WTO constraints. The EC’s latest notification to the WTO of its use of export refunds revealed that while the use of export refunds has declined in other sectors, in the sugar sector their use has risen. In addition the EC is coming under pressure from both EU beet growers and sugar processors to keep market opportunities open by making greater use of non-annex I export-refund provisions to support the export of sugar containing food and drink products. This is despite an EC policy position in favour of abolishing export refunds by 2013, regardless of the outcome of the Doha Round of WTO negotiations.</p><p>In terms of the management of tariff-rate quota (TRQ) access, in response to a failure of the sugar and chemical industries to agree on new supply and price arrangements, in June 2009 the Commission took unilateral action by establishing ‘an annual tariff-rate quota of 400,000 tonnes of sugar to ease conditions of supply to the chemical industry’. This was designed to address problems that have arisen in securing competitively priced sugar for the EU chemical industry, despite a reform process that was lowering the price of EU-produced sugars. In a related development the EC is looking to ‘develop guidelines to level the playing field’ in the national management of inward processing arrangements, intended to enable export-oriented industrial users of sugar to access competitively priced sugar supplies. However the EC has warned industrial users of sugar that the inward processing regime is dependent on specific economic circumstances to justify its operation, and should not be taken for granted, particularly given the reduction in EU sugar prices under way. Clearly difficulties are arising within the process of reform, related to price formation within sugar supply chains. It was recognised from as early as 2000 in discussions on sugar sector reform that this could be a problem, and that market access measures could be used as a tool to encourage necessary reforms: the granting of EBA access in 2001 was the first example in this regard. The use of trade-policy tools to facilitate the attainment of fundamental policy objectives continues to be a feature of the EC’s management of the sugar regime, with an important fundamental objective of securing competitively priced agricultural raw-material inputs for an increasingly globally oriented EU value-added food and drinks industry. This has important implications for the ACP in terms of their concerns to ensure remunerative prices for ACP sugar exported to the EU market in the post-reform context.</p><p>Depending on trends in world market prices, the use of such market management tools as TRQs and inward processing arrangements could potentially create a situation where there are two prices for sugar imported into the EU: the minimum price that importers are required to pay for ACP sugar up to October 2012, and the world market price paid for sugar imports under TRQ and inward processing arrangements (subject, of course, to certain specified tariffs). The current high world sugar prices have of course to date prevented the emergence of such a situation, with current projections suggesting that world market prices are unlikely to fall below 90% of the EU reference price before 1 October 2012. There would therefore appear to be little immediate prospect of the emergence of a dual-price system for sugar imports, creating pressures for further reform of the EU sugar regime.</p><p>Effective management of the EU sugar market, within the framework of the long-term objective of closing the gap between high EU prices and lower world market prices, is critical to the future of the EU sugar regime. Should major market imbalances emerge and stocks of sugar begin to build up in the EU, the EC will look towards a further round of sugar sector reforms, possibly involving compulsory cuts in production quotas and even a further reduction in the reference price.</p><a name="eztoc43151_2_3" id="eztoc43151_2_3"></a><h3>
+<a name='23'></a>2.3 EU corporate restructuring </h3><p>Many European sugar companies are returning to profitability following the trauma of reform, which can be seen as an indication of the success of the reform process, with the EU sugar sector appearing to be in the process of successfully repositioning itself to play an expanded role in the global sugar trade. While this has been greatly facilitated by record high global sugar prices, it is also a consequence of the restructuring which EU sugar companies have been undertaking. This has involved mergers and takeovers of sugar companies, the creation of new joint ventures and the development of marketing alliances, both within the EU and globally, with a number of ACP sugar suppliers intimately involved in this process. This corporate response to EU sugar sector reform represents a significant feature of the post-reform reality, with these changing patterns of corporate investment and corporate alliances likely to have an important bearing on how different ACP sugar sectors are able to position themselves in response to the EU market realities. The restructuring process has seen a further consolidation of ownership across Europe, with over 80% of the EU sugar sector now being in the hands of eight companies, and a growing engagement of EU beet refiners in international trade in cane sugar produced outside the EU.</p><p>Associated British Foods, for example, which owns British Sugar, now has almost two-thirds of its sugar production outside the EU, while managers at the French sugar company Tereos (now the second biggest sugar maker in Brazil) expect its business to be ‘more and more global’ and ‘less and less French’. With other major players such as Suedzucker and Nordzucker making similar alliances, a situation may arise in the coming years where the major EU sugar-processing companies could have very different interests from EU sugar beet producers when it comes to the maintenance of tariff protection around the EU sugar market. Potentially this could lead to a divergence in the positions adopted by EU sugar millers and EU sugar beet producers on the issue of the future liberalisation of access to the EU sugar market, although it should be noted that companies such as Tereos and Suedzucker have an important presence of beet growers on their boards: in the case of Suedzucker, 55% of the shares are held by beet growers.</p><a name="eztoc43151_2_4" id="eztoc43151_2_4"></a><h3>
+<a name='24'></a>2.4 The 2013 CAP reform: The future of the EU sugar sector</h3><p>As early as May 2008, Agriculture Commissioner Mariann Fischer Boel indicated that ‘it is very unlikely that the sugar sector will be able to sit out’ the 2013 round of CAP reform. In May 2009, further indications were given of what this might entail, with Commissioner Fischer Boel’s Head of Cabinet telling European sugar beet growers to ‘think about a future without quotas<i>’</i>. In the summer or autumn of 2010, the EC will present a communication containing proposals for further reforms in order to launch a public debate on the issue. This will be followed by ‘legal proposals in mid-2011, together with Financial Perspective proposals’. In the sugar sector, these will be based on assessments of the long-term prospects for world sugar prices, the likely euro-US dollar exchange rate, likely oil prices, global prices for other arable crops, the likely competition from other arable crops for land at current EU reference prices, and specific proposals for the abolition of production quotas. The latter dimension is likely to be one of the most significant aspects of any reform proposals, as the overall aim will be to maintain a market balance in the EU, within a trend towards increased access to the EU market for third-country sugars. The market situation in the EU is important for ACP suppliers, as it will have a direct impact on the prices obtained for ACP sugar once price guarantees are abolished from 1 October 2012.</p><p>With so many uncertain factors influencing price formation at the global level, the EC is likely to seek to retain considerable policy flexibility in pursuing its longer-term objectives. What is clear is that with longer-term EU objectives requiring a substantially smaller gap between EU and world market prices, further reductions in the EU reference price cannot be ruled out. In the case of other arable crop sectors subject to reform, the final reduction in the administratively determined floor price was of the order of 50% of the pre-reform price. In this context it should be borne in mind that the EC’s longer-term objective is to turn the reference price into a ‘safety net’ price (in the context of the direct-aid payments made to farmers under the single payment scheme) with no influence on day-to-day price formation on sugar markets. In this policy environment, the functioning of the sugar supply chain, particularly the distribution of commercial power along the chain, is likely to become the critical issue in price formation, and hence a critical issue for ACP sugar exporters. </p><a name="eztoc43151_2_5" id="eztoc43151_2_5"></a><h3>
+<a name='25'></a>2.5 From sugar protocol to duty-free, quota-free access</h3><p>The sugar protocol formally came to an end on 1 October 2009. After that date, all ACP sugar-protocol beneficiaries and LDC sugar exporters then enjoyed full duty-free, quota-free access to the EU market, either under an initialled or signed interim or full EPA, or, in the case of LDCs, under the EBA initiative. This followed the phasing out of transitional quota-restricted access under both these sets of trade arrangements. The only restriction on ACP/LDC exports is the ACP-wide automatic safeguard clause (with a double trigger, including an overall ceiling of 3.5 million tonnes), applicable solely to non-LDC ACP sugar exporters. </p><p>The most significant aspect of the abolition of the sugar protocol was the end of traditional price guarantees. Under the new duty-free, quota-free market access arrangements up to 1 October 2012, EU importers of ACP sugar are required to pay not less than 90% of the EU sugar reference price. With 1 October 2009 having seen the full introduction of the agreed reductions in EU reference price for raw sugar to €335, this means that the price guarantee for imports of raw sugar from ACP/LDC suppliers is now €301.5 per tonne. After 1 October 2012, even this price guarantee will fall away, with price paid for ACP sugar being determined by the ‘market forces’ at play in the EU.</p><p>In 2009/10 the strength of the world market price prevented the full effects of EU sugar price reductions being felt in the supply contracts negotiated by many ACP sugar exporters. Indeed, with the entry of beet refiners into the market as major importers of ACP sugar, a situation has been created where an increased number of EU sugar importers are chasing a limited volume of preferential sugar provided by ACP/LDC suppliers. With minimum price guarantees still in place, and, more importantly, very high world market prices, this is creating a situation where a number of ACP suppliers have been able to find new partners for the export of their raw sugar, with in some instances profit-sharing arrangements on the sale of refined products being set in place, which serve to enhance revenue flows to the concerned ACP suppliers. This has encouraged traditional refiners to set in place similar arrangements. It is also encouraging some ACP exporters increasingly to move out of the export of raw sugar and into the export of speciality and direct consumption sugars, which also serve, despite the EU price reductions, to enhance the revenue streams earned from sugar sales on the EU market. ACP exporters have also benefited from the global economic downturn, which has massively reduced freight rates for sugar. However this gain is likely to be short lived, with global economic recovery likely to drive freight prices back up towards the pre-recession trend of rising freight costs. </p><p>Despite these positive developments, however, as of February 2010 the market prices being paid for ACP sugar on a cost, insurance and freight (cif) basis were substantially below the prices available on regional and world markets, indeed an estimated €80/t lower. This has created a new dilemma for ACP sugar exporters, whereby meeting their contractual commitments to supply the EU market is resulting in short-term revenue losses, compared to prices obtainable on regional and world markets. It should be borne in mind, however, that this development is entirely consistent with the EC’s long-term policy aspirations to secure low-price inputs to its increasingly globally oriented value-added food and drinks industry. Given the EC belief that current conditions on the world sugar market are unlikely to be sustained, the EC’s aim remains to establish a policy framework that will ensure that this underlying policy objective can be attained, on a sustainable basis.</p><p>Against this background, a fear remains that beyond 1 October 2012 a limited number of EU importers will be able to play ACP/LDC suppliers off against each other, in ways which result in a deterioration of the price paid for ACP sugar. This might potentially depress the price towards – or even below – the current guaranteed floor price of €301.5/tonne. The evolution of world market prices beyond 1 October 2012 will have a critical bearing on developments in this regard. It should be also noted in this context that the shift to duty-free, quota free access and the abandonment of price guarantees under the sugar protocol will have varying impacts on different ACP regions and countries, depending of course on the underlying costs of production, the alternative revenue streams which can be profitably opened up, the level of world market prices for sugar (given the influence of current price levels on EU market prices) and the national trade and production adjustment strategies adapted. (More detail can be found in the special report on ‘Regional perspectives on the impact of changing EU-ACP sugar sector relations’). What is clear is that in the new market context, all ACP sugar suppliers will face increasingly complex competitive pressures. </p><a name="eztoc43151_2_6" id="eztoc43151_2_6"></a><h3>
+<a name='26'></a>2.6 Managing the EU market</h3><p>ACP sugar industries remain committed to working with the EU to manage the EU market in order to avoid market imbalances. On 19 November, ACP ministers reiterated their commitment to a ‘managed market which ensures an adequate level of remunerative price, which safeguards the interests of all ACP sugar suppliers’. This is seen as essential in a context where price guarantees for ACP sugar will be abolished from 1 October 2012. Governments from both ACP and LDC sugar-exporting countries are seeking to establish new mechanisms for effectively managing sugar exports, in order to avoid the invocation of the pan-ACP safeguard clause, which EU domestic sugar beet interests (the International Confederation of European Beet Growers, ICEBG) are urging the EC to enforce vigorously. Current efforts are greatly facilitated by the high world market prices for raw sugar (a world market price of 27 US cents/lb translates into a free on board (fob) price of €421.7/t, substantially above the guaranteed price for ACP sugar), the surplus of demand over supply, and the high price premiums available for white sugar. This is in some instances making regional markets more attractively priced than EU markets, thereby reducing ACP sugar exports to the EU.</p><p>However, in the longer term, the collective desire to manage ACP/LDC sugar exports to the EU, in order to avoid the invocation of the pan-ACP safeguard clause, needs to be balanced against the desire of individual ACP sugar exporters to maximise the volume of their sugar exports to the EU as a means of compensating for the reduction in the unit price offered for ACP sugar. It also needs to be seen in the context of the EU’s long-term objective of securing low-cost sugar for an increasingly globally oriented European value-added food and drinks industry. This objective may require further reductions in the EU sugar price, depending on trends in world market prices. In this context it needs to be borne in mind that the EC’s objective in managing the EU sugar market is not primarily to sustain traditionally high EU sugar prices: it is rather to manage the transition to lower, globally competitive, pricing of sugar used by European value-added food and drink product manufacturers. However it should be borne in mind that this objective is not shared by all the EU member states (nor indeed by all departments of the European Commission), with this struggle between the interests of primary producers and processors constituting an important battleground for the future. </p><p>A further complicating factor as regards the management of the EU sugar market is the process of bilateral preferential trade-agreement negotiations in which the EU is involved. This relates not only to the Mercosur negotiations, but also to the negotiations with Central American and Andean Pact countries where, according to sugar industry sources, new preferential market access arrangements amounting to 320,000 tonnes have been discussed. It is thought that this could serve to undermine the key ACP policy objective of maintaining preferential access behind a solid wall of EU tariff protection in order to sustain a stable and remunerative price for ACP sugar.</p><a name="eztoc43151_2_7" id="eztoc43151_2_7"></a><h3>
+<a name='27'></a>2.7 Sugar-protocol accompanying measures programme implementation</h3><p>For the period from 2007-10, the first multi-annual indicative programming phase of EU sugar-sector adjustment support, a total of €615,324,000 was allocated in support of the various national adaptation strategies. The performance in terms of utilisation of funding has varied considerably between countries. In general, countries receiving assistance in the form of budgetary support have enjoyed faster rates of commitments and disbursements than under a conventional programme approach: aggregated across the countries concerned, disbursements as a percentage of funds allocated are four times higher, with total disbursements more than 10 times the volume (see tables in Annex for details). </p><p>The most successful country at utilising the sugar-protocol accompanying measures funding in the form of budgetary support has been Mauritius: by April 2009, over half of its allocation for the 2006-08 period (€39.8 million out of a total of €74.866 million) had been disbursed. In comparison, other southern and eastern African sugar-protocol accompanying measures beneficiaries were able to disburse only 11% of their allocated funding over the same period, largely using programme-based aid-deployment processes. In one case the secondary commitment rate was not rapid enough to retain the full initial allocation, and some €11.1 million of funds initially allocated were withdrawn from the programme.</p><p>The success of the Mauritius programme can be attributed to the existence of a pre-existing restructuring programme, behind which a broad stakeholder consensus had been built. It was characterised by: </p>
+<ul>
+
+<li>an active policy of diversification of revenue streams from sugar cane production;</li>
+
+<li>a market-led policy for repositioning Mauritian sugar exports on the EU market, including a redefinition of the routes to market; </li>
+
+<li>the implementation of a rigorous cost-reduction programme at field and factory levels, including a rationalisation of production;</li>
+
+<li>the establishment of mechanisms to distribute the benefits of restructuring across all stakeholders;</li>
+
+<li>a broad stakeholder consensus on the strategies to be pursued; </li>
+
+<li>effective public administration for the deployment of pump-priming support to the production process;</li>
+
+<li>a strong financial involvement of the private sector in the financing of overall restructuring; </li>
+
+<li>a close coordination of sugar-sector restructuring with broader economic adjustment processes;</li>
+
+<li>the maintenance of an ongoing and constructive dialogue between the private sector, governments and the local EC delegation, which greatly facilitated implementation.</li>
+
+</ul>
+<p>This has facilitated not only a rapid disbursement of available EC assistance, but also its effective deployment in support of a coherent, multi-faceted, market-led production and trade adjustment process. It has also facilitated the mobilisation of additional EU support in the form of loans from the European Investment Bank (EIB) for the expansion of sugar refining capacity.</p><p>Indeed, in no other budgetary-support-based sugar-protocol accompanying measures programme have all these elements come together in quite the same way. Without a similar combination of factors to those in Mauritius, implementation problems have arisen for other countries receiving sugar-protocol accompanying measures assistance in the form of budgetary support. In some instances this is despite the initial achievement of high initial disbursement rates. In the case of Jamaica, which had disbursed 55.5% of allocated funds by April 2009, further disbursements were suspended when the sugar industry privatisation process was halted. This arose when the favoured bidder could no longer raise the necessary capital in the light of the global financial crisis. This suspension affected €30 million in EU budgetary support. In the case of Guyana, where some 43.8% of allocated funding had been disbursed by April 2009, some €6 million in funding was lost following the late submission of GUYSUCO’s business plan.</p><p>This situation led ACP ministers in May 2009 to criticise the EU sugar-protocol accompanying measures programme for the ‘slow pace of delivery … and its strict conditionalities’, which are ‘restricting disbursement of timely support to countries whose economies are facing severe consequences arising from the 36% price cuts on sugar’. Calls were made for the EU to simplify its approach to the delivery of support to sugar-protocol countries affected by the reform of the EU sugar regime and to improve the record of disbursement. ACP ministers have on a number of occasions, most recently on 19 November 2009, called on the EU to extend the implementation period for the accompanying measures programmes beyond 2013, including through the provision of additional assistance to address the impact of preference erosion.</p><a name="eztoc43151_2_8" id="eztoc43151_2_8"></a><h3>
+<a name='28'></a>2.8 Developments at the WTO</h3><p>There are two distinct dimensions to the WTO constraints. The first relates to the current process of negotiations and the second to the possibility of challenges to the reformed EU sugar regime which, according to academic analysis from the University of Barcelona, ‘continues to be regulated through institutional prices, quotas and preferential imports, and to provide for export subsidies’. In this latter regard it should be noted that the Brazilian Sugar Cane Industry Association has objected to the EC decision to allow the export of an additional 500,000 tonnes of out-of-quota sugar, arguing that the EC would be ‘sending wrong signals’ to EU beet growers by permitting the breach of WTO export ceilings and incentivising higher beet sowings in the 2010/11 season. This is despite the recognition that the current high global sugar prices are unlikely to last. It is argued that this EU policy move is ‘short-sighted’, as ‘EU farmers will be left with additional surpluses to be exported’ when sugar prices fall back to historic levels. Against this background the Brazilian Sugar Cane Industry Association called on the EC to submit the planned measure ‘for approval by WTO sugar panel members’ before implementing it.</p><p>The Brazilian criticism raises implicitly the cross-subsidisation effects of the EU’s system of decoupled direct-aid payments to farmers, its trade consequences and its compatibility with WTO rules. However this is a longer-term issue, with current ACP concerns focusing on the implications of any additional TRQ access to EU sugar markets resulting from the Doha Round negotiations (potentially between 485,000 and 675,000 tonnes of additional access to the EU market may need to be granted, should sugar be treated as a sensitive product). Such additional TRQ access has not been taken into account in the EU sugar reform process and could well create an imbalance on the EU market, which would require new measures to maintain the market balance, possibly in the long term (beyond 1 October 2012) involving a further adjustment of the EU sugar reference price. More directly it is feared that expanded TRQ access could lead to increased competition on the EU market, making it more difficult for ACP suppliers to maintain the price paid for ACP sugar through commercial contract negotiations, in the context of the ending of price guarantees from 1 October 2012.</p><p>The EC for its part has stated that it favours an approach towards the treatment of sugar that involves: treating sugar as a ‘preference-erosion’ product, not a ‘tropical product’; the maintenance of a specific safeguard arrangement for sugar; and possibly seeking the treatment of sugar as a ‘special product’, although to date no decision has been taken on whether sugar should be classified as a sensitive product or not. However it should be noted that an agreement had been reached by the EC, the ACP and the tropical product group on the treatment of preference-erosion and tropical products. A letter containing this agreement was sent to WTO Director-General Pascal Lamy and Chair of the agriculture negotiations David Walker on 15 December 2009. Under the proposal set out in the letter, the EU would be allowed to treat sugar either as a ‘sensitive’ product or as a ‘preference-erosion’ product. If sugar were treated as a sensitive product, tariff reductions and the new TRQs would both be implemented in annual instalments over a seven-year period. If sugar were treated as a preference-erosion product, tariffs would be reduced over an eight-year period, with the first two years free from any reduction. This agreement has yet to be multilateralised. However by March 2010 only India, and to a lesser degree Pakistan and China, had voiced objections.</p><a name="eztoc43151_3" id="eztoc43151_3"></a><h2>
+<a name='3'></a>3 Implications for the ACP</h2><a name="eztoc43151_3_9" id="eztoc43151_3_9"></a><h3>3.1 Implications of CAP 2013 reforms</h3><p>Current developments and debates on the treatment of the sugar sector under the 2013 round of CAP reforms suggest that the European Commission will propose the continuation of a gradual process of sugar sector reform, with the ultimate aim of substantially closing the gap between EU and world market sugar prices, as an integral part of efforts to secure competitively priced agricultural raw materials for a globally orientated, price-competitive, value-added EU food and drinks industry. The long-term sustainable attainment of this objective contrasts with the current situation, which is dependent upon a temporary conjuncture of market influences favourable to the attainment of this EU objective. What this means in practice for the administratively determined EU sugar beet price, and the prices paid for ACP raw sugar once EU price guarantees have been removed, will be determined by developments on world markets for sugar, oil, cereals and other competing crops and the euro-US dollar exchange rate. However it should be noted that an initiative taken by the French agriculture minister calling for an end to the erosion of agricultural prices, greater emphasis on food security and environmental issues, for farmers’ concerns to be paramount in the process of policy formulation, and for the role of farmers to be paramount in these policy directives, has received wide endorsement from 22 agriculture ministers in the other member states (as at March 2010). Whether this is indicative of policy reversal or merely the opening shots from agricultural ministers in the financial perspectives discussions remains to be seen.</p><p>Assuming that no fundamental policy reversal is being signalled, the process of gradual reform favoured by the EC seems likely to involve:</p>
+<ul>
+
+<li>the maintenance of a managed trade regime for sugar and sugar products up to 2018/2020, depending on the end of the implementation period of the Doha development agenda, which would limit the range of non-preferential imports;</li>
+
+<li>the possible accommodation of expanded TRQ access through its use to open up access to world market-priced sugar for export-oriented EU food and drink industries, in the context of the EU commitment to the abolition of the use of export refunds potentially from 2013;</li>
+
+<li>efforts to sustain the current beet sugar price in the context of moves towards the dismantling of the production quota management system, with scope being retained for reductions in the administratively determined sugar beet price if market imbalances emerge;</li>
+
+<li>the maintenance or establishment of a range of ‘safety net’ policy tools (e.g. extension of coupled payments, increase in scope for national aid, expansion of support to private storage), to manage the market during the transition away from a quota-managed regime towards the ultimate objective of securing competitively priced sugar for a globally oriented, price-competitive, value-added EU food and drinks industry.</li>
+
+</ul>
+<p>This may or may not be consistent with ACP objectives of ensuring the maintenance of remunerative prices for ACP sugar on the EU market. What needs to be borne in mind is the EU’s ultimate objective of using the reference price as a ‘safety net’ price, while market forces primarily determine the market price. In this context, a growing issue of concern is the process of price formation in the sugar sector, the functioning of the supply chain and the influences affecting the distribution of revenues along the supply chain. The process of corporate restructuring that is under way would appear to have an important bearing on this.</p><a name="eztoc43151_3_10" id="eztoc43151_3_10"></a><h3>
+<a name='32'></a>3.2 Corporate restructuring, functioning of supply chain, and price formation</h3><p>As surviving EU sugar companies seek to win market share in markets formerly exclusively served by national producers, alongside reforms of import-licensing arrangements, the process of corporate restructuring that has taken place in the EU has opened up new routes to market for ACP sugar exporters in the context of the entry into force of full duty-free, quota-free access arrangements. A number of ACP exporters are seeking to exploit these opportunities in ways that enhance their share of revenues within the overall supply chain over the long term. This variously involves: </p>
+<ul>
+
+<li>profit-sharing arrangements on the sale of white sugars produced either locally or from imported raw sugar;</li>
+
+<li>the establishment of joint marketing arrangements for the distribution and sale of value-added direct-consumption sugars;</li>
+
+<li>the restructuring of production to serve particular ‘luxury purchase’ markets (fair-trade, organic, speciality or simply quality-differentiated sugars (e.g. Barbados Plantation Reserve, although only small volumes are so far involved).</li>
+
+</ul>
+<p>Those ACP sugar producers actively and effectively pursuing such trade adjustments may well be able to develop a broader range of marketing opportunities that allow them to be more responsive to ongoing market changes. However, the flexibility now available to ACP raw sugar exporters appears to be strengthening their hand in commercial negotiations with traditional refiners as well. The marketing and commercial skills of sugar industry personnel in individual ACP countries are increasingly likely to be a critical factor in the distribution of revenues along the supply chain. </p><p>This being stated, the nature of the changing intra-corporate relationships in Europe is also likely to play an important role. Indeed, the process of alliance formation and corporate consolidation taking place across the EU sugar sector raises important issues about the functioning of the sugar supply chain. Competition authorities have already launched investigations and insisted on the divestment of certain assets in response to industry consolidation. As analysis by the Institute for International Integration Studies (IIIS) has argued, with a limited number of buyers and potentially up to 30 ACP/LDC countries wanting to export sugar to the EU under duty-free, quota-free arrangements, a situation could arise where EU sugar refiners ‘will be in a very strong position to play off one supplier against another and to bid the price down, thus extracting the preferential rent’. </p><p>Current market realities of course mean that this is far from the case at present. The current situation is that too many EU processors are chasing too little preferential raw sugar. This is taking place against the background of a diminishing belief in the ambitious production expansion plans in the LDCs and a termination of the earlier ‘triangular trade’, whereby certain ACP sugar producers exported large volumes to higher-priced EU markets and imported lower-priced world market sugar to meet domestic needs. This situation means that up to 2012/13 it seems unlikely that the 3.5 million-tonne ACP/LDC safeguard ceiling will be breached, and hence unlikely that the IIIS scenario will emerge.</p><p>Indeed, currently, given the tight supply situation, corporate managers in the EU appear to be acutely aware of concerns over possible abuse of a dominant market position and are actively seeking to reconcile the interests of ACP suppliers with those of domestic EU producers and policy makers, in ways which avoid any hint of abuse of a dominant market position. The question arises, however, as to whether this would continue to be the case in a context of declining global prices and increased pressures from policy makers to deliver the benefits of sugar sector reform to end-consumers in the EU.</p><p>Against this background, it should be noted that the issue of inequality in power relationships along food supply chains has been a major focus of attention in 2009 within the EU, with regulatory proposals expected to emerge in the course of 2010. The initial indications are that such proposals will seek to address ‘significant tensions in contractual relations between actors in the chain, stemming from their diversity and differences in bargaining power’ and a ‘lack of transparency of prices along the food chain’. </p><p>These developments may have relevance for the future of ACP-EU sugar sector relations. Indeed, it can be argued that setting mechanisms in place now, to ensure transparency of corporate relationships and associated price formation along the ACP-EU sugar supply chains, should form an integral part of EU efforts to address the diversity in power relationships along sugar supply chains in the context of the moves towards market-based price formation. Such a course of action would appear to be wholly consistent with the emerging internal EU policy on the functioning of food supply chains. Against this backdrop, closer ACP-EU collaboration in examining the functioning of the sugar supply chain in the run-up to the termination of price guarantees, in October 2012, would appear appropriate. </p><a name="eztoc43151_3_11" id="eztoc43151_3_11"></a><h3>
+<a name='33'></a>3.3 The WTO dimension</h3><p>Developments around the resolution of the banana dispute suggest that the EU is likely to be given an extended period of time to further adjust its sugar regime as part of the Doha Round. Given the difficulties faced in securing low-priced sugar for the chemical industry and export oriented EU value-added food and drink manufacturers, there would appear to be scope for the EU to accommodate expanded TRQ access by expanding the access of EU industrial users to competitively priced sugar. In this context it need not require a further round of sugar reference-price reductions as part of the 2013 round of CAP reforms, but may well choose the ‘opportunities’ offered by free-trade area (FTA) negotiations.</p><p>Whether the 2013 CAP reform process will include further reductions in the sugar reference price is much more likely to be influenced by the level of world market prices for sugar, the price levels of arable crops that compete with sugar for land, the oil price and the development of biofuel policies, and the euro-US dollar exchange rate. However, the expansion of TRQ access is likely to increase the competitive pressure in commercial contract negotiations, which will themselves be strongly influenced by the distribution of power along the supply chain.</p><p>Of more fundamental concern at the WTO level would be any successful challenge to the basis of the reformed EU sugar regime, for example, through challenging the cross-subsidy effects of the direct-aid payments, as this would once again require further substantive reform. However, while this remains an academic possibility, in reality it seems a remote prospect in the coming ten-year period.</p><a name="eztoc43151_3_12" id="eztoc43151_3_12"></a><h3>
+<a name='34'></a>3.4 Sugar-protocol accompanying measures: Implementation issues</h3><p>The issue of improving the commitment and utilisation of funds in support of sugar sector adjustments in most of the beneficiary countries of the sugar-protocol accompanying measures programme is critical. Without such improvements, additional funding will simply increase the backlog of unutilised funds. A critical policy issue which needs to be addressed by the EC at the operational level is the role that ACP sugar industry organisations should play in the design and implementation of EU-supported adjustment measures. Currently in a number of sugar-protocol accompanying measures beneficiary countries there appears to be a significant divergence in the priorities of the local sugar industry, where the emphasis is on support for direct cost-reducing and revenue-enhancing measures, and those of the EC and national ACP governments, where the emphasis is largely on traditional physical infrastructure investments (e.g. road development) and capacity building in government (not industry) structures.</p><p>It could therefore be important to consider new industry-designed and -managed, targeted programmes that directly address the particular competitive challenge thrown up by the EU sugar sector reform process. This will require not only a redefinition of the role of the private sector, but also a redefinition of the role of the state. Experience in other sectors, such as the Caribbean rum sector, suggests that the state should play a facilitating role in supporting market-led, private-sector-based adjustment processes, implemented within policy frameworks that ensure an equitable distribution of the benefits of the restructuring process in ways consistent with broader economic and social development policy objectives. It is this latter dimension that gives the legitimacy to the use of public funds in support of what essentially need to be market-led and private-sector-based production and trade adjustment processes.</p><p>This being noted, however, the specific circumstances in the Caribbean sugar sector – where governments play a much larger role, given the domestic, socio-economic and political significance of the sector – suggest that the balance between public- and private-sector-led restructuring will need to be carefully defined to take into account such industry specificities.</p><a name="eztoc43151_3_13" id="eztoc43151_3_13"></a><h3>
+<a name='a'></a>Annex: EU sugar-protocol beneficiaries and disbursement rates</h3><p><b>Table 2: Sugar-protocol beneficiaries: costs of production and transport after restructuring to lower costs (2009)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="744">
+<tr>
+<td width="144" valign="top">  <b>Country</b>
+  </td><td width="100" valign="top">  <p><b>Production costs </b></p><p><b>€/t</b></p>
+  </td><td width="100" valign="top">  <p><b>Transport costs </b></p><p><b>€/t</b></p>
+  </td><td width="100" valign="top">  <p><b>Total cost </b></p><p><b>€/t</b></p>
+  </td><td width="100" valign="top">  <p><b>Pre-reform EU price </b></p><p><b>€/t</b></p>
+  </td><td width="100" valign="top">  <p><b>EU price 2010 </b></p><p><b>€/t</b></p>
+  </td><td width="100" valign="top">  <p><b>Possible 2015 price </b></p><p><b>€/t</b></p>
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  <b>Southern &amp; eastern Africa</b>
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  <b> </b>
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  <b> </b>
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Mozambique
+  </td><td width="100" valign="top">  141
+  </td><td width="100" valign="top">  68
+  </td><td width="100" valign="top">  209
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Malawi
+  </td><td width="100" valign="top">  141
+  </td><td width="100" valign="top">  92
+  </td><td width="100" valign="top">  233
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Zimbabwe
+  </td><td width="100" valign="top">  158
+  </td><td width="100" valign="top">  84
+  </td><td width="100" valign="top">  242
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Swaziland
+  </td><td width="100" valign="top">  176
+  </td><td width="100" valign="top">  76
+  </td><td width="100" valign="top">  252
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Zambia
+  </td><td width="100" valign="top">  141
+  </td><td width="100" valign="top">  116
+  </td><td width="100" valign="top">  257
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Mauritius
+  </td><td width="100" valign="top">  229
+  </td><td width="100" valign="top">  64
+  </td><td width="100" valign="top">  293
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Tanzania
+  </td><td width="100" valign="top">  211
+  </td><td width="100" valign="top">  120
+  </td><td width="100" valign="top">  331
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Kenya
+  </td><td width="100" valign="top">  264
+  </td><td width="100" valign="top">  120
+  </td><td width="100" valign="top">  384
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Madagascar
+  </td><td width="100" valign="top">  317
+  </td><td width="100" valign="top">  80
+  </td><td width="100" valign="top">  397
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  <b>Caribbean </b>
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Guyana
+  </td><td width="100" valign="top">  211
+  </td><td width="100" valign="top">  76
+  </td><td width="100" valign="top">  287
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Belize
+  </td><td width="100" valign="top">  211
+  </td><td width="100" valign="top">  92
+  </td><td width="100" valign="top">  303
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Jamaica
+  </td><td width="100" valign="top">  264
+  </td><td width="100" valign="top">  56
+  </td><td width="100" valign="top">  320
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Barbados
+  </td><td width="100" valign="top">  352
+  </td><td width="100" valign="top">  60
+  </td><td width="100" valign="top">  412
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  St Kitts &amp; Nevis
+  </td><td width="100" valign="top">  440
+  </td><td width="100" valign="top">  80
+  </td><td width="100" valign="top">  520
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Trinidad &amp; Tobago
+  </td><td width="100" valign="top">  440
+  </td><td width="100" valign="top">  80
+  </td><td width="100" valign="top">  520
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  <b>Central &amp; west Africa</b>
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Congo
+  </td><td width="100" valign="top">  229
+  </td><td width="100" valign="top">  104
+  </td><td width="100" valign="top">  333
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Côte d’Ivoire
+  </td><td width="100" valign="top">  264
+  </td><td width="100" valign="top">  112
+  </td><td width="100" valign="top">  376
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  <b>Pacific</b>
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">  Fiji
+  </td><td width="100" valign="top">  229
+  </td><td width="100" valign="top">  80
+  </td><td width="100" valign="top">  309
+  </td><td width="100" valign="top">  523.7
+  </td><td width="100" valign="top">  335.00
+  </td><td width="100" valign="top">  261.85
+  </td>
+</tr>
+
+</table>
+<p>Source: extrapolated from Table 8 of draft report ‘Safeguarding the benefits of the ACP-EU sugar protocol in the context of the EPA negotiations’ (20 February 2007). The possible 2015 sugar price specified in the right-hand column assumes that following the 2013 round of CAP reforms, the sugar reference price is reduced to 50% of the pre-reform level. However, it should be noted that within the EU this is intended as a ‘safety net’ price, and not as determinant of market prices. It is intended that market prices should be well above this level, having been determined by the play of market forces.</p><a name="eztoc43151_3_13_0_1" id="eztoc43151_3_13_0_1"></a><h5>Table 3: Beneficiaries of sugar-protocol accompanying measures programme</h5><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="255" valign="top">  <b>Country</b>
+  </td><td width="285" valign="top">  <b>Multi-annual Indicative Programme (MIP) allocation 2007-10 </b><b>(in euros)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  <b>Southern and eastern Africa</b>
+  </td><td width="285" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Mauritius
+  </td><td width="285" valign="top">  127,541,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Swaziland
+  </td><td width="285" valign="top">  69,895,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Zimbabwe
+  </td><td width="285" valign="top">  22,137,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Malawi
+  </td><td width="285" valign="top">  9,911,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Madagascar
+  </td><td width="285" valign="top">  8,428,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Kenya
+  </td><td width="285" valign="top">  6,230,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Tanzania
+  </td><td width="285" valign="top">  6,000,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Zambia
+  </td><td width="285" valign="top">  6,000,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Mozambique
+  </td><td width="285" valign="top">  6,000,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  <b>Sub-total </b>
+  </td><td width="285" valign="top">  <b>262,142,000</b>
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  <b>Caribbean</b>
+  </td><td width="285" valign="top">  <b> </b>
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Barbados 
+  </td><td width="285" valign="top">  34,677,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Belize<b> </b>
+  </td><td width="285" valign="top">  45,147,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Guyana 
+  </td><td width="285" valign="top">  84,170,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Jamaica 
+  </td><td width="285" valign="top">  77,547,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  St Kitts &amp; Nevis 
+  </td><td width="285" valign="top">  42,286,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Trinidad &amp;Tobago 
+  </td><td width="285" valign="top">  41,643,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  <b>Sub-total </b>
+  </td><td width="285" valign="top">  <b>325,470,000</b>
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  <b>Central and west Africa</b>
+  </td><td width="285" valign="top">  <b> </b>
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Congo
+  </td><td width="285" valign="top">  6,245,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Côte d’Ivoire
+  </td><td width="285" valign="top">  13,467,000
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  <b>Sub-total </b>
+  </td><td width="285" valign="top">  <b>19,712,000</b>
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  <b>Pacific</b>
+  </td><td width="285" valign="top">  <b> </b>
+  </td>
+</tr>
+
+<tr>
+<td width="255" valign="top">  Fiji
+  </td><td width="285" valign="top">  8,000,0000*
+  </td>
+</tr>
+
+</table>
+<p>Source: figures extracted from Multi-annual Indicative Programmes for individual sugar-protocol accompanying measures beneficiaries</p><p>Key:</p><p>* Annual allocation for 2008 only</p><a name="eztoc43151_3_13_0_2" id="eztoc43151_3_13_0_2"></a><h5>Table 4: Commitment and disbursement rates under EC accompanying measures programme 2006-08* (April 2009)</h5><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="744">
+<tr>
+<td width="173" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  <b>Global allocation*</b>
+  </td><td width="143" valign="top">  <b>Secondary commitments</b>
+  </td><td width="143" valign="top">  <b>Disbursements</b>
+  </td><td width="143" valign="top">  <p><b>Disbursements (as a percentage of allocation 2006-2008)</b></p><p><b>%</b></p>
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  <b>Southern &amp; eastern Africa</b>
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Swaziland
+  </td><td width="143" valign="top">  37,598,000
+  </td><td width="143" valign="top">  7,333,942
+  </td><td width="143" valign="top">  1,799,955
+  </td><td width="143" valign="top">  4.787
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Mauritius (B)
+  </td><td width="143" valign="top">  74,866,000
+  </td><td width="143" valign="top">  42,500,000
+  </td><td width="143" valign="top">  39,800,000
+  </td><td width="143" valign="top">  53.162
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Malawi
+  </td><td width="143" valign="top">  10,578,000
+  </td><td width="143" valign="top">  2,812,580
+  </td><td width="143" valign="top">  1,075,291
+  </td><td width="143" valign="top">  10.165
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Mozambique (B)
+  </td><td width="143" valign="top">  6,562,000
+  </td><td width="143" valign="top">  6,350,000
+  </td><td width="143" valign="top">  550,000
+  </td><td width="143" valign="top">  8.382
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Tanzania
+  </td><td width="143" valign="top">  6,562,000
+  </td><td width="143" valign="top">  2,694,514
+  </td><td width="143" valign="top">  2,283,043
+  </td><td width="143" valign="top">  34.792
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Zambia
+  </td><td width="143" valign="top">  6,562,000
+  </td><td width="143" valign="top">  469,943
+  </td><td width="143" valign="top">  327,168
+  </td><td width="143" valign="top">  4.986
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Kenya
+  </td><td width="143" valign="top">  502,000
+  </td><td width="143" valign="top">  140,130
+  </td><td width="143" valign="top">  84,078
+  </td><td width="143" valign="top">  16.849
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Madagascar
+  </td><td width="143" valign="top">  3,895,000
+  </td><td width="143" valign="top">  753,554
+  </td><td width="143" valign="top">  628,390
+  </td><td width="143" valign="top">  16.133
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Zimbabwe
+  </td><td width="143" valign="top">  2,700,000
+  </td><td width="143" valign="top">  2,359,962
+  </td><td width="143" valign="top">  753,127
+  </td><td width="143" valign="top">  27.894
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  <b>Sub-total</b>
+  </td><td width="143" valign="top">  <b>149,825,000</b>
+  </td><td width="143" valign="top">  <b>65,414,625</b>
+  </td><td width="143" valign="top">  <b>47,301,052</b>
+  </td><td width="143" valign="top">  <b>31.57</b>
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  <b> </b>
+  </td><td width="143" valign="top">  <b> </b>
+  </td><td width="143" valign="top">  <b> </b>
+  </td><td width="143" valign="top">  <b> </b>
+  </td><td width="143" valign="top">  <b> </b>
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  <b>Caribbean </b>
+  </td><td width="143" valign="top">  <b> </b>
+  </td><td width="143" valign="top">  <b> </b>
+  </td><td width="143" valign="top">  <b> </b>
+  </td><td width="143" valign="top">  <b> </b>
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Barbados (B)
+  </td><td width="143" valign="top">  23,599,000
+  </td><td width="143" valign="top">  20,445
+  </td><td width="143" valign="top">  20,445
+  </td><td width="143" valign="top">  0.087
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Belize<b> </b>
+  </td><td width="143" valign="top">  18,038,000
+  </td><td width="143" valign="top">  4,784,460
+  </td><td width="143" valign="top">  1,637,935
+  </td><td width="143" valign="top">  9.080
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Guyana (B)
+  </td><td width="143" valign="top">  57,101,000
+  </td><td width="143" valign="top">  31,658,806
+  </td><td width="143" valign="top">  25,026,241
+  </td><td width="143" valign="top">  43.828
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Jamaica (B)
+  </td><td width="143" valign="top">  49,022,000
+  </td><td width="143" valign="top">  29,966,002
+  </td><td width="143" valign="top">  27,229,462
+  </td><td width="143" valign="top">  55.545
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  St Kitts &amp; Nevis (B)
+  </td><td width="143" valign="top">  22,735,000
+  </td><td width="143" valign="top">  11,640,653
+  </td><td width="143" valign="top">  5,879,001
+  </td><td width="143" valign="top">  25.859
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Trinidad &amp;Tobago (B)
+  </td><td width="143" valign="top">  15,974,000
+  </td><td width="143" valign="top">  5,576,398
+  </td><td width="143" valign="top">  69,838
+  </td><td width="143" valign="top">  0.437
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  <b>Sub-total</b>
+  </td><td width="143" valign="top">  <b>186,469,000</b>
+  </td><td width="143" valign="top">  <b>83,646,764</b>
+  </td><td width="143" valign="top">  <b>59,862,922</b>
+  </td><td width="143" valign="top">  <b>32.103</b>
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  <b> </b>
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  <b>West and central Africa</b>
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Congo
+  </td><td width="143" valign="top">  2,500,000
+  </td><td width="143" valign="top">  345,700
+  </td><td width="143" valign="top">  105,510
+  </td><td width="143" valign="top">  4.220
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Côte d’Ivoire
+  </td><td width="143" valign="top">  4,040,000
+  </td><td width="143" valign="top">  1,638,596
+  </td><td width="143" valign="top">  484,283
+  </td><td width="143" valign="top">  11.987
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  <b>Sub-total </b>
+  </td><td width="143" valign="top">  <b>6,540,000</b>
+  </td><td width="143" valign="top">  <b>1,984,296</b>
+  </td><td width="143" valign="top">  <b>589,793</b>
+  </td><td width="143" valign="top">  <b>9.018</b>
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  <b> </b>
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  <b>Pacific</b>
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td><td width="143" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="173" valign="top">  Fiji
+  </td><td width="143" valign="top">  8,000,000**
+  </td><td width="143" valign="top">  -
+  </td><td width="143" valign="top">  -
+  </td><td width="143" valign="top">  -
+  </td>
+</tr>
+
+</table>
+<p>Source: EC response to European Parliament Written Question P-3433/09.</p><p><b>Key:</b></p><p>(B) indicates that sugar-protocol accompanying measures funding is committed to these countries in the form of budgetary support.</p><p>* The global allocation in column 1 refers to funds allocated in 2006, 2007 and 2008, but excludes the allocations made for 2009 and 2010, for which no commitments and payments could have been made by April 2009. The total allocations for 2006-10 for each country are larger than indicated in this table, since the allocations for 2009 and 2010 as well as the initial preliminary allocation made to each country in 2006 are not included in the total global allocation.</p><p>** An annual allocation was made to Fiji in 2008, but implementation of the programme was suspended in the light of the political situation in the country.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><b>
+<a name='s'></a>State of EU sugar sector reform</b></p><p>
+<i>1. Europa Press Releases Rapid</i>, EC, speech by the Head of Cabinet to the Agriculture Commissioner, to the Congress of the International Confederation of European Beet Growers (ICEBG) on the reform of the sugar sector, SPEECH/09/XX, 17 June 2009:<br />
+<a href="http://ec.europa.eu/commission_barroso/fischer-boel/speeches/sugar_170609_borchardt_en.pdf" target="_self">http://ec.europa.eu/commission_barroso/fischer-boel/speeches/sugar_17060...</a></p><p>
+<i>2. Europa Press Releases Rapid</i>, EC press release on the success of EU sugar sector reform, IP/09/366, 6 March 2009:<br />
+<a href="http://europa.eu/rapid/pressReleasesAction.do?reference=IP/09/366&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en" target="_self">http://europa.eu/rapid/pressReleasesAction.do?reference=IP/09/366&amp;fo...</a></p><p>
+<i>3. Europa Press Releases Rapid</i>, EC press release announcing authorisation for the export of out-of-quota EU sugar in 2009/10 without any violation of the EU’s WTO commitments, as a result of the exceptional global price situation for sugar, IP/10/59, 27 January 2010:<br />
+<a href="http://europa.eu/rapid/pressReleasesAction.do?reference=IP/10/59&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en" target="_self">http://europa.eu/rapid/pressReleasesAction.do?reference=IP/10/59&amp;for...</a></p><p><b>ACP positions</b></p><p>
+4. ACP Secretariat, resolution of ACP ministers, ACP/25/014/09, 19 November 2009:<br />
+<a href="http://www.acp-eu-trade.org/library/library_detail.php?library_detail_id=5186&amp;doc_language=Both" target="_self">http://www.acp-eu-trade.org/library/library_detail.php?library_detail_id...</a></p><p>
+5. ACP and LDC sugar exporters, statement expressing ACP concerns over the treatment of sugar in the WTO, 4 December 2008:<br />
+<a href="http://www.acp-eu-trade.org/library/files/Gomes_EN_041208_ACP_ACP-and-LDCs-sugar-exporters-statement.pdf" target="_self">http://www.acp-eu-trade.org/library/files/Gomes_EN_041208_ACP_ACP-and-LD...</a></p><p><b>Sugar price trends</b> </p><p>
+6. EC, tables showing trends in EU prices of raw and white sugar and prices paid for ACP raw and white sugar imports, 3 December 2009:<br />
+<a href="http://circa.europa.eu/Public/irc/agri/olive-oil/library?l=/sucre/public_test/prix_prices/diffusion_2009pdf/_EN_1.0_&amp;a=d" target="_self">http://circa.europa.eu/Public/irc/agri/olive-oil/library?l=/sucre/public...</a></p><p>
+7. EC, working document setting out summary review of analysis of agricultural market outlooks for 2009-18, July 2009:<br />
+<a href="http://ec.europa.eu/agriculture/analysis/tradepol/worldmarkets/outlook/2009_2018_en.pdf" target="_self">http://ec.europa.eu/agriculture/analysis/tradepol/worldmarkets/outlook/2...</a></p><p><b>EU corporate restructuring</b> </p><p>
+8<i>. SugarJournal.com</i>,<i> </i>article reviewing the impact of EU reforms on the EU sugar industry, April 2009:<br />
+<a href="http://www.sugarjournal.com/articles/active_subs/2009/April2009/EU_Sugar_April09.pdf" target="_self">http://www.sugarjournal.com/articles/active_subs/2009/April2009/EU_Sugar...</a></p><p><b>Functioning of the sugar supply chain</b></p><p>
+<i>9. Europa Press Releases Rapid</i>,<i> </i>EC memorandum on the functioning of the food supply chain in the EU<i>,</i> MEMO/09/483, 28 October 2009: <br />
+<a href="http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/09/483&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en" target="_self">http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/09/483&amp;...</a></p><p>
+10. EC, communication on ‘A better functioning food supply chain in Europe’ (provisional version), Brussels, COM(2009) 591, 28 October 2009: <br />
+<a href="http://ec.europa.eu/economy_finance/publications/publication16061_en.pdf" target="_self">http://ec.europa.eu/economy_finance/publications/publication16061_en.pdf</a></p><p><b>Ending of the sugar protocol</b></p><p>
+11. IIIS, academic paper on the implications of the demise of the sugar protocol, IIIS <i>Discussion Paper</i>, No. 258, August 2008:<br />
+<a href="http://www.acp-eu-trade.org/library/files/Mattews_EN_0808_IIIS_EPAs-and-the-demise-of-the-commodity-protocols.pdf" target="_self">http://www.acp-eu-trade.org/library/files/Mattews_EN_0808_IIIS_EPAs-and-...</a> </p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Sugar-Trade-issues-for-the-ACP">Sugar: Trade issues for the ACP</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":158,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

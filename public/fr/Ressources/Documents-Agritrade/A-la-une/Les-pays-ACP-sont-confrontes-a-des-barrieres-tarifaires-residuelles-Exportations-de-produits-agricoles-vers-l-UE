@@ -1,0 +1,1803 @@
+<!DOCTYPE html>
+<html class="no-js">
+<!--
+	/**
+	 * We congratulate Agritrade with their new, upgraded (HTML5!) website!
+	 * Created by Contactivity, www.contactivity.com
+	 * @version $Id: 1.0
+	 */
+
+
+																			--><head>
+	
+                                        
+	<title>Les pays ACP sont confrontés à des barrières tarifaires résiduelles : Exportations de produits agricoles vers l’UE / À la une / Documents Agritrade / Ressources / Accueil - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+			
+		<meta name="description" content="Quelles sont les barrières tarifaires résiduelles? Alors que l’accord de Cotonou autorise l’accès en franchise de droits de douane de la grande majorité des exportations provenant des pays ACP, le principe de la franchise de droits de douane est limité dans un certain nombre de secteurs sensibles tels que l’agriculture. En l’occurrence, certaines barrières tarifaires sont maintenues, malgré les arrangements spécifiques en matière d’accès au marché. Ces arrangements spécifiques en matière d..."/>
+			
+			
+		<meta name="keywords" content=","/>
+			
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+		<script src="/extension/agritrade/design/agritrade/js/contactivity.global.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/contactivity.input.js"></script>
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="Les pays ACP sont confrontés à des barrières tarifaires résiduelles : Exportations de produits agricoles vers l’UE"/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+<script src="https://valsplat.nl/clients/2852/invite.js"></script>
+</head>
+<body lang="fr" onload="initialize()">
+
+<!-- [ wrapper -->
+<div id="wrapper">
+
+	<!-- [ main container -->
+	<div class="container" id="maincontainer">
+
+		<!-- [ header container -->
+		<header class="container">
+
+			<h6><a href="http://www.cta.int/" target="_blank">CTA</a></h6>
+			<div class="logo">
+				<h1><a href="/fr"><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></a></h1>
+				<h2 class="subline">Le commerce ACP analysé et décrypté</h2>
+			</div>
+
+			<!-- [ font box -->
+			<div class="fontBox">
+				<dl>
+					<dt class="active"><a href="#" class="bind fontsize" rel="small"><img src="/extension/agritrade/design/agritrade/images/small_font.gif" alt=""/></a></dt>
+					<dd>Petite police</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="medium"><img src="/extension/agritrade/design/agritrade/images/medium_font.gif" alt=""/></a></dt>
+					<dd>Polic moyenne</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="big"><img src="/extension/agritrade/design/agritrade/images/big_font.gif" alt=""/></a></dt>
+					<dd>Grande police</dd>
+				</dl>
+			</div>
+			<!-- font box ] -->
+
+			<!-- [ language box -->
+			<div class="languageBox">
+				<dl>
+				
+				
+					<dt><a href="/en/Ressources/Documents-Agritrade/A-la-une/Les-pays-ACP-sont-confrontes-a-des-barrieres-tarifaires-residuelles-Exportations-de-produits-agricoles-vers-l-UE">English</a> | </dt>
+					<dd>Passer à l'anglais</dd>
+					<dt><a href="/fr/Ressources/Documents-Agritrade/A-la-une/Les-pays-ACP-sont-confrontes-a-des-barrieres-tarifaires-residuelles-Exportations-de-produits-agricoles-vers-l-UE">Français</a></dt>
+					<dd>Passer au français</dd>
+				</dl>
+			</div>
+			<!-- language box ] -->
+
+			<!-- [ search box -->
+			<div class="searchBox">
+				<form action="http://www.google.com/cse?hl=en&sa=Search&ie=UTF-8" method="get" name="search">
+	            <input type="hidden" value="013338266298253522945:rk5lmjqtluq" name="cx"/>
+					<input name="q" type="text" class="field" value="" placeholder="Recherche"/>
+					<input name="Search" type="image" alt="" class="button" src="/extension/agritrade/design/agritrade/images/search_button.jpg"/>
+				</form>
+
+
+
+			</div>
+			<!-- search box ] -->
+
+
+			<!-- [ navigation -->
+			<nav>
+				
+				<ul>
+				<li>
+					<h2><a href="/fr"><span>Accueil</span></a></h2>
+				</li>
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Agriculture" title="Agriculture"><span>Agriculture</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Sujets
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/fr/Agriculture/Sujets/Accord-de-l-OMC" title="Accord de l'OMC">											Accord de l'OMC
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/APE" title="APE">											APE
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-UE" title="Accords de libre-échange UE">											Accords de libre-échange UE
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP" title="Accords de libre-échange ACP">											Accords de libre-échange ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Commerce-regional-ACP" title="Commerce régional ACP">											Commerce régional ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Acces-au-marche" title="Accès au marché">											Accès au marché
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/SPS-Securite-des-aliments" title="SPS / Sécurité des aliments">											SPS / Sécurité des aliments
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Differenciation-des-produits" title="Différenciation des produits">											Différenciation des produits
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Reforme-de-la-PAC" title="Réforme de la PAC">											Réforme de la PAC
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Biocarburants" title="Biocarburants">											Biocarburants
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Changement-climatique" title="Changement climatique ">											Changement climatique 
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Aide-au-commerce" title="Aide au commerce ">											Aide au commerce 
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Autres" title="Autres">											Autres
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Produits de base
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/General" title="Général">											Général
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Banane" title="Banane">											Banane
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Cacao" title="Cacao">											Cacao
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Cafe" title="Café">											Café
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Cereales" title="Céréales">											Céréales
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Coton" title="Coton">											Coton
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Horticulture" title="Horticulture">											Horticulture
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Oleagineux" title="Oléagineux">											Oléagineux
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Produits-laitiers" title="Produits laitiers">											Produits laitiers
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Rhum" title="Rhum">											Rhum
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Riz" title="Riz">											Riz
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Sucre" title="Sucre">											Sucre
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/The" title="Thé">											Thé
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Viande-bovine" title="Viande bovine">											Viande bovine
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Volaille" title="Volaille">											Volaille
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Autres" title="Autres">											Autres
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Régions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/fr/Agriculture/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Regions/Globale" title="Globale">											Globale
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Regions/UE" title="UE">											UE
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Peche" title="Pêche"><span>Pêche</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Sujets
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/fr/Peche/Sujets/Acces-au-marche" title="Accès au marché">											Accès au marché
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/Accord-de-l-OMC" title="Accord de l'OMC">											Accord de l'OMC
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/News-from-the-IOC-region" title="News from the IOC region">											News from the IOC region
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE" title="Politique commune de la pêche de l'UE">											Politique commune de la pêche de l'UE
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/Relations-ACP-UE-APP" title="Relations ACP-UE ; APP">											Relations ACP-UE ; APP
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Régions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/fr/Peche/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Regions/Global" title="Global">											Global
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Regions/UE" title="UE">											UE
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Regions" title="Régions"><span>Régions</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/fr/Regions/Globale" title="Globale">									Globale
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/fr/Regions/UE" title="UE">									UE
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+									<a href="/fr/Regions/ACP" title="ACP">									ACP
+									
+																		
+									</a>								</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/fr/Regions/ACP/Groupe-ACP" title="Groupe ACP">											Groupe ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Caraibes" title="Caraïbes">											Caraïbes
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-de-l-Ouest" title="Afrique de l'Ouest">											Afrique de l'Ouest
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-Centrale" title="Afrique Centrale">											Afrique Centrale
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-de-l-Est" title="Afrique de l'Est">											Afrique de l'Est
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-Australe" title="Afrique Australe">											Afrique Australe
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Pacifique" title="Pacifique">											Pacifique
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Publications" title="Publications"><span>Publications</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Actualites-et-analyses" title="Actualités et analyses">									Actualités et analyses
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Compendium" title="Compendium">									Compendium
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Interviews" title="Interviews">									Interviews
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Newsletter" title="Newsletter">									Newsletter
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Notes-de-synthese" title="Notes de synthèse">									Notes de synthèse
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Rapports-a-la-une" title="Rapports à la une">									Rapports à la une
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+																
+																					
+					<li>
+						<h2><a href="/fr/Bienvenue-sur-Agritrade" title="À propos"><span>À propos</span></a></h2>
+						
+
+											</li>
+
+								
+		</ul>
+
+			</nav>
+			<!-- navigation ] -->
+
+
+		</header>
+		<!-- header container ] -->
+
+
+
+		<!-- [ content container -->
+		<section class="container">
+
+
+			
+						<!--  [ center container -->
+			<div id="centerCntr" class="article content  has_right">
+							
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports_fr.gif" alt=""/>
+					
+
+		</div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style " addthis:title="Les pays ACP sont confrontés à des barrières tarifaires résiduelles : Exportations de produits agricoles vers l’UE">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/fr/Ressources/Documents-Agritrade/A-la-une/Les-pays-ACP-sont-confrontes-a-des-barrieres-tarifaires-residuelles-Exportations-de-produits-agricoles-vers-l-UE" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				<a id="tool-email" href="http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2Ffr%2FRessources%2FDocuments-Agritrade%2FA-la-une%2FLes-pays-ACP-sont-confrontes-a-des-barrieres-tarifaires-residuelles-Exportations-de-produits-agricoles-vers-l-UE&amp;title=Les+pays+ACP+sont+confront%C3%A9s+%C3%A0+des+barri%C3%A8res+tarifaires+r%C3%A9siduelles+%3A+Exportations+de+produits+agricoles+vers+l%E2%80%99UE&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611" onclick="return popitup('http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2Ffr%2FRessources%2FDocuments-Agritrade%2FA-la-une%2FLes-pays-ACP-sont-confrontes-a-des-barrieres-tarifaires-residuelles-Exportations-de-produits-agricoles-vers-l-UE&amp;title=Les pays ACP sont confrontés à des barrières tarifaires résiduelles : Exportations de produits agricoles vers l’UE&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611')" target="_blank" class="tool popup">
+			Email
+		</a>
+		<a href="#" id="tool-print" class="tool" onclick="printMe('/fr/layout/set/print/Ressources/Documents-Agritrade/A-la-une/Les-pays-ACP-sont-confrontes-a-des-barrieres-tarifaires-residuelles-Exportations-de-produits-agricoles-vers-l-UE'); return false">
+			imprimer
+		</a>
+				</div>
+
+	
+	</div>
+		
+		
+
+		
+																																																																									
+		
+		<div class='contentrealtionlist'>
+							
+																																																							
+							<a href="/fr/Publications/(regions)/7766/(search)/simple">Globale</a>
+																																																																,
+							<a href="/fr/Publications/(regions)/7767/(search)/simple">UE</a>
+																																																																																																																					,
+								<a href="/fr/Publications/(regions)/7769/(search)/simple">Groupe ACP</a>
+																																																																																																																																																																																																																																																																																																																																																																																																														
+																																,
+
+							<a href="/fr/Agriculture/(commodities)/7795/(search)/simple">Général</a>
+							
+																																																																																																																																																																																																																																																																																																																																																													
+																																																																																													,
+
+							<a href="/fr/Agriculture/(topics)/7813/(search)/simple">APE</a>
+							
+																																																																																,
+
+							<a href="/fr/Agriculture/(topics)/7814/(search)/simple">ALE - UE</a>
+							
+																																									,
+
+							<a href="/fr/Agriculture/(topics)/7815/(search)/simple">ALE - ACP</a>
+							
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																													
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+										
+			<h1>Les pays ACP sont confrontés à des barrières tarifaires résiduelles : Exportations de produits agricoles vers l’UE</h1>
+
+			
+			<h4>
+												31 mars 2005
+										</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						 <p>
+ <b>Quelles sont les barrières tarifaires résiduelles?</b> <br/>Alors que l’accord de Cotonou autorise l’accès en franchise de droits de douane de la grande majorité des exportations provenant des pays ACP, le principe de la franchise de droits de douane est limité dans un certain nombre de secteurs sensibles tels que l’agriculture. En l’occurrence, certaines barrières tarifaires sont maintenues, malgré les arrangements spécifiques en matière d’accès au marché. Ces arrangements spécifiques en matière d’accès au marché des pays ACP interviennent à deux niveaux : au niveau des pays ACP dans leur ensemble, d’une part, et au niveau de chaque Etat ACP, d’autre part. Ces arrangements spécifiques en matière d’accès au marché sont réitérés dans la déclaration XXII de l’annexe V de l’accord de Cotonou, ainsi que dans plusieurs protocoles produits, à savoir : le sucre, la viande bovine et les bananes. Ils établissent les quotas en franchise de droits, les droits saisonniers et les « plafonds » d’importation. </p>
+
+		</div>
+		
+		
+					 <p>Les barrières tarifaires résiduelles auxquelles les exportateurs des pays ACP sont confrontés doivent être envisagées compte tenu de deux types de droits à l’importation appliqués par l’UE dans le secteur agricole ; à savoir les droits <i>ad valorem</i> et les droits spécifiques. Alors que certains produits peuvent bénéficier de 100 % de réduction de droits <i>ad valorem</i>, ils peuvent encore être soumis à divers droits spécifiques. En ce qui concerne la déclaration XXII, cela signifie que les produits peuvent être importés dans les conditions suivantes :</p> 
+<ul>
+ 
+<li> accès en totale franchise de droits de douane (exemption totale de droits de douane <i>ad valorem</i> et de droits spécifiques) ;  </li>
+ 
+<li> accès en franchise de droits de douane <i> ad valorem</i> et de droits spécifiques dans la limite du contingent ;  </li>
+ 
+<li> accès en franchise de droits de douane <i>ad valorem</i> et réduction partielle des droits spécifiques dans la limite du contingent ;  </li>
+ 
+<li> réductions des droits <i>ad valorem</i> et des droits spécifiques dans la limite du contingent ;  </li>
+ 
+<li> accès en franchise de droits saisonniers <i>ad valorem</i> et de droits spécifiques dans la limite du contingent ;  </li>
+ 
+<li> réductions des droits saisonniers <i>ad valorem</i> et des droits spécifiques dans la limite du contingent. </li>
+ 
+</ul>
+ <p>Dans toutes les catégories précitées, excepté la première, des barrières tarifaires sont maintenues. S’il n’est pas fait expressément référence aux produits agricoles dans la liste contenue dans la déclaration XXII et si aucune disposition ne concerne les exportations en franchise de droits au titre de l’accord (à savoir au titre des protocoles), alors aucun accès préférentiel n’est accordé et les barrières tarifaires résiduelles sont maintenues (voir à l’annexe 1 la présentation résumée des produits couverts par la déclaration XXII).</p> <p>Le secteur du riz est peut-être l’exemple le plus frappant en matière de barrière tarifaire résiduelle au titre de la déclaration XXII. En l’occurrence, l’accès à droits réduits est autorisé via deux contingents :</p> 
+<ul>
+ 
+<li> un contingent de 125.000 tonnes pour les exportations directes de riz non décortiqué vers l’UE ;  </li>
+ 
+<li> un contingent de 20.000 tonnes pour les exportations directes de brisures de riz vers l’UE 
+<a href="#_edn1">i</a>. </li>
+ 
+</ul>
+ <p>Une réduction de 65 % des droits est accordée sur ces contingents. Le riz provenant des pays ACP et exporté dans la limite de ces contingents est soumis à seulement 35 % des droits à l’importation standard, soit moins 4,35 euros la tonne pour le riz non décortiqué et moins 3,62 euros la tonne pour les brisures de riz. Le droit effectivement appliqué varie sur une base bimensuelle en fonction du niveau du prix de référence utilisé. Le Guyana et le Surinam dépensent près de 10 millions d’euros par an en droits à l’importation sur le riz (Guyana : 7 millions d’euros et Surinam : 3 millions d’euros).</p> <p>Le retrait des barrières tarifaires résiduelles au titre de la déclaration XXII et des protocoles constitue la principale question en matière de tarifs à laquelle les pays ACP non PMA sont confrontés dans le cadre des négociations des APE. Puisque ces restrictions résiduelles en matière d’accès au marché ne s’appliquent pas aux PMA qui bénéficieront d’un accès en franchise de droits de douane pour les produits originaires, et ce à partir de 2008, cette question ne concerne pas les pays ACP PMA.</p> <p>En ce qui concerne les protocoles produits, l’accès en franchise de droits de douane dans la limite du contingent est accordé pour le sucre. Concernant la viande bovine, les pays ACP exportateurs doivent encore payer dans la limite du contingent 8 % de droits spécifiques (ce qui revient à dire qu’ils bénéficient d’une réduction de 92 % sur les droits spécifiques), ce qui représente un prix de 0,15 livre par kilo sur les exportations vers le Royaume-Uni.</p> <p>Concernant le sucre, la question des barrières tarifaires résiduelles porte sur le retrait des restrictions quantitatives. Concernant la viande bovine, elle porte sur le retrait tant des restrictions quantitatives sur les exportations en franchise de droits que sur celui du droit résiduel imposé dans la limite du contingent.</p> <table class="renderedtable" border="0" cellpadding="2" cellspacing="0" width="500"> 
+<tr>
+ <td colspan="5" valign="top">    <b>Contingents au titre du protocole sur le sucre ACP (exprimés en tonnes de sucre blanc) 
+<a href="#_edn2">ii</a> </b>  
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   St Kitts &amp; Nevis 
+  </td> <td valign="top">   14.800 
+  </td> <td valign="top">                     
+  </td> <td valign="top">   Guyana 
+  </td> <td valign="top">   157.700 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Belize 
+  </td> <td valign="top">   39.400 
+  </td> <td valign="top">     
+  </td> <td valign="top">   Swaziland 
+  </td> <td valign="top">   116.400 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Barbade 
+  </td> <td valign="top">   49.300 
+  </td> <td valign="top">     
+  </td> <td valign="top">   Fiji 
+  </td> <td valign="top">   163.600 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Trinidad &amp; Tobago 
+  </td> <td valign="top">   69.000 
+  </td> <td valign="top">     
+  </td> <td valign="top">   Maurice 
+  </td> <td valign="top">   487.200 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Malawi 
+  </td> <td valign="top">   20.000 
+  </td> <td valign="top">     
+  </td> <td valign="top">   Jamaïque 
+  </td> <td valign="top">   118.300 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Tanzanie 
+  </td> <td valign="top">   10.000 
+  </td> <td valign="top">     
+  </td> <td valign="top">   Madagascar 
+  </td> <td valign="top">   10.000 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Zimbabwe 
+  </td> <td valign="top">   25.000 
+  </td> <td valign="top">     
+  </td> <td valign="top">   Congo 
+  </td> <td valign="top">   10.000 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Kenya 
+  </td> <td valign="top">   5.000 
+  </td> <td valign="top">     
+  </td> <td valign="top">   Oeganda 
+  </td> <td valign="top">   5.000 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Surinam 
+  </td> <td valign="top">   4.000 
+  </td> <td valign="top">     
+  </td> <td valign="top">   Côte d’Ivoire 
+  </td> <td valign="top">   2.000 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Zambie 
+  </td> <td valign="top">   0 
+  </td> <td valign="top">     
+  </td> <td valign="top">     
+  </td> <td valign="top">  &nbsp;
+  </td> 
+</tr>
+ 
+</table>
+ <p>Au titre du protocole sur les bananes, on passe actuellement à un système uniquement tarifaire. Dans un tel cadre, les barrières tarifaires seront levées mais l’érosion des marges de préférence devrait fortement affaiblir la position concurrentielle des fournisseurs traditionnels de bananes caribéens.</p> <table class="renderedtable" border="1" cellpadding="2" cellspacing="0"> 
+<tr>
+ <td width="208" valign="top">   <p><b>Protocole sur la viande bovine (exprimé en tonnes)</b>
+<a href="#_edn3"> <b>iii</b> </a> </p> <p>
+Botswana 18.916<br/>
+Namibie 13.000<br/>
+Zimbabwe 9.100<br/>
+Madagascar 7.579<br/>
+Swaziland 3.362<br/>Kenya 142 </p> 
+  </td> 
+</tr>
+ 
+</table>
+ <p>
+ <b>Tendances en matière de barrières tarifaires résiduelles</b> <br/>L’accord de Cotonou permet l’inscription de nouveaux produits agricoles dans la déclaration XXII, notamment lorsqu’ils permettent d’approvisionner hors saison les marchés de l’UE. Les pays ACP peuvent donc améliorer ces préférences en soumettant une demande dûment motivée que la CE doit examiner au cas par cas. Toutefois, l’expérience a montré que la Commission n’était pas toujours prête à appliquer ces dispositions et que la DG Agriculture semblait parfois vouloir limiter au maximum l’accès de ces denrées. La limitation du contingent des exportations de raisins sans pépin provenant de Namibie illustre parfaitement ce point.  </p> <p><b>Exportations de raisin de table namibien : barrières tarifaires résiduelles et pertes de revenus occasionnées</b> </p> <table class="renderedtable" border="1" cellpadding="2" cellspacing="0"> 
+<tr>
+ <td valign="top">    <b>Origine</b>  
+  </td> <td valign="top">    <b>2003</b>  
+  </td> <td valign="top">    <b>2004</b>  
+  </td> <td valign="top">    <b>2005</b>  
+  </td> <td valign="top">    <b>2006</b>  
+  </td> <td valign="top">    <b>2007</b>  
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Exportations de raisin de table (en tonnes) 
+  </td> <td valign="top">   11.250 
+  </td> <td valign="top">   13.500 
+  </td> <td valign="top">   13.500 
+  </td> <td valign="top">   13.500 
+  </td> <td valign="top">   13.500 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Nouveaux plants en production (en tonnes) 
+  </td> <td valign="top">  &nbsp;
+  </td> <td valign="top">  &nbsp;
+  </td> <td valign="top">  &nbsp;
+  </td> <td valign="top">   1.350 
+  </td> <td valign="top">   3.375 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Production totale (en tonnes) 
+  </td> <td valign="top">   11.250 
+  </td> <td valign="top">   13.500 
+  </td> <td valign="top">   13.500 
+  </td> <td valign="top">   14.850 
+  </td> <td valign="top">   16875 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Valeur de production en dollars namibiens (1 euro =8 dollars N) 
+  </td> <td valign="top">   247.500.000 
+  </td> <td valign="top">   297.000.000 
+  </td> <td valign="top">   297.000.000 
+  </td> <td valign="top">   326.700.000 
+  </td> <td valign="top">   371.250.000 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Valeur de production en euros (1 euro=8 dollars N) 
+  </td> <td valign="top">   30.937.500 
+  </td> <td valign="top">   37.125.000 
+  </td> <td valign="top">   37.125.000 
+  </td> <td valign="top">   40.837.000 
+  </td> <td valign="top">   46.406.350 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Exportations vers l’UE (75 % de la production) (en tonnes) 
+  </td> <td valign="top">   8.347 
+  </td> <td valign="top">   10.125 
+  </td> <td valign="top">   10.125 
+  </td> <td valign="top">   10.762 
+  </td> <td valign="top">   12.656 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Quota en franchise de droits de douane (en tonnes) 
+  </td> <td valign="top">   800 
+  </td> <td valign="top">   800 
+  </td> <td valign="top">   800 
+  </td> <td valign="top">   800 
+  </td> <td valign="top">   800 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Volume soumis au paiement de droits (en tonnes) 
+  </td> <td valign="top">   7.637 
+  </td> <td valign="top">   9.325 
+  </td> <td valign="top">   9.325 
+  </td> <td valign="top">   9.962 
+  </td> <td valign="top">   11.856 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Droit payable (en euros) 
+  </td> <td valign="top">   1.680.140 
+  </td> <td valign="top">   2.051.500 
+  </td> <td valign="top">   2.051.500 
+  </td> <td valign="top">   2.191.640 
+  </td> <td valign="top">   2.608.320 
+  </td> 
+</tr>
+ 
+<tr>
+ <td valign="top">   Pertes subies par l’industrie du raisin de table namibienne (en dollars N) 
+  </td> <td valign="top">   13.441.120 
+  </td> <td valign="top">   16.412.000 
+  </td> <td valign="top">   16.412.000 
+  </td> <td valign="top">   17.533.120 
+  </td> <td valign="top">   20.866.560 
+  </td> 
+</tr>
+ 
+</table>
+ <p>Source: Namibian Agronomic Board</p> <p>Ces raisins arrivent sur le marché de l’UE peu avant Noël et ne concurrencent aucune production de qualité analogue de l’UE. En dépit du fait que la production namibienne prévue aurait une incidence très limitée sur le marché de l’UE (elle équivaut à un raisin environ par citoyen de l’UE et par an), le contingent accordé en franchise de droits de douane est limité (800 tonnes). Une telle décision a été prise bien que le retrait des barrières tarifaires résiduelles génèrerait en Namibie des gains à grande échelle en termes d’emplois et de revenus (l’industrie emploie actuellement 3.500 travailleurs permanents et 7.000 travailleurs à temps partiel).</p> <p>En octobre 2003, la CE a soumis au principal comité de l’UE en charge des questions commerciales, le ‘Comité 133’, une proposition visant à obtenir que lors de l’entrée en vigueur d’un APE les pays ACP se voient accorder un accès au marché de l’UE équivalant à celui accordé aux PMA à titre de l’initiative « Tout sauf les armes » (TSA). Une telle initiative semble indiquer que la CE est disposée à retirer toutes les barrières tarifaires résiduelles concernant les exportations des pays ACP dans le cadre de la conclusion des négociations des APE 
+<a href="#1">1</a>.</p> <p>Cette question est particulièrement significative pour le Botswana, la Namibie et le Swaziland qui sont, avec le Lesotho, parties <i>de facto</i> d’un accord de partenariat économique conclu avec l’UE suite à l’application à l’ensemble du territoire de l’Union douanière d’Afrique australe (SACU) de l’accord sur le commerce, le développement et la coopération UE-Afrique du Sud (TDCA). En conséquence, les associations du secteur privé namibien ont insisté pour obtenir l’introduction immédiate de l’accès intégral en franchise de droits de douanes pour toutes les exportations du Botswana, de la Namibie et du Swaziland vers l’UE, et ce conformément aux propositions présentées en octobre 2003 par la CE au Comité 133.</p> <table class="renderedtable" border="1" cellpadding="2" cellspacing="0"> 
+<tr>
+ <td width="614" valign="top">   <p><b>Que peut-on faire concernant les barrières tarifaires résiduelles au titre de l’accord de Cotonou?</b> </p> <p>L’annexe V, chapitre 1, article 1, point b), de l’accord de Cotonou prévoit l’inclusion de nouveaux produits agricoles dans les dispositions de la déclaration XXII. Ces dispositions précisent ce qui suit :</p> <p>si, au cours de la période d'application de la présente annexe, les États ACP demandent que de nouvelles productions agricoles qui ne font pas l'objet d'un régime particulier au moment de l'entrée en vigueur de la présente annexe bénéficient d'un tel régime, la Communauté examine ces demandes en consultation avec les États ACP ; et</p> <p>nonobstant ce qui précède, dans le cadre des relations privilégiées et de la spécificité de la coopération ACP-CE, la Communauté examine, au cas par cas, les demandes des États ACP visant à assurer à leurs produits agricoles un accès préférentiel au marché communautaire et communique sa décision sur ces demandes dûment motivées si possible dans les quatre mois et en tout cas dans une période n'excédant pas six mois à compter de leur présentation 
+<a href="#_edn4">iv</a> .</p> <p>Les concessions qui auraient été accordées à cet égard devraient tenir compte des :</p> <p>possibilités qu'offre le marché hors saison 
+<a href="#_edn5">v</a>.</p> <p>Par conséquent, les améliorations apportées aux préférences octroyées au titre de la déclaration XXII peuvent être garanties sur présentation par le pays ACP d’une demande dûment motivée qui sera examinée au cas par cas par la CE.</p> 
+  </td> 
+</tr>
+ 
+</table>
+ <p>En ce qui concerne les PMA africains, la question des barrières tarifaires se pose principalement par rapport aux règles d’origine de l’UE. Le récent réexamen réalisé par l’UE concernant les arrangements au titre du SPG (qui seront appliqués entre 2006 et 2018) devrait constituer une avancée dans le règlement de la question des règles d’origine limitant les exportations des pays ACP PMA. Toutefois, la CE préfère prendre des mesures concertées dans le cadre du G8 concernant cette question qui revêt une importance cruciale.</p> <table class="renderedtable" border="1" cellpadding="2" cellspacing="0"> 
+<tr>
+ <td width="565" valign="top">   <p><b>Ce que le commissaire Mandelson a souhaité concernant les règles d’origine </b> </p> <p>« Je veux que les règles d’origine servent à contribuer au développement, pas à le freiner. Je suis favorable à une simplification et à une harmonisation, pour qu'en fin de compte, les mêmes règles s'appliquent à tous les marchés et qu'elles soient faciles à utiliser. Je souhaite que l’Europe fasse de nouvelles propositions au sommet du G8 qui se tiendra à Gleneagles. Et je souhaite que le travail, négligé, d'harmonisation mondiale des règles d'origine prenne un nouvel essor à l'OMC ».</p> <p>
+Source:du Commissaire Mandelson (London School of Economics, 4 février 2005)<br/> 
+<a href="http://europa.eu.int/comm/commission_barroso/mandelson/speeches_articles/temp_mandels_speeches_en.cfm?temp=sppm013_fr">http://europa.eu.int/comm/commission_barroso/mandelson/speeches_articles...</a>  </p> 
+  </td> 
+</tr>
+ 
+</table>
+ <p>
+ <b>Champ d’action en matière de barrières tarifaires résiduelles</b> <br/>Les mesures permettant de lever les barrières tarifaires résiduelles auxquelles sont confrontées les exportations des pays ACP vers l’UE peuvent être prises à quatre niveaux différents : </p> 
+<ul>
+ 
+<li> approbation immédiate de toutes les demandes au titre de l’Annexe V, chapitre 1, article 1, de l’accord de Cotonou visant à étendre l’accès en franchise de droits de douane aux produits relevant de la déclaration XXII ;  </li>
+ 
+<li> adoption immédiate de la proposition soumise en octobre 2003 par la Commission au Comité 133, selon laquelle à l’entrée en vigueur d’un APE, les pays ACP devraient bénéficier d’un accès au marché de l’UE équivalent à celui qui est accordé aux PMA au titre de l’initiative TSA ;  </li>
+ 
+<li> mise en œuvre immédiate de cet engagement dans le cas du Botswana, de la Namibie et du Swaziland, puisqu’en raison de leur adhésion à l’accord conclu par l’Union douanière d’Afrique australe et de la conclusion de l’accord sur le commerce, le développement et la coopération, ces pays ACP sont déjà <i>de facto</i> membres d’un APE avec l’UE ;  </li>
+ 
+<li> l’adoption de mesures à prendre par l’UE visant à réserver aux PMA des arrangements en matière de dérogation et de cumul qui soient compatibles avec les contraintes auxquelles les PMA sont confrontés lorsqu’ils tentent de développer des activités de transformation comportant une valeur ajoutée.. </li>
+ 
+</ul>
+ <p><b>Annexe 1</b> </p> <p>
+ <b>Produits couverts par la déclaration XXII de l’Accord de Cotonou</b> <br/>Le traitement préférentiel accordé à un éventail de produits agricoles originaires des pays ACP est consigné dans la déclaration XXII, intitulée “Déclaration commune relative aux produits agricoles visés à l’article 1, paragraphe 2, point a), de l’annexe V”, et il couvre certaines des catégories ci-dessous : </p> 
+<ul>
+ 
+<li> Animaux vivants (01)  </li>
+ 
+<li> Viande et abats comestibles (02)  </li>
+ 
+<li> Poissons, et crustacés et mollusques et autres invertébrés (03)  </li>
+ 
+<li> Lait et produits de la laiterie (0401-0406)  </li>
+ 
+<li> Œufs d’oiseaux (0407-0408)  </li>
+ 
+<li> Miel naturel (0409)  </li>
+ 
+<li> Œufs de tortue et autres n.d.a. (0410)  </li>
+ 
+<li> Autres produits d’origine animale (05)  </li>
+ 
+<li> Plantes vivantes et produits de la floriculture (06)  </li>
+ 
+<li> Pommes de terre (0701)  </li>
+ 
+<li> Tomates (0702)  </li>
+ 
+<li> Oignons, échalotes, aulx, poireaux et autres légumes à l’état frais ou réfrigéré (0703)  </li>
+ 
+<li> Choux, choux-fleurs et produits comestibles similaires du genre (0704)  </li>
+ 
+<li> Laitues, à l’état frais ou réfrigéré (0705)  </li>
+ 
+<li> Carottes, navets, betteraves et autres racines comestibles similaires (0706)  </li>
+ 
+<li> Concombres et cornichons, à l’état frais ou réfrigéré (0707)  </li>
+ 
+<li> Légumes à cosse (0708)  </li>
+ 
+<li> Autres légumes, à l’état frais ou réfrigéré (0709)  </li>
+ 
+<li> Légumes non cuits ou cuits à l’eau ou à la vapeur (0710)  </li>
+ 
+<li> Légumes conservés provisoirement (0711)  </li>
+ 
+<li> Légumes secs (0712)  </li>
+ 
+<li> Légumes à cosse secs (0713)  </li>
+ 
+<li> Racine de manioc, d’arrow-root ou de salep (0714)  </li>
+ 
+<li> Noix de coco, noix du Brésil et noix de cajou (0801)  </li>
+ 
+<li> Autres fruits à coque (0802)  </li>
+ 
+<li> Dattes, figues, ananas, avocats, goyaves et mangues (0804)  </li>
+ 
+<li> Agrumes frais ou secs (0805)  </li>
+ 
+<li> Raisins (0806)  </li>
+ 
+<li> Melons (0807)  </li>
+ 
+<li> Pommes, poires et coings, frais (0808)  </li>
+ 
+<li> Abricots, cerises, pêches, y. c. brugnons et nectarines, prunes (0809)  </li>
+ 
+<li> Fraises, framboises, mûres, groseilles (0810)  </li>
+ 
+<li> Fruits et fruits à coque relevant de 0811  </li>
+ 
+<li> Fruits et fruits à coque conservés provisoirement (0812)  </li>
+ 
+<li> Abricots, pruneaux et autres fruits séchés relevant de 0813  </li>
+ 
+<li> Ecorces d’agrumes et d’autres fruits, fraîches, congelées ou séchées (0814)  </li>
+ 
+<li> Café, thé et épices (09)  </li>
+ 
+<li> Céréales (1001-1005)  </li>
+ 
+<li> Riz (1006)  </li>
+ 
+<li> Sorgho à grains (1007)  </li>
+ 
+<li> Sarrasin, millet, alpiste et autres céréales (1008)  </li>
+ 
+<li> Farines de froment (blé) ou de méteil (1101)  </li>
+ 
+<li> Farines de céréales, autres que de froment ou de méteil (1102)  </li>
+ 
+<li> Gruaux, semoules et agglomérés sous formes de pellets, de céréales (1103)  </li>
+ 
+<li> Grains de céréales autrement travaillés (1104)  </li>
+ 
+<li> Farines, semoules (1105)  </li>
+ 
+<li> Farines, semoules, poudres de légumes à cosse relevant de 0713,0714 &amp; 8 (1106)  </li>
+ 
+<li> Oléagineuses (1208-1211)  </li>
+ 
+<li> Caroubles et autres produits relevant de 1212  </li>
+ 
+<li> Rutabagas, betteraves fourragères et autres produits fourragers similaires relevant de 1214  </li>
+ 
+<li> Gommes, résines et autres sucs et extraits végétaux (13)  </li>
+ 
+<li> Saindoux, autres graisses de porc et graisses de volaille fondus (1501)  </li>
+ 
+<li> Graisses des animaux des espèces bovines relevant de 1502-1508  </li>
+ 
+<li> Huile de palme (1511)  </li>
+ 
+<li> Huile de tournesol, de carthame ou de coton et autres relevant de 1512-1516  </li>
+ 
+<li> Margarine (1517)  </li>
+ 
+<li> Graisses et huiles végétales relevant de 1518  </li>
+ 
+<li> Glycérine (1520)  </li>
+ 
+<li> Cires végétales et d’abeilles (1521)  </li>
+ 
+<li> Saucisses (1601)  </li>
+ 
+<li> Préparations et conserves de viande (1602)  </li>
+ 
+<li> Extraits et jus de viande, de poissons (1603)  </li>
+ 
+<li> Préparations et conserves de poissons (1604-1605)  </li>
+ 
+<li> Sucres et sucreries (17)  </li>
+ 
+<li> Mélasses (1703)  </li>
+ 
+<li> Sucreries sans cacao (1704)  </li>
+ 
+<li> Cacao et préparations de cacao relevant de 1801-1805  </li>
+ 
+<li> Chocolat et autres préparations alimentaires contenant du cacao relevant de 1806  </li>
+ 
+<li> Préparations à base de céréales, de farines, d’amidons, de fécules ou de lait, pâtisseries (1901)  </li>
+ 
+<li> Pâtes alimentaires (1902)  </li>
+ 
+<li> Tapioca (1903)  </li>
+ 
+<li> Préparations alimentaires relevant de (1804)  </li>
+ 
+<li> Produits de la boulangerie, de la biscuiterie, de la pâtisserie et produits similaires relevant de 1905  </li>
+ 
+<li> Préparations de légumes, fruits et fruits à coque et autres parties comestibles de plantes 2001  </li>
+ 
+<li> Tomates préparées ou conservées (2002)  </li>
+ 
+<li> Champignons relevant de 2003  </li>
+ 
+<li> Autres légumes conservés relevant de 2004  </li>
+ 
+<li> Autres légumes préparés et conservés relevant de 2005  </li>
+ 
+<li> Fruits et fruits à coque relevant de 2006  </li>
+ 
+<li> Confitures, gelées etc. relevant de 2007  </li>
+ 
+<li> Fruits et fruits à coque et autres produits relevant de 2008  </li>
+ 
+<li> Jus de fruits relevant de 2009  </li>
+ 
+<li> Produits alimentaires relevant de 21  </li>
+ 
+<li> Boissons et liquides alcooliques relevant de 22  </li>
+ 
+<li> Résidus et déchet, aliments pour animaux relevant de 23  </li>
+ 
+<li> Tabac (24)  </li>
+ 
+<li> Produits chimiques organiques (29)  </li>
+ 
+<li> Huiles essentielles relevant de 33  </li>
+ 
+<li> Caséines, caséinates et autres dérivés relevant de 3501  </li>
+ 
+<li> Albumines relevant de 3502  </li>
+ 
+<li> Gélatines relevant de 3503  </li>
+ 
+<li> Peptones et autres dérivés relevant 3504  </li>
+ 
+<li> Dextrine et autres amidons relevant de 3505  </li>
+ 
+<li> Produits divers des industries chimiques relevant de 38  </li>
+ 
+<li> Soie (50)  </li>
+ 
+<li> Coton (52) </li>
+ 
+</ul>
+ <p>
+<a name='1'></a>1 En ce qui concerne le retrait des barrières tarifaires résiduelles, ce cadre est préféré à celui de l’application des dispositions de l’annexe V, chapitre 1, article 1, point d), de l’accord de Cotonou.</p> <p>
+ <b>Endnotes </b> <br/>
+ 
+<a name='_edn1'></a>i Déclaration XXII intitulée, « Déclaration commune relative aux produits agricoles visés à l’article 1, paragraphe 2, point a) », de l’annexe V.<br/>
+ 
+<a name='_edn2'></a>ii Les chiffres sont extraits du Protocole n° 3 sur le sucre ACP et les annexes jointes à celui-ci, y compris l’échange de lettres.<br/>
+ 
+<a name='_edn3'></a>iii Protocole n° 4 sur la viande bovine, article 2<br/>
+ 
+<a name='_edn4'></a>iv Annexe V, « Régime commercial applicable au cours de la période préparatoire prévue à l’article 37, paragraphe 1, Article 1, points b) et c), de l’accord de Cotonou ».<br/> 
+<a name='_edn5'></a>v Annexe V, « Régime commercial applicable au cours de la période préparatoire prévue à l’article 37, paragraphe 1, Article 1, point c), de l’accord de Cotonou ». </p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style " addthis:title="Les pays ACP sont confrontés à des barrières tarifaires résiduelles : Exportations de produits agricoles vers l’UE">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/fr/Ressources/Documents-Agritrade/A-la-une/Les-pays-ACP-sont-confrontes-a-des-barrieres-tarifaires-residuelles-Exportations-de-produits-agricoles-vers-l-UE" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				</div>
+
+	
+	</div>
+		
+	</article>
+
+	<aside>
+		
+											
+<div class="block yellow">
+	<h3>Lire aussi</h3>
+	<div>
+								<p><a href="/fr/Ressources/Documents-Agritrade/A-la-une/Emergence-d-une-politique-europeenne-sur-le-fonctionnement-des-chaines-d-approvisionnement-alimentaire-Implications-pour-les-pays-ACP">Émergence d’une politique européenne sur le fonctionnement des chaînes d’approvisionnement alimentaire : Implications pour les pays ACP</a></p>
+						<p><a href="/fr/Ressources/Documents-Agritrade/A-la-une/Questions-controversees-dans-les-negociations-d-APE-interimaires-implications-pour-le-secteur-agricole">Questions controversées dans les négociations d’APE intérimaires : implications pour le secteur agricole </a></p>
+						<p><a href="/fr/Ressources/Documents-Agritrade/A-la-une/Les-APE-interimaires-et-leurs-implications-pour-les-secteurs-agricoles-et-alimentaires-africains">Les APE intérimaires et leurs implications pour les secteurs agricoles et alimentaires africains </a></p>
+						<p><a href="/fr/Ressources/Documents-Agritrade/A-la-une/Perspectives-pour-les-marches-agricoles-de-l-UE-2007-2014-juin-2008">Perspectives pour les marchés agricoles de l’UE 2007-2014 - juin 2008</a></p>
+						<p><a href="/fr/Ressources/Documents-Agritrade/Enjeux-cles/n-3-Dimension-developpement-des-APE-et-liens-avec-le-secteur-agricole">n° 3 : Dimension développement des APE et liens avec le secteur agricole</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+<a id="formstart"></a>
+<div class="separator"></div>
+
+<div class="content-login-box" id="login-box-popup" style="display: none;">
+	<div class="content-login-shadow">
+		<div class="content-login-main">
+			<div class="content-login-main-inner">
+
+					
+						<div style="margin:5px 0 5px 0">
+							Connectez-vous avec votre compte MyAgritrade : 
+						</div>
+
+						<form action="/fr/user/login" method="post">
+							<input type="hidden" name="Anchor" value="#addcomment"/>
+							<table cellpadding="0" cellspacing="0" width="100%">
+								<tr>
+									<td class="login-column-key">MyAgritrade</td>
+									<td class="login-column-value"><input type="text" class="shadow-background login-textfield" name="Login"/></td>
+								</tr>
+								<tr>
+									<td colspan="2" style="height: 5px;"></td>
+								</tr>
+								<tr>
+									<td class="login-column-key">Mot de passe</td>
+									<td class="login-column-value"><input type="password" class="shadow-background login-textfield" name="Password"/></td>
+								</tr>
+							</table>
+							<input type="hidden" name="RedirectURI" value="Ressources/Documents-Agritrade/A-la-une/Les-pays-ACP-sont-confrontes-a-des-barrieres-tarifaires-residuelles-Exportations-de-produits-agricoles-vers-l-UE"/>
+							<table cellpadding="0" cellspacing="0" width="100%" style="margin-top: 5px;">
+								<tr>
+									<td><a href="/fr/user/forgotpassword">Mot de passe oublié ?</a><br/><a href="/fr/user/register" alt="s'incrire">Pas encore abonné? Inscrivez-vous ! </a></td>
+									<td align="right" valign="top"><input type="submit" class="login-form-button" value="&raquo; login" name="LoginButton"/></td>
+								</tr>
+							</table>
+						</form>
+					
+					<a href="javascript:loginBox();" class="login-box-close">&raquo; Fermer cette fenêtre</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="reaction">
+	<h3>Commenter</h3>
+
+	
+	<a name="addcomment"></a>
+
+	<div class="reaction-thumb">
+		<div>
+			
+									<img class="profile-img" src="/extension/socialize/design/socialize/images/comment/unknown.png" alt=""/>
+				
+					</div>
+	</div>
+
+	<div class="reaction-buttons">
+		<a class="button" href="javascript:loginBox();"><span>
+							Choisir ID
+					</span></a>
+	</div>
+
+
+	<div class="reaction-form">
+
+		<form action="/fr/socialize/create" method="post">
+							<div class="line">
+					<div class="align-input">
+						<input id="reaction-name" type="text" name="Name" value="" class="reaction-input" placeholder="Connectez-vous ou introduisez votre nom"/>
+					</div>
+				</div>
+			
+			<div class="line">
+				<div class="align-input">
+					<input id="reaction-subject" type="text" maxlength="40" name="Subject" value="" class="reaction-input" placeholder="Sujet"/>
+				</div>
+			</div>
+
+			<div class="line">
+				<div class="align-input">
+					<textarea id="reaction-comment" name="Comment" class="reaction-textarea" placeholder="Publier"></textarea>
+				</div>
+			</div>
+
+			<div class="line">
+				<div class="recaptcha">
+															<script type="text/javascript">
+						var RecaptchaTheme='white';
+						var RecaptchaLang='fr';
+						
+
+						var RecaptchaOptions = {
+							theme: RecaptchaTheme,
+							lang: RecaptchaLang
+						};
+						
+					</script>
+					<script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LdSNMMSAAAAADrQ5zWgH1gIPA-HR6iLYmJWVwvw"></script>
+
+	<noscript>
+  		<iframe src="http://api.recaptcha.net/noscript?k=6LdSNMMSAAAAADrQ5zWgH1gIPA-HR6iLYmJWVwvw" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>
+				</div>
+			</div>
+
+		<input type="hidden" value="1773" name="NodeID"/>
+
+		
+						<input type="hidden" value="Ressources/Documents-Agritrade/A-la-une/Les-pays-ACP-sont-confrontes-a-des-barrieres-tarifaires-residuelles-Exportations-de-produits-agricoles-vers-l-UE" name="RedirectURL"/>
+		
+		<div class="buttons">
+			<input type="submit" value="Ajouter" class="reaction-submit"/>
+		</div>
+
+		</form>
+		<span class="big-red"><a href="/fr/Bienvenue-sur-Agritrade/Notice-legale">Termes et conditions</a></span>
+	</div>
+
+</div>			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				
+
+
+						<!-- center container ] -->
+			</div>
+			
+
+
+				<!-- [ right container -->
+		<div id="rightCntr">
+				
+<!-- login -->
+	<div class="block myagritrade rightsmall">
+		<form action="/fr/user/login" method="post">
+				<h3>S'identifier</h3>
+				<div class="clear"></div>
+				<input type="text" class="field half set_password_user" name="Login" id="id1" value="" placeholder="Nom d'utilisateur"/>
+				<label class="passwordlabel"><span>Mot de passe</span><input type="password" class="field half last set_password" value="" autocomplete="off" name="Password"/></label>
+				<input type="image" alt="Aller" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif"/>
+			<input type="hidden" name="RedirectURI" value=""/>
+		</form>
+
+		<p class="smaller"><a href="/fr/user/forgotpassword">Vous avez oublié votre mot de passe?</a></p>
+
+	</div>
+
+<!-- end login -->
+
+   <div class="block myagritrade rightsmall">
+		<form action="/fr/user/register" method="get">
+				<h3>S'abonner à Agritrade</h3>
+				<input type="text" class="field full" value="" placeholder="Votre adresse email" name="email"/>
+				<input type="image" alt="Aller" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif"/>
+	   </form>
+	</div>
+	<div class="clear"></div>
+									
+<div class="block yellow">
+	<h3>Lire aussi</h3>
+	<div>
+								<p><a href="/fr/Ressources/Documents-Agritrade/A-la-une/Emergence-d-une-politique-europeenne-sur-le-fonctionnement-des-chaines-d-approvisionnement-alimentaire-Implications-pour-les-pays-ACP">Émergence d’une politique européenne sur le fonctionnement des chaînes d’approvisionnement alimentaire : Implications pour les pays ACP</a></p>
+						<p><a href="/fr/Ressources/Documents-Agritrade/A-la-une/Questions-controversees-dans-les-negociations-d-APE-interimaires-implications-pour-le-secteur-agricole">Questions controversées dans les négociations d’APE intérimaires : implications pour le secteur agricole </a></p>
+						<p><a href="/fr/Ressources/Documents-Agritrade/A-la-une/Les-APE-interimaires-et-leurs-implications-pour-les-secteurs-agricoles-et-alimentaires-africains">Les APE intérimaires et leurs implications pour les secteurs agricoles et alimentaires africains </a></p>
+						<p><a href="/fr/Ressources/Documents-Agritrade/A-la-une/Perspectives-pour-les-marches-agricoles-de-l-UE-2007-2014-juin-2008">Perspectives pour les marchés agricoles de l’UE 2007-2014 - juin 2008</a></p>
+						<p><a href="/fr/Ressources/Documents-Agritrade/Enjeux-cles/n-3-Dimension-developpement-des-APE-et-liens-avec-le-secteur-agricole">n° 3 : Dimension développement des APE et liens avec le secteur agricole</a></p>
+						</div>
+</div>		</div>
+		<!-- right container ] -->
+		
+		<div style="clear:both;"></div>
+
+
+		</section>
+		<!-- content container ] -->
+
+		<footer class="container">
+
+			<!-- [ bottom container -->
+			<div id="sitemap">
+	<a class="sitemap_toggle closed" href="#">Plan du site</a>
+	<nav>
+		<div class="links agri">
+			<h3>Agriculture</h3>
+			<div class="column">
+				<ul>
+					<li><em>Sujets</em></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Accord-de-l-OMC">Accord de l'OMC</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/APE">APE</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-UE">Accords de libre-échange UE</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP">Accords de libre-échange ACP</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Commerce-regional-ACP">Commerce régional ACP</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Acces-au-marche">Accès au marché</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/SPS-Securite-des-aliments">SPS / Sécurité des aliments</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Differenciation-des-produits">Différenciation des produits</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Reforme-de-la-PAC">Réforme de la PAC</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Biocarburants">Biocarburants</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Changement-climatique">Changement climatique </a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Aide-au-commerce">Aide au commerce </a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Autres">Autres</a></li>
+									</ul>
+			</div>
+
+			<div class="column">
+				<ul>
+					<li><em>Produits de base</em></li>
+
+										<li><a href="/fr/Agriculture/Produits-de-base/General">Général</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Banane">Banane</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Viande-bovine">Viande bovine</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Cacao">Cacao</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Cafe">Café</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Coton">Coton</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Produits-laitiers">Produits laitiers</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Horticulture">Horticulture</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Oleagineux">Oléagineux</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Volaille">Volaille</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Riz">Riz</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Rhum">Rhum</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Sucre">Sucre</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Cereales">Céréales</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/The">Thé</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Autres">Autres</a></li>
+									</ul>
+			</div>
+
+		</div>
+		<div class="links">
+			<h3>Pêche</h3>
+		<ul>
+		
+			<li><a href="/fr/Peche/Sujets/Acces-au-marche">Accès au marché</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/Relations-ACP-UE-APP">Relations ACP-UE ; APP</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE">Politique commune de la pêche de l'UE</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/Accord-de-l-OMC">Accord de l'OMC</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/News-from-the-IOC-region">News from the IOC region</a></li>
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Régions</h3>
+		<ul>
+					
+				<li><a href="/fr/Regions/Globale">Globale</a></li>
+						
+					
+				<li><a href="/fr/Regions/UE">UE</a></li>
+						
+															
+					<li><a href="/fr/Regions/ACP/Surface-transport-slow">Surface transport slow</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Groupe-ACP">Groupe ACP</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Caraibes">Caraïbes</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-Centrale">Afrique Centrale</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-de-l-Est">Afrique de l'Est</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-de-l-Ouest">Afrique de l'Ouest</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Pacifique">Pacifique</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-Australe">Afrique Australe</a></li>
+							
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Publications</h3>
+			<ul>
+			
+				<li><a href="/fr/Publications/Actualites-et-analyses">Actualités et analyses</a></li>
+			
+				<li><a href="/fr/Publications/Newsletter">Newsletter</a></li>
+			
+				<li><a href="/fr/Publications/Notes-de-synthese">Notes de synthèse</a></li>
+			
+				<li><a href="/fr/Publications/Interviews">Interviews</a></li>
+			
+				<li><a href="/fr/Publications/Rapports-a-la-une">Rapports à la une</a></li>
+			
+				<li><a href="/fr/Publications/Compendium">Compendium</a></li>
+						</ul>
+		</div>
+
+
+
+		<div class="links last">
+			<h3>Liens</h3>
+			<ul>
+			
+				<li><a href="http://agritrade.cta.int/en" target="_blank">Agritrade</a></li>
+			
+				<li>My Agritrade</li>
+			
+				<li><a href="http://www.cta.int/en/CTA-Portals" target="_blank">CTA Web Portals</a></li>
+			
+				<li><a href="http://brussels.cta.int/index.php" target="_blank">CTA Brussels Office Weblog</a></li>
+			
+				<li>ARD WebRing</li>
+			
+				<li><a href="http://spore.cta.int/" target="_blank">Spore </a></li>
+			
+				<li><a href="http://ictupdate.cta.int/" target="_blank">ICT Update</a></li>
+			
+				<li><a href="http://knowledge.cta.int/" target="_blank">Knowledge for Development</a></li>
+			
+			</ul>
+		</div>
+	</nav>
+</div>
+
+
+
+			<!-- bottom container ] -->
+
+			<!-- [ footer container -->
+			<div id="footer">
+				<div class="footerleft">
+					<div class="icon_left">
+						<img src="/extension/agritrade/design/agritrade/images/icon1.gif" alt=""/>
+					</div>
+
+					<div class="text_center">
+						
+																					
+
+	<div class="block custom ">
+
+		
+		<p>Le CTA est une institution du Groupe des Etats ACP (Afrique, Caraïbes et Pacifique) et de l'Union Européenne, dans le cadre de l'Accord de Cotonou. Le CTA est financé par l'UE.
+
+		
+		</p>
+
+	</div>													
+					</div>
+
+					<div class="icon_right">
+						<img src="/extension/agritrade/design/agritrade/images/icon2.gif" alt=""/>
+					</div>
+				</div>
+
+				<div class="footerright">
+											
+
+	<div class="block links">
+		
+									<p><a href="/fr/Bienvenue-sur-Agritrade" target="_blank">À propos et Contact</a></p>
+												<p><a href="/fr/Bienvenue-sur-Agritrade/Notice-legale">Notice légale </a></p>
+					
+	</div>
+											
+
+	<div class="block custom ">
+
+		
+		<p>Centre Technique de Coopération Agricole et Rurale (CTA) (ACP-UE Accord de Cotonou) Droit d'auteur CTA © 2011
+
+		
+		</p>
+
+	</div>									</div>
+
+			</div>
+			<!-- footer container ] -->
+
+		</footer>
+
+	</div>
+	<!-- main container ] -->
+
+</div>
+<!-- wrapper ] -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-724238-5";
+urchinTracker();
+</script>
+
+
+
+<script type="text/javascript">
+  var _sf_async_config = { uid: 39651, domain: 'agritrade.cta.int' };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+        "js/chartbeat.js");
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":1323,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

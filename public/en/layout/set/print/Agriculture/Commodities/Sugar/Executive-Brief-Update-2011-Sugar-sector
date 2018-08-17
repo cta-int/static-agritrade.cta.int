@@ -1,0 +1,507 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2011: Sugar sector / Sugar / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																															
+		
+		<div class='contentrealtionlist'>
+										
+																																																																																																																																																																																																																																																																																																								
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2011: Sugar sector</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/12082/495756/file/a4eb6cc81d08bf1c9d3fb576ff614002.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+									</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>About this update</b></p><p>This brief was updated in July 2011. The original executive brief was published in January 2009 and is available on request from agritrade-mail@cta.int</p><p>Other publications in this series and additional resources on ACP—EU agriculture and fisheries trade issues can be found online at http://agritrade.cta.int/</p>
+
+		</div>
+		
+		
+					<a name="eztoc495746_1" id="eztoc495746_1"></a><h2><b>1. Background and key issues </b></h2><p>Since October 2009 the ACP group of countries has faced the termination of the sugar protocol, the introduction of duty-free, quota-free access subject to safeguard ceilings, and the full implementation of the post-reform EU sugar regime. Significantly, the termination of the sugar protocol ended not only price guarantees for ACP suppliers, but also supply guarantees to EU importers. From an ACP perspective the most important aspect of the reform process was the 36% reduction in the reference price for raw sugar imports and the subsequent erosion of the minimum price guarantee to 90% of the reference price, with a commitment to terminating this guarantee from 1 October 2012.</p><p>Other aspects of the EU reform process saw an opening up of EU sugar import licensing arrangements, which limited the exclusive access of traditional refiners to import licences to the first 3 months of the import year, and extended the purposes for which non-quota sugar could be used on the domestic EU market to include chemical and pharmaceutical products. Despite these reforms the EU maintained an extensive policy tool-box to regulate the management of the EU sugar market.</p><p>In addition to the reforms, the EU established a sugar-protocol accompanying measures programme to assist in the restructuring of sugar-dependent ACP economies. A total of approximately €1,244 million in grant assistance was committed to this programme for the period 2006 to 2013. A commitment was also made to mobilise additional financial resources (mainly loans) alongside this grant financing.</p><p>The process of reform has stimulated considerable corporate restructuring in the EU sugar sector. This has seen the global expansion of a number of traditional European sugar beet processing companies and an intensification of competition on national EU sugar markets. Ironically this is taking place against the backdrop of a further concentration of ownership within the EU sugar sector.</p><p>Developments in the EU sugar sector are strongly influenced by EU biofuel policies, since this provides an important outlet for out-of-quota sugar.</p><a name="eztoc495746_2" id="eztoc495746_2"></a><h2><b>2. Recent developments</b></h2><p><b>2.1 World sugar price developments and ACP sugar exports to the EU</b></p><p>The evolution of world sugar prices in 2010 threw up new opportunities for ACP sugar producers and significantly altered the immediate impact of the 2005 round of EU sugar sector reforms, by raising prices paid by EU importers substantially above the ACP minimum guaranteed price. This strengthened the position of ACP sugar exporters in commercial contract negotiations. This can be seen in the various revenue sharing agreements negotiated, which linked the ultimate price paid for ACP raw sugar to the final sale price of refined sugar products on the EU market.</p><p>In addition, more commercially interesting export opportunities have opened up in regional markets. This has given rise to supply shortages on the EU market.&nbsp;</p><p><b>Figure 1: EU reference price (€335.2/tonne), average EU market price and average world market price (US cents /lb)</b></p>
+<div class="">		
+<div class="embed-image">
+<img border="0" src="/var/agritrade/storage/images/sugar-brief/495769-1-eng-GB/Sugar-brief_large.jpg" width="360" height="260"></div></div><p><b>&nbsp;</b>Sugar, European import price, cif Europe, US cents/lb</p><p>Sugar, free market Coffee, Sugar and Cocoa Exchange contract No. 11 future position, US cents/lb</p><p>Source: USDA</p><p>Significant price premiums relative to world market prices were enjoyed in the early years of the implementation of EU sugar sector reforms. However, from mid 2009 this began to change, with world market prices doubling in the course of 2009. While initially in 2010 world market prices slumped, losing 40% of their value between December 2009 and May 2010, by September 2010 prices levels were such that the EU price premiums had disappeared and regional or world market sales were offering better commercial returns to ACP exporters. This continued through the first quarter of 2011.</p><p><b>Table 1: Average sugar prices on markets open to ACP sugar exporters (US cents/lb)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="42" valign="top">  &nbsp;
+  </td><td width="41" valign="top">  <p class=" text-center">2008</p><p class=" text-center">Ave</p>
+  </td><td width="40" valign="top">  <p class=" text-center">2009</p><p class=" text-center">Q1</p>
+  </td><td width="40" valign="top">  <p class=" text-center">2009</p><p class=" text-center">Q2</p>
+  </td><td width="41" valign="top">  <p class=" text-center">2009</p><p class=" text-center">Q3</p>
+  </td><td width="41" valign="top">  <p class=" text-center">2009</p><p class=" text-center">Q4</p>
+  </td><td width="41" valign="top">  <p class=" text-center">2010</p><p class=" text-center">Q1</p>
+  </td><td width="41" valign="top">  <p class=" text-center">2010</p><p class=" text-center">Q2</p>
+  </td><td width="41" valign="top">  <p class=" text-center">2010</p><p class=" text-center">Q3</p>
+  </td><td width="41" valign="top">  <p class=" text-center">2010</p><p class=" text-center">Q4</p>
+  </td><td width="36" valign="top">  <p class=" text-center">2011</p><p class=" text-center">Q1</p>
+  </td>
+</tr>
+
+<tr>
+<td width="42" valign="top">  EU
+  </td><td width="41" valign="top">  27.76
+  </td><td width="40" valign="top">  23.84
+  </td><td width="40" valign="top">  25.76
+  </td><td width="41" valign="top">  27.29
+  </td><td width="41" valign="top">  27.17
+  </td><td width="41" valign="top">  25.96
+  </td><td width="41" valign="top">  24.79
+  </td><td width="41" valign="top">  25.79
+  </td><td width="41" valign="top">  26.31
+  </td><td width="36" valign="top">  26.64
+  </td>
+</tr>
+
+<tr>
+<td width="42" valign="top">  US
+  </td><td width="41" valign="top">  21.32
+  </td><td width="40" valign="top">  20.32
+  </td><td width="40" valign="top">  22.10
+  </td><td width="41" valign="top">  25.13
+  </td><td width="41" valign="top">  29.79
+  </td><td width="41" valign="top">  29.09
+  </td><td width="41" valign="top">  26.36
+  </td><td width="41" valign="top">  31.81
+  </td><td width="41" valign="top">  36.94
+  </td><td width="36" valign="top">  39.11
+  </td>
+</tr>
+
+<tr>
+<td width="42" valign="top">  World
+  </td><td width="41" valign="top">  12.45
+  </td><td width="40" valign="top">  12.83
+  </td><td width="40" valign="top">  15.17
+  </td><td width="41" valign="top">  20.99
+  </td><td width="41" valign="top">  23.61
+  </td><td width="41" valign="top">  20.68
+  </td><td width="41" valign="top">  16.10
+  </td><td width="41" valign="top">  20.69
+  </td><td width="41" valign="top">  27.13
+  </td><td width="36" valign="top">  28.32
+  </td>
+</tr>
+
+</table>
+<p>Sources:</p><p>EU market prices: IMF</p><p>
+<a href="http://www.indexmundi.com/commodities/?commodity=sugar-european-import-price&amp;months=60" target="_self">http://www.indexmundi.com/commodities/?commodity=sugar-european-import-p...</a></p><p>US market prices: IMF</p><p>
+<a href="http://www.indexmundi.com/commodities/?commodity=sugar-us-import-price&amp;months=60" target="_self">http://www.indexmundi.com/commodities/?commodity=sugar-us-import-price&a...</a></p><p>World market prices: IMF</p><p>
+<a href="http://www.indexmundi.com/commodities/?commodity=sugar&amp;months=60" target="_self">http://www.indexmundi.com/commodities/?commodity=sugar&amp;months=60</a></p><p><b>&nbsp;</b></p><p>There is considerable debate over what has driven world market prices to such levels, and the factors contributing to volatility. Clearly the underlying supply and demand situation plays an important role. Only in February 2011 was it announced that, for the first time in 4 years, sugar output would marginally exceed demand (see <i>Agritrade </i>article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Sugar/High-world-prices-create-supply-problems-on-EU-market-while-ACP-production-trends-vary" target="_self">High world prices create supply problems on EU market, while ACP product...</a>’ April 2011). This underlying supply and demand situation has contributed to firmer world sugar prices. High oil prices would also appear to be supporting a high sugar price through their impact on demand for ethanol. To a degree, therefore, political turmoil in the Middle East can also be said to be supporting high sugar prices. However, as sugar analysts Czarnikow have pointed out, high sugar prices are encouraging food manufacturers in a number of major markets to switch to high-fructose corn syrup (some 40% cheaper than sugar in February 2011, despite a recent increase in price). These supply and demand factors involve a complex web of causality, which can contribute to price volatility. However this volatility appears to be exacerbated by the growing level of financial speculation in agricultural commodity markets (see <i>Agritrade </i>article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Sugar/Algorithmic-traders-blamed-for-sugar-price-volatility" target="_self">Algorithmic traders blamed for sugar-price volatility</a>’ April 2011).</p><p>This would appear to raise important questions over the need for regulation of financial speculation in agricultural commodity markets, if price volatility is not to undermine the basis for sustainable investments in sugar production in ACP countries. In this context it should be noted that EU safety-net measures are likely to be retained beyond 2013, to insulate EU farmers from the worst effects of price volatility. ACP producers, meanwhile, will have to deal with price volatility through their commercial contract negotiations. Effectively managing price volatility is likely to be an increasingly critical challenge for ACP sugar exporters.</p><p>An additional factor influencing world market price formation relates to the policy responses of governments to the underlying supply and demand situation. Here there has been considerable controversy over the use of EU policy tools, notably the management of out-of-quota sugar production (see section 2.2).</p><p>What is clear is that high world market prices for sugar served to reduce the relative attractiveness of the EU market for ACP sugar exporters, while at the same time, to a degree, supporting the prices received by ACP sugar exporters. This was particularly the case towards the end of 2010 and the beginning of 2011. This highlights the importance of commercial contract negotiations to price formation for ACP sugar exports – even before the abolition (scheduled for 1 October 2012) of the floor price for ACP sugar exports to the EU.</p><p>World market price developments have given rise to a situation where the expected expansion of ACP supplies of sugar to the EU market, following the granting of duty-free, quota-free access, failed to materialise. In 2009/10, the ACP/LDC group exported only 1.45 million tonnes of sugar to the EU, less than 42% of the safeguard ceiling established for ACP/LDC sugar exports. This has created a tight supply situation on the EU market, with traditional cane sugar refiners facing acute financial difficulties and EU food processors calling for urgent action to ensure supplies of sugar to the EU market. Overall the evolution of world market prices and the ACP supply response has given rise to considerable volatility in the EU policy response in the course of 2010.</p><p><b>2.2 The EU’s evolving sugar sector policy</b></p><p>The EU has an evolving range of policy measures with which to manage the EU sugar market. In 2010 considerable attention focused on the management of out-of-quota sugar production. While sugar sector reform cut sugar production quotas, it did not directly tackle the issue of out-of-quota sugar production; indeed, this was largely left to the EU’s evolving biofuels policy. In competitive sugar producers such as Germany, out-of-quota production can be as high as 52% of the national sugar production quota. It thus represents an important proportion of overall EU sugar production.</p><p>On 27 January 2010, in the light of the high world market prices (averaging 24.9 US cents/lb in December 2009), the EC announced its intention to allow the export of a further 500,000 tonnes of out-of-quota sugar in the 2009/10 marketing year (up to 31 July 31 2010). The EC argued that the high level of world market prices allowed the EU to export out-of-quota sugar without any need for export subsidies or cross-subsidisation, thereby allowing the EU to exceed the WTO export volume ceiling which only applies to exports that are supported by export refunds (see <i>Agritrade </i>article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Sugar/EU-to-expand-out-of-quota-sugar-exports" target="_self">EU to expand out-of-quota sugar exports</a>’, March 2010). This move caused considerable concern among major world market sugar exporters, particularly when prices began to fall (losing 40% of their value by the end of May 2010). By the middle of 2010, the EC was considering issuing licences for the export of a further 350,000 tonnes of out-of-quota sugar, to take advantage of the ‘exceptional’ high world market price.</p><p>However at this point other factors began to exert a greater influence on world sugar market prices, and by September 2010 world market prices were substantially above EU market prices. With ACP sugar exports substantially below the anticipated levels of 2.1 million tonnes (see <i>Agritrade </i>article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Sugar/World-sugar-prices-volatile" target="_self">World sugar prices volatile</a>’, July 2010), this gave rise to serious supply concerns. In November 2010 the Confederation of European Food and Drink Manufacturers (CIUS) called on the EC to halt out-of-quota sugar exports and ‘keep sugar supplies within the EU’. According to the CIUS secretary general, difficulties in securing sugar meant that ‘both small and large scale sweets and food factory production lines are temporarily being shut down due to the fact that their sugar suppliers are forced to default on contracts as a result of the internal market deficit’.</p><p>The EC responded, indicating that ‘further steps … may be necessary to ensure that market balances are maintained, such as a temporary tariff rate quota on world market imports’ (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Sugar/Sugar-price-prospects-uncertain-but-looking-good" target="_self">Sugar price prospects uncertain, but looking good</a>’, January 2011). By 29 November 2010, with world sugar market prices approaching 29 c/lb, the EC announced that it was delaying plans to export a further 350,000 tonnes of out-of-quota sugar, and moved to suspend the duty on so-called CXL imports (the MFN quota for raw cane sugar opened initially for Brazil and Cuba following Finland’s accession to the EU in 1995) from the group of non-ACP/LDC preferred suppliers.</p><p>This decision was reinforced by warnings from major sugar traders that ‘sugar prices are moving into a new price arena due to low stock levels and strong demand’, and weather-related supply disruptions in China, Brazil and Australia (see <i>Agritrade </i>article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Sugar/Favourable-global-sugar-prices-in-prospect" target="_self">Favourable global sugar prices in prospect</a>’, March 2011). A policy reversal on the management of out-of-quota sugar became inevitable for the EU when, at the beginning of 2011, unfavourable weather began to impact on the prospects for the EU sugar beet crop, with projections suggesting a 12.3% decline in production across the EU (and forecast to be down 30% in the UK). This led EU ministers in January 2011 to decisively shift away from the promotion of sugar exports, in view of favourable world market prices, to a consolidation of supplies to the EU market.</p><p>By the end of February 2011 the EC had announced that the sale of 500,000 tonnes of out-of-quota sugar would be allowed on the EU market without the usual requirement to pay a €500 ‘super levy’. This effectively freed up part of the out-of-quota sugar production for use on the EU market, thereby blurring the distinction between ‘quota’ and ‘out-of-quota’ sugar production (see <i>Agritrade </i>article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Sugar/High-world-prices-create-supply-problems-on-EU-market-while-ACP-production-trends-vary" target="_self">High world prices create supply problems on EU market, while ACP product...</a>’, April 2011). The EC then announced the opening of an additional duty-free tariff-rate quota (TRQ) of 300,000 tonnes, likely to benefit sugar exporters such as Brazil and South Africa, whose exports outside preferential TRQ arrangements currently face prohibitive tariffs. These measures were adopted in direct response to the concerns of the EU food and drinks industry, in a context where traditional suppliers (notably the ACP) were sending their sugar elsewhere, given the more favourable prices obtainable on these other markets. EU farmer-based opposition to the opening up of further TRQ access for third-country suppliers was largely ignored.</p><p>On 24 March the EC announced measures that would provide a predictable framework for the EU sugar sector in the 2011/12 season. The package included:</p>
+<ul>
+
+<li>‘a quantitative limit for the exports of out-of-quota sugar (650,000 tonnes) and isoglucose (50,000 tonnes) for the marketing year 2011/12’, with export certificates valid from 1 January 2012;</li>
+
+<li>‘the opening of an import quota of 400,000 tonnes for industrial sugar’;</li>
+
+<li>provision for expansion of the foregoing quantities once ‘more precise estimates of production and available supply’ are known.</li>
+
+</ul>
+<p>Most notably, provision was made for the further extension of the ‘exceptional measures’ announced in February 2011, if market developments warranted such action (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Sugar/EU-sets-out-policy-framework-for-sugar-production-in-2011-12" target="_self">EU sets out policy framework for sugar production in 2011/12</a>’, May 2011).</p><p>These developments potentially carry important implications for how the EU is likely to address a range of unresolved issues which gained in prominence in the course of 2010, notably:</p>
+<ul>
+
+<li>the extent of sugar sector trade concessions to be extended via bilateral free-trade area (FTA) arrangements; </li>
+
+<li>the treatment of sugar in the WTO negotiations; </li>
+
+<li>the future of the sugar regime under the 2013 round of CAP reforms, including the critical issue of the future of production quota restrictions.</li>
+
+</ul>
+<p><b>2.3&nbsp; Unresolved issues</b></p><p><b>2.3.1 The treatment of sugar under bilateral EU FTA agreements</b></p><p>In 2010 the EC concluded FTA agreements with Colombia, Peru and Central American countries which resulted in the granting of 276,000 tonnes of additional TRQ access to the EU sugar market (plus a 3% annual growth for the next 10 years). However, ongoing FTA negotiations with Mercosur, Ukraine, India and South Africa (an ACP group member which does not trade on a duty-free, quota-free basis with the EU) could give rise to substantial additional TRQ allocations.</p><p>The Mercosur negotiations are the greatest area of concern for the ACP, given the presence in this group of the world largest sugar exporter, Brazil. Brazil already enjoys preferential access to the EU market for some 334,000 tonnes and is probably the major supplier under general market access arrangements governing the import into the EU of a further 254,000 tonnes. Since 2006 Brazil has exported a growing volume of raw sugar and white sugar to the EU market, partly as a result of the expanded TRQ access required following EU enlargement.</p><p><b>Table 2: EU imports of Brazilian sugar</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="74" valign="top">  &nbsp;
+  </td><td width="74" valign="top">  <b>2003</b>
+  </td><td width="74" valign="top">  <b>2006</b>
+  </td><td width="74" valign="top">  <b>2007</b>
+  </td><td width="74" valign="top">  <b>2008</b>
+  </td><td width="74" valign="top">  <b>2009</b>
+  </td>
+</tr>
+
+<tr>
+<td width="74" valign="top">  Raw sugar
+  </td><td width="74" valign="top">  45,513
+  </td><td width="74" valign="top">  122,828
+  </td><td width="74" valign="top">  784,365
+  </td><td width="74" valign="top">  927,175
+  </td><td width="74" valign="top">  639,185
+  </td>
+</tr>
+
+<tr>
+<td width="74" valign="top">  White sugar
+  </td><td width="74" valign="top">  20,220
+  </td><td width="74" valign="top">  44,729
+  </td><td width="74" valign="top">  71,144
+  </td><td width="74" valign="top">  66,357
+  </td><td width="74" valign="top">  62,865
+  </td>
+</tr>
+
+</table>
+<p>Source: ISO</p><p>However, with some 2 million tonnes of total South African sugar exports in a normal year, the ongoing EU–SADC EPA negotiations with South Africa are also a source of concern to traditional ACP suppliers (for more details see section 2.4, on developments in ACP sugar sectors). It is feared that any additional large TRQs agreed under new FTA arrangements would destabilise the EU sugar market and require more fundamental reform of the EU sugar regime, reforms which would further erode the value of traditional ACP sugar sector preferences. It is feared that this would permanently create a situation where there is no significant additional value to be had from exporting raw sugar to the EU market compared to serving non-EU markets.</p><p><b>&nbsp;</b></p><p><b>2.3.2&nbsp; The treatment of sugar under the WTO Doha Round</b></p><p>The second unresolved issue relates to the treatment of sugar in the Doha Round. While there was no significant development in the WTO negotiations on this point in 2010, the context of these negotiations has been transformed by price developments on world sugar markets. The initial EU policy perspective was gravitating towards treating sugar as a ‘sensitive product’. However this would require the granting of additional TRQ access of between 500,000 and 850,000 tonnes. This would only make sense if, for a sustained period of time, world market sugar prices remained below EU sugar market prices. In this context, standard tariff protection would be too little to prevent a flood of sugar imports from low costs suppliers such as Brazil. However, if world market prices remained relatively close to EU market prices, then standard tariff protection would probably be sufficient to prevent a flood of imports. Indeed, under a high world market price scenario, ACP exporters may continue to divert raw sugar supplies away from the EU market to national and regional markets.</p><p>Analysis from the Organisation for Economic Co-operation and Development (OECD)/ UN Food and Agriculture Organisation (FAO) and from the Food and Agricultural Policy Research Institute (FAPRI) suggest that world sugar prices will remain relatively high in relation to prevailing EU price levels up to 2019 (see <i>Agritrade </i>article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Sugar/Prospects-for-global-sugar-markets-to-2019" target="_self">Prospects for global sugar markets to 2019</a>’, February 2011). Czarnikow meanwhile have forecast a 50% increase in global demand for sugar by 2030, based on ‘rising wealth in emerging markets’ and a consequent expansion of per capita consumption in developing markets’. This is expected to give rise to a doubling of the size of the world market in sugar, with a major shift in the focus of consumption to Asian markets (Asia’s share of global consumption is expected to increase from 40% in 2010 to 49% in 2030, while EU consumption is expected to remain stable). As a consequence of expanding demand, world sugar prices are expected to ‘remain at elevated levels for years’, possibly averaging around 22 US c/lb (see <i>Agritrade </i>article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Sugar/Report-published-on-prospects-for-sugar-markets-up-to-2030" target="_self">Report published on prospects for sugar markets up to 2030</a>’, January 2011). This suggests a reduced need for treating sugar as a ‘sensitive product’ in the WTO negotiations.</p><p><b>2.3.3&nbsp; The treatment of sugar under the 2013 round of CAP reforms</b></p><p>The third unresolved issue relates to the treatment of sugar within the 2013 round of CAP reforms. For the ACP, the critical issue is the impact that any reforms will have on the price received for ACP sugar exports on the EU market.</p><p>The future of EU sugar production quotas, which currently limit sugar production for the domestic EU food products market, is critical to future price formation. The EC has spoken of the need to ensure a smooth transition away from the use of production quotas as a market management tool. This can be seen as a logical extension of the incorporation of the sugar sector into the single payment scheme. This scheme provides a single non-product-specific payment to EU farmers, leaving the farmer free to determine what to produce. Since it limits a farmer’s ability to freely determine what to produce, quota restrictions on sugar production are clearly inconsistent with the single payment scheme.</p><p>The phasing out of sugar production quotas would carry important implications. It would bring an end to limitations on where EU-produced sugar can be sold and prevent the operation of a two-tier pricing system for sugar (one price for quota sugar used for human consumption, and a second, lower price for sugar used in the chemical industry, for ethanol production or exported without export-refund support). This raises the question: at what level would a single EU sugar price be established?</p><p>It could be expected that the abolition of the production quota system would exert a downward pressure on prices of sugar for human consumption. However, the impact of EU biofuel policy and the world market price of oil also need to be factored into the equation, given the projected expansion of the use of sugar beet in ethanol production.</p><p>The abolition of production quotas would also erode the distinction between ‘quota’ and ‘out-of-quota’ sugar in terms of the regulation of EU exports of sugar. This would potentially increase the volume of EU sugar available for export, outside export licensing arrangements. This could have an impact on world market prices during times of good beet harvests in the EU.</p><p>In the light of these possible price effects, ACP sugar interests favour a continued use of production quotas within the EU, with the overall quota being adjusted to accommodate any expansion of TRQ access for third-country suppliers. However, this would be contrary to the underlying logic of the main tenet of the CAP reform process, the movement over to a single farm payment which leaves individual farmers free to choose what to produce based on their comparative advantage.</p><p>Looking beyond the issue of production quotas, the EC is likely to maintain the reference price system, but as a safety-net mechanism, and no longer as a means of supporting market prices. This will require the maintenance of support to private storage to deal with the down-cycle of what is expected to be an increasingly volatile world sugar market and, in all probability, a relaxation of export licensing arrangements to allow the disposal of stored sugar during the up-cycle. However, the critical safety-net tool used by the EU will continue to be the single payment scheme, into which the sugar sector has been progressively integrated since 2006.</p><p>More fundamentally, the issue of the impact of EU direct aid payments on the production of sugar beet and the volume of sugar available to meet both domestic EU needs and exports is likely to gain in prominence in the coming years. During the debate around EU out-of-quota sugar exports at the beginning of 2010, Brazil’s Ambassador to the WTO argued that the nature of the EU sugar regime meant that all of its sugar production was subsidised. This view was shared by Australian trade negotiators, who maintained that this perspective was implicitly endorsed by the 2005 WTO ruling on EU sugar exports (see <i>Agritrade </i>article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Sugar/EU-to-expand-out-of-quota-sugar-exports" target="_self">EU to expand out-of-quota sugar exports</a>’, March 2010). These issues are likely to have an influence on the EU’s eventual end game for sugar sector reform.</p><p>Since the ACP have a direct interest in the stability of the EU market, ACP sugar sector stakeholders are looking for the establishment of consultative mechanisms on how these various tools should be used.</p><p><b>2.4&nbsp; Developments in ACP sugar sectors</b></p><p>Overall, while high world market prices have reduced the financial impact of reductions in the EU guaranteed price, the prices paid for sugar imports from ACP suppliers in US dollar terms in November 2010 were still 23% below those prevailing in November 2007 (this is the relevant comparison when looking at EU and world market prices). However, with the introduction of duty-free, quota-free access alongside the price reductions, not all ACP suppliers have been equally affected by the reform process. Impacts vary not only from region to region, but also among countries in the same region.</p><p>In Southern and Eastern Africa, considerable investment has been made in expanding and improving the efficiency of sugar production, notably by South African-based sugar companies (some of which are majority-owned by EU sugar companies) but also by EU and local companies. While this investment was initially planned to target EU markets, the rise in world market prices led to Malawi, Swaziland, Zimbabwe, Zambia and Mozambique all reducing their anticipated sugar exports to the EU, in order to benefit from higher prices on regional markets. It also saw Ethiopia, Tanzania and Kenya phase out their triangular trade in sugar. Significantly, those supply chains with the strongest corporate linkages to EU sugar sector companies maintained higher levels of exports to the EU than other suppliers with looser corporate linkages to the EU market.</p><p>With planned production expansion in the region and the likely decline in world market prices, supplies of sugar to the EU market from the Southern and Eastern African region will expand significantly, and are forecast to reach in excess of 1.7 million tonnes by 2015/16, compared to under 1 million tonnes in 2009/10. These exports could be even larger if South Africa secures TRQ access under a final SADC–EU EPA.</p><p>Initially the strength of the euro against the US dollar insulated the Caribbean sugar sector from the worst effects of EU price reductions. However the 2009–2011 period saw financial difficulties emerging in the region’s sugar sector (see <i>Agritrade </i>article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Sugar/Decline-in-per-tonne-sugar-earnings-in-Barbados-indicative-of-broader-challenges" target="_self">Decline in per tonne sugar earnings in Barbados indicative of broader ch...</a>’, October 2010). Volumes of sugar exported to the EU from a number of traditional suppliers fell. This was exacerbated by world market price trends and the emergence of a situation where better prices could be obtained on the US and world markets than on the EU market. As a result, the Dominican Republic, which had been expanding its exports to the EU, redirected its trade to the US market. Any resumption of significant sugar exports to the EU market is likely to require the re-emergence of a significant price premium on the EU market.</p><p>In the Pacific, meanwhile, since the announcement of EU sugar sector reforms, Fijian sugar production has collapsed to almost half the country’s levels. Total production in 2010 was below the level of the EU quota-restricted preferential access that Fiji previously enjoyed. This contributed significantly to the supply and financial difficulties faced by Tate &amp; Lyle’s sugar division in 2010.</p><p>In Central and West Africa, Benin, Sierra Leone and Togo are currently reported to be the only sugar exporters to the EU. Benin’s entire commercial production is exported to the EU, while production from Togo and Sierra Leone appears to be developed exclusively for export to the EU. The regions’ traditional exporters of sugar to the EU, Côte d’Ivoire and the Republic of Congo, have both exited the EU market in the light of the high world market prices.</p><p>With a cross-section of ACP exporters reducing supplies to the EU market since 2009, only 1.45 million tonnes of ACP sugar arrived in the EU market in 2010, compared to a safeguard ceiling of 3.5 million tonnes. However this is likely to be a temporary phenomenon, with planned production increases and an easing off in world market prices expected to restore growth to ACP sugar exports to the EU market. This carries important policy implications which the EU may wish to take into account when seeking to address the unresolved issues set out in section 2.3 above.</p><p>See the annex to this paper, 
+<a href="#Annex" target="_self">Regional developments in ACP sugar sectors</a>, for a fuller picture of regional developments in the sugar sectors across the ACP.</p><p><b>3. Implications for the ACP</b></p><p><b>3.1 The nature of future ACP engagement in EU sugar markets</b></p><p>A critical issue to be addressed is the nature of future ACP engagement in EU sugar markets. This is an issue both at the level of individual ACP countries, and collectively at the level of the ACP. How individual sugar exporters choose to engage with the evolving EU market will influence what are seen as priority issues.</p><p>ACP governments which move up the value chain to export direct consumption sugars in close association with European partners will be less concerned about the extension of TRQs for raw sugar imports, and more concerned about issues related to the functioning of ACP–EU sugar supply chains and EU quality and labelling regulations. This applies equally to ACP sugar producers that are seeking to differentiate their sugar exports on the basis of quality. This needs to be seen against the background of the disappearance of European price premiums for raw sugar in the new market context which has emerged.</p><p><b>3.2&nbsp; Ensuring stable and remunerative prices for ACP sugar exports</b></p><p>Linked to the ACP core concern over price levels in the EU, the immediate priority issues faced relate to:</p>
+<ul>
+
+<li>the scale and basis for TRQ access for non-ACP/LDC preferential suppliers under bilateral FTAs; </li>
+
+<li>the treatment of sugar in the WTO; </li>
+
+<li>and the treatment of production quotas under the 2013 CAP reforms.</li>
+
+</ul>
+<p>Recent developments in terms of releasing out-of-quota sugar for use on the EU internal market and expanding duty-free TRQ access for non ACP/LDC sugar exporters suggest that ACP aspirations to limit third-country preferential access to the EU market and to maintain production quotas are unlikely to be realised. This raises the issue of how to manage the process of change being undertaken by the EU.</p><p>In this context it should be noted that even under the duty-free, quota-free arrangements established for ACP/LDC suppliers, there is implicitly a hierarchy of preferences, in that LDC suppliers are not subject to the safeguard provisions. This approach could be extended to the management of new TRQ access, with safeguard measures to maintain the stability of the EU market first being applied to new suppliers, with ACP suppliers being subject to safeguard limitations only as a last resort.</p><p>This could expand TRQ access in times of supply shortages and high prices, and limit the TRQ access of new suppliers during periods of surplus production and declining prices. Given the increased links between EU and world market prices, this could maintain stability on the EU market at more remunerative price levels.</p><p><b>&nbsp;</b></p><p><b>3.3&nbsp; Dealing with price volatility</b></p><p>In the emerging era of higher average prices, a critical issue for ACP sugar exporters will be how to manage increased volatility in price and earnings. This relates both to volatility in sugar prices <i>per se</i> (including via financial speculation and through the increasingly close link between sugar prices and oil prices) and to volatility in net earnings arising from exchange rate fluctuations and variations in transportation and insurance costs. ACP sugar associations and companies will need to strengthen their human capacities and develop effective strategies to manage price volatility. ACP governments meanwhile will need to seek cooperation in curbing disruptive financial speculation in sugar markets and in strengthening the functioning of international sugar supply chains.</p><p><b>&nbsp;</b></p><p><b>3.4&nbsp; Strengthening the functioning of sugar supply chains</b></p><p>With the termination of price guarantees for ACP raw sugar exports from 1 October 2012 and a growing concentration of market power within corporate alliances, issues related to the functioning of supply chains and commercial contract negotiations will take on more and more significance. This applies even within the new profit-sharing arrangements that have recently emerged between ACP exporters and EU importers. For example, ensuring greater transparency in the cost deductions made under profit-sharing deals could well help ACP exporters to avoid carrying a disproportionate burden of the adjustments required when world market prices fall.</p><p>Initiatives taken by the EC in the dairy sector to promote transparency in contractual relationships, in order to avoid ‘farm-gate price stickiness’ (i.e. the slow transmission of price increases through the supply chain to farmers) on rising markets, could usefully be extended to the sugar sector, building on existing price-transparency initiatives in the sugar sector.</p><p>However from an agricultural perspective there are also important internal ACP dimensions to the functioning of the sugar cane supply chain. This relates to the distribution of revenues from an expanding range of sugar cane-based products. In some ACP countries (e.g. Mauritius), sugar cane farmers gain a share of revenues from non-sugar revenue streams (e.g. ethanol or electricity sales). In other ACP countries sugar cane farmers only share in the revenues from sales of sugar and molasses. If the agricultural base of sugar production is not to be undermined in an era of heightened price volatility, current arrangements in some ACP countries for the pooling and distribution of revenues may need to be reviewed.</p><p><b>&nbsp;</b></p><p><b>3.5&nbsp; Financing for sugar sector repositioning</b></p><p>Across a number of ACP sugar producing countries, producers are facing problems in securing financing for necessary processes of restructuring of production and diversification of revenue streams and markets. This raises the issue of the use of EU sugar protocol accompanying measures funding and related EU loan-financing packages. The experience to date in ACP countries of the sugar protocol accompanying measures funding has been extremely varied. There would appear to be a need to review the mechanisms and conditions under which the funding has been most effectively deployed in supporting the repositioning of ACP sugar sectors. Particular attention should be paid to the role of public funding in pump-priming and multiplying private sector investments in the repositioning of ACP sugar industries.</p><p><b>&nbsp;</b></p><p><b>3.6&nbsp; Evolving regional and global markets</b></p><p>Since March 2009, a number of ACP sugar exporters have seen greater commercial advantage in supplying regional markets. Indeed the reality is that shifting patterns of global sugar consumption will mean that in the coming 20 years EU markets will become less significant within the overall global sugar trade (despite the recent emergence of the EU as a major sugar importer). ACP suppliers may therefore need to explore alternative markets for a range of sugar products in areas of the globe where sugar consumption growth is projected to be highest.</p><p>Fiji, for example, in the longer term, may find a more secure future for its sugar industry in serving Australasian markets for value-added sugar products that exploit key features of the Fijian production system (smallholder-based, natural production etc). Elsewhere this may include the development of regional markets, although issues relating to harmonisation of freight and standards may first need to be effectively addressed if such trade is to take off on a sustainable basis. Equally, in an era of increased price volatility regional policy tools may need to be developed to deal with the consequences of price volatility.</p><a name="eztoc495746_2_1" id="eztoc495746_2_1"></a><h3>ANNEX</h3><p><b>Regional developments in ACP sugar sectors</b></p><p><b>A1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Introduction</b></p><p>While high world market prices have to an extent reduced the financial impact of reductions in the EU guaranteed price for ACP sugar exports, EU prices for sugar imports by November 2010 were nevertheless still 23% below those prevailing in November 2007 in US dollar terms (the relevant comparison when looking at EU and world market prices). However, as duty-free quota-free (DFQF) access has been introduced alongside the price reductions, not all ACP suppliers have been equally affected by the reform process. Impacts vary not only from region to region, but also between countries within regions.</p><p>Despite this, some broad conclusions can be drawn. A cross-section of ACP sugar exporters has since 2009 sought to reduce sugar exports to the EU in order to take advantage of higher priced regional and world markets. This has resulted in low levels of supply of ACP sugar to the EU market in the past season (1.45 million tonnes, compared to a safeguard ceiling of 3.5 million tonnes). However this is likely to be a temporary phenomenon, as planned production increases and an easing off in world market prices are expected to restore growth to ACP sugar exports to the EU market. This carries important policy implications when seeking to address the treatment of sugar under bilateral free-trade area (FTA) agreements, the WTO Doha Round and the 2013 round of CAP reforms.</p><p><b>A2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in the Southern and Eastern African region</b></p><p>Since the introduction of DFQF access under the Everything But Arms initiative in 2001, least developed countries (LDCs) in Southern and Eastern Africa have seen a boom in investment in sugar production (see <i>Agritrade</i> special report ‘
+<a href="/en/layout/set/print/../../../../Resources/Agritrade-documents/Special-reports/Regional-perspectives-on-changing-EU-ACP-sugar-sector-relations-The-impact-of-duty-free-quota-free-access-on-ACP-exporters" target="_self">Regional perspectives on changing EU-ACP sugar sector relations: The imp...</a>’, May 2010). Following the granting of similar DFQF access for sugar under Interim Economic Partnership Agreement (IEPA) arrangements, this extended to non-LDC countries, notably Swaziland and Zimbabwe.</p><p>This investment boom was largely led by South African-based sugar companies (Illovo and Tongaat Hulett), but also included investment from European and Mauritian sugar companies. These national distinctions however are being blurred by changing patterns of corporate investment (see <i>Agritrade</i> special report ‘
+<a href="/en/layout/set/print/../../../../Resources/Agritrade-documents/Special-reports/Corporate-restructuring-in-the-EU-sugar-sector-Implications-for-the-ACP" target="_self">Corporate restructuring in the EU sugar sector: Implications for the ACP</a>’, May 2010). Further north in Sudan and Ethiopia, state-led investment in sugar sector development dominates, while in Uganda local companies are rapidly expanding production. This trend continued and was consolidated in 2010–11.</p><p>Tongaat Hulett’s investments in Zimbabwe aim to double production to 600,000 tonnes, reaching between 330,000 and 350,000 tonnes in 2010/11 (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Sugar/Regional-sugar-trade-and-production-in-Eastern-and-Southern-Africa-growing" target="_self">Regional sugar trade and production in Eastern and Southern Africa growing</a>’, July 2011). Illovo investments in Zambia saw production up 62% in 2010 to 315,000 tonnes, with a target of 440,000 tonnes by March 2011. This is seen as a staging post towards up to 1 million tonnes of sugar production (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Sugar/Investments-under-way-to-expand-ESA-sugar-production" target="_self">Investments under way to expand ESA sugar production</a>’, May 2011). While production in Malawi fell 3% to 295,000 tonnes in the face of poor weather conditions, plans are in place to boost production to 500,000 tonnes by 2015. Illovo’s refining capacity in Swaziland is also being expanded, while investments in Mozambique from a number of sources have seen production expanded to reach 425,000 tonnes in the 2010/11 season, with a target of 500,000 tonnes for 2012.</p><p>Further north in Tanzania production has expanded by 27% to 318,000 tonnes, although Tanzania remained a net sugar importer (even after terminating exports to the EU from 2007). Neighbouring Uganda, meanwhile, is looking for an 11% expansion of production in 2011 to reach 335,000 tonnes. With the Kenyan sugar industry still grappling with problems of privatisation, production has averaged just over 500,000 tonnes per annum since 2005, some 200,000 tonnes short of national consumption. In the face of high global sugar prices, this has given rise to calls in the East African Community (EAC) for the implementation of a strategy to attain self-sufficiency in sugar and halt the drain on foreign exchange which sugar imports represent.</p><p>Beyond the EAC, new joint venture investments in Sudanese sugar production with Egyptian companies were announced in 2010, marking further progress towards the Sudanese government’s objective of becoming ‘the new Brazil’ (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Sugar/ESA-Investments-under-way-to-prepare-for-regional-free-trade-in-sugar" target="_self">Investments under way to prepare region for free trade in sugar</a>’, March 2011). Similar state-led investments in sugar production were announced in Ethiopia on the basis of import credit loans from India.</p><p>Meanwhile, Mauritius, the region’s largest exporter of sugar to the EU, continued to invest in the restructuring of its engagement with the EU market by moving up the value chain, through the new commercial partnership established with Suedzucker for the marketing of 400,000 tonnes of direct consumption sugars (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Sugar/Developments-in-Italy-create-new-opportunities-for-ACP-sugar-exporters" target="_self">Developments in Italy create new opportunities for ACP sugar exporters</a>’, May 2011). This restructuring needs to be seen against a background of declining sugar production in Mauritius, with major diversification of revenue streams from sugar cane production (see <i>Agritrade</i> interview with Jocelyn Kwok, Secretary-General of the Mauritius Chamber of Agriculture: ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Sugar/Production-and-trade-adjustment-in-the-ACP-The-experience-of-the-sugar-sector-in-Mauritius" target="_self">Production and trade adjustment in the ACP: The experience of the sugar...</a>’). It also needs to be seen in the context of plans to import raw sugar for local refining to serve the national market (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Sugar/Mauritius-completes-move-to-refined-sugar-exports-other-countries-face-variable-prospects" target="_self">Mauritius completes move to refined sugar exports, other countries face...</a>’, July 2011).</p><p>With high world market prices, sugar producers in Southern and Eastern Africa have increasingly looked to supplying regional markets, which offer better net returns than exporting to the EU market. Ethiopia, Tanzania and Kenya have halted triangular trade arrangements, while Malawi, Swaziland, Zimbabwe, Zambia and Mozambique have all reduced anticipated sugar exports to the EU in order to benefit from higher priced regional markets, which can be served at lower cif charges. The growing importance of regional markets in a context of high world market sugar prices cannot be underestimated, although it needs to be borne in mind that as a whole the Southern and Eastern African region is a net sugar exporter. This raises questions about the regional supply and demand balance, should world market prices fall back to a lower level (e.g. around 20 US cents/lb).</p><p>These developments in patterns of trade of Southern and Eastern African sugar producers were a significant contributing factor to the under supply situation which prevailed on the EU market in 2010/11. Significantly, those supply chains with the strongest corporate linkages to EU sugar sector companies maintained higher levels of exports to the EU than other suppliers with looser corporate linkages to the EU market.</p><p>In view of the planned production expansion in the region and the likely decline in world market prices, it is anticipated that supplies of sugar to the EU market from the Southern and Eastern African region will expand significantly, reaching in excess of 1.7 million tonnes by 2015/16, compared to less than 1 million tonnes in 2009/10. However this will critically be determined by the relative level of EU and world market sugar prices, and the treatment to be accorded to South African sugar exports under the SADC–EU EPA negotiations, which are yet to be concluded. South African negotiators are seeking a tariff-rate quota (TRQ) for sugar exports as a transition to DFQF access (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Sugar/South-Africa-seeks-duty-free-access-to-EU-sugar-market" target="_self">South Africa seeks duty-free access to EU sugar market</a>’, October 2010). While this is still an area of intense negotiation, the recent granting of sugar TRQs to Latin American exporters under FTA agreements has potentially increased the chances of some level of TRQ access for South Africa.</p><p><b>A3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in the West and Central Africa region</b></p><p>In Central and West Africa, Benin, Sierra Leone and Togo are currently reported to be the only sugar exporters to the EU. Benin’s entire commercial sugar production is exported to the EU, while the production of both Togo and Sierra Leone production appears to be developed exclusively for export to the EU. The region’s traditional exporters of sugar to the EU, Côte d’Ivoire and the Republic of Congo, have both exited the EU market in the light of the high world market prices. Illovo is currently investing in Malian sugar production, largely for national and regional markets, with an expansion of production expected in 2011. The Cameroon sugar sector, where French sugar companies have an interest, had been facing difficulties in finding regional markets in the light of their high production costs. The surge in world market sugar prices will however have eased these difficulties, with production between 2007 and 2010 steadily rising by a cumulative total of 35%. Overall, sugar production in West and Central Africa is largely for local and regional markets, as the region is a large net sugar importer.</p><p><b>A4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in the Caribbean region</b></p><p>While initially the Caribbean sugar sector was insulated by the strength of the euro against the US dollar from the worst effects of EU price reductions, the 2009–2011 period saw financial difficulties emerging in the sugar sector (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Sugar/Decline-in-per-tonne-sugar-earnings-in-Barbados-indicative-of-broader-challenges" target="_self">Decline in per tonne earnings in Barbados indicative of broader challenges</a>’, October 2010).</p><p>In Jamaica, financing difficulties saw the country’ sugar industry enter into pre-financing arrangements with European importers (the Eridania–Tate and Lyle alliance). Seasonal financing was provided against future sugar production, based on a minimum guaranteed price and a profit sharing agreement linked to the sale price of the refined sugar products manufactured. Initially these arrangements were seen as a prelude to the possible purchase of government-run estates by Eridania. However by December 2009 it had become clear that this was not an option.</p><p>With production having fallen 40% between 2000 and 2010 (reaching levels below the quota-restricted access enjoyed before 2008) and exports to the EU set to fall to 74,000 tonnes, the search continued for new investment partners who would help restructure the sugar cane industry by investing in the opening up of new revenue streams. In July 2010 an agreement was reached on the sale of the remaining three government-controlled estates to the Chinese company Complant International (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Sugar/EC-releases-aid-fund-following-sugar-privatisation" target="_self">EC releases aid funding following sugar privatisation</a>’, October 2010). It is unclear what impact this deal with have on future patterns of Jamaican sugar exports. In May 2011 Tate &amp; Lyle sugar was seeking a 5-year contract to purchase up to 200,000 tonnes of Jamaican sugar. The newly privatised companies however were keen to handle their own marketing arrangements (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Sugar/Tate-Lyle-seeking-long-term-sugar-supply-arrangement" target="_self">Tate &amp; Lyle seeking long-term sugar supply arrangement</a>’, July 2011).</p><p>Barbados is currently facing serious problems of financial viability in its sugar sector. A report by the Inter-American Development Bank in February 2011 noted a rising gap between production costs and export prices, resulting in ‘an increasing financial burden’. While the country’s policy orientation is towards the development of production of specialist sugars and the opening up of a diversified range of revenue streams, it is far from clear where the required financing will come from to implement these ambitious plans. In the 2009/10 season, Barbadian sugar exports to the EU were less than half the previous quota-restricted access. In mid 2011, drought and cane fires look likely to reduce production still further to only 25,000 tonnes.</p><p>Belize, one of the region’s more competitive sugar producers, has suffered from poor crops in the last two seasons, producing less than 90,000 tonnes (compared to over 100,000 tonnes previously). A lack of financing for investment is seen as leaving little room for error. A promising start to the 2011 season was undermined by the breakdown of turbines, requiring a closure of the processing plant for nearly a month, and these difficulties are leading Belize Sugar Industries to explore the scope for bringing in joint venture partners as a means of raising capital to take the sugar cane industry to a new level (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Sugar/Caribbean-sugar-industries-face-difficulties" target="_self">Caribbean sugar industries face difficulties</a>’, May 2011).</p><p>On the marketing side, the Belize sugar sector has yet to benefit from Tate &amp; Lyle’s conversion to fair-trade procurement for all its direct consumption sugars. Equally it is unclear how the takeover of Tate &amp; Lyles’ sugar division by American Sugar Refiners and the opening up of TRQ access for Latin American sugar suppliers will impact on these arrangements. (See <i>Agritrade</i> articles ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Sugar/Tate-and-Lyle-sugar-division-sold-to-US-company" target="_self">Tate &amp; Lyle sugar division sold to US company</a>’, August 2010; ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/EU-FTAs/EU-Mercosur-negotiations-relaunched-Central-America-negotiations-concluded" target="_self">EU-Mercosur negotiations relaunched, Central America negotiations concluded</a>’, June 2010; and ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/EU-FTAs/Latin-American-deals-concluded-Asian-negotiations-launched" target="_self">Latin American deals concluded, Asian negotiations launched</a>’ April 2010.)</p><p>Guyana for its part continues with its ambitious investment plans, but has yet to reap the benefits, with production having fallen in 2008 and 2009 due to strikes, weather-related disruptions and problems with the new Skeldon mill. This leaves sugar production short of the ambitious target of 300,000 tonnes, at an estimated 264,000 tonnes. Meanwhile, Guyana’s sugar exports to the EU fell to under 150,000 tonnes in 2009/10, compared to over 200,000 tonnes in preceding seasons. This reflects in part the growing commercial attractiveness of regional sugar markets in the context of high world market prices. Nevertheless it is anticipated that once current problems have been addressed, production of 300,000 tonnes and beyond can be achieved.</p><p>The bright spot on the Caribbean sugar horizon is the Dominican Republic, whose sugar industry is seen as being well placed to capitalise on rising global sugar prices (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Sugar/Favourable-global-sugar-prices-in-prospect" target="_self">Favourable global sugar prices in prospect</a>’, February 2011). While production is still some 20% below the levels attained in the early 1990s, a steady expansion of production has been under way since 2005 (+14%). With DFQF access to the EU market and the new owners of Tate &amp; Lyle sugar division having production interests in the Dominican Republic, new commercial opportunities in the EU could open up. However, in the short term the US sugar market looks more commercially attractive: no sugar exports to the EU from the Dominican Republic took place in 2009/10, and only small tonnages (50,000 tonnes) are projected for the coming years. The resumption of significant exports to the EU would thus appear to be contingent upon the re-emergence of a significant price premium on the EU market.</p><p><b>Table A1: Traditional sugar quota and current exports levels (in tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="104" valign="top">  <b>&nbsp;</b>
+  </td><td width="92" valign="top">  <b>Sugar protocol quota</b>
+  </td><td width="92" valign="top">  <b>Traditional SPS access</b>
+  </td><td width="92" valign="top">  <b>2009/10 exports (estimate)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  <b>Caribbean</b>
+  </td><td width="92" valign="top">  &nbsp;
+  </td><td width="92" valign="top">  &nbsp;
+  </td><td width="92" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Barbados
+  </td><td width="92" valign="top">  54,687.4
+  </td><td width="92" valign="top">  2,841.2
+  </td><td width="92" valign="top">  28,000
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Belize
+  </td><td width="92" valign="top">  43,857.4
+  </td><td width="92" valign="top">  4,985.2
+  </td><td width="92" valign="top">  66,000
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Guyana
+  </td><td width="92" valign="top">  173,271.8
+  </td><td width="92" valign="top">  19,181.8
+  </td><td width="92" valign="top">  147,000
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Jamaica
+  </td><td width="92" valign="top">  129,017.4
+  </td><td width="92" valign="top">  15,931.7
+  </td><td width="92" valign="top">  77,000
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  St Kitts &amp; Nevis
+  </td><td width="92" valign="top">  16,946.6
+  </td><td width="92" valign="top">  1,831.3
+  </td><td width="92" valign="top">  0
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Trinidad &amp; Tobago
+  </td><td width="92" valign="top">  47,555.4
+  </td><td width="92" valign="top">  5,592.2
+  </td><td width="92" valign="top">  0
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Dominican Republic
+  </td><td width="92" valign="top">  -
+  </td><td width="92" valign="top">  -
+  </td><td width="92" valign="top">  0
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  <b>Pacific</b>
+  </td><td width="92" valign="top">  &nbsp;
+  </td><td width="92" valign="top">  &nbsp;
+  </td><td width="92" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Fiji
+  </td><td width="92" valign="top">  165,348.3
+  </td><td width="92" valign="top">  19,181.8
+  </td><td width="92" valign="top">  100,000
+  </td>
+</tr>
+
+</table>
+<p>Source: compiled by author from various sources</p><p><b>A5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in the Pacific region</b></p><p>Since the announcement of EU sugar sector reforms, Fiji’s sugar production has collapsed to almost half its earlier levels, with total production in 2010 below the level of preferential access Fiji earlier enjoyed. In 2010 production was disrupted by mill breakdowns, which reflected shortcomings in earlier mill upgrade programmes (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Sugar/Future-of-Fijian-sugar-sector-in-changing-global-context" target="_self">Future of Fijian sugar sector in changing global context</a>’, January 2011). In the face of acute financial difficulties and high turnover of management staff, it is unclear whether the Fijian Sugar Corporation (FSC) will be in a position to push ahead with its ambitious investment programme. This includes investment in moving up the value chain and a substantial diversification of export markets. Market diversification can be seen as vital, in view of the shifting patterns of global sugar consumption and favourable world market sugar price projections. Ironically, given these aspirations, in 2010 Fiji first placed restrictions on exports of sugar to Pacific regional markets and in 2011 began importing sugar to meet domestic market needs.</p><p>Fiji’s sugar exports to the EU have fallen dramatically, contributing significantly to the financial difficulties of Tate &amp; Lyle’s sugar division. Indeed, FSC’s difficulties in meeting contractual obligations may leave the new owners of Tate &amp; Lyle’s sugar division with little alternative but to seek out new sources of raw sugar supply in order to maintain throughput at their refineries and stem the financial haemorrhage. This would then give added urgency to Fijian efforts to identify and exploit new markets, where lower transportation costs are faced and net profits are better.</p><a name="eztoc495746_2_2" id="eztoc495746_2_2"></a><h3>Main sources</h3><p><b>EU sugar sector</b></p><p>1. European Court of Auditors, ‘Has the reform of the sugar market achieved its main objectives?’, <i>Special Report</i> No. 6, 2010</p><p>
+<a href="http://eca.europa.eu/portal/pls/portal/docs/1/5996726.PDF" target="_self">http://eca.europa.eu/portal/pls/portal/docs/1/5996726.PDF</a></p><p>2. European Commission, ‘Commission tables measures to ensure market balance in the sugar sector’, press release outlining the measures to be set in place for the marketing year 2011/12 in the sugar sector, IP/11/364, 25 March 2011</p><p>
+<a href="http://europa.eu/rapid/pressReleasesAction.do?reference=IP/11/364&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en" target="_self">http://europa.eu/rapid/pressReleasesAction.do?reference=IP/11/364&amp;fo...</a></p><p>3. EC, ‘Commission tables measure to ensure fluidity of the EU sugar market’, 27 May 2011</p><p>
+<a href="http://ec.europa.eu/agriculture/newsroom/39_en.htm" target="_self">http://ec.europa.eu/agriculture/newsroom/39_en.htm</a></p><p>4. US Department of Agriculture Foreign Agricultural Service, ‘EU-27 sugar annual 2011’, GAIN Report No. E60021, 8 April 2011</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Sugar%20Annual_Brussels%20USEU_EU-27_4-8-2011.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Sugar%20Annual_Bru...</a></p><p>5. USDA FAS, ‘Italian sugar 2011’, GAIN Report No. IT1108, 4 April 2011</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Italian%20Sugar%202011_Rome_Italy_4-4-2011.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Italian%20Sugar%20...</a></p><p><b>Global sugar market</b></p><p>6. <i>Commodities Now</i>, ‘How the world will meet an extra 50% sugar demand’, 31 October 2010</p><p>
+<a href="http://www.commodities-now.com/news/agriculture-and-softs/3970-how-the-world-will-meet-an-extra-50-sugar-demand.html" target="_self">http://www.commodities-now.com/news/agriculture-and-softs/3970-how-the-w...</a></p><p>7. USDA FAS, ‘Sugar: World production, supply and distribution’, November 2010</p><p>
+<a href="http://www.fas.usda.gov/htp/sugar/2010/sugarNov2010.pdf" target="_self">http://www.fas.usda.gov/htp/sugar/2010/sugarNov2010.pdf</a></p><p>8. EC, ‘Agricultural commodity markets: Outlook 2010-2019’, comparative analysis of projections published by OECD, FAO, FAPRI and USDA, July 2010</p><p>
+<a href="http://ec.europa.eu/agriculture/analysis/tradepol/worldmarkets/outlook/2010_2019_en.pdf" target="_self">http://ec.europa.eu/agriculture/analysis/tradepol/worldmarkets/outlook/2...</a></p><p><b>Eastern and Southern Africa</b></p><p>9. USDA FAS, ‘Kenya: Sugar annual report’, GAIN report, 14 April 2011</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Sugar%20Annual_Nairobi_Kenya_4-14-2011.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Sugar%20Annual_Nai...</a></p><p>10. USDA FAS, ‘Zimbabwe: Sugar annual report’, GAIN report, 11 April 2011</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Sugar%20Annual_Pretoria_Zimbabwe_4-11-2011.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Sugar%20Annual_Pre...</a></p><p><b>Southern Africa</b></p><p>11. Trade Law Centre for Southern Africa/Konrad-Adenauer-Stiftung, ‘Sugar in South Africa and Swaziland’, in <i>Monitoring regional integration in Southern Africa: Yearbook 2009</i>, Vol. 9, Chapter 9, pp. 184–205, 2010</p><p>
+<a href="http://www.givengain.com/cause_data/images/1694/FINAL_MRI_2009_20100701.pdf" target="_self">http://www.givengain.com/cause_data/images/1694/FINAL_MRI_2009_20100701.pdf</a></p><p><b>Pacific </b></p><p>12. WTO, ‘Trade Policy Review: Fiji’, 25 and 27 March 2009</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp313_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp313_e.htm</a></p><p><b>Useful sources</b></p>
+<ul>
+
+<li><i>Indexmundi.com</i>,<i>&nbsp;w</i>eb page providing a review of average monthly global sugar prices over the past 6 months – 30 years </li>
+
+</ul>
+<p>
+<a href="http://www.indexmundi.com/commodities/?commodity=sugar" target="_self">http://www.indexmundi.com/commodities/?commodity=sugar</a></p>
+<ul>
+
+<li><i>Indexmundi.com</i>,<i>&nbsp;</i>web page providing a review of average monthly EU sugar import prices over the past 6 months – 30 years</li>
+
+</ul>
+<p>
+<a href="http://www.indexmundi.com/commodities/?commodity=sugar-european-import-price" target="_self">http://www.indexmundi.com/commodities/?commodity=sugar-european-import-p...</a></p>
+<ul>
+
+<li><i>Indexmundi.com</i>,<i>&nbsp;</i>web page providing a monthly review of average monthly US sugar import prices over the past 6 months – 30 years </li>
+
+</ul>
+<p>
+<a href="http://www.indexmundi.com/commodities/?commodity=sugar-us-import-price" target="_self">http://www.indexmundi.com/commodities/?commodity=sugar-us-import-price</a></p>
+<ul>
+
+<li><i>Sucrose.com</i>,<i>&nbsp;</i>‘Sugar Technology On-line News’, <i>w</i>ebsite providing a monthly update of sugar sector developments</li>
+
+</ul>
+<p>
+<a href="http://www.sucrose.com/news.html" target="_self">http://www.sucrose.com/news.html</a></p>
+<ul>
+
+<li><i>Sugartech.co.za</i>, ‘Sugar Industry News’, website giving daily update of sugar sector developments and news from round the world</li>
+
+</ul>
+<p>
+<a href="http://www.sugartech.co.za/news/index.php" target="_self">http://www.sugartech.co.za/news/index.php</a></p><p><b>&nbsp;</b></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Executive-Brief-Update-2013-Sugar-sector">Executive Brief Update 2013: Sugar sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Other/Executive-Brief-Update-2012-Caribbean-Agricultural-trade-policy-debates-and-developments">Executive Brief Update 2012: Caribbean: Agricultural trade policy debates and developments</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Executive-Brief-Update-2012-Product-differentiation">Executive Brief Update 2012: Product differentiation</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Executive-Brief-Update-2012-Sugar-sector">Executive Brief Update 2012: Sugar sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Executive-Brief-Update-2011-Sugar-sector">Executive Brief Update 2011: Sugar sector</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":156,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

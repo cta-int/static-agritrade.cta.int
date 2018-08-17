@@ -1,0 +1,242 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>EU farmers and biofuel industry mobilise against the EC biofuel U-turn / Biofuels / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																								
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																														
+																																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7803/(search)/simple">Oil crops</a>
+							
+																																																																																																																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																																																												
+																																																																																																																																																																																																																,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7820/(search)/simple">Biofuels</a>
+							
+																																																																																																											
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>EU farmers and biofuel industry mobilise against the EC biofuel U-turn</h1>
+
+			
+			<h4>
+												16 December 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>In a letter to the European Commission in early October 2012, Copa-Cogeca, the EU farmers’ and agricultural cooperatives’ organisation, affirmed its opposition to EC proposals to limit to 5% ‘the use of crop-based biofuels’ in meeting transportation energy needs and to introduce indirect land use change (ILUC) criteria within EU biofuel utilisation targets. Copa-Cogeca argues that ‘thanks to biofuel production, the EU rapeseed area has increased since 2000 from around 2 million to more than 6 million hectares in EU 27.’ The organisation described the EC proposals as ‘totally irresponsible’, since it would potentially reverse this expansion of rapeseed production, undermine the profitability of the EU sugar sector and put at risk food supplies for animals, by reducing the level of ‘protein-rich by-products’ arising from expanded biofuel production.</p><p>Copa-Cogeca’s Secretary General, Pekka Pesonen, argued that biofuels ‘can be produced in the EU in a sustainable way, without being responsible for land-use changes in non-EU countries.’ Indeed, it was argued that EU production of biofuels can also relieve ‘land pressures in non-EU countries to produce soy bean’ and hence can help to ‘combat deforestation of tropical rainforests’.</p><p>In Ireland, the issue has been taken up at the political level, where it is seen as undermining not only the developing biomass industry but also efforts to re-establish an Irish sugar beet farming sector.</p><p>The issue of the important contribution of biofuel by-products to livestock feed supplies had earlier been highlighted in an FAO publication entitled ‘Biofuel co-products as livestock feed: Opportunities and challenges’.</p><p>Meanwhile, a further Copa-Cogeca press release notes that the EU biofuel industry has joined them in condemning the prospective policy U-turn, arguing that ‘a fundamental change in European biofuels policy will cause a dramatic loss of trust in EU decision-making and seriously undermine future investments in the EU biofuel sector and bioeconomy in general.’</p><p>Despite farmer and biofuel industry protests, the EC on 17 October 2012 formally tabled amendments to the Renewable Energy and Fuel Quality Directives, proposing to:</p>
+<ul>
+
+<li>‘increase the minimum greenhouse gas saving threshold for new installations to 60%’;</li>
+
+<li>‘include ILUC factors in the reporting by fuel suppliers and member states of greenhouse gas savings’;</li>
+
+<li>‘limit the amount of food crop-based biofuels and bioliquids that can be counted towards the EU’s 10% target for renewable energy in the transport sector by 2020, to the current consumption level, 5% up to 2020’;</li>
+
+<li>‘provide market incentives for … in particular the 2nd and 3rd generation biofuels produced from feedstock[s] that do not create an additional demand for land’.</li>
+
+</ul>
+<p>The aim of the EC proposal is to stimulate the development of alternative second and third generation biofuels that use non-food feedstocks, thereby reducing the impact on global food supplies, and that ‘emit substantially less greenhouse gases’. According to the Commission press release, ‘only biofuels which satisfy a set of sustainability criteria [would] qualify for public support on the European market.’</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>Copa-Cogeca, ‘Copa-Cogeca warns against new EU Commission biofuels plans’, 10 October 2012</p><p>
+<a href="http://www.copa-cogeca.be/Main.aspx?page=Archive" target="_self">http://www.copa-cogeca.be/Main.aspx?page=Archive</a></p><p><i>4-traders.com</i>, ‘EU bio-fuels U-turn a blow to sugar and bio-mass industries – Moynihan’, 1 October 2012</p><p>
+<a href="http://www.4-traders.com/news/Fianna-F%E1il-EU-Bio-fuels-U-turn-a-blow-to-sugar-and-bio-mass-industries-%96-Moynihan--15246365/" target="_self">http://www.4-traders.com/news/Fianna-F%E1il-EU-Bio-fuels-U-turn-a-blow-t...</a></p><p>FAO, ‘Biofuel co-products as livestock feed: Opportunities and challenges’, 2012</p><p>
+<a href="http://www.fao.org/docrep/016/i3009e/i3009e.pdf" target="_self">http://www.fao.org/docrep/016/i3009e/i3009e.pdf</a></p><p>Copa-Cogeca, ‘Copa-Cogeca together with key biofuel representatives step up pressure against new EU Commission biofuels plans’, 12 October 2012</p><p>
+<a href="http://www.copa-cogeca.be/Main.aspx?page=Archive" target="_self">http://www.copa-cogeca.be/Main.aspx?page=Archive</a></p><p>Copa-Cogeca, ‘Copa-Cogeca slams EU commission proposals to impose ILUC factors indirectly and a 5% limit on crop-based biofuels, warning threat to feed supplies and jobs in EU rural areas’, 17 October 2012</p><p>
+<a href="http://www.copa-cogeca.be/Main.aspx?page=Archive" target="_self">http://www.copa-cogeca.be/Main.aspx?page=Archive</a></p><p>EC, ‘New Commission proposal to minimise the climate impacts of biofuel production’, 17 October 2012</p><p>
+<a href="http://europa.eu/rapid/press-release_IP-12-1112_en.htm " target="_self">http://europa.eu/rapid/press-release_IP-12-1112_en.htm</a></p><p>
+<a href="http://europa.eu/rapid/press-release_IP-12-1112_fr.htm " target="_self">http://europa.eu/rapid/press-release_IP-12-1112_fr.htm</a></p><p>EC, ‘Proposal for a directive of the European Parliament and the Council amending Directive 98/70/EC relating to the quality of petrol and diesel fuels and amending Directive 2009/28/EC on the promotion of the use of energy from renewable sources’, COM(2012) 595 final, 17 October 2012</p><p>
+<a href="http://ec.europa.eu/energy/renewables/biofuels/doc/biofuels/com_2012_0595_en.pdf" target="_self">http://ec.europa.eu/energy/renewables/biofuels/doc/biofuels/com_2012_059...</a></p><p>EC, ‘Prospects for agricultural markets and incomes in the EU 2011–2020’, December 2011</p><p>
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2011/fullrep_en.pdf" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2011/fullrep_en.pdf</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>When expanded EU biofuel targets were introduced, these were seen by the EC as a means of stimulating investment in second and third generation biofuel technologies, which would use non-agricultural inputs and maximise greenhouse gas emission reductions. It was, however, feared that the policy would be hijacked by agricultural interests and become simply another mechanism for providing support to EU farmers. Clearly, EU biofuels policy has had an important impact on markets for EU oil crops and sugar, as well as providing an outlet for surplus grains.</p><p>Against this background, the most significant effects of any change in mandated EU biofuel utilisation targets are most likely to be felt in the sugar and oil crops sectors. While any EU policy change would not take full effect until after 2020, the knock-on effects would be felt much sooner, as investment in biofuel production slows down and capacity stagnates. </p><p>This could serve to compound other processes of change taking place in the sugar sector, by reducing outlets for EU out-of-quota sugar production. In December 2011, the EC projected a 120% expansion of sugar beet used in ethanol production between 2010 and 2020, rising from 18.2 million tonnes (17% of EU sugar beet production) to 40.2 million tonnes (31.4% of sugar beet production) (8). This rate of expansion could well be reduced by revision of EU biofuel targets. The market consequences of the reduced number of outlets for EU out-of-quota sugar could then be felt by ACP sugar exporters, in terms of the prices offered for ACP raw sugar by EU sugar refiners. </p><p>Similarly, in December 2011 the EC projected a 53% expansion by 2020 in the use of vegetable oil in the EU for bioenergy production (compared to 2010), with more than two-thirds of this expanded use being met from imports. A freezing of EU biofuel production targets at current levels as proposed by the EC will mean that this expansion will no longer occur. In this context, revision of EU biofuel targets could carry implications for the palm oil sector, including current plans for investment in ACP countries.&nbsp;</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/Biofuels/EU-farmers-and-biofuel-industry-mobilise-against-the-EC-biofuel-U-turn">EU farmers and biofuel industry mobilise against the EC biofuel U-turn</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Agricultural-dimensions-of-the-WTO-EU-trade-policy-review">Agricultural dimensions of the WTO EU trade policy review</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Biofuels/Biofuels-and-EU-sugar-sector-reform">Biofuels and EU sugar sector reform</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/USDA-annual-review-of-EU-biofuels-policy">USDA annual review of EU biofuels policy</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/CAP-reform/OECD-analysis-of-biofuel-policies-is-posted">OECD analysis of biofuel policies is posted</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":143,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

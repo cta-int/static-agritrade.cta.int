@@ -1,0 +1,357 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Emerging EU policy on the functioning of food supply chains: Implications for the ACP / Special reports / Agritrade documents / Resources / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																																									
+		
+		<div class='contentrealtionlist'>
+							
+																																																							
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																					,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																																																																																																																														
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7795/(search)/simple">General</a>
+							
+																																																																																																																																																																																																																																																																																																																																																													
+																																																																																																																																													,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7814/(search)/simple">EU FTAs</a>
+							
+																																																																																																																																																																																																																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7819/(search)/simple">CAP reform</a>
+							
+																																																																																																																																																																																																																																													,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7823/(search)/simple">Other</a>
+							
+																																																																			
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Emerging EU policy on the functioning of food supply chains: Implications for the ACP</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/7400/178492/file/e7afcfd6f4715336e7aaca3731df4ec6.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+												30 April 2010
+										</h4>
+
+						<h2>May 2010</h2>
+					</header>
+
+
+				<div class="intro">
+
+						<a name="eztoc178480_2" id="eztoc178480_2"></a><h2>Contents</h2><p>
+
+<a href="#11" target="_self">1 The emergence of an EU policy initiative</a><br />
+
+<a href="#11" target="_self">1.1 The emergence of new challenges</a><br />
+
+<a href="#12" target="_self">1.2 The functioning of the dairy supply chain</a><br />
+
+<a href="#2" target="_self">2 Implications for the ACP</a><br />
+<a href="#s" target="_self">Information sources </a></p>
+
+		</div>
+		
+		
+					<a name="eztoc178481_1" id="eztoc178481_1"></a><h2>
+<a name='1'></a>1 The emergence of an EU policy initiative</h2><a name="eztoc178481_1_1" id="eztoc178481_1_1"></a><h3>1.1 The emergence of new challenges</h3><p>The process of reform of the EU’s Common Agricultural Policy (CAP) has involved a movement away from a price support system, which involved the administrative determination of minimum prices, to an income support policy, which makes direct payments to farmers and allows prices to be formed by the play of market forces. This reform process has been pursued as a prelude to agricultural trade liberalisation, which is to be pursued by both bilateral and multilateral trade deals.</p><p>The dismantling of administratively determined prices that are insulated from global price trends has however thrown up problems as a result of inequalities in the distribution of commercial power along food supply chains. In the course of 2008/09, these problems were thrown into focus by increased price instability on global markets and a large degree of ‘stickiness’ in consumer prices, despite sharp declines in agricultural commodity prices. This has given rise to fears that increased ‘market’ determination of agricultural prices could undermine the production base across a range of agricultural sectors in the EU (including, of most notable concern, the dairy sector).</p><p>Against this background the EC launched a review of the functioning of food supply chains, which gave rise to a Commission communication in October 2009. The communication highlighted ‘significant tensions in contractual relations between actors of the chain stemming from their diversity and differences in bargaining power’ and a ‘lack of transparency of prices along the food chain’. As a consequence, the communication proposed the elaboration of ‘concrete actions to improve [the] functioning of the food supply chain in the EU’ and improve ‘commercial relationships between actors of the chain’ to the ultimate benefit of all concerned. Particular importance is attached to boosting ‘farmers’ bargaining power in the supply chain’. </p><p>Specifically the communication proposed to:</p>
+<ul>
+
+<li>‘promote sustainable and market-based relationships between stakeholders in the food supply chain’, by identifying ‘unfair contractual practices stemming from asymmetries in bargaining power’ and monitoring ‘potential abuses’, by working with national competition authorities to monitor the functioning of the food supply chain and by drafting ‘standard contracts with stakeholders from the different sectors’;</li>
+
+<li>‘increase transparency in the food supply chain’ by establishing a ‘European food prices monitoring tool’, improving ‘oversight of agricultural commodity derivatives markets’ in order to ‘contain volatility and speculation’, and establishing ‘price comparison services’ at national level to allow consumers to compare prices of different retailers;</li>
+
+<li>‘foster the integration of the internal market for food and the competitiveness of all sectors of the food supply chain’ by removing measures which ‘impede cross-border trade’ and ‘force’ retailers to source locally’.</li>
+
+</ul>
+<p>Alongside this communication a high-level experts’ group was established to look at the functioning of the dairy supply chain, in response to the emergence of acute economic difficulties for EU milk producers arising from the collapse of market prices.</p><a name="eztoc178481_1_2" id="eztoc178481_1_2"></a><h3>
+<a name='12'></a>1.2 The functioning of the dairy supply chain</h3><p>During 2007/08, prices on world dairy markets rose to unprecedented levels following rapidly expanding global demand for value-added dairy products. Indeed prices were so high that for certain dairy products the EU was able to set export refunds at zero. This provided a major boom for EU dairy exporters and sustained high domestic dairy prices. However, with the onset of the financial crisis and associated global economic downturn, global demand collapsed. With EU dairy prices having followed the high global prices, this saw EU milk prices fall from 30-40 euro cents per litre to ‘around the EU safety-net level of 21 cents per litre’, a price level which, while covering variable costs, did not cover the full costs for many less efficient dairy producers. </p><p>Against this backdrop, concern emerged that ‘if prices stay at this historical low, we are heading for disaster’, since large numbers in the EU dairy farming sector might go out of business simply because of a temporary crisis of demand arising from the global economic downturn. With farmers vocally protesting, the EC sought to activate all existing policy measures to alleviate the situation in the dairy sector. This saw:</p>
+<ul>
+
+<li>the reintroduction of export refunds for dairy products and the expansion of dairy promotion programmes, internally and internationally;</li>
+
+<li>an expansion of aid to private storage, and a raising of the ceiling on intervention buying;</li>
+
+<li>the bringing forward of the date of direct-aid payments;</li>
+
+<li>the introduction of increased national support measures, ranging from the granting of interest-free loans, through the granting of tax breaks, to an expansion of the ceiling on eligible national aid payments to farmers.</li>
+
+</ul>
+<p>At the EU level these measures cost an additional €600 million, on top of direct income-support payments ‘now worth €5 billion a year’ to EU dairy farmers.</p><p>However the measures were not felt to be sufficient given the depth of the crisis, particularly given the ‘stickiness’ in price changes at the consumer level. It was noted that whereas farmers were getting less for their dairy products than before the price surge of 2007/08, ‘prices on the supermarket shelf are still up 14%’. In view of widespread consumer concern, in 2009 the agriculture commissioner raised questions about the functioning of the dairy supply chain and argued that the EC should ‘look into the milk market and see where the money goes’.</p><p>This provided the background to the launching of the high-level expert’ group on the dairy sector in October 2009. Regular monthly meetings have since been held to review analysis of the functioning of the dairy supply chains, and to take often contradictory submissions from concerned stakeholders. Six months later, at the end of March 2010, the preliminary findings of the high-level experts’ group were tabled at the conference on the future of EU milk production. The submission on the discussions in the high-level experts’ group noted that a more market-oriented policy framework brings with it ‘price and income volatility’, which throws up the challenge of how to avoid ‘an irreversible damaging impact on the EU dairy sector’. Yet it also pointed out the underlying trend towards rapid expansion in global demand for value-added dairy products, a long-term trend that the EU dairy sector needed to prepare itself to capitalise on.</p><p>In this context it was argued that consideration needed to be given to:</p>
+<ul>
+
+<li>a more transparent and equal sharing of the added value between the market players;</li>
+
+<li>the use of market management tools to promote ‘a better and more speedy adaptation of raw milk supply to demand’;</li>
+
+<li>reviewing the contracts between players to ensure greater transparency;</li>
+
+<li>enhancing the negotiating power of milk producers;</li>
+
+<li>the introduction of exceptions to competition law for the dairy sector in the context of strengthening producer organisations, in order to allow producers to jointly agree prices for their produce;</li>
+
+<li>reviewing the nature of the safety nets required to sustain the milk production base in the EU;</li>
+
+<li>the possible use of risk management tools;</li>
+
+<li>how to increasingly support innovation and the development of the product range in the dairy sector;</li>
+
+<li>supporting measures to enhance the quality of dairy products. </li>
+
+</ul>
+<p>Following the EC Council meeting at the end of March 2010, Agriculture Commissioner Dacian Cioloş gave some indication as to what the package of measures to be submitted at the end of 2010 might encompass. It included:</p>
+<ul>
+
+<li>measures to address such issues as enhancing the ‘negotiating power of dairy producers’;</li>
+
+<li>a ‘review market mechanism to make them more efficient’;</li>
+
+<li>reviewing the ‘whole issue of the contract system between various players in the supply chain’;</li>
+
+<li>addressing the issue of the transparency of price formation. </li>
+
+</ul>
+<p>The importance of contractual issues was highlighted by the French agriculture minister, who argued that ‘contractualisation at EU level between producers of agricultural commodities and industry offers a way forward for the agricultural sector as a whole’. However this view was not universally accepted, with British and Swedish ministers looking for more market-based solutions, according to press reports. </p><p>In view of the range of opinions held, a possible EU consensus could emerge around an approach that focuses on promoting ‘sustainable market relations’ between the parties involved in the food supply chain, by: </p>
+<ul>
+
+<li>promoting increased transparency in price formation and the underlying supply and demand situation;</li>
+
+<li>supporting measures to enhance competitiveness of all the actors involved in the supply chain; </li>
+
+<li>tackling price instability via better use of market management tools. </li>
+
+</ul>
+<p>Regardless of the ultimate compromise reached within the EU Council of Ministers, what is clear is that some new policy measures are held to be needed to improve the functioning of the dairy supply chain, if the agricultural base for EU milk production is not to be undermined by periodic crisis thrown up by increased price instability on global markets.</p><a name="eztoc178481_2" id="eztoc178481_2"></a><h2>
+<a name='2'></a>2 Implications for the ACP</h2><p>Given the growing shift over to ‘market’-based price formation in ACP-EU agricultural trade relations, this new EU policy initiative would appear to have a much wider relevance in the context of the vast inequalities in power relationships along ACP-EU food and agricultural supply chains. This would appear to be particularly the case in the sugar, banana, and fruit and vegetable sectors, where accelerating processes of erosion of the margins and value of traditional ACP trade preferences are under way and where, for a variety of reasons, large inequalities in power relationships exist.</p><p>In the sugar sector, with national quota and price guarantees being abandoned and duty-free, quota-free access being granted in a context of ‘market’-based price formation, similar challenges arising from inequalities in power relationships along the ACP-EU sugar supply chain are likely to emerge. With high world market sugar prices and ongoing scrutiny by competition authorities of the restructuring of EU sugar companies, managers in the sugar sector have gone out of their way to avoid any hint of anti-competitive behaviour. However the underlying reality remains that in future a growing number of preferential sugar suppliers will be dealing with a decreasing number of EU sugar importers. In addition, these importing companies are increasingly part of corporate alliances that not only dominate the EU market, but also have significant stakes in sugar cane growing, milling and sugar trading into the EU from developing countries around the globe.</p><p>This raises important questions about the distribution of commercial power along ACP-EU sugar supply chains, and the transparency of price formation within supply chains dominated by a single alliance of related companies. This is a matter of concern, given the price volatility on world sugar markets (with a 38% price decline in the first three months of 2010), and raises important questions about the financial stability of the underlying agricultural base for sugar production in a number of ACP countries and regions. It is an issue of particular concern in countries that are seeking to expand smallholder sugar cane farming.</p><p>There are similar concerns in the banana sector. Traditionally a limited number of large companies have dominated the distribution and wholesale marketing of bananas. In addition, in the UK, which is the major market for Caribbean banana exports, the policies of large retailers have a strong influence on the functioning of the banana market. Indeed, it is argued that in the last decade the economic power of the supermarkets in the banana supply chain has increased dramatically: despite the periodic outbreak of banana price wars, supermarkets are now reportedly the only players in the banana supply chain to consistently make profits from bananas. </p><p>From an ACP perspective this situation is likely to be compounded by the impact of the recently concluded agreement, which resolved the WTO banana dispute, and the not unrelated concessions being granted to Latin American banana exporters in the context of new free-trade area agreements. This is expected to shrink the ACP’s share of EU banana markets and exert a further downward pressure on market prices. Against this background the vast inequalities in power relationships that exist along ACP-EU banana supply chains are likely to take on a new significance, if banana production for export in a range of ACP countries is to be sustained. Getting to grips with the functioning of the ACP-EU banana supply chain would appear to be complementary to the currently planned ‘banana accompanying measures’ programme. This is particularly the case as regards the important area of strengthening the bargaining position of primary producers, which is seen as an essential prerequisite for improving the functioning of supply chains, in order to sustain the underlying agricultural production base.</p><p>In the fruit and vegetable supply chain, stricter food safety requirements, sanitary and phytosanitary (SPS) standards, and the rise of private voluntary standards in particular, are increasingly contributing to the heightening of inequalities in the distribution of commercial power along the ACP-EU supply chain. While stricter private voluntary standards (PVS) ‘can create an incentive for producers to invest in modernising their production processes and output’, these standards can be very difficult to meet. In addition, along some of the ACP-EU fruit and vegetable supply chains it is reported that over the longer term, ACP exporting companies are experiencing ‘reduced profits’ due to the lack of a price premium and increased costs of maintaining certification. This has led to calls for:</p>
+<ul>
+
+<li>‘the fairer apportionment of costs along the supply chain’;</li>
+
+<li>‘improved dialogue … with EU buyers in order to ensure that their policies create and enhance opportunities to trade’; </li>
+
+<li>improved engagement between producers and those who set private voluntary standards.</li>
+
+</ul>
+<p>The latter is seen as particularly important, since in some markets failure to comply with private voluntary standards can <i>de facto</i> amount to exclusion from the more commercially interesting components of the EU market. </p><p>These issues of concern to ACP exporters would appear to echo some of the concerns underlying the EC’s emerging policy on the functioning of the supply chain. This is most notably the case with regard to the current discussions of the dairy sector. Issues related to the transparency of contractual relationships between different parties in the supply chains, and the need to enhance the negotiating power of primary producers in order to promote a more transparent and equal sharing of the added value between the market players, would appear to be of particular relevance to the ACP-EU supply chains for bananas, sugar, and fruit and vegetables. In this context, closer ACP-EU collaboration in examining the functioning of ACP-EU banana, sugar, and fruit and vegetable supply chains would appear to be appropriate.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><b>
+<a name='s'></a>European Commission</b></p><p>
+1. EC, speech by Agriculture Commissioner Cioloş, 26 March 2010 (French)<br />
+<a href="http://ec.europa.eu/agriculture/events/milk-conference-2010/ciolos_discours_fr.pdf" target="_self">http://ec.europa.eu/agriculture/events/milk-conference-2010/ciolos_disco...</a></p><p>
+2. EC, speech by vice chair of the EP Agriculture and Rural Development Committee, IP/B/AGRI/IC/2010_05, 26 March 2010 (French)<br />
+<a href="http://ec.europa.eu/agriculture/events/milk-conference-2010/niculescu_pe_fr.pdf" target="_self">http://ec.europa.eu/agriculture/events/milk-conference-2010/niculescu_pe...</a></p><p>
+3. EC, presentation by DG Agriculture, 26 March 2010 <br />
+<a href="http://ec.europa.eu/agriculture/events/milk-conference-2010/vandriel_en.pdf" target="_self">http://ec.europa.eu/agriculture/events/milk-conference-2010/vandriel_en.pdf</a></p><p>
+4. Preliminary conclusions from work of the high-level experts’ group on milk, March 2010 <br />
+<a href="http://ec.europa.eu/agriculture/events/milk-conference-2010/demarty_conclusions_en.pdf" target="_self">http://ec.europa.eu/agriculture/events/milk-conference-2010/demarty_conc...</a></p><p><b>Inputs to panel discussion on contractual relations, bargaining power, transparency:</b></p><p>
+5. BEUC, the European Consumers’ Association, March 2010 <br />
+<a href="http://ec.europa.eu/agriculture/events/milk-conference-2010/beuc_en.pdf" target="_self">http://ec.europa.eu/agriculture/events/milk-conference-2010/beuc_en.pdf</a></p><p>
+6. COPA-COGECA, March 2010<br />
+<a href="http://ec.europa.eu/agriculture/events/milk-conference-2010/copa-cogeca_en.pdf" target="_self">http://ec.europa.eu/agriculture/events/milk-conference-2010/copa-cogeca_...</a></p><p>
+7. EUCOLAIT, March 2010 <br />
+<a href="http://ec.europa.eu/agriculture/events/milk-conference-2010/eucolait_en.pdf" target="_self">http://ec.europa.eu/agriculture/events/milk-conference-2010/eucolait_en.pdf</a></p><p>
+8. EC, DG Competition, March 2010 <br />
+<a href="http://ec.europa.eu/agriculture/events/milk-conference-2010/dgcomp_en.pdf" target="_self">http://ec.europa.eu/agriculture/events/milk-conference-2010/dgcomp_en.pdf</a></p><p>
+9. European Coordination Via Campesina, March 2010 <br />
+<a href="http://ec.europa.eu/agriculture/events/milk-conference-2010/ecvc_en.pdf" target="_self">http://ec.europa.eu/agriculture/events/milk-conference-2010/ecvc_en.pdf</a></p><p>
+10. European Dairy Association, March 2010 <br />
+<a href="http://ec.europa.eu/agriculture/events/milk-conference-2010/eda_en.pdf" target="_self">http://ec.europa.eu/agriculture/events/milk-conference-2010/eda_en.pdf</a></p><p>
+11. European Milk Board, March 2010 <br />
+<a href="http://ec.europa.eu/agriculture/events/milk-conference-2010/emb_en.pdf" target="_self">http://ec.europa.eu/agriculture/events/milk-conference-2010/emb_en.pdf</a></p><p><b>Functioning of the food supply chain</b></p><p>
+<i>12. Europa Press Releases Rapid</i>,<i> </i>EC memorandum on the functioning of the food supply chain in the EU<i>,</i> MEMO/09/483, 28 October 2009: <br />
+<a href="http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/09/483&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en" target="_self">http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/09/483&amp;...</a></p><p>
+13. EC, communication on ‘A better functioning food supply chain in Europe’ (provisional version), Brussels, COM(2009) 591, 28 October 2009: <br />
+<a href="http://ec.europa.eu/economy_finance/publications/publication16061_en.pdf" target="_self">http://ec.europa.eu/economy_finance/publications/publication16061_en.pdf</a></p><p><b>Press reports</b></p><p>
+<i>14. EurActiv.com</i>, ‘Commission to propose new rules for dairy sector’, 30 Mar 2010<br />
+<a href="http://www.euractiv.com/en/cap/agriculture-council-news-392061" target="_self">http://www.euractiv.com/en/cap/agriculture-council-news-392061</a></p><p>
+15.<i> TheDairySite.com,</i> the Cattle Site News Desk, ‘What future for milk?’, 29 Mar 2010<br />
+<a href="http://www.thedairysite.com/news/30330/what-future-for-milk" target="_self">http://www.thedairysite.com/news/30330/what-future-for-milk</a></p><p>
+<i>16. EurActiv.com</i>, ‘EU farm ministers seen split on food chain rules’, 26 March 2010<br />
+<a href="http://www.euractiv.com/en/cap/eu-farm-ministers-seen-split-food-chain-rules-news-382531" target="_self">http://www.euractiv.com/en/cap/eu-farm-ministers-seen-split-food-chain-r...</a> </p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+											
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/Emerging-EU-policy-on-the-functioning-of-food-supply-chains-Implications-for-the-ACP">Emerging EU policy on the functioning of food supply chains: Implications for the ACP</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/Prospects-for-EU-agricultural-markets-2007-2014-June-2008">Prospects for EU agricultural markets 2007-2014 - June 2008</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/Prospects-for-EU25-agricultural-markets-and-income-2006-2013-September-2006">Prospects for EU25 agricultural markets and income, 2006-2013 - September 2006</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/Prospects-for-EU-agricultural-markets-June-2006">Prospects for EU agricultural markets - June 2006</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/Residual-tariff-barriers-to-ACP-countries-Agricultural-exports-to-the-EU">Residual tariff barriers to ACP countries: Agricultural exports to the EU</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":147,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

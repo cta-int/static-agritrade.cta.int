@@ -1,0 +1,229 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Policy challenges linked to slow take-up of sustainable palm oil production / Oil crops / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																
+								<a href="/en/layout/set/print/Publications/(regions)/7774/(search)/simple">Pacific</a>
+																																																										
+																																																																																																																																																																																																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7803/(search)/simple">Oil crops</a>
+							
+																																																																																																																																																																													
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Policy challenges linked to slow take-up of sustainable palm oil production</h1>
+
+			
+			<h4>
+												07 January 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>An online press report on a recent meeting in Indonesia of leaders in sustainable palm oil has highlighted the slow take-up of sustainable palm oil. Since the launch of the Roundtable on Sustainable Palm Oil (RSPO), production has increased to 5 million tonnes, some 10% of world output. However a representative of Malaysia, the second largest palm oil producer, has ‘flagged the risk of stagnation in sustainable supplies’, arguing that the RSPO brand needs to be strong enough ‘to convey the necessary assurances to the market’. The president of the RSPO for his part urged governments to ‘consider using tariffs as an instrument to facilitate trade in sustainable commodities’, with import tariffs being structured in favour of sustainably produced palm oil.</p><p>Under the RSPO scheme, suppliers undertake ‘not to clear primary forest or any land that is important for wildlife and communities’ and to adopt other sustainable practices. Currently the RSPO has developed three main types of certified sustainable palm oil (CSPO) supply chains:</p>
+<ul>
+
+<li>Segregated CSPO – where certified palm oil ‘is physically separated from non-certified palm oil all the way from the certified mill to the end user’.</li>
+
+<li>Mass balance CSPO – which ‘allows companies along the supply chain, such as traders or refiners, to mix the certified palm oil with non-certified to avoid all the costs of keeping the two entirely separate’.</li>
+
+<li>Book and claim CSPO – which is ‘a certificate trading system separate from the physical trade in palm oil. The retailer or manufacturer purchases palm oil from an established supplier, along with a certificate for each tonne of palm oil being used. A payment from each certificate goes directly to the producer of CSPO.’</li>
+
+</ul>
+<p>The Segregated CSPO system is the most expensive to implement, while the ‘Book and claim’ CSPO system is the cheapest to operate. The major drawback of the ‘Book and claim’ scheme is that it may still use palm oil ‘that comes from unacceptable sources, and may therefore still be supporting producers that are not acting responsibly’.</p><p>According to WWF, analysis of the operation of the RSPO scheme (which first delivered palm oil to the market in 2008) reveals that ‘only half’ of what was available has been bought. WWF’s latest ‘Palm Oil Buyers’ Scorecard 2011’, which reviews the commitment of individual companies to using RSPO-certified palm oil, reveals that while some progress has been made since 2009, ‘new commitments are simply not translating fast enough into increased use of certified sustainable palm oil.’ It urged companies to ‘start pushing harder to source fully traceable sustainable palm oil’. WWF is also pushing for greater transparency on corporate usage of palm oil as an input and on their sourcing policies regarding the sustainability of the palm oil they use.</p><p>New Britain Palm Oil, the main palm oil producer in Papua New Guinea, has adopted a major focus on sustainable palm oil production, and maintains that ‘the demand for fully traceable and certified sustainable palm oil, together with speciality fats and margarines, is growing’, and that food manufacturers ‘continue to bring forward their commitments to using traceable and certified sustainable palm oil products’. New Britain’s Liverpool-based sustainable palm oil refinery is operating at 80% of its current installed capacity, raising the issue of whether new investment is needed to meet the expanding demand in the UK.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Agrimoney.com</i>, ‘New Britain fights back for sustainable palm oil’, 23 November 2011</p><p>
+<a href="http://www.agrimoney.com/news/new-britain-fights-back-for-sustainable-palm-oil--3880.html" target="_self">http://www.agrimoney.com/news/new-britain-fights-back-for-sustainable-pa...</a></p><p>WWF, ‘What are the sustainable palm oil supply chains?’, 2011</p><p>
+<a href="http://wwf.panda.org/what_we_do/footprint/agriculture/palm_oil/solutions/responsible_purchasing/scorecard2011/supplychains.cfm" target="_self">http://wwf.panda.org/what_we_do/footprint/agriculture/palm_oil/solutions...</a></p><p>WWF, ‘What challenges do palm oil producers face?’, 2011</p><p>
+<a href="http://wwf.panda.org/what_we_do/footprint/agriculture/palm_oil/solutions/responsible_purchasing/scorecard2011/producers.cfm" target="_self">http://wwf.panda.org/what_we_do/footprint/agriculture/palm_oil/solutions...</a></p><p>WWF, ‘Palm oil buyers’ score card 2011’, 22 November 2011</p><p>
+<a href="http://www.wwf.org.au/news_resources/?3342/WWF-Palm-Oil-Buyers-Scorecard-2011" target="_self">http://www.wwf.org.au/news_resources/?3342/WWF-Palm-Oil-Buyers-Scorecard...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Recent discussions suggest that the development of sustainable palm oil production is reaching a critical juncture, with public policy decisions potentially playing an important role. In terms of ACP–EU trade relations, two important issues arise: the possible use of tariffs to favour imports of certified sustainable palm oil; and the development and application of quality standards that favour the use of certified sustainable palm oil for use in food products.</p><p>These quality standards could be modelled on the sustainability criteria applied under the Renewable Energy Directive, which deals with the use of oil crops in biofuel production. Policy developments in these areas could stimulate the uptake of the available sustainably certified palm oil, prompt an expansion of sustainably produced supplies and promote a shift towards systems of certification that progressively eliminate ‘unacceptable sources’ of supply.</p><p>In the Pacific, Papua New Guinea’s New Britain Palm Oil Ltd (NBPOL) is the world’s leading producer of RSPO-certified sustainable palm oil. The operations of NBPOL are fully vertically integrated. NBPOL now ships its own palm oil to its recently established new processing facility in Liverpool, and concludes contracts directly with end customers in the EU. Available reports suggest that NBPOL is able to manufacture and supply segregated, traceable and certified palm oil to its end users. Indeed it appears to be the world’s first dedicated fully integrated supplier of palm oil to the EU bakery and food service products sector. For NBPOL, any cost disadvantages associated with the production of fully segregated CSPO would appear to be counterbalanced by the scale of the company’s operations.</p><p>In this context, boosting demand for sustainably produced palm oil, particularly fully segregated CSPO, would appear to offer real benefits in the Pacific, particularly if this carried commercial advantages (e.g. reduced tariffs).</p><p>However, it should be noted that while NBPOL can effectively meet all relevant sustainability criteria on plantation-based palm oil production, if it is to expand its purchases from potentially thousands of smallholders, then it will need to strengthen its extension and advisory services to ensure that all sustainability criteria are met, regardless of the production system (estate/smallholder). This would appear to be critical if NBPOL is to remain a leader in the supply of certified sustainable palm oil.<i>&nbsp;</i></p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Women-in-Business-Adimaimalaga-Tafuna-i-honoured-with-second-global-award">Women in Business Adimaimalaga Tafuna’i honoured with second global award</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Oil-crops/First-company-performance-report-published-on-compliance-with-stricter-palm-oil-sustainability-requirements">First company performance report published on compliance with stricter palm oil sustainability requirements </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Oil-crops/Sustainable-sourcing-of-palm-oil-cheaper-than-bad-publicity-for-OECD-consumer-product-manufacturers">Sustainable sourcing of palm oil cheaper than bad publicity for OECD consumer product manufacturers</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Oil-crops/Growing-pressure-for-stricter-palm-oil-standards">Growing pressure for stricter palm oil standards </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Oil-crops/New-agreements-on-fully-segregated-sustainable-palm-oil-supplies-from-PNG">New agreements on fully segregated sustainable palm oil supplies from PNG</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":145,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

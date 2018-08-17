@@ -1,0 +1,370 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>EU rice market developments and prospects / Rice / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																								
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																														
+																																																																																																																																																																																																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7805/(search)/simple">Rice</a>
+							
+																																																																																																																																	
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>EU rice market developments and prospects</h1>
+
+			
+			<h4>
+												22 April 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>In the EC’s report, ‘Prospects for agricultural markets and income in the EU 2012–2020’, published in December 2012, EU rice consumption is projected to continue to rise, increasing steadily to 3.2 million tonnes in 2022, up from 2.6 million tonnes in 2011 (+23%). However, with yields unchanging, EU rice production is set to stabilise at around 1.7 million tonnes before rising marginally in 2019 to 1.8 million tonnes.</p><p>EU rice imports are therefore projected to increase by 50% by 2022, from 1 to 1.5 million tonnes, while exports are projected to remain at 100,000 tonnes until 2015, when they are projected to rise to 200,000 tonnes. Ending stocks of 500,000 tonnes until 2018 are then set to fall to 400,000 tonnes from 2019 onwards. The EU’s rice self-sufficiency ratio is set to fall from 79.2% in 2009 to 56.3% in 2022.</p><p>The rice sector in Italy and Spain (50 and 30% respectively of EU production) is expected to be unaffected by the ongoing process of CAP reform, given the very specific production methods used and rice varieties grown in the EU.</p><p><b>Rice: EU production, consumption, imports, exports and ending stocks (million tonnes, milled equivalent)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="54" valign="top">  &nbsp;
+  </td><td width="104" valign="top">  Production
+  </td><td width="113" valign="top">  Consumption
+  </td><td width="113" valign="top">  Imports
+  </td><td width="104" valign="top">  Exports
+  </td><td width="125" valign="top">  Ending stocks
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  2009
+  </td><td width="104" valign="top">  1.9
+  </td><td width="113" valign="top">  2.4
+  </td><td width="113" valign="top">  0.9
+  </td><td width="104" valign="top">  0.2
+  </td><td width="125" valign="top">  0.5
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  2010
+  </td><td width="104" valign="top">  1.8
+  </td><td width="113" valign="top">  2.6
+  </td><td width="113" valign="top">  1.0
+  </td><td width="104" valign="top">  0.2
+  </td><td width="125" valign="top">  0.5
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  2011
+  </td><td width="104" valign="top">  1.7
+  </td><td width="113" valign="top">  2.6
+  </td><td width="113" valign="top">  1.0
+  </td><td width="104" valign="top">  0.2
+  </td><td width="125" valign="top">  0.5
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  2012
+  </td><td width="104" valign="top">  1.7
+  </td><td width="113" valign="top">  2.6
+  </td><td width="113" valign="top">  1.1
+  </td><td width="104" valign="top">  0.1
+  </td><td width="125" valign="top">  0.5
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  2013
+  </td><td width="104" valign="top">  1.7
+  </td><td width="113" valign="top">  2.7
+  </td><td width="113" valign="top">  1.1
+  </td><td width="104" valign="top">  0.1
+  </td><td width="125" valign="top">  0.5
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  2014
+  </td><td width="104" valign="top">  1.7
+  </td><td width="113" valign="top">  2.7
+  </td><td width="113" valign="top">  1.1
+  </td><td width="104" valign="top">  0.1
+  </td><td width="125" valign="top">  0.5
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  2015
+  </td><td width="104" valign="top">  1.7
+  </td><td width="113" valign="top">  2.8
+  </td><td width="113" valign="top">  1.2
+  </td><td width="104" valign="top">  0.1
+  </td><td width="125" valign="top">  0.5
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  2016
+  </td><td width="104" valign="top">  1.7
+  </td><td width="113" valign="top">  2.8
+  </td><td width="113" valign="top">  1.2
+  </td><td width="104" valign="top">  0.1
+  </td><td width="125" valign="top">  0.5
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  2017
+  </td><td width="104" valign="top">  1.7
+  </td><td width="113" valign="top">  2.9
+  </td><td width="113" valign="top">  1.3
+  </td><td width="104" valign="top">  0.2
+  </td><td width="125" valign="top">  0.5
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  2018
+  </td><td width="104" valign="top">  1.7
+  </td><td width="113" valign="top">  2.9
+  </td><td width="113" valign="top">  1.3
+  </td><td width="104" valign="top">  0.2
+  </td><td width="125" valign="top">  0.5
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  2019
+  </td><td width="104" valign="top">  1.8
+  </td><td width="113" valign="top">  3.0
+  </td><td width="113" valign="top">  1.4
+  </td><td width="104" valign="top">  0.2
+  </td><td width="125" valign="top">  0.4
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  2020
+  </td><td width="104" valign="top">  1.8
+  </td><td width="113" valign="top">  3.1
+  </td><td width="113" valign="top">  1.4
+  </td><td width="104" valign="top">  0.2
+  </td><td width="125" valign="top">  0.4
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  2021
+  </td><td width="104" valign="top">  1.8
+  </td><td width="113" valign="top">  3.1
+  </td><td width="113" valign="top">  1.5
+  </td><td width="104" valign="top">  0.2
+  </td><td width="125" valign="top">  0.4
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  2022
+  </td><td width="104" valign="top">  1.8
+  </td><td width="113" valign="top">  3.2
+  </td><td width="113" valign="top">  1.5
+  </td><td width="104" valign="top">  0.2
+  </td><td width="125" valign="top">  0.4
+  </td>
+</tr>
+
+</table>
+<p>Source: EC ‘Prospects for agricultural markets…’, December 2012, Table 7.9, ‘Rice balance sheet in the EU, 2009-2022’</p><p>A more detailed overview of EU rice sector trends is provided by statistics updated by the EC on 25 January 2013. Within the EU, since the 2008/09 season, between 61 and 64% of EU rice production has been of the japonica variety of rice, with imports of japonica rice equivalent to only between 6 and 7.6% of domestic EU japonica rice production.</p><p>Imports of rice are primarily of the indica variety (between 91 and 93% of imported rice), with import growth concentrated on this variety. Imports of indica rice are equivalent to between 114 and 138% of domestic EU indica production.</p><p>Since 2009/10, EU production of japonica rice has exceeded domestic EU demand, giving rise to increased volumes of EU exports of japonica rice, peaking at 183,000 tonnes in 2010/11.</p><p>In 2012/13, the importance of japonica rice in total EU production is projected to grow still further to 69% of total EU rice production, with imports amounting to only 60,000 tonnes and exports amounting to 140,000 tonnes.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EC/DG Agriculture and Rural Development, ‘Prospects for agricultural markets and income in the EU 2012-2020’, full report, December 2012</p><p>
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2012/fullrep_en.pdf" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2012/fullrep_en.pdf</a>&nbsp;</p><p>&nbsp;EC, ‘EU Rice overview – 2008/09 to 2012/13’, updated 25 January 2013</p><p>
+<a href="http://ec.europa.eu/agriculture/cereals/balance-sheets/rice/overview_en.pdf " target="_self">http://ec.europa.eu/agriculture/cereals/balance-sheets/rice/overview_en.pdf</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The increase in EU rice imports opens up new market opportunities for competitive exporters of rice, but this is unlikely to benefit ACP exporters (traditionally Guyana and Suriname), who have seen import prices on the EU market for rice substantially below the pre-reform levels. From an ACP perspective, the most relevant aspect of the EU rice sector regime is the policy framework established to sustain domestic rice production during an era of rising consumer demand and rising imports.</p><p>This potentially has considerable relevance in countries such as Nigeria where efforts are under way to stimulate domestic production in the face of rising consumer demand and increased levels of imports, often smuggled across land borders from neighbouring Benin.</p><p>The EU maintains a sophisticated system of tariff-rate quotas for different rice varieties behind relatively high bound tariffs. Duties charged on husked rice and whole milled or semi-milled rice may be modified twice a year, at the beginning and halfway through the marketing year. This depends on the quantities imported during the previous half year (based on licences issued), for which reference levels for various importers are established (see <i>Agritrade</i> Special Report ‘
+<a href="/en/layout/set/print/Agriculture/Topics/CAP-reform/Special-report-The-EU-s-agricultural-policy-toolbox-A-sector-by-sector-review" target="_blank">The EU’s agricultural policy toolbox: A sector-by-sector review</a>', 13 December 2011).</p><p>This enables the EU to manage its market in ways that sustain domestic production, while allowing imports to increase in line with expanding consumer demand. When consumer demand slumps, as in 2011/12, it is imports that bear the burden of adjustment, not domestic production.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/EU-rice-market-developments-and-prospects">EU rice market developments and prospects</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Review-of-EU-rice-sector-developments-in-2011">Review of EU rice sector developments in 2011 </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Guyana-rice-exports-in-2010">Guyana rice exports in 2010</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Guyana-s-record-rice-exports-could-find-room-on-growing-EU-markets">Guyana's record rice exports could find room on growing EU markets</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Guyanese-rice-exports-to-EU-up-38-for-first-half-of-year">Guyanese rice exports to EU up 38% for first half of year</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":142,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

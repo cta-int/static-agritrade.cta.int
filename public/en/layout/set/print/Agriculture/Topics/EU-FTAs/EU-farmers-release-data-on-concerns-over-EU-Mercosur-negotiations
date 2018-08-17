@@ -1,0 +1,241 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>EU farmers release data on concerns over EU-Mercosur negotiations / EU FTAs / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																							
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																					,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																																																																																																																														
+							
+																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7814/(search)/simple">EU FTAs</a>
+							
+																																																																																																																																																																																																																																															
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>EU farmers release data on concerns over EU-Mercosur negotiations</h1>
+
+			
+			<h4>
+												03 April 2011
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The EU farmers’ organisation Copa-Cogeca has sent a report to the EC detailing its concerns over the Mercosur trade negotiations. It argues that a trade deal would increase price volatility and cause ‘a huge rise’ in pork, poultry and maize imports into the EU. The sector-based analysis undertaken by Copa-Cogeca highlights the following points:</p>
+<ul>
+
+<li>Maize production costs in Mercosur are €80/tonne compared to €120/tonne in the EU, with the liberalisation of imports as a result having a direct economic impact equivalent to a loss of €2bn and indirect costs of a further €1-€3bn, as strong competition between maize and wheat as an animal feed would occur.</li>
+
+<li>Beef imports would be more competitive than EU production, despite the high value of the Brazilian real, with expanded EU imports reducing average EU beef prices by up to 30%. Full liberalisation in the beef sector is estimated to result in direct losses of €16bn and indirect losses of €9bn, while expanded TRQ access of 300,000 tonnes would result in direct losses of only €3bn and indirect losses of €6bn.</li>
+
+<li>The poultry sector would also face increased competition, with the impact varying between products. The direct economic loss of full liberalisation is estimated at €2.8bn, while the indirect loss is estimated at €3.1bn. If a TRQ of 250,000 tonnes were offered, these losses would fall to €750m and €1.4bn respectively.</li>
+
+</ul>
+<p>On non-tariff issues, Copa-Cogeca argues that Mercosur countries fail to operate ‘an effective traceability system’, with this undermining ‘the credibility of any animal disease regionalisation policy and the certification process for beef exports to the EU’. It argues that as a consequence ‘the disease risk associated with beef imports from Mercosur countries is unacceptable and unnecessary for the European Union’. On this basis, Copa-Cogeca ‘vehemently opposes any new concessions to non-EU countries’.</p><p>Meanwhile, the European Parliament has adopted a non-binding resolution, calling for the EC to halt concessions in bilateral trade negotiations that adversely affect European farmers. Particular criticisms were levelled at the conduct of the EU-Mercosur negotiations, where it was held that insufficient attention was being paid to ensuring that imported products met the same standards as those applied to EU producers. The French agriculture minister added his voice to farmers’ concerns, arguing that any agreement should be ‘balanced’ and should under no circumstances sacrifice European farming interests.</p><p>The EC claims that farmers’ fears are ‘exaggerated’ and rejects suggestions that the EU should ban imports of products that do not fully meet EU rules. A Commission trade spokesperson argued that ‘instead of banning entirely imports from regions with different regulations, we should increase the information about those differences to the consumers’. The French agriculture minister however is arguing for ‘strict reciprocity in the rules applied on each side’.</p><p>A further round of negotiations is scheduled in Paraguay from 2-6 May.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>
+Copa-Cogeca, ‘Copa-Cogeca publishes new study revealing trade deal between EU-Mercosur would cause total collapse of EU beef sector’, 4 March 2011<br/>
+
+<a href="http://www.copa-cogeca.be/Main.aspx?page=Archive&amp;lang=en" target="_self">http://www.copa-cogeca.be/Main.aspx?page=Archive&amp;lang=en</a><br/>
+<i>TheBeefSite.com</i>, ‘MEPs vote against EU/Mercosur trade talks’, 10 March 2011<br/>
+
+<a href="http://www.thebeefsite.com/news/33846/meps-vote-against-eu-mercosur-trade-talks" target="_self">http://www.thebeefsite.com/news/33846/meps-vote-against-eu-mercosur-trad...</a><br/>
+<i>TheBeefSite.com</i>, ‘Mercosur deal would collapse EU beef sector’, 8 March 2011<br/>
+
+<a href="http://www.thebeefsite.com/news/33833/mercosur-deal-would-collapse-eu-beef-sector" target="_self">http://www.thebeefsite.com/news/33833/mercosur-deal-would-collapse-eu-be...</a><br/>
+<i>ThePoultrySite.com</i>, ‘Trade agreements must not jeopardise agriculture’, 10 March 2011<br/>
+
+<a href="http://www.thepoultrysite.com/poultrynews/22166/trade-agreements-must-not-jeopardise-agriculture" target="_self">http://www.thepoultrysite.com/poultrynews/22166/trade-agreements-must-no...</a><br/>
+MercoPress, ‘EC tries to downplay impact for farmers of an EU/Mercosur trade agreement’, 9 March 2011<br/>
+<a href="http://www.bilaterals.org/spip.php?article19195" target="_self">http://www.bilaterals.org/spip.php?article19195</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The growing pressure on the EC over its conduct of the Mercosur negotiations may make itself felt in ways which carry important implications for ACP exporters, namely through its impact on the stricter implementation of EU SPS and food-safety regulations. Given that the debate in the European Parliament related to all trade agreements, a more generalised stricter application of EU standards could pose particular challenges for ACP exporters, given the more limited implementation capacities available in ACP countries to ensure that EU SPS, food-safety and quality standards are fully respected.</p><p>This suggests a need to pay careful attention to the scope of SPS-related provisions included in EPAs, to ensure that they establish operationally effective cooperation arrangements which enhance the capacity of ACP authorities to understand EU requirements and also provide the necessary financial support instruments to allow ACP authorities to promote full compliance with EU requirements.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Bananas/Increased-competitive-challenges-in-prospect-for-ACP-banana-exporters">Increased competitive challenges in prospect for ACP banana exporters</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/SPS-Food-safety/EU-MRLs-and-retailer-standards-affect-more-than-ACP-exporters">EU MRLs and retailer standards affect more than ACP exporters </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EU-FTAs/ACP-countries-must-position-themselves-with-regard-to-the-emerging-Pacific-and-Atlantic-FTAs">ACP countries must position themselves with regard to the emerging Pacific and Atlantic FTAs </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Bananas/India-preparing-a-major-banana-export-programme">India preparing a major banana export programme</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EU-FTAs/Progress-in-EU-FTA-negotiations-with-third-countries">Progress in EU FTA negotiations with third countries</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":152,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

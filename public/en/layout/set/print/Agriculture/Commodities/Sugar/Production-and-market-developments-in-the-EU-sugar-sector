@@ -1,0 +1,224 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Production and market developments in the EU sugar sector / Sugar / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																				
+								<a href="/en/layout/set/print/Publications/(regions)/7770/(search)/simple">Caribbean</a>
+																																																																																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7774/(search)/simple">Pacific</a>
+																																																																																								
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Production and market developments in the EU sugar sector</h1>
+
+			
+			<h4>
+												13 October 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>While the Nordic Sugar operations of the Nordzucker Group in Denmark, Sweden, Finland and Lithuania have reported production in excess of the Group’s 2013/14 EU production quota, overall EU sugar production is expected to decline by 7.6% from 17.2 to 15.9 million tonnes. Production is projected to decline by 13% in Germany, 11% in Poland, 4.4% in the UK and 1.9% in France.</p><p>This reflects in part the poor weather conditions that affected beet yields and sucrose content, but also a substantial reduction in the area under sugar beet (13.7% in Germany on an annual basis and around 30% in France compared to the potential sugar beet production area). Overall it is estimated that EU farmers sowed 2.4% less to sugar beet in terms of acreage “after prices fell 32% in the past 2 years”. However, after 2 years of good harvests there are “ample sugar supplies on the market”, with the current EU production decline not expected to create significant shortages.</p><p>Press reports indicate the emergence of increased competition on traditionally oligopolistic markets in the EU. The French company Tereos is reportedly “aggressively” seeking to gain market share in the UK as negotiations for annual supply contracts are scheduled to begin in October 2013. Tereos is reportedly looking to take advantage of the difficulties faced by Tate and Lyle Sugars (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Sugar/The-future-of-EU-sugar-production-quotas" target="_blank">The future of EU sugar production quotas</a>’, 23 September 2012), where shortages of raw cane sugar have recently caused a disruption to production at the Silvertown refinery on the Thames.</p><p>In the face of more competition, a spokesperson for ABF (the parent company of British Sugar) said that contract negotiations were “proving challenging”: the increased competition “is putting downward pressure on prices”, with buyers reporting “market prices… down between €50 and €120 a tonne from more than €700 a tonne last year”. High prices in recent years saw British Sugar’s sales revenues increase by 25% in 2011/12, while operating profits rose by 62%.</p><p>Price volatility is an increasing feature of the ACP–EU sugar trade. Information presented to the EU CAP Management Committee in August 2013 showed huge volatility in the average monthly prices paid for ACP sugar since January 2011. In the following 15 months (up to April 2012), prices rose on a widely fluctuating trend from under €400/tonne to €650/tonne, before falling back within 3 months to below €450/tonne, and then rising again on a volatile trend to €558 in July 2013.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>Nordic Sugar, ‘Positive forecast for this year's sugar production, Nordic Sugar expects a sugar output above its EU quota in 2013/14’, 16&nbsp;August 2013</p><p>
+<a href="http://www.nordicsugar.com/uploads/tx_tcnews/PM_Nordic_Sugar_Beet_test_1_2013_UK.pdf" target="_self">http://www.nordicsugar.com/uploads/tx_tcnews/PM_Nordic_Sugar_Beet_test_1...</a></p><p><i>Bloomberg.com</i>, ‘EU forecasting 7.6% decline in sugar production for next season’, 2&nbsp;September 2013</p><p>
+<a href="http://www.bloomberg.com/news/2013-09-02/eu-forecasting-7-6-decline-in-sugar-production-for-next-season.html" target="_self">http://www.bloomberg.com/news/2013-09-02/eu-forecasting-7-6-decline-in-s...</a></p><p>Reuters, ‘EU sugar yields seen down after late sowings’, 30&nbsp;August 2013</p><p>
+<a href="http://www.reuters.com/article/2013/08/30/sugar-beet-plantings-idUSL6N0GV1P920130830" target="_self">http://www.reuters.com/article/2013/08/30/sugar-beet-plantings-idUSL6N0G...</a></p><p><i>The Grocer</i>, ‘French sugar giant Tereos ups the ante as UK prices tumble’, 14 September 2013</p><p>
+<a href="http://www.thegrocer.co.uk/topics/french-sugar-giant-tereos-ups-the-ante-as-uk-prices-tumble/349507.article " target="_self">http://www.thegrocer.co.uk/topics/french-sugar-giant-tereos-ups-the-ante...</a></p><p>EC, ‘Sugar price reporting’, PowerPoint presentation by EC’s AGRI C 5, Management Committee for the Common Organisation of Agricultural Markets 29&nbsp;August 2013</p><p>
+<a href="http://ec.europa.eu/agriculture/sugar/presentations/price-reporting_en.pdf" target="_self">http://ec.europa.eu/agriculture/sugar/presentations/price-reporting_en.pdf</a></p><p>UK Department for International Development (DFID), ‘The impact of EU sugar policy reform on developing countries’, ODI/LMC, February 2012</p><p>
+<a href="http://r4d.dfid.gov.uk/pdf/outputs/TradePolicy/LMC-ODI_SugarReportPublicVersion(Final).pdf" target="_self">http://r4d.dfid.gov.uk/pdf/outputs/TradePolicy/LMC-ODI_SugarReportPublic...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Given its production cycle, the EU sugar beet industry is more responsive to price declines than ACP sugar cane industries, suggesting that the EU beet sector is better placed to cope with volatile sugar prices. Analysis of the expected impact of the EU sugar sector reform on developing countries, prepared for DFID by ODI/LMC and published in February 2012, warned that in the coming period ACP sugar exporters would be exposed to considerable volatility in prices, which “could create serious problems for LDC/ACP producers”, despite the projected firmer sugar prices over the coming decade.</p><p>Indeed, with EU sugar production quota abolition projected to reduce EU sugar prices by around €100/tonne (compared to the continuation of quotas), the current EU reforms are likely to increase the vulnerability of LDC/ACP sugar industries to periodic low world market prices. This could undermine sugar production in a number of ACP countries, particularly in a context of rising input costs.</p><p>As producers with high production costs but limited alternative markets, Guyana, Fiji, Barbados and Belize are considered particularly vulnerable. Mauritius, although a high-cost producer with a high dependence on the EU market, has, however, been able to reduce its vulnerability by effectively diversifying its revenue streams beyond raw sugar sales. Over recent years it has completely ceased exporting raw sugar in favour of refined sugar exports, and has developed other revenue streams from cane processing.</p><p>Getting to grips with rising costs and maximising revenue diversification and enhancement constitute important challenges for the ACP sugar sectors. Adopting measures that strengthen the functioning of sugar supply chains, both internally (to ensure that cane growers reduce their dependence on raw sugar prices) and internationally (given the increasingly close corporate linkages along a number of sugar supply chains), can be seen as equally important, if ACP cane farmers are to be insulated from the revenue effects of ongoing EU sugar sector reform.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Distribution-of-new-revenue-streams-raised-by-Mauritian-cane-farmers">Distribution of new revenue streams raised by Mauritian cane farmers</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Challenges-faced-in-Tanzania-in-balancing-growing-demand-with-efforts-to-promote-local-sugar-production">Challenges faced in Tanzania in balancing growing demand with efforts to promote local sugar production</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/American-Sugar-Refiners-leads-way-back-into-the-EU-sugar-market-for-DR-sugar-exporters">American Sugar Refiners leads way back into the EU sugar market for DR sugar exporters</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/EC-clarifies-options-for-Pacific-EU-EPA">EC clarifies options for Pacific–EU EPA</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Nordzucker-looking-for-new-international-investment-opportunities">Nordzucker looking for new international investment opportunities</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":144,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

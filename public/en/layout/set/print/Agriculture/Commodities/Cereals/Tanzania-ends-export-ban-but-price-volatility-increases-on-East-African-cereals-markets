@@ -1,0 +1,217 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Tanzania ends export ban, but price volatility increases on East African cereals markets  / Cereals / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																														
+																																																																																																																																																																																																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7893/(search)/simple">Cereals</a>
+							
+																																									
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Tanzania ends export ban, but price volatility increases on East African cereals markets </h1>
+
+			
+			<h4>
+												28 November 2011
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>In mid October, the government of Tanzania ‘lifted the ban on food exports’ to its EAC neighbours. This brought to an end the official ban on food exports introduced in July 2011. Tanzanian President Kikwete called for the establishment of a transparent system through which traders can sell food into food-deficit regions of the EAC.</p><p>In neighbouring Uganda, meanwhile, the IMF reports that exports of food to neighbouring countries have increased inflationary pressures. According to the IMF, ’60 per cent of the Uganda headline inflation is made up of food prices’. Inflation in Uganda is put at 28.3%, compared to 17.32% in Kenya and 16.8% in Tanzania. According to press reports, this follows on from the decision of the government of Uganda not to limit exports, despite dry weather in some areas of the country adversely affecting production. The decision was taken so as not to undermine the export-oriented nature of much of Uganda’s agricultural production.</p><p>In Kenya, bumper harvests in some parts of the country are depressing producer prices, due to shortcomings in the functioning of cereals supply chains. Farmers’ leaders have called for government action to provide alternatives to traders who offer ‘throwaway prices’. Farmers are looking for expanded purchases by the National Cereals and Produce Board (NCPB) to build up a strategic grain reserve and ‘address high levels of food insecurity in several parts of the country’. Farmers’ leaders have proposed that NCPB ‘buy this year’s maize at Sh3,500 per bag, which is nearly the costs of imported maize’.&nbsp; Farmers are also looking to the government to ‘reduce the period during which maize imports will be allowed into the country’.</p><p>The Rwandan government for its part has expressed concern about the continued use of non-tariff barriers to intra-EAC trade, a situation compounded by the ‘poor state of infrastructure in the region’.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>East African Business Week</i>, ‘Govt lifts ban on food exports’, 17 October 2011</p><p>
+<a href="http://allafrica.com/stories/201110171664.html" target="_self">http://allafrica.com/stories/201110171664.html</a></p><p><i>Thecropsite.com</i>, ‘Uganda food exports to Kenya push up prices’, 24 October 2011</p><p>
+<a href="http://www.thecropsite.com/news/9460/uganda-food-exports-to-kenya-push-up-prices" target="_self">http://www.thecropsite.com/news/9460/uganda-food-exports-to-kenya-push-u...</a></p><p><i>Daily Nation</i>, ‘Farmers urge state to increase maize prices’, 1 October 2011</p><p>
+<a href="http://allafrica.com/stories/201110020130.html" target="_self">http://allafrica.com/stories/201110020130.html</a></p><p><i>The East African</i>, ‘Rwanda red flag over faltering EAC integration’, 25 October 2011</p><p>
+<a href="http://www.tralac.org/2011/10/25/rwanda-red-flag-over-faltering-eac-integration/" target="_self">http://www.tralac.org/2011/10/25/rwanda-red-flag-over-faltering-eac-inte...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>There are several issues arising from the situation in East Africa. In the case of Uganda, this reflects the fact that in most developing countries where food insecurity remains a daily challenge for most households, food purchase generally takes a higher percentage of income of the poor, hence the need for policies that cushion the vulnerable in society. The continued export of food by Uganda may also be due to inadequate food security assessment by government officials, often underestimating or overestimating national food availability against actual requirements.</p><p>There would appear to be a need to develop clear policies to guide imports or exports of food and for balancing policies aimed at generating foreign exchange and promoting food self-sufficiency.&nbsp; This might perhaps best be addressed at the regional level in East Africa, including through the establishment of a regional grain reserve, to stabilise markets during times of stress. This could help reduce the use of non-tariff barriers to trade in basic foodstuffs within the EAC, thereby reducing the gulf between policy commitments and policy practice.</p><p>The situation in Kenya calls for policies that strengthen the cereal supply chain and linkages among the chain actors, as well as improvements in pricing and supply management policies. Currently traders offer ‘throwaway prices’ to take advantage of deficiencies in the market, including lack of market information and weaknesses in the price determination process.&nbsp; The maize glut is actually artificial, as prices remain high in distant markets in urban areas or in arid parts of the country where there is huge demand. The government needs to consider reviewing its rural development and agricultural marketing policies to improve rural infrastructure, provide short-term financing instruments and storage facilities so that farmers do not have to dispose of their maize immediately after the harvest to meet urgent cash needs.</p><p>The timing of imports or exports is critical if domestic economies are not to be disrupted. Import price parity should be the basis for pricing domestic produce that is also imported, so that farmers are encouraged to produce as much as possible. Alternatively, governments could look towards developing and implementing input subsidy policies and programmes that do not distort producer prices.&nbsp; These ‘green box’ subsidies are part of the WTO trade rules, commonly applied by developed country governments. However, developing countries such as Kenya face serious financial constraints in deploying such policy tools, hence their greater reliance on trade policy tools.&nbsp;</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Maize-value-chain-East-Southern-Africa-COMESA-launches-Road-Map-to-boost-regional-maize-trade">Maize value chain/East-Southern Africa – COMESA launches Road Map to boost regional maize trade</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cereals/Wheat-value-chain-Ethiopia-Farmers-gaining-from-improved-crop-varieties">Wheat value chain/Ethiopia – Farmers gaining from improved crop varieties</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Ethiopia-Over-5-million-Ethiopian-farmers-to-benefit-from-IBM-s-ECX-Traceability-System">Input value chain/Ethiopia - Over 5 million Ethiopian farmers to benefit from IBM's ECX Traceability System</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Grain-value-chain-Ethiopia-Research-reveals-indigenous-crop-varieties-face-danger">Grain value chain/Ethiopia - Research reveals indigenous crop varieties face danger</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Grain-value-chain-Rwanda-Maize-farmers-decry-lack-of-market-for-their-produce">Grain value chain/ Rwanda: Maize farmers decry lack of market for their produce</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":153,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

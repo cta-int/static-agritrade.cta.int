@@ -1,0 +1,403 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>EU beef market deficit to grow  / Beef / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																					
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																																																																																																																																																													,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7797/(search)/simple">Beef</a>
+							
+																																																																																																																																																																																																																																																																																																																	
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>EU beef market deficit to grow </h1>
+
+			
+			<h4>
+												02 March 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>According to the EC’s ‘Prospects for agricultural markets and incomes in the EU 2013-2023’, published in December 2013, there have been declines in both the dairy herd and dedicated beef herds: EU beef production declined almost 4% in 2012 and 3% in 2013. The pending abolition of EU milk production quotas will give an initial impetus to the size of the EU dairy herd, although the long-term decline in herd size will rapidly reassert itself. Firm beef prices may encourage more dedicated beef production. Overall, however, the EC projects that by 2023 EU beef production will be around 7% below the average for the 2010–2012 period.</p><p>Despite the suppression of demand for beef as a result of the economic situation (in 2013, demand was down 5.2% from the 2010 level), EU exports of beef fell dramatically from their previously high levels (exports in 2013 were less than half their level in 2011). This was in part linked to import restrictions in a number of major markets (Russia and Turkey), nominally on SPS grounds.</p><p>The decline in EU beef exports is projected to continue to 2016, after which a slight recovery will occur. However, by 2023, EU beef exports are projected at only 35% of what they were in 2011, and the EU will be looking for new markets to replace Russia and Turkey, where domestic production is projected to increase.</p><p>In 2012, beef imports continued to fall, in part “because of Argentina's policy of limiting exports”. EU imports were 4.4% below 2011 levels, reaching the lowest level of beef imports in a decade. In 2013, imports from third countries are projected to increase by 10.6% (most notably from Brazil and Uruguay), in response to elevated EU beef price levels (51% above world market price levels in 2013, compared to 42% in 2010), arising from the shortfall in domestic supplies.</p><p>This increase in beef imports is then projected to continue, reaching levels in 2023 that are 47% higher than the depressed level of imports in 2012. However, imports will remain below the earlier high levels of imports from Latin America as a result of a narrowing of the historical price gap between EU and world market prices, and growing domestic demand and the availability of alternative markets for the producer countries.</p><p>Increased imports of beef from Canada under the newly concluded free-trade area agreement with the EU could take place, but these have not been factored into the EC’s projections.</p><p>EU beef prices are projected to remain substantially above world market prices, although less so than historically. Price volatility could however be a feature of the EU market.</p><p><b>EU beef sector 2010–2023: Projections for production, consumption, imports, exports and relative prices</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="49" valign="top">  &nbsp;
+  </td><td width="81" valign="top">  Net production (tonnes)
+  </td><td width="81" valign="top">  Consump-tion (tonnes)
+  </td><td width="81" valign="top">  Per capita consump-tion (kg)
+  </td><td width="81" valign="top">  Imports (tonnes)
+  </td><td width="81" valign="top">  Exports (tonnes)
+  </td><td width="81" valign="top">  EU &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;price &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;€/t
+  </td><td width="81" valign="top">  World &nbsp;price &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;€/t
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  2010
+  </td><td width="81" valign="top">  8,120,000
+  </td><td width="81" valign="top">  8,188,000
+  </td><td width="81" valign="top">  11.35
+  </td><td width="81" valign="top">  321,000
+  </td><td width="81" valign="top">  253,000
+  </td><td width="81" valign="top">  3,197
+  </td><td width="81" valign="top">  2,241
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  2011
+  </td><td width="81" valign="top">  8,134,000
+  </td><td width="81" valign="top">  8,094,000
+  </td><td width="81" valign="top">  11.19
+  </td><td width="81" valign="top">  286,000
+  </td><td width="81" valign="top">  327,000
+  </td><td width="81" valign="top">  3,521
+  </td><td width="81" valign="top">  2,649
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  2012
+  </td><td width="81" valign="top">  7,811,000
+  </td><td width="81" valign="top">  7,874,000
+  </td><td width="81" valign="top">  10.86
+  </td><td width="81" valign="top">  275,000
+  </td><td width="81" valign="top">  211,000
+  </td><td width="81" valign="top">  3,838
+  </td><td width="81" valign="top">  2,413
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  2013
+  </td><td width="81" valign="top">  7,603,000
+  </td><td width="81" valign="top">  7,761,000
+  </td><td width="81" valign="top">  10.68
+  </td><td width="81" valign="top">  304,000
+  </td><td width="81" valign="top">  146,000
+  </td><td width="81" valign="top">  3,800
+  </td><td width="81" valign="top">  2,512
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  2014
+  </td><td width="81" valign="top">  7,647,000
+  </td><td width="81" valign="top">  7,840,000
+  </td><td width="81" valign="top">  10.76
+  </td><td width="81" valign="top">  325,000
+  </td><td width="81" valign="top">  128,000
+  </td><td width="81" valign="top">  3,860
+  </td><td width="81" valign="top">  2,369
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  2015
+  </td><td width="81" valign="top">  7,785,000
+  </td><td width="81" valign="top">  7,982,000
+  </td><td width="81" valign="top">  10.93
+  </td><td width="81" valign="top">  324,000
+  </td><td width="81" valign="top">  126,000
+  </td><td width="81" valign="top">  3,792
+  </td><td width="81" valign="top">  2,334
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  2016
+  </td><td width="81" valign="top">  7,773,000
+  </td><td width="81" valign="top">  8,002,000
+  </td><td width="81" valign="top">  10.93
+  </td><td width="81" valign="top">  338,000
+  </td><td width="81" valign="top">  113,000
+  </td><td width="81" valign="top">  3,977
+  </td><td width="81" valign="top">  2,441
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  2017
+  </td><td width="81" valign="top">  7,767,000
+  </td><td width="81" valign="top">  7,989,000
+  </td><td width="81" valign="top">  10.89
+  </td><td width="81" valign="top">  341,000
+  </td><td width="81" valign="top">  119,000
+  </td><td width="81" valign="top">  3,921
+  </td><td width="81" valign="top">  2,454
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  2018
+  </td><td width="81" valign="top">  7,754,000
+  </td><td width="81" valign="top">  7,985,000
+  </td><td width="81" valign="top">  10.86
+  </td><td width="81" valign="top">  350,000
+  </td><td width="81" valign="top">  120,000
+  </td><td width="81" valign="top">  3,774
+  </td><td width="81" valign="top">  2,360
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  2019
+  </td><td width="81" valign="top">  7,692,000
+  </td><td width="81" valign="top">  7,951,000
+  </td><td width="81" valign="top">  10.79
+  </td><td width="81" valign="top">  381,000
+  </td><td width="81" valign="top">  121,000
+  </td><td width="81" valign="top">  3,831
+  </td><td width="81" valign="top">  2,391
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  2020
+  </td><td width="81" valign="top">  7,647,000
+  </td><td width="81" valign="top">  7,910,000
+  </td><td width="81" valign="top">  10.72
+  </td><td width="81" valign="top">  387,000
+  </td><td width="81" valign="top">  122,000
+  </td><td width="81" valign="top">  3,886
+  </td><td width="81" valign="top">  2,415
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  2021
+  </td><td width="81" valign="top">  7,593,000
+  </td><td width="81" valign="top">  7,868,000
+  </td><td width="81" valign="top">  10.65
+  </td><td width="81" valign="top">  395,000
+  </td><td width="81" valign="top">  120,000
+  </td><td width="81" valign="top">  3,961
+  </td><td width="81" valign="top">  2,426
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  2022
+  </td><td width="81" valign="top">  7,541,000
+  </td><td width="81" valign="top">  7,830,000
+  </td><td width="81" valign="top">  10.58
+  </td><td width="81" valign="top">  405,000
+  </td><td width="81" valign="top">  116,000
+  </td><td width="81" valign="top">  4,030
+  </td><td width="81" valign="top">  2,411
+  </td>
+</tr>
+
+<tr>
+<td width="49" valign="top">  2023
+  </td><td width="81" valign="top">  7,489,000
+  </td><td width="81" valign="top">  7,778,000
+  </td><td width="81" valign="top">  10.50
+  </td><td width="81" valign="top">  405,000
+  </td><td width="81" valign="top">  116,000
+  </td><td width="81" valign="top">  4,086
+  </td><td width="81" valign="top">  2,424
+  </td>
+</tr>
+
+</table>
+<p>Source: EC, ‘Prospects for agricultural markets’, extracted from Table 6.18.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EC, ‘Prospects for agricultural markets and incomes in the EU 2013-2023’, December 2013</p><p>
+<a href="http://ec.europa.eu/agriculture/markets-and-prices/medium-term-outlook/2013/fullrep_en.pdf" target="_self">http://ec.europa.eu/agriculture/markets-and-prices/medium-term-outlook/2...</a></p><p>EC, ‘Prospects for agricultural markets and income in the EU 2013-2023’, statistical tables, December 2013</p><p>
+<a href="http://ec.europa.eu/agriculture/markets-and-prices/medium-term-outlook/2013/tables_en.pdf" target="_self">http://ec.europa.eu/agriculture/markets-and-prices/medium-term-outlook/2...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The EC projects a growing beef production deficit in the EU up to 2023, despite the 1.7% decline in per capita consumption that is foreseen. This will create increased market opportunities in the context of a continuation of significantly higher prices (over +60%) on the EU market compared to world market prices. While
+<a name='_GoBack'></a> there are likely to be increased imports of beef, market trends in the EU would appear to leave space for ACP suppliers. </p><p>However, the trans-Atlantic trade deals could considerably increase competition on high-quality beef markets, to the detriment of ACP exporters that are increasingly targeting these quality-differentiated beef market components (e.g. Namibian exporters). </p><p>More fundamentally, the increasingly strict application of EU SPS regulations could substantially reduce the availability of cattle for slaughtering and processing in EU-approved abattoirs in countries such as Namibia (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Beef/SPS-constraints-on-post-drought-restocking-raise-concerns-in-Namibia" target="_self">SPS constraints on post-drought restocking raise concerns in Namibia</a>’, 20 January 2014). These SPS considerations may make any consideration of the implications of EU beef market developments for ACP beef exporters entirely academic.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/SPS-Food-safety/Livestock-value-chain-Zimbabwe-Government-bans-some-cattle-movement-over-foot-and-mouth-disease">Livestock value chain /Zimbabwe - Government bans some cattle movement over foot and mouth disease</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/Livestock-value-chain-Botswana-Consider-genetics-when-buying-cattle">Livestock value chain/Botswana - Consider genetics when buying cattle </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/SPS-Food-safety/Livestock-value-chain-Mozambique-Namibia-Foot-and-Mouth-disease-poses-threat-of-national-disaster">Livestock value chain/Mozambique &amp; Namibia - Foot and Mouth disease poses threat of ' national disaster'</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Angola-to-end-beef-imports">Angola to end beef imports</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/Livestock-value-chain-Southern-Africa-Reports-of-growing-Foot-and-Mouth-disease">Livestock value chain/ Southern Africa- Reports of growing Foot and Mouth disease</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":128,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

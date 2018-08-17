@@ -1,0 +1,1761 @@
+<!DOCTYPE html>
+<html class="no-js">
+<!--
+	/**
+	 * We congratulate Agritrade with their new, upgraded (HTML5!) website!
+	 * Created by Contactivity, www.contactivity.com
+	 * @version $Id: 1.0
+	 */
+
+
+																			--><head>
+	
+                                        
+	<title>Lettre d’information agriculture – novembre 2014 / 2014 / Newsletter Agriculture / Archives / Accueil - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+			
+		<meta name="description" content="Cereals sector"/>
+			
+			
+		<meta name="keywords" content=""/>
+			
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+		<script src="/extension/agritrade/design/agritrade/js/contactivity.global.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/contactivity.input.js"></script>
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="Lettre d’information agriculture – novembre 2014"/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+<script src="https://valsplat.nl/clients/2852/invite.js"></script>
+</head>
+<body lang="fr" onload="initialize()">
+
+<!-- [ wrapper -->
+<div id="wrapper">
+
+	<!-- [ main container -->
+	<div class="container" id="maincontainer">
+
+		<!-- [ header container -->
+		<header class="container">
+
+			<h6><a href="http://www.cta.int/" target="_blank">CTA</a></h6>
+			<div class="logo">
+				<h1><a href="/fr"><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></a></h1>
+				<h2 class="subline">Le commerce ACP analysé et décrypté</h2>
+			</div>
+
+			<!-- [ font box -->
+			<div class="fontBox">
+				<dl>
+					<dt class="active"><a href="#" class="bind fontsize" rel="small"><img src="/extension/agritrade/design/agritrade/images/small_font.gif" alt=""/></a></dt>
+					<dd>Petite police</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="medium"><img src="/extension/agritrade/design/agritrade/images/medium_font.gif" alt=""/></a></dt>
+					<dd>Polic moyenne</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="big"><img src="/extension/agritrade/design/agritrade/images/big_font.gif" alt=""/></a></dt>
+					<dd>Grande police</dd>
+				</dl>
+			</div>
+			<!-- font box ] -->
+
+			<!-- [ language box -->
+			<div class="languageBox">
+				<dl>
+				
+				
+					<dt><a href="/en/Archives/Newsletter-Agriculture/2014/Lettre-d-information-agriculture-novembre-2014">English</a> | </dt>
+					<dd>Passer à l'anglais</dd>
+					<dt><a href="/fr/Archives/Newsletter-Agriculture/2014/Lettre-d-information-agriculture-novembre-2014">Français</a></dt>
+					<dd>Passer au français</dd>
+				</dl>
+			</div>
+			<!-- language box ] -->
+
+			<!-- [ search box -->
+			<div class="searchBox">
+				<form action="http://www.google.com/cse?hl=en&sa=Search&ie=UTF-8" method="get" name="search">
+	            <input type="hidden" value="013338266298253522945:rk5lmjqtluq" name="cx"/>
+					<input name="q" type="text" class="field" value="" placeholder="Recherche"/>
+					<input name="Search" type="image" alt="" class="button" src="/extension/agritrade/design/agritrade/images/search_button.jpg"/>
+				</form>
+
+
+
+			</div>
+			<!-- search box ] -->
+
+
+			<!-- [ navigation -->
+			<nav>
+				
+				<ul>
+				<li>
+					<h2><a href="/fr"><span>Accueil</span></a></h2>
+				</li>
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Agriculture" title="Agriculture"><span>Agriculture</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Sujets
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/fr/Agriculture/Sujets/Accord-de-l-OMC" title="Accord de l'OMC">											Accord de l'OMC
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/APE" title="APE">											APE
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-UE" title="Accords de libre-échange UE">											Accords de libre-échange UE
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP" title="Accords de libre-échange ACP">											Accords de libre-échange ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Commerce-regional-ACP" title="Commerce régional ACP">											Commerce régional ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Acces-au-marche" title="Accès au marché">											Accès au marché
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/SPS-Securite-des-aliments" title="SPS / Sécurité des aliments">											SPS / Sécurité des aliments
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Differenciation-des-produits" title="Différenciation des produits">											Différenciation des produits
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Reforme-de-la-PAC" title="Réforme de la PAC">											Réforme de la PAC
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Biocarburants" title="Biocarburants">											Biocarburants
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Changement-climatique" title="Changement climatique ">											Changement climatique 
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Aide-au-commerce" title="Aide au commerce ">											Aide au commerce 
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Sujets/Autres" title="Autres">											Autres
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Produits de base
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/General" title="Général">											Général
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Banane" title="Banane">											Banane
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Cacao" title="Cacao">											Cacao
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Cafe" title="Café">											Café
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Cereales" title="Céréales">											Céréales
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Coton" title="Coton">											Coton
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Horticulture" title="Horticulture">											Horticulture
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Oleagineux" title="Oléagineux">											Oléagineux
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Produits-laitiers" title="Produits laitiers">											Produits laitiers
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Rhum" title="Rhum">											Rhum
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Riz" title="Riz">											Riz
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Sucre" title="Sucre">											Sucre
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/The" title="Thé">											Thé
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Viande-bovine" title="Viande bovine">											Viande bovine
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Volaille" title="Volaille">											Volaille
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Produits-de-base/Autres" title="Autres">											Autres
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Régions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/fr/Agriculture/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Regions/Globale" title="Globale">											Globale
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Agriculture/Regions/UE" title="UE">											UE
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Peche" title="Pêche"><span>Pêche</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Sujets
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/fr/Peche/Sujets/Acces-au-marche" title="Accès au marché">											Accès au marché
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/Accord-de-l-OMC" title="Accord de l'OMC">											Accord de l'OMC
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/News-from-the-IOC-region" title="News from the IOC region">											News from the IOC region
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE" title="Politique commune de la pêche de l'UE">											Politique commune de la pêche de l'UE
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Sujets/Relations-ACP-UE-APP" title="Relations ACP-UE ; APP">											Relations ACP-UE ; APP
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Régions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/fr/Peche/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Regions/Global" title="Global">											Global
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Peche/Regions/UE" title="UE">											UE
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Regions" title="Régions"><span>Régions</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/fr/Regions/Globale" title="Globale">									Globale
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/fr/Regions/UE" title="UE">									UE
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+									<a href="/fr/Regions/ACP" title="ACP">									ACP
+									
+																		
+									</a>								</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/fr/Regions/ACP/Groupe-ACP" title="Groupe ACP">											Groupe ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Caraibes" title="Caraïbes">											Caraïbes
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-de-l-Ouest" title="Afrique de l'Ouest">											Afrique de l'Ouest
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-Centrale" title="Afrique Centrale">											Afrique Centrale
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-de-l-Est" title="Afrique de l'Est">											Afrique de l'Est
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Afrique-Australe" title="Afrique Australe">											Afrique Australe
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/fr/Regions/ACP/Pacifique" title="Pacifique">											Pacifique
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/fr/Publications" title="Publications"><span>Publications</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Actualites-et-analyses" title="Actualités et analyses">									Actualités et analyses
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Compendium" title="Compendium">									Compendium
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Interviews" title="Interviews">									Interviews
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Newsletter" title="Newsletter">									Newsletter
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Notes-de-synthese" title="Notes de synthèse">									Notes de synthèse
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/fr/Publications/Rapports-a-la-une" title="Rapports à la une">									Rapports à la une
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+																
+																					
+					<li>
+						<h2><a href="/fr/Bienvenue-sur-Agritrade" title="À propos"><span>À propos</span></a></h2>
+						
+
+											</li>
+
+								
+		</ul>
+
+			</nav>
+			<!-- navigation ] -->
+
+
+		</header>
+		<!-- header container ] -->
+
+
+
+		<!-- [ content container -->
+		<section class="container">
+
+
+			
+						<!--  [ center container -->
+			<div id="centerCntr" class="news_issues content  ">
+							
+		
+	
+
+
+<section class="content">
+
+	<nav>
+		<div class="left">
+			<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsletter_fr.gif" alt="Newsletter"/>
+		</div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style " addthis:title="Lettre d’information agriculture – novembre 2014">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/fr/Archives/Newsletter-Agriculture/2014/Lettre-d-information-agriculture-novembre-2014" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				<a id="tool-email" href="http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2Ffr%2FArchives%2FNewsletter-Agriculture%2F2014%2FLettre-d-information-agriculture-novembre-2014&amp;title=Lettre+d%E2%80%99information+agriculture+%E2%80%93+novembre+2014&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611" onclick="return popitup('http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2Ffr%2FArchives%2FNewsletter-Agriculture%2F2014%2FLettre-d-information-agriculture-novembre-2014&amp;title=Lettre d’information agriculture – novembre 2014&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611')" target="_blank" class="tool popup">
+			Email
+		</a>
+		<a href="#" id="tool-print" class="tool" onclick="printMe('/fr/layout/set/print/Archives/Newsletter-Agriculture/2014/Lettre-d-information-agriculture-novembre-2014'); return false">
+			imprimer
+		</a>
+				</div>
+
+	
+	</div>
+				<div class="clear"></div>
+	</nav>
+
+	<article>
+		<header>
+						<div class="pdf-file">
+				<a href="/fr/content/download/288020/3455027/file/16f2da1440bdf442745739695a2405c0.pdf">Télécharger <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+										
+			<h1>Lettre d’information agriculture – novembre 2014</h1>
+			
+			<h4>
+			
+												01 janvier 1970
+										</h4>
+
+					</header>
+
+
+
+	</article>
+</section>
+
+							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis_fr.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																
+								<a href="/fr/Publications/(regions)/7773/(search)/simple">Afrique de l'Ouest</a>
+																																																																																				
+																																																																																																																																																																																																																																																												,
+
+							<a href="/fr/Agriculture/(commodities)/7805/(search)/simple">Riz</a>
+							
+																																																																																																																																	
+							
+							
+		</div>
+		
+					<h1>Les différentes politiques appliquées au secteur du riz gagneraient à partager leur expérience en Afrique de l'Ouest</h1>
+
+			<h4>
+			
+												28 octobre 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>D'après la FAO, la campagne 2013 du riz en Afrique de l'Ouest a produit « un volume record de 13,7 millions de tonnes (8,7 millions de tonnes en équivalent riz blanchi) ». Ceci a été imputé aux récoltes exceptionnelles au Tchad, au Mali et au Nigeria et à des niveaux de production favorables en Côte d'Ivoire, en Gambie, en Guinée, en Guinée-Bissau, en Mauritanie, en Sierra Leone et au Togo. Toutefois, du fait des «&nbsp;conditions climatiques erratiques, la production a chuté au Bénin, au Burkina Faso, au Ghana, au Liberia, au Niger et au Sénégal&nbsp;». </p><p>Même si les premières prévisions ne sont que provisoires, compte tenu des incertitudes liées au climat, la FAO prévoit une augmentation de 1,46&nbsp;% de la production de riz ouest-africaine en 2014, pour atteindre 13,9 millions de tonnes de riz paddy (8,8 millions de tonnes en équivalent riz blanchi). Ceci est imputable «&nbsp;à l'aide gouvernementale et aux investissements accrus dans le secteur&nbsp;», ce qui a augmenté les surfaces cultivées en riz. Le tableau varie cependant d'un pays à l'autre de la région. </p><p>Au plan politique, «&nbsp;en 2013, les responsables du gouvernement gambien ont annoncé des plans visant à imposer une interdiction totale des importations de riz d'ici 2016, année à laquelle ils entendent être totalement autosuffisants en riz&nbsp;». &nbsp;Ces dernières années, le gouvernement de la Gambie s'est efforcé de promouvoir la production de riz grâce à la distribution d'intrants, dont les variétés améliorées de riz NERICA. Plus récemment, dans le cadre de son Agenda d'autosuffisance en riz – Vision 2016, le gouvernement entend «&nbsp;promouvoir une culture du riz à grande échelle, les cultures multiples ainsi que des améliorations en matière d’infrastructures ». Sur cette base, la FAO prévoit une augmentation de la production de riz à un niveau supérieur au record de 2013, pour atteindre une récolte de 72&nbsp;000 tonnes (47&nbsp;000 tonnes en équivalent riz blanchi). </p><p>Toutefois, en 2012/13, les importations annuelles de riz de la Gambie ont atteint 137&nbsp;000 tonnes, pour une consommation de riz nationale de 178&nbsp;822 tonnes. Le gouvernement est par conséquent en train de reconsidérer sa décision d'interdire les importations de riz à compter de 2016, cette interdiction étant tributaire des objectifs d'autosuffisance atteints. Les experts locaux ont démontré de façon convaincante qu'une interdiction des importations sans réalisation des objectifs d'autosuffisance tout simplement «&nbsp;aboutirait à la contrebande de riz, comme dans le cas du Nigeria&nbsp;». </p><p>Le gouvernement du Ghana cherche également à promouvoir activement la production de riz locale pour réduire la dépendance à l'égard des importations et obtenir l'autosuffisance en 2018, «&nbsp;la production devant alors atteindre 1,2 million de tonnes&nbsp;». Le gouvernement a développé un éventail de programmes de subventionnement et d'amélioration des intrants (ciblant plus particulièrement la jeunesse) et il soutient une série d'initiatives d'irrigation. La FAO, toutefois, sous-entend que l'objectif d'autosuffisance du gouvernement ghanéen pourrait être trop ambitieux, puisqu'il exige une croissance de la production annuelle de 20&nbsp;%. </p><p>Le gouvernement du Liberia espère encourager la production de riz locale en introduisant une exigence d'achat local de 25&nbsp;% pour toutes les agences gouvernementales. Ceci devrait créer un marché pour environ 3&nbsp;500 tonnes de riz. Les achats de riz se font déjà auprès des agriculteurs travaillant dans le cadre d'un système de soutien au développement du riz de l'USAID. La création d'opportunités de marché pour les producteurs de riz locaux par le biais de ces initiatives d'achats publics est considérée comme essentielle pour que les efforts de développement de la production s'avèrent durables.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>FAO, «&nbsp;Rice Market Monitor&nbsp;», juillet 2014</p><p>
+<a href="http://www.fao.org/3/a-i3945e.pdf" target="_self">http://www.fao.org/3/a-i3945e.pdf</a></p><p><i>The Point</i>, «&nbsp;Annual rice imports 2012-13 rose to 137,000 metric tons&nbsp;», 1<sup>er</sup> juillet 2014</p><p>
+<a href="http://allafrica.com/stories/201407071685.html" target="_self">http://allafrica.com/stories/201407071685.html</a></p><p><i>Oryza.com</i>, «&nbsp;Gambia may reconsider 2016 rice import ban&nbsp;», 22 juillet 2014</p><p>
+<a href="http://www.oryza.com/news/rice-news/gambia-president-links-2016-rice-import-ban-2015-production" target="_self">http://www.oryza.com/news/rice-news/gambia-president-links-2016-rice-imp...</a></p><p><i>The New Dawn</i>, «&nbsp;Commerce purchases local rice to endorse 25% Procurement Act&nbsp;», 25 juillet 2014</p><p>
+<a href="http://www.thenewdawnliberia.com/index.php?option=com_content&amp;view=article&amp;id=12231:commerce-purchases-local-rice-to-endorse-25-procurement-act-&amp;catid=25:politics&amp;Itemid=59" target="_self">http://www.thenewdawnliberia.com/index.php?option=com_content&amp;view=a...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Commentaire éditorial</h3>
+			<p>Compte tenu de la demande croissante de riz par les consommateurs et de l'augmentation de la facture des importations, les gouvernements ouest-africains recherchent de plus en plus les types de politiques du secteur public ainsi que les programmes de soutien qui peuvent promouvoir au mieux la production de riz locale. Toute une série d'outils politiques sont actuellement utilisés en Afrique de l'Ouest, notamment les programmes de soutien à la production et aux intrants et les mesures commerciales. </p><p>Les mesures commerciales actuelles vont de l'utilisation des exigences d'achat public en vue de créer des marchés pour les producteurs de riz locaux jusqu'aux restrictions d'importation et même les interdictions d'importation, en passant par l'application de droits d'importation différentiels liés à l'investissement dans le développement de liens en amont. </p><p>Souvent des mesures différentes sont combinées au sein d'une politique unique. En outre, les politiques peuvent évoluer à la lumière de l'expérience, en particulier en réponse à la contrebande qui apparaît avec l'application de droits d'importation différents pour le riz à travers l'Afrique de l'Ouest. </p><p>Ceci suggère que des bénéfices pourraient être obtenus d'une évaluation de l'efficacité des différents types de mesures politiques appliquées dans le secteur, en termes de soutien à une production durable et à la commercialisation du riz. Une telle évaluation pourrait servir de base à une approche graduelle pragmatique de l'harmonisation de la politique du secteur du riz, qui est une condition essentielle pour réduire l'impact négatif des flux commerciaux informels dans le secteur du riz sur les politiques officielles des gouvernements pour le secteur du riz.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis_fr.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																						
+								<a href="/fr/Publications/(regions)/7772/(search)/simple">Afrique de l'Est</a>
+																																																																																																														
+																																																																																																																																																																																																																																																												,
+
+							<a href="/fr/Agriculture/(commodities)/7805/(search)/simple">Riz</a>
+							
+																																																																																																																																	
+							
+							
+		</div>
+		
+					<h1>Le débat s'intensifie sur les droits de douane applicables au riz de la CAE </h1>
+
+			<h4>
+			
+												29 octobre 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>Le <i>Suivi du marché du riz</i> de juillet 2014 de la FAO fait état de meilleures perspectives pour la production de riz en Afrique orientale. Comparée à la production moyenne de 2009 à 2011, la production de riz devrait atteindre un volume supérieur de 17 % en 2014. Malgré les premières craintes concernant les niveaux de production de 2014, la production de riz tanzanienne devrait dépasser de 200 000 tonnes celle de 2013, avec une récolte de 2,1 millions de tonnes (1,4 million de tonnes en équivalent riz blanchi), soit une hausse de 4 %. </p><p>Cette augmentation de la production a été attribuée à un accroissement des surfaces cultivées en riz et à des rendements atteignant 2 tonnes par hectare, contre 1,7 tonne en 2005. Le gouvernement a soutenu des systèmes d'irrigation, l'adoption de variétés améliorées de semences et des programmes de subventionnement d'intrants. Les importations de riz de la Tanzanie devraient ainsi tomber à 95&nbsp;000 tonnes, contre 121&nbsp;000 tonnes en 2013. </p><p>La production de riz du Kenya devrait se stabiliser au niveau record atteint en 2013 de 147&nbsp;000 tonnes (95&nbsp;000 tonnes en équivalent riz blanchi). Malgré cette tendance de la production, «&nbsp;le Kenya devrait augmenter ses importations de 4&nbsp;% en 2014 à 420&nbsp;000 tonnes&nbsp;». </p><p>Les perspectives de production ont été moins favorables au Rwanda, où celle-ci a faibli du fait «&nbsp;de pluies erratiques et d'une pénurie d'intrants&nbsp;». Malgré ces défis en termes de production, les importations de riz au Rwanda devraient rester stables.</p><p>S'agissant du commerce du riz, les mesures politiques des gouvernements jouent un rôle important. Bien que le tarif extérieur commun (TEC) de la CAE sur les importations de riz soit officiellement de 75&nbsp;%, les États membres ont utilisé des exemptions nationales approuvées d'année en année.</p><p>En juin 2014, les ministres de la CAE ont convenu d'augmenter le droit de douane appliqué de 25&nbsp;% à 35&nbsp;%, au vu des protestations des agriculteurs concernant l'impact commercial des importations de riz à bas prix. Toutefois, l'Ouganda a refusé de s'engager envers le nouveau droit de 35&nbsp;%, préférant maintenir un droit de douane de 75&nbsp;% pour promouvoir la production de riz nationale. </p><p>Cet accord général signifiait que le gouvernement de la Tanzanie allait laisser expirer les exemptions tarifaires introduites en 2013, «&nbsp;afin de contenir la pression inflationniste&nbsp;». </p><p>Dans le cas du Rwanda, en 2014, la FAO signale que des «&nbsp;concessions tarifaires moins favorables ont également été annoncées&nbsp;». Le riz importé «&nbsp;se verra appliquer un droit de 45 pour cent (ou 200 $US la tonne, le plus élevé des deux montants étant retenu) jusqu'en juin 2015&nbsp;». </p><p>Le Kenya, pour sa part, tout en appliquant un droit de douane de 35&nbsp;%, a augmenté le droit minimum par tonne à 200 $US contre 100 $US par tonne en 2013. </p><p>Les riziculteurs ont salué l'introduction de cette protection améliorée, les agriculteurs kényans réclamant également davantage d'investissements dans l'irrigation et plus de soutien pour l'approvisionnement en intrants. </p><p>Les importateurs de riz kényans, quant à eux, se sont plaints que la hausse tarifaire pourrait finir par exclure les petits importateurs du secteur d'activité. Enfin, les exportateurs de riz pakistanais affirment que les nouvelles taxes augmenteront les prélèvements totaux sur les importations de 400&nbsp;000 tonnes de riz annuelles du Kenya de 180 millions $US à 260 millions $US.</p><p>À ce jour, les mesures du Kenya visant à augmenter la protection tarifaire dans le secteur du riz n'ont débouché sur aucune mesure compensatoire des autorités pakistanaises en ce qui concerne les exportations de thé du Kenya, pour lesquelles les concessions tarifaires avaient été convenues bilatéralement.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>FAO, «&nbsp;Rice Market Monitor&nbsp;», juillet 2014</p><p>
+<a href="http://www.fao.org/3/a-i3945e.pdf" target="_self">http://www.fao.org/3/a-i3945e.pdf</a></p><p><i>Business Daily</i>, «&nbsp;Farmers support raising of import duty on rice&nbsp;», 21 juillet 2014</p><p>
+<a href="http://www.businessdailyafrica.com/Farmers-support-raising-of-import-duty-on-rice/-/539546/2392426/-/pq1liuz/-/index.html" target="_self">http://www.businessdailyafrica.com/Farmers-support-raising-of-import-dut...</a></p><p><i>Recorder Report</i>, «&nbsp;Kenya’s decision of increasing import duty affects rice industry&nbsp;», 24 juillet 2014</p><p>
+<a href="http://zaraimedia.com/2014/07/25/kenyas-decision-increasing-import-duty-affects-rice-industry/" target="_self">http://zaraimedia.com/2014/07/25/kenyas-decision-increasing-import-duty-...</a></p><p><i>Oryza.com</i>, «&nbsp;East African Community hikes import tariff by 10% to protect local farmers&nbsp;», 3&nbsp;juin 2014</p><p>
+<a href="http://www.oryza.com/news/rice-news/east-african-community-hikes-rice-import-tariff-10-protect-local-farmers" target="_self">http://www.oryza.com/news/rice-news/east-african-community-hikes-rice-im...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Commentaire éditorial</h3>
+			<p>Le TEC de la CAE offre certaines flexibilités aux gouvernements membres, par exemple celle d'accorder des exceptions pour répondre à des besoins nationaux spécifiques. Des efforts sont déployés depuis peu pour harmoniser l'application des droits de douane dans le secteur du riz, en partie pour combattre la «&nbsp;contrebande&nbsp;» de riz au sein de la CAE. Il s'agit là d'un processus complexe car le poids relatif à accorder aux intérêts des consommateurs et des producteurs varie en fonction des États membres, la consommation de riz ayant moins de poids en termes de sécurité alimentaire en Ouganda qu'ailleurs dans la CAE. L'élaboration des politiques est en outre compliquée par les processus d'urbanisation et l'augmentation des revenus, qui changent les modes de consommation et alimentent une hausse rapide de la demande de riz des consommateurs.</p><p>Bien que le choix de l'Ouganda d'appliquer le niveau de protection tarifaire le plus élevé ait permis de consolider l’essor de la production depuis 2000 (de plus du double, la production augmentant de 25&nbsp;% entre 2009/10 et 2014/15), la croissance de la demande des consommateurs, estimée à 9,5&nbsp;% par an, signifie que l'objectif d'autosuffisance n'est pas encore près d'être atteint. </p><p>Cette combinaison d’une hausse rapide de la demande des consommateurs et d’efforts visant à stimuler la production nationale face à l'extrême volatilité des prix mondiaux semble expliquer la flexibilité accordée aux gouvernements de la CAE pour fixer ce qu'ils considèrent comme des niveaux tarifaires appropriés à la situation nationale. Cela suggère également qu’il est nécesaire d'adopter une approche plus nuancée à l'égard des objectifs d'autosuffisance, étant donné l'augmentation rapide de la demande intervenue récemment.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis_fr.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																						
+								<a href="/fr/Publications/(regions)/7772/(search)/simple">Afrique de l'Est</a>
+																																																																																																														
+																																																																																																																																																																																																																																																																																																																																																				,
+
+							<a href="/fr/Agriculture/(commodities)/7893/(search)/simple">Céréales</a>
+							
+																																									
+							
+							
+		</div>
+		
+					<h1>En Tanzanie, relier les zones excédentaires aux marchés constitue un défi</h1>
+
+			<h4>
+			
+												02 novembre 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>à la mi-août 2014, le gouvernement tanzanien a « demandé aux commerçants et agences commerciales d’acheter et exporter le maïs en excédent suite aux excellentes récoltes » dans certaines régions. Les responsables paysans dans la région de Ruvuma avaient exprimé leurs craintes que les 300 000 tonnes de maïs récoltées dans cette région ne s’abîment faute de trouver des marchés.</p><p>Des analystes ont souligné que les agriculteurs manquaient de «&nbsp;connaissances sur les procédures nécessaires aux exportations&nbsp;» tandis que la capacité du gouvernement à acheter le maïs est limitée. Cette saison, l’Agence nationale de la réserve alimentaire de Tanzanie (Tanzania’s National Food Reserve Agency, NFRA) ne prévoit d’acheter «&nbsp;que 40&nbsp;000 tonnes dans les régions de Ruvuma, Iringa, Njombe, Rikwa et Mbeya&nbsp;». Néanmoins, le gouvernement travaille avec des agriculteurs pour les aider à trouver des marchés en dehors du pays et comprendre les exigences du marché.</p><p>Des représentants du gouvernement ont indiqué que «&nbsp;la porte était ouverte pour que les commerçants locaux achètent et vendent du maïs aux pays voisins (…) tous les documents sont disponibles dans nos bureaux, les acheteurs intéressés peuvent nous rendre visite pour s’informer sur les procédures&nbsp;». Ces fonctionnaires ont identifié des marchés pour le maïs tanzanien au Kenya, au Soudan et en RDC. Toutefois, au cours des semaines précédentes, le commissaire pour le district de Songea avait mis en garde les petits producteurs contre la vente de maïs à des négociants locaux, dans la mesure où ces derniers offraient des prix bas et réalisaient des marges très élevées en vendant aux consommateurs. Il avait conseillé aux agriculteurs «&nbsp;de vendre directement tous les excédents agricoles à l’Agence nationale de la réserve alimentaire ».</p><p>Les agriculteurs de Ruvuma travailleraient actuellement avec la Chambre de commerce, d’industrie et d’agriculture (TCCIA) pour vendre des milliers de tonnes de maïs à la RDC.</p><p>Ces développements doivent être considérés dans un contexte d’alertes indiquant que «&nbsp;quelque 20 millions de personnes sont confrontées à une insécurité alimentaire aiguë en Afrique de l’Est et centrale (contre 15,8 millions en juillet 2013). Le Groupe sur la sécurité alimentaire et la nutrition en Afrique de l’Est et centrale, un forum multi-acteurs, a émis des alertes sur une possible détérioration de la situation «&nbsp;en l’absence d’une action rapide&nbsp;».</p><p>Le directeur exécutif du Corridor Sud de la croissance agricole de Tanzanie (SAGCOT) a souligné les efforts déployés pour relancer la production à travers la fourniture de semences et engrais de qualité, mais noté qu’un plan pour «&nbsp;s’assurer qu’il existe des marchés fiables pour les produits [des agriculteurs]&nbsp;» était nécessaire.</p><p>Dans le même temps, un article publié dans <i>Business Monitor International</i> suggère que la Tanzanie est confrontée à des problèmes structurels dans ses efforts pour devenir un fournisseur régional de maïs compétitif, malgré d’immenses opportunités potentiellement disponibles. Des représentants de l’Association des exportateurs de Tanzanie ont laissé entendre que les dispositions administratives du gouvernement n’allaient pas dans le sens d’un soutien aux exportations, avec des difficultés, par exemple, à obtenir des permis d’exportation.</p><p>L’article demandait une révision de la politique d’exportation du gouvernement, afin de stimuler le commerce régional, en tenant compte des faibles capacités des producteurs, particulièrement en termes d’alphabétisation. Il soulignait également l’intérêt pour la TCCIA d’organiser les producteurs, les commerçants et les transporteurs en «&nbsp;clubs d’affaires à cibler pour des formations sur la mise à profit des immenses opportunités existant au sein du&nbsp;[Marché de la Communauté de l’Afrique de l’Est].</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>The Guardian</i> (Tanzanie), «&nbsp;Govt appeals to traders to buy, export surplus maize&nbsp;», 18 août 2014</p><p>
+<a href="http://www.ippmedia.com/frontend/?l=71134" target="_self">http://www.ippmedia.com/frontend/?l=71134</a></p><p>IRIN, «&nbsp;Food security alarm for East, Central Africa&nbsp;», 13 août 2014</p><p>
+<a href="http://www.irinnews.org/report/100482/food-security-alarm-for-east-central-africa" target="_self">http://www.irinnews.org/report/100482/food-security-alarm-for-east-centr...</a></p><p><i>The Guardian</i> (Tanzanie), «&nbsp;Government bans farmers to sell crops to local brokers&nbsp;», 10 août 2014</p><p>
+<a href="http://www.ippmedia.com/frontend/?l=70873" target="_self">http://www.ippmedia.com/frontend/?l=70873</a></p><p><i>The Citizen</i>, «&nbsp;TZ grain industry weak: Study&nbsp;», 2 août 2014</p><p>
+<a href="http://www.thecitizen.co.tz/Business/TZ-grain-industry-weak--study/-/1840414/2406030/-/kn9gl/-/index.html" target="_self">http://www.thecitizen.co.tz/Business/TZ-grain-industry-weak--study/-/184...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Commentaire éditorial</h3>
+			<p>La mise en place de systèmes d’information décentralisés pour aider les commerçants à accéder aux informations sur les exigences du commerce transfrontalier semblerait essentielle pour réduire les coûts des transactions pour les petits opérateurs. Pour le moment, la centralisation de ces fonctions fait du développement du commerce intra-régional un processus coûteux et chronophage, et une révision profonde de la politique gouvernementale comme des procédures opérationnelles semblerait nécessaire.</p><p>Une collaboration entre les ministères et la TCCI semblerait également très utile dans la fourniture d’informations aux producteurs sur les exigences pour le commerce dans les zones où la production est excédentaire – dans tous les domaines, depuis la facilitation de l’accès aux permis d’exportation et aux certificats SPS jusqu’à l’identification des marchés et la négociation des contrats.</p><p>Pendant ce temps, la Banque mondiale travaille à établir des modalités opérationnelles pour réduire les coûts du commerce transfrontalier à petite échelle en Afrique de l’Est et australe. Actuellement, les petits commerçants sont confrontés à des coûts beaucoup plus élevés que les gros opérateurs dans les transactions transfrontalières, cet état de fait étant très dissuasif pour une augmentation du commerce de céréales intra-régional (voir article <i>Agritrade</i> « De l’opportunité d’attirer le commerce informel des céréales vers le secteur formel&nbsp;», à paraître en 2014).</p><p>Bien que des efforts soient en cours en Tanzanie pour faciliter l’exportation de céréales, un engagement des acteurs régionaux semblerait essentiel. Cela inclut des organismes comme l’Eastern Africa Grain Council et l’East African Business Council. Les acteurs régionaux doivent traiter de questions aussi diverses que&nbsp;:</p>
+<ul>
+
+<li>établir des normes de qualité pour le commerce régional des céréales (en particulier en ce qui concerne les niveaux d’aflatoxines)&nbsp;;</li>
+
+<li>simplifier et décentraliser l’administration des exportations&nbsp;;</li>
+
+<li>mettre en œuvre des codes de conduite pour le traitement des commerçants transfrontaliers par les fonctionnaires.</li>
+
+</ul>
+<p>Une bonne part du commerce intra-régional étant informelle, il semblerait également nécessaire de relancer et mettre à profit l’initiative d’Association du commerce transfrontalier du COMESA (CBTA) et les institutions similaires dans la région.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis_fr.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																
+								<a href="/fr/Publications/(regions)/7772/(search)/simple">Afrique de l'Est</a>
+																																																																																																																																																																																																																																		,
+								<a href="/fr/Publications/(regions)/7775/(search)/simple">Afrique Australe</a>
+																																
+																																																																																																																																																																																																																																																																																																																																																				,
+
+							<a href="/fr/Agriculture/(commodities)/7893/(search)/simple">Céréales</a>
+							
+																																									
+							
+							
+		</div>
+		
+					<h1>Des perspectives pour attirer le commerce informel des céréales vers le secteur formel </h1>
+
+			<h4>
+			
+												05 novembre 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>La Banque mondiale a publié une note politique sur la possibilité d’améliorer le commerce transfrontalier informel de maïs, riz et haricots, proposant l’établissement d’une « charte pour les commerçants transfrontaliers ». La charte garantirait les droits et les obligations des commerçants comme des fonctionnaires, et serait destinée à promouvoir la formalisation du commerce des céréales et haricots. Elle pourrait tenter de s’appuyer sur les directives ministérielles existantes, mais pourrait aussi introduire un mécanisme de plainte crédible utilisant des lignes téléphoniques gratuites et un système de mesure de performance efficace.</p><p>La note politique explique qu’accepter l’intégration des commerçants informels dans l’économie formelle «&nbsp;stimulerait le commerce et la base du secteur privé pour une croissance et un développement futurs&nbsp;». Cela semble particulièrement important pour les femmes, qui représentent la majorité des commerçants transfrontaliers et pour lesquelles ce commerce est souvent la principale, voire l’unique, source de revenus.</p><p>À l’heure actuelle, les flux du commerce transfrontalier informel sont substantiels. On estime qu’en Afrique de l’Est, en 2013, 3 millions de tonnes de produits alimentaires de base ont été échangés de façon informelle. En Afrique australe, en 2011/2012, le commerce transfrontalier informel de maïs a été estimé à 139&nbsp;243 tonnes, celui de riz à 8&nbsp;485 tonnes et celui de haricots à 15&nbsp;380 tonnes.</p><p>Actuellement, les coûts des transactions transfrontalières «&nbsp;restent élevés pour les petits commerçants en Afrique&nbsp;». Dans une étude sur les postes-frontières entre le Malawi et la Zambie, les coûts étaient en moyenne supérieurs de 62&nbsp;% pour les petits commerçants par rapport aux commerçants du secteur formel. Cependant, ces coûts restent inférieurs aux coûts additionnels auxquels sont confrontés les petits commerçants s’ils souhaitent exercer dans le secteur formel – où leurs coûts sont estimés 125&nbsp;% plus élevés que ceux des gros commerçants.</p><p>La situation à la frontière du Malawi et de la Zambie – qui a fait l’objet d’une étude de cas incluse dans la note politique – est considérée comme révélatrice de problèmes plus généraux à travers la région. Les facteurs qui sont à l’origine d’une augmentation des coûts et incitent au commerce informel comprennent&nbsp;:</p>
+<ul>
+
+<li>des droits de douane et taxes élevés&nbsp;;</li>
+
+<li>des procédures aux frontières chronophages et inefficaces&nbsp;;</li>
+
+<li>une application des règles opaque ou arbitraire&nbsp;;</li>
+
+<li>le harcèlement et l’hostilité vis-à-vis des petits commerçants (en particulier des femmes) par les agents des douanes ;</li>
+
+<li>des exigences en matière d’inscription des commerçants et d’identification fiscale&nbsp;;</li>
+
+<li>la centralisation de l’administration des licences d’importation et d’exportation et des certificats SPS.</li>
+
+</ul>
+<p>L’étude affirme que, tandis qu’une série de régimes commerciaux simplifiés ont été lancés pour faciliter le commerce transfrontalier, «&nbsp;une multitude d’autres exigences demeurent et portent les coûts des petits commerçants à des niveaux non compétitifs&nbsp;».</p><p>En août 2014, le COMESA a entamé un dialogue avec les députés de la région sur la manière de s’assurer que les accords pour le commerce intra-régional en produits alimentaires de base sont rendus plus transparents et prévisibles. L’objectif est d’obtenir l’appui actif des députés pour faire en sorte que des mesures <i>ad hoc</i> affectant les importations et les exportations soient moins fréquemment utilisées. L’usage de telles mesures génère «&nbsp;des engorgements de marchés au niveau des producteurs&nbsp;», faisant ainsi baisser les prix payés aux producteurs et augmenter les coûts du commerce transfrontalier, au détriment des consommateurs et des objectifs de sécurité alimentaire.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>Banque mondiale, «&nbsp;Improving behaviour at borders to promote trade formalization: The Charter for Cross-Border Traders&nbsp;», par P. Brenton, N. Dihel, M. Hoppe et C. Soprano, <i>Policy Note</i> n°&nbsp;41, juillet 2013</p><p>
+<a href="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/07/30/000333037_20140730143706/Rendered/PDF/894730BRI0Char0Box0385291B00PUBLIC0.pdf" target="_self">http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2...</a></p><p><i>The East African</i>, «&nbsp;Comesa lobbies MPs to enact anti-food trade ban laws&nbsp;», 23 août 2014</p><p>
+<a href="http://www.theeastafrican.co.ke/business/Comesa-lobbies-MPs-to-enact-anti-food-trade-ban-laws-/-/2560/2428536/-/x9d76j/-/index.html" target="_self">http://www.theeastafrican.co.ke/business/Comesa-lobbies-MPs-to-enact-ant...</a></p><p>Malawi News Agency, «&nbsp;Government warns traders on maize exportation&nbsp;», 9 septembre 2014</p><p>
+<a href="http://allafrica.com/stories/201409091395.html" target="_self">http://allafrica.com/stories/201409091395.html</a></p><p><i>The Herald</i> (Harare), «&nbsp;Government tightens controls of GMO imports&nbsp;», 22 août 2014</p><p>
+<a href="http://allafrica.com/stories/201408220075.html" target="_self">http://allafrica.com/stories/201408220075.html</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Commentaire éditorial</h3>
+			<p>Établir des chartes des droits et obligations visant à améliorer la transparence comme l’efficacité des procédures aux frontières et réduire le harcèlement des commerçantes peut sembler essentiel pour ramener le commerce informel dans un cadre formel. Néanmoins, ces étapes doivent être complétées par d’autres mesures politiques.</p><p>Une politique gouvernementale plus vaste doit constamment apporter son soutien à des accords commerciaux transparents et efficaces. Un certain nombre d’expériences récentes dans la région mettent en lumière comment des décisions politiques gouvernementales plus larges peuvent saper les efforts de création d’accords opérationnels pour faciliter le commerce aux postes-frontières. Parmi celles-ci&nbsp;:</p>
+<ul>
+
+<li>les décisions des gouvernements d’interdire les exportations et de donner des instructions aux organismes veillant à l’application de la loi pour agir avec fermeté contre le commerce informel, dans un contexte où les projections envisagent une récolte nationale supérieure de 32&nbsp;% aux besoins de la consommation nationale&nbsp;;</li>
+
+<li>les actions du gouvernement allant dans le sens d’une centralisation de l’attribution des licences d’importation, soit sous le prétexte de renforcer les contrôles sur le commerce de maïs OGM, soit comme une façon d’assurer la sécurité alimentaire nationale.</li>
+
+</ul>
+<p>Davantage de cohérence et de transparence semblerait nécessaire s’agissant des politiques gouvernementales pour que les améliorations opérationnelles aux frontières soient effectives.</p><p>En Namibie, une étape positive vers le renforcement de mouvements transfrontaliers transparents et efficaces a été franchie, avec la collaboration entre des représentants d’associations du secteur privé et d’agents des douanes sur des questions administratives et techniques liées au commerce agricole. L’expertise technique sur les questions agricoles aide à s’assurer que les exigences techniques et de régulation sont respectées, tout en facilitant le commerce.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis_fr.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																											
+								<a href="/fr/Publications/(regions)/7773/(search)/simple">Afrique de l'Ouest</a>
+																																																																																																																		
+																																																																																																																																																																				,
+
+							<a href="/fr/Agriculture/(commodities)/7801/(search)/simple">Produits laitier</a>
+							
+																																																																																																																																																																																																																									
+							
+							
+		</div>
+		
+					<h1>FrieslandCampina reprend une entreprise laitière ivoirienne</h1>
+
+			<h4>
+			
+												06 novembre 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>Le 1<sup>er</sup> septembre 2014, la coopérative laitière néerlandaise FrieslandCampina, appartenant à des producteurs, a annoncé qu’elle avait acquis l’entreprise laitière Olam International en Côte d’Ivoire, de même que le droit d’utiliser la marque « Pearl »&nbsp; d’Olam pour le lait concentré sucré et le lait condensé « dans certains pays africains ». </p><p>L‘unité d’Olam à Abidjan « transforme du lait frais et de la poudre de lait local en lait concentré sucré et lait condensé pour le marché local&nbsp;», mais l’achat par la coopérative néerlandaise de la compagnie laitière Olam complète l’engagement existant de FrieslandCampina au Nigeria et sa présence sur les marchés d’exportation établis avec sa marque de lait condensé Bonnet Rouge (voir article <i>Agritrade</i> «&nbsp;
+<a href="/fr/Agriculture/Produits-de-base/Produits-laitiers/Developper-la-participation-des-entreprises-neerlandaises-dans-l-approvisionnement-local-de-lait-au-Nigeria" target="_blank">Développer la participation des entreprises néerlandaises dans l’approvi...</a>&nbsp;», 15 avril 2013).</p><p>Le directeur des relations médias de FriedslandCampina, Jan-Willem ter Avest, a décrit l’achat de l’entreprise laitière Olam en Côte d’Ivoire comme étant «&nbsp;une opportunité d’exporter de la poudre de lait depuis les Pays-Bas vers la Côte d’Ivoire&nbsp;».</p><p>Bien que faisant partie de la stratégie de long terme de FrieslandCampina, cette acquisition doit aussi être envisagée dans le contexte d’un marché touché par l’interdiction d’importation de la Russie sur les produits laitiers en provenance de l’UE. En 2013, FrieslandCampina a exporté du fromage vers la Russie pour une valeur de 50&nbsp;millions €. En réponse à l’embargo russe sur les importations, quelques marchés alternatifs ont été trouvés pour le fromage existant produit pour le marché russe, mais désormais «&nbsp;la production de fromage destinée au marché russe a été suspendue&nbsp;». Cela signifie que «&nbsp;davantage de poudre de lait est produite pour soulager le marché du fromage&nbsp;».</p><p>Cette acquisition doit aussi être considérée dans le contexte d’un déclin de 44&nbsp;% des prix de la poudre de lait aux enchères de GlobalDairyTrade courant 2014.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Dairyreporter.com</i>, «&nbsp;FrieslandCampina strengthens W African presence with Ivory Coast dairy deal&nbsp;», 1<sup>er</sup> septembre 2014</p><p>
+<a href="http://www.dairyreporter.com/Manufacturers/FrieslandCampina-strengthens-W-African-presence-with-Ivory-Coast-buy/" target="_self">http://www.dairyreporter.com/Manufacturers/FrieslandCampina-strengthens-...</a></p><p>FrieslandCampina, «&nbsp;Impact of Russian boycott on FrieslandCampina&nbsp;», 20 août 2014</p><p>
+<a href="http://www.frieslandcampina.com/english/news-and-press/news/corporate-news/2014-08-20-impact-of-russian-boycott-on-frieslandcampina.aspx" target="_self">http://www.frieslandcampina.com/english/news-and-press/news/corporate-ne...</a></p><p>Reuters, «&nbsp;FrieslandCampina buys Ivory Coast dairy business from Olam&nbsp;», 1<sup>er</sup> septembre 2014</p><p>
+<a href="http://in.reuters.com/article/2014/09/01/frieslandcampina-olam-acquisition-idINL5N0R228J20140901" target="_self">http://in.reuters.com/article/2014/09/01/frieslandcampina-olam-acquisiti...</a></p><p><i>Agrimoney.com</i>, «&nbsp;Dairy prices drop amid signs of capitulation&nbsp;», 3 septembre 2014</p><p>
+<a href="http://www.agrimoney.com/news/dairy-prices-drop-amid-signs-of-capitulation--7446.html" target="_self">http://www.agrimoney.com/news/dairy-prices-drop-amid-signs-of-capitulati...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Commentaire éditorial</h3>
+			<p>Qu’il s’agisse de l’acquisition, le 1<sup>er</sup> septembre 2014, par FrieslandCampina, de l’entreprise laitière Olam en Côte d’Ivoire, de la joint<i>-</i>venture de Arla avec Mata Holding en septembre 2013 pour reconditionner du lait en poudre en vrac dans ses nouvelles unités de transformation modulaires mobiles, de l’acquisition par Danone, en octobre 2013, de Fan Milk International ou du développement par Nestlé d’installations de transformation bon marché, un schéma commun transparaît dans les récents investissements des entreprises (voir articles <i>Agritrade&nbsp;</i>: «&nbsp;
+<a href="/fr/Agriculture/Produits-de-base/Produits-laitiers/Arla-lance-une-usine-de-conditionnement-de-lait-en-poudre-cle-en-main-en-Cote-d-Ivoire" target="_blank">Arla lance une usine de conditionnement de lait en poudre clé en main en...</a>&nbsp;», 27 octobre 2013&nbsp;; «&nbsp;
+<a href="/fr/Agriculture/Produits-de-base/Produits-laitiers/Danone-envisage-de-se-developper-en-Afrique-de-l-Ouest" target="_blank">Danone envisage de se développer en Afrique de l’Ouest</a>&nbsp;», 19 janvier 2014&nbsp;; «&nbsp;
+<a href="/fr/Agriculture/Produits-de-base/Produits-laitiers/Nestle-va-deployer-un-systeme-d-usines-modulaires-en-Afrique" target="_blank">Nestlé va déployer un système d’usines modulaires en Afrique</a>&nbsp;», 18 août 2014).</p><p>Ils impliquent tous, à différents degrés, l’établissement ou l’expansion de capacités locales de production de produits prêts à consommer à base de poudre de lait importée, contribuant ainsi à répondre rapidement à une demande africaine de produits laitiers en croissance rapide.</p><p>Ils fournissent également, bien sûr, un débouché pour la poudre de lait européenne, aussi bien dans le contexte de l’actuelle crise du marché résultant de l’interdiction russe d’importation de produits laitiers en provenance de l’UE qu’à la lumière de l’expansion prévisible des livraisons de lait européen aux laiteries suite à l’abolition des quotas de production laitière de l’UE.</p><p>Gérer la volatilité des prix des marchés laitiers mondiaux ou les perturbations des marchés fait partie intégrante des stratégies de développement des entreprises européennes. Établir des joint-ventures qui fournissent des débouchés pour la poudre de lait, indépendants de la volatilité des prix mondiaux et de la concurrence croissante des marchés chinois, peut être considéré comme un important moyen de gérer la volatilité. Étant donné la forte dépendance aux importations de la région d’Afrique de l’Ouest dans le secteur laitier, les investissements récents sembleraient suggérer que les marchés ouest-africains peuvent effectivement jouer ce rôle de «&nbsp;filet de sécurité&nbsp;». </p><p>Les investissements doivent être replacés dans un contexte mondial plus large où les entreprises aspirent à s’orienter vers des exportations de produits laitiers à haute valeur ajoutée, ciblant principalement les marchés au-delà de l’Afrique subsaharienne, où un pouvoir d’achat plus élevé existe (par ex. le marché des laits infantiles en Chine ou les exportations de fromages de marque différenciés en termes de qualité).</p><p>Néanmoins, cette tendance s’accorde mal avec les efforts nationaux et régionaux en Afrique pour promouvoir l’approvisionnement local en lait en réponse à la demande urbaine croissante de produits laitiers fabriqués commercialement. Une convergence d’intérêts temporairement opportune risque, pour des raisons purement commerciales, de devenir un système bien établi d’intégration des unités de transformation laitière africaines dans des pratiques d’approvisionnement en matières premières orientées vers l’extérieur. On pourrait ainsi voir, en réponse à la demande urbaine croissante dans quelques régions, le secteur laitier africain se développer largement sur la base de matières premières importées, sans accorder une attention suffisante aux contraintes très réelles existant dans le développement des liens en amont avec la production locale de lait. </p><p>En termes de commerce régional, les schémas d’investissement actuels pourraient avoir un impact important sur les flux commerciaux entre les régions productrices de lait et les zones côtières, et entre les zones côtières et les marchés de l’intérieur. Dans ce contexte, les produits de lait reconstitué fabriqués dans les zones côtières pourraient entrer en concurrence avec les produits laitiers de l’intérieur fabriqués à partir de lait local. Cela dépendra en partie de la façon dont les nouveaux investisseurs feront usage des chaînes de distribution existantes mises en place par les entreprises établies localement.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis_fr.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+								<a href="/fr/Publications/(regions)/7770/(search)/simple">Caraïbes</a>
+																																																																																																																																																																		
+																																																																																																																																																																																										,
+
+							<a href="/fr/Agriculture/(commodities)/7802/(search)/simple">Horticulture</a>
+							
+																																																																																																																																																																																																			
+							
+							
+		</div>
+		
+					<h1>Évolution des tendances de la demande et des opportunités d’exportation pour la patate douce, l’igname et les autres racines et tubercules</h1>
+
+			<h4>
+			
+												09 novembre 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>Les racines et tubercules ont traditionnellement été la seconde sous-catégorie la plus importante de production alimentaire dans les Caraïbes, avec des importations équivalant à environ 19 % de la production domestique et des exportations d’environ 5 % de la production nationale. Haïti et la Jamaïque ont traditionnellement dominé la production de racines et tubercules dans les Caraïbes (environ 90 %).</p><p>De informations de presse récentes suggèrent cependant que les exportations de racines et tubercules ont une importance croissante dans les Caraïbes. En juillet, il était indiqué qu’en 2013 «&nbsp;la Jamaïque avait exporté plus d’igname que l’ensemble de ses exportations agricoles traditionnelles&nbsp;». Cette tendance reflète un mouvement plus large de progression des exportations non traditionnelles, comme l’igname, le taro, la courge, la papaye et le poivre.</p><p>Cela traduit en partie l’évolution des modes de consommation dans d’importants marchés de pays développés, un certain nombre de cultures «&nbsp;ethniques&nbsp;» étant désormais courantes, et de grands distributeurs, comme Tesco et Walmart, fournissant désormais ce type de produits. On estime, par exemple, que la consommation américaine de patate douce a augmenté de 50&nbsp;% entre 2002 et 2012, à mesure que les bienfaits pour la santé de la patate douce ont été de plus en plus reconnus.</p><p>Dans ce contexte, le gouvernement jamaïcain doit lancer un cadre pour la plateforme d’exportations qui facilite les échanges entre fournisseurs et acheteurs en Jamaïque et à l’étranger. L’initiative est portée par «&nbsp;le Programme pour la compétitivité de l’agriculture (ACP) [du ministère de l’agriculture], en collaboration avec l’Institut inter-américain de coopération pour l’agriculture (IICA)&nbsp;». L’initiative comprend une formation pour les agriculteurs sur les opportunités de marché à l’exportation et les exigences des marchés, et un appui direct pour la commercialisation et la participation à des foires commerciales. Les exportateurs et le ministère reconnaissent que «&nbsp;la Jamaïque doit améliorer ses pratiques d’exportation, au moins en termes de cohérence, si elle souhaite que ses produits aient une place dans les rayons classiques&nbsp;».</p><p>Le ministre jamaïcain de l’agriculture a fait part d’«&nbsp;un intérêt fort du Consortium des produits frais du Royaume-Uni (FPC)&nbsp;», dont des représentants ont visité la Jamaïque pour «&nbsp;explorer les possibilités d’obtenir un approvisionnement en patate douce&nbsp;». Il a également indiqué que certains gros producteurs opérant dans les agroparcs soutenus par le gouvernement «&nbsp;négociaient déjà des contrats avec des acheteurs du Consortium des produits frais pour les approvisionner en patate douce&nbsp;». Le gouvernement aide maintenant les agriculteurs concernés à se conformer aux «&nbsp;bonnes pratiques agricoles&nbsp;» qui sont une exigence essentielle pour les exportations vers les acheteurs du FPC au Royaume-Uni.</p><p>Au-delà de la Jamaïque, le gouvernement de Trinité-et-Tobago promeut l’utilisation du manioc dans son programme d’alimentation scolaire, pour le mélanger à la farine et pour son usage dans l’alimentation animale. Cela fait partie de ses efforts pour favoriser les partenariats public-privé afin de réduire la facture des importations alimentaires du pays. La production d’igname, de manioc et de patate douce aurait augmenté respectivement de 15,2&nbsp;%, 52,2&nbsp;% et 58,2&nbsp;% entre 2012 et 2013.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>Caribbean Agribusiness, «&nbsp;Other roots and tubers&nbsp;», page web</p><p>
+<a href="http://www.agricarib.org/primary-dropdown/other-roots-and-tubers" target="_self">http://www.agricarib.org/primary-dropdown/other-roots-and-tubers</a></p><p><i>Jamaica Observer</i>, «&nbsp;Already on the rise, non-traditional crops mount new export Platform&nbsp;», 13 juillet 2014</p><p>
+<a href="http://www.jamaicaobserver.com/business/Already-on-the-rise--non-traditional-crops-mount-new-export-platform_17145046" target="_self">http://www.jamaicaobserver.com/business/Already-on-the-rise--non-traditi...</a></p><p><i>Bigpictureagriculture.com</i>, «&nbsp;Sweet potatoes gaining as regular potatoes losing ground&nbsp;», 28 août 2014</p><p>
+<a href="http://www.bigpictureagriculture.com/2014/08/sweet-potatoes-are-gaining-as-regular-potatoes-are-losing-ground.html" target="_self">http://www.bigpictureagriculture.com/2014/08/sweet-potatoes-are-gaining-...</a></p><p>Jamaica Information Service, «&nbsp;Agriculture ministry moves to boost non-traditional exports&nbsp;», 25 avril 2014</p><p>
+<a href="http://jis.gov.jm/agriculture-ministry-moves-boost-non-traditional-exports/" target="_self">http://jis.gov.jm/agriculture-ministry-moves-boost-non-traditional-exports/</a></p><p>OMC, «&nbsp;Examen des politiques commerciales: Membres de l’OMC qui font partie de l’Organisation des États des Caraïbes orientales (OECO)&nbsp;», point d’accès vers un rapport sur le commerce et les politiques, 17 et 19 juin 2014</p><p>http://www.wto.org/french/tratop_f/tpr_f/tp399_f.htm</p><p><i>Trinidad &amp; Tobago Guardian</i>, «&nbsp;New plan to boost use of cassava&nbsp;», 14 juillet 2014</p><p>
+<a href="http://www.guardian.co.tt/business/2014-07-14/new-plan-boost-use-cassava" target="_self">http://www.guardian.co.tt/business/2014-07-14/new-plan-boost-use-cassava</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Commentaire éditorial</h3>
+			<p>Un certain nombre de racines et tubercules ont longtemps été au centre de la consommation alimentaire dans les importantes économies insulaires des Caraïbes que sont la Jamaïque et Haïti, mais les évolutions des modes de consommation des pays étrangers ouvrent de nouvelles opportunités en matière d’exportations. Cela donne un nouveau souffle aux cultures traditionnelles de racines et tubercules. Ce sont des cultures pour lesquelles les producteurs des îles des Caraïbes peuvent potentiellement développer un réel avantage compétitif, étant donné les contraintes en terres que connaissent leurs systèmes d’exploitation.</p><p>L’augmentation actuelle des recettes provenant des exportations de cultures traditionnelles pourrait aider à rééquilibrer la facture croissante des importations de plusieurs économies insulaires des Caraïbes (le récent examen des politiques commerciales de l’OECO par l’OMC, par exemple, a noté que, depuis 2007, les états membres de l’OECO étaient devenus de plus en plus dépendants de produits alimentaires importés). Potentiellement, les exportations de cultures traditionnelles de racines et tubercules spécifiques (comme l’igname, la patate douce et le taro) pourraient aider les pays des Caraïbes à contourner quelques-unes des contraintes inhérentes à une production compétitive d’aliments en vrac et de produits agricoles.</p><p>L’identification de marchés d’exportation rentables et l’amorce d’un dialogue entre producteurs et importateurs sur les exigences du marché, les normes de qualité et les exigences des processus de production (bonnes pratiques agricoles) sont au centre du développement de ces opportunités d’exportation.</p><p>Un processus similaire d’identification des marchés et de dialogue avec les usagers finaux semble en cours à Trinité-et-Tobago, ciblant les marchés locaux pour les cultures de racines et tubercules (comme le manioc). Le repositionnement des cultures traditionnelles sur le marché international pourrait bien avoir pour corollaire une meilleure appréciation de la valeur des cultures traditionnelles dans les schémas de consommation alimentaire nationaux, les initiatives du type de celle lancée à Trinité-et-Tobago gagnant du terrain dans la région.</p><p>De la même façon, améliorer les normes de qualité pour les marchés d’exportation pourrait accroître l’attractivité commerciale de ces produits traditionnels sur les marchés domestiques, y compris les composantes des marchés touristiques qui demandent aux fournisseurs locaux une assurance qualité de l’alimentation de niveau international. Le lancement en Jamaïque de programmes gouvernementaux pour aider les producteurs à produire selon les exigences des détaillants et importateurs internationaux pourrait aussi fournir d’importantes garanties qui aident à renforcer l’attractivité commerciale des marchés nationaux et – si les normes SPS le permettent – régionaux.</p><p>Cette approche pourrait être source d’enseignements non seulement pour les autres économies insulaires des Caraïbes, mais aussi pour d’autres petits producteurs à travers les pays ACP. &nbsp;</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis_fr.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																
+								<a href="/fr/Publications/(regions)/7773/(search)/simple">Afrique de l'Ouest</a>
+																																																																																				
+																																,
+
+							<a href="/fr/Agriculture/(commodities)/7795/(search)/simple">Général</a>
+							
+																																																																																																																																																																																																																																																																																																																																																													
+							
+							
+		</div>
+		
+					<h1>Ebola menace la production et le commerce en Afrique de l’Ouest</h1>
+
+			<h4>
+			
+												12 novembre 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>En septembre 2014, la FAO a averti que l’épidémie de fièvre Ebola en Guinée, au Liberia et en Sierra Leone, « les trois pays d’Afrique de l’Ouest les plus affectés », perturbait la production alimentaire et le commerce des produits alimentaires de base. Elle a prévenu que les pénuries de main-d’œuvre «&nbsp;risquaient fortement de compromettre les prochaines récoltes&nbsp;» dans ces pays, où «&nbsp;des zones de quarantaine et de restriction aux mouvements des personnes&nbsp;» avaient aussi été introduites.</p><p>Ces restrictions aux déplacements des personnes ont également «&nbsp;entravé le mouvement et la commercialisation des aliments&nbsp;». Selon la FAO, cette situation a engendré « des achats dictés par la panique, des pénuries alimentaires et de fortes flambées des prix pour certaines denrées, en particulier dans les centres urbains&nbsp;». La FAO souligne que «&nbsp;ces dernières flambées des prix, [font que nombre de consommateurs urbains] ne peuvent plus du tout se permettre d’acheter des aliments&nbsp;» (particulièrement au Liberia et en Sierra Leone).</p><p>Ces développement ont sévèrement affecté une récolte qui s’annonçait bonne. Les représentants de la FAO craignent désormais que «&nbsp;l’insécurité alimentaire s’intensifie dans les semaines et les mois à venir&nbsp;». Il est probable que la situation actuelle «&nbsp;aura des impacts de long terme sur les moyens d’existence des agriculteurs et les économies rurales&nbsp;».</p><p>La FAO pense que «&nbsp;des mesures de relance du commerce interne sont essentielles pour surmonter les problèmes d’approvisionnement et atténuer les hausses de prix à venir&nbsp;». En réponse à la crise émergente, le Programme alimentaire mondial (PAM) des Nations unies «&nbsp;a lancé une opération d’urgence à l’échelle régionale prévoyant quelque 65&nbsp;000&nbsp;tonnes de nourriture en faveur de 1,3 million de personnes&nbsp;».</p><p>Les importations extra-continentales sont également affectées, les exportateurs de riz thaïlandais faisant état de difficultés croissantes à se procurer les navires pour livrer des cargaisons dans les ports d’Afrique de l’Ouest – les propriétaires de navires ayant des difficultés à recruter du personnel pour les livraisons en Afrique de l’Ouest, et les propriétaires de navire européens augmentant les tarifs du fret et imposant des surtaxes pour les transports vers les ports ouest-africains (voir article <i>Agritrade</i> «&nbsp;Le Guyana cherche à développer ses exportations de riz vers l’Afrique de l’Ouest&nbsp;», à paraître en 2014). Ces facteurs, outre le débarquement et le transbordement des marchandises <i>via </i>les ports moins gravement touchés pour les expédier par la route – pourraient grandement augmenter les coûts des livraisons de produits alimentaires dans les pays d’Afrique de l’Ouest atteints par Ebola dans les mois à venir.</p><p>Dans le même temps, afin de contrer le renchérissement des coûts dû à l’épidémie d’Ebola, le gouvernement du Liberia a cherché à réglementer les prix du riz et d’autres aliments de base. Cela s’est traduit par la mise en place de prix maximums que les détaillants et les consommateurs sont vivement priés de ne pas dépasser.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>FAO, «&nbsp;Afrique de l’Ouest&nbsp;: l’épidémie d’Ebola menace les récoltes et fait flamber les prix alimentaires&nbsp;», 2 septembre 2014</p><p>
+<a href="http://www.fao.org/news/story/fr/item/242226/icode/" target="_self">http://www.fao.org/news/story/fr/item/242226/icode/</a></p><p><i>Oryza.com</i>, «&nbsp;Oryza August 2014 rice market review&nbsp;», 8 septembre 2014</p><p>
+<a href="http://www.oryza.com/reports/monthly-review/oryza-august-2014-rice-market-review" target="_self">http://www.oryza.com/reports/monthly-review/oryza-august-2014-rice-marke...</a></p><p>Voice of America, «&nbsp;Thai rice shipments to West Africa curtailed by Ebola outbreak&nbsp;», 3 septembre 2014</p><p>
+<a href="http://www.voanews.com/content/thai-rice-shipments-to-west-africa-curtailed-by-ebola-outbreak/2436809.html" target="_self">http://www.voanews.com/content/thai-rice-shipments-to-west-africa-curtai...</a></p><p><i>The Inquirer</i> (Monrovia), «&nbsp;Gov’t adjusts prices for rice, others&nbsp;», 4 septembre 2014 
+<a href="http://allafrica.com/stories/201409041538.html?aa_source=slideout" target="_self">http://allafrica.com/stories/201409041538.html?aa_source=slideout</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Commentaire éditorial</h3>
+			<p>L’impact de l’épidémie d’Ebola sur la production et le commerce en Afrique de l’Ouest pourrait inciter les gouvernements de la région à intensifier leurs efforts pour faciliter les mouvements transfrontaliers formels de produits alimentaires de base, dans un contexte où les schémas d’importation changent, du fait de la réponse du transport maritime international à l’épidémie d’Ebola.</p><p>La création de «&nbsp;corridors humanitaires de transport&nbsp;» pour faciliter la circulation sécurisée de produits alimentaires de base à travers les frontières, afin de s’assurer que les pertes en vies humaines dues à l’épidémie d’Ebola ne sont pas considérablement multipliées par l’augmentation imminente de l’insécurité alimentaire, pourrait offrir une opportunité pour accélérer la mise en œuvre de projets anciens visant à faciliter le commerce des produits céréaliers en Afrique de l’Ouest (voir article <i>Agritrade</i> «&nbsp;
+<a href="/fr/Agriculture/Produits-de-base/Cereales/Examen-des-contraintes-qui-pesent-sur-le-commerce-regional-des-cereales-en-Afrique-de-l-Ouest" target="_blank">Examen des contraintes qui pèsent sur le commerce régional des céréales...</a> », 12 mai 2013).&nbsp;</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis_fr.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																						
+								<a href="/fr/Publications/(regions)/7772/(search)/simple">Afrique de l'Est</a>
+																																																																																																														
+																																																																																																																																																																																																																																																																																																																																																				,
+
+							<a href="/fr/Agriculture/(commodities)/7893/(search)/simple">Céréales</a>
+							
+																																									
+							
+							
+		</div>
+		
+					<h1>Les importations de maïs ont un impact sur le prix du maïs kényan </h1>
+
+			<h4>
+			
+												16 novembre 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>D'après des informations parues dans la presse d’Afrique de l’Est, les importations de maïs en provenance des pays voisins ont engendré une baisse des prix de « plus de 40 pour cent » dans certaines régions de la Rift Valley. En août, le prix proposé par les négociants de maïs aux agriculteurs est passé de 3 300 KSh à 2 000 KSh (soit d'environ 30&nbsp;€ à 18&nbsp;€) par sac de 90 kg sur un mois. D'après les négociants, les minotiers proposaient des prix bas parce que les «&nbsp;importations de maïs provenant essentiellement d'Ouganda et de Tanzanie ont envahi les marchés à Eldoret, Kitale et d'autres villes de l'Ouest du Kenya&nbsp;». La presse citait des responsables du ministère de l'agriculture déclarant que quelque 1,8 million de sacs de maïs ont été importés de la CAE entre août et octobre 2014. </p><p>La chute des prix a créé des problèmes pour les négociants de maïs, nombre d'entre eux optant pour le stockage, dans l'attente d'une hausse des prix consécutive aux prévisions d'un déficit de maïs de 10 millions de sacs. </p><p>Toutefois, d'autres informations de presse suggèrent que les importations pourraient ne pas être l'unique raison de la chute des prix, affirmant que «&nbsp;les prix du maïs dans le nord de la Rift Valley ont atteint leur niveau le plus bas en huit mois, les agriculteurs ayant libéré les produits qu’ils avaient stockés&nbsp;». Craignant une augmentation des importations qui auraient eu un impact encore plus important sur les prix, les agriculteurs ont commencé à libérer les stocks. </p><p>À la mi-août 2014, on suggérait dans la presse que la production ne dépasserait pas le seuil inférieur de la fourchette citée par le secrétaire du Cabinet – soit 34 millions de sacs, contre un objectif de 42 millions de sacs. Cette situation a conduit la National Drought Management Authority du Kenya et la Croix-Rouge kényane à tirer la sonnette d'alarme au sujet d’une «&nbsp;famine imminente après une période de sécheresse prolongée&nbsp;». </p><p>Le secrétaire du Cabinet de l'agriculture du Kenya, Felix Koskei, a réfuté les informations faisant état de pénuries de maïs. Il a précisé que le pays avait une «&nbsp;réserve de 2,9 millions de sacs&nbsp;» dans les dépôts NCPB, un chiffre qui devrait augmenter à 3,4 millions de sacs (comparé à une réserve optimale de 5 millions de sacs). M. Koskei a fait valoir que le caractère abordable du maïs était une question plus importante pour les ménages à déficit vivrier. </p><p>Des incertitudes persistent toutefois&nbsp;: des précipitations moins importantes et une résurgence de la maladie virale touchant le maïs continuent de susciter quelques craintes.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>The Star</i>, «&nbsp;Imports affect maize prices in Rift Valley&nbsp;», 27 août 2014</p><p>
+<a href="http://www.the-star.co.ke/news/article-186776/imports-affect-maize-prices-rift-valley" target="_self">http://www.the-star.co.ke/news/article-186776/imports-affect-maize-price...</a></p><p><i>Business Daily</i>, «&nbsp;Maize prices fall in North Rift on high supply&nbsp;», 26 août 2014</p><p>
+<a href="http://www.businessdailyafrica.com/Corporate-News/Maize-prices-fall-in-North-Rift-on-high-supply-/-/539550/2431806/-/leefl3/-/index.html" target="_self">http://www.businessdailyafrica.com/Corporate-News/Maize-prices-fall-in-N...</a></p><p><i>Daily Nation</i>, «&nbsp;Koskei allays maize shortage fears&nbsp;», 27 août 2014</p><p>
+<a href="http://mobile.nation.co.ke/counties/-/1950480/2432974/-/format/xhtml/-/5q5t59z/-/index.html" target="_self">http://mobile.nation.co.ke/counties/-/1950480/2432974/-/format/xhtml/-/5...</a></p><p><i>Daily Nation</i>, «&nbsp;Looming crisis as maize virus strikes&nbsp;», 26 août 2014</p><p>
+<a href="http://mobile.nation.co.ke/counties/Looming-crisis-maize-virus-strikes/-/1950480/2431650/-/format/xhtml/-/pysxv1z/-/index.html" target="_self">http://mobile.nation.co.ke/counties/Looming-crisis-maize-virus-strikes/-...</a></p><p><i>Business Daily</i>, «&nbsp;Drop in maize prices hits North Rift traders&nbsp;», 28 août 2014</p><p>
+<a href="http://www.businessdailyafrica.com/Corporate-News/Drop-in-maize-prices-hits-North-Rift-traders/-/539550/2433836/-/133a8dg/-/index.html" target="_self">http://www.businessdailyafrica.com/Corporate-News/Drop-in-maize-prices-h...</a></p><p><i>Business Daily</i>, «&nbsp;Pressure on flour price as maize production drops by 8 m bags&nbsp;», 20 août 2014</p><p>
+<a href="http://www.businessdailyafrica.com/Pressure-on-flour-price-as-maize-production-drops-by-8m-bags/-/539546/2425818/-/h54di8z/-/index.html" target="_self">http://www.businessdailyafrica.com/Pressure-on-flour-price-as-maize-prod...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Commentaire éditorial</h3>
+			<p>La situation incertaine de l'offre de maïs au Kenya met en lumière un certain nombre de problèmes affectant le secteur du maïs du pays. Avant tout, il y a l’absence de facilités de crédit pour les agriculteurs, ce qui les contraint à vendre leur maïs immédiatement après la récolte pour pouvoir subvenir aux besoins du ménage et acheter des intrants. Ceci provoque une surabondance temporaire de maïs sur le marché et entraîne une chute immédiate des prix. La diversification de la production, afin d'assurer un flux plus régulier de revenus pour les ménages, pourrait offrir une solution à ce problème, tout comme l'utilisation plus fréquente des systèmes de récépissé d'entrepôt.</p><p>Un deuxième problème rencontré est lié à la gestion des importations, qui arrivent souvent au pays pendant la récolte ou un peu avant le début de celle-ci. Si les livraisons des importations de maïs étaient mieux gérées, les fluctuations saisonnières des prix pourraient être réduites. Cela permettrait de diminuer les pressions des prix sur les consommateurs et les pressions des revenus sur les producteurs. Toutefois, l'ampleur du commerce informel transfrontalier en Afrique de l'Est vient sérieusement compliquer les efforts visant à gérer le commerce de maïs. </p><p>La question de la gestion du commerce est étroitement corrélée à celle de l'information de marché. Malgré les efforts consentis par l’Eastern Africa Grain Council et son système régional d'information de marché, la dissémination des informations étant assurée par le Regional Agricultural Intelligence Network (RATIN), il est encore nécessaire d'améliorer les informations sur les niveaux de stocks détenus par les minotiers, les négociants, le National Cereals and Produce Board du Kenya et les agriculteurs. Ceci est compliqué par l'absence de progrès sur un troisième problème, à savoir la nécessité de renforcer le fonctionnement de la chaîne d'approvisionnement de maïs. Actuellement, il y a peu d'accords contractuels formels convenus entre les producteurs de maïs et les minotiers. Le développement d'un cadre plus efficace pour les accords contractuels entre les producteurs de maïs et les minotiers pourrait contribuer à améliorer le fonctionnement des chaînes d'approvisionnement de maïs et réduire les fluctuations de prix. </p><p>La dernière difficulté dans le secteur du maïs – qui explique en partie pourquoi les prix du maïs peuvent chuter de manière si drastique malgré une famine imminente – est l'environnement des affaires. Une infrastructure déficiente, le manque de financement du commerce et l'insécurité dans les régions arides et semi-arides du Kenya sujettes aux famines rendent l'approvisionnement commercial de maïs vers ces régions en grande partie non viable, la distribution d'aliments dans les régions arides sujettes aux sécheresses restant l’apanage du gouvernement et des ONG.&nbsp;<i>&nbsp;</i></p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis_fr.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																				
+								<a href="/fr/Publications/(regions)/7775/(search)/simple">Afrique Australe</a>
+																																
+																																																																												,
+
+							<a href="/fr/Agriculture/(commodities)/7797/(search)/simple">Viande bovine</a>
+							
+																																																																																																																																																																																																																																																																																																																	
+							
+							
+		</div>
+		
+					<h1>Répondre aux défis SPS dans le secteur du bétail d'Afrique australe : dimensions nationales et régionales</h1>
+
+			<h4>
+			
+												16 novembre 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>L'introduction par le gouvernement sud-africain de contrôles sanitaires et phytosanitaires (SPS) plus stricts sur les importations de bétail en mai 2014 a mis en lumière l'importance de réponses flexibles à la fois du gouvernement et du secteur privé aux défis SPS, ainsi que de la diversification de marché et de l'investissement dans la transformation à plus forte valeur ajoutée. </p><p>Lors d'une réunion de la Namibian Livestoch Producers Organisation en août 2014, il a été indiqué que, pour répondre aux défis SPS, le gouvernement namibien avait pris des dispositions rapides pour restructurer son Département des services vétérinaires «&nbsp;afin d’augmenter la capacité en matière de vaccinations et de tests&nbsp;» et examiné les possibilités d'accréditation de vétérinaires privés pour augmenter immédiatement la capacité technique à satisfaire aux exigences de vaccinations et de tests. L'organe de coordination de l'industrie namibienne de la viande, le Meat Board, a pour sa part envisagé «&nbsp;huit nouvelles fonctions contractuelles pour pallier le déficit temporaire de capacité en matière de vaccinations et de tests », et a ébauché un «&nbsp;document normalisé qui reflète clairement les exigences concernant les exportations&nbsp;» pour le marché sud-africain. </p><p>Ces actions sont intervenues parallèlement au dialogue bilatéral sur la manière de satisfaire de manière rentable aux exigences SPS sud-africaines, vu le statut sanitaire favorable de la Namibie. </p><p>Les actions mettent en perspective les efforts en cours de la SADC pour opérationnaliser l'annexe SPS au Protocole commercial SADC qui a été convenu en 2008. Ces efforts sont actuellement intensifiés avec l'aide de l'UE dans le cadre du Programme régional de soutien à l'intégration économique (REIS), étant donné l'importance croissante des questions SPS en tant que barrière au commerce intra-régional. En mettant l'annexe SPS en œuvre, on espère que cela renforcera non seulement la protection de la santé humaine, végétale et animale dans la région SADC grâce à l’amélioration des capacités nationales de mise en œuvre, mais que cela fournira également un forum pour aborder les questions SPS et résoudre les différends SPS. </p><p>Toutefois, les efforts de la SADC, comme l’a illustré l'atelier d’experts d'août 2014 en Tanzanie, sont essentiellement axés sur le partage d'informations et, avec l'aide du programme REIS de l'UE, sur la formation des parties prenantes aux exigences SPS. </p><p>S'agissant des discussions sur les politiques SPS, à ce jour, le Comité de coordination SPS de la SADC s’est principalement attaché à mettre en place un forum de discussion à l’échelon régional sur des thèmes présentés aux forums internationaux, tels que l'Organisation mondiale de la santé animale (OIE), la Convention internationale pour la protection des végétaux (IPPC), le Codex Alimentarius et le Comité SPS de l'OMC. </p><p>En termes de diversification du marché, le Meat Board de la Namibie explore plus activement les possibilités de commercialisation de bétail et des produits issus du bétail en Angola, en République démocratique du Congo et en Zambie, et il examine également le secteur caprin au Moyen-Orient. Par ailleurs, des efforts sont également entrepris pour augmenter la capacité des parcs d'engraissement, afin qu’un plus grand nombre d'animaux soient élevés localement pour transformation avant exportation. Les perturbations des exportations vers l'Afrique du Sud pour des raisons SPS de mai 2014 ont été décrites comme étant un «&nbsp;avertissement pour la Namibie, l’incitant à encourager davantage d'investisseurs à investir dans les abattoirs locaux et les parcs d'engraissement&nbsp;».&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>New Era</i>, «&nbsp;Namibia: Livestock producers positive – new frontiers to be explored&nbsp;», 21 août 2014</p><p>
+<a href="http://allafrica.com/stories/201408210972.html" target="_self">http://allafrica.com/stories/201408210972.html</a></p><p>SADC, «&nbsp;Addressing SPS issues in the SADC region&nbsp;», 20 août 2014</p><p>
+<a href="http://www.sadc.int/news-events/news/addressing-sps-issues-sadc-region/" target="_self">http://www.sadc.int/news-events/news/addressing-sps-issues-sadc-region/</a></p><p><i>Tanzania Daily News</i>, «&nbsp;SADC experts brainstorm on food safety measures in Dar&nbsp;», 27 août 2014</p><p>
+<a href="http://allafrica.com/stories/201408271515.html" target="_self">http://allafrica.com/stories/201408271515.html</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Commentaire éditorial</h3>
+			<p>Les discussions des experts SPS de la SADC et les discussions bilatérales Namibie-Afrique du Sud sur la mise en œuvre des mesures SPS dans le secteur du bétail soulignent l'ampleur des aspects qui doivent encore être traités avant de s’acheminer vers des mécanismes régionaux efficaces pour gérer la question de plus en plus importante des barrières SPS au commerce.</p><p>Les paramètres d'un mécanisme régional pour débattre des questions SPS et résoudre les différends SPS sont en place, la majorité des États membres de la SADC ayant, à des degrés divers, pris des mesures pour transposer dans le droit national les dispositions SPS convenues au niveau régional. Toutefois, le processus d'harmonisation des dispositions de l'Annexe SPS au Protocole commercial SADC avec la législation nationale, ainsi que les dispositions de l'OIE, de l'IPPC et du Codex Alimentarius, n’est pas encore achevé.</p><p>En outre, bien qu'un système de notifications des problèmes de sécurité des denrées alimentaires et SPS soit officiellement en place, celui-ci n'est pas encore opérationnel. Une consultation est organisée en collaboration avec le Trade Hub à Gaborone pour mettre en place les structures nécessaires permettant d’aborder et de résoudre les problèmes SPS, un rapport provisoire étant prévu pour fin novembre 2014.</p><p>Par ailleurs, les différends continuent d'être gérés sur une base bilatérale. Ceci commence généralement par des discussions au niveau technique, qui évoluent en discussions au niveau politique à défaut de trouver un accord. Toutefois, une nouvelle dimension apparue dans le différend sur le bétail entre la Namibie et l'Afrique du Sud est le recours aux cours et tribunaux pour contester des mesures SPS déterminées au niveau national (voir article <i>Agritrade</i> «&nbsp;
+<a href="/fr/Agriculture/Produits-de-base/Viande-bovine/Reouverture-du-commerce-de-betail-entre-la-Namibie-et-l-Afrique-du-Sud-par-une-decision-de-justice" target="_blank">Réouverture du commerce de bétail entre la Namibie et l'Afrique du Sud p...</a>&nbsp;», 12 octobre 2014).</p>
+		</div>
+		
+
+	</article>
+
+
+</section>			
+
+
+
+
+
+
+
+				
+
+
+						<!-- center container ] -->
+			</div>
+			
+
+
+		
+		<div style="clear:both;"></div>
+
+
+		</section>
+		<!-- content container ] -->
+
+		<footer class="container">
+
+			<!-- [ bottom container -->
+			<div id="sitemap">
+	<a class="sitemap_toggle closed" href="#">Plan du site</a>
+	<nav>
+		<div class="links agri">
+			<h3>Agriculture</h3>
+			<div class="column">
+				<ul>
+					<li><em>Sujets</em></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Accord-de-l-OMC">Accord de l'OMC</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/APE">APE</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-UE">Accords de libre-échange UE</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP">Accords de libre-échange ACP</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Commerce-regional-ACP">Commerce régional ACP</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Acces-au-marche">Accès au marché</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/SPS-Securite-des-aliments">SPS / Sécurité des aliments</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Differenciation-des-produits">Différenciation des produits</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Reforme-de-la-PAC">Réforme de la PAC</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Biocarburants">Biocarburants</a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Changement-climatique">Changement climatique </a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Aide-au-commerce">Aide au commerce </a></li>
+					
+					<li><a href="/fr/Agriculture/Sujets/Autres">Autres</a></li>
+									</ul>
+			</div>
+
+			<div class="column">
+				<ul>
+					<li><em>Produits de base</em></li>
+
+										<li><a href="/fr/Agriculture/Produits-de-base/General">Général</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Banane">Banane</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Viande-bovine">Viande bovine</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Cacao">Cacao</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Cafe">Café</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Coton">Coton</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Produits-laitiers">Produits laitiers</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Horticulture">Horticulture</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Oleagineux">Oléagineux</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Volaille">Volaille</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Riz">Riz</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Rhum">Rhum</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Sucre">Sucre</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Cereales">Céréales</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/The">Thé</a></li>
+										<li><a href="/fr/Agriculture/Produits-de-base/Autres">Autres</a></li>
+									</ul>
+			</div>
+
+		</div>
+		<div class="links">
+			<h3>Pêche</h3>
+		<ul>
+		
+			<li><a href="/fr/Peche/Sujets/Acces-au-marche">Accès au marché</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/Relations-ACP-UE-APP">Relations ACP-UE ; APP</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE">Politique commune de la pêche de l'UE</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/Accord-de-l-OMC">Accord de l'OMC</a></li>
+		
+			<li><a href="/fr/Peche/Sujets/News-from-the-IOC-region">News from the IOC region</a></li>
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Régions</h3>
+		<ul>
+					
+				<li><a href="/fr/Regions/Globale">Globale</a></li>
+						
+					
+				<li><a href="/fr/Regions/UE">UE</a></li>
+						
+															
+					<li><a href="/fr/Regions/ACP/Surface-transport-slow">Surface transport slow</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Groupe-ACP">Groupe ACP</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Caraibes">Caraïbes</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-Centrale">Afrique Centrale</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-de-l-Est">Afrique de l'Est</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-de-l-Ouest">Afrique de l'Ouest</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Pacifique">Pacifique</a></li>
+				
+					<li><a href="/fr/Regions/ACP/Afrique-Australe">Afrique Australe</a></li>
+							
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Publications</h3>
+			<ul>
+			
+				<li><a href="/fr/Publications/Actualites-et-analyses">Actualités et analyses</a></li>
+			
+				<li><a href="/fr/Publications/Newsletter">Newsletter</a></li>
+			
+				<li><a href="/fr/Publications/Notes-de-synthese">Notes de synthèse</a></li>
+			
+				<li><a href="/fr/Publications/Interviews">Interviews</a></li>
+			
+				<li><a href="/fr/Publications/Rapports-a-la-une">Rapports à la une</a></li>
+			
+				<li><a href="/fr/Publications/Compendium">Compendium</a></li>
+						</ul>
+		</div>
+
+
+
+		<div class="links last">
+			<h3>Liens</h3>
+			<ul>
+			
+				<li><a href="http://agritrade.cta.int/en" target="_blank">Agritrade</a></li>
+			
+				<li>My Agritrade</li>
+			
+				<li><a href="http://www.cta.int/en/CTA-Portals" target="_blank">CTA Web Portals</a></li>
+			
+				<li><a href="http://brussels.cta.int/index.php" target="_blank">CTA Brussels Office Weblog</a></li>
+			
+				<li>ARD WebRing</li>
+			
+				<li><a href="http://spore.cta.int/" target="_blank">Spore </a></li>
+			
+				<li><a href="http://ictupdate.cta.int/" target="_blank">ICT Update</a></li>
+			
+				<li><a href="http://knowledge.cta.int/" target="_blank">Knowledge for Development</a></li>
+			
+			</ul>
+		</div>
+	</nav>
+</div>
+
+
+
+			<!-- bottom container ] -->
+
+			<!-- [ footer container -->
+			<div id="footer">
+				<div class="footerleft">
+					<div class="icon_left">
+						<img src="/extension/agritrade/design/agritrade/images/icon1.gif" alt=""/>
+					</div>
+
+					<div class="text_center">
+						
+																					
+
+	<div class="block custom ">
+
+		
+		<p>Le CTA est une institution du Groupe des Etats ACP (Afrique, Caraïbes et Pacifique) et de l'Union Européenne, dans le cadre de l'Accord de Cotonou. Le CTA est financé par l'UE.
+
+		
+		</p>
+
+	</div>													
+					</div>
+
+					<div class="icon_right">
+						<img src="/extension/agritrade/design/agritrade/images/icon2.gif" alt=""/>
+					</div>
+				</div>
+
+				<div class="footerright">
+											
+
+	<div class="block links">
+		
+									<p><a href="/fr/Bienvenue-sur-Agritrade" target="_blank">À propos et Contact</a></p>
+												<p><a href="/fr/Bienvenue-sur-Agritrade/Notice-legale">Notice légale </a></p>
+					
+	</div>
+											
+
+	<div class="block custom ">
+
+		
+		<p>Centre Technique de Coopération Agricole et Rurale (CTA) (ACP-UE Accord de Cotonou) Droit d'auteur CTA © 2011
+
+		
+		</p>
+
+	</div>									</div>
+
+			</div>
+			<!-- footer container ] -->
+
+		</footer>
+
+	</div>
+	<!-- main container ] -->
+
+</div>
+<!-- wrapper ] -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-724238-5";
+urchinTracker();
+</script>
+
+
+
+<script type="text/javascript">
+  var _sf_async_config = { uid: 39651, domain: 'agritrade.cta.int' };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+        "js/chartbeat.js");
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":466,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

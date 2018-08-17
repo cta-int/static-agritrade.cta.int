@@ -1,0 +1,263 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Report highlights potential for developing organic market in African countries / Product differentiation / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																																									
+		
+		<div class='contentrealtionlist'>
+							
+																																																							
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																																																																																																																																																																																																																																																																																																																																																																							,
+								<a href="/en/layout/set/print/Publications/(regions)/7771/(search)/simple">Central Africa</a>
+																																																																																																																																	,
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																																																																															,
+								<a href="/en/layout/set/print/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																																																																																																																									,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																															
+							
+																																																																																																																																																																																																																																																															,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7818/(search)/simple">Product differentiation</a>
+							
+																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/8254/(search)/simple">Market access</a>
+							
+																																
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Report highlights potential for developing organic market in African countries</h1>
+
+			
+			<h4>
+												25 December 2010
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The African Trade Policy Centre (ATPC) has published a report based on research in East Africa that highlights the potential of organic cultivation for African farmers and exporters. The report, ‘Scaling up organic agriculture and enhancing its foreign market access: Lessons learned from Eastern Africa’, ‘examines the relationship between organic agriculture and food security in Africa, analysing the impact of organic agriculture on food availability as well as on the natural, social, human, physical and financial capital in the region’ and brings recommendations ‘intended to assist African countries and, in particular, exporters involved in the organic agriculture sector’, including building capacity to market the produce on international markets.</p><p>The organic sector is still very small in East Africa, ‘but growing very fast’, and has developed over two decades without ‘formal government policy support’, but with the support of private sector and NGOs. ‘Consequently, the sector has encountered many challenges’, including in terms of regulation, marketing and access to credit. However the report argues that ‘if the market for organic products is developed with cooperation and responsibility, the familiar mistakes of conventional trade may be avoided and consumer needs met’.</p><p>Several recommendations were made in the light of the study’s findings in East Africa. In terms of policy and regulation, the report recommends:</p>
+<ul>
+
+<li>the ‘formulation of clear policies on organic agriculture’, focusing on small-scale producers and on strengthening organic farmers’ associations and NGOs ‘so that they can play a major role in the marketing of organic produce and the dissemination of organic technologies among small-scale producers’;</li>
+
+<li>the ‘formulation of laws in favour of organic agriculture’; </li>
+
+<li>the establishment of ‘National Organic Agriculture Committees (NOACs) including Government and all stakeholders in the sector’, to give guidance to policy making. </li>
+
+</ul>
+<p>In terms of market development, the report recommends:</p>
+<ul>
+
+<li>the ‘expansion and broadening of the domestic market, especially the existing supermarkets and food chains’, and the promotion of organic produce by the relevant agencies, ‘by supporting public procurement of such products’ and ‘through sensitisation of consumers and publicity campaigns, especially through the media’. </li>
+
+<li>the ‘supporting and strengthening of the NGOs, [community-based organisations] and private businesses, ... encouraging them to build linkages between producers, traders and consumers’; </li>
+
+<li>‘the establishment of local mechanisms for regulation of the organic agriculture sector through affordable and transparent inspection and certification’;</li>
+
+<li>the ‘documenting of the contribution of organic products to the total volume of export agriculture produce in the respective African countries.’</li>
+
+</ul>
+<p>The report also makes recommendations for research, education and public awareness, including provision of information on marketing opportunities to producers through affordable, accessible media. There are also recommendations for the planning of export sales through research of export potential as well as target markets; use of ‘marketing instruments, including product adjustment and pricing and selecting specific trade channels’; and through the establishment of ‘new business connections, including expertise in the handling of export business’.</p><p>Many other regions are already scaling up their organic sector or noting the export potential of the growing international organic market. In Peru for example, press agency Andina reports that the country’s organic bananas exports to the EU continue to grow, having increased by 3% between 2009 and 2010. An article from Freshplaza reports on the potential of organic agriculture for Latin America and the Caribbean, noting that at present, ‘although they represent 23% of the total area cultivated in the world, Latin America and the Caribbean only generate 5% of the organic products sold in the world.’</p><p>In Europe, speaking at the Biozone fair in Brittany, France, EU Agriculture Commissioner Dacian Cioloş said that the EC was considering giving EU member states more options for supporting organic agriculture. A few weeks later, Bruno Le Maire, French Minister for Agriculture, ‘pledged a spend of €6 million for the country’s organic sector. … In total, in 2010, over €100 million will be dedicated to organic production, the [French] Department of Agriculture said, including €10 million for conversions [from conventional to organic farming] initiated this year.’</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>
+African Trade Policy Centre, Economic Commission for Africa, ‘Scaling up Organic Agriculture and Enhancing its Foreign Market Access: Lessons Learned from Eastern Africa’, Work in progress No. 80, 2010. <br />
+
+<a href="http://www.uneca.org/atpc/Work%20in%20progress/80.pdf" target="_self">http://www.uneca.org/atpc/Work%20in%20progress/80.pdf</a><br />
+Fructidor, ‘Les exportation de bananes bio augmentent’, 21 October 2010 (in French)<br />
+
+<a href="http://www.fructidor.fr/article/les-exportations-de-bananes-bio-augmentent--9378.aspx" target="_self">http://www.fructidor.fr/article/les-exportations-de-bananes-bio-augmente...</a>&nbsp;<br />
+Freshplaza.com, ‘Costa Rica: Organic agriculture to take advantage of attractive market opportunities’, 13 September 2010<br />
+
+<a href="http://www.freshplaza.com/news_detail.asp?id=68614" target="_self">http://www.freshplaza.com/news_detail.asp?id=68614</a><br />
+Farmers Weekly Interactive, ‘Organic farmers to get boost under EU plans’, 14 September 2010<br />
+
+<a href="http://www.fwi.co.uk/Articles/2010/09/14/123452/Organic-farmers-to-get-boost-under-EU-plans.htm" target="_self">http://www.fwi.co.uk/Articles/2010/09/14/123452/Organic-farmers-to-get-b...</a><br />
+Ausfoodnews.com.au, ‘French Ministry of Agriculture to invest in organic sector’, 4 October 2010<br />
+<a href="http://www.ausfoodnews.com.au/2010/10/04/french-ministry-of-agriculture-to-invest-in-organic-sector.html" target="_self">http://www.ausfoodnews.com.au/2010/10/04/french-ministry-of-agriculture-...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Despite the price premium to be gained from organic farming, the two-to-three year conversion process and certification before reaching that stage can be difficult, as well as prohibitively expensive, particularly for small farmers unable to benefit from economies of scale. Local certifiers in Kenya, for example, are charging approximately US$620 as application fee to farmers with holdings under 50ha, with a further inspection fee of up to US$500 for an international inspector. Collective groups of farmers are charged an application fee of US$2,300 as well as inspection fees.</p><p>The ATPC report showed that when the countries researched were dependent on external standards for certification and regulation of organic production and exports, the stringent requirements were difficult to meet. However, a regional private-public partnership worked with international support to develop one organic standard for East African countries. In addition, regional certification agencies are starting to gain international accreditation, with for example Africert achieving ISO 65 accreditation.</p><p>Experience in East Africa has shown key interventions that can be taken by African governments to develop this market, including promoting the development of a national or regional organic standard appropriate to developing country technologies and that also achieves international recognition in key export markets; facilitating the establishment of certification bodies with mechanisms for the provision of affordable inspection and certification services; taking measures to improve farmers’ access to formal credit and to financial support during the transitional conversion period, or investigating the potential to grant tax credits for this purpose; supporting advisory and extension services; and supporting the development of domestic and international organic supply chains. While many of these are still ‘work in progress’ in East Africa as indeed elsewhere, the ATPC study brings useful analysis and recommendations in this respect for ACP countries aiming to develop their organic sector.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+											
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Fisheries/Topics/News-from-the-IOC-region/Enhancing-the-supply-chain-of-the-octopus-fishery-in-Mauritius-and-Rodrigues-and-crabs-in-Madagascar">Enhancing the supply chain of the octopus’ fishery in Mauritius and Rodrigues and crabs in Madagascar</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Rwanda-institutes-a-legal-mechanism-towards-regulation-of-dairy-industry-to-boost-its-growth">Rwanda institutes a legal mechanism towards regulation of dairy industry to boost its growth</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/First-Ever-Cattle-Online-Market-in-Kenya">First Ever Cattle Online Market in Kenya</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Progress-on-More-Milkit-Program-in-Tanzania-Traders-receive-training-in-developing-bankable-business-plans">Progress on More Milkit Program in Tanzania-Traders receive training in developing bankable business plans</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Kenya-expands-Meat-Fruits-and-Vegetables-export-Market-to-Qatar">Kenya expands Meat, Fruits and Vegetables export Market to Qatar </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":140,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

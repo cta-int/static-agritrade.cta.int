@@ -1,0 +1,285 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>South Africa selectively raises duties on five poultry items within WTO bound ceilings / Poultry / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																										
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+																																																																																																																																																																																																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7804/(search)/simple">Poultry</a>
+							
+																																																																																																																																																							
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>South Africa selectively raises duties on five poultry items within WTO bound ceilings</h1>
+
+			
+			<h4>
+												16 November 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>On 5 August 2013, South Africa’s International Trade Administration Commission (ITAC) “submitted its recommendation for an increase of import duties on five poultry products” to the South African government. These recommendations were made on the basis of the market situation in the whole of the SACU region. At the end of September, formal notification of the duty increases was published: the recommended duty increases were accepted and entered into effect from 1 October 2013.</p><p>Duties were increased most on products consumed by higher-income households. Whole birds, which constitute a small percentage of the SACU market, and boneless cuts – both of which are consumed primarily by higher-income households – were subject to the highest proportional increase in duties.</p><p>Poultry products consumed by poor households, such as offal and carcasses, were subject to relatively low rates of tariff increase, while bone-in portions, which accounted for 70% of domestic poultry sales and 54% of imports in 2012, were subject to an <i>ad valorem</i> duty rather than a specific duty.</p><p>A statement by the Department of Trade and Industry (DTI) argued that the duty increases had balanced the interests of domestic poultry producers with the consumption needs of poor households.</p><p><b>South African poultry tariff changes</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="92" valign="top">  Tariff line
+  </td><td width="130" valign="top">  Product
+  </td><td width="130" valign="top">  Share of imports %
+  </td><td width="130" valign="top">  Existing duty&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; %
+  </td><td width="130" valign="top">  Recommended duty %
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  0207.1.90
+  </td><td width="130" valign="top">  Whole bird
+  </td><td width="130" valign="top">  1
+  </td><td width="130" valign="top">  27
+  </td><td width="130" valign="top">  82 (bound rate)
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  0207.14.10
+  </td><td width="130" valign="top">  Boneless cuts
+  </td><td width="130" valign="top">  11
+  </td><td width="130" valign="top">  5
+  </td><td width="130" valign="top">  12
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  0207.14.90
+  </td><td width="130" valign="top">  Bone-in portions
+  </td><td width="130" valign="top">  54
+  </td><td width="130" valign="top">  18 (220c/kg)
+  </td><td width="130" valign="top">  37
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  0207.14.20
+  </td><td width="130" valign="top">  Offal
+  </td><td width="130" valign="top">  5
+  </td><td width="130" valign="top">  27
+  </td><td width="130" valign="top">  30
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  0207.12.20
+  </td><td width="130" valign="top">  Carcasses
+  </td><td width="130" valign="top">  2
+  </td><td width="130" valign="top">  27
+  </td><td width="130" valign="top">  31
+  </td>
+</tr>
+
+</table>
+<p>Source: ITAC Report no. 442 and DTI media statement (see below)</p><p>Rob Davies, the Trade and Industry Minister, said that the new tariffs were introduced following an increase in imports and decline in domestic SACU poultry production. He maintained that the duty increases were “not directed at any particular country”, since they will apply to all countries exporting to South Africa except the EU, which has free access to the SACU market for the affected poultry products under the Trade, Development and Cooperation Agreement (TDCA). The Minister argued that “the use of the policy space provided by the WTO could not be considered to be protectionist.”</p><p>The South African Poultry Association (SAPA) welcomed the decision, but expressed disappointment that “the full tariff increases as applied for have not been implemented.” As SAPA had requested that the tariff be increased to 82% for all affected products, it expressed concern that the tariff increases would be “insufficient to stem the massive amount of imports”.</p><p>Chicken importers, in contrast, maintained that “the poor would bear the brunt of the duty increases.”</p><p>The DTI attached a number of conditions in its statement, including that:</p>
+<ul>
+
+<li>the tariff increases would be subject to regular review to assess their impact;</li>
+
+<li>the Minister expected established poultry companies to make “meaningful undertakings to support the development of small-scale poultry farmers” and to avoid any actions that undermined “fair competition in the domestic market”.</li>
+
+</ul>
+
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>DTI South Africa, ‘Media statement by the Department of Trade and Industry on tariff increases with respect to certain poultry products’, 30 September 2013</p><p>
+<a href="http://www.thedti.gov.za/editmedia.jsp?id=2842" target="_self">http://www.thedti.gov.za/editmedia.jsp?id=2842</a></p><p><i>Mail and Guardian</i>, ‘Chicken price to rise as SA increases poultry tariffs’, 1 October 2013</p><p>
+<a href="http://www.tralac.org/2013/10/01/chicken-price-to-rise-as-sa-increases-poultry-tariffs/" target="_self">http://www.tralac.org/2013/10/01/chicken-price-to-rise-as-sa-increases-p...</a></p><p><i>Fin24.com</i>, ‘Chicken tariff hike ruffles feathers’, 1 October 2013</p><p>
+<a href="http://www.fin24.com/Economy/Chicken-tariff-hike-ruffles-feathers-20130930" target="_self">http://www.fin24.com/Economy/Chicken-tariff-hike-ruffles-feathers-20130930</a></p><p>ITAC, ‘Increase in the rates of customs duty on frozen meat of fowls of the species Gallus Domesticus: Whole bird, boneless cuts, bone-in-portions, carcasses and offal’, Report no. 442, 2 August 2013</p><p>
+<a href="http://www.itac.org.za/docs/Report%20442.pdf" target="_self">http://www.itac.org.za/docs/Report%20442.pdf</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>It should be noted that the tariff increases do not apply to poultry product imports from the EU, given the provisions of the EU–South Africa TDCA which allow duty-free access for these products to the SACU market. The EU has been a major source of imports of poultry products since 2010, particularly for the largest category of imports, bone-in portions (54% of total poultry product imports). In 2012, the EU accounted for 69% of imports of bone-in portions, up from a 39% share in 2010. (See <i>Agritrade</i> articles ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Poultry/Expanding-EU-poultry-exports-could-increasingly-target-South-Africa" target="_blank">Expanding EU poultry exports could increasingly target South Africa</a>’, 8 September 2013, and ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Poultry/South-African-poultry-sector-problems-compounded-by-rising-EU-exports" target="_blank">South African poultry sector problems compounded by rising EU exports</a>’, 15 April 2013.)</p><p>The fact that the new tariffs do not apply to imports from the EU poses a significant challenge, and could complicate South Africa’s poultry trade relations with major exporters such as Brazil and the USA.</p><p>In terms of intra-SACU trade in poultry products, it should be recalled that in April 2013 the Namibian government, acting under the Import and Export Control Act 1994, established a quantitative limit on poultry product imports into Namibia of 600 tonnes per month. The Namibian import restrictions are to be implemented via a system of import permits. The Namibian measures apply to imports of poultry meat from all sources, including South Africa and the EU. It is the use of these types of measure that the EU is seeking to restrict as part of the ongoing SADC–EU EPA negotiations.&nbsp;</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Poultry-value-chain-Zambia-Power-deficits-hits-poultry-sector">Poultry value chain/Zambia – Power deficits hits poultry sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Informal-markets-require-support-to-aid-food-safety">Informal markets ‘require support to aid food safety’</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Poultry/South-Africa-imposes-preliminary-anti-dumping-duties-on-specific-EU-member-states-frozen-poultry-cuts">South Africa imposes preliminary anti-dumping duties on specific EU member states’ frozen poultry cuts</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/Reciprocity-may-be-the-price-required-to-maintain-South-Africa-s-access-to-AGOA-benefits">Reciprocity may be the price required to maintain South Africa’s access to AGOA benefits </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Poultry/FAO-2014-outlook-for-global-poultry-sector-developments">FAO 2014 outlook for global poultry sector developments</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":154,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

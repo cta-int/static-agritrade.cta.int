@@ -1,0 +1,423 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>No. 4: ACP-EU sugar-sector issues / Key policy issues / Agritrade documents / Resources / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																																									
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																					
+																																																																																																																							,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7813/(search)/simple">EPAs</a>
+							
+																																																																																													,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7814/(search)/simple">EU FTAs</a>
+							
+																																									,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7815/(search)/simple">ACP - FTAs</a>
+							
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																											,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7822/(search)/simple">Aid for trade</a>
+							
+																																																																																																																																																																							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>No. 4: ACP-EU sugar-sector issues</h1>
+
+			
+			<h4>
+												21 June 2008
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>&nbsp;</p><a name="eztoc121625_0_1" id="eztoc121625_0_1"></a><h3>EU reform measures and the primary impact on ACP countries</h3><p> In October 2005 the EU agreed to reforms of the EU sugar regime involving:</p>
+<ul>
+
+<li> a voluntary quota cut of 6 million tonnes (in exchange for restructuring aid);</li>
+
+<li> the introduction of direct aid payments in the sugar sector (part coupled and part decoupled); </li>
+
+<li> the dismantling of intervention buying after a four-year transition which will result in a 36% reduction in the price offered for ACP raw sugar exported under the sugar protocol by October 2009.</li>
+
+</ul>
+<p><b>Changes in prices for ACP raw sugar</b> </p><table class="renderedtable" border="medium none" cellpadding="2" cellspacing="0">
+<tr>
+<td width="144" valign="top">   <b>Year</b> 
+  </td><td width="111" valign="top">   <b>Price per tonne</b> 
+  </td><td width="151" valign="top">   <b>% change (cumulative)</b> 
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">   Un-reformed price
+  </td><td width="111" valign="top">   €523.7
+  </td><td width="151" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">   2006/07
+  </td><td width="111" valign="top">   €496.8
+  </td><td width="151" valign="top">   - 5.1%
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">   2007/08
+  </td><td width="111" valign="top">   €496.8
+  </td><td width="151" valign="top">   - 5.1%
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">   2008/09
+  </td><td width="111" valign="top">   €448.8
+  </td><td width="151" valign="top">   -16.7%
+  </td>
+</tr>
+
+<tr>
+<td width="144" valign="top">   2009/10
+  </td><td width="111" valign="top">   €335.0
+  </td><td width="151" valign="top">   -36.0%
+  </td>
+</tr>
+
+</table>
+<p> The new EU sugar regime came into force on July 1st 2006, with the first year of application running for 15 months, after which the sugar-marketing year will run from October to September.</p><a name="eztoc121625_0_2" id="eztoc121625_0_2"></a><h3>Initial EU implementation difficulties</h3><p> Initial difficulties in securing voluntary quota cuts, led to a temporary reduction of the EU sugar quota by 2 million tonnes and the proposal that if voluntary cuts were not forthcoming compulsory uncompensated cuts would be necessary, with the greatest burden falling on those countries which had not undertaken voluntary reductions. In addition on May 7th 2007 a programme of supplementary support measures was announced designed to encourage more millers to ‘voluntarily’ give up sugar-production quotas. This stimulated companies to give up quotas, with the EC target being broadly met.</p><a name="eztoc121625_0_3" id="eztoc121625_0_3"></a><h3>Secondary impact on the ACP</h3><p> An important secondary impact of the EU sugar-sector reform is the globalisation of the corporate activities of EU sugar-sector players. EU sugar companies are now busy restructuring, diversifying and going global in their production and trading operations. The most notable development in this regard is the acquisition by Associated British Foods (ABF) of a 51% share in the South African-based regional sugar giant, Illovo. Illovo’s competitor, Tongaat-Hulett is reportedly seeking a European partner to facilitate its access to an evolving EU market. Other European sugar companies are also taking shareholdings in other ACP sugar sectors (including the French company Terreos in Mozambique).</p><p> These developments will potentially have profound implications on how ACP countries market their sugar into the EU. Given the way that EU import-licensing arrangements for sugar will be opened up from 2010, and the way that the EU market is to be opened up to increased competitive pressures, these developments could have profound implications for the nature of the ACP-EU sugar trade and the wider pattern of development of ACP sugar sectors.</p><a name="eztoc121625_0_4" id="eztoc121625_0_4"></a><h3>Renunciation of the sugar protocol </h3><p> On September 29th 2007 the EU Council of Ministers took the decision to unilaterally denounce the sugar protocol. The EU Council held the ‘denunciation does not prejudge a subsequent mutual agreement between the Community and the ACP states on the treatment of sugar in the context of comprehensive EPAs’. The EC sought to highlight that ‘for the new arrangement to come into legal effect, our current arrangement for sugar must change’, since if sugar-trading arrangements were to be taken into regional EPAs, discrimination could not be maintained between members of an EPA grouping. The Commission further argued that the sugar protocol is ‘not compatible with the reform of the EU’s sugar regime, which is bringing an end to guaranteed prices for the EU’s own producers’. Therefore the EU ‘cannot justify paying guaranteed prices for Caribbean (and ACP) producers when we are no longer guaranteeing prices for our own producers’.</p><a name="eztoc121625_0_5" id="eztoc121625_0_5"></a><h3>EPA Sugar Arrangements</h3><p> Subsequent to the denunciation of the sugar protocol ACP-sugar trade relations with the EU were incorporated into the comprehensive and interim EPAs. While the EPA arrangements nominally removed all remaining duties on exports to the EU, sugar was an exception with special transitional arrangements being set in place. These arrangements are a hybrid comprising regionally-specific quotas and moves to duty-free, quota-free access within ACP-wide safeguard provisions. This has created the following situation at the ACP level:</p>
+<ul>
+
+<li> <b>Phase 1: (</b> <b>January 1st 2008-September</b> <b> 30th 2009)</b> 
+<ul>
+
+<li> continuation of the sugar protocol until September 30th 2009 with guaranteed prices equivalent to those obtained under the sugar protocol;</li>
+
+<li> substantial improvement of LDC market-access for the marketing year 2008/09;</li>
+
+<li> additional market access for ACP non-LDCs both party and not party to the sugar protocol.</li>
+
+</ul>
+ </li>
+
+<li> <b>Phase 2: (</b> <b>October 1st 2009-September</b> <b> 30th 2015)</b> 
+<ul>
+
+<li> Free access for ACP sugar subject to an automatic volume-safeguard applicable first to ACP non-LDCs;</li>
+
+<li> an automatic safeguard with a ‘dual trigger’ (3.5 million tonnes for the ACP as a whole with the following ceilings for non-LDCs: 1.38 million tonnes in 2009/10; 1.45 million tonnes in 2010/11; 1.6 million tonnes from the 2011/2012 season for the following four seasons);</li>
+
+<li> until September 2012, importers of ACP sugar would be required to pay not less than 90% of the reference price for the relevant marketing year. After 2012, a price-information system based upon the current system would provide for transparency of the market, with prices being determined by the market;</li>
+
+<li> for a limited number of processed agricultural products with high sugar content an enhanced surveillance mechanism will be applied in order to prevent circumvention of the basic sugar-import regime.</li>
+
+</ul>
+ </li>
+
+<li> <b>Phase 3: From </b> <b>October 1st 2015</b> 
+<ul>
+
+<li> ACP sugar would be duty-free, quota-free subject to a special safeguard clause, based on the regular EPA safeguard, but adjusted for the sensitivity of sugar</li>
+
+</ul>
+ </li>
+
+</ul>
+<p> This ACP-wide arrangement, which is designed to minimise market disruptions in the EU during the transitional period in the sugar sector, provides the framework for the region-specific sugar arrangements which have been established.</p><p> Subsequent to these broad commitments, the additional ACP market access for 2008/09 (230,000 tonnes w.s.e.) was set out in the EPA implementing regulation. It appears as if country level allocations of these additional regional quotas will be left to the regions concerned. Although it is by no means clear how this will be reconciled with the division between increased LDC and non-LDC supplies which the EC has in mind.</p><p><b>Summary of additional regional quotas in the 2008/09 season (tonnes w.s.e.)</b> </p><table class="renderedtable" border="medium none" cellpadding="2" cellspacing="0">
+<tr>
+<td width="95" valign="top">   <b>Caribbean</b> 
+  </td><td width="95" valign="top">   <b>SADC</b> 
+  </td><td width="95" valign="top">   <b>EAC</b> 
+  </td><td width="95" valign="top">   <b>ESA</b> 
+  </td><td width="95" valign="top">   <b>Pacific</b> 
+  </td><td width="95" valign="top">   <b>Total</b> 
+  </td>
+</tr>
+
+<tr>
+<td width="95" valign="top">   60,000
+  </td><td width="95" valign="top">   50,000
+  </td><td width="95" valign="top">   15,000
+  </td><td width="95" valign="top">   75,000
+  </td><td width="95" valign="top">   30,000
+  </td><td width="95" valign="top">   230,000
+  </td>
+</tr>
+
+</table>
+<a name="eztoc121625_0_6" id="eztoc121625_0_6"></a><h3>Issues arising: transitional issues</h3><p> The December 2007 additional quotas de <i> facto</i> replace the SPS/CQ access which was formally available to ACP countries, with in some regions the new quota being below the level of exports which took place under the CQ arrangements (e.g. Swaziland is 47% below).</p><p> If countries have not signed an EPA then they are not eligible for access to the additional regional quotas. Thus if Zambia and Malawi continue to desist from signing, they will be ineligible for any allocations from the additional regional sugar quotas allocated under this new arrangement. </p><p> The ‘regionalisation’ of quotas, means suppliers from within individual regions will have first call on meeting any regional shortfalls in supply. Thus any national shortfall in supply in the Caribbean will be met from other Caribbean suppliers. This poses problems for those ACP sugar suppliers, who are the only suppliers to the EU market in their regions (e.g. Fiji), since they will face difficulties in picking up any unutilised quotas.</p><a name="eztoc121625_0_7" id="eztoc121625_0_7"></a><h3>Issues arising: longer-term price prospects</h3><p> The EPA sugar arrangements have resulted in a substantial weakening of the price guarantees formerly granted to ACP suppliers. After October 2009 the only price guarantee is that 90% of the reference price will be paid. If supplies of sugar to the EU market increase, or internal surpluses emerge, a floor price of €301.5 per tonne could emerge, resulting in a further reduction in the price paid for ACP sugar. From October 2012 even this price guarantee will disappear, with prices paid for ACP sugar being market-determined. Thus the price prospects for ACP sugar look uncertain even without taking into account the likely introduction of a further round of reforms in the sugar sector, as part of the 2013 round of CAP reforms. If the US dollar continues to be weak and the EU goes ahead with its commitment to end export refunds by 2013, this could require a further round of cuts in the EU sugar price in order to close the gap between EU and world market prices further. If the price falls to €301.5 per tonne and the US $ rose to 1.26 to the Euro, then the EU price would be equivalent to a world market price of 17.24 c/lb. However since the EU price is c.i.f. and the world market price is f.o.b. for there to be no additional value on the EU market under this scenario world market prices would only need to rise to around 15 c/lb (17 c/lb if the US $ was around 1.45 to the Euro).</p><p><b>Evolution of price guarantees for ACP Sugar</b> </p><table class="renderedtable" border="medium none" cellpadding="2" cellspacing="0">
+<tr>
+<td width="92" valign="top">  &nbsp;
+  </td><td width="59" valign="top">   <b>2000/01</b> 
+  </td><td width="69" valign="top">   <b>2001/02</b> 
+  </td><td width="69" valign="top">   <b>2002/03</b> 
+  </td><td width="69" valign="top">   <b>2003/04</b> 
+  </td><td width="69" valign="top">   <b>2004/05</b> 
+  </td><td width="69" valign="top">   <b>2005/06</b> 
+  </td><td width="70" valign="top">   <b>2006/07</b> 
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">   Raw sugar Price €/tonne 
+  </td><td width="59" valign="top">   € 523.7
+  </td><td width="69" valign="top">   € 523.7
+  </td><td width="69" valign="top">   € 523.7
+  </td><td width="69" valign="top">   € 523.7
+  </td><td width="69" valign="top">   € 523.7
+  </td><td width="69" valign="top">   € 523.7
+  </td><td width="70" valign="top">   €496.8
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  &nbsp;
+  </td><td width="59" valign="top">   2007/08
+  </td><td width="69" valign="top">   2008/09
+  </td><td width="69" valign="top">   2009/10
+  </td><td width="69" valign="top">   2010/11
+  </td><td width="69" valign="top">   2011/12
+  </td><td width="69" valign="top">   2012/13
+  </td><td width="70" valign="top">   2013/14
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">   Raw sugar Price €/tonne 
+  </td><td width="59" valign="top">   €496.8
+  </td><td width="69" valign="top">   €448.8
+  </td><td width="69" valign="top">   Not less than 90% of €335.0
+  </td><td width="69" valign="top">   Not less than 90% of €335.0
+  </td><td width="69" valign="top">   Not less than 90% of €335.0
+  </td><td width="69" valign="top">   Market related prices
+  </td><td width="70" valign="top">   Market related prices
+  </td>
+</tr>
+
+</table>
+<a name="eztoc121625_0_8" id="eztoc121625_0_8"></a><h3> An overview of the change</h3><p> Formerly ACP sugar suppliers benefited from </p>
+<ul>
+
+<li> country-specific quotas and immunity from safeguard measures;</li>
+
+<li> a high guaranteed price for the raw sugar supplied to a pre-determined set of processors;</li>
+
+<li> recourse to a buyer of last resort (EU intervention agencies), if no commercial buyer for their sugar could be found in the EU at the guaranteed price.</li>
+
+</ul>
+<p> Under the post reform, post-sugar protocol arrangement the following situation will prevail:</p>
+<ul>
+
+<li> no country quotas, but duty-free, quota-free access within safeguard ceilings (total 3.5 million tonnes, non-LDCs up to 1.6 million tonnes), in a context of a finite level of dedicated cane-sugar refining capacity and declining prices;</li>
+
+<li> the high guaranteed price will be reduced by at least 36%, with the possibility of further price cuts between 2012 and 2015;</li>
+
+<li> the role of the EU intervention agencies as ‘buyers of last resort’ will be abolished;</li>
+
+<li> new avenues to the EU market for ACP produced sugar will be opened up.</li>
+
+</ul>
+<p> This will create a situation of increased competition between raw cane sugar suppliers on the EU market in a context of: </p>
+<ul>
+
+<li> a substantial decline in EU sugar prices; </li>
+
+<li> rapidly escalating freight costs (freight charges have tripled in the last four years); </li>
+
+<li> finite dedicated cane-sugar refining capacity;</li>
+
+<li> uncertain location and possible supplementary freight charges on supplies to former beet refiners. </li>
+
+</ul>
+<p> This will fundamentally change the economics of ACP cane-sugar trade with the EU.</p><a name="eztoc121625_0_9" id="eztoc121625_0_9"></a><h3>The policy response</h3><p> Dramatic changes are taking place both in the EU sugar market and in terms of the full exploitation of the biomass potential of sugar-cane for commercial purposes. This provides the context for the ACP policy response. Leaving aside issues of diversification, sugar sector adjustments should fully take into account the evolving nature of EU sugar markets and the scope opened up under EPAs for exporting a more diversified range of sugar products. Development of production of a more diversified range of sugar products should be market led and should seek to target ‘luxury purchase’ sugar markets (e.g. fair trade sugar markets, or the ‘quality’ sugar markets epitomised by the Barbados Plantation Reserve sugar) or value added sugar product markets. Efforts to enhance competitiveness, as well as cost reduction measures should embrace the full exploitation of the biomass potential of sugar cane (by electricity co-generation, ethanol production or alcohol production for niche markets).</p><p> However, pro-actively engaging with these issues will constitute a major challenge. Addressing these challenges should be central to the deployment of the €1.2 billion made available under the sugar-protocol accompanying-measures programme. This programme has so far been criticised by ACP sugar sectors for the slowness of disbursements, the complexity of its procedures and lack of focus on core, market-related, sugar-sector issues. Ensuring swift and effective deployment of EU assistance in support of market-led, time-sensitive adjustment processes remains a major unresolved issue in ACP-EU sugar-sector relations.</p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+											
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/Regional-perspectives-on-changing-EU-ACP-sugar-sector-relations-The-impact-of-duty-free-quota-free-access-on-ACP-exporters">Regional perspectives on changing EU-ACP sugar sector relations: The impact of duty-free, quota-free access on ACP exporters</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/Corporate-restructuring-in-the-EU-sugar-sector-Implications-for-the-ACP">Corporate restructuring in the EU sugar sector: Implications for the ACP</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Key-policy-issues/No.-4-ACP-EU-sugar-sector-issues">No. 4: ACP-EU sugar-sector issues</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/EU-sugar-sector-reform-implications-for-ACP-countries">EU sugar-sector reform: implications for ACP countries</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/A-review-of-the-EU-sugar-sector-action-plan">A review of the EU sugar-sector action plan</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":170,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

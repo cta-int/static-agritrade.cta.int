@@ -1,0 +1,247 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Trade policy reforms and investments in Nigerian rice sector continue / Rice / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																						
+								<a href="/en/layout/set/print/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																				
+																																																																																																																																																																																																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7805/(search)/simple">Rice</a>
+							
+																																																																																																																																	
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Trade policy reforms and investments in Nigerian rice sector continue</h1>
+
+			
+			<h4>
+												25 October 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>Nigeria’s revised rice sector policy, which offers lower tariffs on imports of rice to companies investing in domestic rice production and processing, is currently being implemented (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Rice/Nigeria-further-extends-levy-concessions-to-support-rice-sector-backward-linkages" target="_blank">Nigeria further extends levy concessions to support rice sector backward...</a>’, 24 August 2014).</p><p>In July 2014, this led to further announcements of investment by both local and international commodity companies in rice production. Dangote Industries announced an expansion of its rice sector investments from US$300 million to US$1 billion, covering 150 ha spread across five states. Dangote Industries envisages expanding rice production in association with smallholder growers, who will provide production inputs from the company and have a ready market for the growers’ production.</p><p>Similarly, at the opening of the integrated rice milling facility’s 6,000 ha greenfield project in Nasarawa state, Olam’s managing director for Africa and the Middle East announced a scaling up of rice sector investments to a total of 10,000 ha. Some 3,000 ha of land is already under irrigated and mechanised rice production, reportedly producing 36,000 tonnes, with a further 3,000 ha to be developed in 2015.</p><p>According to Olam, “together the farm and the mill are expected to boost smallholder rice production in the region through a ‘nucleus and outgrower farming model’”, under which Olam provides “training, pre-finance, agri-inputs and marketing linkages” designed to improve the rice yields of smallholder farmers, while providing a ready market at “a fair market price”.</p><p>While 3,000 farmer are currently involved, the aim is to involve some 16,000 farmers by 2018 and ultimately 20,000, when smallholder farmers will be expected to provide between 30 and 40% of the rice mill’s needs.</p><p>According to Olam representatives, the scheme “demonstrates how large-scale commercial farms could work hand in hand with smallholder farmers to achieve the government’s agricultural transformation agenda.” The scheme is held as evidence of the validity of the Nigerian government approach to treating “agriculture as a business, while enabling the private sector to drive growth of the sector”. It is also seen as evidence of the impact of the policy of providing incentives to firms that contribute to the attainment of government sector policy objectives.</p><p>According to President Jonathan, “the private sector is responding strongly to our rice policy, as the number of rice mills has grown from just one three years ago to 18 today.” It is maintained that “these mills are producing high quality local rice that meets international standards and competes well with imported rice.”</p><p>However, according to FAO, in 2014 “Nigeria is forecast to harvest 4.6 million tonnes (2.8 million tonnes, milled basis), 2 percent less than the 2013 high, largely on expectations of a less favourable climate”.</p><p><b>Nigeria’s rice production and imports (tonnes milled basis)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="154" valign="top">  &nbsp;
+  </td><td width="154" valign="top">  <b>2012/13</b>
+  </td><td width="154" valign="top">  <b>2013/14</b>
+  </td><td width="154" valign="top">  <b>2014/15</b>
+  </td>
+</tr>
+
+<tr>
+<td width="154" valign="top">  Production
+  </td><td width="154" valign="top">  2,370,000
+  </td><td width="154" valign="top">  2,772,000
+  </td><td width="154" valign="top">  2,550,000
+  </td>
+</tr>
+
+<tr>
+<td width="154" valign="top">  Imports
+  </td><td width="154" valign="top">  2,400,000
+  </td><td width="154" valign="top">  3,000,000
+  </td><td width="154" valign="top">  3,500,000
+  </td>
+</tr>
+
+</table>
+<p>Source: USDA: ERS, ‘Rice outlook’, 14 August 2014, Tables 9 and 11, 
+<a href="http://www.ers.usda.gov/media/1547831/rcs-14h.pdf" target="_self">http://www.ers.usda.gov/media/1547831/rcs-14h.pdf</a></p><p>In terms of the Nigerian government trade policy, local rice sector players maintain that the continued import tariff differential on rice between Nigeria and the neighbouring countries of Benin and Cameroon will continue to encourage smuggling and undermine efforts to develop backward linkages in the rice sector.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Ventures</i>, ‘Nigeria slashes levy on rice importation to 20%’, 10 July 2014</p><p>
+<a href="http://www.ventures-africa.com/2014/07/nigeria-slashes-levy-on-imported-rice-to-20-percent/" target="_self">http://www.ventures-africa.com/2014/07/nigeria-slashes-levy-on-imported-...</a></p><p>Olam, ‘President Goodluck Ebele Jonathan Commissions Olam in Nigeria’s Integrated Rice Mill’, 14 July 2014</p><p>
+<a href="http://olamgroup.com/news/president-goodluck-ebele-jonathan-commissions-olam-nigerias-intgrated-rice-mill/#sthash.PYIiWS28.dpbs" target="_self">http://olamgroup.com/news/president-goodluck-ebele-jonathan-commissions-...</a></p><p>FAO, ‘Rice Market Monitor’, July 2014</p><p>
+<a href="http://www.fao.org/3/a-i3945e.pdf" target="_self">http://www.fao.org/3/a-i3945e.pdf</a></p><p><i>Guardian</i>, ‘Nigeria’s slow, steady move to bridging demand-supply gap in rice industry’, 16 July 2014</p><p>&nbsp;
+<a href="http://allafrica.com/stories/201407171169.html?viewall=1" target="_self">http://allafrica.com/stories/201407171169.html?viewall=1</a></p><p><i>Daily Independent</i>, ‘Nigeria reduced food import bill by N415.3 billion in four years – Jonathan’, 15 July 2014</p><p>
+<a href="http://allafrica.com/stories/201407150492.html" target="_self">http://allafrica.com/stories/201407150492.html</a></p><p><i>This Day</i>, Taking away the shame of rice importation’, 7 August 2014</p><p>
+<a href="http://allafrica.com/stories/201408071305.html" target="_self">http://allafrica.com/stories/201408071305.html</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The Nigerian government policy of linking reduced tariff import to investment in the rice sector appears to be yielding success. However, it will be some years before this translates into a sufficient expansion of rice production to curb growing rice imports. USDA figures highlight how the Nigerian surging demand for rice will promote a continued growth in official imports of rice (a projected increase of 25% in 2013/14 and a further increase of 16.7% in 2014/15).</p><p>These US Department of Agriculture (USDA) projections may in part reflect the tariff changes which the government has introduced. On the one hand, these are likely to reduce the volume of rice being landed in neighbouring countries and smuggled into Nigeria; while, on the other, they will increase the volume of rice officially imported into Nigeria.</p><p>Nevertheless, USDA projections suggest that rice sector self-sufficiency in Nigeria is still a long way off, a reality that appears to have been recognised through the recent tariff changes introduced. The trade policy adjustments taking place in Nigeria may well offer lessons to other West African governments considering the more active use of trade policy tools in support of national rice sector development efforts.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Rice-value-chain-Ghana-CRIG-develops-a-new-high-yielding-and-drought-resistant-rice-variety">Rice value chain/Ghana – CRIG develops a new high yielding and drought resistant rice variety</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Rice-value-chain-Ghana-Ghana-meets-56-percent-demand-in-local-rice-production">Rice value chain/Ghana - Ghana meets 56 percent demand in local rice production</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Rice-value-chain-Nigeria-Nigeria-plans-to-review-rice-imports-policy-to-enhance-production">Rice value chain/Nigeria – Nigeria plans to review rice imports policy to enhance production</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Other/Rice-value-chain-Nigeria-Rice-production-increases-by-140-percent">Rice value chain/Nigeria - Rice production increases by 140 percent</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Other/Rice-value-chain-West-Africa-South-Korea-FAO-to-develop-rice-value-chain-in-West-Africa">Rice value chain/ West Africa – South Korea &amp; FAO to develop rice value chain in West Africa</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":140,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,272 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Multi-annual budget framework sets scene for CAP reform proposals / CAP reform / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+							
+																																																																																																																																																																																										,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7819/(search)/simple">CAP reform</a>
+							
+																																																																																																																																	
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Multi-annual budget framework sets scene for CAP reform proposals</h1>
+
+			
+			<h4>
+												06 September 2011
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The European Commission has tabled a proposal laying down ‘the multilateral financial framework for the years 2014-2020’. Given the centrality of the budget issue to the future trajectory of CAP reform, these proposals provide the financial framework for the pending EC proposals for the 2013 round of CAP reform. EU farmers’ organisation Copa-Cogeca described the proposal as ‘a reasonable starting point’, although the overall budget was seen as ‘tight’.</p><p>Market-related expenditures and direct payments (pillar 1 of the CAP budget) are projected to decline by 10% over the period from €42, 244 million in 2014 to €38,060 million in 2020. This item will fall as a share of the EU budget from 29.6% of total appropriations in 2014 to 25.25% in 2020. The overall level of expenditures for the 2014–2020 period in nominal terms is however broadly similar to that for the 2007–13 period.</p><a name="eztoc470253_0_0_0_0_1" id="eztoc470253_0_0_0_0_1"></a><h6>Market-related expenditures and direct payments: Multiannual Financial Framework (€ millions)</h6><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="71" valign="top">  <b>2014</b>
+  </td><td width="71" valign="top">  <b>2015</b>
+  </td><td width="71" valign="top">  <b>2016</b>
+  </td><td width="71" valign="top">  <b>2017</b>
+  </td><td width="71" valign="top">  <b>2018</b>
+  </td><td width="71" valign="top">  <b>2019</b>
+  </td><td width="71" valign="top">  <b>2020</b>
+  </td><td width="92" valign="top">  <p class=" text-center"><b>Total </b></p><p class=" text-center"><b>2014–2020</b></p>
+  </td>
+</tr>
+
+<tr>
+<td width="71" valign="top">  42,244
+  </td><td width="71" valign="top">  41,623
+  </td><td width="71" valign="top">  41,029
+  </td><td width="71" valign="top">  40,420
+  </td><td width="71" valign="top">  39,618
+  </td><td width="71" valign="top">  38,831
+  </td><td width="71" valign="top">  38,060
+  </td><td width="92" valign="top">  281,825
+  </td>
+</tr>
+
+</table>
+<p>Source: EC, ‘Proposal for a Council Regulation laying down the multiannual financial framework for the years 2014-2020: Annex’, Brussels, 29 June 2011, COM (2011) 398 final.</p><p>The accompanying Commission staff working paper notes the importance of EU direct aid payments, which account for ‘30% of sector income in EU15 and 20% in EU12’. Total subsidies, according to the Commission, account for ‘about 40% of sector income’.</p><p>EU agricultural incomes are expected to display only ‘a modest growth over the coming decade’. Future challenges identified include:</p>
+<ul>
+
+<li>ensuring viable food production; </li>
+
+<li>promoting sustainable management of natural resources and climate change; </li>
+
+<li>promoting more balanced territorial development; </li>
+
+<li>simplifying ‘the regulatory and administrative framework for … agricultural activities.</li>
+
+</ul>
+<p>Copa-Cogeca welcomed the decision to increase spending on research and crisis management, but considered that more emphasis should be placed on ‘green growth, not green constraints’, and stressed the importance of reinforcing the position of farmers in the food chain, in particular by supporting the development of producers’ organisations. It was further argued that in view of the extreme market volatility, measures to manage agriculture markets should be kept in place.</p><p>Within the overall budget, greater flexibility is to be built in, including in the agricultural sector, where this will involve the establishment of €500 million for a new Special Reserve.</p><p>While three broad scenarios for the future of CAP expenditures are outlined, the EC firmly favours scenario 2, since scenarios 1 (continuation of current policy) and 3 (dismantling of most support and reliance on market signals) ‘would not necessarily guarantee economic and environmental sustainability and territorial balance throughout the EU’.</p><p>Scenario 2 includes a streamlining of market instruments, encouragement of more collective action by farmers, and a redistribution of the financial envelope among the member states. While the precise basis is still to be determined, it is proposed that payments would depend upon the use of different components, consisting of:</p>
+<ul>
+
+<li>a basic income support component;</li>
+
+<li>an area based payment for naturally handicapped areas;</li>
+
+<li>a green payment applicable across the whole of the EU;</li>
+
+<li>a voluntary coupled support element for specific sectors.</li>
+
+</ul>
+<p>There would be a capping of payments, with exceptions being made for small farmers.</p><p>Under scenario 2, rural development policy would be better focused on supporting innovation and addressing climate change and environmental issues. The number of measures in the ‘tool kit’ would be reduced from around 40 to approximately 20.</p><p>Scenario 2 is seen as ‘a combination of broad-brush and more targeted measures’, designed to better meet long-term objectives. The main challenge is seen as finding ‘ways to keep additional costs for the farming sector reasonable, and management as simple as possible’.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>European Commission, ‘Proposal for a Council regulation laying down the multilateral financial framework for the years 2014-2020’, COM(2011) 398 final, 29 June 2011</p><p>
+<a href="http://ec.europa.eu/budget/library/biblio/documents/fin_fwk1420/proposal_council_regulation_COM-398_en.pdf" target="_self">http://ec.europa.eu/budget/library/biblio/documents/fin_fwk1420/proposal...</a>&nbsp;</p><p>EC, ‘A budget for Europe 2020: the current system of funding, the challenges ahead, the results of stakeholder consultation and different options on the main horizontal and sectoral issues’, Commission Staff Working Paper, SEC(2011) 868 final, 29 June 2011</p><p>
+<a href="http://ec.europa.eu/budget/library/biblio/documents/fin_fwk1420/SEC-868_en.pdf" target="_self">http://ec.europa.eu/budget/library/biblio/documents/fin_fwk1420/SEC-868_...</a></p><p>Copa-Cogeca, ‘Copa-Cogeca reacts to EU Commission budget proposals 2014-20’, listed as 1 July 2011</p><p>
+<a href="http://www.copa-cogeca.be/Main.aspx?page=Archive&amp;lang=en" target="_self">http://www.copa-cogeca.be/Main.aspx?page=Archive&amp;lang=en</a></p><p>EC, point of access for documentation on the EC proposals for the budget framework 2014–2020</p><p>
+<a href="http://ec.europa.eu/budget/biblio/documents/fin_fwk1420/fin_fwk1420_en.cfm" target="_self">http://ec.europa.eu/budget/biblio/documents/fin_fwk1420/fin_fwk1420_en.cfm</a></p><p><i>EurActiv.com</i>, ‘Commission urged to table green budget proposal’, 24 June 2011 (updated 4 July 2011)</p><p>
+<a href="http://www.euractiv.com/en/sustainability/commission-urged-table-green-budget-proposal-news-505948" target="_self">http://www.euractiv.com/en/sustainability/commission-urged-table-green-b...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>While commitments to market-related expenditures and direct payments are projected to decline 10% from 2014 to 2020, this is consistent with the existing trend towards an expansion of rural development programmes (moving to what is seen as ‘investment support’, and away from traditional farm subsidies). Since rural development expenditures are co-financed with member states and reach beyond agriculture and agro-processing activities, it is unclear what the overall impact of the proposals will be on total agricultural and agro-processing related expenditures.</p><p>The maintenance of sector-specific coupled payments on a voluntary basis is likely to carry implications for the cotton sector, with the actual level of EU support likely to be less immediately transparent. The existence of a green payment component may well be deployed to support EU farmers in implementing progressively stricter production standards. This could become an issue if these production standards were ‘internationalised’ and became prerequisites for agricultural products placed for sale on the EU market.</p><p>Since the nominal level of expenditures on market-related and direct payment measures is to be held constant, one would expect the contribution of direct aid payments to farm incomes to fall from the present levels, given the projections for higher average global prices. However, in an era of price volatility, these EU payments are likely to play an even greater role in insulating EU producers from the worst effects of price volatility. The increased importance attached to the use of safety-net measures to deal with price volatility reinforces the EU’s commitments to ensuring that price volatility does not undermine the basis for agricultural production in the EU.</p><p>This raises the question of what precise impact the displacement of adjustment costs associated with price volatility to non-EU producers will have on ACP agricultural producers. This will need to be addressed at the level of individual ACP sectors and countries, and will be determined by how in practice the EU deploys the policy tools that will remain available under a reformed CAP (see <i>Agritrade</i> articles ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Dairy/USDA-review-of-EU-dairy-sector-development" target="_blank">USDA review of EU dairy sector development</a>’, July 2011, and ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Developing-a-value-added-dairy-sector-in-West-Africa" target="_blank">Developing a value-added dairy sector in West Africa</a>’, May 2011).</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/CAP-reform/EU-agro-food-trade-surplus-continues-to-expand">EU agro-food trade surplus continues to expand</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/Cairns-Group-presents-paper-on-total-trade-distorting-support">Cairns Group presents paper on ‘total trade-distorting support’</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/Parliamentary-perspectives-on-the-EU-fruit-and-vegetable-regime">Parliamentary perspectives on the EU fruit and vegetable regime</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/CAP-reform/Further-limits-on-use-of-export-refunds-agreed-as-part-of-finalisation-of-2013-CAP-reforms">Further limits on use of export refunds agreed as part of finalisation of 2013 CAP reforms</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/TPR-provides-useful-summary-of-situation-of-EU-farm-policy">TPR provides useful summary of situation of EU farm policy  </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":128,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

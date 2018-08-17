@@ -1,0 +1,217 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Ghana to establish an International Trade Commission  / Market access / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																						
+								<a href="/en/layout/set/print/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																				
+							
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/8254/(search)/simple">Market access</a>
+							
+																			
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Ghana to establish an International Trade Commission </h1>
+
+			
+			<h4>
+												23 April 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The government of Ghana has announced that it intends “to establish a Ghana International Trade Commission (GITC)” empowered to “take advantage of the remedies on piracy, anti-dumping and countervailing measures”. President John Mahama, speaking to Parliament, said that “globalisation and trade liberalisation had brought in their wake a number of unfair trading practices such as dumping of cheap products by foreign exporters”, and added that the GITC would help to prevent such practices. He stated that the overall aim of the GITC is “to boost [Ghana’s] domestic and international competitiveness”.</p><p>The President commented that the government “had committed itself to the establishment of a Commodity Exchange and associated Warehouse Receipt System… as part of efforts to create an orderly, transparent, and efficient marketing system for Ghana’s key agricultural commodities [and] to promote agricultural investment and enhance productivity”.</p><p>According to online reports, the Deputy Minister for Food and Agriculture has said that the government is also planning to establish a programme to rejuvenate the poultry sector, as part of wider efforts to promote increased production of livestock products and reduce the country’s bill for imported goods.</p><p>An exporters’ guide to Ghana published by USDA sets the agricultural production and trade context within which the GITC will commence its work. Ghana’s agricultural sector is seen as “largely subsistence-based”, consisting of 70% crop production, with livestock, poultry and fisheries production accounting for 20%, and forestry less than 10%. Agriculture employs fully 60% of the population. In 2013, growth in the agriculture sector was higher than in 2012 (+3.4% compared to +1.3%), but still lagged behind other sectors (services +9.2%, industry +9.1%), with the contribution of agriculture to GDP continuing to decline (from 22.7% in 2012 to 21.3% in 2013).</p><p>In contrast, following strong economic growth, Ghana’s total food and agricultural imports were up 25% in 2013 compared to 2012 (from US$1.2billion to US$1.5 billion), consisting largely of “bulk/intermediate and consumer-ready commodities such as rice, wheat, sugar and poultry”. Leading suppliers include the EU (35%), followed by Asian countries and South Africa.</p><p>The USDA analysis notes that “demand for consumer-ready food products is expanding rapidly in Ghana”, due to the growing middle class, high rates of urbanisation and population growth. These trends have led to supermarket chains opening up, although these only account for 5% of retail sales, with traditional open-air markets accounting for 65%.</p><p>Given a lack of raw materials, poor infrastructure, high energy and financing costs, and government taxation policy, USDA reports only a “limited selection of products provided by the underdeveloped domestic agricultural and food processing sector”. As a consequence, demand for imports is growing strongly, with low import tariffs applied. According to USDA, the government “is positioning Ghana as the gateway to the larger West African market (over 260 million people)”.</p><p>USDA observes that Ghana operates a relatively free market, with a four-tariff band system (0%, 5%, 10% and 20%), and notes also the pending implementation of the EPA agreement, which will eliminate duties on 80% of imports from the EU over the next 15 years.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>Government of Ghana, ‘Govt to establish international trade commission – President’, 26 February 2014</p><p>
+<a href="http://allafrica.com/stories/201402261343.html " target="_self">http://allafrica.com/stories/201402261343.html</a></p><p>USDA, ‘Ghana exporter guide annual’, <i>GAIN Report</i> no. GH14001, 19 February 2014</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Exporter%20Guide_Accra_Ghana_2-19-2014.pdf " target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Exporter%20Guide_A...</a></p><p><i>The Poultry Site/Ghanaweb</i>, ‘Government supports Ghana's poultry sector’, 6 March 2014</p><p>
+<a href="http://www.thepoultrysite.com/poultrynews/31668/government-supports-ghanas-poultry-sector " target="_self">http://www.thepoultrysite.com/poultrynews/31668/government-supports-ghan...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The diverse factors of the slow rate of growth in Ghana’s agricultural sector, the growing importance of imports to meet rising urban demand, and efforts to position Ghana as a gateway to the larger West African market, mean that it is as yet unclear to what extent the newly established Ghana International Trade Commission (GITC) will be planning to make use of agricultural trade policy tools to improve linkages between domestic producers and evolving food product markets.</p><p>Neighbouring Nigeria, while adopting a more proactive approach to the use of trade policy tools, has faced serious design and implementation challenges, given the porous nature of regional borders. This is leading to a rethink of agricultural trade policy in a number of sectors (e.g. rice, sugar and poultry meat), with greater emphasis being placed on working with private sector associations to design schemes that can work in practice.</p><p>Clearly, the work of the GITC will need to be closely articulated with national agricultural and industrial development policies. However, it will equally need to take into account the evolving regional agricultural trade policy framework (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/ECOWAS-agrees-common-external-tariff-with-greater-agricultural-protection" target="_blank">ECOWAS agrees common external tariff with greater agricultural protection</a>’, 24 February 2014) and the realities of intra-regional trade flows.</p><p>Given the different approaches adopted by ECOWAS member states, a useful starting point for the work of the GITC would be to review the effectiveness of the different policy approaches adopted across the region in support of enhancing “domestic and international competitiveness”.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/Market-access/Cassava-value-chain-Nigeria-Optimizing-inclusiveness-of-cassava-smallholder-farmers-in-the-chain">Cassava value chain/Nigeria- Optimizing inclusiveness of cassava smallholder farmers in the chain</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Market-access/Cassava-value-chain-Nigeria-Training-for-Youth-on-Cassava-Production-and-Marketing">Cassava value chain/Nigeria - Training for Youth on Cassava Production and Marketing</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Rice-value-chain-Nigeria-Burkina-Faso-Ghana-and-Tanzania-Rice-Farmers-and-Millers-to-benefit-from-CARI-Initiative">Rice value chain/Nigeria, Burkina Faso, Ghana and Tanzania - Rice Farmers and Millers to benefit from CARI Initiative</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Africa-trade-fund-approves-1.4m-for-projects">Africa trade fund approves $1.4m for projects</a></p>
+						<p><a href="/en/layout/set/print/Regions/ACP/Surface-transport-slow">Surface transport slow</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":145,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

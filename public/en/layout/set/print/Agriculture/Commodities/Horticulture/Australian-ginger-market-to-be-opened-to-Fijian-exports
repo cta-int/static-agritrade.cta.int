@@ -1,0 +1,219 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Australian ginger market to be opened to Fijian exports? / Horticulture / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																
+								<a href="/en/layout/set/print/Publications/(regions)/7774/(search)/simple">Pacific</a>
+																																																										
+																																																																																																																																																																																										,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7802/(search)/simple">Horticulture</a>
+							
+																																																																																																																																																																																																			
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Australian ginger market to be opened to Fijian exports?</h1>
+
+			
+			<h4>
+												11 November 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>Following the release of the final sanitary and phytosanitary (SPS) risk analysis by the Australian Department of Agriculture, Fisheries and Forestry (DAFF), it was announced in press reports in August 2012 that Australian import restrictions on imports of ginger from Fiji are to be lifted, provided the necessary quarantine criteria are applied. While these quarantine requirements are complicated, the Australian Broadcasting Corporation (ABC) reports that ‘the first imports could become a reality in just 6 months.’</p><p>According to the CEO of the Biosecurity Authority of Fiji (BAF), Elvis Silvestrini, the granting of access to the Australian market for Fijian ginger could boost current exports by 50%. ‘Fiji currently exports 1500 tonnes of processed ginger annually to New Zealand, Canada and the US’, and the opening up of the Australian market gives considerable potential for growth in ginger exports, possibly up to F$49 million per annum (approx. €21.1m), ‘[depending] on the demand and the markets for fresh and processed ginger’.</p><p>The opening of trade with Australia will, however, depend on the establishment of effective pest controls for ‘yam scale and burrowing nematode’, which have been identified as areas of concern. The AusAID-supported Pacific Horticultural and Agricultural Market Access (PHAMA) programme is ‘developing a handbook and in-field training program that will assist farmers and exporters [to] meet conditions set by the Australian authorities’.</p><p>Mr Silvestrini commented that while Fiji must adhere to SPS measures ‘to ensure a clean pathway for Fiji ginger exports into Australia, … any concerns regarding pests must be supported by sound scientific evidence’. These remarks came against the background of efforts by Australian ginger producers to ensure a continuation of the ban on imports of ginger from Fiji. The Australian Ginger Industry Association is ‘unhappy about quarantine measures outlined in Biosecurity Australia’s final risk analysis’.</p><p>This follows similar concerns raised by Australian pineapple, pear, banana, honey and vegetable producers over import risk analyses undertaken by the DAFF. Political endorsement of these concerns emerged in September, with National Party parliamentarians ‘calling for a Senate inquiry into the disease threat posed’ by the lifting of current prohibitions on imports. A National Party senator argued that ‘once diseases are introduced from overseas, they are extremely difficult to eradicate and can have devastating economic consequences.’</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>ABC.net.au</i>, ‘Farmers worried by ginger imports’, 20 August 2012</p><p>
+<a href="http://theglobalfruit.com/blog/2012/09/01/au-farmers-worried-by-ginger-imports/" target="_self">http://theglobalfruit.com/blog/2012/09/01/au-farmers-worried-by-ginger-i...</a></p><p><i>Fiji Times</i>, ‘First time ginger export to Australia’, 22 August 2012</p><p>
+<a href="http://www.freshplaza.com/news_detail.asp?id=99862 #SlideFrame_1" target="_self">http://www.freshplaza.com/news_detail.asp?id=99862#SlideFrame_1</a></p><p><i>ABC.net.au</i>, ‘National Party wade into ginger row’, 11 September 2012</p><p>
+<a href="http://www.freshplaza.com/news_detail.asp?id=100588#SlideFrame_1" target="_self">http://www.freshplaza.com/news_detail.asp?id=100588#SlideFrame_1</a></p><p>AAP, ‘Ginger growers worried by Fiji imports’, 10 September 2012</p><p>
+<a href="http://www.news.com.au/breaking-news/national/ginger-growers-worried-by-fiji-imports/story-e6frfku9-1226467346218" target="_self">http://www.news.com.au/breaking-news/national/ginger-growers-worried-by-...</a></p><p><i>Fiji Sun</i>, ‘Fiji compliance for ginger assured’, 11 September 2012</p><p>
+<a href="http://www.pina.com.fj/?p=pacnews&amp;m=read&amp;o=849598652504ebde3604f974bda978" target="_self">http://www.pina.com.fj/?p=pacnews&amp;m=read&amp;o=849598652504ebde3604f...</a></p><p><i>Newmail.com</i>, ‘Anger over ginger import plan’, 27 September 2012</p><p>
+<a href="http://www.news-mail.com.au/story/2012/09/27/ginger-growers-hit-out-at-import-plan/" target="_self">http://www.news-mail.com.au/story/2012/09/27/ginger-growers-hit-out-at-i...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The problems faced in gaining SPS approval for Fijian exports of ginger to Australia are similar to the problems faced in exporting taro from Fiji to Australia. While Fiji has a favourable pest disease status, with no records of leaf blight and no major viruses of concern from an SPS perspective, Australian SPS and quarantine import protocols constitute a significant barrier to the development of exports. For example, it is held that the requirement to devitalise taro in order to prevent propagation is an unnecessary requirement, with no such requirements being imposed by the USA or Japan on imports of Fijian taro.</p><p>Regarding ginger, the relevant Australian federal authorities’ own import risk analysis has identified the SPS measures with which Fiji needs to comply in order to gain market access. There would therefore appear to be little objective scientific basis for the imposition of additional SPS controls, such as those being demanded by Australian ginger growers, particularly in view of the commitment of BAF to ensuring full SPS compliance and close cooperation with Biosecurity Australia.</p><p>However, with state governments being mobilised by the Australian Ginger Industry Association to question the findings of federal government authorities, the politicisation of SPS control measures raises questions as to whether the Australian federal government will comply in full with WTO SPS agreement requirements that all measures are based on objective scientific analysis.</p><p>The ginger case also highlights the difficulties faced in securing real substantive market access in areas where domestic agricultural producers have a market presence. Stricter WTO disciplines, along with technical assistance to smaller developing countries in ensuring compliance with WTO requirements, would appear to be necessary if Pacific ACP countries are not to see non-tariff measures systematically becoming non-tariff barriers.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/EC-tables-new-regulation-on-the-organic-sector">EC tables new regulation on the organic sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Market-access/Progress-reported-in-PACER-Plus-negotiations">Progress reported in PACER-Plus negotiations </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/Australian-ginger-market-to-be-opened-to-Fijian-exports">Australian ginger market to be opened to Fijian exports?</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/Pacific-horticulture-exports-have-potential-but-face-constraints">Pacific horticulture exports have potential but face constraints</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/New-airline-schedules-pose-challenge-to-expanding-Fijian-papaya-exports">New airline schedules pose challenge to expanding Fijian papaya exports </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":141,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

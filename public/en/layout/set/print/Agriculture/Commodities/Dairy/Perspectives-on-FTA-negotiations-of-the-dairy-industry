@@ -1,0 +1,320 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Perspectives on FTA negotiations of the dairy industry / Dairy / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																										
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																			,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																																																																																																																																																																	
+																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7801/(search)/simple">Dairy</a>
+							
+																																																																																																																																																																																																																									
+																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7814/(search)/simple">EU FTAs</a>
+							
+																																																																																																																																																																																																																																															
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Perspectives on FTA negotiations of the dairy industry</h1>
+
+			
+			<h4>
+												04 October 2007
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p> In a presentation to the June 25th 2007 symposium on EU agri-food export interests, representatives of the European dairy trade noted that on the world market average prices are <i>‘</i>expected to rise over the next decade’, but that the EU was losing market share to New Zealand, from 35% in 1995 to 28% in 2005. Presenters noted that in the cheese sector there was ‘growing world demand’ with the EU remaining ‘the largest exporter’, but with a ‘declining market share’. New suppliers were emerging such as Ukraine and Argentina, and while unsubsidised EU exports were growing, they still remain less that 50% of exports. As a by-product of cheese production, EU whey production and exports are expected to expand.</p><p> Milk powders were the most important traded dairy commodities and while this trade is dominated by New Zealand, the EU remains very important in the north African and middle-eastern markets. However the EU remains dependent on export subsidies in this sub-sector.</p><p> EU exports of butter fat are predicted to decline from 38% in the 2003-05 period to 22% by 2015. Exports have declined from 37% of EU milk production in 1995 to 27% in 2005.</p><p> The analysis notes that while ‘quota restrictions and growing consumption may be reducing export volumes’, in future growth in unsubsidised exports of cheese and whey shows the EU’s potential to compete. However, securing market access was seen as essential to the competitive position of EU dairy exports. The industry warned of a ‘risk of stagnation’ if the focus remains exclusively on the EU home market.</p><p> In this context the ‘wish list’ of the EU dairy industry in FTA negotiations includes the development of a ‘new dairy-export policy’, which functions effectively in an ‘unsubsidised environment’ in the ‘new market condition’ of higher world market prices.</p><p> This, it was felt, should include improving market access through FTA negotiations and the promotion of ‘EU origin’ labels, particularly for cheeses. The highest-priority markets for the EU dairy sector are Russia, the USA and Japan, with South Africa and ACP markets being seen as a medium priority after the Mediterranean, western Balkans, ASEAN countries and South Korea. </p><p> In this context the presentation notes that in the ACP tariffs are generally low, the market is price sensitive, but there are seen to be limited opportunities for unsubsidised products, particularly commodities and dairy-related ‘non-annex 1’ products (i.e. those products on which export refunds are payable on the agricultural raw-material content). In the case of South Africa the outlook for EU products is seen to be positive, particularly for ‘food preparations, whey, cheese and butter’, although it was noted that South Africa ‘refuses to grant preferential access to subsidised EU cheeses’. The presentation concludes that the ‘EU’s future trade will be more targeted’, while ‘preferential access will help facilitate longer-term development’.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p> Point of access</p><p>
+
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2007a/summary.pdf" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2007a/summary.pdf</a> <br /> </p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p> For ACP countries the issue will increasingly be the trends in exports of value-added dairy products rather than milk powders and the impact of this trade on fresh-milk markets. This being said, in many ACP regions, most milk is for consumption as fresh milk and there is only limited value-added production. However, this means that there is considerable sensitivity to imports of milk powder which are then reconstituted into long-life milk, which directly competes with fresh milk. This needs to be seen against the backdrop of the increasing share of the ACP in EU exports of dairy products. Between 1996 and 2003 EU exports of dairy products to ACP countries grew by 32.8%, while over the same period the value of EU dairy exports to the world decreased by 0.44%. The importance of the ACP as a market for EU dairy exports increased from 9.7% of the value of total EU dairy exports to a peak of 13.9%, during the period when the EU was using up unutilised export licences for milk-powder exports under the Uruguay Round agreement. After initial falls in the value of exports in 2002 and 2003, the value of EU exports to ACP countries began to climb again in 2004 and 2005, taking the importance of the ACP market to EU diary exports back up to 13.8% of total EU dairy exports. This increased focus on ACP markets, mainly in Africa, provides the backdrop against which the decline in EU exports of milk powders needs to be seen. Between 2005 and 2013 EU exports of skimmed-milk powder are projected to fall from 193,000 tonnes to 57,000 tonnes.</p><p><b>EU SMP market projections 2003-2013 (EU27) (‘000 tonnes)</b> </p><table class="renderedtable" border="medium none" cellpadding="2" cellspacing="0">
+<tr>
+<td width="77" valign="top">   Year 
+  </td><td width="82" valign="top">   Net production
+  </td><td width="88" valign="top">   Net consumption
+  </td><td width="76" valign="top">   Imports 
+  </td><td width="76" valign="top">   Exports
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">   2005
+  </td><td width="82" valign="top">   963
+  </td><td width="88" valign="top">   844
+  </td><td width="76" valign="top">   9
+  </td><td width="76" valign="top">   193
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">   2006
+  </td><td width="82" valign="top">   842
+  </td><td width="88" valign="top">   771
+  </td><td width="76" valign="top">   22
+  </td><td width="76" valign="top">   93
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">   2007
+  </td><td width="82" valign="top">   905
+  </td><td width="88" valign="top">   838
+  </td><td width="76" valign="top">   22
+  </td><td width="76" valign="top">   88
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">   2008
+  </td><td width="82" valign="top">   898
+  </td><td width="88" valign="top">   850
+  </td><td width="76" valign="top">   22
+  </td><td width="76" valign="top">   70
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">   2009
+  </td><td width="82" valign="top">   895
+  </td><td width="88" valign="top">   852
+  </td><td width="76" valign="top">   22
+  </td><td width="76" valign="top">   65
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">   2010
+  </td><td width="82" valign="top">   892
+  </td><td width="88" valign="top">   853
+  </td><td width="76" valign="top">   22
+  </td><td width="76" valign="top">   61
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">   2011
+  </td><td width="82" valign="top">   888
+  </td><td width="88" valign="top">   850
+  </td><td width="76" valign="top">   22
+  </td><td width="76" valign="top">   59
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">   2012
+  </td><td width="82" valign="top">   888
+  </td><td width="88" valign="top">   851
+  </td><td width="76" valign="top">   22
+  </td><td width="76" valign="top">   59
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">   2013
+  </td><td width="82" valign="top">   885
+  </td><td width="88" valign="top">   850
+  </td><td width="76" valign="top">   22
+  </td><td width="76" valign="top">   57
+  </td>
+</tr>
+
+<tr>
+<td colspan="5" width="398" valign="top">   <b>Source</b>: Extracted from table A.19, ‘Prospects for agricultural markets and income 2006-2013’, EC Directorate General for Agriculture, January 2007
+  </td>
+</tr>
+
+</table>
+
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/High-feed-costs-highlight-importance-of-new-EU-dairy-sector-initiatives">High feed costs highlight importance of new EU dairy sector initiatives </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Concern-over-EC-management-of-the-dairy-market">Concern over EC management of the dairy market</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Latest-quarterly-review-of-the-dairy-market">Latest quarterly review of the dairy market </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Farmers-perspectives-of-the-future-of-the-EU-dairy-sector">Farmers’ perspectives of the future of the EU dairy sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Dealing-with-the-EU-dairy-crisis">Dealing with the EU dairy crisis</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":182,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,1481 @@
+<!DOCTYPE html>
+<html class="no-js">
+<!--
+	/**
+	 * We congratulate Agritrade with their new, upgraded (HTML5!) website!
+	 * Created by Contactivity, www.contactivity.com
+	 * @version $Id: 1.0
+	 */
+
+
+																			--><head>
+	
+                                        
+	<title>No. 3: The development dimension of EPAs and ACP-EU agriculture- sector relations / Key policy issues / Agritrade documents / Resources / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+			
+		<meta name="description" content="&amp;nbsp;Situating the development dimension
+
+
+ The development dimension of EPAs needs to be seen in the light of ACP governments’ underlying objectives, namely: the establishment of a framework for relations involving trade and development cooperation with the EU that supports the structural transformation of ACP economies. This means that more value is added locally to goods and services, for national, regional and international markets, so as to promote increased levels of job creation and h..."/>
+			
+			
+		<meta name="keywords" content=","/>
+			
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+		<script src="/extension/agritrade/design/agritrade/js/contactivity.global.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/contactivity.input.js"></script>
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="No. 3: The development dimension of EPAs and ACP-EU agriculture- sector relations"/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+<script src="https://valsplat.nl/clients/2852/invite.js"></script>
+</head>
+<body lang="en" onload="initialize()">
+
+<!-- [ wrapper -->
+<div id="wrapper">
+
+	<!-- [ main container -->
+	<div class="container" id="maincontainer">
+
+		<!-- [ header container -->
+		<header class="container">
+
+			<h6><a href="http://www.cta.int/" target="_blank">CTA</a></h6>
+			<div class="logo">
+				<h1><a href="/en"><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></a></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+			<!-- [ font box -->
+			<div class="fontBox">
+				<dl>
+					<dt class="active"><a href="#" class="bind fontsize" rel="small"><img src="/extension/agritrade/design/agritrade/images/small_font.gif" alt=""/></a></dt>
+					<dd>Small fontsize</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="medium"><img src="/extension/agritrade/design/agritrade/images/medium_font.gif" alt=""/></a></dt>
+					<dd>Medium fontsize</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="big"><img src="/extension/agritrade/design/agritrade/images/big_font.gif" alt=""/></a></dt>
+					<dd>Big fontsize</dd>
+				</dl>
+			</div>
+			<!-- font box ] -->
+
+			<!-- [ language box -->
+			<div class="languageBox">
+				<dl>
+				
+				
+					<dt><a href="/en/Resources/Agritrade-documents/Key-policy-issues/No.-3-The-development-dimension-of-EPAs-and-ACP-EU-agriculture-sector-relations">English</a> | </dt>
+					<dd>Switch to English</dd>
+					<dt><a href="/fr/Resources/Agritrade-documents/Key-policy-issues/No.-3-The-development-dimension-of-EPAs-and-ACP-EU-agriculture-sector-relations">Français</a></dt>
+					<dd>Switch to French</dd>
+				</dl>
+			</div>
+			<!-- language box ] -->
+
+			<!-- [ search box -->
+			<div class="searchBox">
+				<form action="http://www.google.com/cse?hl=en&sa=Search&ie=UTF-8" method="get" name="search">
+	            <input type="hidden" value="013338266298253522945:rk5lmjqtluq" name="cx"/>
+					<input name="q" type="text" class="field" value="" placeholder="Search"/>
+					<input name="Search" type="image" alt="" class="button" src="/extension/agritrade/design/agritrade/images/search_button.jpg"/>
+				</form>
+
+
+
+			</div>
+			<!-- search box ] -->
+
+
+			<!-- [ navigation -->
+			<nav>
+				
+				<ul>
+				<li>
+					<h2><a href="/en"><span>Home</span></a></h2>
+				</li>
+									
+					
+																					
+					<li>
+						<h2><a href="/en/Agriculture" title="Agriculture"><span>Agriculture</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Topics
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/en/Agriculture/Topics/WTO" title="WTO">											WTO
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/EPAs" title="EPAs">											EPAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/EU-FTAs" title="EU FTAs">											EU FTAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/ACP-FTAs" title="ACP - FTAs">											ACP - FTAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/ACP-regional-trade" title="ACP regional trade">											ACP regional trade
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Market-access" title="Market access">											Market access
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/SPS-Food-safety" title="SPS / Food safety">											SPS / Food safety
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Product-differentiation" title="Product differentiation">											Product differentiation
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/CAP-reform" title="CAP reform">											CAP reform
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Biofuels" title="Biofuels">											Biofuels
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Climate-change" title="Climate change">											Climate change
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Aid-for-trade" title="Aid for trade">											Aid for trade
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Other" title="Other">											Other
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Commodities
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/en/Agriculture/Commodities/General" title="General">											General
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Bananas" title="Bananas">											Bananas
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Beef" title="Beef">											Beef
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Cereals" title="Cereals">											Cereals
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Cocoa" title="Cocoa">											Cocoa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Coffee" title="Coffee">											Coffee
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Cotton" title="Cotton">											Cotton
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Dairy" title="Dairy">											Dairy
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Horticulture" title="Horticulture">											Horticulture
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Oil-crops" title="Oil crops">											Oil crops
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Poultry" title="Poultry">											Poultry
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Rice" title="Rice">											Rice
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Rum" title="Rum">											Rum
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Sugar" title="Sugar">											Sugar
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Tea" title="Tea">											Tea
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Other" title="Other">											Other
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Regions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/en/Agriculture/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Regions/EU" title="EU">											EU
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Regions/Global" title="Global">											Global
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/en/Fisheries" title="Fisheries"><span>Fisheries</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Topics
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/en/Fisheries/Topics/ACP-EU-relations-FPAs" title="ACP-EU relations; FPAs">											ACP-EU relations; FPAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Topics/EU-common-fisheries-policy" title="EU common fisheries policy">											EU common fisheries policy
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Topics/Market-access" title="Market access">											Market access
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Topics/News-from-the-IOC-region" title="News from the IOC region">											News from the IOC region
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Topics/WTO-international-developments" title="WTO &amp; international developments">											WTO &amp; international developments
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Regions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/en/Fisheries/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Regions/EU" title="EU">											EU
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Regions/Global" title="Global">											Global
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/en/Regions" title="Regions"><span>Regions</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/en/Regions/Global" title="Global">									Global
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/en/Regions/EU" title="EU">									EU
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+									<a href="/en/Regions/ACP" title="ACP">									ACP
+									
+																		
+									</a>								</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/en/Regions/ACP/All-ACP" title="All ACP">											All ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Caribbean" title="Caribbean">											Caribbean
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/West-Africa" title="West Africa">											West Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Central-Africa" title="Central Africa">											Central Africa
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Eastern-Africa" title="Eastern Africa">											Eastern Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Southern-Africa" title="Southern Africa">											Southern Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Pacific" title="Pacific">											Pacific
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/en/Publications" title="Publications"><span>Publications</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Compendium" title="Compendium">									Compendium
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Executive-briefs" title="Executive briefs">									Executive briefs
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Interviews" title="Interviews">									Interviews
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/News-Analysis" title="News &amp; Analysis">									News &amp; Analysis
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Newsletter" title="Newsletter">									Newsletter
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Special-Reports" title="Special Reports">									Special Reports
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+																
+																					
+					<li>
+						<h2><a href="/en/Welcome-to-Agritrade" title="About"><span>About</span></a></h2>
+						
+
+											</li>
+
+								
+		</ul>
+
+			</nav>
+			<!-- navigation ] -->
+
+
+		</header>
+		<!-- header container ] -->
+
+
+
+		<!-- [ content container -->
+		<section class="container">
+
+
+			
+						<!--  [ center container -->
+			<div id="centerCntr" class="article content  has_right">
+							
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt=""/>
+					
+
+		</div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style " addthis:title="No. 3: The development dimension of EPAs and ACP-EU agriculture- sector relations">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/en/Resources/Agritrade-documents/Key-policy-issues/No.-3-The-development-dimension-of-EPAs-and-ACP-EU-agriculture-sector-relations" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				<a id="tool-email" href="http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2Fen%2FResources%2FAgritrade-documents%2FKey-policy-issues%2FNo.-3-The-development-dimension-of-EPAs-and-ACP-EU-agriculture-sector-relations&amp;title=No.+3%3A+The+development+dimension+of+EPAs+and+ACP-EU+agriculture-+sector+relations&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611" onclick="return popitup('http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2Fen%2FResources%2FAgritrade-documents%2FKey-policy-issues%2FNo.-3-The-development-dimension-of-EPAs-and-ACP-EU-agriculture-sector-relations&amp;title=No. 3: The development dimension of EPAs and ACP-EU agriculture- sector relations&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611')" target="_blank" class="tool popup">
+			Email
+		</a>
+		<a href="#" id="tool-print" class="tool" onclick="printMe('/en/layout/set/print/Resources/Agritrade-documents/Key-policy-issues/No.-3-The-development-dimension-of-EPAs-and-ACP-EU-agriculture-sector-relations'); return false">
+			print
+		</a>
+				</div>
+
+	
+	</div>
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																											,
+								<a href="/en/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+																																,
+
+							<a href="/en/Agriculture/(commodities)/7795/(search)/simple">General</a>
+							
+																																																																																																																																																																																																																																																																																																																																																													
+																																																						,
+
+							<a href="/en/Agriculture/(topics)/7813/(search)/simple">EPAs</a>
+							
+																																																																																																																																																																																																																																																																					
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+										
+			<h1>No. 3: The development dimension of EPAs and ACP-EU agriculture- sector relations</h1>
+
+			
+			<h4>
+												28 February 2007
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>&nbsp;</p><a name="eztoc98752_1" id="eztoc98752_1"></a><h2>Situating the development dimension</h2>
+<ul>
+
+<li> The development dimension of EPAs needs to be seen in the light of ACP governments’ underlying objectives, namely: the establishment of a framework for relations involving trade and development cooperation with the EU that supports the structural transformation of ACP economies. This means that more value is added locally to goods and services, for national, regional and international markets, so as to promote increased levels of job creation and higher rates of economic growth.</li>
+
+<li> In the agriculture sector it means establishing a framework for trade which promotes greater local value addition in the agricultural value chain so as to create employment and sustain and enhance rural incomes.</li>
+
+<li> From an ACP perspective this can be seen to include two distinct aspects: 
+<ul>
+
+<li> the structure and scope of the final agreement, which will determine the extent of the adjustment challenge faced by ACP countries;</li>
+
+<li> the ‘flanking measures’ which will need to be set in place to assist ACP countries in both adjusting to the changed market conditions created by an EPA and exploiting emerging opportunities.</li>
+
+</ul>
+ </li>
+
+<li> The EC has recently highlighted the importance it attaches to concluding agreements in trade-related areas and trade in services, which it sees as ‘the essence of the EPA sustainable-development package’.</li>
+
+</ul>
+<a name="eztoc98752_2" id="eztoc98752_2"></a><h2>Structure of the agreement</h2>
+<ul>
+
+<li> The key issues from an ACP perspective in terms of the structure of the basic trade in food-and-agricultural products under an EPA are: 
+<ul>
+
+<li> the extent of tariff-elimination commitments to be entered into by ACP regions on food-and-agricultural products; </li>
+
+<li> the time-frame for the elimination of tariffs by ACP regions on food-and-agricultural products;</li>
+
+<li> the nature of the safeguard measures to be allowed in sensitive food-and-agricultural product sectors;</li>
+
+<li> concretely addressing the issue of preference erosion.</li>
+
+</ul>
+ </li>
+
+<li> A number of wider developments underpin any consideration of these issues, notably:
+<ul>
+
+<li> the impact of CAP reform on the price competitiveness of EU food-and-agricultural products on internal EU and international markets; </li>
+
+<li> the evolution of consumer trends in the EU;</li>
+
+<li> the impact of new trade agreements on the value of traditional ACP agricultural-trade preferences. </li>
+
+</ul>
+ </li>
+
+<li> In this context, EPAs will require adjustments to be made to food-and-agricultural production chains in ACP countries in response to five major challenges:
+<ol>
+
+<li> the multidimensional process of erosion of the value of traditional ACP agricultural trade preferences; </li>
+
+<li> the challenge posed by the cost-increasing effects of EU food-safety standards and associated compliance and verification challenges;</li>
+
+<li> the growing product differentiation in the EU market which is of increasing price significance and the need to shift patterns of production in response to this changing situation; </li>
+
+<li> the growing competitive challenge faced on the EU market from highly competitive developing-country agricultural exporters as wider EU agricultural trade policy evolves;</li>
+
+<li> new competitive challenges which will be thrown up in serving national and regional markets for food-and-agricultural products as a result of the enhanced price competitiveness of EU food-and-agricultural exports.</li>
+
+</ol>
+ </li>
+
+</ul>
+<a name="eztoc98752_3" id="eztoc98752_3"></a><h2>Responding to preference erosion.</h2>
+<ul>
+
+<li> The first and simplest means of responding to the erosion of the value of preferences is through the complete removal of all residual tariffs charged on ACP food-and-agricultural product exports (e.g. removing the £0.15/kg special duty on ACP beef exports and the removal of all special duties on sugar-based products.</li>
+
+<li> Linked to this is the need to remove all remaining quantitative restrictions on duty-free access for ACP food-and-agricultural products exports - from grapes to sugar.</li>
+
+</ul>
+<a name="eztoc98752_4" id="eztoc98752_4"></a><h2>Defraying food-safety costs</h2>
+<ul>
+
+<li> Across a range of products the profitability of traditional ACP agricultural exports is being squeezed by declining EU prices and rising food-safety costs.</li>
+
+<li> This calls for the establishment of a wider range of targeted ‘aid for trade’ programmes to defray private-sector costs associated with meeting EU food-safety standards (in line with support extended internally within the EU) and to support the establishment and operation of public food-safety control systems.</li>
+
+</ul>
+<a name="eztoc98752_5" id="eztoc98752_5"></a><h2>Serving differentiated markets</h2>
+<ul>
+
+<li> The EU market is increasingly fragmenting into two distinct parts: the ‘necessity purchase’ and ‘luxury purchase’ components. </li>
+
+<li> Internally the EU is seeking to shift European agricultural production towards serving the ‘luxury purchase’ component of the EU market.</li>
+
+<li> In the ‘necessity-purchases’ component of the market consumers make purchase decisions based exclusively on price. </li>
+
+<li> In the ‘luxury-purchases’ component of the market in contrast, ‘quality’ standards, ethical factors or methods of production, play a more important role in the purchase decisions of consumers than price considerations. </li>
+
+<li> As the floor price for basic commodities has been allowed to fall, so the gap between prices of bulk commodities and differentiated products has widened. </li>
+
+<li> Indeed, ‘luxury purchase’ products and ‘necessity purchase’ products are now subject to divergent price trends: rising prices for ‘luxury purchases’ and stagnant or declining prices for ‘necessity purchases’. </li>
+
+<li> This carries important implications for ACP producers who will have to make the transition from simply ‘trading’ into general EU markets, to ‘marketing’ specific differentiated products into particular components of the EU market. </li>
+
+<li> This will require targeted ‘aid for trade’ support in identifying ‘luxury purchase’ components of the EU market and supporting investment in developing production to serve these components of the EU market.</li>
+
+</ul>
+<a name="eztoc98752_6" id="eztoc98752_6"></a><h2>Moving up the value chain</h2>
+<ul>
+
+<li> In many markets for traditional temperate agricultural products the process of CAP reform is substantially reducing market prices in the EU.</li>
+
+<li> This is being compounded by the associated process of dismantling bilaterally and multilaterally EU systems of tariff protection, which is further increasing competition on the EU market.</li>
+
+<li> The emergence of a range of non-traditional low-cost agricultural suppliers into international trade is also intensifying competition on basic agricultural markets in the EU.</li>
+
+<li> All of this requires ACP suppliers to move up the value chain, to the production of higher-value food products if ACP countries are to profitably develop their trade in food-and-agricultural products with the EU.</li>
+
+<li> Given the other constraints faced in ACP countries, targeted programmes of ‘aid for trade’ support will be required if ACP producers are to make this transition.</li>
+
+</ul>
+<a name="eztoc98752_7" id="eztoc98752_7"></a><h2>Meeting the growing competitive challenge</h2>
+<ul>
+
+<li> In an increasingly liberalised world the bulk of traditional ACP suppliers cannot compete on price with the highly competitive developing-country agricultural producers which are increasingly gaining market share in the EU.</li>
+
+<li> If traditional ACP suppliers are to profitably serve the EU market then they will need to be assisted in: 
+<ol>
+
+<li> serving increasingly differentiated EU markets for ‘luxury purchase’ products;</li>
+
+<li> moving up the value chain to reduce their dependence on the prices of basic agricultural commodities. </li>
+
+</ol>
+ </li>
+
+<li> This forms an important component of the development dimension of EPAs in the agricultural sector.</li>
+
+</ul>
+<a name="eztoc98752_8" id="eztoc98752_8"></a><h2>Meeting the challenge of reciprocity</h2>
+<ul>
+
+<li> The process of CAP reform is explicitly intended to enhance the price competitiveness of EU agricultural production for internal and international markets.</li>
+
+<li> This is achieved by shifting the basis of EU agricultural support from support for agricultural prices to support to agricultural producers.</li>
+
+<li> The provision of direct aid payments to farmers allows prices of basic agricultural commodities to fall without undermining EU farm incomes.</li>
+
+<li> This enhances the price competitiveness of EU agricultural products and simple value-added food products on both domestic and export markets.</li>
+
+<li> This has already seen an expansion of EU exports of simple value-added food products to ACP countries in those sectors where the process of CAP reform is most advanced (e.g. cereals) and those in which agricultural raw materials are used as a basic input (e.g. the livestock sectors).</li>
+
+<li> With the process of CAP reform now being rolled out to all EU agricultural sectors this is impacting on the markets of an increasing number of agricultural and simple value-added food products.</li>
+
+<li> The dismantling of tariff protection around ACP markets for agricultural and simple value-added food products in the context of this enhanced EU export price competitiveness could potentially undermine ACP efforts to move up the value chain in serving national and regional markets throughout the ACP (although most seriously in Africa).</li>
+
+<li> In this context it can be argued that there is a need to:
+<ol>
+
+<li> maintain tariff protection until such time as the EU has dismantled all forms of export support impacting on ACP-EU food-and-agricultural trade;</li>
+
+<li> establish pre-emptive safeguard measures involving the monitoring and surveillance of trade in food-and-agricultural products benefiting directly and indirectly from the deployment of EU agricultural support programmes, so as to prevent market disruption in sensitive ACP food-and-agricultural product sectors.</li>
+
+</ol>
+ </li>
+
+<li> This constitutes an important component of the development dimension of EPAs in the agricultural sector.</li>
+
+</ul>
+<a name="eztoc98752_9" id="eztoc98752_9"></a><h2>Trade in services and trade-related areas in relation to the development dimension</h2>
+<ul>
+
+<li> The efficiency of electricity, water, telecommunications, transport and banking services can have an important bearing on the costs carried by ACP food-and-agricultural producers.</li>
+
+<li> While there is undoubtedly a need to lower these costs, in most ACP countries this situation is not amenable to ‘quick fixes’ and will require targeted programmes of tailored solutions.</li>
+
+<li> This applies equally to the range of trade-related areas being given increasing prominence by the EC, where once again targeted programmes of measures will need to be carefully designed and implemented in ways consistent with the constraints faced by ACP food-and-agricultural producers.</li>
+
+</ul>
+<a name="eztoc98752_9_1" id="eztoc98752_9_1"></a><h3>Overall conclusion </h3>
+<ul>
+
+<li> Across all these ‘aid for trade’ areas the key issue is the delivery of the right mix of support to address specific prioritised adjustment needs, with a minimum of delay and at low transaction costs. </li>
+
+</ul>
+
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style " addthis:title="No. 3: The development dimension of EPAs and ACP-EU agriculture- sector relations">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/en/Resources/Agritrade-documents/Key-policy-issues/No.-3-The-development-dimension-of-EPAs-and-ACP-EU-agriculture-sector-relations" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				</div>
+
+	
+	</div>
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/Resources/Agritrade-documents/Special-reports/Contentious-issues-in-IEPA-negotiations-implications-and-questions-in-the-agricultural-sector">Contentious issues in IEPA negotiations: implications and questions in the agricultural sector</a></p>
+						<p><a href="/en/Resources/Agritrade-documents/Special-reports/African-food-and-agricultural-sectors-and-interim-EPAs">African food and agricultural sectors and interim EPAs</a></p>
+						<p><a href="/en/Resources/Agritrade-documents/Special-reports/Prospects-for-EU-agricultural-markets-2007-2014-June-2008">Prospects for EU agricultural markets 2007-2014 - June 2008</a></p>
+						<p><a href="/en/Resources/Agritrade-documents/Key-policy-issues/No.-3-The-development-dimension-of-EPAs-and-ACP-EU-agriculture-sector-relations">No. 3: The development dimension of EPAs and ACP-EU agriculture- sector relations</a></p>
+						<p><a href="/en/Resources/Agritrade-documents/Special-reports/Residual-tariff-barriers-to-ACP-countries-Agricultural-exports-to-the-EU">Residual tariff barriers to ACP countries: Agricultural exports to the EU</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+<a id="formstart"></a>
+<div class="separator"></div>
+
+<div class="content-login-box" id="login-box-popup" style="display: none;">
+	<div class="content-login-shadow">
+		<div class="content-login-main">
+			<div class="content-login-main-inner">
+
+					
+						<div style="margin:5px 0 5px 0">
+							Login with your MyAgritrade account:
+						</div>
+
+						<form action="/en/user/login" method="post">
+							<input type="hidden" name="Anchor" value="#addcomment"/>
+							<table cellpadding="0" cellspacing="0" width="100%">
+								<tr>
+									<td class="login-column-key">MyAgritrade</td>
+									<td class="login-column-value"><input type="text" class="shadow-background login-textfield" name="Login"/></td>
+								</tr>
+								<tr>
+									<td colspan="2" style="height: 5px;"></td>
+								</tr>
+								<tr>
+									<td class="login-column-key">Password</td>
+									<td class="login-column-value"><input type="password" class="shadow-background login-textfield" name="Password"/></td>
+								</tr>
+							</table>
+							<input type="hidden" name="RedirectURI" value="Resources/Agritrade-documents/Key-policy-issues/No.-3-The-development-dimension-of-EPAs-and-ACP-EU-agriculture-sector-relations"/>
+							<table cellpadding="0" cellspacing="0" width="100%" style="margin-top: 5px;">
+								<tr>
+									<td><a href="/en/user/forgotpassword">Forgot your password?</a><br/><a href="/en/user/register" alt="register">No account yet? Create one!</a></td>
+									<td align="right" valign="top"><input type="submit" class="login-form-button" value="&raquo; login" name="LoginButton"/></td>
+								</tr>
+							</table>
+						</form>
+					
+					<a href="javascript:loginBox();" class="login-box-close">&raquo; Close window</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="reaction">
+	<h3>Comment</h3>
+
+	
+	<a name="addcomment"></a>
+
+	<div class="reaction-thumb">
+		<div>
+			
+									<img class="profile-img" src="/extension/socialize/design/socialize/images/comment/unknown.png" alt=""/>
+				
+					</div>
+	</div>
+
+	<div class="reaction-buttons">
+		<a class="button" href="javascript:loginBox();"><span>
+							Choose ID
+					</span></a>
+	</div>
+
+
+	<div class="reaction-form">
+
+		<form action="/en/socialize/create" method="post">
+							<div class="line">
+					<div class="align-input">
+						<input id="reaction-name" type="text" name="Name" value="" class="reaction-input" placeholder="Login or fill your name in"/>
+					</div>
+				</div>
+			
+			<div class="line">
+				<div class="align-input">
+					<input id="reaction-subject" type="text" maxlength="40" name="Subject" value="" class="reaction-input" placeholder="Subject"/>
+				</div>
+			</div>
+
+			<div class="line">
+				<div class="align-input">
+					<textarea id="reaction-comment" name="Comment" class="reaction-textarea" placeholder="Your reaction"></textarea>
+				</div>
+			</div>
+
+			<div class="line">
+				<div class="recaptcha">
+															<script type="text/javascript">
+						var RecaptchaTheme='white';
+						var RecaptchaLang='en';
+						
+
+						var RecaptchaOptions = {
+							theme: RecaptchaTheme,
+							lang: RecaptchaLang
+						};
+						
+					</script>
+					<script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LdSNMMSAAAAADrQ5zWgH1gIPA-HR6iLYmJWVwvw"></script>
+
+	<noscript>
+  		<iframe src="http://api.recaptcha.net/noscript?k=6LdSNMMSAAAAADrQ5zWgH1gIPA-HR6iLYmJWVwvw" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>
+				</div>
+			</div>
+
+		<input type="hidden" value="3148" name="NodeID"/>
+
+		
+						<input type="hidden" value="Resources/Agritrade-documents/Key-policy-issues/No.-3-The-development-dimension-of-EPAs-and-ACP-EU-agriculture-sector-relations" name="RedirectURL"/>
+		
+		<div class="buttons">
+			<input type="submit" value="Add" class="reaction-submit"/>
+		</div>
+
+		</form>
+		<span class="big-red"><a href="/en/Welcome-to-Agritrade/Disclaimer">Terms and conditions</a></span>
+	</div>
+
+</div>			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				
+
+
+						<!-- center container ] -->
+			</div>
+			
+
+
+				<!-- [ right container -->
+		<div id="rightCntr">
+				
+<!-- login -->
+	<div class="block myagritrade rightsmall">
+		<form action="/en/user/login" method="post">
+				<h3>MyAgritrade</h3>
+				<div class="clear"></div>
+				<input type="text" class="field half set_password_user" name="Login" id="id1" value="" placeholder="Username"/>
+				<label class="passwordlabel"><span>Pass</span><input type="password" class="field half last set_password" value="" autocomplete="off" name="Password"/></label>
+				<input type="image" alt="Go" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif"/>
+			<input type="hidden" name="RedirectURI" value=""/>
+		</form>
+
+		<p class="smaller"><a href="/en/user/forgotpassword">Did you forget your password?</a></p>
+
+	</div>
+
+<!-- end login -->
+
+   <div class="block myagritrade rightsmall">
+		<form action="/en/user/register" method="get">
+				<h3>Signup</h3>
+				<input type="text" class="field full" value="" placeholder="Your E-mail Address" name="email"/>
+				<input type="image" alt="Go" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif"/>
+	   </form>
+	</div>
+	<div class="clear"></div>
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/Resources/Agritrade-documents/Special-reports/Contentious-issues-in-IEPA-negotiations-implications-and-questions-in-the-agricultural-sector">Contentious issues in IEPA negotiations: implications and questions in the agricultural sector</a></p>
+						<p><a href="/en/Resources/Agritrade-documents/Special-reports/African-food-and-agricultural-sectors-and-interim-EPAs">African food and agricultural sectors and interim EPAs</a></p>
+						<p><a href="/en/Resources/Agritrade-documents/Special-reports/Prospects-for-EU-agricultural-markets-2007-2014-June-2008">Prospects for EU agricultural markets 2007-2014 - June 2008</a></p>
+						<p><a href="/en/Resources/Agritrade-documents/Key-policy-issues/No.-3-The-development-dimension-of-EPAs-and-ACP-EU-agriculture-sector-relations">No. 3: The development dimension of EPAs and ACP-EU agriculture- sector relations</a></p>
+						<p><a href="/en/Resources/Agritrade-documents/Special-reports/Residual-tariff-barriers-to-ACP-countries-Agricultural-exports-to-the-EU">Residual tariff barriers to ACP countries: Agricultural exports to the EU</a></p>
+						</div>
+</div>		</div>
+		<!-- right container ] -->
+		
+		<div style="clear:both;"></div>
+
+
+		</section>
+		<!-- content container ] -->
+
+		<footer class="container">
+
+			<!-- [ bottom container -->
+			<div id="sitemap">
+	<a class="sitemap_toggle closed" href="#">Sitemap</a>
+	<nav>
+		<div class="links agri">
+			<h3>Agriculture</h3>
+			<div class="column">
+				<ul>
+					<li><em>Topics</em></li>
+					
+					<li><a href="/en/Agriculture/Topics/WTO">WTO</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/EPAs">EPAs</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/EU-FTAs">EU FTAs</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/ACP-FTAs">ACP - FTAs</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/ACP-regional-trade">ACP regional trade</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Market-access">Market access</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/SPS-Food-safety">SPS / Food safety</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Product-differentiation">Product differentiation</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/CAP-reform">CAP reform</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Biofuels">Biofuels</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Climate-change">Climate change</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Aid-for-trade">Aid for trade</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Other">Other</a></li>
+									</ul>
+			</div>
+
+			<div class="column">
+				<ul>
+					<li><em>Commodities</em></li>
+
+										<li><a href="/en/Agriculture/Commodities/General">General</a></li>
+										<li><a href="/en/Agriculture/Commodities/Bananas">Bananas</a></li>
+										<li><a href="/en/Agriculture/Commodities/Beef">Beef</a></li>
+										<li><a href="/en/Agriculture/Commodities/Cocoa">Cocoa</a></li>
+										<li><a href="/en/Agriculture/Commodities/Coffee">Coffee</a></li>
+										<li><a href="/en/Agriculture/Commodities/Cotton">Cotton</a></li>
+										<li><a href="/en/Agriculture/Commodities/Dairy">Dairy</a></li>
+										<li><a href="/en/Agriculture/Commodities/Horticulture">Horticulture</a></li>
+										<li><a href="/en/Agriculture/Commodities/Oil-crops">Oil crops</a></li>
+										<li><a href="/en/Agriculture/Commodities/Poultry">Poultry</a></li>
+										<li><a href="/en/Agriculture/Commodities/Rice">Rice</a></li>
+										<li><a href="/en/Agriculture/Commodities/Rum">Rum</a></li>
+										<li><a href="/en/Agriculture/Commodities/Sugar">Sugar</a></li>
+										<li><a href="/en/Agriculture/Commodities/Cereals">Cereals</a></li>
+										<li><a href="/en/Agriculture/Commodities/Tea">Tea</a></li>
+										<li><a href="/en/Agriculture/Commodities/Other">Other</a></li>
+									</ul>
+			</div>
+
+		</div>
+		<div class="links">
+			<h3>Fisheries</h3>
+		<ul>
+		
+			<li><a href="/en/Fisheries/Topics/Market-access">Market access</a></li>
+		
+			<li><a href="/en/Fisheries/Topics/ACP-EU-relations-FPAs">ACP-EU relations; FPAs</a></li>
+		
+			<li><a href="/en/Fisheries/Topics/EU-common-fisheries-policy">EU common fisheries policy</a></li>
+		
+			<li><a href="/en/Fisheries/Topics/WTO-international-developments">WTO &amp; international developments</a></li>
+		
+			<li><a href="/en/Fisheries/Topics/News-from-the-IOC-region">News from the IOC region</a></li>
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Regions</h3>
+		<ul>
+					
+				<li><a href="/en/Regions/Global">Global</a></li>
+						
+					
+				<li><a href="/en/Regions/EU">EU</a></li>
+						
+															
+					<li><a href="/en/Regions/ACP/Surface-transport-slow">Surface transport slow</a></li>
+				
+					<li><a href="/en/Regions/ACP/All-ACP">All ACP</a></li>
+				
+					<li><a href="/en/Regions/ACP/Caribbean">Caribbean</a></li>
+				
+					<li><a href="/en/Regions/ACP/Central-Africa">Central Africa</a></li>
+				
+					<li><a href="/en/Regions/ACP/Eastern-Africa">Eastern Africa</a></li>
+				
+					<li><a href="/en/Regions/ACP/West-Africa">West Africa</a></li>
+				
+					<li><a href="/en/Regions/ACP/Pacific">Pacific</a></li>
+				
+					<li><a href="/en/Regions/ACP/Southern-Africa">Southern Africa</a></li>
+							
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Publications</h3>
+			<ul>
+			
+				<li><a href="/en/Publications/News-Analysis">News &amp; Analysis</a></li>
+			
+				<li><a href="/en/Publications/Newsletter">Newsletter</a></li>
+			
+				<li><a href="/en/Publications/Executive-briefs">Executive briefs</a></li>
+			
+				<li><a href="/en/Publications/Interviews">Interviews</a></li>
+			
+				<li><a href="/en/Publications/Special-Reports">Special Reports</a></li>
+			
+				<li><a href="/en/Publications/Compendium">Compendium</a></li>
+						</ul>
+		</div>
+
+
+
+		<div class="links last">
+			<h3>Links</h3>
+			<ul>
+			
+				<li><a href="http://agritrade.cta.int/en" target="_blank">Agritrade</a></li>
+			
+				<li>My Agritrade</li>
+			
+				<li><a href="http://www.cta.int/en/CTA-Portals" target="_blank">CTA Web Portals</a></li>
+			
+				<li><a href="http://brussels.cta.int/index.php" target="_blank">CTA Brussels Office Weblog</a></li>
+			
+				<li>ARD WebRing</li>
+			
+				<li><a href="http://spore.cta.int/" target="_blank">Spore </a></li>
+			
+				<li><a href="http://ictupdate.cta.int/" target="_blank">ICT Update</a></li>
+			
+				<li><a href="http://knowledge.cta.int/" target="_blank">Knowledge for Development</a></li>
+			
+			</ul>
+		</div>
+	</nav>
+</div>
+
+
+
+			<!-- bottom container ] -->
+
+			<!-- [ footer container -->
+			<div id="footer">
+				<div class="footerleft">
+					<div class="icon_left">
+						<img src="/extension/agritrade/design/agritrade/images/icon1.gif" alt=""/>
+					</div>
+
+					<div class="text_center">
+						
+																					
+
+	<div class="block custom ">
+
+		
+		<p>CTA is a joint institution operating under the framework of the Cotonou Agreement between the ACP Group of States (Africa, the Caribbean and the Pacific) and the EU Member States (EuropeanUnion). CTA is funded by the European Union.
+
+		
+		</p>
+
+	</div>													
+					</div>
+
+					<div class="icon_right">
+						<img src="/extension/agritrade/design/agritrade/images/icon2.gif" alt=""/>
+					</div>
+				</div>
+
+				<div class="footerright">
+											
+
+	<div class="block links">
+		
+									<p><a href="/en/Welcome-to-Agritrade" target="_blank">About &amp; Contact</a></p>
+												<p><a href="/en/Welcome-to-Agritrade/Disclaimer">Disclaimer</a></p>
+					
+	</div>
+											
+
+	<div class="block custom ">
+
+		
+		<p>Copyright © 2011, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)
+
+		
+		</p>
+
+	</div>									</div>
+
+			</div>
+			<!-- footer container ] -->
+
+		</footer>
+
+	</div>
+	<!-- main container ] -->
+
+</div>
+<!-- wrapper ] -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-724238-5";
+urchinTracker();
+</script>
+
+
+
+<script type="text/javascript">
+  var _sf_async_config = { uid: 39651, domain: 'agritrade.cta.int' };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+        "js/chartbeat.js");
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":1308,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

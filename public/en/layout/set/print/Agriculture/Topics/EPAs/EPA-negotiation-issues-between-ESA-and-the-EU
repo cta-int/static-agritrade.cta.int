@@ -1,0 +1,973 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>EPA negotiation issues between ESA and the EU / EPAs / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																																		
+		
+		<div class='contentrealtionlist'>
+							
+																																																							
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																													,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																																																																																																																																																				,
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																																																																																																																																																																																																														,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7795/(search)/simple">General</a>
+							
+																																																																																																																																																																																																																																																																																																																																																													
+																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7813/(search)/simple">EPAs</a>
+							
+																																																																																																																																																																																																																																																																					
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>EPA negotiation issues between ESA and the EU</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/2020/138283/file/24fd19c665715c0317bb8211e3a5100c.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+												31 March 2010
+										</h4>
+
+						<h2>Executive brief: Update, April 2010</h2>
+					</header>
+
+
+				<div class="intro">
+
+						<a name="eztoc54830_0_2" id="eztoc54830_0_2"></a><h3>Contents</h3><p>
+<b>
+<a href="#1" target="_self">1 Background and key issues</a></b><br/>
+<b>
+<a href="#2" target="_self">2 Latest developments</a></b><br/>
+
+<a href="#21" target="_self">2.1 Progress of negotiations in 2009</a><br/>
+
+<a href="#22" target="_self">2.2 Impact of duty-free, quota-free access</a><br/>
+
+<a href="#23" target="_self">2.3 Resolving inconsistencies</a><br/>
+
+<a href="#24" target="_self">2.4 Support to production and trade adjustment in the food and agricultu...</a><br/>
+
+<a href="#25" target="_self">2.5 Regional developments in the Eastern and Southern Africa region</a><br/>
+<b>
+<a href="#3" target="_self">3 Implications for the ACP</a></b><br/>
+
+<a href="#3" target="_self">3.1 Dealing with contentious issues</a><br/>
+
+<a href="#32" target="_self">3.2 Issues faced under duty-free, quota-free access</a><br/>
+
+<a href="#33" target="_self">3.3 Ensuring effective support for food and agriculture production and t...</a><br/>
+
+<a href="#34" target="_self">3.4 Accommodating regional integration processes</a><br/>
+
+<a href="#35" target="_self">3.5 Potential reimposition of duties</a><br/>
+<b>
+<a href="#a" target="_self">Annexes</a></b><br/><b>
+<a href="#s" target="_self">Information sources </a></b></p><p><b>About this update</b></p><p>CTA’s <i>Executive brief: EPA negotiations: ESA configuration</i> was published in October 2008 and in CTA’s <i>Agritrade: ACP–EU Trade Issues (2009 Compendium)</i>. This update consists of: </p><p>
+<b>1. Background and key issues:</b> briefly summarising the original executive brief, and where necessary, updating developments related to key issues; <br/>
+<b>2. Latest developments:</b> reviewing developments that have taken place since the publication of the original executive brief; <br/><b>3. Implications for the ACP:</b> examining the implications of recent developments for the ACP countries concerned. </p><p>The original executive brief (2008) is available on request from: 
+<a href="mailto:info@agritrade.cta.int" target="_self">agritrade-mail@cta.int</a></p>
+
+		</div>
+		
+		
+					<a name="eztoc54831_1" id="eztoc54831_1"></a><h2>
+<a name='1'></a>1 Background and key issues</h2><p>Members of the Eastern and Southern Africa (ESA) Economic Partnership Agreement (EPA) configuration currently trade with the EU under seven different trade agreements. Five Least Developed Countries (LDCs) have declined to initial an interim EPA (IEPA) and export under the unilateral non-reciprocal ‘Everything but Arms’ (EBA) arrangement, which forms part of the EU’s Generalised System of (tariff) Preferences (GSP) regime. (Somalia never participated in the negotiations, while the Democratic Republic of Congo was ambiguous in its participation.) The five members of the East Africa Community (EAC) Customs Union have collectively initialled a single agreement, while six ESA members have initialled bilateral IEPAs, four of which have been signed. While each government initialling a bilateral IEPA drew up its tariff offer in the light of the Common Market for Eastern and Southern Africa (COMESA) common external tariff (CET), according to analysis posted by the Overseas Development Institute (ODI) and the European Centre for Development Policy Management (ECDPM), ‘the details of their liberalisation and of their exclusion baskets are different’. In addition, problems arise in relation to the COMESA CET classification, with ‘over a thousand items being liberalised by one or more of the ESA countries where there is some degree of discrepancy in the CET classification’, and with the classification of the same product being different in some instances in all the tariff schedules. </p><p>This gives rise to a multiplicity of separate and diverse tariff elimination commitments towards the EU from ESA configuration members. Only in the case of the EAC is a single tariff reduction arrangement in place that is consistent with the establishment of a common external tariff. Not only does the extent and pace of tariff liberalisation vary, but so too does the type of sensitive products excluded from tariff elimination commitments, with there being only one category of agricultural products in common in the list of exclusions under the six bilaterally concluded IEPAs. In all other areas of product exclusions, at least one ESA government has initialled an IEPA that has subjected ‘excluded’ products to some level of tariff elimination (see Annexes 1 and 2).</p><p><b>Table 1: Status of ESA (I)EPA trade relations (as at 1 March 2010)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td colspan="2" width="176" valign="top">  Non-LDC
+  </td><td colspan="2" width="275" valign="top">  LDC
+  </td>
+</tr>
+
+<tr>
+<td width="159" valign="top">  Type of agreement
+  </td><td width="87" valign="top">  Initialled
+  </td><td width="89" valign="top">  Signed
+  </td><td width="140" valign="top">  Initialled
+  </td><td width="135" valign="top">  Signed
+  </td>
+</tr>
+
+<tr>
+<td width="159" valign="top">  EAC IEPA
+  </td><td width="87" valign="top">  Kenya
+  </td><td width="89" valign="top">  &nbsp;
+  </td><td width="140" valign="top">  <p>Tanzania</p><p>Uganda</p><p>Burundi</p><p>Rwanda</p>
+  </td><td width="135" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="159" valign="top">  Bilateral IEPAs
+  </td><td width="87" valign="top">  &nbsp;
+  </td><td width="89" valign="top">  <p>Mauritius</p><p>Seychelles</p><p>Zimbabwe</p>
+  </td><td width="140" valign="top">  <p>Zambia</p><p>Comoros</p>
+  </td><td width="135" valign="top">  Madagascar
+  </td>
+</tr>
+
+</table>
+<table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="159" valign="top">  EBA (unilateral regime – no signature needed)
+  </td><td width="180" valign="top">  not applicable
+  </td><td width="270" valign="top">  Djibouti, Eritrea, Ethiopia, Sudan, Malawi
+  </td>
+</tr>
+
+</table>
+<p>Source: compiled by the author. </p><p>These different tariff elimination commitments could potentially pose problems as governments of the ESA region seek to move beyond general regional free-trade area (FTA) commitments, to the creation of a regional customs union. However, it should be noted that in a number of the IEPAs provisions exist for the revision of tariff elimination commitments in the context of regional integration initiatives, provided that the overall WTO compatibility of the agreement is maintained. </p><p>Looking beyond the tariff elimination commitments, ESA configuration members are looking to revise a range of ‘contentious issue’ provisions relating to: the standstill clause; the right to use export taxes as a policy tool; the most favoured nation (MFN) clause, rules of origin, the right to use import licences to regulate trade in sensitive products; special agricultural safeguard provisions; infant industry protection provisions; the scope of the development dimension of the IEPA and the definition of ‘substantially all trade’ (an important issue if a common regional tariff elimination offer is eventually to emerge). </p><p>At the level of regional integration initiatives in Eastern and Southern Africa, problems have arisen with regard to the establishment of a COMESA common external tariff. Although the structure of the common external tariff has been agreed (raw materials and capital goods – CET zero; intermediate goods – CET 10%; final products – CET 25%), no agreement has been reached on ‘a formal definition that allocated each item in the nomenclature to one or other group’. Each category appears to be defined differently in each country’s tariff schedules. A further complicating factor at the regional level is the commitment made at the level of heads of state to the establishment of a grand FTA arrangement bringing together the Southern African Customs Union (SACU), the Southern African Development Community (SADC), COMESA and the EAC.</p><p>As 2008 drew to a close, the following situation existed amongst ESA configuration countries: </p><p>a) a multiplicity of different tariff elimination commitments had been tabled and initialled, the inconsistencies within which constitute a significant barrier towards the establishment of a single common and comprehensive EPA embracing all eastern and southern African states which negotiated as part of the ESA configuration;</p><p>b) efforts were continuing to finalise IEPA tariff elimination commitments by other ESA configuration members which had not yet initialled an IEPA, with Zambia being the latest country to join the fold;</p><p>c) discussions were continuing around a range of contentious issues, but progress remained painfully slow, with a continued divergence of views on how to sequence the resolution of these contentious issues with the signing of the IEPAs;</p><p>d) wider regional integration discussions were continuing, with a new and extended commitment having been made to the establishment of an FTA and eventually a customs union embracing SACU, SADC, EAC and COMESA member states in a single framework, which would appear to further complicate efforts towards establishing a single common and comprehensive EPA;</p><p>e) ongoing problems with the harmonisation of national tariff schedules with the COMESA CET.</p><p>Critical to the evolution of the ESA-EU relationship will be the flexibility shown in accommodating the inconsistencies in national tariff elimination commitments in any future regional IEPA and in accommodating the new regional integration initiatives which have been launched since the initialling of the ESA IEPAs.</p><a name="eztoc54831_2" id="eztoc54831_2"></a><h2>
+<a name='2'></a>2 Latest developments</h2><a name="eztoc54831_2_1" id="eztoc54831_2_1"></a><h3>2.1 Progress of negotiations in 2009</h3><p>In November 2008 the EC was looking to sign the various IEPAs by March 2009, in order to move ahead with the implementation of the reciprocal commitments entered into under the various initialled IEPAs and enable faster progress to be made with the conclusion of a comprehensive regional EPA reaching beyond simply trade in goods.</p><p>As March 2009 approached, however, it became apparent that East African trade negotiators would be seeking an extension of the deadline for the conclusion of a comprehensive EPA with the EU. This was felt to be necessary ‘to guard against sloppiness’ and ensure that ‘regional economies are not exposed to harmful competition from the much more advanced EU’. This followed deliberations among ESA trade ministers which called for full consideration to be given to the outstanding issues faced prior to any further engagement with the EU. ESA ministers in particular highlighted the need ‘to develop benchmarks to measure the success or failure of EPAs and how these benchmarks are delivering on development’. They argued that ‘EPAs should make us better off than under the previous trade and economic agreement with the EC and accordingly, we need a set of indicators to ensure and measure that we are not worse off than yesteryear’.</p><p>This more cautious approach on the part of trade negotiators, which occurred across a number of ACP regions, appears to have been in part a response to the severity of the global economic downturn and its emerging consequences for African economies. This is particularly the case in the light of the growing debate around the impact of so called ‘contentious issues’, which have emerged in a number of regions, and many of which revolve around the regulation of agricultural trade and the protection of infant industries in the agro-food sector.</p><p>A deadline of 31 July 2009 was subsequently put forward by the EC for the signing of the EAC-EU IEPA. It is against this background that in July 2009, EAC ministers highlighted the need to identify a way forward in resolving outstanding issues. They specifically called for:</p>
+<ul>
+
+<li>the establishment of ‘a credible mechanism’ to address the issue of EPA adjustment costs;</li>
+
+<li>the building-in of ‘economic and development safety nets to support the required economic adjustments’, in order to facilitate national acceptance of the regional agreements concluded;</li>
+
+<li>political engagement between the parties to clear the logjam on economic and development issues;</li>
+
+<li>more time to conclude the negotiations, given the outstanding ‘weighty and substantive’ issues and concerns.</li>
+
+</ul>
+<p>Subsequent press reports following the failure to meet the 31 July deadline for signing the EAC-EU IEPA suggested that EAC exports to the EU could be affected by any further delay in the signing of the initialled EAC-EU IEPA. Any withdrawal of the transitional duty-free, quota-free access extended under the December 2007 EU Council Regulation (No. 1528/2007) would exclusively affect Kenyan exports, since Kenya is the only non-LDC in the EAC grouping. </p><p>Looking beyond the EAC, on 29 August 2009, in Mauritius, the governments of four ESA countries, Mauritius, Seychelles, Madagascar and Zimbabwe signed their bilateral IEPAs. At the signing ceremony the EC trade commissioner argued that ‘we now have the foundation to build a more comprehensive trade partnership that will support the ESA region’s work to build diverse and sustainable economies’. The trade commissioner maintained that the signed agreements would bring ‘a diverse region together under a single trade arrangement with the EU, tailored to the specific needs of the region and recognising its diversity’. However, this vision appears to stand in sharp contrast to the reality of the network of trade relations that the IEPAs have ushered in. As an EC memorandum issued at the time of the signing ceremony acknowledged, the reality is that so far ‘the ESA countries have not been in a position to table a single regional market access offer’.</p><p>The main impact of the signing of their IEPAs by four ESA configuration members is the start of implementation of tariff reductions on EU exports to the signatory countries. These reductions are scheduled to take place over the next 15 years on ‘between 80% and 92% of imports from the EU’, depending on the country concerned. According to analysis undertaken by ODI/ECDPM in their final report ‘The new EPAs: comparative analysis of their content and the challenges for 2008’, the most significant effects would be felt first in Mauritius, where the ‘first tranche of liberalisation [was] to be completed in 2008’, with a quarter of all imports from the EU being affected. This process of front-loaded tariff liberalisation is however wholly consistent with the Mauritian national development strategy, which <i>de facto</i> seeks to establish Mauritius as a production and processing platform serving both regional and international markets. </p><p>The front-loaded process of tariff liberalisation in Mauritius contrasts with the processes in Zimbabwe and Seychelles, where the first stage of tariff elimination will only commence in 2013. However in the case of Zimbabwe, from 2013 onwards ‘it is entirely possible that EU imports would compete with domestic production’. In the case of Madagascar, items to be liberalised in 2013 account for 37% of imports from the EU over the 2004-06 period. However it should be noted that ‘none of the items being liberalised in 2013 are agricultural products’.</p><p>On the eve of the signing ceremony, the governments of Zambia and the Comoros declined to sign their initialled IEPAs. With Zambia and Zimbabwe being geographically contiguous, having different tariff phase-down schedules and commitments and excluding different products from the process of tariff elimination, the question arises: in the context of the COMESA FTA agreement and the SADC FTA, how will Zambia stop EU products being imported duty free via Zimbabwe, even where the national policy is to maintain in place tariffs on certain specified sensitive agricultural products (e.g. milk and cheese). These concerns about how the different product coverage of the individual IEPAs will be reconciled with regional commitments to free trade may well be among the issues that the Zambian government would like to see addressed before it signs up to the ESA IEPA process. </p><p>Thus the 29 August 2009 signing ceremony included only four of the ESA region’s original 16 members. The five ESA members of the EAC (now additionally including Tanzania which ‘transferred’ from the SADC IEPA configuration at the end of 2007) did not sign their IEPA. A further two ESA governments which had initialled IEPAs (Zambia and Comoros) declined to sign, with six governments continuing to prefer trading under the non-reciprocal EBA GSP regime. In this context, a representative of the government of Ethiopia expressed the view that ‘Ethiopia would not lose or gain anything by signing the EPA at present and is not contemplating signing the deal in the near future’. This issue of how to ‘incentivise’ the participation of LDCs in reciprocal preferential trade arrangements with the EU, is one of the unresolved issues at the heart of the EPA negotiations, with this being a particularly acute dilemma in the ESA region where the majority of members, with the vast majority of the region’s population, are classified as LDCs.</p><p>August 2009 also saw discussions take place on a ‘comprehensive trade partnership, which would cover issues like services, investment, agriculture, technical standards, trade facilitation, trade-related rules’, infant industry protection, export duties, quantitative restrictions, the standstill commitment, agricultural safeguards, the MFN clause and the treatment of outermost regions of the EU (notably Reunion). According to the EC press release, ‘both sides agreed to press forward with negotiations without delay’. The EC press release highlighted the fact that, given the least developed country status of Djibouti, Ethiopia, Eritrea, Malawi and Sudan, the governments of these countries ‘do not need to submit a market access offer to sign the agreement and benefit from its development cooperation and fisheries provisions while negotiations towards the more comprehensive deal continue’. The EC has acknowledged that ‘significant work still remains to be accomplished’ on trade-related issues, with no clear consensus on how to deal with these issues emerging among ESA governments. On services, no discussions on market access issues have yet taken place. On development cooperation issues, ESA governments want ‘to strengthen the language in relation to availability of additional funds from EU member states’. Dialogue meanwhile continues on the ESA proposal for the establishment of development benchmarks in the agreement.</p><p>In November 2008, <i>Trade Negotiations Insights</i> reported it unlikely that a comprehensive ESA-EU EPA would be concluded in 2009, and this indeed proved to be the case. According to ESA representatives, ‘the outstanding disagreements on safeguard and infant industry clauses, and on export taxes, need to be resolved with the EU in order for the remaining seven of the region’s countries to sign on to IEPAs’. However it was reported that issues related to ‘some modification to tariffs on sensitive items’ and the maintenance of tariff-rate quotes (TRQs) in four main areas had largely been resolved.</p><p>In December 2009, pressure mounted on EAC members to sign the IEPA, with press reports maintaining that ‘the European Union has for the first time indicated that the failure of the East African Community to sign a new trade agreement will lead to the introduction of taxes on Kenyan exports to Europe’. This followed the release of a press statement from the EC delegation in Nairobi indicating that a failure to finalise the EPA process could result in the reimposition of standard GSP duties on Kenyan exports. This statement was reinforced by comments from the head of the EPA unit in Brussels, Jacques Wunenburger, who argued that talk about the costs of EPA should now move to talk about ‘the cost of non-EPA’. The prospect of such a development is causing concern amongst Kenyan horticulture and floriculture exporters. </p><p>However, in February 2010 the Kenyan government reiterated its willingness to maintain regional solidarity with its EAC partners, and pledged its continued support to the resolution of outstanding issues. This was despite further warnings from the EC delegate to Tanzania that the current situation whereby the EU-EAC IEPA remains unsigned is ‘untenable’, with it being argued that enjoying free access to EU markets while declining to sign a legally binding IEPA was ‘contrary to both EU law and World Trade Organisation rules’. In response, the Tanzanian trade minister reiterated the government’s commitment to signing an IEPA ‘as soon as possible after resolving [outstanding] issues’. The Ugandan government, meanwhile, has also reiterated its commitment to signing an agreement on market access and development aid in 2010, but has indicated an unwillingness to conclude a comprehensive agreement that includes provisions on trade in services, investment rules and government procurement. </p><p>Clearly a multiplicity of issues will need to be worked through before all EAC governments can sign the IEPA, with even this move not necessarily laying the foundations for the kind of comprehensive EPA to which the European Commission aspires. </p><a name="eztoc54831_2_2" id="eztoc54831_2_2"></a><h3>
+<a name='22'></a>2.2 Impact of duty-free, quota-free access</h3><p>In terms of access for ESA exports to the EU market, following the ending of transitional arrangements, October 2009 saw ESA configuration members enjoying full duty-free, quota-free access either under an IEPA or under the EBA conditions. From the perspective of countries of the ESA configuration region, the sector most affected by the granting of full duty-free, quota-free access is the sugar sector. Sugar exports are now restricted only by the overall ACP safeguard ceiling (trigger level 3.5 million tonnes), applicable solely to non-LDC ACP sugar exporters. </p><p>The ESA region has been a major focus for European, South African, Gulf and Indian corporate investment in sugar sector expansion. Associated British Foods, the owner of British Sugar and Billington’s, is a 51% shareholder in Illovo, which in recent years in the ESA configuration has made major investments in Zambia, Malawi and Tanzania. </p><p>Zambia is one of the ESA configuration members most profoundly affected by the phasing-in of duty-free, quota-free access. From exports to the EU of 30,000 tonnes in 2007, Zambian sugar exports rose to 100,000 in 2009, with a projected increase to 250,000 tonnes by 2010/11. In addition, with the benefit of further investment from Illovo, Zambian sugar production is projected to increase from 250,000 tonnes to 440,000 tonnes (with a longer-term potential of up to 1 million tonnes).</p><p>Similarly in Malawi,<b> </b>sugar production reached 266,000 tonnes in 2008, up from 207,000 tonnes in 2000, and is expected to reach 310,000 tonnes in 2010. From preferential exports of 50,000 tonnes in 2000, Malawi is looking to export some 100,000 tonnes to the EU market in 2010/11. In the case of both Malawi and Zambia, Illovo and its corporate partners (linked through Associated British Foods) can be expected to play the dominant role in this trade. </p><p>Meanwhile in Tanzania, a 25% expansion of production with the use of existing refining capacity is envisaged.</p><p>Uganda, Sudan<b> </b>and Ethiopia<b> </b>are also looking to expand sugar production, mainly on the basis of investment from India and, in the case of Sudan, the Gulf States. Sugar production in Uganda is expected to increase 11% in the coming season (2009/10) from 282,385 tonnes to 313,240 tonnes. This follows investment by local companies and foreign investment from India in upgrading existing mills. The three main factories, which account for 98% of national production, are looking to expand their combined sugar production to 335,000 tonnes by 2011. </p><p>Sudan for its part is projected to be the next ‘Brazil’, with the aim of tripling sugar production in the coming period. However, given that the source of investment in Sudanese sugar production is the Gulf States, much of this sugar may be destined for value-added processing activities in the Gulf, although undoubtedly the prospect of full duty-free, quota-free access to the EU market has also been a factor in investment location decisions.</p><p>In the case of Ethiopia, exports to the EU are expected to increase from an average of around 18,000 tonnes per annum in recent years to around 100,000 tonnes by 2010/11. However it should be noted that with exceptionally high world market prices and the introduction of the final reduction in the EU sugar reference prices on 1 October 2009, Ethiopia suspended sugar exports to the EU in November 2009, in order to meet domestic needs from domestic production rather than importing sugar at exceptionally high world market prices. This represents a significant turnaround in the relative position of the EU as a destination for sugar produced in the ESA region. </p><p>Looking beyond LDCs, the granting of duty-free, quota-free treatment under the IEPAs comparable to that extended under the EBA appears to have removed the disadvantage that non-LDCs have faced in terms of their attractiveness to external investment since the announcement of the EBA initiative in 2001: previously, the EBA initiative led to extensive investment flows into LDCs, notably in the sugar sector, and left non-LDCs at a disadvantage for attracting such investment. The impact that this has on individual non-LDC ESA members varies considerably. In the case of Mauritius, the consolidation of duty-free, quota-free access under the IEPA was a necessary pre-condition for the restructuring of the Mauritian sugar trade relationship with the EU. This has seen the major German sugar producer, Suedzucker, concluding a long-term supply agreement with Mauritius to market exports of direct-consumption sugar products to the EU within an overall ceiling of 400,000 tonnes. This forms part of a comprehensive production and trade adjustment programme for the Mauritian sugar sector involving: the implementation of revenue diversification schemes; major programmes for cost reduction; and a repositioning of the Mauritian sugar sector within the global sugar economy (see section 2.4 below for more detail). While this restructuring will not generate any additional volume of sugar exports to the EU, it will involve greater local value-addition to sugar products prior to export, and will open up possibilities for serving markets elsewhere, should price developments mean that the EU market becomes less financially attractive.</p><p>In the case of Zimbabwe, the granting of duty-free, quota-free access under the IEPA appears to have encouraged new sugar sector investment, despite the ongoing economic crisis. In January 2010, following good returns from its Zimbabwe operations, the South African sugar major Tongaat Hulett announced US$9 million of investment to double its production capacity in Zimbabwe from the current level of 298,000 tonnes to the installed capacity of 600,000 tonnes. The granting of duty-free, quota-free access would appear to be a major factor in this decision, with Zimbabwean sugar exports to the EU projected to increase from a quota-restricted access of 55,000 tonnes to 182,000 tonnes in 2010/11.</p><p>Even in Kenya, the ESA region’s highest-cost sugar producer, within its privatisation process the government is looking to bring in ‘strategic investors’ who can ‘inject sufficient capital and provide expertise’ to revive the mills. The rejuvenated Kenyan sugar sector, however, will largely be focused on dealing with regional competition on domestic markets, rather than exporting to the EU, with no sugar exports to the EU from Kenya being projected in the coming period up to the 2011/12 season.</p><p>Looking beyond the sugar sector, the region would also appear to have benefited from the removal of residual market access restrictions in the fruit and vegetable sector, although given the diversified nature of this market and the multiplicity of factors impacting on trade (from piracy in the Arabian Gulf to severe cold weather in Europe), quantifying the impact of the granting of duty-free, quota-free access is much more difficult. What is clear is that with the EC concluding a range of preferential trade agreements with its near neighbours, ACP margins of tariff preference are likely to be progressively eroded in the fruit and vegetable sector in the coming years. In addition, one is likely to see a relative increase in sanitary and phytosanitary (SPS) and food safety-related impediments to trade, with proactive ESA government policies, designed and implemented in close association with private-sector associations, needed to support the continuation of a reliable and profitable trade.</p><a name="eztoc54831_2_3" id="eztoc54831_2_3"></a><h3>
+<a name='23'></a>2.3 Resolving inconsistencies</h3><p>There is considerable divergence in the agricultural and food products subject to ‘front-loaded’ tariff elimination. The EAC begins its first phase of tariff reductions in 2010, involving only products where the tariff is already zero. The second phase of tariff reductions runs from 2015 to 2023, while the third phase runs from 2020 to 2033. Tariff reduction commitments are thus heavily back-loaded, with the EAC ‘only removing positive tariffs on a significant proportion of imports during the second phase’. This contrasts sharply with Mauritius, where the first tranche of liberalisation was completed in 2008, with a quarter of all imports from the EU being affected. In the case of Mauritius, ‘the great bulk of imports (71% in total) will be liberalised between 2013 and 2022’. Similar discrepancies in front- and back-loading of tariff reduction commitments occur across the other agreements.</p><p>A similar divergence exists with regard to product exclusions. In the case of Mauritius, ‘only 4.4% of imports are being excluded’, with some 23 of these items being agricultural products. Other ESA IEPAs have far more extensive exclusion lists, with agriculture products representing between one-third and two-thirds of all exclusions. This reflects different national policy orientations and perspectives on the role of trade liberalisation in national economic development. In the case of Mauritius and also to a degree Zimbabwe, this reflects the aspirations of local companies to expand their role in regional trade, based on value-added processing of both imported and domestically produced inputs. In the case of Madagascar, where 19.3% of imports from the EU are excluded (two-thirds of these agricultural items), the aim is to minimise competition from the EU in areas that ‘compete directly or indirectly with local farmers’.</p><p>Overall, in the agricultural component of the tariff liberalisation offers under these agreements, there are inconsistencies between both the first-stage tariff elimination commitments and the exclusions lists. Under any regional agreement, such inconsistency would need to be reconciled. The question arises: on what basis could such inconsistencies be reconciled, when national policy orientations and perspectives on the role of trade liberalisation in national economic development vary so much?</p><p>These inconsistencies are likely to be thrown into sharp focus as efforts to deepen regional integration, via the establishment of a common customs union (with a common external tariff), reach the implementation stage. A quantitative assessment of the COMESA Customs Union carried out by Regional Strategic Analysis and Knowledge Support System (RESAKSS), posted on the Internet in September 2009, noted that the establishment of the COMESA CET within the agreed framework would require some COMESA countries to increase their tariffs, while the majority of member states would need to undertake significant tariff reductions. The analysis (based on the Global Trade Analysis Project [GTAP] database and the MIRAGE computable general equilibrium model for trade policy analysis) found, among other things, that with the introduction of the CET, agricultural production in COMESA will decline ‘as cheaper imports are allowed into COMESA’ and, contrary to expectations, ‘the proposed COMESA customs union will not be beneficial to a majority of the member countries’. This suggests that reconciling IEPA commitments within moves towards the implementation of the COMESA CET is likely to prove extremely difficult. </p><p>In the short term, it is unclear what the implications will be for regional trade in food and agricultural products. The greatest problems are likely to arise between geographically contiguous states that have very different tariff phase-down commitments and product exclusion lists (e.g. Zimbabwe, Zambia and Malawi). They are likely to be most acute in sensitive sectors where the origin of products is ‘fudgeable’ and individual governments are seeking to promote local production in an era of increasing price volatility (e.g. in the dairy sector). In these particular areas there may be a need to revise tariff elimination commitments and/or show greater flexibility in the interpretation and application of contentious provisions (e.g. provisions relating to the use of import licences).</p><p>A pragmatic approach based on an understanding of, and support for, national agricultural development efforts would appear to be needed in this regard, particularly since it is unlikely outside a limited number of areas that the existing inconsistencies will actually give rise to substantial economic difficulties (above and beyond those created by moves towards the COMESA CET in itself). Of course, if the aim is to establish a single common ESA-wide tariff offer, then the existing inconsistencies pose a major challenge. This is particularly the case when it is recalled that it was largely the failure to agree on a common product exclusion list and the structure of the tariff offer that led to the fragmentation of the ESA IEPA configuration grouping towards the end of 2007.</p><a name="eztoc54831_2_4" id="eztoc54831_2_4"></a><h3>
+<a name='24'></a>2.4 Support to production and trade adjustment in the food and agriculture sector</h3><p>For the European Commission, the principal vehicle for support to regional integration and EPA implementation in the ESA region is seen as being the 10th EDF regional indicative programme (RIP). The 10 EDF RIP for Eastern and Southern African and Indian Ocean states contains an indicative allocation of €645 million. This is almost twice the combined size of the initial allocation to East Africa (€223 million) and Southern Africa (€101 million) for regional cooperation under the 9th EDF. RIP funding, however, has not only been increased, but fully 85% of the allocation is deployed in support of regional economic integration initiatives (a further 10% is allocated to regional political integration and 5% to non-focal areas). The focal area of regional economic integration includes interventions in the following areas:</p>
+<ul>
+
+<li>trade-related assistance and capacity building;</li>
+
+<li>alleviation of the impact of economic and fiscal adjustments in public expenditures;</li>
+
+<li>support to private-sector development;</li>
+
+<li>removal of supply-side constraints</li>
+
+<li>improvement of land- and water-resources management to develop agricultural and food production;</li>
+
+<li>improving economic benefits derived from sustainable management of marine resources;</li>
+
+<li>conservation of nature resources and management of the environment.</li>
+
+</ul>
+<p>In addition the innovative mechanism for aid delivery used under the 9th EDF, Contribution Agreements, will continue to be used under the 10th EDF to support COMESA-managed programmes. Looking beyond COMESA-managed programmes, however, critical issues will need to be addressed in making effective use of available aid resources in support of food- and agricultural-sector adjustment processes. These include: </p>
+<ul>
+
+<li>overcoming the delays in moving from programming to implementation of measures in support of sector-specific trade and production adjustment support programmes;</li>
+
+<li>ensuring that activities supported address concrete problems on the ground arising as a consequence of the implementation of IEPAs;</li>
+
+<li>ensuring that the production and trade adjustment support extended is consistent with the needs of private-sector operators in the ESA region.</li>
+
+</ul>
+<p>While the RIP allocation has been substantially expanded, it may well be that as regards national food- and agricultural-sector adjustment processes, EC funding will largely be provided outside the RIP framework, either through national indicative programmes (including the ‘B’ allocation from which assistance under the FLEX instrument can be drawn), or through EU budget allocations to specific sector-based restructuring processes in Eastern and Southern Africa, notably the sugar protocol accompanying measures programme. For example, the seven ESA beneficiaries of the sugar protocol accompanying measures programme have been allocated a total of €186,247 million in restructuring support. However, by far the highest percentage (over two-thirds) is allocated to one country, Mauritius, which also enjoys the highest disbursement rate of any ESA-region sugar protocol accompanying measures beneficiary (see Annex 3). Indeed, by April 2009 Mauritius accounted for fully 88% of all disbursements made under these programmes. In addition, assistance in the form of loans from the European Investment Bank (EIB) has also been mobilised for the expansion of sugar refining capacity (a €13 million loan signed in August 2009 and a €15 million loan signed on 2 February 2010).</p><p>While no other sugar protocol accompanying measures programme has enjoyed the same success as the Mauritian programme, important lessons can be drawn from this experience in terms of getting to grips with production and trade adjustment challenges in the food and agriculture sector in the ESA region. Indeed, effective engagement in the deployment of development assistance to support EPA-related trade and production adjustments in the food and agriculture sector would appear to be an area where a new impetus is needed around the IEPA negotiations. This is particularly important, as progress in this area could influence the overall assessment of LDC governments of the costs and benefits associated with fuller participation in the IEPA process. </p><p><b>Table 2: Sugar protocol accompanying measures beneficiaries: ESA EPA configuration</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="226" valign="top">  <b>Country</b>
+  </td><td colspan="2" width="269" valign="top">  <b>Multi-annual Indicative Programme allocation 2007-10 (€)</b>
+  </td><td colspan="2" width="225" valign="top">  <b>Percentage share of ESA total (%)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="226" valign="top">  <b>ESA beneficiaries</b>
+  </td><td width="164" valign="top">  &nbsp;
+  </td><td width="105" valign="top">  &nbsp;
+  </td><td width="165" valign="top">  &nbsp;
+  </td><td width="60" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="226" valign="top">  Mauritius
+  </td><td width="164" valign="top">  127,541,000
+  </td><td width="105" valign="top">  &nbsp;
+  </td><td width="165" valign="top">  68.48
+  </td><td width="60" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="226" valign="top">  Zimbabwe
+  </td><td width="164" valign="top">  22,137,000
+  </td><td width="105" valign="top">  &nbsp;
+  </td><td width="165" valign="top">  11.89
+  </td><td width="60" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="226" valign="top">  Malawi
+  </td><td width="164" valign="top">  9,911,000
+  </td><td width="105" valign="top">  &nbsp;
+  </td><td width="165" valign="top">  5.32
+  </td><td width="60" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="226" valign="top">  Madagascar
+  </td><td width="164" valign="top">  8,428,000
+  </td><td width="105" valign="top">  &nbsp;
+  </td><td width="165" valign="top">  4.53
+  </td><td width="60" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="226" valign="top">  Kenya
+  </td><td width="164" valign="top">  6,230,000
+  </td><td width="105" valign="top">  &nbsp;
+  </td><td width="165" valign="top">  3.35
+  </td><td width="60" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="226" valign="top">  Tanzania
+  </td><td width="164" valign="top">  6,000,000
+  </td><td width="105" valign="top">  &nbsp;
+  </td><td width="165" valign="top">  3.22
+  </td><td width="60" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="226" valign="top">  Zambia
+  </td><td width="164" valign="top">  6,000,000
+  </td><td width="105" valign="top">  &nbsp;
+  </td><td width="165" valign="top">  3.22
+  </td><td width="60" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="226" valign="top">  <b>Sub-total </b>
+  </td><td width="164" valign="top">  <b>186,247,000</b>
+  </td><td width="105" valign="top">  <b> </b>
+  </td><td width="165" valign="top">  <b> </b>
+  </td><td width="60" valign="top">  <b> </b>
+  </td>
+</tr>
+
+</table>
+<p>Source: figures extracted from Multi-annual Indicative Programmes for individual sugar-protocol accompanying measures beneficiaries.</p><a name="eztoc54831_2_5" id="eztoc54831_2_5"></a><h3>
+<a name='25'></a>2.5 Regional developments in the Eastern and Southern Africa region</h3><p>In parallel with the IEPA process, the governments of the ESA region have been grappling with the deepening and harmonisation of their wider regional integration processes. The conclusion of a multiplicity of IEPAs with widely differing tariff elimination commitments, implementation time-frames and exclusion lists greatly complicates this regional integration process. </p><p>The practical implications of the complications that can arise are illustrated by the experience of the launching of the COMESA customs union in June 2009. It should be noted that in order to establish the COMESA common external tariff (CET), while most member governments will need to reduce tariffs, a number of governments will need instead to increase their tariffs. This will prove difficult, given the differing tariff elimination commitments made in the individual IEPAs concluded and the tariff ‘standstill’ commitments (i.e. not to increase tariffs from the agreed baseline) made in some of the agreements. The problem of the different tariff elimination commitments made under the IEPAs was manageable while COMESA was simply a free-trade area, however, it poses a major problem given efforts to move towards a common external tariff. This remains the case even with the three-year transition period allowed (extending to five years in exceptional cases, with scope allowed for excluding some items from the CET process) to enable all member states to align their national tariff schedules with the COMESA CET. The practical difficulties faced may in part account for why only a minority of members signed up to the COMESA customs union in June 2009.</p><p>In the context of the East African Community (EAC), there remains the additional problem of harmonising the EAC CET with the COMESA CET, an issue complicated by the fact that Tanzania remains outside COMESA.</p><p>While the inconsistencies in tariff elimination commitments contained in the various IEPAs will not pose an immediate challenge, given the transitional period set in place for moving towards a COMESA CET, they will create difficulties in the coming years unless existing inconsistencies in the treatment of products under the various IEPAs can be ironed out.</p><p>In the agri-food sector, problems are most likely to arise with regard to processed food products, particularly regarding rules of origin questions, which have already proved controversial, for example as regards the wheaten products sector. </p><p>The seriousness of the dilemma posed by the conflicting demands of trade liberalisation agreements to which ESA governments have signed up, is highlighted by the press reports in 2009 of growing frustration in the Kenyan government over the pace of EAC decision making, with indications emerging around the signing ceremony of June 2009 that the government of Kenya was even considering signing the COMESA customs union agreement unilaterally. </p><p>Efforts to launch the grand SACU/SADC/COMESA/EAC FTA can be seen as further complicating matters. However, as long as this remains at the level of an FTA, with no requirement for the establishment of a common external tariff, the inconsistencies in the tariff treatment of imports from the EU would appear to be manageable. The FTA would however create problems as regards the establishment and implementation of rules of origin for a range of processed agricultural and food products.</p><a name="eztoc54831_3" id="eztoc54831_3"></a><h2>
+<a name='3'></a>3 Implications for the ACP</h2><a name="eztoc54831_3_6" id="eztoc54831_3_6"></a><h3>3.1 Dealing with contentious issues</h3><p>Many of the contentious issues in the EPA negotiations emerged only towards the end of 2007. A number of ACP negotiators have linked the emergence of these contentious issues to the EU’s broader trade policy, which is increasingly focused on the removal of non-tariff barriers to trade, seen as the principal impediment to expanded EU exports in the coming period. Many of these contentious provisions have a direct bearing on the use of trade policy tools in support of food and agriculture sector development, with the full implications at the national level only now being assessed. The future role of trade policy tools needs to be seen against the backdrop of the acute fiscal constraints on the use the kind of financial tools that the EU routinely deploys in pursuit of agricultural policy objectives. This means that governments of ESA IEPA member states have a greater need for traditional trade policy tools (import licensing, infant industry provisions, special agricultural safeguards, export taxes, etc.) than is the case under the EU’s reformed common agricultural policy. </p><p>Against this background a more nuanced approach to the removal of non-tariff barriers to trade would appear to be required: an approach which makes a clear distinction between legitimate trade policy tools, and non-tariff barriers to trade such as illegal road blocks, corrupt customs practices, and bureaucratic import and export procedures. </p><a name="eztoc54831_3_7" id="eztoc54831_3_7"></a><h3>
+<a name='32'></a>3.2 Issues faced under duty-free, quota-free access</h3><p>The granting of full duty-free, quota-free access needs to be seen against the backdrop of the erosion of the value of traditional ACP agricultural trade preferences. This arises both from the process of EU agricultural policy reform (most clearly in the sugar sector), and the process of extending preferential access to the EU market for non-ACP suppliers through a range of bilateral preferential trade agreements (a trend likely to intensify in the coming period in the horticultural sector). These trends mean that, in the coming period, ESA exporters will need to place greater emphasis on identifying and responding to market trends. This applies at a multiplicity of levels, ranging from making significant advances in terms of compliance with evolving quality standards, in order to secure price premiums for producers, through strengthening the design, packaging and marketing of differentiated products in line with evolving consumer trends, to improving understanding of evolving market opportunities in the EU and beyond, given the changing patterns of global demand across a wide range of sectors. Targeted pump-priming public assistance, directed via producers’ associations, could usefully be deployed in order to make these trade and production adjustments in response to changed market realities. This constitutes an important aspect of the ‘aid for trade’ agenda in the ESA region.</p><p>In the sugar sector, an equally important issue is likely to be the nature of the corporate alliances developed in getting ESA sugar to the EU market. While this is not quite so important in the current ‘sellers’ market’, it is likely to take on considerable significance when world market prices fall. In the coming period, the nature of the commercial relationships set in place is likely to a critical factor in the distribution of value along the sugar supply chain, and hence in the long-term profitability and sustainability of the various patterns of sugar production emerging in the ESA region. </p><p>The issue of the corporate alliances formed could also become an important factor in the horticulture sector, given the growing complexity of EU SPS and food-safety regulations, and the distribution of market power along fruit and vegetable supply chains serving EU markets.</p><p>In addition in the coming years, SPS and food-safety concerns and regulations, and non-tariff barriers to trade, are likely to become a critical determining factor in the benefits derived from the granting of full duty-free, quota-free access to the EU market. Getting to grips with these challenges at the level of both the private sector and public sector will constitute a major challenge, and constitutes an important area for ‘aid for trade’ support.</p><a name="eztoc54831_3_8" id="eztoc54831_3_8"></a><h3>
+<a name='33'></a>3.3 Ensuring effective support for food and agriculture production and trade adjustment processes</h3><p>Given the future challenges faced in exploiting duty-free, quota-free access and responding to trade liberalisation challenges, it would appear important to learn from existing experiences in the ESA region of effectively utilising external assistance to support nationally designed and driven food- and agriculture-sector trade and production adjustment processes. Experience in other regions where FTAs have been set in place, notably the SADC region following the signing of the EU-South Africa Trade Development and Cooperation Agreement, suggest a need to ensure that restructuring challenges faced at the national level are effectively addressed. This has not always been the case, with scarce EC finance often being deployed in support of regional policy formulation and institutional capacity-building processes, rather than nationally designed and implemented programmes of production and trade adjustment. The challenges faced in effectively operationalising the national–regional policy-making interface have become increasingly apparent, as regions seek to move forward together in dealing with the IEPAs.</p><p>At the national level, the success of the Mauritian sugar protocol accompanying measures programme in the face of the radical changes on the EU market, which accounts for the vast majority of Mauritian sugar exports, can be attributed to the existence of a pre-existing restructuring programme, behind which a broad stakeholder consensus had been built. It was characterised by: </p>
+<ul>
+
+<li>an active policy of diversification of revenue streams from sugar cane production;</li>
+
+<li>a market-led policy for repositioning Mauritian sugar exports on the EU market, including a redefinition of the routes to market; </li>
+
+<li>the implementation of a rigorous cost-reduction programme at field and factory levels, including a rationalisation of production;</li>
+
+<li>the establishment of mechanisms to distribute the benefits of restructuring across all stakeholders;</li>
+
+<li>a broad stakeholder consensus on the strategies to be pursued; </li>
+
+<li>effective public administration for the deployment of pump-priming support to the production process;</li>
+
+<li>a strong involvement of the private sector in the financing of the overall restructuring process; </li>
+
+<li>a close coordination of sugar sector restructuring with broader economic adjustment processes; </li>
+
+<li>the maintenance of an ongoing and constructive dialogue between the private sector, governments and the local EC delegation, which greatly facilitated implementation.</li>
+
+</ul>
+<p>This facilitated not only a rapid disbursement of available EC assistance, but also its effective deployment in support of a coherent, multi-faceted, market-led production and trade adjustment process. </p><p>However, in many respects the sugar sector experience in Mauritius is unique. Across a range of sectors it will be much more difficult to identify not only the specific effects of the new IEPA arrangements and the impact of broader processes of change in the EU-ESA agricultural trade relationship which are under way, but also the proactive, market-led trade and production adjustment strategies necessary to respond to these changes. There can be little doubt, however, that this process can be effectively assisted by the targeted deployment of pump-priming public sector assistance, deployed within the framework of substantive and effective structures for public–private sector dialogue on the adjustment challenges faced and appropriate response strategies required. Financing alone however is not sufficient: an open and substantive public–private sector dialogue, with strong sector-specific private-sector leadership is essential to conceptualising, designing and subsequently implementing proactive trade and production adjustment strategies. It needs to be recognised that outside a limited number of sectors and countries, the foundations in the ESA region for such an approach are fragile. This poses major problems for ensuring effective support for food and agriculture production and trade adjustment processes across the ESA region. This challenge, however, will need to be addressed if least developed agriculture-dependent economies in the ESA region are to be convinced of the benefits of the EPA process.</p><a name="eztoc54831_3_9" id="eztoc54831_3_9"></a><h3>
+<a name='34'></a>3.4 Accommodating regional integration processes</h3><p>Given the incomplete nature of the process of harmonising national tariffs in line with the COMESA CET and the varied tariff reduction offers which ESA member states have tabled, a way will need to be found to reconcile ‘standstill’ commitments and inconsistent tariff elimination commitments, if COMESA is to be assisted in dealing with the difficult process of tariff harmonisation. In this context the European Parliament’s call for provision to be made for existing commitments to be revised, ‘if they prove too burdensome to implement’, should be noted. Given the new powers granted to the European Parliament under the Lisbon Treaty, this could offer an interesting case study of the European Commission’s new openness to parliamentary perspectives on trade negotiations. Indeed a strong case appears to exist for the adoption of a flexible approach involving the waiving of certain tariff reduction commitments and the granting of approval for certain tariff increases. This would enable progress to be made towards a single regional FTA arrangement across the ESA IEPA members. In particular, it would help to avoid placing serious obstacles in the way of ongoing regional integration processes in Eastern and Southern Africa that would inevitably arise without such flexibility.</p><a name="eztoc54831_3_10" id="eztoc54831_3_10"></a><h3>
+<a name='35'></a>3.5 Potential reimposition of duties</h3><p>Pressure is mounting on Kenya to press ahead with its signature of the EAC-EU IEPA: withdrawal of the transitional duty-free, quota-free access extended under the December 2007 EU Council Regulation (Reg. No. 1528/2007) being held out as a real prospect if the agreement is not signed in the near future. It is unclear how the current situation will evolve. The interpretation placed on the provisions of the EU Council Regulation, which extended duty-free, quota-free treatment to a number of countries listed in annex 1 to the Regulation, will be critical. </p><p>The regulation stipulates that countries will remain eligible for such duty-free, quota-free access unless the EU Council, acting by qualified majority on the basis of a proposal from the EC, were to sanction their removal from the list of eligible beneficiary countries. The regulation stipulates that this can only occur where a region or state indicates that it does not intend to ratify the initialled IEPA, or if such ratification has not taken place within ‘a reasonable period of time’, or if a state or region formally terminates the agreement or rights and obligations set out under the agreement. To date, no EAC government has indicated an intention not to ratify the initialled IEPA, nor has any EAC government terminated the rights and obligations set out under the agreement. Equally, what constitutes ‘a reasonable period of time’ is nowhere defined in the December 2007 EU Council resolution. </p><a name="eztoc54831_4" id="eztoc54831_4"></a><h2>
+<a name='a'></a>Annexes </h2><p><b>Annex 1: Agricultural exclusions set out in Eastern and Southern Africa’s interim EPAs</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="54" valign="top">  <b>HS2</b>
+  </td><td width="307" valign="top">  <b>Description </b>
+  </td><td width="63" valign="top">  <b>EAC</b>
+  </td><td width="63" valign="top">  <b>Com-oros</b>
+  </td><td width="63" valign="top">  <b>Mada-gasc’r</b>
+  </td><td width="63" valign="top">  <b>Maur-itius</b>
+  </td><td width="63" valign="top">  <b>Seyc-helles</b>
+  </td><td width="63" valign="top">  <b>Zimb-abwe</b>
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  52
+  </td><td width="307" valign="top">  cotton 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  20
+  </td><td width="307" valign="top">  preparations of vegetables, fruit, nuts or other parts of plants 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  07
+  </td><td width="307" valign="top">  edible vegetables and certain roots and tubers 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  09
+  </td><td width="307" valign="top">  coffee, tea, maté and spices 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  04
+  </td><td width="307" valign="top">  dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  08
+  </td><td width="307" valign="top">  edible fruit and nuts; peel of citrus fruits or melons 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  02
+  </td><td width="307" valign="top">  meat and edible meat offal 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  22
+  </td><td width="307" valign="top">  beverages, spirits and vinegar 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  16
+  </td><td width="307" valign="top">  preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  19
+  </td><td width="307" valign="top">  preparations of cereals, flour, starch or milk; pastrycooks' products 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  21
+  </td><td width="307" valign="top">  miscellaneous edible preparations 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  17
+  </td><td width="307" valign="top">  sugars and sugar confectionery 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  15
+  </td><td width="307" valign="top">  animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  11
+  </td><td width="307" valign="top">  products of the milling industry; malt; starches; inulin; wheat gluten 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  03
+  </td><td width="307" valign="top">  Fish and crustaceans, molluscs and other aquatic invertebrates 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  24
+  </td><td width="307" valign="top">  tobacco and manufactured tobacco substitutes 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  10
+  </td><td width="307" valign="top">  cereals 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  18
+  </td><td width="307" valign="top">  cocoa and cocoa preparations 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  23
+  </td><td width="307" valign="top">  residues and waste from the food industries; prepared animal fodder 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  01
+  </td><td width="307" valign="top">  live animals 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  06
+  </td><td width="307" valign="top">  live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  14
+  </td><td width="307" valign="top">  vegetable plaiting materials; vegetable products not elsewhere specified (n.e.s.) 
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  05
+  </td><td width="307" valign="top">  Products of animal origin, n.e.s. or included 
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  12
+  </td><td width="307" valign="top">  oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder 
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td>
+</tr>
+
+<tr>
+<td width="54" valign="top">  13
+  </td><td width="307" valign="top">  lac; gums, resins and other vegetable saps and extracts 
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  Yes
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+</table>
+<p>Source: drawn from ECDPM/ODI, final report, ‘The new EPAs: comparative analysis of their content and the challenges for 2008’, 31 March 2008.</p><p><b>Annex 2: Tariff elimination commitments and main exclusions in the ESA region’s final interim EPAs</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td rowspan="2" width="136" valign="top">  <b>ESA region IEPAs</b>
+  </td><td colspan="4" width="263" valign="top">  <b>Percentage liberalisation commitments</b>
+  </td><td rowspan="2" width="300" valign="top">  <b>Main exclusions</b>
+  </td>
+</tr>
+
+<tr>
+<td width="62" valign="top">  <b>in 2008 %</b>
+  </td><td width="71" valign="top">  <b>by 2012 %</b>
+  </td><td width="59" valign="top">  <b>by 2017 %</b>
+  </td><td width="71" valign="top">  <b>by 2022 %</b>
+  </td>
+</tr>
+
+<tr>
+<td width="136" valign="top">  Seychelles
+  </td><td width="62" valign="top">  &nbsp;
+  </td><td width="71" valign="top">  62.0
+  </td><td width="59" valign="top">  77.0
+  </td><td width="71" valign="top">  97.5
+  </td><td width="300" valign="top">  meat and fisheries products; beverages; tobacco; leather articles; glass and ceramics; vehicles.
+  </td>
+</tr>
+
+<tr>
+<td width="136" valign="top">  Zimbabwe
+  </td><td width="62" valign="top">  &nbsp;
+  </td><td width="71" valign="top">  45.0
+  </td><td width="59" valign="top">  n/a
+  </td><td width="71" valign="top">  80.0
+  </td><td width="300" valign="top">  products of animal origin; cereals; beverages; paper, plastics, rubber; textiles, clothing and footwear; glass and ceramics; consumer electronics; vehicles.
+  </td>
+</tr>
+
+<tr>
+<td width="136" valign="top">  Mauritius
+  </td><td width="62" valign="top">  24.5
+  </td><td width="71" valign="top">  n/a
+  </td><td width="59" valign="top">  53.6
+  </td><td width="71" valign="top">  95.6
+  </td><td width="300" valign="top">  live animals and meat; edible products of animal origin, fats; edible preparations and beverages; chemicals, plastics and rubber articles; leather, fur and skins; iron and steel; consumer electronics.
+  </td>
+</tr>
+
+<tr>
+<td width="136" valign="top">  Comoros
+  </td><td width="62" valign="top">  &nbsp;
+  </td><td width="71" valign="top">  21.5
+  </td><td width="59" valign="top">  n/a
+  </td><td width="71" valign="top">  80.6
+  </td><td width="300" valign="top">  products of animal origin and fish; beverages; chemicals; vehicles.
+  </td>
+</tr>
+
+<tr>
+<td width="136" valign="top">  Madagascar
+  </td><td width="62" valign="top">  &nbsp;
+  </td><td width="71" valign="top">  37.0
+  </td><td width="59" valign="top">  n/a
+  </td><td width="71" valign="top">  80.7
+  </td><td width="300" valign="top">  meat and fish products; vegetables; cereals; beverages; plastics and rubber; articles of leather, fur and skins; paper; metals.
+  </td>
+</tr>
+
+</table>
+<p>Source: drawn from ECDPM/ODI, final report, ‘The new EPAs: comparative analysis of their content and the challenges for 2008’, 31 March 2008.</p><p><b>Annex 3: Commitment and disbursement rates under EC sugar-protocol accompanying measures programme 2006-08: situation for southern and eastern African beneficiaries</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="146" valign="top">  &nbsp;
+  </td><td width="124" valign="top">  Global allocation*
+  </td><td width="124" valign="top">  Secondary commitments
+  </td><td width="124" valign="top">  Disbursements
+  </td><td colspan="2" width="180" valign="top">  Disbursements as a percentage of allocation 2006-2008 (%)
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  <b>ESA beneficiaries</b>
+  </td><td width="124" valign="top">  &nbsp;
+  </td><td width="124" valign="top">  &nbsp;
+  </td><td width="124" valign="top">  &nbsp;
+  </td><td width="135" valign="top">  &nbsp;
+  </td><td width="45" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  Mauritius (B)
+  </td><td width="124" valign="top">  74,866,000
+  </td><td width="124" valign="top">  42,500,000
+  </td><td width="124" valign="top">  39,800,000
+  </td><td width="135" valign="top">  53.16
+  </td><td width="45" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  Malawi
+  </td><td width="124" valign="top">  10,578,000
+  </td><td width="124" valign="top">  2,812,580
+  </td><td width="124" valign="top">  1,075,291
+  </td><td width="135" valign="top">  10.17
+  </td><td width="45" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  Tanzania
+  </td><td width="124" valign="top">  6,562,000
+  </td><td width="124" valign="top">  2,694,514
+  </td><td width="124" valign="top">  2,283,043
+  </td><td width="135" valign="top">  34.79
+  </td><td width="45" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  Zambia
+  </td><td width="124" valign="top">  6,562,000
+  </td><td width="124" valign="top">  469,943
+  </td><td width="124" valign="top">  327,168
+  </td><td width="135" valign="top">  4.99
+  </td><td width="45" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  Kenya
+  </td><td width="124" valign="top">  502,000
+  </td><td width="124" valign="top">  140,130
+  </td><td width="124" valign="top">  84,078
+  </td><td width="135" valign="top">  16.75
+  </td><td width="45" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  Madagascar
+  </td><td width="124" valign="top">  3,895,000
+  </td><td width="124" valign="top">  753,554
+  </td><td width="124" valign="top">  628,390
+  </td><td width="135" valign="top">  16.13
+  </td><td width="45" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  Zimbabwe
+  </td><td width="124" valign="top">  2,700,000
+  </td><td width="124" valign="top">  2,359,962
+  </td><td width="124" valign="top">  753,127
+  </td><td width="135" valign="top">  27.89
+  </td><td width="45" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  <b>Total</b>
+  </td><td width="124" valign="top">  <b>105,665,000</b>
+  </td><td width="124" valign="top">  <b>51,730,683</b>
+  </td><td width="124" valign="top">  <b>44,951,097</b>
+  </td><td width="135" valign="top">  <b>42.54</b>
+  </td><td width="45" valign="top">  <b> </b>
+  </td>
+</tr>
+
+</table>
+<p>Source: EC response to European Parliament Written Question P-3433/09.</p><p><b>Key:</b></p><p>(B) indicates that sugar-protocol accompanying measures funding is committed to these countries in the form of budgetary support.</p><p>* The global allocation in column 1 refers to funds allocated in 2006, 2007 and 2008, but excludes the allocations made for 2009 and 2010, for which no commitments and payments could have been made by April 2009. The total allocations for 2006-10 for each country are larger than indicated in this table, since the allocations for 2009 and 2010 as well as the initial preliminary allocation made to each country in 2006 are not included in the total global allocation.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><b>
+<a name='s'></a>Conclusion and signing of the IEPAs</b></p><p>
+1. <i>Europa Press Releases Rapid,</i> EC press release on the signing of the IEPAs in the ESA region, IP/09/1258, 29 August 2009 <br/>
+<a href="http://europa.eu/rapid/pressReleasesAction.do?reference=IP/09/1258&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en" target="_self">http://europa.eu/rapid/pressReleasesAction.do?reference=IP/09/1258&amp;f...</a></p><p>
+2. <i>Europa Press Releases Rapid,</i> EC memorandum on the signing of the IEPAs in the ESA region, MEMO/09/367, 29 August 2009 <br/>
+<a href="http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/09/367&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en" target="_self">http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/09/367&amp;...</a></p><p>
+3. European Commission, DG Trade, fact sheet on the ESA EPA negotiations process, January 2009<br/>
+<a href="http://trade.ec.europa.eu/doclib/docs/2009/january/tradoc_142193.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2009/january/tradoc_142193.pdf</a></p><p>
+ 4. European Commission, DT Trade, fact sheet on the EAC EPA negotiations process, January 2009<br/>
+<a href="http://trade.ec.europa.eu/doclib/docs/2009/january/tradoc_142194.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2009/january/tradoc_142194.pdf</a></p><p>
+5. ECDPM/ODI, final report, ‘The new EPAs: comparative analysis of their content and the challenges for 2008’, 31 March 2008 <br/>
+<a href="http://www.acp-eu-trade.org/library/files/ECDPM-ODI_EN_310308_ECDPM-ODI_The-new-EPAs.pdf" target="_self">http://www.acp-eu-trade.org/library/files/ECDPM-ODI_EN_310308_ECDPM-ODI_...</a></p><p>
+6. Reuters, press article, ‘EU wants timetable for East Africa trade deal’,<i> </i>16 February 2010<br/>
+<a href="http://www.alertnet.org/thenews/newsdesk/LDE61E26I.htm" target="_self">http://www.alertnet.org/thenews/newsdesk/LDE61E26I.htm</a></p><p><b>Comprehensive EPA</b></p><p>
+7. ICTSD, analysis of prospects for a comprehensive ESA-EU EPA, <i>Trade Negotiations Insights</i>,<i> </i>Vol. 8, No. 9, November 2009 <br/>
+<a href="http://ictsd.org/i/news/tni/59558/" target="_self">http://ictsd.org/i/news/tni/59558/</a></p><p><b>Regional perspectives on the EPA process</b></p><p>
+8. <i>Ethiopian Review</i>, Ethiopian perspective on the EPA process, 15 July 2009 <br/>
+<a href="http://www.ethiopianreview.com/articles/13824" target="_self">http://www.ethiopianreview.com/articles/13824</a></p><p>
+9. <i>Business Daily</i> (Nairobi), press report, ‘East Africa strikes free trade deal with the EU’, 8 March 2010 <br/>
+<a href="http://allafrica.com/stories/201003090082.html" target="_self">http://allafrica.com/stories/201003090082.html</a></p><p>
+10. <i>Daily Nation</i>,<i> </i>press article, ‘Crunch time for EU, EAC trade talks’, 13 March 2010 <br/>
+<a href="http://www.freshplaza.com/news_detail.asp?id=60509" target="_self">http://www.freshplaza.com/news_detail.asp?id=60509</a></p><p><b>Analysis of contentious issues</b></p><p>
+11. ECDPM, Workshop report, ‘Contentious issues of the EPA negotiations and regional delivery mechanisms for trade’, 8-9 July 2009 <br/>
+<a href="http://www.acp-eu-trade.org/library/files/ECDPM_EN_0709_ECDPM_Workshop-on-contentious-issues-and-regional-Aft-mechanisms.pdf" target="_self">http://www.acp-eu-trade.org/library/files/ECDPM_EN_0709_ECDPM_Workshop-o...</a> </p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+										
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/Caribbean-EU-agricultural-trade-relations">Caribbean - EU agricultural trade relations </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/EPA-negotiation-issues-between-ESA-and-the-EU">EPA negotiation issues between ESA and the EU</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/EPA-negotiation-issues-between-Pacific-and-the-EU">EPA negotiation issues between Pacific and the EU</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/EPA-negotiation-issues-between-SADC-and-the-EU">EPA negotiation issues between SADC and the EU </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/EPA-negotiations-between-Central-Africa-and-the-EU">EPA negotiations between Central Africa and the EU</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":139,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

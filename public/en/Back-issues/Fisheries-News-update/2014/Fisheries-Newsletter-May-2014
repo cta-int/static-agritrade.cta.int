@@ -1,0 +1,2347 @@
+<!DOCTYPE html>
+<html class="no-js">
+<!--
+	/**
+	 * We congratulate Agritrade with their new, upgraded (HTML5!) website!
+	 * Created by Contactivity, www.contactivity.com
+	 * @version $Id: 1.0
+	 */
+
+
+																													--><head>
+	
+                                        
+	<title>Fisheries Newsletter – May 2014 / 2014 / Fisheries News update / Back issues / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+			
+		<meta name="description" content="Market access: Tariff and non-tariff aspects"/>
+			
+			
+		<meta name="keywords" content=""/>
+			
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+		<script src="/extension/agritrade/design/agritrade/js/contactivity.global.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/contactivity.input.js"></script>
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="Fisheries Newsletter – May 2014"/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+<script src="https://valsplat.nl/clients/2852/invite.js"></script>
+</head>
+<body lang="en" onload="initialize()">
+
+<!-- [ wrapper -->
+<div id="wrapper">
+
+	<!-- [ main container -->
+	<div class="container" id="maincontainer">
+
+		<!-- [ header container -->
+		<header class="container">
+
+			<h6><a href="http://www.cta.int/" target="_blank">CTA</a></h6>
+			<div class="logo">
+				<h1><a href="/en"><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></a></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+			<!-- [ font box -->
+			<div class="fontBox">
+				<dl>
+					<dt class="active"><a href="#" class="bind fontsize" rel="small"><img src="/extension/agritrade/design/agritrade/images/small_font.gif" alt=""/></a></dt>
+					<dd>Small fontsize</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="medium"><img src="/extension/agritrade/design/agritrade/images/medium_font.gif" alt=""/></a></dt>
+					<dd>Medium fontsize</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="big"><img src="/extension/agritrade/design/agritrade/images/big_font.gif" alt=""/></a></dt>
+					<dd>Big fontsize</dd>
+				</dl>
+			</div>
+			<!-- font box ] -->
+
+			<!-- [ language box -->
+			<div class="languageBox">
+				<dl>
+				
+				
+					<dt><a href="/en/Back-issues/Fisheries-News-update/2014/Fisheries-Newsletter-May-2014">English</a> | </dt>
+					<dd>Switch to English</dd>
+					<dt><a href="/fr/Back-issues/Fisheries-News-update/2014/Fisheries-Newsletter-May-2014">Français</a></dt>
+					<dd>Switch to French</dd>
+				</dl>
+			</div>
+			<!-- language box ] -->
+
+			<!-- [ search box -->
+			<div class="searchBox">
+				<form action="http://www.google.com/cse?hl=en&sa=Search&ie=UTF-8" method="get" name="search">
+	            <input type="hidden" value="013338266298253522945:rk5lmjqtluq" name="cx"/>
+					<input name="q" type="text" class="field" value="" placeholder="Search"/>
+					<input name="Search" type="image" alt="" class="button" src="/extension/agritrade/design/agritrade/images/search_button.jpg"/>
+				</form>
+
+
+
+			</div>
+			<!-- search box ] -->
+
+
+			<!-- [ navigation -->
+			<nav>
+				
+				<ul>
+				<li>
+					<h2><a href="/en"><span>Home</span></a></h2>
+				</li>
+									
+					
+																					
+					<li>
+						<h2><a href="/en/Agriculture" title="Agriculture"><span>Agriculture</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Topics
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/en/Agriculture/Topics/WTO" title="WTO">											WTO
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/EPAs" title="EPAs">											EPAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/EU-FTAs" title="EU FTAs">											EU FTAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/ACP-FTAs" title="ACP - FTAs">											ACP - FTAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/ACP-regional-trade" title="ACP regional trade">											ACP regional trade
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Market-access" title="Market access">											Market access
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/SPS-Food-safety" title="SPS / Food safety">											SPS / Food safety
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Product-differentiation" title="Product differentiation">											Product differentiation
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/CAP-reform" title="CAP reform">											CAP reform
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Biofuels" title="Biofuels">											Biofuels
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Climate-change" title="Climate change">											Climate change
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Aid-for-trade" title="Aid for trade">											Aid for trade
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Other" title="Other">											Other
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Commodities
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/en/Agriculture/Commodities/General" title="General">											General
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Bananas" title="Bananas">											Bananas
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Beef" title="Beef">											Beef
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Cereals" title="Cereals">											Cereals
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Cocoa" title="Cocoa">											Cocoa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Coffee" title="Coffee">											Coffee
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Cotton" title="Cotton">											Cotton
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Dairy" title="Dairy">											Dairy
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Horticulture" title="Horticulture">											Horticulture
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Oil-crops" title="Oil crops">											Oil crops
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Poultry" title="Poultry">											Poultry
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Rice" title="Rice">											Rice
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Rum" title="Rum">											Rum
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Sugar" title="Sugar">											Sugar
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Tea" title="Tea">											Tea
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Other" title="Other">											Other
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Regions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/en/Agriculture/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Regions/EU" title="EU">											EU
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Regions/Global" title="Global">											Global
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/en/Fisheries" title="Fisheries"><span>Fisheries</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Topics
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/en/Fisheries/Topics/ACP-EU-relations-FPAs" title="ACP-EU relations; FPAs">											ACP-EU relations; FPAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Topics/EU-common-fisheries-policy" title="EU common fisheries policy">											EU common fisheries policy
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Topics/Market-access" title="Market access">											Market access
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Topics/News-from-the-IOC-region" title="News from the IOC region">											News from the IOC region
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Topics/WTO-international-developments" title="WTO &amp; international developments">											WTO &amp; international developments
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Regions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/en/Fisheries/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Regions/EU" title="EU">											EU
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Regions/Global" title="Global">											Global
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/en/Regions" title="Regions"><span>Regions</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/en/Regions/Global" title="Global">									Global
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/en/Regions/EU" title="EU">									EU
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+									<a href="/en/Regions/ACP" title="ACP">									ACP
+									
+																		
+									</a>								</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/en/Regions/ACP/All-ACP" title="All ACP">											All ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Caribbean" title="Caribbean">											Caribbean
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/West-Africa" title="West Africa">											West Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Central-Africa" title="Central Africa">											Central Africa
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Eastern-Africa" title="Eastern Africa">											Eastern Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Southern-Africa" title="Southern Africa">											Southern Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Pacific" title="Pacific">											Pacific
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/en/Publications" title="Publications"><span>Publications</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Compendium" title="Compendium">									Compendium
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Executive-briefs" title="Executive briefs">									Executive briefs
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Interviews" title="Interviews">									Interviews
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/News-Analysis" title="News &amp; Analysis">									News &amp; Analysis
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Newsletter" title="Newsletter">									Newsletter
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Special-Reports" title="Special Reports">									Special Reports
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+																
+																					
+					<li>
+						<h2><a href="/en/Welcome-to-Agritrade" title="About"><span>About</span></a></h2>
+						
+
+											</li>
+
+								
+		</ul>
+
+			</nav>
+			<!-- navigation ] -->
+
+
+		</header>
+		<!-- header container ] -->
+
+
+
+		<!-- [ content container -->
+		<section class="container">
+
+
+			
+						<!--  [ center container -->
+			<div id="centerCntr" class="fisheries_issues content  has_right">
+							
+		
+	
+
+
+<section class="content">
+
+	<nav>
+		<div class="left">
+			<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsletter.gif" alt="Newsletter"/>
+		</div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style " addthis:title="Fisheries Newsletter – May 2014">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/en/Back-issues/Fisheries-News-update/2014/Fisheries-Newsletter-May-2014" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				<a id="tool-email" href="http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2Fen%2FBack-issues%2FFisheries-News-update%2F2014%2FFisheries-Newsletter-May-2014&amp;title=Fisheries+Newsletter+%E2%80%93+May+2014&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611" onclick="return popitup('http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2Fen%2FBack-issues%2FFisheries-News-update%2F2014%2FFisheries-Newsletter-May-2014&amp;title=Fisheries Newsletter – May 2014&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611')" target="_blank" class="tool popup">
+			Email
+		</a>
+		<a href="#" id="tool-print" class="tool" onclick="printMe('/en/layout/set/print/Back-issues/Fisheries-News-update/2014/Fisheries-Newsletter-May-2014'); return false">
+			print
+		</a>
+				</div>
+
+	
+	</div>
+				<div class="clear"></div>
+	</nav>
+
+	<article>
+		<header>
+						<div class="pdf-file">
+				<a href="/en/content/download/255832/3078265/file/a101d1c15e82179cd76c675de905ded7.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+										
+			<h1>Fisheries Newsletter – May 2014</h1>
+			
+			<h4>
+			
+												
+										</h4>
+
+					</header>
+
+
+
+	</article>
+</section>
+
+							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																								
+							
+							
+																																
+							<a href="/en/Fisheries/(fisheries)/7828/(search)/simple">Market access</a>
+							
+							
+																																																																														
+		</div>
+		
+					<h1>Fish trade prospects to 2030 presented in a new report</h1>
+
+			<h4>
+			
+												23 March 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>The World Bank, together with the FAO, the International Food Policy Research Institute (IFPRI) and the Arkansas University, published a report entitled ‘Fish to 2030: Prospects for fisheries and aquaculture’. Based on trends in each country or group of countries for the production of capture fisheries and aquaculture as well as fish consumption, which are driven by income and population growth, the following projections of global fish supply and demand until 2030 are presented as six scenarios from the baseline model:</p>
+<ul>
+
+<li>Scenario 1, where aquaculture is able to grow by morethan 50% between 2011 and 2030;</li>
+
+<li>Scenario 2 investigates how expanded use of fish processing waste in fishmeal and fish oil might affect fish trade;</li>
+
+<li>Scenario 3 introduces a hypothetical major disease outbreak that would hit aquaculture in Asia;</li>
+
+<li>Scenario 4 is a case where consumers in China expand their demand more aggressively than in the baseline case;</li>
+
+<li>Scenario 5 simulates the impacts of an increase infisheries’productivity where global fisheries would be at levels that permit harvesting at the maximum sustainable yield (MSY). It should be noted that a relative abundance of fish would dampen fish prices so that aquaculture production in 2030 would be reduced by 3 million tonnes relative to the baseline case;</li>
+
+<li>Scenario 6 considers the impacts of global climate change on the productivity of marine capture fisheries.</li>
+
+</ul>
+<p>Throughout the report, three themes are discussed: (1) the health of global capture fisheries, (2) the role of aquaculture in filling the global fish supply-demand gap and potentially reducing the pressure on capture fisheries, and (3) the implications of changes to global fish markets on fish consumption, especially in China and sub-Saharan Africa.</p><p>China is likely to increase its influence on global fish markets. According to the baseline model results, in 2030 China will account for 37% of total fish production (17% of capture production and 57% of aquaculture production), while accounting for 38% of global consumption of food ﬁsh.</p><p>Fish consumption per person is projected to decline in Japan, Latin America, Europe, Central Asia and sub-Saharan Africa at an annual rate of 1%, falling to 5.6kgby 2030. However, due to rapid population growth, the total demand for food fish will grow substantially – up by 30% between 2010 and 2030. If capture fisheries are harvested at MSY in the region, sub-Saharan Africa will achieve 13% higher fish consumption by 2030, than under the baseline scenario, as increased harvest is likely to be consumed within the region, rather than exported. Consumption will be even higher if the stocks recovery process is accompanied by efforts to substantially reduce inefficiency in the catching sector (post-harvest losses, etc.).</p><p>In its press release, the World Bank highlights that beyond 2030 aquaculture will likely dominate future global fish supply: “Ensuring successful and sustainable development of global aquaculture is an imperative agenda for the global economy.”</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>World Bank, ‘Fish to 2030, Prospects for fisheries and aquaculture’, Report 83177-GLB, February 2014</p><p>
+<a href="http://www.fao.org/docrep/019/i3640e/i3640e.pdf " target="_self">http://www.fao.org/docrep/019/i3640e/i3640e.pdf</a></p><p>World Bank, ‘Raising more fish to meet rising demand’, 5 February 2014</p><p>http://www.worldbank.org/en/news/feature/2014/02/05/raising-more-fish-to-meet-rising-demand&nbsp;</p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The expansion of aquaculture production around the world certainly hasa great potential to complement global fish supply. Aquaculture is still nascent in many ACP countries, and investments in that sector need to draw lessons from Asia and Latin America, where aquaculture has expanded at the expense of the coastal environment or with high input requirements from capture fisheries (fishmeal and fish oil) –the development of aquaculture with low or no dependence on imported fish mealshould be privileged. It needs also to be noted that, in the case of sub-Saharan Africa, sustainable local capture fisheries, including addressing inefficiencies in the sector, will still represent the best way to promote food security. This suggests that necessary governance reforms have to be implemented to ensure the recovery of overexploited resources. An opportunity is currently given to take that step, with the discussion of the African Union Strategy for reforming fisheries policies.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																								
+							
+							
+																																
+							<a href="/en/Fisheries/(fisheries)/7828/(search)/simple">Market access</a>
+							
+							
+																																																																														
+		</div>
+		
+					<h1>Trade data analysis to track IUU fishing activities</h1>
+
+			<h4>
+			
+												23 March 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>Participants to the fourth Global Fisheries Enforcement Training Workshop were presented with a tool to analyse existing fish trade data,as a cost-effective and helpful method for tackling illegal unreported and unregulated (IUU) fishing.Traffic, the wildlife trade monitoring network, presented a website that provides information on how to source, extract and analysefish trade data to help identify illegal fish trade operations.</p><p>Trade data analysis can assist efforts to combat IUU fishing by better understanding the dynamics of the trade in products sourced from IUU fisheries, providing independent verification of the extent of a known IUU fishing problem or even by revealing new problems. It can also be used to measure the effectiveness of an existing or market-related measure.</p><p>Such data analysis involves, for example, a comparison of the fish product export figures for a country (or countries) with the figures of importing countries for that product. Discrepancies identified through this process can be an indication of IUU products in international trade. Trade data can also be compared with catch data as a means of assessing accuracy or for obtaining estimates of IUU fish volumes for a particular fishery.</p><p>Several examples are detailed on the Traffic website, including a comparison between South African export figures and Australian import data for frozen shark products, which revealed significant anomalies; in 2001 South African customs data on shark exports to Australia were more than three times lower than the comparative Australian import figures. Regarding abalone, a species endemic to South Africa, trade data from Hong Kong statistics department showed that large quantities of this product were imported from Southern Africanneighbouring countries of Mozambique, Swaziland and Zimbabwe. Legitimate South African exporters indicated that they do not export abalone to other Africa countries. Thus, it is almost certain that all abalone exported from Mozambique, Swaziland and Zimbabwe to Hong Kong is illegally harvested in South Africa and laundered through neighbouring countries. This information assisted the South African government in identifying countries it should work with to tackle the illegal abalone trade.</p><p>Markus Burgener, senior programme officer with Traffic, said: “This Fisheries Trade data website aims to show enforcement officers where to look among trade statistics for evidence of criminal activity, the devil is in the detail.”</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>Traffic, Fisheries trade data users’guide, February 2014</p><p>
+<a href="http://www.fisheries-trade-data.org/" target="_self">http://www.fisheries-trade-data.org/</a></p><p><i>World Fishing</i>, ‘Unmasking illegal fishing activities’, 26 February 2014</p><p>
+<a href="http://www.worldfishing.net/news101/industry-news/unmasking-illegal-fishing-activities" target="_blank">http://www.worldfishing.net/news101/industry-news/unmasking-illegal-fish...</a></p><p><i>Stop Illegal Fishing</i>, TRAFFIC launches online guide to fisheries trade data, 26 February 2014</p><p>http://www.stopillegalfishing.com/sifnews_article.php?ID=62</p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>To date, very few governments, including those from ACP countries, incorporate fish trade data analysis into their monitoring, control and surveillance systems, although, as shown by Traffic, analysis of fish trade data provides a highly cost-effective and helpful method for accessing information that can assist in tackling IUU fishing. Knowledge of the internationalfish trade dynamics can shed light on the source, destination, value and volume of IUU fish products, and can help develop appropriate responses. This is also a tool for assessing the efficiency of trade measures, such as the EU catch certification scheme, or the trade bans applied when a country is notified as “non-cooperating in the fight against IUU fishing”. However, such data analysis should always be complemented by further fisheries management information. Indeed, finding discrepancies between export and import figures only indicates that the product is circumventing official trade routes in the country of origin, which may be for various reasons, only one of which could bethe illegality of the fish catch.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																								
+							
+							
+																																																																																																		
+							<a href="/en/Fisheries/(fisheries)/7831/(search)/simple">WTO &amp; international developments</a>
+							
+							
+												
+		</div>
+		
+					<h1>New  FAO study demonstrates that aquaculture benefits local communities</h1>
+
+			<h4>
+			
+												23 March 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>In order to address governance problems caused by the aquaculture industry’s fast growth, the FAO Fisheries and Aquaculture Department has published a new technical paper, entitled ‘Improving governance of aquaculture employment’.</p><p>The report is based on a survey undertaken in Africa, America, Asia and Europe, where individual fish farmers were asked about their hiring practices, the demographic characteristics of their employees, and the remuneration and other and benefits paid to employees. The result of poor employment governance may include exploitation of labour with low wages and unsafe working conditions or child employment. Therefore, by using the report’s findings, the FAO wants to assist countries to improve employment governance of aquaculture activities within their jurisdictions.</p><p>Evidence from the case studies suggests that the labour force in general has beneﬁted from aquaculture: for example, farms provided permanent jobs so that the young population could stay in their communities. Remuneration levels were at, or above, the minimum wage, and usually above wages in alternative sectors. Workers also enjoyed medical and pension coverage, even bonuses.On the other hand, unskilled workers received poor salaries and working conditions wereoften rudimentary. According to the study, local communities also benefited from the advantages of developing aquaculture farms, as residents spent more money and paid taxes. This is helping to reduce poverty, isolation and illiteracy.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>FAO, ‘Improving governance of aquaculture employment’, 21 February 2014</p><p>
+<a href="http://www.fao.org/docrep/019/i3128e/i3128e.pdf" target="_self">http://www.fao.org/docrep/019/i3128e/i3128e.pdf</a></p><p><i>Fish Information and Services</i>, ‘Aquaculture has a positive impact on communities’, 21 February 2014</p><p>
+<a href="http://www.fis.com/fis/worldnews/worldnews.asp?monthyear=&amp;day=21&amp;id=66658&amp;l=e&amp;special=&amp;ndb=1%20target" target="_self">http://www.fis.com/fis/worldnews/worldnews.asp?monthyear=&amp;day=21&amp...</a>=</p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The creation of jobs with decent working conditions in coastal ACP communities is a crucial challenge, as jobs available in the traditional sectors, like fisheries, are often decreasing because of the overexploited state of many fish stocks. The contribution of aquaculture to address this issue should be investigated by ACP countries. An intrinsically linked matter is that coastal aquaculture should be developed in an environmentally sustainable way, taking into considerationissues like pollution or deforestation, in order not to further alter coastal ecosystems on which existing coastal communities depend for their work and livelihoods.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																								
+							
+							
+																																
+							<a href="/en/Fisheries/(fisheries)/7828/(search)/simple">Market access</a>
+							
+							
+																																																																														
+		</div>
+		
+					<h1>EP resolution  on Thai FTA</h1>
+
+			<h4>
+			
+												06 April 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>A resolution was approved by the European Parliament (EP) on “[t]he situation and future prospects of the European fishing sector in the context of the Free Trade Agreement [FTA] between the EU and Thailand”. Recalling that Thailand produces 46% of world canned tuna, and already accounts for almost 20% of all EU canned tuna imports, the resolution highlights that the survival of the EU sector in regions heavily dependent on fisheries – 25,000 direct and 54,000 indirect jobs are at stake – “will be jeopardised” if the EU further liberalises trade in fishery products with developing countries, especially by offering 0% access duty to countries like Thailand. However, Globefish reports that, in 2013, Spain’s imports of pre-cooked tuna loins from Thailand were 14% higher than in 2012.</p><p>The EP resolution also underlines that any tariff reduction for canned and prepared tuna could have an impact on the preferences enjoyed by the countries of the ACP and the beneficiaries of the Generalised System of Preferences (GSP+).</p><p>The EP also highlights Thailand’s shortcomings in terms of compliance with labour/hygiene standards and illegal, unreported and unregulated (IUU) regulation requirements. “In 2013 the Spanish authorities refused permission for tuna from tuna vessels flying the Ghanaian flag to be landed and marketed on the grounds that those vessels were involved in IUU fishing… private companies based in Thailand had a stake in most of the tuna vessels concerned.”</p><p>MEPs therefore request that items such as canned tuna imported from Thailand be treated as sensitive products; access to the EU market for such products should remain excluded from tariff reductions; and any decision concerning greater access for Thai canned and processed tuna should only be taken following rigorous impact assessments.</p><p>Generally, MEPs consider that Thai canned tuna products should meet the same competitive conditions as fish products of EU origin. These should be contained in an “ambitious trade and sustainable development chapter”. They also think that “the best way to ensure Thailand’s full cooperation in the fight against IUU fishing is to include an explicit reference to the IUU regulation in the text of the FTA.”</p><p>The vote in favour of this resolution was welcomed by the Environmental Justice Foundation, which had already urged the Thai government to work “towards a sustainable and ethical fishing industry and to take firm and decisive action against business owners and corrupt officials exploiting modern day slaves”.</p><p>However, simultaneously to the vote, a study commissioned by the Thai Food Processors’ Association to the Asian Research Centre for Migration at the University’s Institute of Asia Studies was published, stating that, although there remained some areas for improvement, the Thai tuna industry generally respects international labour standards.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EP resolution on European fishing sector re FTA between EU and Thailand, 12&nbsp;March 2014</p><p>
+<a href="http://www.europarl.europa.eu/sides/getDoc.do?type=TA&amp;reference=P7-TA-2014-0210&amp;language=EN&amp;ring=A7-2014-0130 " target="_self">http://www.europarl.europa.eu/sides/getDoc.do?type=TA&amp;reference=P7-T...</a></p><p><i>Fish Information and Services</i>, ‘MEPs urge Thailand to address fishing industry forced labour’, 13&nbsp;March 2014</p><p>
+<a href="http://www.fis.com/fis/worldnews/worldnews.asp?l=e&amp;id=67090&amp;ndb=1" target="_self">http://www.fis.com/fis/worldnews/worldnews.asp?l=e&amp;id=67090&amp;ndb=1</a></p><p><i>Fishnewseu.com</i>, ‘Thai fishermen’s issues risk EU trade, 12 March 2014</p><p>
+<a href="http://www.fishnewseu.com/latest-news/world/46-world/12076-thai-fishermens-issues-risk-eu-trade.html" target="_self">http://www.fishnewseu.com/latest-news/world/46-world/12076-thai-fisherme...</a></p><p><i>The Nation</i>, ‘Labour laws followed for migrant workers’, 13 March 2013</p><p>
+<a href="http://www.nationmultimedia.com/business/Labour-laws-followed-for-migrant-workers-30229079.html" target="_self">http://www.nationmultimedia.com/business/Labour-laws-followed-for-migran...</a></p><p><i>Globefish</i>, Tuna market report, January 2014</p><p>http://globefish.org/tuna-january-2014.html</p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The EU supports regional integration among ASEAN countries and the FTA with Thailand. Further planned discussions with the Philippines (another large global canned tuna producer) will be an essential part of that process. Canned tuna is economically important for Thailand, and its canned tuna exports to the EU are a key element of the FTA negotiation. It is therefore unlikely that Thailand would agree to an exclusion of canned tuna from liberalisation under the FTA, as requested by the EP. Other EP demands may be taken into account, which would somewhat protect ACP canned tuna products from Thai competition: if the EU–Thailand FTA contains rules of origin similar to those generally applied to ACP fish products (where fish must be caught by a vessel with 50% local or EU ownership), and if no cumulation is possible (whereby Thai processors could source raw materials from other ASEAN members, which would be ‘of origin’ if the tuna has been sufficiently processed in Thailand), these requirements may constrain the capacity of Thailand to export canned tuna on the EU markets.</p><p>It is unclear how far the EU sector will support EP demands for the inclusion of strong social and environmental provisions in an ‘ambitious’ FTA chapter on sustainable development, including a reference to the EU IUU regulation. The European canning industry increasingly sources primary processed products – typically, pre-cooked tuna loins for Spanish canners – from low-labour-cost countries, like Thailand – and will want further liberalisation of trade for these products. Trade of pre-cooked tuna loins would be equally covered by such environmental and social requirements, and it is likely that EU fishing and canning interests, as well as NGOs, will diverge on this.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																										
+								<a href="/en/Publications/(regions)/7774/(search)/simple">Pacific</a>
+																																																										
+							
+							
+																																,
+							<a href="/en/Fisheries/(fisheries)/7828/(search)/simple">Market access</a>
+							
+							
+																																																																														
+		</div>
+		
+					<h1>PNA  discusses need to keep control of tuna supply</h1>
+
+			<h4>
+			
+												06 April 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>The Parties to the Nauru Agreement (PNA) – comprising eight Pacific island countries that control the world’s largest tuna purse seine fishery supplying 50% of the world’s skipjack tuna – closed its annual meeting with a discussion on ways to control tuna supply and therefore increase the countries’ economic returns.</p><p>Key tuna industry players in the Pacific region underlined the need for the PNA to uphold limits on fishing, by introducing a scarcity of tuna onto the global market, thus increasing the price of tuna. Over the past 12 months, tuna prices have fallen, in part due to over-supply but also because of the impacts of the economic crisis on some markets such as the EU. However, Globefish reports that the EU canned tuna market appeared to be better this year, as reflected in higher EU imports.</p><p>Pacifical, the global marketing company set up by PNA to trade their Marine Stewardship Council certified skipjack tuna, pointed to the development of the global demand of retailers for sustainable tuna – marketed under Pacifical – which returns a portion of profit to the PNA.</p><p>PNA Executive Director, Dr Transform Aqorau emphasised that PNA is “an exercise in self-determination – for Pacific countries to control their resources and make decisions free from foreign influence… the PNA has a role to play in fish supply and creating scarcity and value of tuna.”</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>FFA <i>Trade and Industry News</i> 7(1) January–February 2014</p><p>
+<a href="http://www.ffa.int/node/811 " target="_self">http://www.ffa.int/node/811</a></p><p>Pacifical, website</p><p>
+<a href="http://www.pacifical.com/" target="_self">http://www.pacifical.com/</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The PNA has, no doubt, been able to increase its members’ revenues from fishing fees by implementing a Vessel Day Scheme (VDS), through which it sells fishing days to tuna purse seiner fleets operating in its exclusive economic zone (EEZ). However, until now, the VDS does not include a limit on fishing capacity, as it sees the ‘over-capacity’ as an element that triggers increased competition among fishing fleets, ready to pay more for relatively scarce fishing days. Given the limited capacities of PNA members to monitor and control the activities of the increasing fleet, this situation has led to a significant increase in tuna vessels (including newly built) fishing in the PNA area, resulting in more tuna on the global market. Apart from the long-term consequences this could have on the state of the tuna resources in the region, it is crucial that the PNA takes action to limit the number of vessels allowed to fish in its waters, to “organise the scarcity of tuna on global markets”. However, global action is required to diminish fishing capacity, because a limitation on tuna vessels applied in the PNA region is likely to lead to their displacement to other tuna fishing grounds, with probably limited effect on the total quantities of tuna supplied to international markets.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																
+								<a href="/en/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																				
+							
+							
+																																,
+							<a href="/en/Fisheries/(fisheries)/7828/(search)/simple">Market access</a>
+							
+							
+																																																																														
+		</div>
+		
+					<h1>African  small-scale fishing communities mobilise ahead of the CAMFA II</h1>
+
+			<h4>
+			
+												06 April 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>After a two-day meeting in Abidjan, the representatives of the 15-nation strong African Confederation of Artisanal Fisheries Professional Organisations (CAOPA) made recommendations to the Second Conference of African Ministers of Fisheries and Aquaculture (CAMFA II), who will be meeting later this year to adopt the Pan African Strategy for Fisheries and Aquaculture Policy Reform. The meeting was prepared by an online consultation held in February, in which more than 30 African fisheries stakeholders contributed.</p><p>Participants were particularly concerned by the over-exploitation of African fishing resources: “One of the main reasons for this situation is the intensification of fishing in many African countries, by vessels flying foreign flags, or vessels of foreign origin reflagged, chartered, or fishing illegally, and the growing export of fish away from our continent, while the needs of African countries in proteins and nutrients from fish are growing, in line with the growth of our population. “CAOPA also mentioned that many of these vessels fish under opaque conditions, often not complying with the legislation in force in African waters, using highly destructive and unselective methods.</p><p>The final CAOPA statement highlights three priorities that they would like African ministers of fisheries and aquaculture to take into account:</p>
+<ul>
+
+<li>A more transparent and participatory fisheries management, including a commitment to regularly publish information on fishing licences granted, and on agreements signed; by putting in place transparent and independent licence allocation committees; by performing independent audits on the effectiveness of the fisheries administrations; and by supporting co-management and participatory surveillance schemes.</li>
+
+<li>A priority access to resources for sustainable small-scale fisheries, including by reserving the coastal zone and the continental shelf for small-scale fishery activities; by clearly defining the legislation, and protecting it effectively against the incursions of trawlers; and by refusing to privatise and organise a market for access rights to resources, as suggested in the reform strategy; and by combating IUU and ‘convenience reflagging’.</li>
+
+<li>The implementation of the right to food, including by promoting an aquaculture restricted to non-carnivorous species – which are not dependent on fish meal produced from African small pelagics – that must be reserved for direct human consumption; by encouraging private investment in such sustainable aquaculture through capacity-building and awareness-raising programmes, with financial and technical support; and by ensuring that coastal populations are integrated in this dynamic and benefit from it.</li>
+
+</ul>
+
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>CAOPA, statement on World Women’s Day 2014, 8 March 2014</p><p>
+<a href="http://www.caopa-africa.org/index.php/en/caopa-news/165-caopa-statement-world-woman-day-2014.html " target="_self">http://www.caopa-africa.org/index.php/en/caopa-news/165-caopa-statement-...</a></p><p>CAOPA, discussion report, February 2014</p><p>
+<a href="http://www.caopa-africa.org/images/docs/Results-CAOPA-E-discussion.pdf" target="_self">http://www.caopa-africa.org/images/docs/Results-CAOPA-E-discussion.pdf</a></p><p>CAMFA II, meeting documents, February 2014</p><p>
+<a href="http://www.au-ibar.org/home/51-en/events/au-ibar/452-the-second-conference-of-african-ministers-of-fisheries-and-aquaculture-camfa-ii" target="_self">http://www.au-ibar.org/home/51-en/events/au-ibar/452-the-second-conferen...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>It is interesting that the priorities expressed by the African artisanal fishing sector professionals regarding the preparation of the CAMFA II (whether in terms of transparency of allocation systems, participative management – including participatory surveillance –to fight against illegal fishing, and the promotion of the contribution of fisheries to food security) are also shared and supported by the EU in the context of the EU–African fisheries’ relations to promote sustainable fisheries, whether through EU development cooperation or fisheries policies. This suggests that an increased and appropriate participation of African small-scale fishing communities’ organisations in the implementation of EU–ACP fisheries’ relations could provide useful support for the achievement of sustainable fisheries throughout these relations.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																								
+								<a href="/en/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																										,
+								<a href="/en/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																																																																																
+							
+							
+																																																						,
+							<a href="/en/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																								
+		</div>
+		
+					<h1>Legal  operators affected by EU blacklisting of Guinea, Belize, Cambodia for non-cooperation against IUU fishing</h1>
+
+			<h4>
+			
+												27 April 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>Following a European Commission (EC) proposal, the Council of Fisheries ministers listed Belize, Cambodia and Guinea as countries not cooperating sufficiently to fight illegal fishing. Shortcomings in Belize, Cambodia and Guinea are generally linked to poor fisheries management, poor implementation of control and monitoring measures and the lack of credible sanctioning mechanisms. The Council press release highlights that “despite the EU working closely with the national authorities to set up fisheries management and effective control measures, the three countries have still not addressed structural problems and have failed to show real commitment to tackling the problem of illegal fishing.” Not only will the EU ban the importation of fish products from these three countries, but also EU vessels will have to stop fishing in these countries’ waters. Joint fishing ventures or fisheries agreements with these countries will no longer be possible. European Fisheries Commissioner, Maria Damanaki, welcomed the decision. “I hope that this blacklisting will act as a catalyst for Belize, Cambodia and Guinea to step up their efforts and work with the international community to eliminate illegal fishing.”</p><p>NGOs, such as the World Wide Fund for Nature (WWF) and Oceana, also welcomed the decision but are calling for greater transparency in the way that the EU evaluates third countries’ efforts to fight illegal fishing. However, two US-based NGOs, the Environment Defence Fund (EDF) and the Wildlife Conservation Society (WCS), which have worked with Belize to improve its fisheries management policy, warned that this EU decision will negatively affect Belize’s local fishers.</p><p>In contrast, the EU fishing sector regards the sanctions as “toothless”. The sector points out, for example, that the EU fleets are now denied access to Guinean waters, while some other foreign fleets, like the Korean – often cited in IUU fishing cases – still have access and can export fish caught in Guinean waters to the EU market. An attorney representing the EU tuna industry described the decision as “victimizing small countries that are minor characters in a larger play”.</p><p>Fiji, Panama, Sri Lanka, Togo and Vanuatu received formal warnings in November 2012. The EC summarised that “remedial actions introduced by those countries are being monitored through bilateral dialogue, and a progress report is due shortly.” In addition, formal warnings were also given to Ghana, Curacao and Korea in November 2013.</p><p>Following this, the government of South Korea – one of the biggest distant-water fishing nations present in West Africa – announced that it will “begin monitoring all its fishing boats operating in international or foreign waters to prevent illegal fishing or any other unwarranted activities… The opening of the Fisheries Monitoring Center, along with the requirement for all these fishing vessels to be equipped with a vessel monitoring system, is at the heart of the government’s efforts to curb IUU fishing.”</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EU Council ‘Illegal fishing activities: Trade measures decided by the Council’, 24 March 2014</p><p>
+<a href="http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/agricult/141823.pdf" target="_self">http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/agricul...</a></p><p>European Commission, ‘EU takes concrete action against illegal fishing’, 24 March 2014</p><p>
+<a href="http://europa.eu/rapid/press-release_IP-14-304_en.htm?subweb=347&amp;lang=en " target="_self">http://europa.eu/rapid/press-release_IP-14-304_en.htm?subweb=347&amp;lan...</a></p><p>WWF, ‘EU Council announces first-ever seafood trade ban against illegal fishing nations’, 24 March 2014</p><p>
+<a href="http://www.wwf.eu/?218251/EU-Council-announces-first-ever-seafood-trade-ban-against-illegal-fishing-nations " target="_self">http://www.wwf.eu/?218251/EU-Council-announces-first-ever-seafood-trade-...</a></p><p><i>UndercurrentNews.com</i>, ‘EU bans fish trade with vessels flagged to Belize, Guinea, Cambodia over IUU’, 21 March 2014</p><p>
+<a href="http://www.undercurrentnews.com/2014/03/21/eu-bans-fish-trade-with-belize-guinea-cambodia-over-iuu/ " target="_self">http://www.undercurrentnews.com/2014/03/21/eu-bans-fish-trade-with-beliz...</a></p><p><i>News Watch</i>, ‘EU fisheries ban ignores Belize conservation success story’, 14 March 2014</p><p>
+<a href="http://newswatch.nationalgeographic.com/2014/03/14/european-union-fisheries-ban-ignores-belize-conservation-success-story/ " target="_self">http://newswatch.nationalgeographic.com/2014/03/14/european-union-fisher...</a></p><p><i>UndercurrentNews.com</i>, Panama, Fiji, two others must up IUU fight, 24 March 2014</p><p>
+<a href="http://www.undercurrentnews.com/2014/03/24/panama-fiji-vanuatu-two-others-given-until-spring-2014-to-up-iuu-fight/ " target="_self">http://www.undercurrentnews.com/2014/03/24/panama-fiji-vanuatu-two-other...</a></p><p><i>Fish Information and Services</i>, ‘Fisheries confederation sets 2014 goals’, 17 March 2014</p><p>
+<a href="http://www.fis.com/fis/worldnews/worldnews.asp?l=e&amp;id=67156&amp;ndb=1" target="_self">http://www.fis.com/fis/worldnews/worldnews.asp?l=e&amp;id=67156&amp;ndb=1</a></p><p><i>SeafoodSource.com</i>, ‘IUU ban: Right strategy, wrong tactic’, 28 March 2014</p><p>
+<a href="http://www.seafoodsource.com/en/news/17-environment-sustainability/25839-iuu-ban-is-the-right-strategy-wrong-tactic" target="_self">http://www.seafoodsource.com/en/news/17-environment-sustainability/25839...</a>?</p><p>Yonhap news agency, ‘S. Korea to begin real-time vessel tracking against illegal fishing’, 27 March 2014</p><p>
+<a href="http://english.yonhapnews.co.kr/business/2014/03/27/73/0501000000AEN20140327002100320F.html" target="_self">http://english.yonhapnews.co.kr/business/2014/03/27/73/0501000000AEN2014...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>This decision from the Council is the first of its kind, and follows a formal warning made in November 2012, prior to which an action plan had been discussed and agreed between the concerned countries, such as Guinea and Belize, and the EU. The Commission might propose that the Council delist these countries once sufficient progress regarding the implementation of measures to combat IUU has been made.</p><p>The European Commission advised that the member states, the European Parliament and stakeholders were informed at regular intervals on the state of implementation of the IUU regulation. Proposed action plans, which are currently not publicly available as there is no legal basis allowing dissemination of such information, are key documents for local legal fishing operators, who are among the main groups affected by IUU fishing, as well as by the EU measures adopted (e.g. the import ban). While the EC is in constant dialogue with the concerned countries, it could be argued that further information to stakeholders – local operators in particular – about the content of these action plans could facilitate their implementation.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																											
+								<a href="/en/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																																																		
+							
+							
+																																																						,
+							<a href="/en/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																								
+		</div>
+		
+					<h1>Senegal : Dakar seeks “a steady supply” for its tuna processing plants</h1>
+
+			<h4>
+			
+												27 April 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>The EC announced that the second round of negotiations between Senegal and the EU for signing a Sustainable Fisheries Partnership Agreement (SFPA) allowed “both parties to progress on various elements of the future agreement, such as the duration, the sectoral support implementation, the monitoring of the catches, and scientific cooperation”.</p><p>The Senegal Press Agency emphasised that Senegal wants to conclude a new fisheries agreement with the EU mainly to ensure “a steady supply” of tuna raw material for its processing plants. Meanwhile, EU tuna vessels, particularly seiners, have expressed an interest in fishing in Senegalese waters as part of their regional strategy, because they have recently returned to the region under the SFPA protocol with Mauritania. In the absence of an EU–Senegal agreement, the access of EU tuna vessels would still be possible through chartering operations, after denunciation of the current fisheries agreement.</p><p>Greenpeace is opposing the signing of any agreement because, in its view, “there is no surplus of resources”, while other local groups such as APRAPAM have expressed reservations regarding the potential expansion of fishing possibilities for non-tuna species, in particular deep-sea species (hake).</p><p>In a letter to negotiators, APRAPAM and CAPE asked for hake not to be included in the negotiations, given the high uncertainty about the state of this stock; uncertainty that is shared with Mauritania. “Until an in-depth study on the status of the stock, and the potential impacts of increased exploitation has been completed, and that precautionary reference points are established which ensure that the stock can be restored and maintained well above a level of abundance which can produce MSY [maximum sustainable yield] in the long term, no fishing opportunities should be allocated to EU vessels.” Moreover, “as this is a shared stock, a concerted approach with Mauritania – which is exploiting this resource – must be taken for the management of that fishery.”</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EC Maritime Affairs, press release, 12 March 2014</p><p>
+<a href="http://ec.europa.eu/information_society/newsroom/cf/mare/itemlongdetail.cfm?item_id=15135&amp;subweb=347&amp;lang=en" target="_self">http://ec.europa.eu/information_society/newsroom/cf/mare/itemlongdetail....</a></p><p>Agence de Presse Sénégalaise, Senegal–Europe cooperation, 18 February 2014</p><p>
+<a href="http://www.aps.sn/articles.php?id_article=124870" target="_self">http://www.aps.sn/articles.php?id_article=124870</a></p><p>Greenpeace Africa, blogpost, 12 March 2014</p><p>
+<a href="http://www.greenpeace.org/africa/fr/Actualities/Blogs-de-Greenpeace-Afrique/pourquoi-je-supporte-les-pcheurs-artisans-qui/blog/48485/ " target="_self">http://www.greenpeace.org/africa/fr/Actualities/Blogs-de-Greenpeace-Afri...</a></p><p>CTB Trade for Development, ‘Fish on the menu’, March 2014</p><p>
+<a href="http://www.befair.be/sites/default/files/all-files/brochure/Peche.pdf " target="_self">http://www.befair.be/sites/default/files/all-files/brochure/Peche.pdf</a></p><p>CAPE/APRAPAM, letter to EC negotiator, 11 March 2014</p><p>
+<a href="http://transparentsea.co/images/0/0d/Letter_on_EU-Senegal_negotiations_ENG.pdf " target="_self">http://transparentsea.co/images/0/0d/Letter_on_EU-Senegal_negotiations_E...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The principle of EU fleets having access only “to the surplus of resources that cannot be caught locally”, now enshrined in the reformed Common Fisheries Policy (CFP), will have to be respected in any potential SFPA, including with Senegal. This “surplus” condition, however, does not apply as such to tuna agreements – now the majority of (S)FPAs. Tropical tuna fisheries are regularly analysed by regional fisheries management organisations (RFMOs) – ICCAT for the case of Senegal – and access is allocated at that level. The main aspect of a tuna SFPA will be to ensure that access conditions to tuna within a coastal country’s exclusive economic zone (EEZ) are compatible with management measures taken by ICCAT, and promote local sustainable development. Regarding the uncertainties about the state of some stocks such as deep-water hake in Senegal, it should be noted that the new EU financial instrument – the EMFF – contains provisions that make it possible to finance research studies in areas where EU vessels would operate under multispecies SFPAs (i.e. mixed agreements).</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																								
+								<a href="/en/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																																																																																																																														
+							
+							
+																																																						,
+							<a href="/en/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																								
+		</div>
+		
+					<h1>EU  and other major fishing nations sign a statement on global fishing capacity management</h1>
+
+			<h4>
+			
+												27 April 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>At the end of a conference on fishing capacity organised by the EU in Thessaloniki (Greece), the EU and representatives from Colombia, Indonesia, Japan, Philippines and the USA signed a joint statement to promote global fishing capacity management.</p><p>In her opening speech, European Commissioner Damanaki stated that “Reducing capacity is the way to go. What is advisable is a carefully designed mix of structural and conservation tools, like rights-based systems, tighter controls and incentives for diversification.” She recalled the existing rules and guidelines, including the UN Fish Stock agreement, the FAO action plan on capacity management, and the tuna RFMOs’ “Kobe recommendations” on how to reduce and transfer capacity. But “action is missing,” she said.</p><p>Concrete actions could include using advanced technology to assess and monitor worldwide capacity, such as a global record of all vessels based on a mandatory single system of vessel identification; official agreements and systems for enforcement able to impose strict sanctions; and actions to reduce global capacity-enhancing subsidies.</p><p>The conference participants, including fisheries ministries’ representatives from ACP countries such as Ghana, Mauritania, Mozambique, Seychelles and Mauritius, looked at these various issues, as well as at the transfer of (tuna) fishing capacity from developed to developing states. This was introduced by a presentation of the International Sustainable Seafood Foundation (ISSF), which has been working on this topic for several years.</p><p>Following the conference, the executive director of Oceana in Europe stated that, “This joint declaration constitutes the strongest call in years to put an end to overfishing in the world’s oceans by sustainably managing the fleet and eliminating subsidies that promote overcapacity.”</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EC Damanaki, ‘Ministers sign joint statement on promotion of sustainable fishing capacity in Thessaloniki’, 14 March 2014</p><p>
+<a href="http://ec.europa.eu/commission_2010-2014/damanaki/headlines/press-releases/2014/03/20140314_en.htm" target="_self">http://ec.europa.eu/commission_2010-2014/damanaki/headlines/press-releas...</a></p><p>EC Maritime Affairs, ‘Fishing capacity conference: Less is more’, 13–14 March 2014</p><p>
+<a href="http://ec.europa.eu/fisheries/news_and_events/events/20140313/index_en.htm" target="_self">http://ec.europa.eu/fisheries/news_and_events/events/20140313/index_en.htm</a></p><p><i>Huffington Post</i>, ‘We need a global strategy to end fishing overcapacity’, 12 March 2014</p><p>
+<a href="http://www.huffingtonpost.com/maria-damanaki/less-is-more-we-need-a-gl_b_4948936.html?1394635415 " target="_self">http://www.huffingtonpost.com/maria-damanaki/less-is-more-we-need-a-gl_b...</a></p><p><i>The Fish Site</i>, ‘Major fishing nations commit to ending fleet overcapacity’, 17 March 2014</p><p>
+<a href="http://www.thefishsite.com/fishnews/22739/major-fishing-nations-commit-to-ending-fleet-overcapacity " target="_self">http://www.thefishsite.com/fishnews/22739/major-fishing-nations-commit-t...</a></p><p>ISSF, Focus on tuna fishing capacity, March 2014</p><p>
+<a href="http://iss-foundation.org/tag/capacity/" target="_self">http://iss-foundation.org/tag/capacity/</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>As highlighted by the signatories of the joint statement, the first step to manage global fishing capacity is to assess it – currently, the global active fishing capacity is largely unknown. A record of all vessels, based on a single vessel identification system, is certainly a key objective to promote in worldwide forums, such as the FAO. Regarding tuna, the transfer of fishing capacity from fishing nations (e.g. the EU) to coastal developing nations (e.g. the ACP) as a potential solution to “freeze” global tuna fishing capacity, while accommodating developing countries’ aspirations to develop their own fleets, raises many issues. First, it is unclear whether the qualitative aspects of the tuna fishing capacity available (e.g. in terms of its capital intensity, fishing methods used) correspond to what coastal developing nations require to promote sustainable fisheries development. Coastal developing countries will also need sufficient resources to cope with their obligations as flag states, including ensuring surveillance, control and monitoring of very mobile industrial tuna vessels which are, for a large part of their operations, active on the high seas. This suggests that the EU’s and other fishing nations’ efforts to promote global (tuna) fishing capacity management should also be targeting, as soon as possible, developing coastal (ACP) countries.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																																				
+								<a href="/en/Publications/(regions)/7774/(search)/simple">Pacific</a>
+																																																																									
+							
+							
+																																																						,
+							<a href="/en/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																								
+		</div>
+		
+					<h1>EU –Pacific relations over VDS remain tense</h1>
+
+			<h4>
+			
+												27 April 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>At a meeting of the Parties of the Nauru Agreement (PNA), it was highlighted that, “By requiring foreign fishing companies to adhere to the vessel day scheme (VDS) and setting a minimum fishing day fee – now at US$6,000 – while setting limits on days, PNA has more than tripled revenue accruing to its eight-member nations.”</p><p>The difficulties of moving away from bilateral agreements were emphasised as necessary to ensure the success of the VDS scheme. “As conceived, the VDS aims to create a seller’s market, allowing PNA members to auction their days to the highest bidders. But bilateral agreements – where fisheries and foreign ministry officials from Asian or other nations come to town every year or two to negotiate deals with their islands counterparts – have been a mainstay of Pacific fisheries for more than a generation.” The PNA Director is therefore encouraging fisheries officials to move away from bilateral fisheries access negotiations to selling days through the VDS, allowing the market to dictate the price, which he believes will push the price well above the current US$6,000-a-day benchmark.</p><p>In its latest issue, FFA <i>Trade and Industry News</i> highlighted that, to this end, “the status of the European fleet in relation to the PNA’s Vessel Day Scheme remains a topic of debate”, particularly as the EU vessels licensed under the EU–Kiribati FPA and endorsed by the European Parliament last November, have not formally come under the general terms and conditions of the VDS scheme. FFA legal staff are currently assisting Kiribati “with the drafting of regulations to fully incorporate the VDS into national legislation”.</p><p>In contrast, the Solomon Islands refused to renew a bilateral agreement with the EU in 2013. It is reported that Nauru has also declined to renew arrangements with the Spanish tuna operators’ organisation OPAGAC, citing the association’s refusal to agree to be bound by national laws that implement measures agreed within the PNA.</p><p>“This ongoing debate highlights the continued need for strengthening coherence and consistency associated with the VDS,” stressed FFA <i>Trade and Industry News</i> article. “The PNA countries themselves have identified the need for improvements to the VDS and to this end, FFA, at the request of the PNA, will manage a study of institutional design to strengthen the VDS, which will start in March.”</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>FFA <i>Trade and Industry News</i>, 7(1) January–February 2014</p><p>
+<a href="http://www.ffa.int/node/811 " target="_self">http://www.ffa.int/node/811</a></p><p><i>Islands Business</i>, ‘PNA decisions painful but necessary’, 17 March 2014</p><p>
+<a href="http://www.islandsbusiness.com/news/business/4891/pna-decisions-painful-but-necessary/ " target="_self">http://www.islandsbusiness.com/news/business/4891/pna-decisions-painful-...</a></p><p>PNA news, ‘PNA faces challenges of success’, 26 February 2014</p><p>
+<a href="http://pnatuna.com/node/111 " target="_self">http://pnatuna.com/node/111</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The EU remains a modest player in the Pacific compared to other distant-water tuna fishing nations, such as the USA or Asian countries. However, the debate between the EU and Pacific Islands about the basis for access, whether through the negotiation and signing of bilateral agreements, or through Economic Partnership Agreement negotiations, has taken central stage with little progress in terms of mutual understanding. It is therefore welcomed that, as an element to improve future dialogue, the FFA (at the request of the PNA) will undertake a study to strengthen the institutional design of the VDS (a major EU concern), as well as help with the drafting of regulations to fully incorporate the VDS into Kiribati legislation (a major PNA concern).</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																								
+							
+							
+																																																						
+							<a href="/en/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																								
+		</div>
+		
+					<h1>Spain  takes the lead in the EU for fighting IUU fishing</h1>
+
+			<h4>
+			
+												27 April 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>For the first time in the EU, the Spanish ministry in charge of fisheries has imposed financial penalties and disqualification on Spanish crew members involved in illegal fishing activities while working on board a non-EU flagged vessel blacklisted by the Convention on the Conservation of Marine Living Resources of Antarctica (CCAMLR). The vessel had repeatedly changed its name and flag, thus hindering the application of existing EU disciplinary proceedings.</p><p>Spain is one of the few countries having domestic legislation for marine fisheries sanctions on nationals who serve on convenience flag vessels. These regulations prohibit enrolment for positions of command in vessels from third countries without prior notification to the General Secretariat of Fisheries, as well as the performance by nationals of EU member states of paid work aboard vessels on IUU fishing lists.</p><p>The ministry stresses that the Spanish lead in this area will soon be supplemented by ongoing legislative reforms, which aim to give Spain a solid legal framework in the fight against illegal fishing.</p><p>In a response to the EC consultation on the possible review of the Fishing Authorisation Regulation (FAR), the Spanish fisheries administration highlighted a pioneering action taken by the Spanish authorities to ensure that Spanish vessels fishing outside an FPA fulfil the same requirements as vessels operating under EU agreements.</p><p>In this regard, apart from the mandatory licensing of the third country, all Spanish vessels fishing outside EU waters must obtain a temporary fishing permit issued by the Spanish administration, which includes the requirement for the application of all relevant EU and RFMO legislation, as well as the relevant national regulations. The Spanish administration also applies a system of verification of licences allocated by third countries through the network of Spanish embassies and EU delegations, demanding proof of payment to the Treasury of the country concerned. In this way, it verifies the authenticity and validity of the licence and the transfer to the Treasury.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Fish Information and Services</i>, ‘Ministry sanctions longliner crew illegally operating in Antarctica’, 24 February 2014</p><p>
+<a href="http://www.fis.com/fis/worldnews/worldnews.asp?monthyear=&amp;day=24&amp;id=66705&amp;l=e&amp;special=0&amp;ndb=0 " target="_self">http://www.fis.com/fis/worldnews/worldnews.asp?monthyear=&amp;day=24&amp...</a></p><p>EC Maritime Affairs, ‘Consulta sobre la posible revisión del Reglamento sobre la autorización de las actividades pesqueras’, July 2013</p><p>
+<a href="http://ec.europa.eu/dgs/maritimeaffairs_fisheries/consultations/far/contributions/documents/far-consultation-reply-es_es.pdf" target="_self">http://ec.europa.eu/dgs/maritimeaffairs_fisheries/consultations/far/cont...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The measures taken by Spain to sanction its nationals involved in IUU fishing operations on board non-EU vessels pave the way for a more effective fight against IUU fishing, as they reach out to those beneficiaries of IUU operations that usually escape sanction. Similarly, the system put in place by Spain for delivering fishing authorisation to any Spanish vessel fishing outside EU waters is a positive step towards better monitoring of fishing operations by EU vessels, whether they fish under an SFPA or not. Both measures should be promoted as examples to be followed by EU member states, under the control of the European Commission, as the Spanish legislation allowing these measures to be taken does not exist in most EU member states, or at EU level.</p><p>Actions taken are within the requirements of the EU IUU Regulation which foresees prevention and sanctions against EU nationals supporting or engaged in IUU fishing. They also fall within the basic principles on fishing fleet control by EU member states as set out in the Control and Fisheries Authorisation Regulations.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																											
+								<a href="/en/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																																																		
+							
+							
+																																																						,
+							<a href="/en/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																								
+		</div>
+		
+					<h1>An  SFPA could be in the mutual interest of the EU and Liberia</h1>
+
+			<h4>
+			
+												27 April 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>The EC has published an <i>ex ante </i>evaluation of a possible EU–Liberia FPA and protocol to focus on tuna. Currently, there are no vessels authorised to catch tuna within Liberia’s EEZ, whether under bilateral agreements, private licences or chartering.</p><p>Because Liberia’s EEZ has been an important fishing zone for tuna vessels for decades, foreign tuna purse seine fleets – including Orthongel, representing French purse seiners, and ANABAC and OPAGAC representing Spanish interests – sought to negotiate an agreement with the Liberian authorities, in the form of a Memorandum of Understanding (MoU), which has been made public by Liberian authorities. Approximately 40 EU vessels (i.e. those flagged within the EU as well as outside) are covered by the MoU.</p><p>The evaluation particularly discusses the pros and cons of having a tuna SFPA, or leaving it to the vessel owners to negotiate and finalise their MoU with Liberia.</p><p>The evaluators highlight that the existence of a tuna FPA framework may improve the general governance of EU fishing activities. “In the longer-term, the benefits of improved fishery governance may offer improved catches and thus increased benefits related to value added and employment.”</p><p>In the case of a private agreement, financial contributions would be made only by EU vessel owners, which “would clearly mean a reduced requirement to use EU funds, and increased costs for EU vessel owners”. Payments would be for access, not for fisheries sector policy support, “implying that potential and needed support for improved governance of the Liberia fisheries, including strengthened MCS, would not be put in place and this would increase the risk of poor management of the fishery resources”, stressed the evaluation.</p><p>In a working document assessing the evaluation, the EC highlight that the findings, conclusions and recommendations formulated in the report need to be considered in light of various constraints and limitations, including the fact that “the authorities of Liberia were not consulted for the purpose of the evaluation... As a result, the chapter detailing Liberia’s needs to be met – in particular in relation to sectoral support – is largely based on assumptions which will need to be confirmed by the Liberian authorities in the context of possible future negotiations.”</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EC Maritime Affairs, <i>Ex ante</i> evaluation of a possible EU–Liberia FPA and protocol, 1 April 2014</p><p>
+<a href="http://ec.europa.eu/fisheries/documentation/studies/liberia/index_en.htm" target="_self">http://ec.europa.eu/fisheries/documentation/studies/liberia/index_en.htm</a></p><p>EC Maritime Affair, Assessment of the ex-ante evaluation of a possible EU–Liberia FPA and protocol, 1&nbsp;April 2014</p><p>
+<a href="http://ec.europa.eu/fisheries/documentation/studies/liberia/doc/working-document-liberia-2013_en.pdf" target="_self">http://ec.europa.eu/fisheries/documentation/studies/liberia/doc/working-...</a></p><p>Liberia Fisheries, draft MoU for tuna fishing activities in the waters of Liberia</p><p>
+<a href="http://liberiafisheries.net/sites/default/files/pdf/MoU_Tuna_Fishing.pdf" target="_self">http://liberiafisheries.net/sites/default/files/pdf/MoU_Tuna_Fishing.pdf</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The comparison between the signing of a bilateral FPA between Liberia and the EU, or the signing of a private MoU between Liberia and EU (and other) tuna purse seine companies, suggests that the “added value” of EU agreements (compared to private agreements) is that SFPA sectoral support provides an enabling environment for sustainable fishing operations in third countries. Transparency is one aspect that is also currently more efficiently dealt with under EU public bilateral agreements, although there is still room for improvement, both regarding access conditions provided for EU fleets, and for provision of better information about the state of the resources, through possible support to research. In the long term, EU tuna sector-led initiatives such as the Tuna Transparency Initiative should ensure that the same level of transparency applies to private agreements.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/interviews.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																						
+								<a href="/en/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																														
+							
+							
+																																																						,
+							<a href="/en/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																								
+		</div>
+		
+					<h1>“A tuna vessel will come to the port if the port is well equipped”</h1>
+
+			<h4>
+			
+												04 May 2014
+										</h4>
+
+						<h2>An interview with Philippe Michaud, President of the Seychelles Fishing Authority</h2>
+				</header>
+
+
+
+
+
+
+
+				<div class="intro">
+
+						
+<div class="object-left">		
+<div class="embed-image">
+<img border="0" src="/var/agritrade/storage/images/philippe-michaud/3161437-1-eng-GB/Philippe-Michaud_small.jpg" width="52" height="70"></div></div><p>Philippe Michaud is an economist, and has been actively involved in the Seychelles fisheries for 30 years. He is currently a technical advisor to the Seychelles Ministry of Foreign Relations, and president of the Seychelles Fishing Authority Board. He is also a member of the Board of Directors of the Seychelles Ports Authority and the High Committee against Piracy.</p>
+
+		</div>
+		
+		
+					<p><b>Q: Coastal developing countries, such as the ACP countries, nowadays express their legitimate aspirations to develop their fishing capacity. What is the experience of the Seychelles in the matter?</b></p><p>It is actually very important for coastal countries to draw more benefits from their fish resources, by developing their fishing capacity, but this must be done in a way that avoids developing overcapacity.</p><p>We must also realise that, particularly in the case of tuna fishing, the development of a powerful local industrial fishing sector is very expensive. A tuna seiner represents considerable capital; even a longliner is a big investment, hardly affordable for our citizens.</p><p>We have therefore taken several initiatives in the Seychelles. First of all, we have allowed foreign vessels to buy licences to fish in the Seychelles’ exclusive economic zone (EEZ) – this is particularly the case for European fleets that are active through fisheries agreements.</p><p>We have also allowed the registration of tuna vessels under the Seychelles flag – we now have a fleet of 7 seiners and 30 longliners flagged in this country. We apply the same monitoring and control standards to all vessels’ activities, whether they are domestic or foreign flagged.</p><p>Furthermore, we have funded the development of a semi-industrial longliner fleet to fish tuna and swordfish, with 100% Seychellois shipowners and crews.</p><p><b>Q: In your view, what guides the choice of a European shipowner between purchasing a tuna fishing licence under an EU flag, particularly for fishing under a fisheries agreement, or reflagging?</b></p><p>Fishing under a fisheries agreement brings a degree of guarantee for shipowners, but only for a relatively short period of time. On the other hand, and even if it is not written anywhere, reflagging locally offers the shipowner a better guarantee to perpetuate its access to resources, and thus its activity.</p><p>As regards licences, a shipowner pays more when his vessel is under the Seychellois flag than when fishing under an agreement. But we must also consider the financial intervention of European public authorities in the context of agreements, such as the sectoral support, which is also a benefit for the coastal country.</p><p>Overall, for coastal states, the advantages of both scenarios are more or less similar, although sometimes it is considered that a reflagged vessel is better integrated into the national economy: the vessel unloads its catch locally, makes the necessary repairs in the local port, etc.</p><p>For these reasons, we want to continue to develop our fishing capacity, including through very controlled reflagging of vessels that will fit better into the national economy.</p><p><b>Q: How do you evaluate other elements of the fisheries agreements with the European Union, such as the sectoral support?</b></p><p>We use the sectoral support to help all fisheries activities taking place in Seychelles’ waters.</p><p>Recently, a 120m long wharf was built thanks to this support, which allowed an improvement of services for the seiners that can now safely unload their nets.</p><p>This sectoral support was also used in the construction of infrastructure for small-scale fisheries, as populations rely heavily on this sector for the supply of fresh fish.</p><p>Other aspects are also important, such as the introduction of a social clause in the European fishing agreements. This has forced us to reflect on the training we must give to our crew members so that they have all the certifications required by vessels, and can thus benefit from a better status.</p><p>There was also significant progress regarding monitoring and control, particularly with the introduction of an electronic system for the registration of catch data. This provides us with quicker access, which, ultimately, gives us more confidence in the quality of this catch data.</p><p>Transparency is also an important element. At the Seychelles level – similar to what is done for the agreement with the EU – we will publicise all the fishing agreements that we have signed with foreign countries, as recommended by the Indian Ocean Tuna Commission (IOTC). This will certainly provide better information for all, and facilitate harmonisation of access conditions in the region.</p><p>I should also mention other EU initiatives in this regard, such as the financing of the Smartfish programme, which does excellent work, including helping us to harmonise access conditions to the EEZs of various countries in the region.</p><p><b>Q: An element of fishing agreements with the EU, on which partner countries often insist, is the inclusion of an obligation for landing catches locally. What is your opinion?</b></p><p>It is an important element, but it is difficult in practice to require private operators to land at a certain location; a tuna vessel will come to the port if the port is well equipped, if port services are competitive, if cold rooms and canneries are complying with high standards, etc.</p><p>In the Seychelles, for example, although many seiners land in Victoria, there are still too few longliners doing so because we do not have the necessary infrastructure, particularly cold rooms at −60° Celsius, in which to keep the fish at optimal freshness. Investments are needed.</p><p><b>Q: So, needs are important, but despite this, most ACP countries do not prioritise fisheries in terms of aid, in the EDF programmes for example. How do you explain this?</b></p><p>The fisheries sector does not carry much political weight because its importance is not visible enough. For example, when talking about the Seychelles’ economic statistics, one speaks mainly of tourism, although fisheries have an equivalent economic weight!</p><p>We must improve information and data collection not only on fisheries, but also on its ‘side effects’. For instance, in the Seychelles, 60% of the containers on cargo ships leaving the commercial port transport canned tuna produced in the Seychelles for export. Tuna is literally the backbone of cargo traffic, but this is not sufficiently well known or visible. If it were, the authorities in charge of fisheries could better convince their colleagues to give more attention to fisheries in development assistance programmes.</p><p><b>Q: Tuna trade is definitely an engine of economic development. What is your point of view about the obstacle that rules of origin may constitute?</b></p><p>We have a lot of tuna of origin landed in the Seychelles, in Victoria harbour. So, it’s not so much the rules of origin as such that pose difficulties, but rather the increasing demands of importers for certain specific products such as pole-and-line caught tuna, which we would have to import from the Maldives, Ghana or elsewhere.</p><p>Of course, we could have a waiver, but the volumes are too limited. On the other hand, it is not so easy to use the possibilities of cumulation of origin with the other ACP countries, as the necessary administrative structures to manage all this have to be in place. These are new challenges!</p>
+		
+		
+		
+		
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																								
+								<a href="/en/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+							
+							
+																																																						,
+							<a href="/en/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																								
+		</div>
+		
+					<h1>EU is largest global importer of seafood products</h1>
+
+			<h4>
+			
+												11 May 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>The first issue of the annual EU Fish Market Report provides a complete overview of seafood (wild caught and farmed products) consumption, trade and production in the EU, based on data available from October 2013. It reveals that the EU is the largest importer of seafood products, making up 24% of the total value of world fish trade.</p><p>The EU is a major fish market: in 2011, annual consumption per capita was 24.5kg, a total of 12.3 million tonnes, representing €52.2 billion. However, consumption varies considerably from one member state to another. Northern member states buy more processed fish while those in the south prefer fresh fish products. Eastern European countries are still below the EU average but are registering increased consumption. The report states that 75% of fish eaten in the EU comes from wild fishing and consumption of farmed products decreased by 5% in 2011: it underlines that “this could be a consequence of reduced EU aquaculture production and diminished imports of farmed products in particular pangasius.”</p><p>The report highlights that EU seafood self-sufficiency remained stable at around 45% between 2008 and 2011, meaning that more than half of the seafood consumed in Europe is imported. In terms of value, shrimp is now the leading imported species, although tuna, cod and salmon are still the main species consumed in the EU.</p><p>EU imports grew at a substantial rate of 3% in value between 2011 and 2012, reaching €19.2 billion. Norway and China are the main EU suppliers: Norway for farmed salmon and cod, and China for processed white fish. Nowadays, most of the fish products imported into the EU from China are filleted; the value of these imports strongly increased (+15%) between 2009 and 2012.</p><p>The majority of tuna consumed in Europe is caught by the French and Spanish fleets that land the biggest part of their catches (fresh or frozen) close to the fishing areas in third countries (the Seychelles, Mauritius and Ecuador), for subsequent export to the EU.</p><p>It should be noted that the EU also exports tuna and small pelagics to some ACP countries. In 2012, more than 200,000 tonnes of frozen skipjack and yellowfin tuna were exported by Spain and France, mostly to Mauritius, Seychelles and Côte d’Ivoire; and 94,000 tonnes of small pelagics (e.g. blue whiting) were exported by Ireland and the Netherlands, at an average price of €0.60/kg, to Nigeria and Cameroon.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EC Maritime Affairs, ‘EU largest global importer of seafood products’, 31 March 2014</p><p>
+<a href="http://ec.europa.eu/information_society/newsroom/cf/mare/itemlongdetail.cfm?item_id=15471&amp;subweb=343&amp;lang=en " target="_self">http://ec.europa.eu/information_society/newsroom/cf/mare/itemlongdetail....</a></p><p>EUMOFA, ‘The EU fish market – 2014 edition’, April 2014</p><p>
+<a href="https://ec.europa.eu/fisheries/market-observatory/documents/10157/c8cdfc29-91dc-42f5-88cd-0886f4c97cbb " target="_self">https://ec.europa.eu/fisheries/market-observatory/documents/10157/c8cdfc...</a></p><p><i>Fish Information and Services</i>, ‘The EU has become the first seafood product importer’, 10 April 2014</p><p>
+<a href="http://www.fis.com/fis/worldnews/worldnews.asp?l=e&amp;id=67768&amp;ndb=1" target="_self">http://www.fis.com/fis/worldnews/worldnews.asp?l=e&amp;id=67768&amp;ndb=1</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>This first report produced by the EU’s recently established European Market Observatory (EUMOFA) confirms some trends and analysis on fish consumption and imports presented in other traditional reports, such as the annual European Association of Fish Importers and Processors’ (AIPCE) Finfish report. However, it also includes some new aspects of importance for future ACP–EU fish trade relations, such as details and analysis of EU fish exports to ACP countries. The EUMOFA report provides valuable information about the quantities and prices of tuna and small pelagic exports to ACP countries, which should help ACP countries such as Nigeria, which recently decided to ban small pelagic imports, to better anticipate the consequences of potential changes to this pattern. A similar tool should gradually be developed in Africa, using not only existing export/import data for the main fish trade partners (e.g. EU, USA), but also data regarding regional and informal fish trade.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																								
+								<a href="/en/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+							
+							
+																																																						,
+							<a href="/en/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																								
+		</div>
+		
+					<h1>A leading EU canned tuna brand will only stock “responsibly sourced tuna” from 2015</h1>
+
+			<h4>
+			
+												11 May 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>Greenpeace acclaimed the commitment by a leading canned tuna brand, Oriental &amp; Pacific, to only stock “responsibly sourced tuna” from 2015.</p><p>The retailer Tesco recently came under fire from Greenpeace and a UK celebrity chef, Hugh Fearnley-Whittingstall, because it was buying low-priced tuna from Oriental &amp; Pacific, whose suppliers used fish aggregating devices (FADs) that are known to catch many juvenile fish, sharks, rays and marine turtles. Greenpeace believes tuna can only be said to be sustainable if it is caught using the pole-and-line method, or in nets without FADs.</p><p>Over 85,000 people have called on Tesco to remove Oriental &amp; Pacific tuna from its shelves, but Tesco has refused to take action. However, in April, Oriental &amp; Pacific wrote to Greenpeace saying that “from end of April 2015 it will only sell sustainably sourced tuna”.</p><p>Greenpeace has welcomed the move, but continues to criticise Tesco. The supermarket had previously committed to make its own brand of tuna sustainable, but as soon as it fulfilled that promise “it introduced unsustainable Oriental &amp; Pacific tuna, undermining its public commitment to protecting the oceans”, said a Greenpeace UK oceans campaigner.</p><p>The celebrity chef also welcomed the move, further calling on Tesco “to insist that Oriental &amp; Pacific has a clear label stating the catch method, to make sure we can trust these commitments”. “I don’t think anyone should buy a tin of tuna that doesn’t say how it was caught,” he said.</p><p>Greenpeace announced it would now be investigating tuna sold in discount supermarkets, such as Aldi and Lidl, which attract increasing numbers of consumers. Although both offer pole-and-line-caught tuna on their shelves, the majority of their tuna is caught using the purse seine/FADs method.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>FishNews.com</i>, ‘Beleaguered tuna brand backs down’, 11 April 2014</p><p>
+<a href="http://www.fishnewseu.com/component/content/article/46-latest-news/world/12245-beleaguered-tuna-brand-backs-down.html" target="_self">http://www.fishnewseu.com/component/content/article/46-latest-news/world...</a></p><p>Greenpeace UK, ‘Tesco backs down and Oriental &amp; Pacific cleans up’, 10 April 2014</p><p>
+<a href="http://www.greenpeace.org.uk/blog/oceans/breaking-tesco-backs-down-and-oriental-pacific-cleans-20140410" target="_self">http://www.greenpeace.org.uk/blog/oceans/breaking-tesco-backs-down-and-o...</a></p><p><i>The Guardian</i>, ‘Top chef accuses Tesco: “If you care about our oceans, take this tuna off your shelves”’, 2&nbsp;March 2014</p><p>
+<a href="http://www.theguardian.com/environment/2014/mar/02/tesco-hugh-fearnley-whittingstall-tuna-fishing" target="_self">http://www.theguardian.com/environment/2014/mar/02/tesco-hugh-fearnley-w...</a></p><p><i>Fish Information and Services</i>, ‘Greenpeace claims victory in campaign against Tesco’, 15 April 2014</p><p>
+<a href="http://www.fis.com/fis/worldnews/worldnews.asp?l=e&amp;country=0&amp;special=&amp;monthyear=&amp;day=&amp;id=67891&amp;ndb=1&amp;df=0" target="_self">http://www.fis.com/fis/worldnews/worldnews.asp?l=e&amp;country=0&amp;spe...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>This case shows that retailers offer ‘sustainable fish’ on their shelves mainly as a way to diversify their offer and increase the number of customers, catering to both those who are sensitive to environmental considerations and those who are more price sensitive. It also shows the importance for suppliers, including those from ACP countries, to have more clarity about what “sustainable tuna” entails in order to adapt their production strategies. Only relying on the catching method to define whether a fish comes from environmentally sustainable fisheries, as suggested by Greenpeace, is too simplistic. Other factors, such as the level of the fishing capacity/fishing effort, should also be considered – as is done by some labels such as MSC – and social aspects of the production, as introduced by some labels like Naturland or Pacifical. In the course of the Common Market Organisation (CMO) reform, the EC has been requested to propose an EU ecolabel for fish products, which would, at least, have the merit to clarify what constitute official standards of sustainability. The CMO reform has also ensured that fish product labelling will now have to indicate the type of gear used to catch the (wild) fish: trawlers, purse seiners, driftnets, hooks, lines, dredgers and traps, corresponding to UK campaigners’ requests.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																								
+								<a href="/en/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+							
+							
+																																																																												,
+							<a href="/en/Fisheries/(fisheries)/7830/(search)/simple">EU common fisheries policy</a>
+							
+							
+																																		
+		</div>
+		
+					<h1>The EU financial instrument for fisheries is finally adopted</h1>
+
+			<h4>
+			
+												11 May 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>Putting an end to a 5-year process to reform the CFP, on 16 April 2014 the European Parliament adopted the European Maritime and Fisheries Fund (EMFF) – representing €6.7 billion of subsidies – that will help the EU fishing sector to implement the new EU fisheries policy. EU member states are expected to endorse it over the coming month, and it will come into force in June.</p><p>European Commissioner for Maritime Affairs and Fisheries welcomed the vote, stressing that: “our reformed fisheries policy is putting European fisheries on a sustainable footing once and for all… We will co-fund concrete projects in the member states to help fishermen and coastal communities develop a sustainable seafood industry – from the net to the plate.”</p><p>In its press release, the EC also emphasised that no subsidy will be allocated to the building of new fishing vessels, in order not to contribute to increasing fishing capacity. The priority, rather, is to help small-scale fishermen who will benefit from a higher rate of aid intensity, as well as young fishermen and fishermen’s families.</p><p>NGOs generally welcomed the vote. However, Ocean 2012 highlighted that “While the basic regulation includes ambitious targets for ending overfishing and restoring fish stocks, the fisheries fund is less ambitious in ending harmful fisheries subsidies.” Oceana pointed out that “environmentally harmful subsidies, such as funding for new engines, were unfortunately reintroduced in the fund, but they will be subject to clear budget limits”. Oceana’s policy officer in Europe clarified that “Member states will make the final decision on EMFF investments, and could therefore decide to exclude harmful subsidies from the funding possibilities they will provide to their fishing sectors.”</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EC, ‘Commission welcomes Parliament's adoption of new EMFF’, 16 April 2014</p><p>
+<a href="http://europa.eu/rapid/press-release_IP-14-458_en.htm?lang=en" target="_self">http://europa.eu/rapid/press-release_IP-14-458_en.htm?lang=en</a></p><p>Ocean 2012, ‘Ocean 2012 welcomes European Parliament vote on new fisheries fund’, 16 April 2014</p><p>
+<a href="http://ocean2012.eu/press_releases/150-ocean2012-welcomes-european-parliament-vote-on" target="_self">http://ocean2012.eu/press_releases/150-ocean2012-welcomes-european-parli...</a></p><p>Oceana, ‘EU Parliament commits to sustainable fishing’, 16 April 2014</p><p>
+<a href="http://oceana.org/en/eu/media-reports/press-releases/eu-parliament-commits-to-sustainable-fishing" target="_self">http://oceana.org/en/eu/media-reports/press-releases/eu-parliament-commi...</a></p><p><i>UndercurrentNews.com</i>, ‘Europe’s new €6.5bn fisheries fund not for upping capacity’, 16 April 2014</p><p>
+<a href="http://www.undercurrentnews.com/2014/04/16/europes-new-e6-5bn-fisheries-fund-not-for-upping-capacity/" target="_self">http://www.undercurrentnews.com/2014/04/16/europes-new-e6-5bn-fisheries-...</a></p><p>Reuters, ‘EU politicians back 6.5 billion euro fishing reform budget’, 16 April 2014</p><p>
+<a href="http://www.reuters.com/article/2014/04/16/fish-idUSL6N0N63LI20140416" target="_self">http://www.reuters.com/article/2014/04/16/fish-idUSL6N0N63LI20140416</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Although sustainable fisheries partnership agreement (SFPA) funds are not part of the EMFF, various elements of the new fund could be used to promote sustainable fisheries in the context of EU–ACP SFPAs. In particular, as part of the increased focus, and funds available for data collection, it will be possible, according to the adopted EMFF regulation, to use funds to finance stocks assessment of resources targeted by EU vessels fishing under an SFPA.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>							
+<section class="content newsletterline">
+	<article>
+
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+				<header>
+
+
+
+
+
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																	
+								<a href="/en/Publications/(regions)/7770/(search)/simple">Caribbean</a>
+																																																																																																																																																																																																																																																												
+							
+							
+																																																						,
+							<a href="/en/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																								
+		</div>
+		
+					<h1>Caribbean  region closer to adopting a Common Fisheries Policy</h1>
+
+			<h4>
+			
+												22 June 2014
+										</h4>
+
+				</header>
+
+
+
+
+
+
+
+		
+		
+					<p>At the end of a 3-day forum of CARICOM leaders, the Caribbean Regional Fisheries Mechanism (CRFM) emphasised that the region was closer to adopting the Caribbean Community Common Fisheries Policy (CCCFP), which will focus on the cooperative management of shared fisheries resources in the Caribbean.</p><p>The Executive director of the CRFM said that the meeting was “of particular historical significance to the region”. Many objectives of the CCCFP were already taken into account in CRFM actions to foster regional cooperation in the management of the region’s resources, such as the flying fish, lobster and queen conch fisheries resources and related ecosystems.</p><p>CRFM informed that the first sub-regional fisheries management plan for the conservation, management and sustainable use of the flying fish – a resource shared among eastern Caribbean countries – had been approved at the forum. This fisheries management plan will now be presented to the Ministerial Council for endorsement, and formalised through signature of an accompanying resolution by the flying fish ministerial sub-committee.</p><p>The forum also reviewed a draft fisheries management plan on spiny lobster, which is to be updated with recent scientific information and inputs from stakeholder consultations, before submission to the Ministerial Council for approval. A similar declaration for the queen conch is to be prepared, based on the outputs of an EU-funded project under the ACP Fish II Programme to improve and harmonise the scientific approaches required to advise on sustainable management of the species in the region.</p><p>The CRFM also emphasised the importance that has been given in the whole process to engage stakeholders and adopt a “holistic approach that considers human well-being, ecosystem and governance issues”.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>The Jamaica Observer</i>, ‘Region closer to adopting fisheries policy’, 6 May 2014</p><p>
+<a href="http://www.jamaicaobserver.com/news/Region-closer-to-adopting-fisheries-policy_16608045" target="_self">http://www.jamaicaobserver.com/news/Region-closer-to-adopting-fisheries-...</a></p><p>CRFM, webpage on CCCFP</p><p>
+<a href="http://crfm.net/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=203&amp;Itemid=336" target="_self">http://crfm.net/index.php?option=com_k2&amp;view=item&amp;layout=item&am...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Ultimately, the CRFM efforts will lead to a Common Fisheries Policy. This is also an official goal for African fisheries, as stated at the second African Union Conference of African Fisheries and Aquaculture Ministers, held in March. The approach taken by the Caribbean to develop this policy, in a way that simultaneously considers “holistic approach that considers human well-being, ecosystem and governance issues”, is remarkable. The results already registered in the Caribbean region on the path to finalising this CFP – particularly the development of fisheries management plans – could provide valuable experience to be shared with other regions, including Africa, where the management of shared resources, such as small pelagics, presents similar challenges for the development of a pan-African fisheries policy.</p>
+		</div>
+		
+
+	</article>
+
+
+</section>			
+
+
+
+
+
+
+
+				
+
+
+						<!-- center container ] -->
+			</div>
+			
+
+
+				<div id="rightCntr">
+				
+									<!-- login -->
+	<div class="block myagritrade rightsmall">
+		<form action="/en/user/login" method="post">
+				<h3>Log In </h3>
+				<div class="clear"></div>
+				<input type="text" class="field half set_password_user" name="Login" id="id1" value="" placeholder="Username"/>
+				<label class="passwordlabel"><span>Pass</span><input type="password" class="field half last set_password" value="" autocomplete="off" name="Password"/></label>
+				<input type="image" alt="Go" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif"/>
+			<input type="hidden" name="RedirectURI" value=""/>
+		</form>
+
+		<p class="smaller"><a href="/en/user/forgotpassword">Did you forget your password?</a></p>
+
+	</div>
+
+<!-- end login -->
+									
+   <div class="block myagritrade rightsmall">
+		<form action="/en/user/register" method="get">
+				<h3>Subcribe to Newslettters</h3>
+				<input type="text" class="field full" value="" placeholder="Your E-mail Address" name="email"/>
+				<input type="image" alt="Go" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif"/>
+	   </form>
+	</div>
+	<div class="clear"></div>
+									<div class="block social navy">
+
+	<h3 class="stay">Stay informed</h3>
+
+	<ul class="clearfix">
+		<li><a target="_blank" href="http://www.facebook.com/pages/Agritrade-ACP-EU-Agricultural-Trade-News-and-Analysis/115370331833"><img src="/extension/agritrade/design/agritrade/images/facebook.gif" alt=""/>Facebook</a></li>
+		<li><a target="_blank" href="http://twitter.com/agritrade"><img src="/extension/agritrade/design/agritrade/images/twitter.gif" alt=""/>Twitter</a></li>
+		<li><a target="_blank" href="http://vimeo.com/channels/114161"><img src="/extension/agritrade/design/agritrade/images/vm.gif" alt=""/>Vimeo</a></li>
+		<li><a target="_blank" href="http://www.youtube.com/user/AGRITRADEvideo?feature=mhee"><img src="/extension/agritrade/design/agritrade/images/yt.gif" alt=""/>YouTube</a></li>
+		<li><a target="_blank" href="/en/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/5854/(pubtype)/7760-7765-7763-7761-7764"><img src="/extension/agritrade/design/agritrade/images/rss-small.gif" alt=""/>RSS</a></li>
+
+	</ul>
+</div>						</div>
+		
+		<div style="clear:both;"></div>
+
+
+		</section>
+		<!-- content container ] -->
+
+		<footer class="container">
+
+			<!-- [ bottom container -->
+			<div id="sitemap">
+	<a class="sitemap_toggle closed" href="#">Sitemap</a>
+	<nav>
+		<div class="links agri">
+			<h3>Agriculture</h3>
+			<div class="column">
+				<ul>
+					<li><em>Topics</em></li>
+					
+					<li><a href="/en/Agriculture/Topics/WTO">WTO</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/EPAs">EPAs</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/EU-FTAs">EU FTAs</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/ACP-FTAs">ACP - FTAs</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/ACP-regional-trade">ACP regional trade</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Market-access">Market access</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/SPS-Food-safety">SPS / Food safety</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Product-differentiation">Product differentiation</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/CAP-reform">CAP reform</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Biofuels">Biofuels</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Climate-change">Climate change</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Aid-for-trade">Aid for trade</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Other">Other</a></li>
+									</ul>
+			</div>
+
+			<div class="column">
+				<ul>
+					<li><em>Commodities</em></li>
+
+										<li><a href="/en/Agriculture/Commodities/General">General</a></li>
+										<li><a href="/en/Agriculture/Commodities/Bananas">Bananas</a></li>
+										<li><a href="/en/Agriculture/Commodities/Beef">Beef</a></li>
+										<li><a href="/en/Agriculture/Commodities/Cocoa">Cocoa</a></li>
+										<li><a href="/en/Agriculture/Commodities/Coffee">Coffee</a></li>
+										<li><a href="/en/Agriculture/Commodities/Cotton">Cotton</a></li>
+										<li><a href="/en/Agriculture/Commodities/Dairy">Dairy</a></li>
+										<li><a href="/en/Agriculture/Commodities/Horticulture">Horticulture</a></li>
+										<li><a href="/en/Agriculture/Commodities/Oil-crops">Oil crops</a></li>
+										<li><a href="/en/Agriculture/Commodities/Poultry">Poultry</a></li>
+										<li><a href="/en/Agriculture/Commodities/Rice">Rice</a></li>
+										<li><a href="/en/Agriculture/Commodities/Rum">Rum</a></li>
+										<li><a href="/en/Agriculture/Commodities/Sugar">Sugar</a></li>
+										<li><a href="/en/Agriculture/Commodities/Cereals">Cereals</a></li>
+										<li><a href="/en/Agriculture/Commodities/Tea">Tea</a></li>
+										<li><a href="/en/Agriculture/Commodities/Other">Other</a></li>
+									</ul>
+			</div>
+
+		</div>
+		<div class="links">
+			<h3>Fisheries</h3>
+		<ul>
+		
+			<li><a href="/en/Fisheries/Topics/Market-access">Market access</a></li>
+		
+			<li><a href="/en/Fisheries/Topics/ACP-EU-relations-FPAs">ACP-EU relations; FPAs</a></li>
+		
+			<li><a href="/en/Fisheries/Topics/EU-common-fisheries-policy">EU common fisheries policy</a></li>
+		
+			<li><a href="/en/Fisheries/Topics/WTO-international-developments">WTO &amp; international developments</a></li>
+		
+			<li><a href="/en/Fisheries/Topics/News-from-the-IOC-region">News from the IOC region</a></li>
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Regions</h3>
+		<ul>
+					
+				<li><a href="/en/Regions/Global">Global</a></li>
+						
+					
+				<li><a href="/en/Regions/EU">EU</a></li>
+						
+															
+					<li><a href="/en/Regions/ACP/Surface-transport-slow">Surface transport slow</a></li>
+				
+					<li><a href="/en/Regions/ACP/All-ACP">All ACP</a></li>
+				
+					<li><a href="/en/Regions/ACP/Caribbean">Caribbean</a></li>
+				
+					<li><a href="/en/Regions/ACP/Central-Africa">Central Africa</a></li>
+				
+					<li><a href="/en/Regions/ACP/Eastern-Africa">Eastern Africa</a></li>
+				
+					<li><a href="/en/Regions/ACP/West-Africa">West Africa</a></li>
+				
+					<li><a href="/en/Regions/ACP/Pacific">Pacific</a></li>
+				
+					<li><a href="/en/Regions/ACP/Southern-Africa">Southern Africa</a></li>
+							
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Publications</h3>
+			<ul>
+			
+				<li><a href="/en/Publications/News-Analysis">News &amp; Analysis</a></li>
+			
+				<li><a href="/en/Publications/Newsletter">Newsletter</a></li>
+			
+				<li><a href="/en/Publications/Executive-briefs">Executive briefs</a></li>
+			
+				<li><a href="/en/Publications/Interviews">Interviews</a></li>
+			
+				<li><a href="/en/Publications/Special-Reports">Special Reports</a></li>
+			
+				<li><a href="/en/Publications/Compendium">Compendium</a></li>
+						</ul>
+		</div>
+
+
+
+		<div class="links last">
+			<h3>Links</h3>
+			<ul>
+			
+				<li><a href="http://agritrade.cta.int/en" target="_blank">Agritrade</a></li>
+			
+				<li>My Agritrade</li>
+			
+				<li><a href="http://www.cta.int/en/CTA-Portals" target="_blank">CTA Web Portals</a></li>
+			
+				<li><a href="http://brussels.cta.int/index.php" target="_blank">CTA Brussels Office Weblog</a></li>
+			
+				<li>ARD WebRing</li>
+			
+				<li><a href="http://spore.cta.int/" target="_blank">Spore </a></li>
+			
+				<li><a href="http://ictupdate.cta.int/" target="_blank">ICT Update</a></li>
+			
+				<li><a href="http://knowledge.cta.int/" target="_blank">Knowledge for Development</a></li>
+			
+			</ul>
+		</div>
+	</nav>
+</div>
+
+
+
+			<!-- bottom container ] -->
+
+			<!-- [ footer container -->
+			<div id="footer">
+				<div class="footerleft">
+					<div class="icon_left">
+						<img src="/extension/agritrade/design/agritrade/images/icon1.gif" alt=""/>
+					</div>
+
+					<div class="text_center">
+						
+																					
+
+	<div class="block custom ">
+
+		
+		<p>CTA is a joint institution operating under the framework of the Cotonou Agreement between the ACP Group of States (Africa, the Caribbean and the Pacific) and the EU Member States (EuropeanUnion). CTA is funded by the European Union.
+
+		
+		</p>
+
+	</div>													
+					</div>
+
+					<div class="icon_right">
+						<img src="/extension/agritrade/design/agritrade/images/icon2.gif" alt=""/>
+					</div>
+				</div>
+
+				<div class="footerright">
+											
+
+	<div class="block links">
+		
+									<p><a href="/en/Welcome-to-Agritrade" target="_blank">About &amp; Contact</a></p>
+												<p><a href="/en/Welcome-to-Agritrade/Disclaimer">Disclaimer</a></p>
+					
+	</div>
+											
+
+	<div class="block custom ">
+
+		
+		<p>Copyright © 2011, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)
+
+		
+		</p>
+
+	</div>									</div>
+
+			</div>
+			<!-- footer container ] -->
+
+		</footer>
+
+	</div>
+	<!-- main container ] -->
+
+</div>
+<!-- wrapper ] -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-724238-5";
+urchinTracker();
+</script>
+
+
+
+<script type="text/javascript">
+  var _sf_async_config = { uid: 39651, domain: 'agritrade.cta.int' };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+        "js/chartbeat.js");
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":835,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

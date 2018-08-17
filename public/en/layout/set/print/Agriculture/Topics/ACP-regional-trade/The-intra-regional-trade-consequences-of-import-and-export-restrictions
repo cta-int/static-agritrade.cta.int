@@ -1,0 +1,230 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>The intra-regional trade consequences of import and export restrictions / ACP regional trade / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																																
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																																																																																						,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+																																																																																																																																																																																																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7893/(search)/simple">Cereals</a>
+							
+																																									
+																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7816/(search)/simple">ACP regional trade</a>
+							
+																																																																																																																																																																																																			
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>The intra-regional trade consequences of import and export restrictions</h1>
+
+			
+			<h4>
+												03 August 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>In April 2014, the Grain Traders Association of Zambia (GTAZ) warned the government that delays in lifting the country’s ban on maize exports would “result in Zambia missing out on current regional demand”. The comments were made amid expectations of major increase in Zambian maize production. In early May, the <i>Times of Zambia</i> reported a projected harvest of 3,350,671 tonnes, up 32% from 2,532,800 tonnes last season. Fully 93% of this production came from small and medium-sized farmers who had benefited from an expansion of the farmer Input Support Programme and expanded fertiliser distribution.</p><p>In addition to the bumper harvest, Zambia has a maize carry-over stock of 597,192 tonnes. With an estimated national maize consumption of 1,887,824 tonnes, a theoretical maize surplus of 1,152,505 tonnes is likely to be available.</p><p>At the beginning of May 2014, the Zambian government announced the lifting of its ban on maize exports, but retained in place an export permit system. However, this took place against the background of the suspension of all import permits for food products by the government of Zimbabwe and calls from the Grain Millers Association of Zimbabwe for a suspension of all maize meal imports “to allow millers to mop up as much maize as possible from local farmers”.</p><p>The President of the Commercial Farmers Union argued that such a ban would be “counterproductive, because the country was still producing below national consumption”. While Zimbabwe has a potential to produce 2.2 million tonnes of maize per year (pre land reform levels), the <i>Times of Zambia</i> noted that the country “is currently producing between 900,000 and one million tonnes per annum”. This situation is further compounded by the financial constraints hindering the operations of the Zimbabwean Grain Marketing Board.</p><p>The good Zambian harvest, combined with the Zimbabwean ban, has left Zambian maize exporters looking for markets. Zambia’s Agriculture Minister announced that the country would be exploring other foreign markets “beyond the existing Southern African regional markets for the export of maize”.</p><p>Market opportunities could arise from the Kenyan government’s initiation of government-to-government discussions on the procurement of 2 million bags of GMO-free maize before August and the issuing of permits to the registered millers to import 1 million bags of duty-free maize before the end of July.</p><p>Meanwhile, the Lusaka-based Centre for Trade Policy and Development (CTPD), in partnership with Indaba Agriculture Policy Research Institute (IAPRI), is looking at ways for Zambia to improve its maize trade regime. It argues that the government should develop “a regulatory mechanism for maize exports that is transparent and accountable”, noting “the need for guidelines that are more predictable, based on agreed parameters between government and the private sector”.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p class=" text-LEFT"><i>Zambia Post</i>, ‘Grain Traders back govt plans to boost maize export’, 10 April 2014</p><p class=" text-LEFT">
+<a href="http://www.postzambia.com/post-read_article.php?articleId=47490" target="_self">http://www.postzambia.com/post-read_article.php?articleId=47490</a></p><p class=" text-LEFT"><i>Zambia Daily Mail</i>, ‘Maize export ban lifted’, 5 May 2014</p><p class=" text-LEFT">
+<a href="http://foodbusinessafrica.com/index.php/component/content/article/14-sample-data-articles/1779-maize-export-ban-lifted" target="_self">http://foodbusinessafrica.com/index.php/component/content/article/14-sam...</a></p><p class=" text-LEFT"><i>Times of Zambia</i>, ‘Zambia to record a bumper harvest’, 5 May 2014</p><p class=" text-LEFT">
+<a href="http://www.times.co.zm/?p=21697" target="_self">http://www.times.co.zm/?p=21697</a></p><p class=" text-LEFT"><i>Zimbabwe Herald</i>, ‘Mixed reactions on importation freeze’, 2 April 2014</p><p class=" text-LEFT">
+<a href="http://www.herald.co.zw/latest-mixed-reactions-on-importation-freeze/" target="_self">http://www.herald.co.zw/latest-mixed-reactions-on-importation-freeze/</a></p><p class=" text-LEFT">ZBC, ‘Grain millers offer US$310 per tonne of maize’, 23 May 2014</p><p class=" text-LEFT">
+<a href="http://www.zbc.co.zw/index.php?option=com_content&amp;view=article&amp;id=43922:grain-millers-offer-us310-per-tonne-of-maize&amp;catid=47:agriculture&amp;Itemid=89" target="_self">http://www.zbc.co.zw/index.php?option=com_content&amp;view=article&amp;i...</a></p><p class=" text-LEFT"><i>Times of Zambia</i>, ‘Zambia seeks maize market as Zimbabwe opts out’, 13 May 2014</p><p class=" text-LEFT">
+<a href="http://www.times.co.zm/?p=22146" target="_self">http://www.times.co.zm/?p=22146</a></p><p class=" text-LEFT"><i>Zimbabwe Independent</i>, ‘Remarks on GMB signal govt contradictions’, 6 June 2014</p><p class=" text-LEFT">
+<a href="http://allafrica.com/stories/201406061375.html" target="_self">http://allafrica.com/stories/201406061375.html</a></p><p class=" text-LEFT"><i>Daily Nation</i>, ‘Do not panic, there is enough food for all, government says’, 14 June 2014</p><p class=" text-LEFT">
+<a href="http://www.nation.co.ke/business/Gvt-says-there-is-enough-food-for-al/-/996/2348700/-/omuelrz/-/index.html" target="_self">http://www.nation.co.ke/business/Gvt-says-there-is-enough-food-for-al/-/...</a></p><p class=" text-LEFT"><i>Zambia Daily Mail</i>, ‘Experts ponder maize export issue’, 9 June 2014</p><p class=" text-LEFT">
+<a href="http://www.daily-mail.co.zm/index.php/business/item/4636-experts-ponder-maize-export-issue" target="_self">http://www.daily-mail.co.zm/index.php/business/item/4636-experts-ponder-...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p class=" text-JUSTIFY">The on–off nature of Zambia’s export policies, alongside restrictive trade policies in neighbouring Zimbabwe, suggests that Zambian maize exporters could lose out on regional market opportunities unless swift action is taken. There is unmet demand in Kenya for commercial imports, government-to-government negotiated supply arrangements, and for food aid for a growing refugee population. This will require both direct private sector initiative and government-facilitated supply negotiations.</p><p class=" text-JUSTIFY">More generally, the uncertainty generated by the current Zambian policy hinders the development of reliable intra-regional supply chains. This is likely to become a more significant issue as government policies on genetically modified organisms (GMOs) in East Africa come under review. The introduction of less restrictive GMO-related trade regulation could make East African markets more commercially attractive to South African maize exporters, in a context where South African maize production is dominated by the use of GM seeds.</p><p class=" text-JUSTIFY">While Zambia would still enjoy tariff advantages as a result of its membership of COMESA, a policy review aimed at establishing a more transparent and predictable maize trade regime would appear to be necessary, in order to encourage the establishment of long-term supply arrangements. Such a review would appear to be timely, given analysis suggesting that global grain markets have found a new equilibrium, characterised by less dramatic price volatility (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Cereals/Strong-developing-country-producer-response-to-the-2008-food-price-crisis-eases-global-cereal-price-pressures" target="_blank">Strong developing country producer response to the 2008 food price crisi...</a>’,&nbsp;4 August 2014).</p><p class=" text-JUSTIFY">The general uncertainty regarding intra-regional trade for maize across Southern and Eastern Africa suggests a need for the establishment of a Southern Africa Grain Association, similar to the Eastern Africa Grain Council (EAGC), to work in close coordination and dialogue with governments and regional structures. A meeting to discuss this was organised by EAGC, the Southern African Confederation of Agricultural Unions and CTA in Johannesburg in January 2014 (see CTA, 
+<a href="http://www.cta.int/en/article/2014-02-25/southern-african-grain-sector-moves-towards-establishing-a-regional-association.html" target="_self">http://www.cta.int/en/article/2014-02-25/southern-african-grain-sector-m...</a>’, 25 February 2014).&nbsp;</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Maize-value-chain-East-Southern-Africa-COMESA-launches-Road-Map-to-boost-regional-maize-trade">Maize value chain/East-Southern Africa – COMESA launches Road Map to boost regional maize trade</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Ethiopia-Over-5-million-Ethiopian-farmers-to-benefit-from-IBM-s-ECX-Traceability-System">Input value chain/Ethiopia - Over 5 million Ethiopian farmers to benefit from IBM's ECX Traceability System</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Wheat-value-chain-Zambia-State-bans-wheat-importation">Wheat value chain/Zambia - State bans wheat importation</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Grain-value-chain-Rwanda-Maize-farmers-decry-lack-of-market-for-their-produce">Grain value chain/ Rwanda: Maize farmers decry lack of market for their produce</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cereals/Grain-value-chain-Ethiopia-Meta-local-barley-sourcing-program-said-effective">Grain value chain/ Ethiopia - Meta local barley sourcing program said effective</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":149,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

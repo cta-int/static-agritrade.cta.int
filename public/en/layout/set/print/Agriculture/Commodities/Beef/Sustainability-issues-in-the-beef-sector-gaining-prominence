@@ -1,0 +1,249 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Sustainability issues in the beef sector gaining prominence / Beef / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																													
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																																																																																																																																																																																																																									
+																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7797/(search)/simple">Beef</a>
+							
+																																																																																																																																																																																																																																																																																																																	
+																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7818/(search)/simple">Product differentiation</a>
+							
+																																																																																																																																																							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Sustainability issues in the beef sector gaining prominence</h1>
+
+			
+			<h4>
+												10 May 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>March 2014 saw a number of initiatives launched linked to the promotion of more sustainable patterns of livestock production. The first of these was the release for public consultation of the Global Roundtable for Sustainable Beef (GRSB) draft “Principles and criteria for global sustainable beef”. The GRSB brought together “producers and producer associations, the processing sector, retail companies, civil society organizations, and regional roundtables” to identify “key areas in the beef value chain that must be addressed to ensure [that] beef production around the globe is environmentally sound, socially responsible and economically viable”. Equal importance is attached to environmental, social and economic sustainability concerns.</p><p>The GRSB sets out 10 criteria to be met in promoting the sustainable use of natural resources, 6 criteria for addressing labour and community issues, 8 criteria for addressing animal health and welfare issues, 3 criteria for addressing food safety issues and 9 criteria related to efficiency and innovation in the beef sector. It is not a certification scheme, but rather is intended to provide “a common baseline understanding” of sustainability issues in the beef sector.</p><p>Underlying the moves towards establishing sustainability standards for beef production are concerns that if sustainability issues are not addressed, more customers in developed country markets could turn away from beef consumption on ethical grounds.</p><p>The second initiative was the release of Global Feed Sustainability Guidelines developed by the FAO as part of a multi-stakeholder process. The guidelines have reportedly already taken on board the “main recommendations of the Product Environmental Footprint Guide developed by the European Commission”, and aim to establish “a harmonised, science-based, practical and international approach to the assessment of the environmental performance of feed supply chains”. A process of public consultation is open until 31 July 2014.</p><p>March 2014 also saw the issuing by the European Compound Feed Manufacturers’ Federation (FEFAC) and international partners of an updated “roadmap” for the responsible sourcing of soybeans. This includes plans to set up an independent benchmark system for existing certification schemes. The main objective of the updated roadmap is “to foster mainstream market solutions for the supply of responsibly produced soybean products to EU feed markets”.</p><p>The guidelines, according to FEFAC, need to be seen in the context of the EU shortfall in animal protein crops and public concern over the environmental, social and economic impact of EU feed imports. FEFAC identifies five key issues for the supply of responsibly produced soybean products:</p>
+<ul>
+
+<li>responsible working conditions;</li>
+
+<li>the banning of purchases from illegally deforested land;</li>
+
+<li>the promotion of good agricultural practices in terms of agrochemical use;</li>
+
+<li>respect for legal use of land/land rights;</li>
+
+<li>protection of community relations.</li>
+
+</ul>
+<p>The industry also notes its commitment to:</p>
+<ul>
+
+<li>“promoting the production and supply of responsibly produced soybean meal to Europe”;</li>
+
+<li>developing “a regular benchmarking system, which will be transparent and operated independently;”</li>
+
+<li>setting “minimum criteria to facilitate the generation of market volume for the supply of responsibly produced soybean meal to European customers”;</li>
+
+<li>“a stepwise approach for continuous improvement allowing the building up of market volume”.</li>
+
+</ul>
+
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Thebeefsite.com</i>, ‘Global Roundtable for Sustainable Beef invites public comment on draft principles &amp; criteria’, 18 March 2014</p><p>
+<a href="http://www.thebeefsite.com/news/45347/global-roundtable-for-sustainable-beef-invites-public-comment-on-draft-principles-criteria" target="_self">http://www.thebeefsite.com/news/45347/global-roundtable-for-sustainable-...</a></p><p>Global Roundtable for Sustainable Beef (GRSB), ‘Draft principles &amp; criteria for global sustainable beef: For public comment &amp; review’, 17 March 2014</p><p>
+<a href="http://www.grsbeef.org/Resources/Documents/GRSB%20Principles%20and%20Criteria%20for%20Global%20Sustainable%20Beef.pdf" target="_self">http://www.grsbeef.org/Resources/Documents/GRSB%20Principles%20and%20Cri...</a></p><p>International Feed Industry Federation/American Feed Industry Association/FEFAC, ‘First global feed sustainability guidelines released’, 19 March 2014</p><p>
+<a href="http://www.thebeefsite.com/news/45361/first-global-feed-sustainability-guidelines-released" target="_self">http://www.thebeefsite.com/news/45361/first-global-feed-sustainability-g...</a></p><p>FAO, ‘Livestock Environmental Assessment and Performance Partnership’, consultation page</p><p>
+<a href="http://www.fao.org/partnerships/leap/public-review/en/" target="_self">http://www.fao.org/partnerships/leap/public-review/en/</a></p><p>European Feed Manufacturers’ Federation (FEFAC), ‘EU feed industry moves towards more responsible soybeans sourcing’, 19 March 2014</p><p>
+<a href="http://www.thebeefsite.com/news/45364/eu-feed-industry-moves-towards-more-responsible-soybeans-sourcing" target="_self">http://www.thebeefsite.com/news/45364/eu-feed-industry-moves-towards-mor...</a></p><p>Certified Angus Beef, ‘Who wouldn’t want sustainable beef?’, 25 March 2014</p><p>
+<a href="http://www.thebeefsite.com/articles/3862/who-wouldnt-want-sustainable-beef" target="_self">http://www.thebeefsite.com/articles/3862/who-wouldnt-want-sustainable-beef</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Sustainability issues in the beef sector are likely to become of increasing concern to consumers in the coming years. The establishment of common global guidelines for determining sustainability that are sensitive to production patterns in different regions could potentially play a role helping to avoid discriminatory national sustainability schemes.</p><p>However, this will require taking discussions on sustainable beef production into forums where policy issues related to the regulation of private sector sustainability schemes can be substantively discussed, in order to avoid sustainability certification being used as a form of trade discrimination. This may include ACP–EU ministerial fora, EPA-based trade consultation structures or the WTO, depending on the specific issues to be addressed.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/Sustainability-issues-in-the-beef-sector-gaining-prominence">Sustainability issues in the beef sector gaining prominence</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/Animal-welfare-labelling-discussions-intensify">Animal welfare labelling discussions intensify</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/The-debate-on-animal-welfare-labelling-schemes-continues">The debate on animal welfare labelling schemes continues</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/Differentiating-EU-beef-products-on-animal-welfare-ground">Differentiating EU beef products on animal welfare ground</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/New-feed-regulation-adopted">New feed regulation adopted</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":150,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

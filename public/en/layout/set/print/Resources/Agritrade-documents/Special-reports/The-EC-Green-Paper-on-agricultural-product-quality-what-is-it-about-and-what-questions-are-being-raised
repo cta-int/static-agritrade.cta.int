@@ -1,0 +1,388 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>The EC Green Paper on agricultural product quality: what is it about and what questions are being raised / Special reports / Agritrade documents / Resources / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																										
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																			,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																																																																																																																																																																	
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7795/(search)/simple">General</a>
+							
+																																																																																																																																																																																																																																																																																																																																																													
+																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7818/(search)/simple">Product differentiation</a>
+							
+																																																																																																																																																							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>The EC Green Paper on agricultural product quality: what is it about and what questions are being raised</h1>
+
+			
+			<h4>
+												31 October 2008
+										</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p>The EC has posted a ‘green paper’ consultation document on agricultural quality schemes in the context of intensifying competition from low-cost third-country suppliers on domestic and overseas markets, with the emphasis being on shifting EU production towards serving quality markets. Given the process of preference erosion underway in ACP-EU trade relations, vis-à-vis competitive advanced developing-country suppliers, many of the issues raised in the paper have a direct bearing on the production- and trade-adjustment challenges which will be faced in ACP countries (particularly small and vulnerable ACP countries) in the coming period. Implicitly the consultation paper is aimed at addressing the issue of how to secure the full commercial advantage from quality production. </p>
+
+		</div>
+		
+		
+					<a name="eztoc129800_1" id="eztoc129800_1"></a><h2>The EC consultation on agricultural product quality</h2><p>On October 15th 2008 the EC launched a consultation on ‘how to help European farmers make the most of the quality of the food and drinks they produce’. Launching the consultation the Agriculture Commissioner Mariann Fischer Boel highlighted how European farmers had three main advantages in facing up to competition from low-cost producers in third countries on both EU markets and abroad, namely ‘quality … quality … and quality’. </p><p>The EC sees developing quality production as the means of meeting ‘head on’ the intensifying challenge from low-cost producers in third countries in the era of trade liberalisation. Meeting this challenge requires EU farmers to deliver ‘exactly what consumers want, clearly distinguishing their products in the market place, and gaining premiums in return’. In the EC’s approach quality is defined as meeting consumer expectations, which are increasingly diverse and multiplying. It refers to a product’s characteristics and/or methods of production. </p><a name="eztoc129800_2" id="eztoc129800_2"></a><h2>The scope of the green paper</h2><p>The paper, which provides the basis of the consultation, covers three areas: </p>
+<ul>
+
+<li>‘baseline production requirements and marketing standards;</li>
+
+<li>specific EU quality schemes such as geographical indications, traditional specialities and organic farming; </li>
+
+<li>food-quality certification schemes’. </li>
+
+</ul>
+<p>It argues that <b>baseline production requirements</b> which exceed those used by exporters to the EU need to be better publicised and highlighted since ‘they could become a potential marketing advantage’. </p><p>Currently, however the most commercially significant of these three areas relates to geographical indications (GIs), which fall under the category ‘<b>specific EU quality schemes</b>’. In the case of GIs, a growing number of consumers throughout the world are seeking out quality geographically designated products for which they are often willing to pay a significant price premium. As a consequence ‘for farmers and producers GIs can provide an important source of revenues and security’. </p><p>There are two components to GIs: </p>
+<ul>
+
+<li>‘protected designations of origin’, where ‘all steps of production must in principle take place in the geographical area and the product characteristics must be exclusively or essentially due to its geographical origin’;</li>
+
+<li>‘protected geographical indications’, where ‘at least one step of production has to take place in the area, and the link to the area concerned can be justified by reason of a specific quality, reputation or other characteristics linked to the geographical area’.</li>
+
+</ul>
+<p>In all around ‘3,000 geographical indications for wines, spirits and agricultural products and foodstuffs have been registered or are under examination’. Many of these products are ‘mainly sold on local or regional markets’. However ‘for many products the quality and reputation does not rest exclusively on factors linked to origin and/or the savoir faire of local producers. Sustainability criteria can also make an important contribution to the quality of the product’.</p><p>Given the commercial significance of GIs, the EC is seeking to extend legal protection globally, both through efforts to establishing a registration system internationally through the WTO and ‘through negotiation of a large number of bilateral agreements for all agricultural products’.</p><p>With regard to other ‘specific EU quality schemes’, the <b>traditional speciality</b> product designation is little used at the moment. With regard to <b>organic products</b>, there are concerns to ensure that the EU market could be made to work better and could be promoted and further developed.</p><p>The green paper also raises the possibility of establishing <b>other quality schemes</b> including for ‘high nature value or mountain areas, welfare quality, an EU origin label and extension of the <i>ecolabel</i> scheme to processed agricultural products’. </p><p>The paper further looks at the role of <b>‘private and national food-quality certification schemes</b>’. These schemes are very varied and are mainly driven by large retailers. There are concerns about the transparency of such schemes, the credibility of claims made and their impact on ‘equitable commercial relations’. Overall the EC currently sees ‘no need in principle for further legislation to specifically address <b>certification schemes</b>’, but rather is considering establishing guidelines to ‘assist scheme owners in developing and improving schemes’ for quality certification. </p><p>The paper notes that ‘for farmers in developing countries supplying the EU market, private certification schemes represent both a cost and an opportunity. Farmers may have difficulties meeting the requirements imposed. However, if they can be certified under a scheme used by an EU retailer, they may be a in a better position to sell into the EU’.</p><p>In future it is held that EU policies ‘must support farmers’ efforts to win the quality challenge’. The key to gaining commercial advantage from quality production is seen as lying in:</p>
+<ul>
+
+<li>offering ‘the consumer something over and above baseline requirements’ – whether in the form of special characteristics, such as taste, origin etc, or in the method of production;</li>
+
+<li>‘giving consumers confidence in EU quality schemes and in the claims that producers make for their “premium products”’;</li>
+
+<li>‘helping consumers in choosing, and/or deciding whether to pay more for a particular product’;</li>
+
+<li>protecting the use of GIs to ensure that quality standards are not undermined;</li>
+
+<li>supporting effective certification schemes;</li>
+
+<li>regulating the organic sector to protect the integrity of organic labels.</li>
+
+</ul>
+<p>As Commissioner Fischer Boel made clear in her introduction to the paper, in the coming period the main issue will be how to identify measures within various schemes for the promotion of quality products, which can be generalised to maximise the commercial value of quality production to EU farmers. This is seen as being essential for EU food and agricultural producers in the context of the competitive challenge posed by suppliers from low-cost advanced developing countries on national and international markets in an era of agricultural trade liberalisation. </p><p>Given the process of preference erosion under way in ACP-EU trade relations, vis-à-vis suppliers from competitive advanced developing countries, many of the issues raised in the green paper have a direct bearing on the production- and trade-adjustment challenges which will be faced in ACP countries (particularly small and vulnerable ACP countries) in the coming period.</p><p>In all some 38 specific and detailed questions are raised for consideration in the green paper.</p><a name="eztoc129800_3" id="eztoc129800_3"></a><h2>Production requirements and marketing standards </h2><a name="eztoc129800_3_1" id="eztoc129800_3_1"></a><h3>EU farming requirements </h3><p>How could the requirements and standards met by farmers that go beyond product hygiene and safety be made better known? </p><p>What would be the advantages and disadvantages of:</p>
+<ul>
+
+<li>Developing new EU schemes with one or several symbols or logos indicating compliance with EU farming requirements, other than those related to hygiene and safety? </li>
+
+<li>Should a non-EU product which complies with EU production requirements be also eligible to use such an EU quality scheme? </li>
+
+<li>Having an obligatory indication of the place of production of primary products (EU/non EU)? </li>
+
+</ul>
+<a name="eztoc129800_3_2" id="eztoc129800_3_2"></a><h3>Marketing standards </h3>
+<ul>
+
+<li>How does laying down product identities in marketing standards in EU legislation affect consumers, traders and producers? </li>
+
+<li>What are the benefits and drawbacks? </li>
+
+<li>Should the retail sale of products that do meet hygiene and safety requirements, but do not meet the marketing standard for aesthetic or similar reasons, be allowed? If so, should such products require specific information for the consumer? </li>
+
+<li>Could compulsory quality and size classifications be made optional as 'optional reserved terms'?</li>
+
+</ul>
+<a name="eztoc129800_3_3" id="eztoc129800_3_3"></a><h3>Reserved terms within marketing standards </h3>
+<ul>
+
+<li>To what extent is it necessary to lay down definitions of ‘optional reserved terms’ in marketing standards at EU level? </li>
+
+<li>Should definitions for general reserved terms describing farming methods in particular sectors, such as ‘mountain product’, ‘farmhouse’ and ‘low carbon’, be laid down by the EU? </li>
+
+</ul>
+<a name="eztoc129800_3_4" id="eztoc129800_3_4"></a><h3>Simplifying marketing standards </h3><p>To what extent could the drafting, implementation and control of marketing standards (or parts of them) be left to self-regulation? </p><p>If marketing standards (or parts of them) remain governed by EU law, what would be the advantages and disadvantages, including in respect of the administrative burden, of: </p>
+<ul>
+
+<li>using co-regulation? </li>
+
+<li>referring to international standards? </li>
+
+<li>keeping the current legislative approach (while simplifying the substance as much as possible)? </li>
+
+</ul>
+<a name="eztoc129800_4" id="eztoc129800_4"></a><h2>Specific EU quality schemes </h2><a name="eztoc129800_4_5" id="eztoc129800_4_5"></a><h3>Geographical indications </h3>
+<ul>
+
+<li>Is there a need to clarify or adjust any aspects of the rules laying down the rights of GI users and other users (or potential users) of a name?</li>
+
+<li>What criteria should be used to determine that a name is generic? </li>
+
+<li>Are any changes needed in the GI scheme in respect of: 
+<ul>
+
+<li>the extent of protection? </li>
+
+<li>the enforcement of the protection? </li>
+
+<li>the agricultural products and foodstuffs covered? </li>
+
+</ul>
+</li>
+
+<li>Should the use of alternative instruments, such as trademark protection, be more actively encouraged? </li>
+
+<li>Should additional criteria be introduced to restrict applications for GIs? </li>
+
+<li>Should the criteria for protected GIs, as distinct from protected designations of origin, be made stricter to emphasise the link between the product and the geographical area? </li>
+
+<li>Should specific sustainability and other criteria be included as part of the specification, whether or not they are intrinsically linked to origin? </li>
+
+<li>What would be the benefits and drawbacks?</li>
+
+<li>What kind of difficulties do users of GIs face when trying to ensure protection in countries outside the EU? </li>
+
+<li>What should the EU do to protect GIs in the most effective way in third countries? </li>
+
+<li>Have any difficulties arisen from the advertising of PGI/PDO ingredients used in processed products and prepared foods?</li>
+
+<li>What are the advantages and disadvantages of identifying the origin of raw materials in cases where they come from somewhere else than the location of the GI?</li>
+
+<li>Should the three EU systems for protection of GIs be simplified and harmonised and, if so, to what extent? </li>
+
+<li>Alternatively, should they continue to develop as separate registration instruments?</li>
+
+</ul>
+<a name="eztoc129800_4_6" id="eztoc129800_4_6"></a><h3>Traditional specialities guaranteed </h3><p>Given the low take-up of the TSG scheme, is there a better way of identifying and promoting traditional speciality products? </p><a name="eztoc129800_4_7" id="eztoc129800_4_7"></a><h3>Organic farming</h3>
+<ul>
+
+<li>What factors might inhibit the development of a single EU market in organic products? </li>
+
+<li>How can the single EU market in organic products be made to work better</li>
+
+</ul>
+<a name="eztoc129800_4_8" id="eztoc129800_4_8"></a><h3>Geographical indications for outermost regions</h3>
+<ul>
+
+<li>To what extent has use of the graphic symbols for the EU's outermost regions increased awareness of products from the outermost regions? </li>
+
+<li>How should these initiatives be developed in order to increase the volume of quality agricultural products originating from the outermost regions?</li>
+
+</ul>
+<a name="eztoc129800_4_9" id="eztoc129800_4_9"></a><h3>General questions</h3>
+<ul>
+
+<li>Are there any pressing issues for which existing schemes and arrangements are inadequate and for which there is a strong case for an EU-level scheme? </li>
+
+<li>Should the Commission consider mandatory schemes in certain cases, for example, those with a complex legal and scientific background or those needed to secure high consumer acceptance? </li>
+
+<li>If so, how can the administrative burdens on stakeholders and public authorities be kept as light as possible? </li>
+
+</ul>
+<a name="eztoc129800_5" id="eztoc129800_5"></a><h2>Food-quality certification schemes </h2>
+<ul>
+
+<li>To what extent can certification schemes for quality products meet the main societal demands concerning product characteristics and farming methods? </li>
+
+<li>To what extent is there a risk of consumers being misled by certification schemes assuring compliance with baseline requirements? </li>
+
+<li>What are the costs and benefits for farmers and other producers of food (often small- and medium-sized enterprises) in adhering to certification schemes? </li>
+
+<li>Should a more active involvement of producers' organisations be promoted? </li>
+
+<li>Could EU guidelines be sufficient to contribute to a more coherent development of certification schemes? </li>
+
+<li>What criteria would need to be included in such a guide or guidelines? </li>
+
+<li>How can the administrative costs and burdens of belonging to one or more quality-certification schemes be reduced? </li>
+
+<li>How can private certification schemes be used to assist EU exports and promote European quality products in export markets? </li>
+
+<li>How can the EU facilitate market access for producers in developing countries who need to comply with private certification schemes in order to supply particular retailers? </li>
+
+</ul>
+
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>
+Press release on the launch of EC consultations on how to raise agricultural product quality, <i>IP/08/1503</i>, October 15th 2008<br />
+<a href="http://europa.eu/rapid/pressReleasesAction.do?reference=IP/08/1503&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en" target="_self">http://europa.eu/rapid/pressReleasesAction.do?reference=IP/08/1503&amp;f...</a></p><p>
+EC <i>Green paper</i>: <i>agricultural product quality: product standards, farming requirements and quality schemes</i>, COM (2008)641 final, October 15th 2008<br />
+<a href="http://ec.europa.eu/agriculture/quality/policy/consultation/greenpaper_en.pdf" target="_self">http://ec.europa.eu/agriculture/quality/policy/consultation/greenpaper_e...</a></p><p>
+EC: <i>Getting the most out of EU quality food and drink</i>, speaking points for Commissioner Fischer Boel at the launch of the consultations on agricultural product quality, SPEECH/08/526, October 15th 2008<br />
+<a href="http://europa.eu/rapid/pressReleasesAction.do?reference=SPEECH/08/526&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en" target="_self">http://europa.eu/rapid/pressReleasesAction.do?reference=SPEECH/08/526&am...</a></p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/The-EC-Green-Paper-on-agricultural-product-quality-what-is-it-about-and-what-questions-are-being-raised">The EC Green Paper on agricultural product quality: what is it about and what questions are being raised</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":176,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

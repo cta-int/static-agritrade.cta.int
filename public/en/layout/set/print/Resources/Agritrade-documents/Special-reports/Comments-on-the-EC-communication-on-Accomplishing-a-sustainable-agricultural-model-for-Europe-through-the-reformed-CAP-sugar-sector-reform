@@ -1,0 +1,647 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Comments on the EC communication on ‘Accomplishing a sustainable agricultural model for Europe through the reformed CAP - sugar-sector reform’ / Special reports / Agritrade documents / Resources / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																																																							
+		
+		<div class='contentrealtionlist'>
+							
+																																																							
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																					,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																																																																																																																														
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7795/(search)/simple">General</a>
+							
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																																																												
+																																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7814/(search)/simple">EU FTAs</a>
+							
+																																																																																																																																																																																																																																																																																																																							,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7819/(search)/simple">CAP reform</a>
+							
+																																																																																																																																																																																													,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7822/(search)/simple">Aid for trade</a>
+							
+																																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/8254/(search)/simple">Market access</a>
+							
+																			
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Comments on the EC communication on ‘Accomplishing a sustainable agricultural model for Europe through the reformed CAP - sugar-sector reform’</h1>
+
+			
+			<h4>
+												26 September 2004
+										</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p>&nbsp;<b>The need for reform</b></p><p>&nbsp;The very title of the communication situates sugar-sector reform within the wider process of CAP reform involving a shift from price support to direct aid to farmers and this is indeed the substance of the Commission proposal.</p><p>&nbsp;The communication points out that the &quot;status qu &quot;option is no longer sustainable, and that the present quota system leaves no incentive for the sector to adjust.</p>
+
+		</div>
+		
+		
+					<p>&nbsp;<b>The approach to reform</b></p><p>&nbsp;There are three basic components to the Commission?s proposed approach:</p>
+<ul>
+
+<li>&nbsp;To reduce prices significantly; </li>
+
+<li>&nbsp;To simplify quota arrangements; </li>
+
+<li>&nbsp;To introduce direct aid payments in the sugar sector linked to &quot;cross compliance?.</li>
+
+</ul>
+<p><b>The proposed measures</b></p><p>
+<b>Price reductions</b> <br />
+&nbsp;The communication proposes to abolish the intervention price and replace it with a reference price which will be 33% lower than the current intervention price.<br />&nbsp;</p><p>&nbsp;This will lead to a fall in the sugar price from €632 per tonne to €422 per tonne. This price decline will be introduced over three years in two stages beginning in 2005/06. By 2007/08 a reference price of €422 will be established.</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;<b>Reference period </b>
+  </td><td valign="top">  &nbsp;<b>2005/06 </b>
+  </td><td valign="top">  &nbsp;<b>2006/07 </b>
+  </td><td valign="top">  &nbsp;<b>2007/08 </b>
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  
+&nbsp;Institutional sugar price <br />
+&nbsp;(?/tonne)<br />&nbsp;
+  </td><td valign="top">  &nbsp;632
+  </td><td valign="top">  &nbsp;506
+  </td><td valign="top">  &nbsp;506
+  </td><td valign="top">  &nbsp;421
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Cumulative reduction in institutional price
+  </td><td valign="top">  &nbsp;0.0%
+  </td><td valign="top">  &nbsp;-20.0%
+  </td><td valign="top">  &nbsp;-20.0%
+  </td><td valign="top">  &nbsp;-33.0%
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  
+&nbsp;Minimum sugar beet price<br />
+&nbsp;(?/100 kg<br />&nbsp;
+  </td><td valign="top">  &nbsp;43.6
+  </td><td valign="top">  &nbsp;32.8
+  </td><td valign="top">  &nbsp;32.8
+  </td><td valign="top">  &nbsp;27.4
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Cumulative reduction in minimum sugar beet price
+  </td><td valign="top">  &nbsp;0.0%
+  </td><td valign="top">  &nbsp;-25.0%
+  </td><td valign="top">  &nbsp;-25%
+  </td><td valign="top">  &nbsp;-37.0%
+  </td>
+</tr>
+
+</table>
+<p>
+<b>Support to private storage</b> <br />
+&nbsp;Support to private storage will be made available should EU market prices fall below this level.<br />&nbsp;</p><p>
+<b>Simplification and reduction in quotas</b> <br />
+&nbsp;The current quota arrangement is to be simplified with a merging of the &quot; &quot;And &quot; &quot;Buotas. The production quota will then be cut from 17.4 million tonnes to 14.6 million tonnes to bring it into line with domestic EU sugar consumption. This will consist of an initial cut of 1.3 million tonne in 2005/06, followed by three further annual cuts of 0.5 million tonnes, leading to a cumulative cut of 2.8 million tonnes. There will also be transferability of quotas.<br />&nbsp;</p><p>
+<b>Direct aid payments</b> <br />
+&nbsp;Direct aid payments are to be set at 60% of the revenue loss to farmers . The payment will be introduced in two steps, one payable in 2005/06 and 2006/07 and one payable as from 2007/08. This payment will be made to farmers who &quot;produced sugar beet under quota in the historical reference period?. Member states may incorporated the direct payment into the single farm payment. Outermost regions of the EU will benefit from special treatment in terms of direct aid payments.<br />&nbsp;</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="80%">
+<tr>
+<td valign="top">  
+&nbsp;<b>Production Levies</b> <br />
+&nbsp;Under the current system production levies are charged on &quot; &quot;And &quot; &quot;Buota sugar in order to finance export refunds for surplus sugar. This system of levies for the financing of export refunds reduces considerably the cost of the sugar regime to the EU budget. The size of the levy depends on the amount of &quot; &quot;And &quot; &quot;Bugar to be exported and the difference between the EU and world market price of sugar. The bulk of production levies are charged on &quot; &quot;Buota production (up to 37.5% of the price compared to a maximum of 2% for &quot; &quot;Auota sugar).<br />&nbsp;
+  </td>
+</tr>
+
+</table>
+<p>
+<b>Repeal of the maximum supply needs ceiling</b> <br />
+&nbsp;The communication proposes ending the establishment of a maximum supply needs (MSN) for EU cane-sugar refiners.<br />&nbsp;</p><p>
+<b>Impact on EU production</b> <br />
+&nbsp;The communication suggests that EU production exports will fall by around 3 million tonnes, from 20.5 million tonnes to 17.5 million tonnes.<br />&nbsp;</p><p>
+<b>Impact on EU exports</b> <br />
+&nbsp;The communication suggests that EU subsidised sugar exports will fall by 2 million tonnes.<br />&nbsp;</p><p>
+<b>Impact on EU imports</b> <br />
+&nbsp;The communication suggests that imports will rise from 1.8 million tonnes to 2.4 million tonnes, largely as a result of the EBA and the agreement with the western Balkans.<br />&nbsp;</p><p>
+<b>The ACP dimension to the communication</b> <br />
+&nbsp;From an ACP perspective the communication acknowledges that there will be &quot;potential losers from the development in the EU sugar marke &quot;tmongst developing countries and recognises that the EU will need to look at how &quot;The EU can best contribute to the necessary and inevitable adjustments in sugar production in ACP countries?.<br />&nbsp;</p><p>&nbsp;However, it makes reference to supporting ACP sugar-exporting countries in three main areas:</p>
+<ul>
+
+<li>&nbsp;in adapting to new conditions; </li>
+
+<li>&nbsp;in improving competitiveness via quality and productivity improvements; </li>
+
+<li>&nbsp;diversification.</li>
+
+</ul>
+<p>&nbsp;The communication proposes that the current ACP quota be retained. The price offered to ACP suppliers will be linked to the reference price, giving a raw-sugar price of €329 per tonne. This will also provide the basis for determining the EBA price.</p><p><b>Issues arising from the Commission proposals</b></p><p>
+<b>The issue of &quot; &quot;Cugar</b> <br />
+&nbsp;The Commission communication singularly fails to address the issue of &quot; &quot;Cugar production. This is a major oversight. The commitment to reduce the EU sugar-production quota will not necessarily lead to a reduction in EU production. It is conceivable that this could simply lead to an expansion of &quot; &quot;Cugar production as occurred in response to earlier quota reductions. However, with the quota reductions being much larger, and decisions being made well in advance of planting decision, the actual impact of the quota reductions on &quot; &quot;Cugar production will depend on:<br />&nbsp;</p>
+<ul>
+
+<li>&nbsp;the system under which the quota reductions are allocated; </li>
+
+<li>&nbsp;the current distribution of the production of &quot; &quot;Cugar between low- and high-cost producing areas; </li>
+
+<li>&nbsp;the ownership patterns of mills, capacity utilisation of existing milling facilities and the economics of milling; </li>
+
+<li>&nbsp;the impact which the level of direct aid payments has on overall production decisions in the light of the relative profitability of alternative crops.</li>
+
+</ul>
+<p>
+<b>Impact on EU exports</b> <br />
+&nbsp;The actual fall in EU exports may not in fact be that dramatic, as although EU production is set to fall to 17.5 million tonnes annually, EU consumption is about 14.6 million tonnes, suggesting a likely surplus of 2.9 million tonnes (produced as &quot; &quot;Cugar). To this needs to be added anticipated imports under a reformed sugar regime of around 2.4 million tonnes (mainly under EBA and the agreement with the western Balkans). Assuming no significant increased in domestic EU consumption of sugar this gives an EU surplus of around 5.3 million tonnes of sugar available to be exported. This being said, sugar usage in food products destined for export could increase dramatically in the context of lower EU sugar prices and a reduced need for export-refund payments on the sugar content of processed food-product exports.<br />&nbsp;</p><p>&nbsp;In either case total EU sugar exports of around 5 million tonnes would be possible, comparable to the value of exports in the second half of the 1990s.</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td colspan="5" valign="top">  &nbsp;<b>EU exports (thousands of tonnes of white sugar</b>
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;Surplus &quot;A? &amp; &quot; &quot;Buotas
+  </td><td valign="top">  &nbsp;? &quot;Cxports
+  </td><td valign="top">  &nbsp;Total surplus
+  </td><td valign="top">  &nbsp;? &quot;Cxports %?A? &amp; &quot; &quot;Burplus
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;1995/96
+  </td><td valign="top">  &nbsp;1,696
+  </td><td valign="top">  &nbsp;1,581
+  </td><td valign="top">  &nbsp;3,277
+  </td><td valign="top">  &nbsp;93%
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;1996/97
+  </td><td valign="top">  &nbsp;1,489
+  </td><td valign="top">  &nbsp;2,370
+  </td><td valign="top">  &nbsp;3,859
+  </td><td valign="top">  &nbsp;159%
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;1997/98
+  </td><td valign="top">  &nbsp;1,607
+  </td><td valign="top">  &nbsp;3,146
+  </td><td valign="top">  &nbsp;4,753
+  </td><td valign="top">  &nbsp;196%
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;1998/99
+  </td><td valign="top">  &nbsp;1,558
+  </td><td valign="top">  &nbsp;2,033
+  </td><td valign="top">  &nbsp;3,591
+  </td><td valign="top">  &nbsp;77%
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;1999/2000
+  </td><td valign="top">  &nbsp;1,496
+  </td><td valign="top">  &nbsp;3,441
+  </td><td valign="top">  &nbsp;4,937
+  </td><td valign="top">  &nbsp;230%
+  </td>
+</tr>
+
+</table>
+<p><i>Source: based on data contained in the Council Regulation on the Common Organisation of the Market in the Sugar Sector, Brussels, 4.10.2000 COM (2000) 604 final p. 9.</i></p><p>
+<b>The repeal of the MSN ceiling</b> <br />
+&nbsp;The repeal of the maximum supply needs ceiling has profound implications for ACP exporter under the Special Preferential Sugar arrangement. The &quot;maximum supply need &quot;sre established with reference to the needs of seven sugar-cane refineries in the U.K. (2), France (2), Portugal (2), and Finland (1). The &quot;maximum supply need &quot;sre met through:<br />&nbsp;</p>
+<ul>
+
+<li>&nbsp;an ACP sugar protocol quota of 1,294,700 tonnes; </li>
+
+<li>&nbsp;an Indian quota of 10,000 tonnes; </li>
+
+<li>&nbsp;the Finnish MFN quota of 85,463 tonnes; </li>
+
+<li>&nbsp;the exportable production of the French Overseas Territories; </li>
+
+<li>&nbsp;the Special Preferential Sugar arrangement for ACP countries and India.</li>
+
+</ul>
+<p>&nbsp;With the production of the French Overseas territories varying, the amount of special preferential sugar imports allowed from the ACP and India is effectively a residual amount.</p><p>&nbsp;The abolition of the MSN ceiling means that the notion of residual amount will disappear. This will effectively lead to the demise of the SPS scheme, which currently allows access for around 290,000 tonnes. This will have important implications for non-LDC southern Africa sugar exporters who are significant beneficiaries of this scheme and who send a relatively high percentage of their total sugar exports to the EU under the SPS scheme.</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="100%">
+<tr>
+<td valign="top">  &nbsp;<b>Country </b>
+  </td><td valign="top">  &nbsp;<b>Mauritius </b>
+  </td><td valign="top">  &nbsp;<b>Swaziland </b>
+  </td><td valign="top">  &nbsp;<b>Zimbabwe </b>
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Sugar protocol
+  </td><td valign="top">  &nbsp;491,030 tonnes
+  </td><td valign="top">  &nbsp;117,844 tonnes
+  </td><td valign="top">  &nbsp;30,225 tonnes
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;SPS sugar
+  </td><td valign="top">  &nbsp;82,000 tonnes
+  </td><td valign="top">  &nbsp;52,200 tonnes
+  </td><td valign="top">  &nbsp;29,800 tonnes
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;SPS % total
+  </td><td valign="top">  &nbsp;14.3%
+  </td><td valign="top">  &nbsp;30.7%
+  </td><td valign="top">  &nbsp;48.4%
+  </td>
+</tr>
+
+</table>
+<p>&nbsp;This is likely to have a particularly severe effect on Swaziland where currently 30.7% of exports take place under the SPS arrangement; the EU market takes around 36% of Swazi sugar production and sugar accounts for around 60% of Swazi GDP.</p><p>
+<b>Impact on the value of sugar preferences</b> <br />
+&nbsp;The table below gives the losses on earnings under the sugar protocol alone as a result of the implementation of the proposed reform measures. To this should be added losses arising under the SPS arrangement and under the EBA arrangement.<br />&nbsp;</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td valign="top">  &nbsp;<b>Country </b>
+  </td><td valign="top">  &nbsp;<b>Sugar protocol</b> <b>quota (tonnes) </b>
+  </td><td valign="top">  &nbsp;<b>Current earnings euros</b> <b>(?523.70/t) </b>
+  </td><td valign="top">  <p>&nbsp;<b>Earnings After</b><b>Stage 1 reform </b></p><p>
+<b>(?329.0/t) </b> <br />&nbsp;</p>
+  </td><td valign="top">  &nbsp;<b>Income losses from reform euros </b>
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Belize
+  </td><td valign="top">  &nbsp;40,349
+  </td><td valign="top">  &nbsp;21,130,771
+  </td><td valign="top">  &nbsp;13,274,821
+  </td><td valign="top">  &nbsp;- 7,855,950
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Congo
+  </td><td valign="top">  &nbsp;10,186
+  </td><td valign="top">  &nbsp;5,334,408
+  </td><td valign="top">  &nbsp;3,351,194
+  </td><td valign="top">  &nbsp;- 1,983,214
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Cote D?Ivoire
+  </td><td valign="top">  &nbsp;10,186
+  </td><td valign="top">  &nbsp;5,334,408
+  </td><td valign="top">  &nbsp;3,351,194
+  </td><td valign="top">  &nbsp;- 1,983,214
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Fiji
+  </td><td valign="top">  &nbsp;165,348
+  </td><td valign="top">  &nbsp;86,592,747
+  </td><td valign="top">  &nbsp;54,399,492
+  </td><td valign="top">  &nbsp;-32,193,255
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Guyana
+  </td><td valign="top">  &nbsp;159,410
+  </td><td valign="top">  &nbsp;83,483,017
+  </td><td valign="top">  &nbsp;52,445,890
+  </td><td valign="top">  &nbsp;-31,037,127
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Jamaica
+  </td><td valign="top">  &nbsp;118,696
+  </td><td valign="top">  &nbsp;62,161,095
+  </td><td valign="top">  &nbsp;39,050,984
+  </td><td valign="top">  &nbsp;-23,110,111
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Kenya
+  </td><td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Barbados
+  </td><td valign="top">  &nbsp;50,312
+  </td><td valign="top">  &nbsp;26,348,394
+  </td><td valign="top">  &nbsp;16,552,648
+  </td><td valign="top">  &nbsp;- 9,795,746
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Madagascar
+  </td><td valign="top">  &nbsp;10,760
+  </td><td valign="top">  &nbsp;5,635,012
+  </td><td valign="top">  &nbsp;3,540,040
+  </td><td valign="top">  &nbsp;- 2,094,972
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Malawi
+  </td><td valign="top">  &nbsp;20,824
+  </td><td valign="top">  &nbsp;10,905,528
+  </td><td valign="top">  &nbsp;6,851,096
+  </td><td valign="top">  &nbsp;- 4,054,432
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Mauritius
+  </td><td valign="top">  &nbsp;491,031
+  </td><td valign="top">  &nbsp;257,152,935
+  </td><td valign="top">  &nbsp;161,549,199
+  </td><td valign="top">  &nbsp;-95,603,736
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Uganda
+  </td><td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;St Kitts &amp; Nevis
+  </td><td valign="top">  &nbsp;15,591
+  </td><td valign="top">  &nbsp;8,165,007
+  </td><td valign="top">  &nbsp;5,129,439
+  </td><td valign="top">  &nbsp;- 4,313,432
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Surinam
+  </td><td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Swaziland
+  </td><td valign="top">  &nbsp;117,845
+  </td><td valign="top">  &nbsp;61,715,426
+  </td><td valign="top">  &nbsp;38,771,005
+  </td><td valign="top">  &nbsp;-22,944,421
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Tanzania
+  </td><td valign="top">  &nbsp;10,186
+  </td><td valign="top">  &nbsp;5,334,408
+  </td><td valign="top">  &nbsp;3,351,194
+  </td><td valign="top">  &nbsp;- 1,983,214
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Trinidad &amp; Tobago
+  </td><td valign="top">  &nbsp;43,751
+  </td><td valign="top">  &nbsp;22,912,398
+  </td><td valign="top">  &nbsp;14,394,079
+  </td><td valign="top">  &nbsp;- 8,518,319
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Zambia
+  </td><td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  &nbsp;Zimbabwe
+  </td><td valign="top">  &nbsp;30,225
+  </td><td valign="top">  &nbsp;15,828,832
+  </td><td valign="top">  &nbsp;9,944,025
+  </td><td valign="top">  &nbsp;- 5,884,807
+  </td>
+</tr>
+
+</table>
+<p>
+<b>Postscript </b> <br />
+&nbsp;The first discussion of the Commission?s proposal for sugar sector reform at the July Agricultural Council meeting showed a wide divergence of views between member states on the specifics of the proposals for reform, although there was unanimity on the inevitability of reform of the sugar regime. The Commission proposal was referred back for further discussion at the technical level, with the Council expected to draw up a review of the outcome of first round of discussions in November 2004.<br />&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>&nbsp;The UK Sugar Traders site provides links to the views of a wide range of stakeholders on the Commission?s proposals for sugar sector reform</p><p>
+
+<a href="http://www.sugartraders.co.uk/" target="_self">http://www.sugartraders.co.uk/</a> <br />&nbsp;</p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+													
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Suedzucker-corporate-profile">Südzucker - corporate profile</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/Regional-perspectives-on-changing-EU-ACP-sugar-sector-relations-The-impact-of-duty-free-quota-free-access-on-ACP-exporters">Regional perspectives on changing EU-ACP sugar sector relations: The impact of duty-free, quota-free access on ACP exporters</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/Emerging-EU-policy-on-the-functioning-of-food-supply-chains-Implications-for-the-ACP">Emerging EU policy on the functioning of food supply chains: Implications for the ACP</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/Corporate-restructuring-in-the-EU-sugar-sector-Implications-for-the-ACP">Corporate restructuring in the EU sugar sector: Implications for the ACP</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Key-policy-issues/No.-4-ACP-EU-sugar-sector-issues">No. 4: ACP-EU sugar-sector issues</a></p>
+						</div>
+</div>	</aside>
+
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":169,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

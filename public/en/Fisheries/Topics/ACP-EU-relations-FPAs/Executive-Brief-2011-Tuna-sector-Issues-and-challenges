@@ -1,0 +1,1571 @@
+<!DOCTYPE html>
+<html class="no-js">
+<!--
+	/**
+	 * We congratulate Agritrade with their new, upgraded (HTML5!) website!
+	 * Created by Contactivity, www.contactivity.com
+	 * @version $Id: 1.0
+	 */
+
+
+																													--><head>
+	
+                                        
+	<title>Executive Brief 2011: Tuna sector: Issues and challenges / ACP-EU relations; FPAs / Topics / Fisheries / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+			
+		<meta name="description" content="1. Background and key issuesIn the past, ACP countries have relied on foreign fishing access agreements to catch their tuna resources, deriving income from access fees. Now, however, many are looking at how domestic tuna fisheries can be further developed (see Agritrade article ‘
+Tuna fisheries: a fairer slice for Pacific peoples’, January 2010). This development of ACP tuna fleets may however be constrained by regional fisheries management organisations' (RFMOs') will to freeze or even decre..."/>
+			
+			
+		<meta name="keywords" content=","/>
+			
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+		<script src="/extension/agritrade/design/agritrade/js/contactivity.global.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/contactivity.input.js"></script>
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="Executive Brief 2011: Tuna sector: Issues and challenges"/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+<script src="https://valsplat.nl/clients/2852/invite.js"></script>
+</head>
+<body lang="en" onload="initialize()">
+
+<!-- [ wrapper -->
+<div id="wrapper">
+
+	<!-- [ main container -->
+	<div class="container" id="maincontainer">
+
+		<!-- [ header container -->
+		<header class="container">
+
+			<h6><a href="http://www.cta.int/" target="_blank">CTA</a></h6>
+			<div class="logo">
+				<h1><a href="/en"><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></a></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+			<!-- [ font box -->
+			<div class="fontBox">
+				<dl>
+					<dt class="active"><a href="#" class="bind fontsize" rel="small"><img src="/extension/agritrade/design/agritrade/images/small_font.gif" alt=""/></a></dt>
+					<dd>Small fontsize</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="medium"><img src="/extension/agritrade/design/agritrade/images/medium_font.gif" alt=""/></a></dt>
+					<dd>Medium fontsize</dd>
+
+					<dt><a href="#" class="bind fontsize" rel="big"><img src="/extension/agritrade/design/agritrade/images/big_font.gif" alt=""/></a></dt>
+					<dd>Big fontsize</dd>
+				</dl>
+			</div>
+			<!-- font box ] -->
+
+			<!-- [ language box -->
+			<div class="languageBox">
+				<dl>
+				
+				
+					<dt><a href="/en/Fisheries/Topics/ACP-EU-relations-FPAs/Executive-Brief-2011-Tuna-sector-Issues-and-challenges">English</a> | </dt>
+					<dd>Switch to English</dd>
+					<dt><a href="/fr/Fisheries/Topics/ACP-EU-relations-FPAs/Executive-Brief-2011-Tuna-sector-Issues-and-challenges">Français</a></dt>
+					<dd>Switch to French</dd>
+				</dl>
+			</div>
+			<!-- language box ] -->
+
+			<!-- [ search box -->
+			<div class="searchBox">
+				<form action="http://www.google.com/cse?hl=en&sa=Search&ie=UTF-8" method="get" name="search">
+	            <input type="hidden" value="013338266298253522945:rk5lmjqtluq" name="cx"/>
+					<input name="q" type="text" class="field" value="" placeholder="Search"/>
+					<input name="Search" type="image" alt="" class="button" src="/extension/agritrade/design/agritrade/images/search_button.jpg"/>
+				</form>
+
+
+
+			</div>
+			<!-- search box ] -->
+
+
+			<!-- [ navigation -->
+			<nav>
+				
+				<ul>
+				<li>
+					<h2><a href="/en"><span>Home</span></a></h2>
+				</li>
+									
+					
+																					
+					<li>
+						<h2><a href="/en/Agriculture" title="Agriculture"><span>Agriculture</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Topics
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/en/Agriculture/Topics/WTO" title="WTO">											WTO
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/EPAs" title="EPAs">											EPAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/EU-FTAs" title="EU FTAs">											EU FTAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/ACP-FTAs" title="ACP - FTAs">											ACP - FTAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/ACP-regional-trade" title="ACP regional trade">											ACP regional trade
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Market-access" title="Market access">											Market access
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/SPS-Food-safety" title="SPS / Food safety">											SPS / Food safety
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Product-differentiation" title="Product differentiation">											Product differentiation
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/CAP-reform" title="CAP reform">											CAP reform
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Biofuels" title="Biofuels">											Biofuels
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Climate-change" title="Climate change">											Climate change
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Aid-for-trade" title="Aid for trade">											Aid for trade
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Topics/Other" title="Other">											Other
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+																		Commodities
+									
+																		
+																	</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/en/Agriculture/Commodities/General" title="General">											General
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Bananas" title="Bananas">											Bananas
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Beef" title="Beef">											Beef
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Cereals" title="Cereals">											Cereals
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Cocoa" title="Cocoa">											Cocoa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Coffee" title="Coffee">											Coffee
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Cotton" title="Cotton">											Cotton
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Dairy" title="Dairy">											Dairy
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Horticulture" title="Horticulture">											Horticulture
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Oil-crops" title="Oil crops">											Oil crops
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Poultry" title="Poultry">											Poultry
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Rice" title="Rice">											Rice
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Rum" title="Rum">											Rum
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Sugar" title="Sugar">											Sugar
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Tea" title="Tea">											Tea
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Commodities/Other" title="Other">											Other
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Regions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/en/Agriculture/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Regions/EU" title="EU">											EU
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Agriculture/Regions/Global" title="Global">											Global
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/en/Fisheries" title="Fisheries"><span>Fisheries</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Topics
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/en/Fisheries/Topics/ACP-EU-relations-FPAs" title="ACP-EU relations; FPAs">											ACP-EU relations; FPAs
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Topics/EU-common-fisheries-policy" title="EU common fisheries policy">											EU common fisheries policy
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Topics/Market-access" title="Market access">											Market access
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Topics/News-from-the-IOC-region" title="News from the IOC region">											News from the IOC region
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Topics/WTO-international-developments" title="WTO &amp; international developments">											WTO &amp; international developments
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+																		Regions
+									
+																		
+																	</h3>
+
+								
+									
+									<ul class="single">
+																																																																
+										<li>
+											<a href="/en/Fisheries/Regions/ACP" title="ACP">											ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Regions/EU" title="EU">											EU
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Fisheries/Regions/Global" title="Global">											Global
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/en/Regions" title="Regions"><span>Regions</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/en/Regions/Global" title="Global">									Global
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single ">
+								<h3>
+									<a href="/en/Regions/EU" title="EU">									EU
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline ">
+								<h3>
+									<a href="/en/Regions/ACP" title="ACP">									ACP
+									
+																		
+									</a>								</h3>
+
+								
+									
+									<ul>
+																																																																
+										<li>
+											<a href="/en/Regions/ACP/All-ACP" title="All ACP">											All ACP
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Caribbean" title="Caribbean">											Caribbean
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/West-Africa" title="West Africa">											West Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Central-Africa" title="Central Africa">											Central Africa
+											</a>
+										</li>
+										
+									</ul>
+									<ul class="last">
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Eastern-Africa" title="Eastern Africa">											Eastern Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Southern-Africa" title="Southern Africa">											Southern Africa
+											</a>
+										</li>
+																																																																										
+										<li>
+											<a href="/en/Regions/ACP/Pacific" title="Pacific">											Pacific
+											</a>
+										</li>
+																			
+								</ul>
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+					
+																					
+					<li>
+						<h2><a href="/en/Publications" title="Publications"><span>Publications</span></a></h2>
+						
+
+						
+
+						<div class="sub">
+
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Compendium" title="Compendium">									Compendium
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Executive-briefs" title="Executive briefs">									Executive briefs
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Interviews" title="Interviews">									Interviews
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/News-Analysis" title="News &amp; Analysis">									News &amp; Analysis
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Newsletter" title="Newsletter">									Newsletter
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						
+																																							
+																																														
+							
+														<div class="inline width_single  publications_squeeze">
+								<h3>
+									<a href="/en/Publications/Special-Reports" title="Special Reports">									Special Reports
+									
+																		
+									</a>								</h3>
+
+								
+							</div>
+						
+						</div>
+										</li>
+
+									
+																
+																					
+					<li>
+						<h2><a href="/en/Welcome-to-Agritrade" title="About"><span>About</span></a></h2>
+						
+
+											</li>
+
+								
+		</ul>
+
+			</nav>
+			<!-- navigation ] -->
+
+
+		</header>
+		<!-- header container ] -->
+
+
+
+		<!-- [ content container -->
+		<section class="container">
+
+
+						<div id="leftCntr">
+				
+									
+
+<!-- [ filter box -->
+<div class="block filter">
+	<form id='searchform' action="/en/agritrade/searchfilter" method="post">
+		<fieldset>
+			<legend>Filter by</legend>
+
+			
+										
+						
+										
+																																															
+
+				<a href="#" class="heading " title="">Fisheries topics</a>
+				<div id='filter_fisheries' class="section ">
+
+													
+						
+					<label class="style_me" title="Check this box to filter publications tagged with ACP-EU relations; FPAs">
+						<input name="filter[fisheries][]" value="7829" type="checkbox"/>
+						ACP-EU relations; FPAs
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with EU common fisheries policy">
+						<input name="filter[fisheries][]" value="7830" type="checkbox"/>
+						EU common fisheries policy
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Market access">
+						<input name="filter[fisheries][]" value="7828" type="checkbox"/>
+						Market access
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with WTO &amp; international developments">
+						<input name="filter[fisheries][]" value="7831" type="checkbox"/>
+						WTO &amp; international dev...
+					</label>
+
+					
+									
+				
+
+
+				</div>
+						
+										
+						
+										
+																																																																																																					
+
+				<a href="#" class="heading " title="">Regions</a>
+				<div id='filter_regions' class="section ">
+
+																						
+						
+					<label class="style_me" title="Check this box to filter publications tagged with All ACP">
+						<input name="filter[regions][]" value="7769" type="checkbox"/>
+						All ACP
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Caribbean">
+						<input name="filter[regions][]" value="7770" type="checkbox"/>
+						Caribbean
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Central Africa">
+						<input name="filter[regions][]" value="7771" type="checkbox"/>
+						Central Africa
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Eastern Africa">
+						<input name="filter[regions][]" value="7772" type="checkbox"/>
+						Eastern Africa
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with EU">
+						<input name="filter[regions][]" value="7767" type="checkbox"/>
+						EU
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Global">
+						<input name="filter[regions][]" value="7766" type="checkbox"/>
+						Global
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Pacific">
+						<input name="filter[regions][]" value="7774" type="checkbox"/>
+						Pacific
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Southern Africa">
+						<input name="filter[regions][]" value="7775" type="checkbox"/>
+						Southern Africa
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with West Africa">
+						<input name="filter[regions][]" value="7773" type="checkbox"/>
+						West Africa
+					</label>
+
+					
+									
+				
+
+
+				</div>
+						
+										
+																																																																	
+
+				<a href="#" class="heading " title="">Publication Type</a>
+				<div id='filter_pubtype' class="section ">
+
+													
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Compendium">
+						<input name="filter[pubtype][]" value="7765" type="checkbox"/>
+						Compendium
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Executive briefs">
+						<input name="filter[pubtype][]" value="7762" type="checkbox"/>
+						Executive briefs
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Interviews">
+						<input name="filter[pubtype][]" value="7763" type="checkbox"/>
+						Interviews
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with News &amp; Analysis">
+						<input name="filter[pubtype][]" value="7760" type="checkbox"/>
+						News &amp; Analysis
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Newsletter">
+						<input name="filter[pubtype][]" value="7761" type="checkbox"/>
+						Newsletter
+					</label>
+
+					
+														
+						
+					<label class="style_me" title="Check this box to filter publications tagged with Special Reports">
+						<input name="filter[pubtype][]" value="7764" type="checkbox"/>
+						Special Reports
+					</label>
+
+					
+									
+				
+
+
+				</div>
+						
+										
+						
+										
+						
+										
+						
+
+			<a href="#" class="heading ">
+				Filter by date
+			</a>
+
+
+			<div class="section date ">
+				
+				<label>
+					From:
+					<input id='filterfrom' name="filter[from]" type="date" class="field date trigger" width="8" value="" data-value="2018-08-16"/>
+				</label>
+				<label>
+					Until:
+					<input id='filterto' name="filter[until]" type="date" class="field date trigger" width="8" value="16-08-2018" data-value="2018-08-16"/>
+				</label>
+
+			</div>
+
+			<div class="section">
+
+				<label class="searchmethod" title="Choose this method to do a broad search for any of the ticked boxes above.">
+					<input class="trigger" name="filter[search]" type="radio" value="simple"/>
+					Simple search
+				</label>
+				<label class="searchmethod" title="Choose this method to search for a combination of the ticked boxes above.">
+					<input class="trigger" name="filter[search]" type="radio" value="cross" checked="checked"/>
+					Cross search
+				</label>
+
+			</div>
+
+
+			<input id='searchfilter_sort' name="filter[sortby]" type="hidden" width="8" value="date"/>
+			<input type="hidden" name="RedirectTo" value="5300"/>
+			<input type="hidden" name="RedirectToId" value="7525"/>
+			<input type="hidden" id="nodeid" name="nodeid" value="7525"/>
+			<input type="hidden" id="language" name="language" value="en"/>
+
+
+			<button type="submit">Submit</button>
+
+		</fieldset>
+	</form>
+</div>
+<!-- filter box ] -->
+
+
+
+
+											<a id="rss_feed" href="/en/layout/set/custom_rss/Fisheries/Topics/ACP-EU-relations-FPAs/Executive-Brief-2011-Tuna-sector-Issues-and-challenges"><img src="/extension/agritrade/design/agritrade/images/rss.gif" alt=""/></a>
+					
+							</div>
+			
+						<!--  [ center container -->
+			<div id="centerCntr" class="article content has_left has_right">
+							
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt=""/>
+					
+
+		</div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style " addthis:title="Executive Brief 2011: Tuna sector: Issues and challenges">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/en/Fisheries/Topics/ACP-EU-relations-FPAs/Executive-Brief-2011-Tuna-sector-Issues-and-challenges" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				<a id="tool-email" href="http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2Fen%2FFisheries%2FTopics%2FACP-EU-relations-FPAs%2FExecutive-Brief-2011-Tuna-sector-Issues-and-challenges&amp;title=Executive+Brief+2011%3A+Tuna+sector%3A+Issues+and+challenges&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611" onclick="return popitup('http://api.addthis.com/oexchange/0.8/forward/email/offer?url=http://agritrade.cta.int%2Fen%2FFisheries%2FTopics%2FACP-EU-relations-FPAs%2FExecutive-Brief-2011-Tuna-sector-Issues-and-challenges&amp;title=Executive Brief 2011: Tuna sector: Issues and challenges&amp;pco=bkm-15&amp;pubid=ra-4e11f33d6f199611')" target="_blank" class="tool popup">
+			Email
+		</a>
+		<a href="#" id="tool-print" class="tool" onclick="printMe('/en/layout/set/print/Fisheries/Topics/ACP-EU-relations-FPAs/Executive-Brief-2011-Tuna-sector-Issues-and-challenges'); return false">
+			print
+		</a>
+				</div>
+
+	
+	</div>
+		
+		
+
+		
+																															
+		
+		<div class='contentrealtionlist'>
+										
+							
+							
+																																																						
+							<a href="/en/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																								
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+										
+			<h1>Executive Brief 2011: Tuna sector: Issues and challenges</h1>
+
+						<div class="pdf-file">
+				<a href="/en/content/download/12248/498300/file/a4451dcca36fdb8d9593827717e66149.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+									</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc498290_1" id="eztoc498290_1"></a><h2><b>1. Background and key issues</b></h2><p>In the past, ACP countries have relied on foreign fishing access agreements to catch their tuna resources, deriving income from access fees. Now, however, many are looking at how domestic tuna fisheries can be further developed (see <i>Agritrade</i> article ‘
+<a href="/en/../../../../Fisheries/Topics/ACP-EU-relations-FPAs/Tuna-fisheries-a-fairer-slice-for-Pacific-peoples" target="_self">Tuna fisheries: a fairer slice for Pacific peoples</a>’, January 2010). This development of ACP tuna fleets may however be constrained by regional fisheries management organisations' (RFMOs') will to freeze or even decrease global tuna fishing capacity in order to address over-fishing.</p><p>With the aim of boosting job creation, many ACP countries are also making efforts to develop local processing, with a view to exporting to lucrative markets such as the EU. A recent study looking at the situation in the Pacific (see <i>Agritrade</i> article ‘
+<a href="/en/../../../../en/Fisheries/Topics/ACP-EU-relations-FPAs/Enhancing-economic-returns-from-offshore-fisheries-in-the-Pacific" target="_self">Enhancing economic returns from offshore fisheries in the Pacific</a>’, January 2011) shows that revenue to the Pacific island countries would substantially increase if the region undertook more on-shore processing of the resource. In the case of the purse-seine fishery, for each 100 tonnes caught, the catching sector generates 0.7 jobs, while the same 100 tonnes, if processed on-shore, would generate seven jobs. For the long-line fishery, jobs would be increased by 50% if the catch were processed on-shore. Another study from 2010 by the Pacific Forum Fisheries Agency examined the reasons for past success or failure of commercial fisheries enterprises in the region, showing the importance of appropriate private-sector involvement, while at the same time emphasising the role of government in establishing an enabling environment.</p><p>In terms of ACP–EU relations in the tuna sector, the EU external tuna fleet includes tropical tuna purse-seiners, long-liners and some pole-and-line vessels. Tropical tuna purse-seiners, essentially from Spain, France and Italy, represent the largest segment of the external fleet in fishing capacity. These vessels fish in the Indian and Atlantic Oceans and, for a small number of vessels, in the Pacific Ocean. They fish both in high-sea areas, under fishing authorisations issued by tuna RFMOs, including ICCAT (International Commission for the Conservation of Atlantic Tuna), IOTC (Indian Ocean Tuna Commission), IATTC (Inter American Tropical Tuna Commission) and WCPFC (Western and Central Pacific Fisheries Commission), and in the exclusive economic zones (EEZs) of ACP coastal states, with whom the EC has fishing agreements (mainly West Africa and the Indian Ocean). They also fish under private arrangements for access in other EEZs. Their catches, of around 400,000 tonnes per year of mainly skipjack, albacore and big-eye tuna, form the raw material for the canning industry located in EU, ACP or GSP countries.</p><p>Long-liners fish for swordfish (sold frozen on EU markets) and shark. This segment contains the largest number of vessels of the EU external fleet, mainly from Spain, Portugal and France. They fish in the South Atlantic, Indian and Pacific Oceans, catching 65,000 tonnes annually on average.</p><p>The stocks exploited by tropical tuna fleets are managed by RFMOs, which recently, through what is referred to as the ‘Kobe process’, reached an agreement to harmonise their management frameworks. Several tuna stocks continue to decline because of over-fishing. To address this, tuna RFMOs are discussing through the Kobe process, the freezing or reduction of global fishing capacities. This means that it is highly unlikely that tuna fishing rights will be increased to accommodate newcomers, including fleets from developing countries.</p><p>The external tuna fleet provides 92% of the total EU tuna catch. Most of this comes to the EU market, either directly (frozen), or after processing (mainly canning). The EU tuna sector is characterised by a high level of vertical integration between fishing and processing companies. The most important European markets for tuna are Spain, Germany, France and the UK.</p><p>Although their running costs are higher than those of some of their competitors, in particular Asian fleets, EU tuna vessels benefit from certain advantages. In particular, they benefit from EU aid: the biggest beneficiaries of EU structural funds include tropical tuna purse-seiners. The rules of origin, in their current form (apart from the specific ‘global sourcing derogation’ granted to Papua New Guinea in the context of the IEPA with the Pacific) also give a significant advantage to EU vessels landing their catches for processing in an ACP country, as the EU origin of the tuna raw material enables the final product to access the EU market free of duty.</p><p>Tuna fishing agreements do not enable tropical tuna purse-seiners to have access to ACP EEZs at lower costs than if they buy free licences, but certainly tuna fishing agreements provide the tropical tuna fleet with the legal security that other foreign fishing vessels do not enjoy. European tuna fleets are looking at new opportunities for access to third-country EEZs, including through the signing of new fisheries agreements. One of the reasons is the increasing impact of piracy on their current zones of activity in the Indian Ocean.</p><a name="eztoc498290_2" id="eztoc498290_2"></a><h2><b>2. Latest developments</b></h2><p><b>2.1 Rules of origin in the tuna sector</b></p><p>Selling ACP processed tuna products on the EU market has been until now constrained by rules of origin, which, because of the limited development of local ACP tuna fleets, <i>de facto</i> limit supply of raw material for processing to EU vessels. A fundamental change to the rules of origin was agreed with the Pacific Group, meaning that countries that initialled an IEPA can now source fish from other regions and still qualify for preferential market access, provided that the fish are landed and processed locally. Recently, Pacific ACP countries highlighted that they would also like this global sourcing to apply to fresh and frozen tuna (see <i>Agritrade</i> article ‘
+<a href="/en/../../../../en/Fisheries/Topics/Market-access/Rules-of-Origin-Pacific-ACP-wants-global-sourcing-on-fresh-and-frozen-tuna" target="_self">Rules of Origin: Pacific ACP wants global sourcing on fresh and frozen tuna</a>’, March 2011).</p><p>A further report, examining the role of off-shore, foreign-based fishing in the Pacific (see <i>Agritrade</i> article ‘
+<a href="/en/../../../../en/Fisheries/Topics/ACP-EU-relations-FPAs/The-access-of-foreign-fleets-to-the-Pacific-is-scrutinised-in-a-new-study" target="_self">The access of foreign fleets to the Pacific is scrutinised in a new study</a>’, January 2011), underlined that it can be difficult to balance the benefits obtained by licensing foreign fishing vessels with the net benefits of having a domestic tuna industry, as these involve different types of benefits, incentives, and beneficiaries. One of the challenges is that fledgling local operators are unable to compete with multinational, vertically integrated companies in what are often difficult investment environments. There are also large challenges associated with coastal communities deriving benefits from maritime fisheries: for example, Pacific island countries are unable to compete with low-wage countries in processing activities.</p><p><b>2.2 Growing price constraints for canned tuna on European markets</b></p><p>Canned tuna is traditionally a low-cost product on EU markets, and in the last year, leading European tuna brands have seen the margins for their canned products under pressure as a result of rising costs (due to the increasing scarcity of some tuna resources, higher fuel prices, etc), and increasingly price-conscious consumers (see <i>Agritrade</i> article ‘
+<a href="/en/../../../../Fisheries/Topics/Market-access/Europe-s-leading-tuna-brands-are-feeling-the-squeeze" target="_self">Europe’s leading tuna brands are feeling the squeeze</a>’, July 2011). The European consumers of canned tuna are switching to cheaper brands due to the economic crisis, with a clear tendency for consumers to be moving from manufacturer labels of canned tuna to the cheaper private-retailer labels of the big supermarket chains. Premium brands cannot maintain their position in the high-volume market and are switching to higher-quality products, catering for a smaller niche market.</p><p><b>2.3 Tuna fishing capacity management: Sustainability and equity issues</b></p><p>The management of tuna fishing capacity, and the subsequent allocation of fishing possibilities, is probably the most difficult issue that tuna RFMOs will have to address in the future. It will need to take into consideration environmental sustainability, the aspirations of coastal states, such as ACP countries, as well as their sovereign rights on the resources within their EEZs, and historical rights and investment efforts made by distant-water fishing nations.</p><p>Several meetings have discussed these issues recently. In the context of the Kobe process, the Pacific Islands Forum Fisheries Agency (FFA) hosted an international workshop on RFMO management of tuna fisheries (see <i>Agritrade</i> article ‘
+<a href="/en/../../../../Fisheries/Topics/ACP-EU-relations-FPAs/Allocation-of-tuna-fishing-opportunities-discussed-by-RFMOs" target="_self">Allocation of tuna-fishing opportunities discussed by RFMOs</a>’, October 2010). The main purpose was to recommend measures to ensure the long-term sustainability of the world’s tuna fisheries. These include addressing the core issues of allocating fishing opportunities within the tuna RFMOs, and the management of harvesting capacity in a way that retains the profitability of the world’s tuna fleet and accommodates the rights and entry of developing coastal states.</p><p>Another meeting, organised by the IOTC (see <i>Agritrade</i> article ‘
+<a href="/en/../../../../Fisheries/Topics/ACP-EU-relations-FPAs/Proposals-for-tuna-quota-allocation-in-the-Indian-Ocean" target="_self">Proposals for tuna-quota allocation in the Indian Ocean</a>’, May 2011), focused on allocation criteria, and examined proposals for a tuna-quota allocation system in the Indian Ocean. The proposal presented by Seychelles was based on a hybrid system of attributing all historical catches in the EEZs of Indian Ocean coastal states to those coastal states, and historical catches by eligible flag states fishing on the high seas to those flag states. The EU proposal in contrast put the emphasis on historical rights, setting a baseline for allocation based on historical catches by flag state on a reference period of 10 years that would better reflect the reality of the fishery. At the same time, a percentage of the total allowable catch (TAC) would be set aside, to be allocated amongst developing states and territories in order to meet their legitimate aspirations.</p><p><b>2.4 EU–ACP tuna agreements</b></p><p>In late 20101 and 2011, several EU–ACP tuna agreements were renewed, highlighting how the parties and stakeholders (industry, NGOs) are taking into account issues related to the sustainable development of tuna fisheries in ACP countries. Under the EU–Seychelles agreement the European fishing sector highlighted the contribution of the Spanish industry to the development of Seychelles tuna fishing capacity, as their presence in the region is composed of both Spanish-flagged tuna vessels, fishing under the agreement, and Spanish-owned Seychelles-flagged tuna vessels (see <i>Agritrade</i> article ‘
+<a href="/en/../../../../Fisheries/Topics/ACP-EU-relations-FPAs/New-protocol-for-fisheries-partnership-between-the-Seychelles-and-the-EU" target="_self">New protocol for fisheries partnership between the Seychelles and the EU</a>’, July 2010).</p><p>The new protocols for the FPAs with São Tomé and Principe, the Federated States of Micronesia (FSM), and the Seychelles all highlighted in the regional dimension of tuna fisheries management (see <i>Agritrade</i> article ‘
+<a href="/en/../../../../en/Fisheries/Topics/Market-access/Several-FPAs-are-under-scrutiny-in-the-European-Parliament" target="_self">Several FPAs are under scrutiny in the European Parliament</a>’, March 2011). In the case of FSM, the protocol promotes cooperation at sub-regional level on responsible fishing and, in particular, within the concerned sub-regional and international organisations. The protocol with the Seychelles underlined the positive impact of the bilateral FPA on a regional level, by strengthening Seychelles’ active participation in the regional plan for surveillance of fishing activities in the south-west Indian Ocean, and by contributing to consolidating the cooperation between the EU and Seychelles in the regional fisheries organisation. These tuna protocols also put the emphasis on supporting strategic planning and controlling IUU in the use of financial compensation payments.</p><p>To coincide with the EU–Solomon islands FPA, EU NGOs published a joint statement, setting out recommendations for practical improvements to this agreement and tuna agreements in general. (See <i>Agritrade</i> article ‘
+<a href="/en/../../../../en/Fisheries/Topics/ACP-EU-relations-FPAs/Call-on-MEPs-to-improve-the-EU-Solomon-Islands-Fisheries-Agreement" target="_self">NGOs call on MEPs to improve the EU–Solomon Islands Fisheries Agreement</a>’ October 2010). These covered such areas as: increased transparency; sustainability and equity of resource exploitation; coherence with development policy; integrating the regional dimension; and the phasing-out of subsidies.</p><a name="eztoc498290_3" id="eztoc498290_3"></a><h2><b>3. Implications for the ACP</b></h2><p><b>3.1 Evolution of tuna relations with the EU</b></p><p>In the context of the reform of the Common Fisheries Policy, the EC proposals published in July 2011 cover a series of important issues for the future of ACP tuna fisheries. Firstly, the EU wishes to increase its involvement in tuna RFMOs, providing more support for scientific research and MCS operations. Secondly, in the future, bilateral sustainable fisheries agreements (SFAs) will remain the main framework for bilateral relations, with the network of tuna fishing agreements being extended. Thirdly, market-access arrangements will be progressively linked to respect for environmentally and socially sustainable fishing practices.</p><p>A critical issue for ACP tuna producing countries is whether in this context they will be able to create a favourable environment for private investments in sustainable tuna fisheries operations, particularly value-added processing activities. Until now, private EU investments in ACP partner countries have been limited, and almost solely focused on transferring fishing capacity. In the future, creating such a favourable environment in ACP partner countries will require support measures to be provided that will contribute to sustainable fisheries production. Such measures should be eligible for support through SFAs, and might cover the following areas: improving research and scientific advice; improving compliance; participation of fisheries stakeholders; transparency of the decision-making process; legal protection; and a special focus on investments that can result in local value addition.</p><p>ACP countries are also facing important choices in terms of which systems of tuna exploitation they want to pursue. The bottom line is the worrying status of some valuable tuna stocks targeted by the various fleets. Sustainable exploitation will in many cases mean fishing less and securing higher prices. Exploitation systems for producing canned tuna are based on low costs and high turnover, requiring relatively limited infrastructures and skills; fresh and frozen tuna production systems in contrast are based on high prices and low product quantities, but require substantial investment in infrastructure and a skilled labour force. If ACP tuna producing countries wish to maximise the economic and social benefits from their tuna resources, it would be advisable for them to move beyond basic canned tuna. This calls for investments and support for the development of new production lines for fillets (chilled/frozen), which require not only investing in hardware (cold-chain infrastructures, etc.) but also in the training of workers to handle more refined fisheries products. This also calls, in specific situations like the Pacific, for the extension of global sourcing rules to such higher-value-added products.</p><p>It is vital that ACP countries accommodate both socio-economic and ecological considerations (including for resource allocation and management of fleet capacity) when designing and implementing systems for the exploitation of tuna resources in line with their priorities (job creation, export revenue, etc). This provides a more solid foundation for ACP dialogue with the EU on issues of tuna fisheries management.</p><p><b>3.2 Developing active strategies for participation in RFMOs</b></p><p>Fishing states, including the EU, have a primary responsibility to ensure that their vessels, and their nationals, whatever flag they take, engage only in responsible tuna fishing operations. In this light, the new EU IUU regulation allows the EU to take action against EU vessels and nationals engaged in IUU fishing. The EC proposal also seeks to increase the EU’s involvement and support to RFMOs.</p><p>However, establishing fishing nations and governments in concerned coastal ACP states will need to find ways to accommodate new entrants, whilst ensuring that the overall fishing capacity deployed is not excessive. It is worth noting that Japan, the EU, the USA, Korea, the fishing authority of Chinese Taipei and, increasingly, China – are members of almost all RFMOs. ACP countries’ participation in RFMOs is also increasing, with some ACP members playing a central role (in the Indian Ocean and Pacific RFMOs in particular).</p><p>Together with a more transparent decision-making process and improved scientific advice, a greater involvement of ACP countries in these regional bodies, with the aim of ensuring responsible tuna fishing would be a step forward in improving the overall results of RFMOs in terms of sustainable fisheries management.</p><a name="eztoc498290_4" id="eztoc498290_4"></a><h2><b>Main sources</b></h2><p>ATUNA</p><p>
+<a href="http://www.atuna.com/" target="_self">http://www.atuna.com/</a></p><p>Pacific Islands Forum Fisheries Agency – FFA, <i>Fisheries Trade News</i></p><p>
+<a href="http://www.ffa.int/trade_industry" target="_self">http://www.ffa.int/trade_industry</a></p><p>Parties to the Nauru Agreement website</p><p>
+<a href="http://www.pnatuna.com/" target="_self">http://www.pnatuna.com/</a></p><p>Tuna RFMOs – Kobe process website</p><p>
+<a href="http://tuna-org.org/" target="_self">http://tuna-org.org/</a></p><p>International Seafood Sustainability Foundation website</p><p>
+<a href="http://iss-foundation.org/" target="_self">http://iss-foundation.org/</a></p><p>‘The European tuna sector: economic situation, prospects and analysis of the impact of the liberalisation of trade’, EC study, 2005</p><p>
+<a href="http://ec.europa.eu/fisheries/documentation/studies/study_tuna/index_en.htm" target="_self">http://ec.europa.eu/fisheries/documentation/studies/study_tuna/index_en.htm</a></p><p>‘The EU external fleets’, EC Study, 2008</p><p>
+<a href="http://ec.europa.eu/fisheries/documentation/studies/study_external_fleet/external_fleet_2008_en.pdf" target="_self">http://ec.europa.eu/fisheries/documentation/studies/study_external_fleet...</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+					
+	<div class="share-box">
+
+	
+		<div class="addthis_toolbox addthis_default_style " addthis:title="Executive Brief 2011: Tuna sector: Issues and challenges">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet" tw:via='Agritrade'></a>
+		<!-- <a class="addthis_counter addthis_pill_style"></a> -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e11f33d6f199611"></script>
+		<!-- AddThis counters -->
+		
+			<div style="float:left;">
+			<!-- linkedin -->
+				<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+				<script type="IN/Share" data-url="http://agritrade.cta.int/en/Fisheries/Topics/ACP-EU-relations-FPAs/Executive-Brief-2011-Tuna-sector-Issues-and-challenges" data-counter="right"></script>
+			<!-- linkedin -->
+			</div>
+
+		
+		
+
+				</div>
+
+	
+	</div>
+		
+	</article>
+
+	<aside>
+		
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/Fisheries/Topics/ACP-EU-relations-FPAs/Executive-Brief-Update-2013-Tuna-sector-Issues-and-challenges">Executive Brief Update 2013: Tuna sector: Issues and challenges</a></p>
+						<p><a href="/en/Fisheries/Topics/EU-common-fisheries-policy/Executive-Brief-Update-2012-EU-Common-Fisheries-Policy-and-Fisheries-Partnership-Agreements-Challenges-for-ACP-countries">Executive Brief Update 2012: EU Common Fisheries Policy and Fisheries Partnership Agreements: Challenges for ACP countries</a></p>
+						<p><a href="/en/Fisheries/Topics/ACP-EU-relations-FPAs/Executive-Brief-Update-2012-Tuna-sector-Issues-and-challenges">Executive Brief Update 2012: Tuna sector: Issues and challenges</a></p>
+						<p><a href="/en/Fisheries/Topics/EU-common-fisheries-policy/Executive-Brief-Update-2011-EU-Common-Fisheries-Policy-and-Fisheries-Partnership-Agreements-Challenges-for-ACP-countries">Executive Brief Update 2011: EU Common Fisheries Policy and Fisheries Partnership Agreements: Challenges for ACP countries</a></p>
+						<p><a href="/en/Fisheries/Topics/ACP-EU-relations-FPAs/Executive-Brief-2011-Tuna-sector-Issues-and-challenges">Executive Brief 2011: Tuna sector: Issues and challenges</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+<a id="formstart"></a>
+<div class="separator"></div>
+
+<div class="content-login-box" id="login-box-popup" style="display: none;">
+	<div class="content-login-shadow">
+		<div class="content-login-main">
+			<div class="content-login-main-inner">
+
+					
+						<div style="margin:5px 0 5px 0">
+							Login with your MyAgritrade account:
+						</div>
+
+						<form action="/en/user/login" method="post">
+							<input type="hidden" name="Anchor" value="#addcomment"/>
+							<table cellpadding="0" cellspacing="0" width="100%">
+								<tr>
+									<td class="login-column-key">MyAgritrade</td>
+									<td class="login-column-value"><input type="text" class="shadow-background login-textfield" name="Login"/></td>
+								</tr>
+								<tr>
+									<td colspan="2" style="height: 5px;"></td>
+								</tr>
+								<tr>
+									<td class="login-column-key">Password</td>
+									<td class="login-column-value"><input type="password" class="shadow-background login-textfield" name="Password"/></td>
+								</tr>
+							</table>
+							<input type="hidden" name="RedirectURI" value="Fisheries/Topics/ACP-EU-relations-FPAs/Executive-Brief-2011-Tuna-sector-Issues-and-challenges"/>
+							<table cellpadding="0" cellspacing="0" width="100%" style="margin-top: 5px;">
+								<tr>
+									<td><a href="/en/user/forgotpassword">Forgot your password?</a><br/><a href="/en/user/register" alt="register">No account yet? Create one!</a></td>
+									<td align="right" valign="top"><input type="submit" class="login-form-button" value="&raquo; login" name="LoginButton"/></td>
+								</tr>
+							</table>
+						</form>
+					
+					<a href="javascript:loginBox();" class="login-box-close">&raquo; Close window</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="reaction">
+	<h3>Comment</h3>
+
+	
+	<a name="addcomment"></a>
+
+	<div class="reaction-thumb">
+		<div>
+			
+									<img class="profile-img" src="/extension/socialize/design/socialize/images/comment/unknown.png" alt=""/>
+				
+					</div>
+	</div>
+
+	<div class="reaction-buttons">
+		<a class="button" href="javascript:loginBox();"><span>
+							Choose ID
+					</span></a>
+	</div>
+
+
+	<div class="reaction-form">
+
+		<form action="/en/socialize/create" method="post">
+							<div class="line">
+					<div class="align-input">
+						<input id="reaction-name" type="text" name="Name" value="" class="reaction-input" placeholder="Login or fill your name in"/>
+					</div>
+				</div>
+			
+			<div class="line">
+				<div class="align-input">
+					<input id="reaction-subject" type="text" maxlength="40" name="Subject" value="" class="reaction-input" placeholder="Subject"/>
+				</div>
+			</div>
+
+			<div class="line">
+				<div class="align-input">
+					<textarea id="reaction-comment" name="Comment" class="reaction-textarea" placeholder="Your reaction"></textarea>
+				</div>
+			</div>
+
+			<div class="line">
+				<div class="recaptcha">
+															<script type="text/javascript">
+						var RecaptchaTheme='white';
+						var RecaptchaLang='en';
+						
+
+						var RecaptchaOptions = {
+							theme: RecaptchaTheme,
+							lang: RecaptchaLang
+						};
+						
+					</script>
+					<script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LdSNMMSAAAAADrQ5zWgH1gIPA-HR6iLYmJWVwvw"></script>
+
+	<noscript>
+  		<iframe src="http://api.recaptcha.net/noscript?k=6LdSNMMSAAAAADrQ5zWgH1gIPA-HR6iLYmJWVwvw" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>
+				</div>
+			</div>
+
+		<input type="hidden" value="7525" name="NodeID"/>
+
+		
+						<input type="hidden" value="Fisheries/Topics/ACP-EU-relations-FPAs/Executive-Brief-2011-Tuna-sector-Issues-and-challenges" name="RedirectURL"/>
+		
+		<div class="buttons">
+			<input type="submit" value="Add" class="reaction-submit"/>
+		</div>
+
+		</form>
+		<span class="big-red"><a href="/en/Welcome-to-Agritrade/Disclaimer">Terms and conditions</a></span>
+	</div>
+
+</div>			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				
+
+
+						<!-- center container ] -->
+			</div>
+			
+
+
+				<!-- [ right container -->
+		<div id="rightCntr">
+				
+<!-- login -->
+	<div class="block myagritrade rightsmall">
+		<form action="/en/user/login" method="post">
+				<h3>MyAgritrade</h3>
+				<div class="clear"></div>
+				<input type="text" class="field half set_password_user" name="Login" id="id1" value="" placeholder="Username"/>
+				<label class="passwordlabel"><span>Pass</span><input type="password" class="field half last set_password" value="" autocomplete="off" name="Password"/></label>
+				<input type="image" alt="Go" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif"/>
+			<input type="hidden" name="RedirectURI" value=""/>
+		</form>
+
+		<p class="smaller"><a href="/en/user/forgotpassword">Did you forget your password?</a></p>
+
+	</div>
+
+<!-- end login -->
+
+   <div class="block myagritrade rightsmall">
+		<form action="/en/user/register" method="get">
+				<h3>Signup</h3>
+				<input type="text" class="field full" value="" placeholder="Your E-mail Address" name="email"/>
+				<input type="image" alt="Go" class="button" src="/extension/agritrade/design/agritrade/images/go_button.gif"/>
+	   </form>
+	</div>
+	<div class="clear"></div>
+			
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/Fisheries/Topics/ACP-EU-relations-FPAs/Executive-Brief-Update-2013-Tuna-sector-Issues-and-challenges">Executive Brief Update 2013: Tuna sector: Issues and challenges</a></p>
+						<p><a href="/en/Fisheries/Topics/EU-common-fisheries-policy/Executive-Brief-Update-2012-EU-Common-Fisheries-Policy-and-Fisheries-Partnership-Agreements-Challenges-for-ACP-countries">Executive Brief Update 2012: EU Common Fisheries Policy and Fisheries Partnership Agreements: Challenges for ACP countries</a></p>
+						<p><a href="/en/Fisheries/Topics/ACP-EU-relations-FPAs/Executive-Brief-Update-2012-Tuna-sector-Issues-and-challenges">Executive Brief Update 2012: Tuna sector: Issues and challenges</a></p>
+						<p><a href="/en/Fisheries/Topics/EU-common-fisheries-policy/Executive-Brief-Update-2011-EU-Common-Fisheries-Policy-and-Fisheries-Partnership-Agreements-Challenges-for-ACP-countries">Executive Brief Update 2011: EU Common Fisheries Policy and Fisheries Partnership Agreements: Challenges for ACP countries</a></p>
+						<p><a href="/en/Fisheries/Topics/ACP-EU-relations-FPAs/Executive-Brief-2011-Tuna-sector-Issues-and-challenges">Executive Brief 2011: Tuna sector: Issues and challenges</a></p>
+						</div>
+</div>		</div>
+		<!-- right container ] -->
+		
+		<div style="clear:both;"></div>
+
+
+		</section>
+		<!-- content container ] -->
+
+		<footer class="container">
+
+			<!-- [ bottom container -->
+			<div id="sitemap">
+	<a class="sitemap_toggle closed" href="#">Sitemap</a>
+	<nav>
+		<div class="links agri">
+			<h3>Agriculture</h3>
+			<div class="column">
+				<ul>
+					<li><em>Topics</em></li>
+					
+					<li><a href="/en/Agriculture/Topics/WTO">WTO</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/EPAs">EPAs</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/EU-FTAs">EU FTAs</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/ACP-FTAs">ACP - FTAs</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/ACP-regional-trade">ACP regional trade</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Market-access">Market access</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/SPS-Food-safety">SPS / Food safety</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Product-differentiation">Product differentiation</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/CAP-reform">CAP reform</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Biofuels">Biofuels</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Climate-change">Climate change</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Aid-for-trade">Aid for trade</a></li>
+					
+					<li><a href="/en/Agriculture/Topics/Other">Other</a></li>
+									</ul>
+			</div>
+
+			<div class="column">
+				<ul>
+					<li><em>Commodities</em></li>
+
+										<li><a href="/en/Agriculture/Commodities/General">General</a></li>
+										<li><a href="/en/Agriculture/Commodities/Bananas">Bananas</a></li>
+										<li><a href="/en/Agriculture/Commodities/Beef">Beef</a></li>
+										<li><a href="/en/Agriculture/Commodities/Cocoa">Cocoa</a></li>
+										<li><a href="/en/Agriculture/Commodities/Coffee">Coffee</a></li>
+										<li><a href="/en/Agriculture/Commodities/Cotton">Cotton</a></li>
+										<li><a href="/en/Agriculture/Commodities/Dairy">Dairy</a></li>
+										<li><a href="/en/Agriculture/Commodities/Horticulture">Horticulture</a></li>
+										<li><a href="/en/Agriculture/Commodities/Oil-crops">Oil crops</a></li>
+										<li><a href="/en/Agriculture/Commodities/Poultry">Poultry</a></li>
+										<li><a href="/en/Agriculture/Commodities/Rice">Rice</a></li>
+										<li><a href="/en/Agriculture/Commodities/Rum">Rum</a></li>
+										<li><a href="/en/Agriculture/Commodities/Sugar">Sugar</a></li>
+										<li><a href="/en/Agriculture/Commodities/Cereals">Cereals</a></li>
+										<li><a href="/en/Agriculture/Commodities/Tea">Tea</a></li>
+										<li><a href="/en/Agriculture/Commodities/Other">Other</a></li>
+									</ul>
+			</div>
+
+		</div>
+		<div class="links">
+			<h3>Fisheries</h3>
+		<ul>
+		
+			<li><a href="/en/Fisheries/Topics/Market-access">Market access</a></li>
+		
+			<li><a href="/en/Fisheries/Topics/ACP-EU-relations-FPAs">ACP-EU relations; FPAs</a></li>
+		
+			<li><a href="/en/Fisheries/Topics/EU-common-fisheries-policy">EU common fisheries policy</a></li>
+		
+			<li><a href="/en/Fisheries/Topics/WTO-international-developments">WTO &amp; international developments</a></li>
+		
+			<li><a href="/en/Fisheries/Topics/News-from-the-IOC-region">News from the IOC region</a></li>
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Regions</h3>
+		<ul>
+					
+				<li><a href="/en/Regions/Global">Global</a></li>
+						
+					
+				<li><a href="/en/Regions/EU">EU</a></li>
+						
+															
+					<li><a href="/en/Regions/ACP/Surface-transport-slow">Surface transport slow</a></li>
+				
+					<li><a href="/en/Regions/ACP/All-ACP">All ACP</a></li>
+				
+					<li><a href="/en/Regions/ACP/Caribbean">Caribbean</a></li>
+				
+					<li><a href="/en/Regions/ACP/Central-Africa">Central Africa</a></li>
+				
+					<li><a href="/en/Regions/ACP/Eastern-Africa">Eastern Africa</a></li>
+				
+					<li><a href="/en/Regions/ACP/West-Africa">West Africa</a></li>
+				
+					<li><a href="/en/Regions/ACP/Pacific">Pacific</a></li>
+				
+					<li><a href="/en/Regions/ACP/Southern-Africa">Southern Africa</a></li>
+							
+		
+		</ul>
+		</div>
+
+		<div class="links">
+			<h3>Publications</h3>
+			<ul>
+			
+				<li><a href="/en/Publications/News-Analysis">News &amp; Analysis</a></li>
+			
+				<li><a href="/en/Publications/Newsletter">Newsletter</a></li>
+			
+				<li><a href="/en/Publications/Executive-briefs">Executive briefs</a></li>
+			
+				<li><a href="/en/Publications/Interviews">Interviews</a></li>
+			
+				<li><a href="/en/Publications/Special-Reports">Special Reports</a></li>
+			
+				<li><a href="/en/Publications/Compendium">Compendium</a></li>
+						</ul>
+		</div>
+
+
+
+		<div class="links last">
+			<h3>Links</h3>
+			<ul>
+			
+				<li><a href="http://agritrade.cta.int/en" target="_blank">Agritrade</a></li>
+			
+				<li>My Agritrade</li>
+			
+				<li><a href="http://www.cta.int/en/CTA-Portals" target="_blank">CTA Web Portals</a></li>
+			
+				<li><a href="http://brussels.cta.int/index.php" target="_blank">CTA Brussels Office Weblog</a></li>
+			
+				<li>ARD WebRing</li>
+			
+				<li><a href="http://spore.cta.int/" target="_blank">Spore </a></li>
+			
+				<li><a href="http://ictupdate.cta.int/" target="_blank">ICT Update</a></li>
+			
+				<li><a href="http://knowledge.cta.int/" target="_blank">Knowledge for Development</a></li>
+			
+			</ul>
+		</div>
+	</nav>
+</div>
+
+
+
+			<!-- bottom container ] -->
+
+			<!-- [ footer container -->
+			<div id="footer">
+				<div class="footerleft">
+					<div class="icon_left">
+						<img src="/extension/agritrade/design/agritrade/images/icon1.gif" alt=""/>
+					</div>
+
+					<div class="text_center">
+						
+																					
+
+	<div class="block custom ">
+
+		
+		<p>CTA is a joint institution operating under the framework of the Cotonou Agreement between the ACP Group of States (Africa, the Caribbean and the Pacific) and the EU Member States (EuropeanUnion). CTA is funded by the European Union.
+
+		
+		</p>
+
+	</div>													
+					</div>
+
+					<div class="icon_right">
+						<img src="/extension/agritrade/design/agritrade/images/icon2.gif" alt=""/>
+					</div>
+				</div>
+
+				<div class="footerright">
+											
+
+	<div class="block links">
+		
+									<p><a href="/en/Welcome-to-Agritrade" target="_blank">About &amp; Contact</a></p>
+												<p><a href="/en/Welcome-to-Agritrade/Disclaimer">Disclaimer</a></p>
+					
+	</div>
+											
+
+	<div class="block custom ">
+
+		
+		<p>Copyright © 2011, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)
+
+		
+		</p>
+
+	</div>									</div>
+
+			</div>
+			<!-- footer container ] -->
+
+		</footer>
+
+	</div>
+	<!-- main container ] -->
+
+</div>
+<!-- wrapper ] -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-724238-5";
+urchinTracker();
+</script>
+
+
+
+<script type="text/javascript">
+  var _sf_async_config = { uid: 39651, domain: 'agritrade.cta.int' };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+        "js/chartbeat.js");
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":1430,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,1378 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2011: Rice sector / Rice / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																															
+		
+		<div class='contentrealtionlist'>
+										
+																																																																																																																																																																																																																																																												
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7805/(search)/simple">Rice</a>
+							
+																																																																																																																																	
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2011: Rice sector</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/12077/495582/file/85397f154b1a65e4e7c9cf5c7e726d03.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+									</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>About this update</b></p><p>This brief was updated in July 2011. The original executive brief was published in June 2008 and is available on request from agritrade-mail@cta.int</p><p>Other publications in this series and additional resources on ACP—EU agriculture and fisheries trade issues can be found online at http://agritrade.cta.int/</p>
+
+		</div>
+		
+		
+					<a name="eztoc495572_1" id="eztoc495572_1"></a><h2><b>1. Background and key issues</b></h2><p>In the context of a significant increase in average world market prices for rice, the implementation of EU rice sector reforms has enabled the EU to achieve a number of its policy objectives. Probably the most important in this regard is the successful transformation of the rice intervention price into a ‘safety-net’ price, disconnected from the normal process of market price formation. EU market prices for rice now increasingly take their lead from world market price levels. This has implications for the attractiveness of the EU market relative to regional and world markets.</p><p>While the reform process involved a 50% reduction in the rice intervention price (to €150/tonne), the incorporation of rice into the single payment scheme with payments equivalent to €177/tonne (some 45.6% of the global rice price in February 2011) saw an increase in EU rice production in the 2006/07 and 2007/08 seasons. Production subsequently fell in response to the global economic downturn, at a rate slightly less than consumption and significantly less than rice imports to the EU. The 2009/10 season was a remarkable year for EU rice production, with production reaching a record high of 1.86 million tonnes of milled rice equivalent.</p><p>Despite importing between 40% and 48% of its consumption, since 2006/07 the EU has increased rice exports, with exports 65% higher in 2009/10, at approximately 19.2% of the level of imports. These exports tend to be of high quality rice for which ACP countries are not a significant export market.</p><p>The principal ACP–EU relationship in the rice sector is as a market for ACP exports, with only two ACP countries involved in this trade, Guyana and Suriname. The conclusion of the Caribbean–EU Economic Partnership Agreement (EPA) saw the granting of full duty-free, quota-free access for rice and the removal of a range of administrative measures which formerly inhibited ACP rice exports. However, with EU rice prices now largely following world market prices, the price premiums enjoyed on EU rice markets prior to reform have largely disappeared.</p><p>As a consequence, the attractiveness of the EU market is now closely linked to exchange-rate movements and regional and world market price trends. Lower freight charges can often mean that better net returns are obtainable on regional markets than on EU markets. That said, ‘stickiness’ of price reductions on the EU market (i.e. EU prices tending to decline later and more slowly than world market prices) can mean that EU markets provide greater security of income over a given time period. This can be an important factor in marketing decisions during periods of price declines.</p><p>Rice is an important product for domestic and regional markets across the ACP. In Africa, in the light of food security concerns, the promotion of rice production is seen as an important priority. Since 2005, significant production gains have occurred, particularly in West Africa. Often this growth has occurred behind protective tariffs and other non-tariff trade measures. The EU is seeking to include restrictions on the use of non-tariff measures under EPAs, such as abolition of the use of import licences and <i>de facto</i> dismantling of infant industry protection. Such restrictions could have implications for the broader national and regional policies that are currently in place to foster rice sector development for national and regional markets.</p><p><b>&nbsp;</b></p><a name="eztoc495572_2" id="eztoc495572_2"></a><h2><b>2. Latest developments</b></h2><p><b>2.1 Global rice market trends 2010–11</b></p><p>Since rice prices reached the remarkably high level of US$1,015/tonne in April 2008 they have fluctuated within a downward trend (See Table 1). Rice prices in 2009 were on average 42% below the April 2008 peak, but only 16% below the annual average for 2008. Rice prices in 2010 continued this downward trend, with the average price falling by 12% compared to 2009, reaching a level 25.7% below the 2008 average. However, average global rice prices in 2010 were still 70% above the average price levels in 2006 and 57% above 2007 price levels. In the first months of 2011 prices rose by 1.7% compared to 2010 prices. This left global rice prices 160% above the EU intervention price, which internally within the EU is now firmly a ‘safety-net’ price, detached from the normal process of market price formation.</p><p><b>Table 1: Rice</b><b>5% broken milled white rice, Thailand nominal price quote (in US$ per tonne)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="83" valign="top">  <b>&nbsp;</b>
+  </td><td width="44" valign="top">  <b>2006</b>
+  </td><td width="64" valign="top">  <b>2007</b>
+  </td><td width="64" valign="top">  <b>2008</b>
+  </td><td width="64" valign="top">  <b>2009</b>
+  </td><td width="66" valign="top">  <b>2010</b>
+  </td><td width="58" valign="top">  <b>2011</b>
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  January
+  </td><td width="44" valign="top">  &nbsp;
+  </td><td width="64" valign="top">  313.48
+  </td><td width="64" valign="top">  393.48
+  </td><td width="64" valign="top">  615.25
+  </td><td width="66" valign="top">  598.00
+  </td><td width="58" valign="top">  528.38
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  February
+  </td><td width="44" valign="top">  296.40
+  </td><td width="64" valign="top">  316.05
+  </td><td width="64" valign="top">  481.14
+  </td><td width="64" valign="top">  634.00
+  </td><td width="66" valign="top">  584.75
+  </td><td width="58" valign="top">  535.21
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  March
+  </td><td width="44" valign="top">  297.74
+  </td><td width="64" valign="top">  326.18
+  </td><td width="64" valign="top">  672.64
+  </td><td width="64" valign="top">  625.25
+  </td><td width="66" valign="top">  540.13
+  </td><td width="58" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  April
+  </td><td width="44" valign="top">  298.50
+  </td><td width="64" valign="top">  322.29
+  </td><td width="64" valign="top">  1,015.21
+  </td><td width="64" valign="top">  577.25
+  </td><td width="66" valign="top">  502.23
+  </td><td width="58" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  May
+  </td><td width="44" valign="top">  301.26
+  </td><td width="64" valign="top">  320.61
+  </td><td width="64" valign="top">  1,009.32
+  </td><td width="64" valign="top">  540.75
+  </td><td width="66" valign="top">  472.48
+  </td><td width="58" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  June
+  </td><td width="44" valign="top">  305.59
+  </td><td width="64" valign="top">  326.29
+  </td><td width="64" valign="top">  834.60
+  </td><td width="64" valign="top">  548.60
+  </td><td width="66" valign="top">  458.55
+  </td><td width="58" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  July
+  </td><td width="44" valign="top">  312.43
+  </td><td width="64" valign="top">  332.55
+  </td><td width="64" valign="top">  799.00
+  </td><td width="64" valign="top">  623.00
+  </td><td width="66" valign="top">  470.68
+  </td><td width="58" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  August
+  </td><td width="44" valign="top">  313.39
+  </td><td width="64" valign="top">  331.48
+  </td><td width="64" valign="top">  737.00
+  </td><td width="64" valign="top">  576.25
+  </td><td width="66" valign="top">  486.86
+  </td><td width="58" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  September
+  </td><td width="44" valign="top">  312.90
+  </td><td width="64" valign="top">  330.00
+  </td><td width="64" valign="top">  722.00
+  </td><td width="64" valign="top">  593.67
+  </td><td width="66" valign="top">  519.95
+  </td><td width="58" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  October
+  </td><td width="44" valign="top">  309.64
+  </td><td width="64" valign="top">  335.30
+  </td><td width="64" valign="top">  624.00
+  </td><td width="64" valign="top">  566.25
+  </td><td width="66" valign="top">  533.13
+  </td><td width="58" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  November
+  </td><td width="44" valign="top">  300.59
+  </td><td width="64" valign="top">  356.50
+  </td><td width="64" valign="top">  563.25
+  </td><td width="64" valign="top">  566.25
+  </td><td width="66" valign="top">  543.14
+  </td><td width="58" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  December
+  </td><td width="44" valign="top">  309.29
+  </td><td width="64" valign="top">  378.00
+  </td><td width="64" valign="top">  550.75
+  </td><td width="64" valign="top">  606.00
+  </td><td width="66" valign="top">  536.78
+  </td><td width="58" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  Annual average
+  </td><td width="44" valign="top">  305.25
+  </td><td width="64" valign="top">  332.39
+  </td><td width="64" valign="top">  700.62
+  </td><td width="64" valign="top">  589.38
+  </td><td width="66" valign="top">  520.56
+  </td><td width="58" valign="top">  &nbsp;
+  </td>
+</tr>
+
+</table>
+<p>Source: IMF, 
+<a href="http://www.indexmundi.com/commodities/?commodity=rice&amp;months=60" target="_self">http://www.indexmundi.com/commodities/?commodity=rice&amp;months=60</a></p><p>Global price trends since the 2008 price surge have been closely linked to the underlying supply and demand picture, with rice prices not benefiting significantly from the commodities price boom of late 2010/early 2011. In response to the high prices in 2008, global rice production rose 3.3% in the 2008/09 season, while consumption growth was only 2%, taking stock levels in 2008/09 to 22.4% above levels prior to the price increases that began in October 2007.</p><p>Overall the analyses by the Organisation for Economic Co-operation and Development (OECD), the UN Food and Agriculture Organization (FAO), the Food and Agricultural Policy Research Institute (FAPRI) and the US Department of Agriculture (USDA) agree that relative to other cereal crops ‘rice prices … were still particularly high’ (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Rice/Prospects-for-global-rice-markets-to-2019" target="_self">Prospects for global rice markets to 2019</a>’, February 2011). While rice prices were projected to decline in 2009/2010, as a result of an expansion of exportable supplies, unfavourable weather conditions in India saw a substantial decline in production. Nevertheless while global production fell back 1.6% in the 2009/10 season, it was still above global consumption and stock levels continued to increase. With production in 2010/11 projected to be 0.75% above 2008/09 levels, despite a 2% growth in consumption over the 2009/10 season, stock levels are projected to continue to increase to nearly 99 million tonnes (32% above 2006/07 ending stocks). Stock levels are now at their highest level since 2002/03, when prices were on average US$194.1/tonne. Against the background of this underlying supply and demand situation, average rice prices appear quite resilient, having gained just under 17% between June 2010 and February 2011.</p><p>Looking forward, rice prices are projected to ‘stabilise above the levels of the decade preceding the price hike’, strengthening towards the end of the period according to FAPRI (easing off towards the end of the period according to OECD–FAO). Up to 2019, world rice consumption is projected to grow mainly due to population growth, since average per capita consumption is projected to decline slightly. Production growth is expected to outpace consumption growth, on the basis of improved yields. With many governments pursuing strategies of self-sufficiency in rice since the 2007/08 price hike, production is expected to grow by 1.4% per annum, with strong production growth in Africa.</p><p>According to FAPRI the global rice trade is projected to grow by 3.4% per annum between 2010 and 2019. However at only 7% of global consumption the rice market will continue to be ‘thin’, leaving it vulnerable to disruption by changes in government policies in major exporting countries or financial speculation around supply disruptions. Currently, however, the scope for speculative investment, should supply disruptions emerge, is likely to be curbed by the high stock levels.</p><p><b>Table 2: Global milled rice production, consumption and ending stocks 2006/07 to 2010/11 (’000 tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="90" valign="top">  <b>&nbsp;</b>
+  </td><td width="58" valign="top">  <b>2006/07</b>
+  </td><td width="74" valign="top">  <b>2007/08</b>
+  </td><td width="74" valign="top">  <b>2008/09</b>
+  </td><td width="74" valign="top">  <b>2009/10</b>
+  </td><td width="74" valign="top">  <b><i>2010/11</i></b>
+  </td>
+</tr>
+
+<tr>
+<td width="90" valign="top">  Milled production
+  </td><td width="58" valign="top">  420,277
+  </td><td width="74" valign="top">  433,628
+  </td><td width="74" valign="top">  448,148
+  </td><td width="74" valign="top">  440,917
+  </td><td width="74" valign="top">  451,518
+  </td>
+</tr>
+
+<tr>
+<td width="90" valign="top">  Consumption
+  </td><td width="58" valign="top">  421,735
+  </td><td width="74" valign="top">  428,101
+  </td><td width="74" valign="top">  436,946
+  </td><td width="74" valign="top">  438,142
+  </td><td width="74" valign="top">  447,004
+  </td>
+</tr>
+
+<tr>
+<td width="90" valign="top">  Ending stocks
+  </td><td width="58" valign="top">  74,757
+  </td><td width="74" valign="top">  80,284
+  </td><td width="74" valign="top">  91,486
+  </td><td width="74" valign="top">  94,854
+  </td><td width="74" valign="top">  98,775
+  </td>
+</tr>
+
+</table>
+<p>Source: USDA, Table, World Rice Production, Consumption and Stocks, Rice World Markets and Trade in ‘Grain: World Markets and Trade’, Foreign Agricultural Service, Circular Series FG 03-11, March 2011</p><p><b>&nbsp;</b></p><p><b>2.2 Developments in the EU rice sector and implications for ACP rice exporters</b></p><p>Rice is produced in eight EU member states, and production increased in all of them between 2006 and 2009. Increased production in France was accounted for solely by increased yields. Yield growth was also the major factor accounting for the expansion of production in Italy and Romania, although in Romania the area under rice more than doubled. In Spain, Greece, Bulgaria and Hungary the expansion of the area under rice had a greater influence on production increases than the improvement in yields. In the EU12 rice producing countries (the 12 member states that joined in 2003), a significant expansion of the area under rice has occurred, but from a very low base. Rice production in EU15 countries (members of the EU before 2003) continues to dominate (contributing 96%) overall EU rice production.</p><p>At the end of 2009 an evaluation of EU rice sector reforms was published (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Rice/EC-evaluation-of-the-impact-of-rice-sector-reforms" target="_self">EC evaluation of the impact of rice-sector reforms</a>’, April 2010). It concluded that the implementation of reforms had improved the efficiency of support extended to EU rice producers, strengthened the delivery of underlying policy objectives and aligned rice sector support with the overall trajectory for reform of the EU common agricultural policy (CAP). One of the principal aims of the reforms introduced was to close the gap between EU and world market prices, without undermining domestic rice production in the EU. While the aim of closing the gap between EU and world market prices was easily achieved during the price surge of 2008, it has also been maintained at the lower price levels prevailing in 2009/10.</p><p><b>Table 3: EU paddy rice production by EU member state (’000 tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="74" valign="top">  <b>&nbsp;</b>
+  </td><td width="74" valign="top">  <b>2006</b>
+  </td><td width="74" valign="top">  <b>2007</b>
+  </td><td width="74" valign="top">  <b>2008</b>
+  </td><td width="74" valign="top">  <b>2009</b>
+  </td><td width="74" valign="top">  <b>% change 2005–2009</b>
+  </td>
+</tr>
+
+<tr>
+<td width="74" valign="top">  Italy
+  </td><td width="74" valign="top">  1,420
+  </td><td width="74" valign="top">  1,493
+  </td><td width="74" valign="top">  1,343
+  </td><td width="74" valign="top">  1,643
+  </td><td width="74" valign="top">  +15.7
+  </td>
+</tr>
+
+<tr>
+<td width="74" valign="top">  Spain
+  </td><td width="74" valign="top">  766
+  </td><td width="74" valign="top">  738
+  </td><td width="74" valign="top">  615
+  </td><td width="74" valign="top">  889
+  </td><td width="74" valign="top">  +16.1
+  </td>
+</tr>
+
+<tr>
+<td width="74" valign="top">  Greece
+  </td><td width="74" valign="top">  154
+  </td><td width="74" valign="top">  180
+  </td><td width="74" valign="top">  182
+  </td><td width="74" valign="top">  205
+  </td><td width="74" valign="top">  +33.1
+  </td>
+</tr>
+
+<tr>
+<td width="74" valign="top">  Portugal
+  </td><td width="74" valign="top">  151
+  </td><td width="74" valign="top">  155
+  </td><td width="74" valign="top">  146
+  </td><td width="74" valign="top">  157
+  </td><td width="74" valign="top">  +4.0
+  </td>
+</tr>
+
+<tr>
+<td width="74" valign="top">  France
+  </td><td width="74" valign="top">  121
+  </td><td width="74" valign="top">  109
+  </td><td width="74" valign="top">  102
+  </td><td width="74" valign="top">  145
+  </td><td width="74" valign="top">  +19.8
+  </td>
+</tr>
+
+<tr>
+<td width="74" valign="top">  Romania
+  </td><td width="74" valign="top">  21
+  </td><td width="74" valign="top">  35
+  </td><td width="74" valign="top">  47
+  </td><td width="74" valign="top">  68
+  </td><td width="74" valign="top">  + 223.8
+  </td>
+</tr>
+
+<tr>
+<td width="74" valign="top">  Bulgaria
+  </td><td width="74" valign="top">  26
+  </td><td width="74" valign="top">  31
+  </td><td width="74" valign="top">  36
+  </td><td width="74" valign="top">  48
+  </td><td width="74" valign="top">  +84.6
+  </td>
+</tr>
+
+<tr>
+<td width="74" valign="top">  Hungary
+  </td><td width="74" valign="top">  10
+  </td><td width="74" valign="top">  10
+  </td><td width="74" valign="top">  10
+  </td><td width="74" valign="top">  11
+  </td><td width="74" valign="top">  +10.0
+  </td>
+</tr>
+
+<tr>
+<td width="74" valign="top">  <b>&nbsp;</b>
+  </td><td width="74" valign="top">  &nbsp;
+  </td><td width="74" valign="top">  &nbsp;
+  </td><td width="74" valign="top">  &nbsp;
+  </td><td width="74" valign="top">  &nbsp;
+  </td><td width="74" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="74" valign="top">  <b>EU27</b>
+  </td><td width="74" valign="top">  2,669
+  </td><td width="74" valign="top">  2,750
+  </td><td width="74" valign="top">  2,482
+  </td><td width="74" valign="top">  3,167
+  </td><td width="74" valign="top">  +18.7
+  </td>
+</tr>
+
+<tr>
+<td width="74" valign="top">  <b>EU15</b>
+  </td><td width="74" valign="top">  2,702
+  </td><td width="74" valign="top">  2,675
+  </td><td width="74" valign="top">  2,388
+  </td><td width="74" valign="top">  3,040
+  </td><td width="74" valign="top">  +12.5
+  </td>
+</tr>
+
+</table>
+<p>Source: EC, ‘The 2010 Agricultural Year’, Agriculture in the European Union Statistical and Economic Information Report 2010, Table 4.2.1.1, March 2011.</p><p>During 2010, EU rice prices were broadly in line with global price trends. Internal prices for Spanish indica rice, Italian round grain rice and Italian long grain rice were on average 160%, 159% and 162% of the intervention price respectively, while Spanish medium grain rice prices were slightly higher, at 175% of the EU intervention price.</p><p>In terms of the impact on EU rice production, the 2009 evaluation concluded that ‘the implementation of the reform has maintained EU production, as well as producer income, at the levels prevailing over the previous period’. Indeed the 2009/2010 season was a remarkable year for EU rice production, with rice production reaching a record high of 1.86 million tonnes of milled rice equivalent. This was 360,000 tonnes (24%) higher than in the 2008/09 season, and was a result of both an increase in the area devoted to rice production and good weather conditions which resulted in higher yields. With EU rice consumption growing by 6.2% (up from 2.31 to 2.45 million tonnes), rice stocks grew by 29.1% to reach 540,000 tonnes at the end of the marketing year. Thus by the end of the 2009/10 season substantial stocks of rice had once more emerged, despite a doubling of EU rice exports from 100,000 tonnes to 200,000 tonnes. With consumption growing strongly, the expansion of EU production saw rice imports grow by only 7% (60,000 tonnes) (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Rice/Guyana-rice-exports-in-2010" target="_self">Guyana rice exports in 2010</a>’, May 2011).</p><p>The remarkable performance of the EU rice sector in 2010 needs to be seen against the background of the shift from price support to direct aid payments. It should be borne in mind that although the reference price was reduced by 50% as part of the reform programme, payments under the single payment scheme were introduced equivalent to €177/tonne. At the prevailing euro–US dollar exchange rate, in February 2011 this was equivalent to some 45.6% of the global rice price. This level of direct aid payment support is likely to sustain European rice production at levels above those which would be the case in the absence of such support.</p><p>Looking forward, in March 2011 COPA-COGECA, the EU farmers’ and agri-cooperatives’ organisation, called for a ‘long-term solution to urgently address the lack of plant-protection products available on the EU rice market’, warning that ‘harvests can be reduced by 50% when no fungicide exists’. This follows the removal from the EU market of 74% of herbicides, insecticides and fungicides used in the EU rice sector since 1993, and serious damage to the 2008 Italian rice harvest and problems in certain areas of Spain in 2009. COPA-COGECA argues that ‘a sufficient choice of plant protection products is needed to prevent the development of resistances to products’.</p><p><b>&nbsp;</b></p><p><b>2.3 Developments in ACP rice sectors</b></p><p>While Guyana and Suriname export rice to the EU, elsewhere in the ACP Caribbean (Dominican Republic, Haiti and Trinidad &amp; Tobago) rice production is for the domestic market. The Dominican Republic is by far the region’s largest rice producer, with an estimated 560,000 tonnes grown in 2010. Since 2006, rice production in the country has risen by 23%, following a 24% increase in the area under rice. With consumption up by 18.3%, the rice self-sufficiency ratio has improved. Rice production in the main Caribbean producing countries is set out in Table 4.</p><p>A similar 24% expansion of rice production has occurred in neighbouring Haiti (up from 58,000 tonnes in 2006 to 72,000 tonnes in 2010), on the basis of a 12.2% expansion of the area under rice. Considerable scope for improvement in yields still exists in Haiti, as current yields are under half of those attained in the neighbouring Dominican Republic. Rice production in Trinidad &amp; Tobago meanwhile is marginal at only 3,000 tonnes, against a national consumption of 48,000 tonnes.</p><p><b>Table 4: Milled rice production in selected Caribbean countries (’000 tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="41" valign="top">  <b><i>&nbsp;</i></b>
+  </td><td width="69" valign="top">  <b>Guyana</b>
+  </td><td width="69" valign="top">  <b>Suriname</b>
+  </td><td width="69" valign="top">  <b>Dominican Rep.</b>
+  </td><td width="69" valign="top">  <b>Haiti</b>
+  </td><td width="69" valign="top">  <b>Trinidad &amp; Tobago</b>
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  1995
+  </td><td width="69" valign="top">  299
+  </td><td width="69" valign="top">  152
+  </td><td width="69" valign="top">  316
+  </td><td width="69" valign="top">  60
+  </td><td width="69" valign="top">  10
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  1996
+  </td><td width="69" valign="top">  296
+  </td><td width="69" valign="top">  140
+  </td><td width="69" valign="top">  308
+  </td><td width="69" valign="top">  72
+  </td><td width="69" valign="top">  18
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  1997
+  </td><td width="69" valign="top">  341
+  </td><td width="69" valign="top">  134
+  </td><td width="69" valign="top">  331
+  </td><td width="69" valign="top">  96
+  </td><td width="69" valign="top">  7
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  1998
+  </td><td width="69" valign="top">  340
+  </td><td width="69" valign="top">  118
+  </td><td width="69" valign="top">  309
+  </td><td width="69" valign="top">  60
+  </td><td width="69" valign="top">  7
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  1999
+  </td><td width="69" valign="top">  365
+  </td><td width="69" valign="top">  113
+  </td><td width="69" valign="top">  369
+  </td><td width="69" valign="top">  60
+  </td><td width="69" valign="top">  6
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  2000
+  </td><td width="69" valign="top">  290
+  </td><td width="69" valign="top">  103
+  </td><td width="69" valign="top">  377
+  </td><td width="69" valign="top">  78
+  </td><td width="69" valign="top">  6
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  2001
+  </td><td width="69" valign="top">  322
+  </td><td width="69" valign="top">  120
+  </td><td width="69" valign="top">  469
+  </td><td width="69" valign="top">  65
+  </td><td width="69" valign="top">  3
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  2002
+  </td><td width="69" valign="top">  288
+  </td><td width="69" valign="top">  99
+  </td><td width="69" valign="top">  475
+  </td><td width="69" valign="top">  62
+  </td><td width="69" valign="top">  3
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  2003
+  </td><td width="69" valign="top">  326
+  </td><td width="69" valign="top">  122
+  </td><td width="69" valign="top">  395
+  </td><td width="69" valign="top">  63
+  </td><td width="69" valign="top">  3
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  2004
+  </td><td width="69" valign="top">  325
+  </td><td width="69" valign="top">  110
+  </td><td width="69" valign="top">  375
+  </td><td width="69" valign="top">  64
+  </td><td width="69" valign="top">  3
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  2005
+  </td><td width="69" valign="top">  273
+  </td><td width="69" valign="top">  104
+  </td><td width="69" valign="top">  385
+  </td><td width="69" valign="top">  58
+  </td><td width="69" valign="top">  3
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  2006
+  </td><td width="69" valign="top">  307
+  </td><td width="69" valign="top">  123
+  </td><td width="69" valign="top">  455
+  </td><td width="69" valign="top">  58
+  </td><td width="69" valign="top">  3
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  2007
+  </td><td width="69" valign="top">  298
+  </td><td width="69" valign="top">  123
+  </td><td width="69" valign="top">  455
+  </td><td width="69" valign="top">  55
+  </td><td width="69" valign="top">  3
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  2008
+  </td><td width="69" valign="top">  330
+  </td><td width="69" valign="top">  120
+  </td><td width="69" valign="top">  507
+  </td><td width="69" valign="top">  60
+  </td><td width="69" valign="top">  3
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  2009
+  </td><td width="69" valign="top">  360
+  </td><td width="69" valign="top">  120
+  </td><td width="69" valign="top">  552
+  </td><td width="69" valign="top">  54
+  </td><td width="69" valign="top">  3
+  </td>
+</tr>
+
+<tr>
+<td width="41" valign="top">  2010
+  </td><td width="69" valign="top">  364
+  </td><td width="69" valign="top">  124
+  </td><td width="69" valign="top">  560
+  </td><td width="69" valign="top">  72
+  </td><td width="69" valign="top">  3
+  </td>
+</tr>
+
+</table>
+<p>Source<i>: </i>IMF,<i>&nbsp;</i>
+<a href="http://www.indexmundi.com/agriculture/?commodity=milled-rice&amp;graph=production" target="_self">http://www.indexmundi.com/agriculture/?commodity=milled-rice&amp;graph=p...</a></p><p>Rice production in sub-Saharan Africa has shown a steady increase in the past four seasons (2006/07 to 2009/10), expanding by 27.3% (see Table 5). With consumption growing at 14.7% the self-sufficiency ratio has increased from 54.9% to 60.6%. In 2010/11 a further 4% expansion of production is expected, but with consumption set to increase by 4.5%, the self-sufficiency ratio will fall slightly. These trends are not unconnected to the food security challenges faced during the 2007/08 food price surge.</p><p>About two-thirds of sub-Saharan African rice production takes place in West Africa, where production has increased by 47% since 2005. This is a product of concerted government efforts to promote domestic rice production. These government policy measures include the use of high import tariffs. In the case of Nigeria, the region’s largest rice producer and largest rice importer, a benchmark price for rice imports is established with tariffs being determined in relation to it, regardless of the declared fob value of rice imports. Where tariffs are being circumvented, or problems of enforcement of applicable tariffs exist, the government of Nigeria resorts to the use of import bans.</p><p><b>Table 5: Sub-Saharan Africa’s rice position 2006/07 to 2010/11 (tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="112" valign="top">  <b>&nbsp;</b>
+  </td><td width="66" valign="top">  <b>2006/07</b>
+  </td><td width="66" valign="top">  <b>2007/08</b>
+  </td><td width="66" valign="top">  <b>2008/09</b>
+  </td><td width="66" valign="top">  <b>2009/10</b>
+  </td><td width="66" valign="top">  <b><i>2010/11</i></b>
+  </td>
+</tr>
+
+<tr>
+<td width="112" valign="top">  Milled production
+  </td><td width="66" valign="top">  9,397,000
+  </td><td width="66" valign="top">  9,580,000
+  </td><td width="66" valign="top">  10,988,000
+  </td><td width="66" valign="top">  11,959,000
+  </td><td width="66" valign="top">  12,432,000
+  </td>
+</tr>
+
+<tr>
+<td width="112" valign="top">  Consumption
+  </td><td width="66" valign="top">  17,118,000
+  </td><td width="66" valign="top">  17,502,000
+  </td><td width="66" valign="top">  18,385,000
+  </td><td width="66" valign="top">  19,642,000
+  </td><td width="66" valign="top">  20,523,000
+  </td>
+</tr>
+
+<tr>
+<td width="112" valign="top">  Imports
+  </td><td width="66" valign="top">  7,844,000
+  </td><td width="66" valign="top">  7,559,000
+  </td><td width="66" valign="top">  7,908,000
+  </td><td width="66" valign="top">  7,948,000
+  </td><td width="66" valign="top">  8,165,000
+  </td>
+</tr>
+
+<tr>
+<td width="112" valign="top">  Ending stocks
+  </td><td width="66" valign="top">  1,021,000
+  </td><td width="66" valign="top">  1,341,000
+  </td><td width="66" valign="top">  975,000
+  </td><td width="66" valign="top">  950,000
+  </td><td width="66" valign="top">  949,000
+  </td>
+</tr>
+
+<tr>
+<td width="112" valign="top">  &nbsp;
+  </td><td width="66" valign="top">  &nbsp;
+  </td><td width="66" valign="top">  &nbsp;
+  </td><td width="66" valign="top">  &nbsp;
+  </td><td width="66" valign="top">  &nbsp;
+  </td><td width="66" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="112" valign="top">  Self-sufficiency ratio
+  </td><td width="66" valign="top">  54.9%
+  </td><td width="66" valign="top">  54.7%
+  </td><td width="66" valign="top">  59.8%
+  </td><td width="66" valign="top">  60.9%
+  </td><td width="66" valign="top">  60.6%
+  </td>
+</tr>
+
+</table>
+<p>Source: USDA, Table, ‘World rice production, consumption and stocks, rice world markets and trade’ in ‘Grain: World Markets and Trade’, Foreign Agricultural Service, <i>Circular Series</i> FG 03-11, March 2011</p><p>West African governments are also directly supporting the development of rice production. According to USDA reports in April 2008, the government of Senegal launched the Great Agricultural Offensive for Food and Abundance (GOANA) programme, a principal objective of which is to significantly increase rice production, improve food security and lessen dependency on rice imports. The area under rice has been increased by 56%, with production increasing by 110% and rising. By 2015 milled rice production is expected to meet 50% of domestic consumption, compared to the current level of between 20% and 30%.</p><p>While these initiatives in Senegal appear to be reducing import dependence for rice, the USDA analysis suggest that local demand for Senegal River Valley rice is weak due to ‘the lack of quality and marketing (processing, cleaning and packaging)’. USDA maintains that ‘producers, millers, wholesalers and retailers will need to address these issues to win over Senegalese consumers’ (See <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Rice/Production-expansion-faces-quality-challenges" target="_self">Production expansion faces quality challenges</a>’, May 2011).</p><p><b>Table 6: Milled rice production in selected West African countries (’000 tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="33" valign="top">  &nbsp;
+  </td><td width="53" valign="top">  <b>Côte d’Ivoire</b>
+  </td><td width="39" valign="top">  <b>Benin</b>
+  </td><td width="46" valign="top">  <b>Mauri-tania</b>
+  </td><td width="50" valign="top">  <b>Gambia</b>
+  </td><td width="43" valign="top">  <b>Ghana</b>
+  </td><td width="46" valign="top">  <b>Guinea</b>
+  </td><td width="46" valign="top">  <b>Guinea Bissau</b>
+  </td><td width="54" valign="top">  <b>Burkina Faso</b>
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  1995
+  </td><td width="53" valign="top">  410
+  </td><td width="39" valign="top">  11
+  </td><td width="46" valign="top">  37
+  </td><td width="50" valign="top">  13
+  </td><td width="43" valign="top">  132
+  </td><td width="46" valign="top">  410
+  </td><td width="46" valign="top">  86
+  </td><td width="54" valign="top">  55
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  1996
+  </td><td width="53" valign="top">  445
+  </td><td width="39" valign="top">  16
+  </td><td width="46" valign="top">  37
+  </td><td width="50" valign="top">  13
+  </td><td width="43" valign="top">  130
+  </td><td width="46" valign="top">  430
+  </td><td width="46" valign="top">  85
+  </td><td width="54" valign="top">  75
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  1997
+  </td><td width="53" valign="top">  390
+  </td><td width="39" valign="top">  19
+  </td><td width="46" valign="top">  54
+  </td><td width="50" valign="top">  15
+  </td><td width="43" valign="top">  118
+  </td><td width="46" valign="top">  465
+  </td><td width="46" valign="top">  65
+  </td><td width="54" valign="top">  59
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  1998
+  </td><td width="53" valign="top">  358
+  </td><td width="39" valign="top">  23
+  </td><td width="46" valign="top">  70
+  </td><td width="50" valign="top">  12
+  </td><td width="43" valign="top">  170
+  </td><td width="46" valign="top">  497
+  </td><td width="46" valign="top">  57
+  </td><td width="54" valign="top">  59
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  1999
+  </td><td width="53" valign="top">  545
+  </td><td width="39" valign="top">  24
+  </td><td width="46" valign="top">  67
+  </td><td width="50" valign="top">  18
+  </td><td width="43" valign="top">  126
+  </td><td width="46" valign="top">  488
+  </td><td width="46" valign="top">  52
+  </td><td width="54" valign="top">  62
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2000
+  </td><td width="53" valign="top">  570
+  </td><td width="39" valign="top">  22
+  </td><td width="46" valign="top">  70
+  </td><td width="50" valign="top">  21
+  </td><td width="43" valign="top">  150
+  </td><td width="46" valign="top">  566
+  </td><td width="46" valign="top">  68
+  </td><td width="54" valign="top">  67
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2001
+  </td><td width="53" valign="top">  580
+  </td><td width="39" valign="top">  32
+  </td><td width="46" valign="top">  39
+  </td><td width="50" valign="top">  21
+  </td><td width="43" valign="top">  165
+  </td><td width="46" valign="top">  514
+  </td><td width="46" valign="top">  59
+  </td><td width="54" valign="top">  72
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2002
+  </td><td width="53" valign="top">  390
+  </td><td width="39" valign="top">  26
+  </td><td width="46" valign="top">  51
+  </td><td width="50" valign="top">  12
+  </td><td width="43" valign="top">  168
+  </td><td width="46" valign="top">  520
+  </td><td width="46" valign="top">  57
+  </td><td width="54" valign="top">  59
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2003
+  </td><td width="53" valign="top">  280
+  </td><td width="39" valign="top">  35
+  </td><td width="46" valign="top">  54
+  </td><td width="50" valign="top">  19
+  </td><td width="43" valign="top">  144
+  </td><td width="46" valign="top">  548
+  </td><td width="46" valign="top">  43
+  </td><td width="54" valign="top">  64
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2004
+  </td><td width="53" valign="top">  387
+  </td><td width="39" valign="top">  42
+  </td><td width="46" valign="top">  61
+  </td><td width="50" valign="top">  21
+  </td><td width="43" valign="top">  145
+  </td><td width="46" valign="top">  585
+  </td><td width="46" valign="top">  59
+  </td><td width="54" valign="top">  49
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2005
+  </td><td width="53" valign="top">  385
+  </td><td width="39" valign="top">  47
+  </td><td width="46" valign="top">  65
+  </td><td width="50" valign="top">  12
+  </td><td width="43" valign="top">  184
+  </td><td width="46" valign="top">  585
+  </td><td width="46" valign="top">  55
+  </td><td width="54" valign="top">  61
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2006
+  </td><td width="53" valign="top">  372
+  </td><td width="39" valign="top">  49
+  </td><td width="46" valign="top">  37
+  </td><td width="50" valign="top">  10
+  </td><td width="43" valign="top">  150
+  </td><td width="46" valign="top">  550
+  </td><td width="46" valign="top">  58
+  </td><td width="54" valign="top">  74
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2007
+  </td><td width="53" valign="top">  394
+  </td><td width="39" valign="top">  47
+  </td><td width="46" valign="top">  44
+  </td><td width="50" valign="top">  7
+  </td><td width="43" valign="top">  111
+  </td><td width="46" valign="top">  556
+  </td><td width="46" valign="top">  53
+  </td><td width="54" valign="top">  45
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2008
+  </td><td width="53" valign="top">  374
+  </td><td width="39" valign="top">  70
+  </td><td width="46" valign="top">  73
+  </td><td width="50" valign="top">  24
+  </td><td width="43" valign="top">  181
+  </td><td width="46" valign="top">  780
+  </td><td width="46" valign="top">  83
+  </td><td width="54" valign="top">  127
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2009
+  </td><td width="53" valign="top">  378
+  </td><td width="39" valign="top">  87
+  </td><td width="46" valign="top">  46
+  </td><td width="50" valign="top">  50
+  </td><td width="43" valign="top">  235
+  </td><td width="46" valign="top">  910
+  </td><td width="46" valign="top">  100
+  </td><td width="54" valign="top">  139
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2010
+  </td><td width="53" valign="top">  399
+  </td><td width="39" valign="top">  96
+  </td><td width="46" valign="top">  48
+  </td><td width="50" valign="top">  51
+  </td><td width="43" valign="top">  258
+  </td><td width="46" valign="top">  975
+  </td><td width="46" valign="top">  104
+  </td><td width="54" valign="top">  143
+  </td>
+</tr>
+
+</table>
+<table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="33" valign="top">  &nbsp;
+  </td><td width="45" valign="top">  <p><b>Liberia</b></p><p><b>&nbsp;</b></p>
+  </td><td width="45" valign="top">  <p><b>Mali</b></p><p><b>&nbsp;</b></p>
+  </td><td width="45" valign="top">  <p><b>Niger</b></p><p><b>&nbsp;</b></p>
+  </td><td width="45" valign="top">  <b>Nigeria</b>
+  </td><td width="45" valign="top">  <b>Sierra Leone</b>
+  </td><td width="45" valign="top">  <b>Senegal</b>
+  </td><td width="45" valign="top">  <b>Togo</b>
+  </td><td width="45" valign="top">  <b>Chad</b>
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  1995
+  </td><td width="45" valign="top">  35
+  </td><td width="45" valign="top">  300
+  </td><td width="45" valign="top">  46
+  </td><td width="45" valign="top">  1752
+  </td><td width="45" valign="top">  170
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  25
+  </td><td width="45" valign="top">  45
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  1996
+  </td><td width="45" valign="top">  60
+  </td><td width="45" valign="top">  412
+  </td><td width="45" valign="top">  46
+  </td><td width="45" valign="top">  1950
+  </td><td width="45" valign="top">  235
+  </td><td width="45" valign="top">  97
+  </td><td width="45" valign="top">  40
+  </td><td width="45" valign="top">  55
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  1997
+  </td><td width="45" valign="top">  100
+  </td><td width="45" valign="top">  375
+  </td><td width="45" valign="top">  45
+  </td><td width="45" valign="top">  1850
+  </td><td width="45" valign="top">  250
+  </td><td width="45" valign="top">  113
+  </td><td width="45" valign="top">  55
+  </td><td width="45" valign="top">  77
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  1998
+  </td><td width="45" valign="top">  125
+  </td><td width="45" valign="top">  465
+  </td><td width="45" valign="top">  40
+  </td><td width="45" valign="top">  1900
+  </td><td width="45" valign="top">  195
+  </td><td width="45" valign="top">  81
+  </td><td width="45" valign="top">  56
+  </td><td width="45" valign="top">  69
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  1999
+  </td><td width="45" valign="top">  118
+  </td><td width="45" valign="top">  480
+  </td><td width="45" valign="top">  41
+  </td><td width="45" valign="top">  2000
+  </td><td width="45" valign="top">  150
+  </td><td width="45" valign="top">  156
+  </td><td width="45" valign="top">  53
+  </td><td width="45" valign="top">  95
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2000
+  </td><td width="45" valign="top">  120
+  </td><td width="45" valign="top">  492
+  </td><td width="45" valign="top">  40
+  </td><td width="45" valign="top">  2000
+  </td><td width="45" valign="top">  120
+  </td><td width="45" valign="top">  140
+  </td><td width="45" valign="top">  53
+  </td><td width="45" valign="top">  47
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2001
+  </td><td width="45" valign="top">  87
+  </td><td width="45" valign="top">  637
+  </td><td width="45" valign="top">  50
+  </td><td width="45" valign="top">  2100
+  </td><td width="45" valign="top">  186
+  </td><td width="45" valign="top">  159
+  </td><td width="45" valign="top">  40
+  </td><td width="45" valign="top">  87
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2002
+  </td><td width="45" valign="top">  66
+  </td><td width="45" valign="top">  462
+  </td><td width="45" valign="top">  54
+  </td><td width="45" valign="top">  2200
+  </td><td width="45" valign="top">  253
+  </td><td width="45" valign="top">  112
+  </td><td width="45" valign="top">  41
+  </td><td width="45" valign="top">  92
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2003
+  </td><td width="45" valign="top">  66
+  </td><td width="45" valign="top">  620
+  </td><td width="45" valign="top">  52
+  </td><td width="45" valign="top">  2200
+  </td><td width="45" valign="top">  267
+  </td><td width="45" valign="top">  150
+  </td><td width="45" valign="top">  45
+  </td><td width="45" valign="top">  86
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2004
+  </td><td width="45" valign="top">  96
+  </td><td width="45" valign="top">  475
+  </td><td width="45" valign="top">  37
+  </td><td width="45" valign="top">  2300
+  </td><td width="45" valign="top">  325
+  </td><td width="45" valign="top">  151
+  </td><td width="45" valign="top">  48
+  </td><td width="45" valign="top">  62
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2005
+  </td><td width="45" valign="top">  66
+  </td><td width="45" valign="top">  624
+  </td><td width="45" valign="top">  51
+  </td><td width="45" valign="top">  2700
+  </td><td width="45" valign="top">  333
+  </td><td width="45" valign="top">  181
+  </td><td width="45" valign="top">  50
+  </td><td width="45" valign="top">  90
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2006
+  </td><td width="45" valign="top">  96
+  </td><td width="45" valign="top">  695
+  </td><td width="45" valign="top">  51
+  </td><td width="45" valign="top">  2900
+  </td><td width="45" valign="top">  420
+  </td><td width="45" valign="top">  138
+  </td><td width="45" valign="top">  48
+  </td><td width="45" valign="top">  80
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2007
+  </td><td width="45" valign="top">  108
+  </td><td width="45" valign="top">  714
+  </td><td width="45" valign="top">  46
+  </td><td width="45" valign="top">  3000
+  </td><td width="45" valign="top">  435
+  </td><td width="45" valign="top">  113
+  </td><td width="45" valign="top">  52
+  </td><td width="45" valign="top">  76
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2008
+  </td><td width="45" valign="top">  172
+  </td><td width="45" valign="top">  873
+  </td><td width="45" valign="top">  51
+  </td><td width="45" valign="top">  3200
+  </td><td width="45" valign="top">  408
+  </td><td width="45" valign="top">  265
+  </td><td width="45" valign="top">  56
+  </td><td width="45" valign="top">  119
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2009
+  </td><td width="45" valign="top">  176
+  </td><td width="45" valign="top">  1043
+  </td><td width="45" valign="top">  59
+  </td><td width="45" valign="top">  3400
+  </td><td width="45" valign="top">  465
+  </td><td width="45" valign="top">  330
+  </td><td width="45" valign="top">  78
+  </td><td width="45" valign="top">  90
+  </td>
+</tr>
+
+<tr>
+<td width="33" valign="top">  2010
+  </td><td width="45" valign="top">  180
+  </td><td width="45" valign="top">  1188
+  </td><td width="45" valign="top">  59
+  </td><td width="45" valign="top">  3600
+  </td><td width="45" valign="top">  465
+  </td><td width="45" valign="top">  340
+  </td><td width="45" valign="top">  65
+  </td><td width="45" valign="top">  103
+  </td>
+</tr>
+
+</table>
+<p>Source: IMF, 
+<a href="http://www.indexmundi.com/agriculture/" target="_self">http://www.indexmundi.com/agriculture/</a></p><p>Rice production in Cameroon, Central Africa, has more than doubled from 2006 to 2010, increasing by 105.3%. Unprecedented levels of milled rice production, combined with the lack of domestic processing capacity, have resulted in rice being exported to neighbouring countries for processing and marketing. In the Democratic Republic of Congo, the leading rice producer in Central Africa, production levels were only slightly higher in 2010 than in the previous eight years at 192,000 tonnes.</p><p><b>Table 7: Milled rice production in selected Central and Southern African countries (’000 tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="52" valign="top">  &nbsp;
+  </td><td width="88" valign="top">  <b>Angola</b>
+  </td><td width="81" valign="top">  <b>Cameroon</b>
+  </td><td width="108" valign="top">  <b>DRC</b>
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  1995
+  </td><td width="88" valign="top">  9
+  </td><td width="81" valign="top">  65
+  </td><td width="108" valign="top">  255
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  1996
+  </td><td width="88" valign="top">  9
+  </td><td width="81" valign="top">  65
+  </td><td width="108" valign="top">  260
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  1997
+  </td><td width="88" valign="top">  12
+  </td><td width="81" valign="top">  22
+  </td><td width="108" valign="top">  193
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  1998
+  </td><td width="88" valign="top">  12
+  </td><td width="81" valign="top">  32
+  </td><td width="108" valign="top">  217
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  1999
+  </td><td width="88" valign="top">  9
+  </td><td width="81" valign="top">  40
+  </td><td width="108" valign="top">  210
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  2000
+  </td><td width="88" valign="top">  9
+  </td><td width="81" valign="top">  48
+  </td><td width="108" valign="top">  204
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  2001
+  </td><td width="88" valign="top">  9
+  </td><td width="81" valign="top">  51
+  </td><td width="108" valign="top">  196
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  2002
+  </td><td width="88" valign="top">  12
+  </td><td width="81" valign="top">  51
+  </td><td width="108" valign="top">  189
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  2003
+  </td><td width="88" valign="top">  10
+  </td><td width="81" valign="top">  30
+  </td><td width="108" valign="top">  189
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  2004
+  </td><td width="88" valign="top">  13
+  </td><td width="81" valign="top">  35
+  </td><td width="108" valign="top">  189
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  2005
+  </td><td width="88" valign="top">  9
+  </td><td width="81" valign="top">  35
+  </td><td width="108" valign="top">  189
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  2006
+  </td><td width="88" valign="top">  9
+  </td><td width="81" valign="top">  38
+  </td><td width="108" valign="top">  189
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  2007
+  </td><td width="88" valign="top">  9
+  </td><td width="81" valign="top">  42
+  </td><td width="108" valign="top">  189
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  2008
+  </td><td width="88" valign="top">  9
+  </td><td width="81" valign="top">  52
+  </td><td width="108" valign="top">  189
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  2009
+  </td><td width="88" valign="top">  6
+  </td><td width="81" valign="top">  74
+  </td><td width="108" valign="top">  189
+  </td>
+</tr>
+
+<tr>
+<td width="52" valign="top">  2010
+  </td><td width="88" valign="top">  6
+  </td><td width="81" valign="top">  78
+  </td><td width="108" valign="top">  192
+  </td>
+</tr>
+
+</table>
+<p>Source: IMF, 
+<a href="http://www.indexmundi.com/agriculture/" target="_self">http://www.indexmundi.com/agriculture/</a></p><p>The situation in Senegal and Cameroon can be seen as indicative of the challenges faced elsewhere in West and Central Africa in terms of the development of rice production. This is not only about expanding the volume of rice produced, but is also about getting to grips with issues of quality, linked to the cleaning, processing and packaging of rice. These can be seen as critical challenges if current policy initiatives to stimulate rice production (using both trade and financial support instruments) are to prove sustainable.</p><p>Similar quality-related challenges in developing the processing, packaging and marketing of rice are faced in the Caribbean. According to private sector operators, while the CARICOM market is being taken increasingly seriously, this requires investment in upgrading processing and packaging facilities. This is seen as the trend for the future, with the industry needing to place ‘a greater focus on continually adding value to the country’s rice exports’. This requires the attainment of higher standards of packaging and labelling. However, according to press reports many agro-processing companies are reluctant to invest in upgrading packaging, despite the earnings losses which poor packaging can generate. This largely relates to concerns over price volatility, arising from both the world market price and exchange-rate movements.</p><a name="eztoc495572_3" id="eztoc495572_3"></a><h2><b>3. Implications for the ACP</b></h2><p><b>3.1 Impact of EU rice sector developments on ACP rice exporters</b></p><p>It is unclear what the impact of EU rice sector developments since 2006 has been on ACP export trade, or what it will be in future. The two ACP rice-exporting countries (Guyana and Suriname) are relatively small suppliers (around 17% of EU imports) and the EU still applies a highly regulated import regime, with duties based on import levels in the preceding period.</p><p>With regard to the impact of EU rice sector reforms and associated trade policy changes on developing countries, the 2009 evaluation broadly found that the margins of tariff preference enjoyed by ACP exporters had declined from €145.3/tonne in 2004 to €60/tonne in 2008. It also noted a reduction in tariff escalation for most favoured nation (MFN) suppliers. It further reported that the position of non-ACP least-developed country (LDC) exporters had improved, but not that of the traditional ACP suppliers. The evaluation noted that MFN rice exporters tended to export higher value rice than ACP rice exporters, with this specialisation being an important feature of the rice trade. Finally, it noted no particular trend towards price improvements for the preferred ACP rice exporters (except during the 2007/08 price spike).</p><p>As a consequence of these developments it is now far less profitable than previously for ACP producers to export rice to the EU market. Between 2001 and 2007, earnings of exported rice per tonne from the main ACP exporters, Guyana and Suriname, decreased by 17.4% and 17.5% respectively.</p><p>This situation has to a certain extent been reflected in Guyana’s rice exports in 2010. While 2010 saw record levels of rice exports (of 320,000 tonnes), exports to the EU market increased by a modest 24% in the first 9 months of the year compared to 2009, with exports to non-CARICOM regional markets (Latin American markets) expanding over four times faster at 112%. This trend continued in the last quarter of 2010 with exports to the EU declining relative to 2009 levels, while exports to Venezuela surged by 347% (albeit from a very low base level, from just over 4,000 tonnes to over 18,000 tonnes). Currently in addition to Venezuela and Mexico, Guyana has significant exports of rice to the CARICOM markets of Jamaica and Trinidad &amp; Tobago, where a 25% tariff advantage is enjoyed over extra-regional rice exporters (notably the USA).</p><p>Overall, CARICOM markets account for around 34% of Guyana’s exports. Currently the markets of the EU and the Overseas Territories of the European Community (OCT) combined account for 54% of Guyanese exports, down from around 80% in 1996. What these trends suggest is that the relative attractiveness of the EU as an export market has changed, with regional CARICOM and Latin American markets offering commercially better export opportunities than the EU market. This more diversified export picture is likely to contribute to greater security of the export trade over time, with the EU simply one of many markets served, depending on relative prices and exchange-rate movements.</p><p>While the rice sector in Guyana has grown to such an extent that it is now the second most important agricultural subsector, this is largely a product of favourable world market prices, and the consequent commercial attractiveness of regional markets. In Suriname, meanwhile, rice production has remained constant at between 120,000 and 124,000 tonnes (compared to the 19% expansion in neighbouring Guyana) since 2006.</p><p><b>&nbsp;</b></p><p><b>3.2 Rice sector development and trade policy</b></p><p>The experience in the EU rice sector highlights the benefits to be gained from establishing a managed trade regime when a sector is undergoing restructuring or rapid development. This enabled the EU to successfully manage the process of change, in the context of both the implementation of reform measures and the expansion of market access for third countries. This could potentially offer important lessons for ACP governments in West Africa, which are currently successfully stimulating an expansion of rice production under favourable market conditions. It raises the question: what complementary trade regimes are required to support efforts to expand production in West Africa, given the increased instability in prices on world rice markets? In this context the types of trade policy tools used by the EU to insulate EU producers from the effects of price declines would appear to warrant serious analysis.</p><p>However, the administrative capacity required to transparently manage such a complex regime as that applied by the EU should not be underestimated. Such complex regimes may be inappropriate in the context of many of the ACP countries that are currently investing in the development of their rice sectors.</p><p>Nevertheless, the need for trade policies to deal with price volatility, which can otherwise undermine the basis for agricultural production during price downturns, needs to be acknowledged and accommodated in the provisions of EPA agreements dealing with the use of a range of trade policy tools which currently allow ACP governments to insulate their producers and consumers from global price instability.</p><p><b>&nbsp;</b></p><p><b>3.3 Countering the impact of price volatility on investment in value addition </b></p><p>Price volatility not only impacts on production levels, but also on the willingness of companies to invest in quality improvements and movement up the rice value chain. This is important, since as the USDA analysis of developments in Senegal’s rice sector points out, quality concerns can limit consumer take-up of locally produced rice. Investing in improving the quality of rice marketed through better cleaning, processing, packaging and labelling is likely to be a critical issue in the battle between domestic and imported rice in West Africa.</p><p>Publicly financed pump-priming support could well be needed to stimulate the necessary investments in quality improvements and value-added processing. However, the question arises as to where such financing could be drawn from. This potentially constitutes an important area for ‘aid for trade’ support, possibly through the establishment of cost-sharing grant schemes, designed to kick-start investment in value-added processing to common, regionally agreed standards.</p><p>Similar challenges are faced in the Caribbean. As Caribbean and Latin American markets increase in importance, so too will improving the quality of rice marketed through better cleaning, processing, packaging and labelling. This will require new investment, which, however, is currently being deterred by price volatility. The highly successful regional Caribbean rum programme potentially offers an important model for how to stimulate movement up the value chain, so as to equip a sector to survive in the face of post-preference market realities.</p><p>Quality issues would also appear to be important in relation to the traditional EU market. The 2009 evaluation of EU rice sector reforms showed that India, Thailand and Pakistan are exporting higher-priced rice than ACP exporters. These exports largely consist of quality-differentiated rice (jasmine, white rice, basmati). Thus Caribbean producers, which are already suffering from the erosion of trade preferences, could follow this example and shift to quality-differentiated rice varieties and other forms of premium-priced rice production (e.g. rice certified as organic or fair-trade).</p><p><b>&nbsp;</b></p><p><b>3.4 Dealing with price and exchange-rate volatility in the Caribbean</b></p><p>While the area under rice in Guyana has increased, production is growing less rapidly, suggesting that important issues of agricultural productivity need to be faced. Providing a framework for farmers that gives greater commercial certainty appears to form a central part of government policy initiatives in the rice sector. (This involves new insurance schemes and better regulation of the functioning of the supply chain so as to ensure prompt payment of farmers for the rice supplied to local milling companies.) Given the growing EU policy focus on supporting the development of farm-level risk management tools as an integral part of the CAP, there would appear to be considerable scope for cooperation in this area, which could perhaps most effectively be developed within the existing dialogue forums established under the CARIFORUM–EU EPA.</p><p>With price premiums on the EU market disappearing, the development of regional markets in the Caribbean and Latin America are likely to take on increased importance in the coming years. This market diversification potentially offers scope for minimising the impact of specific exchange-rate fluctuations. In 2010, the value of the euro against the US dollar fell by 17% between January and July 2010, before regaining 8% of its value by the end of the year. This highlights the importance of developing effective exchange-rate risk management strategies. Equally, the US dollar-denominated world market prices fell by 15% in the first half of 2010 before rising by 20% by the end of 2010, highlighting the importance of developing sophisticated marketing strategies to lock in higher prices and hedge against falling prices.</p><a name="eztoc495572_3_1" id="eztoc495572_3_1"></a><h3><b>Main sources</b></h3><p>1. EC,<i>&nbsp;‘</i>Agricultural commodity markets: Outlook 2010-2019’, July 2010</p><p>
+<a href="http://ec.europa.eu/agriculture/analysis/tradepol/worldmarkets/outlook/2010_2019_en.pdf" target="_self">http://ec.europa.eu/agriculture/analysis/tradepol/worldmarkets/outlook/2...</a></p><p>2. OECD–FAO, ‘Agricultural outlook 2010-2019’, 2010</p><p>
+<a href="http://www.oecd-ilibrary.org/agriculture-and-food/oecd-fao-agricultural-outlook-2010_agr_outlook-2010-en" target="_self">http://www.oecd-ilibrary.org/agriculture-and-food/oecd-fao-agricultural-...</a></p><p>3. FAPRI<i>, ‘</i>FAPRI 2010; US and world agricultural outlook’, FAPRI Staff Report 10-FSR 1, January 2010</p><p>
+<a href="http://www.fapri.iastate.edu/outlook/2010/text/Outlook_2010.pdf" target="_self">http://www.fapri.iastate.edu/outlook/2010/text/Outlook_2010.pdf</a></p><p>4. USDA, ‘USDA agricultural projections to 2019’, OCE-2010-1, February 2010</p><p>
+<a href="http://www.ers.usda.gov/Publications/OCE101/OCE101.pdf" target="_self">http://www.ers.usda.gov/Publications/OCE101/OCE101.pdf</a></p><p>5. COGEA (for the EC), evaluation of the impact of CAP measures in the rice sector, November 2009 (in French)</p><p>
+<a href="http://ec.europa.eu/agriculture/eval/reports/rice/fulltext_fr.pdf" target="_self">http://ec.europa.eu/agriculture/eval/reports/rice/fulltext_fr.pdf</a></p><p>6. EC, ‘The 2010 agricultural year: Agriculture in the European Union Statistical and Economic Information Report 2010’, 2010</p><p>
+<a href="http://ec.europa.eu/agriculture/agrista/2010/table_en/2010enfinal2.pdf" target="_self">http://ec.europa.eu/agriculture/agrista/2010/table_en/2010enfinal2.pdf</a></p><p>7. Copa-Cogeca, ‘Copa-Cogeca urgently calls for solutions to address challenges in pest control in rice sector, warning of big harvest losses’, press release, 3 March 2011</p><p>
+<a href="http://www.copa-cogeca.be/Main.aspx?page=Archive&amp;lang=en" target="_self">http://www.copa-cogeca.be/Main.aspx?page=Archive&amp;lang=en</a></p><p>8. Government of Guyana, commodity market updates</p><p>
+<a href="http://www.agriculture.gov.gy/Commodities%20Update/Commodity%20Market%20Update%20index.html" target="_self">http://www.agriculture.gov.gy/Commodities%20Update/Commodity%20Market%20...</a></p><p>9. EC rice sector webpage</p><p>
+<a href="http://ec.europa.eu/agriculture/markets/rice/index_en.htm" target="_self">http://ec.europa.eu/agriculture/markets/rice/index_en.htm</a></p><p>10. FAO, Media Centre, ‘Global wheat production to increase in 2011’, summary of the March 2011 edition of FAO <i>Crop Prospects and Food Situation report</i>, 23 March 2011</p><p>In English:</p><p>
+<a href="http://www.fao.org/news/story/en/item/53813/icode/" target="_self">http://www.fao.org/news/story/en/item/53813/icode/</a></p><p>In French:</p><p>
+<a href="http://www.fao.org/news/story/fr/item/53813/icode/" target="_self">http://www.fao.org/news/story/fr/item/53813/icode/</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Executive-Brief-Update-2013-Rice-sector">Executive Brief Update 2013: Rice sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Executive-Brief-Update-2012-Product-differentiation">Executive Brief Update 2012: Product differentiation</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Executive-Brief-Update-2012-Rice-sector">Executive Brief Update 2012: Rice sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Executive-Brief-Update-2011-Rice-sector">Executive Brief Update 2011: Rice sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Rice-Trade-Issues-for-the-ACP">Rice: Trade Issues for the ACP</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":127,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

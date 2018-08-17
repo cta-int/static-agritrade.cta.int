@@ -1,0 +1,225 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Further rounds of EU EPA negotiations held with ESA and EAC / EPAs / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																														
+							
+																																																																																,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7813/(search)/simple">EPAs</a>
+							
+																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7815/(search)/simple">ACP - FTAs</a>
+							
+																																																																																																																																																																																																																																																																																																																																																											
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Further rounds of EU EPA negotiations held with ESA and EAC</h1>
+
+			
+			<h4>
+												22 January 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The EC has reported that ‘EU and Eastern and Southern Africa (ESA) negotiators met in Mauritius from 28-30 November 2011 to negotiate outstanding issues in the comprehensive Economic Partnership Agreement (EPA)’. Issues on the agenda included the trade in goods provisions and issues related to sustainable development, trade in services provisions, and trade-related rules. The talks were described in the EC press release as ‘quite constructive’, with the EC believing that it will be possible to conclude the negotiations in 2012.</p><p>Progress was reported on provisions dealing with SPS and TBTs and the sensitive question of the MFN clause. Further discussions were deemed to be necessary on the issues of rules of origin and export taxes. The next round of technical negotiations is scheduled to take place in Brussels in March 2012. Currently, out of the original ESA grouping only four governments have signed or initialled bilateral interim EPAs (Mauritius, Seychelles, Madagascar and Zimbabwe), while the five governments of the countries of the East African Community have initialled a collective interim EPA.</p><p>Two weeks earlier the EC held technical negotiations with EAC representatives in Kampala to ‘discuss economic and development co-operation, agricultural issues and rules of origin’. This followed on from an earlier meeting in Zanzibar in mid September 2011. The EC press statement reported ‘substantial progress’ on development cooperation and agriculture issues, with clarification talks taking place around rules of origin, where further work was held to be necessary. The EC sought to set the discussions against the background of further negotiations to be held in Brussels in December 2011.</p><p>In December 2011, on the fringes of the WTO Ministerial meeting in Geneva, the EU Trade Commissioner Karel De Gucht informed the press that ‘a comprehensive EPA with Uganda, Kenya, Tanzania, Rwanda and Burundi is now within sight’. Ugandan trade negotiators however were reported to be ‘not aware of any deadline on which to conclude a comprehensive EPA with the European Union’, while at the ACP Trade Ministers’ meeting in Brussels in early December, Kenya’s delegation had been critical of the EC’s proposal of 30 September 2011 to amend market access (Regulation 1528/2007). The Kenyan delegation described it as a move which ‘was not in good faith’ and which placed ‘undue pressure on regions to ratify the deals’. ACP ministers called for more flexibility and for negotiations to follow ‘a mutually agreed road map’, in order to avoid ‘sub-optimal outcomes’ for the regions concerned.</p><p>The indications are that at a bilateral level within the ESA region some governments also have concerns about the ongoing EPA process, with the Malawian Trade Minister focusing on the need for an accompanying strategy to address infrastructural, institutional and general capacity constraints on the ability of national producers to effectively exploit EU market access opportunities. This comes on top of a range of issues which, according to press reports, still need to be resolved, including provisions dealing with export subsidies, special agricultural safeguard clauses, the use of export taxes, rules of origin, EPA-related adjustment support and a number of trade related issues.</p><p>Meanwhile, there are press reports that in December 2011 China and the EAC entered into an agreement on trade, economic, investment and technical cooperation. In 2010, Sino-EAC trade stood at nearly US$4 billion, a 39% increase compared to 2009.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EC, ‘ESA and EU negotiators hold EPA talks in Mauritius’, <i>EPA Flash News</i>, 7 December 2011</p><p>
+<a href="http://trade.ec.europa.eu/eutn/psendmessage.htm?tranid=6736" target="_self">http://trade.ec.europa.eu/eutn/psendmessage.htm?tranid=6736</a></p><p>EC, ‘EAC and EU hold EPA experts meeting in Kampala, Uganda’, <i>EPA Flash News</i>, 23 November 2011</p><p>
+<a href="http://trade.ec.europa.eu/eutn/psendmessage.htm?tranid=6725" target="_self">http://trade.ec.europa.eu/eutn/psendmessage.htm?tranid=6725</a></p><p><i>New Vision (</i>Kampala), ‘We expect to conclude EPA soon – EU’, 20 December 2011</p><p>
+<a href="http://www.tralac.org/2011/12/20/we-expect-to-conclude-epa-soon-eu/" target="_self">http://www.tralac.org/2011/12/20/we-expect-to-conclude-epa-soon-eu/</a></p><p>ACP Newsdesk, ‘ACP ministers resist “unilateral deadline” to wrap up EPAs’, 10 December 2011</p><p>
+<a href="http://www.acp.int/content/acp-ministers-resist-unilateral-deadline-wrap-epas" target="_self">http://www.acp.int/content/acp-ministers-resist-unilateral-deadline-wrap...</a></p><p><i>The Daily Times</i>, ‘Malawi among countries given time to consider signing EPAs’, 21 December 2011</p><p>
+<a href="http://www.tralac.org/2011/12/21/malawi-among-countries-given-time-to-consider-signing-epas/" target="_self">http://www.tralac.org/2011/12/21/malawi-among-countries-given-time-to-co...</a></p><p><i>Daily Monitor</i> (Kampala), ‘China, EAC in investment deal’, 5 December 2011</p><p>
+<a href="http://www.tralac.org/2011/12/05/china-eac-in-investment-deal/" target="_self">http://www.tralac.org/2011/12/05/china-eac-in-investment-deal/</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The UN Economic Commission for Africa (UNECA) has called for a rationalisation and harmonisation of the treatment of sensitive products and tariff elimination commitments across EPAs with countries within the same regional economic community, as well as the establishment of coherence between rules of origin across EPAs and with rules of origin applied within regional economic arrangements. This probably poses the most substantive challenge within the COMESA region, given the different tariff elimination commitments and sensitive products contained in the various interim EPAs.</p><p>Agricultural trade and trade in value-added food products is likely to be at the heart of efforts to reconcile both differing sensitive produce designations and inconsistent rules of origin. Particular conflicts could arise around rules of origin issues between land-area-constrained economies such as those in the Indian Ocean, and land-rich regional economies that are actively trying to develop a range of agricultural sectors and associated value chains.</p><p>This would suggest a need for cross-representation of COMESA member state governments at the different negotiating sessions being held with COMESA member states in pursuit of comprehensive EPA arrangements. Given the trilateral FTA negotiations currently under way between COMESA, EAC and SADC, cross-representation may need to be extended still further in order to limit as far as possible contradictory commitments that could give rise to significant conflicts of interest within the Eastern and Southern African region (e.g. in the dairy, sugar, cereals and value-added cereal product sectors). This being noted, major tariff and non-tariff obstacles to the implementation of any T-FTA arrangement exist, suggesting that early implementation is unlikely.&nbsp;</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/Africa-s-tripartite-free-trade-area-set-for-launch-in-June">Africa's tripartite free trade area set for launch in June</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/Tripartite-free-trade-area-in-Africa-to-launch-in-May-AU-official">Tripartite free trade area in Africa to launch in May: AU official</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Approvals-delay-EAC-double-taxation-law">Approvals delay EAC double taxation law</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/AGOA-access-for-Swaziland-and-Madagascar-reviewed">AGOA access for Swaziland and Madagascar reviewed</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/Ethiopia-Uganda-and-DRC-commit-to-COMESA-FTA">Ethiopia, Uganda and DRC commit to COMESA FTA</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":163,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

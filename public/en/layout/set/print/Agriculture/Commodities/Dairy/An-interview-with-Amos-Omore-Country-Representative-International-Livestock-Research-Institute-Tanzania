@@ -1,0 +1,218 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>An interview with Amos Omore Country Representative, International Livestock Research Institute, Tanzania / Dairy / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/interviews.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																														
+																																																																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7797/(search)/simple">Beef</a>
+							
+																																																																																																																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7801/(search)/simple">Dairy</a>
+							
+																																																																																																																																																																																																																																																																																																																																														
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/8254/(search)/simple">Market access</a>
+							
+																			
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>An interview with Amos Omore Country Representative, International Livestock Research Institute, Tanzania</h1>
+
+			
+			<h4>
+												24 March 2016
+										</h4>
+
+						<h2>The state and future of the livestock sector in Tanzania</h2>
+					</header>
+
+
+				<div class="intro">
+
+						<div class="object-right">
+				<img src="/var/agritrade/storage/images/agriculture/commodities/dairy/an-interview-with-amos-omore-country-representative-international-livestock-research-institute-tanzania/4274280-1-eng-GB/An-interview-with-Amos-Omore-Country-Representative-International-Livestock-Research-Institute-Tanzania_article_full.jpg" alt=""/>
+
+			</div>
+						<p><b>Birungi:</b><b>What is ILRI doing in Tanzania in relation to building the capacity of the various value chain actors?</b></p><p><b>Amos:</b> We have been involved in research and development (R&amp;D) in Tanzania since 1997, working on market mechanisms, food safety and livestock policies. We increased our presence in the country by 2012 and finally opened an office in 2013 in order to engage more closely and effectively with stakeholders in addressing a number of challenges to improve poor people’s livelihoods through livestock. The current focus of our R&amp;D is on sustainable intensification of mixed crop-livestock systems through increasing productivity of the smallholder dairy value chains. The current engagement emphasises a value chain approach as opposed to previous engagements before 2012. We are implementing various projects with partners under the CGIAR Livestock and Fish program known as “More milk by and for the poor”, referred to locally as “Maziwa Zaidi”. The ‘by’ and ‘for’ the poor are important because this is about both food and nutrition security. As you will appreciate, livestock is probably the most easily accessible source of important nutrients for improving nutrition. And for a country like Tanzania with a stunting rate as high as 42%, the large livestock population is a very good nutritional source to tap into. Improved productivity of livestock will therefore not only address income and food security but will also address nutritional security.</p><p>As already stated, we aim to do this by focusing on improving the smallholder dairy value chains. Due to low milk availability the focus is around improving access to and use of inputs (e.g. feed, breeding, animal health) and services (e.g. training, credit) to improve productivity and grow the short market linkages in the value chain so that the milk can reach more consumers. The short market linkages mainly involve small scale milk traders who collect only 50 to 100 litres of milk daily and sell to neighbours and local milk outlets. We also engage with the few larger players operating in the value chain such as Tanga Fresh and ASAS Dairies in the Southern highlands of Tanzania to link them to emerging smallholder farmer groups that our partners have established. Our role as research partners is to monitor how they evolve and prove that the smallholders can be targeted successfully and therefore deserve more investments. I should refer you to the recent 2012/13 national survey report released by both FAO and the Tanzania National Bureau of Statistics (NBS) that shows the opportunity gap for improving livelihoods that can be exploited. The report shows that only 20% of rural livestock keepers in Tanzania currently use livestock extension services and those that do earn &nbsp;a net income of US$ 17 per animal (US$ 430 per herd) compared to only US$ 12 ( a net income of US$ 138 per herd) by those who don’t.&nbsp; This shows what can be achieved when producers can access and use livestock extension services.&nbsp; You can triple the annual income per household though interventions that reduce mortality rates and increase use of animal husbandry services. We are piloting interventions such as ‘dairy market hubs’ to achieve this. The ‘hubs’ bring together localised groups of smallholders with common interests in accessing inputs and services to achieve a critical mass of supply. As you will appreciate, when you have producers with small volumes of milk, they need to come together to enjoy economies of scale. &nbsp;</p><p>To achieve our aim of inclusive development of the dairy value chain, we work through partnerships involving a range of national and international stakeholders. &nbsp;A more inclusive, viable, well-coordinated and efficient dairy marketing arrangements will contribute to improved income and livelihoods in rural areas. The focus on inclusivity entails a strong emphasis on gender. By &nbsp;working not only on the input and services side but also on the marketing management side; we aim to balance the ‘pull’ and ‘push’ factors that we think are required to upgrade the smallholder value chains. In addition, whenever you work with a predominantly informal value chain which is the case in Tanzania and most parts of the East Africa Community (EAC) countries milk is often not pasteurised and packaged before sale, therefore addressing milk safety is important. We are addressing milk safety (and the nutrition component of our work) in the same value chains in collaboration with another CGIAR program on Agriculture, Nutrition and Health. &nbsp;We want to ensure that consumers can access quality and safe products at affordable prices whether the milk is sold informally or formally.</p><p>We contribute to capacity building at community and national levels. At community level, we are building dairy market hubs. The markets hubs act as flexible platforms that bring together farmers, with common interests in accessing inputs and services, and solving their problems collectively, and linking themselves with value chain actors and local government to access various services. These engagements extend to work in extensive areas where dairy farming has not taken root. Embracing these areas will help us generate evidence to prove a concept that poor marginalized communities in these areas can be targeted successfully. In the EAC generally, commercial dairy farming has only taken off in highland areas such as central Kenya or around Mount of Kilimanjaro and in the Southern highlands of Tanzania. This need not continue to be the case and is the reason we are testing the concept that commercial dairy farming can also take off in marginalised extensive areas provided they can access the required inputs and services. &nbsp;Our motivation is the many benefits of dairy farming for rural livelihoods, economic development and poverty reduction. For example a study by IFPRI and ASARECA, found that the most promising agricultural commodity for improving incomes in Eastern Africa is milk. The study ranked dairy as having the highest contribution to potential gains to agricultural GDP relative to other crop and livestock commodities. The contribution of dairy farming to rural livelihoods and nutritional security, especially in Kenya, demonstrates this quite well. So we are quite excited to use milk as a commodity of focus to improve the livelihoods of livestock keepers in Tanzania as well.</p><p>In implementing the pilot interventions, we work closely with the Tanzania Dairy Board and Faida Market Linkages, a local NGO. &nbsp;We also work very closely with international development organizations that are based in Tanzania such as HEIFER International and SNV-Netherlands Development Organisation. Research partners involving ILRI and national research partners play the role of monitoring the impact of the interventions being tested at household and community levels besides conducting various experiments and targeted studies to identify solutions for specific constraints.</p><p>The national research partners that are involved in generating evidence are Sokoine University (SUA) and Tanzania Livestock Research Institute (TALIRI). The capacities in the partnership (at individual and institutional levels) are enhanced as we work and learn together as well as through short- and long-term training opportunities for students who contribute to generation of research results.&nbsp;</p><p>We also strengthen capacity at the national level where we set up the Dairy Development Forum (DDF) with a secretariat at the Tanzania Dairy Board which brings together value chain actors and other stakeholders involved in dairy research development in Tanzania to find solutions to common problems that individual organisations or private firms cannot address individually. The Forum also provides a space and opportunity for individual business linkages to take place. Studying how such platforms at national, regional and district various levels evolve and contribute to scaling out of innovations is of major interest in our research.&nbsp;</p><p>That summarises the core of our current and long term research we do to improve smallholder dairy value chains in Tanzania. We look forward to consolidating the evidence on what works well, where and how in our key pilot sites in Morogoro and Tanga and use that to attract public and private investments for a pro-poor transformation of the smallholder dairy value chains.</p><p>Additionally, we are embarking on new R&amp;D projects that reinforce the work we are already doing on sustainable intensification. A three year endeavour starting 2016 will support the development of a platform for more efficient dairy production and upgraded dairy value chains. &nbsp;This platform will support the development and piloting of digital platforms through a farmer-focused public-private partnership for on-farm data recording and timely, actionable cow and herd management feedback to farmers, as well as continuously evaluating, selecting, certifying and promoting the use of appropriate breeding bulls and heifers, thus leading to more efficient dairy production and upgraded dairy value chains. ILRI will also be supporting the Department of Livestock to develop a Livestock Master Plan in 2016. The plan will define pathways where investments for commercialisation would provide the greatest returns for given livestock sub-sectors and thus attract more investments. A newly launched two-year initiative also led by ILRI aims to support the veterinary department, regulators of the delivery of animal health services and the private sector to scale up the delivery of infection and treatment method (ITM), and vaccines for East Coast fever (ECF) through facilitation of the delivery value chain.</p><p><b>Birungi:</b><b>In your view what are the key challenges that you are addressing in the livestock sector?</b></p><p><b>Amos:</b> The key challenges are the lack of the economies of scale in milk marketing because volumes produced by small holder producers are small. Secondly, farmers cannot easily access capital especially those poor often non bankable communities in rural areas. To be more commercial, farmer must have capital to invest in inputs and services. As I said earlier in relation to the recent report by FAO and NBS, the use of improved inputs and services can triple incomes of livestock keepers.</p><p>There is also no mechanism in place to source milk from small scale pre-commercial producers. Previous interventions have not worked well in Tanzania and this is the reason why we are piloting the dairy markets hubs to address the needs of the commercial producers to access and use more inputs and services.&nbsp;</p><p>The other main challenge is shortage of feeds and the strong effects of seasonality in feed availability between the dry and wet seasons. The question is how to work with farmers not only to conserve feeds but also to encourage fodder markets to alleviate the big shortages.</p><p>And a cross cutting area that we are addressing is<b>&nbsp;</b>the threat or marginalization of female value chain actors as the value chain is upgrading. &nbsp;As you may know, this is not unique to the dairy value chain. When agricultural commodities become more commercial, and there is more money being generated, women are normally displaced by men and we want to prevent that because it is only in having equity that we can achieve acceleration in upgrading of the value chain.</p><p><b>Birungi: Are there any policy challenges? </b></p><p>Yes, there are a number of policy challenges and this is part of the reason why we facilitated the formation of the Dairy Development Forum so that it can be a platform for addressing not only the policy challenges but also others interventions that are needed to improve the smallholder dairy value chains in inclusive ways.</p><p>A key policy challenge is also one of mindsets that do not support smallholders. For many countries in the region the predominant thinking is that their economies need to grow and that this cannot be effectively done on the back of smallholder agriculture. Inclusivity in economic growth is often a secondary consideration<b>. </b>Increasingly in both developing and even the developed world the income gap continues to widen. So to us, proving this concept that the poor can be targeted successfully and having more investments (both public and private) directed at upgrading the pre-commercial value chain approaches is an important policy issue that we are addressing. So it is more of a mindset change so that next time there is a major investment, such as a loan coming in the Tanzania government, or may be some philanthropic investment, the investment would not necessarily have to go to areas where traditionally we would have the greatest returns in terms of the amount of money that you get but also to have the greatest return in terms of the poor people that it can impact.</p><p>To address this policy issue, besides the Dairy Development Forum, ILRI co-facilitated a process that culminated in the launching of the Tanzania Livestock Modern Acquisition Initiative on the 20<sup>th</sup> of July 2015. The aim was to raise the profile of livestock and attract investments in the areas mentioned earlier.</p><p><b>Birungi: Lastly on the issue of policy - is pricing a challenge in Tanzania? We found it to be an issue in Kenya and Uganda. </b></p><p>When you talk of pricing of fresh milk, you have to look at both the informal and formal sectors. Pricing is an issue in the formal sector because a number of investors in this sector complain about a number of regulations and licenses that they must obtain and some of these must be renewed annually. These end up being factored into the consumer price. But bear in mind that in Tanzania the formal sector currently accounts for only about 2% or 3% of the milk that is marketed. Most of the milk is marketed informally where consumer prices are lower.&nbsp;</p><p><b>Birungi: What opportunities are there in the Tanzania livestock sector?</b></p><p><b>Amos:</b> Tanzania has the 3<sup>rd</sup> largest livestock population in the African continent, so the potential is quite huge. But it is under exploited mainly because there is low public and private sector investment in the sector. As an example, Githunguri dairy cooperative in Kenya is able to collect and process between 180,000 and 200,000 litres per day from farmers within a radius of 50 km compared to the situation here in Tanzania where the largest processor has capacity of only 60,000 litres daily and utilises less than 60% of the installed capacity depending on the season, with some of the milk collected as far as 400km away. So there is a huge opportunity here for one to invest in getting small scale producers and value chain actors to come together so that they can engage with big processors. It is the same thing you can say about back yard chicken producers. Very few private investors will want to invest in organizing small scale producers. If there could be a public-private partnerships where public funds are spent in organizing small producers so that they are better able to engage with the private sector then the big players &nbsp;would be quite happy to collect the milk, eggs and chickens from small scale producers.</p><p>So a key intervention area is strengthening public - private sector collaboration so that the private sector has got a better enabling environment for them to engage in doing what they do best, with the public sector funding targeting areas such as creation of farmer groups and encouraging collective action. I think supporting growth of small businesses that operate in these areas is the most effective way we can achieve the kind of pro poor transformation of the value chain that the stakeholders here seek.</p><p><b>Birungi: Would that be the same answer you would give in terms of the future prospects of the sector?</b></p><p><b>Amos:</b> Yes, that is exactly what I would say about the future prospects of the sector. It can’t be done by the private sector alone; there must be public sector support for an enabling environment for the private sector to grow. The private sector prefer the urban and peri-urban areas where they can easily&nbsp; make profits, but if you want to have these broad based development, then you need to have public and private sector partners co-operating to spur growth in the more marginalized extensive areas and get pre commercial producers in those areas to become more commercial.</p><p><b>Birungi: You did mention that the formal daily milk sector constitutes only about 2 to 3%, the rest is informal. Have you found this to be attractive to foreign investors? There are a number of European investors coming into the Uganda and Kenya dairy sectors. </b></p><p><b>Amos:</b> It is happening in a different way because people see the potential. For example, we will from 2016 start partnering in a research project with Wageningen University that involves a large dairy company in Europe and a South East Asian company known as Royal Friesland Campina that will use their CSR funds to collaborate in piloting inclusive business models. It could be said that this is in anticipation that when the value chain grows and is upgraded the small producers will be better able to engage with such large European private sector firms. As it is, I don’t see much opportunity of having external players the way you have in Kenya.</p><p>Finally, I need to highlight that we would not be able to engage in the R&amp;D work above without the generous support of a number of development partners including the CGIAR Consortium, International Fund for Agricultural Development, the governments of Australia, Ireland, the United States, United Kingdom, the European Union, the International Development Research Centre and the Bill and Melinda Gates Foundation. &nbsp;</p>
+
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/An-interview-with-Amos-Omore-Country-Representative-International-Livestock-Research-Institute-Tanzania">An interview with Amos Omore Country Representative, International Livestock Research Institute, Tanzania</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":151,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

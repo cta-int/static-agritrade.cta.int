@@ -1,0 +1,210 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Caribbean Common Fisheries Policy: Strengthening ecosystems resilience and supporting livelihoods / Interview: points of view from ACP–EU stakeholders / Topics / Fisheries / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/interviews.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																								
+								<a href="/en/layout/set/print/Publications/(regions)/7770/(search)/simple">Caribbean</a>
+																																																																																																																																																																		
+							
+							
+																																																																																																		,
+							<a href="/en/layout/set/print/Fisheries/(fisheries)/7831/(search)/simple">WTO &amp; international developments</a>
+							
+							
+												
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Caribbean Common Fisheries Policy: Strengthening ecosystems resilience and supporting livelihoods</h1>
+
+			
+			<h4>
+												17 September 2012
+										</h4>
+
+						<h2>An interview with Mr Milton Haughton at the FAO 30th Session of the Committee on Fisheries</h2>
+					</header>
+
+
+				<div class="intro">
+
+						
+<div class="object-left">		
+<div class="embed-image">
+<img border="0" src="/var/agritrade/storage/images/milton_haughton_crfm2/991800-1-eng-GB/Milton_Haughton_CRFM_small.jpg" width="70" height="68"></div></div><p>Mr Milton Haughton is the executive director of the Caribbean Regional Fisheries Mechanism (CRFM). He has been working for CRFM for more than 20 years. The CRFM membership is composed of member states of CARICOM (Caribbean Community).</p>
+
+		</div>
+		
+		
+					<p><b>Q: The Caribbean Community has developed a common fisheries policy. What were the main motivations to develop such a policy?</b></p><p>The process to establish a common fisheries policy (CFP) for the CARICOM region started in 2003, and resulted in the approval of the CFP by fisheries ministers in 2011 – texts are now in the process of being signed by heads of states. The process has been long, and it has been a very participative process.</p><p>To understand our motivations, we first have to consider that some of our resources are highly migratory or shared resources between neighbouring countries and are exploited both by countries of the region and by third countries – these elements call for a regional policy to manage our fisheries.</p><p>We need also to take into account the fact that CARICOM countries have created a single market, including a common trade policy, which governs fish imports and exports.</p><p>I would say that the main goals of the CFP are both to manage our fisheries resources sustainably, taking into account our international commitments towards sustainable fisheries – like the decisions taken at the WSSD (World Summit on Sustainable Development), in 2002, in Johannesburg – and to contribute to the integration of fisheries into the Caribbean single market and economy, with the ultimate aim of improving the well-being of the Caribbean population, particularly those living from fishing.</p><p><b>Q: During the 30<sup>th</sup> FAO Committee on Fisheries meeting, an issue which several regions, including the Caribbean, insisted on, is the need to mitigate the impacts of climate change on fisheries, and the importance of developing regional responses for doing so …</b></p><p>Indeed, climate change is one of the major issues the Caribbean region is facing. Its manifestations – rises in sea levels, coral bleaching, increased hurricane intensity –affect the marine habitats, coastal populations, and fisheries as a whole. Here as well, our CFP has a role to play. By encouraging sustainable management and conservation of ecosystems, it contributes to reinforcing the resilience of these ecosystems to climate change. Moreover, this regional process also helps us to cooperate and address together the impacts of climate change, including on the fisheries sector.</p><p>For example, cooperative actions have been put in place in the event of disasters, like hurricanes: people in coastal areas have been informed what to do and where to go in such eventuality. This cooperation has shown results: nobody in the Caribbean was hurt by hurricane Katrina, unlike what happened in the United States. The reason was that we were well prepared, at regional level, for this disaster.</p><p><b>Q: You mentioned that the development of the CFP has been a participative process. How has the participation of stakeholders been organised?</b></p><p>The fisheries sector employs more than 180,000 people in the CARICOM region. About 99% of them work in the artisanal sector, live in remote rural communities, with very little alternative means for their livelihoods. The fish they catch is the main source of proteins for these communities. For us, it was strategic to ensure that these people participate in the development of the CFP right from the beginning.</p><p>The first thing to empower them was to help them to organise themselves. In 2004, a study, supported by the CTA, identified the strengths and weaknesses of fisherfolk’s existing organisations and their organisational needs, and made recommendations to address those.</p><p>This served as the basis for the setting up of the Caribbean Network of Fisherfolk Organisations (CNFO), a network of fishers’ organisations located in CRFM members. One important difficulty identified in ensuring the participation of these stakeholders in the development of the CFP was the insufficient access to relevant information, and the limited capacity of existing organisations to communicate and develop joint positions at the Caribbean level. The CNFO is helping to address these issues.</p><p><b>Q: Apart from the local fishing sector, there are also distant-water fleets active in the Caribbean region, including from Europe. How do you manage access by these DWFs?</b></p><p>Distant-water fleets are mostly composed of trawlers targeting deep sea species, shrimps, lobsters, originating from Japan, Korea, etc. There are also some Spanish interests in tuna fisheries. These foreign vessels operate mainly under joint ventures. What is noticeable in recent years is the development of inter-regional joint-venture operations.</p><p>We have a positive experience of fishing joint ventures, and we want to encourage them in the future, as they give good results in terms of job creation and investments onshore. Also, they are registered as local companies and pay their taxes, thereby contributing to the whole economy.</p><p>These joint ventures help us supply products to regional but also international markets. The main international market remains the US market, but for high value-species, the EU market is also developing.</p><p>To ensure the sustainability of these operations, stocks assessments are undertaken once a year, with scientists providing recommendations, which are the basis for the fisheries managers to control the number of fishing licences allocated.</p><p><b>Q: An issue often raised regarding how some Caribbean states manage their fleets is the fact that they act as flags of convenience …</b></p><p>CARICOM countries – Belize, St Vincent and the Grenadines, Trinidad &amp; Tobago – have provided flags of convenience to foreign fishing boats to exploit fishing opportunities on the high seas, leading to various difficulties for appropriately monitoring and controlling those fleets. But I must say there have been changes in recent years, and these countries are increasingly seeing the economic advantage of having better control over their flagged vessels.</p><p>On this topic, I would like to underline the positive role played by the EU regulation to combat IUU fishing. CARICOM countries have a great interest in the effects this regulation has on the exports of our fish products to the EU countries, but also to the EU overseas territories in the region – Martinique and Guadeloupe. The traceability requirements for complying with the EU IUU regulation meant that a better monitoring and control of our distantwater fleets activities was necessary.</p><p class=" text-left"><b>Q: The Caribbean was the first region to sign an EPA with the EU in 2008. Has fisheries benefited from this agreement?</b></p><p>Globally, this is a mutually satisfactory agreement, although we are not fully satisfied with the rules of origin, which we feel may need to be revisited. CARIFORUM made a unilateral declaration attached to the signed EPA about the need to consider the origin of fish caught within our EEZ and landed locally. In that sense, I understand the Pacific group position and demand regarding the relaxation of the rules of origin.</p><p>But what is most positive is the financial assistance from the European Development Fund, which will help us to address potential barriers to fish trade, particularly sanitary and phytosanitary (SPS) requirements, and improve our fish exports to the EU.</p><p>The project we now have to improve SPS conditions under the EPA is very important for the region, and will undoubtedly lead to improvements across the board, unlike the previous project, the ACP SPS project, which, I must say, was a complete disaster. It was administered from Brussels, the process for implementation was opaque and confusing, and there was no presence in the regions concerned. Moreover, the whole project was to be implemented at a bilateral level – we proposed a regional plan for the Caribbean, specifying clearly what actions needed to be taken, but the EC didn’t want a regional approach. &nbsp;At the end of the project, there was no benefit for our region. Fortunately, the new SPS project under the EPA will be implemented regionally rather than at bilateral level, and there are also noticeable improvements in the way the project is articulated with existing regional fisheries bodies.</p><p><b>Q: Apart from the EPA framework, do you also have bilateral cooperation with EU member states on fisheries?</b></p><p>Spain is an important partner for cooperation in fisheries. They have recently supported a study to find out the causes of poverty in fishing communities. This study will feed into a regional workshop with all stakeholders to be held in December 2012, which will discuss the zero draft of the FAO guidelines for sustainable small scale fisheries. This whole process will also help identify how our fishing communities will benefit from our common fisheries policy.</p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/Caribbean-Common-Fisheries-Policy-Strengthening-ecosystems-resilience-and-supporting-livelihoods">Caribbean Common Fisheries Policy: Strengthening ecosystems resilience and supporting livelihoods</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":133,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

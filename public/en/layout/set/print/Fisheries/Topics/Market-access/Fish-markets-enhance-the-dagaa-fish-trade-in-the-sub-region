@@ -1,0 +1,226 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Fish markets enhance the dagaa fish trade in the sub region / Market access / Topics / Fisheries / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																																
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																																																																																						,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+							
+							
+																																,
+							<a href="/en/layout/set/print/Fisheries/(fisheries)/7828/(search)/simple">Market access</a>
+							
+							
+																																																																														
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Fish markets enhance the dagaa fish trade in the sub region</h1>
+
+			
+			<h4>
+												19 September 2016
+										</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p>The role of fish markets has been underestimated in many African countries. Not only do these markets provide employment directly to the local population but also generate jobs within the logistics system. These markets also cater for important volumes of transactions in fish and fish products bringing in foreign exchange. Two examples of fish markets are discussed below.</p>
+
+		</div>
+		
+		
+					
+<ul>
+
+<li><b>The Kirumba fish market in Mwanza, Tanzania</b></li>
+
+</ul>
+<p>Constructed in 2005, the Kirumba fish market serves as a central point for Dagaa (small pelagics) trade in the region. The market receives fish and other fishery products from different fish landing sites located in and around Mwanza, Geita, Kagera, and the Mara Regions. Fishers and other processors bring their already processed products at the market and sell to buyers who then deliver them to different markets within and outside the country, namely to Uganda, DRC Congo, Burundi, Rwanda, Kenya, Zambia and Malawi.</p><p>The Kirumba fish market provides employment for some 2,500 people engaged in fish processing, packaging, transportation, fish traders and food vendors depending on the season. SmartFish provided capacity building and equipment to improve data collection and analysis, market and product hygiene and other logistics.</p><p>Immediate impact such as sanitation awareness was noted amongst market users and the public. High volumes of dagaa are traded at the Kirumba fish market, however proper records are lacking. Other challenges such as the installation of a weighbridge, continued sanitation measures, packaging, developing a code of conduct for the transporters etc. have to be tackled in the short term.</p>
+<ul>
+
+<li><b>The Cotebu fish market, Burundi</b></li>
+
+</ul>
+<p>In Burundi the old Cotebu fish market was burnt down in an accidental fire in 2012 and traders faced a hard time for the procurement of fresh fish and also other fish products. The new fish market was reconstructed in Cotebu, however there were no facilities and basic equipment to meet quality standards. It did take a lot of effort to educate the processors and other sellers with regards to fish quality and the need for good conservation practices.</p><p>In 2014, the fish market was upgraded and new ice making machine added for fish conservation. The market was inaugurated in February 2015 and today the market serves the marketing of 80% of the fish production from the lake, providing space for 182 fish sellers and 40 suppliers. It is to be noted that sales of fish from Tanzania and Uganda is also catered for at the new market.</p><p>SmartFish carried out various training courses on basic Hygiene and quality standards. Government contribution was mainly in terms of an existing infrastructure, while the PRODAP
+<a href="file:///F:/STAGE_CTA/Autres/Articles/Fisheries/Finaux/2%20Fisheries%20Digest%20No%202_Final.docx#_ftn1" target="_self">[1]</a> project contributed in the purchase, installation and commissioning of the cold room and ice-making machine. The contribution from the FAO was mainly used for the purchase of materials required for the completion of the construction.</p><p>The project has impacted positively on the local population and other users of the fish market. Notable changes have been noted with regards to the quality of the fish put on sales. Customers are now benefitting for a better quality of fish. There has also been an increase in the daily income of the beneficiaries and resellers, which indirectly leads to a better standard of living for these communities. Old and bad practices for fish sales have been abandoned and new methods for preservation/conservation and sales have been adopted which has directly led to a reduction in post-harvest losses, thus translating in a higher income for the beneficiaries.</p><p>However much remains to be done. There is need to revisit the transportation system and make better use of freezer lorries for transportation and marketing of the fish. The fishing port has been neglected for a long time and would need to be upgraded and better equipped to facilitate fish landings.</p><p>To move further along the value chain, new equipment would be required for value addition. There has been considerable interest from potential promoters for value addition and production of fish sausages, fish fingers, fish balls etc. Much needs to be done to increase benefits along the value chain.</p><p>It is worthy to note that many things can be achieved if there is an active interest in promoting useful projects for the community such as the fish market in this instance</p><p>
+<a href="file:///F:/STAGE_CTA/Autres/Articles/Fisheries/Finaux/2%20Fisheries%20Digest%20No%202_Final.docx#_ftnref1" target="_self"><i><b>[1]</b></i></a><i> </i><i>The Lake Tanganyika Authority coordinates an African Development Bank / Nordic Development fund supported </i><i>project to support the Lake Tanganyika Integrated Regional Development Programme (PRODAP), which</i><i> runs in parallel with the UNDP/GEF Project. The PRODAP focuses on addressing topics of unsustainable fisheries and pollution as well as on overall development activities</i></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/Fish-markets-enhance-the-dagaa-fish-trade-in-the-sub-region">Fish markets enhance the dagaa fish trade in the sub region</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/AAK-assist-the-grass-root-aquaculturist">AAK assist the grass root aquaculturist</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/Africa-moving-towards-innovation-and-product-development-in-the-Fisheries-sector">Africa moving towards innovation and product development in the Fisheries sector.</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/Sea-cucumbers-saving-lives-the-radical-charity-giving-Madagascan-fishing-communities-hope">Sea cucumbers saving lives: the radical charity giving Madagascan fishing communities hope</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/News-from-the-IOC-region/Enhancing-the-supply-chain-of-the-octopus-fishery-in-Mauritius-and-Rodrigues-and-crabs-in-Madagascar">Enhancing the supply chain of the octopus’ fishery in Mauritius and Rodrigues and crabs in Madagascar</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":161,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

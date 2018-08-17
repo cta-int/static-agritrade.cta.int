@@ -1,0 +1,509 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>SADC*: Agricultural trade policy debates and developments / EPAs / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																										
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+							
+																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7813/(search)/simple">EPAs</a>
+							
+																																																																																																																																																																																																																																																																					
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>SADC*: Agricultural trade policy debates and developments</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/12120/496278/file/ddd5408a7c82a8b74b2d25addfb69acb.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+									</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>*</b>This executive brief deals with agricultural trade policy debates and developments involving the seven SADC countries which are members of the SADC–European Union Economic Partnership Agreement configuration, undertaking trade negotiations with the EU.</p><p><b>About this update</b></p><p>This brief was updated in July 2011. The original executive brief was published in October 2008 and is available on request from agritrade-mail@cta.int</p><p>Other publications in this series and additional resources on ACP—EU agriculture and fisheries trade issues can be found online at http://agritrade.cta.int/</p>
+
+		</div>
+		
+		
+					<a name="eztoc496268_1" id="eztoc496268_1"></a><h2><b>1. Introduction and overview </b></h2><p><b>&nbsp;</b></p><p><b>1.1 Agricultural production</b></p><p>Food and agricultural production in the countries of the Southern African Development Community (SADC) EU Economic Partnership Agreement (EPA) configuration is dominated by South Africa. South Africa is the major producer of maize, wheat, sorghum, millet, beef, poultry, dairy, sugar, and horticultural products, and has the potential to grow virtually all its basic foodstuffs and service a highly developed food processing sector. Indeed, while agriculture in South Africa accounts for 4.5% of GDP, agriculture and food processing combined account for 15% of GDP. Agricultural production in fellow SADC configuration countries and policy debates takes place in the shadow of this South African dominance. Neighbouring countries have however found important niches for their own agricultural production.</p><p>In Swaziland, sugar dominates, accounting for 60% of agricultural production, on the basis of sales to Southern African Customs Union (SACU) and EU markets. Cereals production in Swaziland has declined over time until only 40% of domestic requirements are met. Livestock, dairy and horticulture production all take place in the shadow of South Africa and are to varying degrees subjected to regulated trade.</p><p>A similar situation prevails in Botswana, where beef production dominates. Here 90% of commercialised beef production is exported to the EU. Botswana uses a variety of trade tools to regulate imports of maize, wheat, sorghum, pulses, poultry, beef, fresh milk, oranges, watermelons and vegetables, with a view to sustaining some level of local production. This includes the use of infant industry protection provisions. Botswana is however a net importer of staple food commodities.</p><p>Lesotho is in a similar position and through the use of import regulations seeks to maintain some production of maize, wheat, sorghum, beans and peas and higher value crops such as soya beans, potatoes, fruits, sunflowers, asparagus, garlic, paprika and other vegetables.</p><p>This regulation of imports in a context of a significant import dependence is also a characteristic of the Namibian agricultural sector: over half of all cereals consumed in Namibia are imported. Here agricultural trade policy tools are actively used to sustain and promote commercial production of maize, wheat and horticultural products, as well as millet and sorghum. As in Botswana, livestock dominates the Namibian agricultural economy.</p><p>Angola and Mozambique have enormous agricultural potential, which has been suppressed by decades of civil war. Formerly Angola was a major producer of coffee, sisal and bananas, with a potential for self-sufficiency in virtually all areas except wheat. However, currently only around 3% of arable land is under production. Efforts are under way to relaunch agricultural sector development.</p><p>Foreign investment is playing an important role in this process, particularly in the sugar and banana sectors in Mozambique, but also in the dairy sector. This is generating concern over land rights issues. In Mozambique and Angola, as across the whole of the SADC EPA region, agricultural production is divided between large-scale commercial production and small-scale/subsistence farming. This constitutes a major challenge to agriculture and agricultural trade policy development at the national level.</p><p><b>Table 1: Main agricultural commodities produced in SADC EPA configuration countries</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="443" valign="top">  <b>South Africa</b>
+  </td>
+</tr>
+
+<tr>
+<td width="443" valign="top">  Maize, wheat, sugar cane, sunflowers, citrus fruit, deciduous fruit, grapes, potatoes, tomatoes, onions, sweet corn, green mealies, cabbage, cut flowers, ornamental plants, cotton, tobacco, dairy, beef, poultry, pork, game meat, sheep meat, goat meat, wool and fibres
+  </td>
+</tr>
+
+<tr>
+<td width="443" valign="top">  <b>Mozambique</b>
+  </td>
+</tr>
+
+<tr>
+<td width="443" valign="top">  Sugar cane, cotton, cassava, maize, sweet potatoes, sorghum, millet, rice, beans, peanuts, cashew nuts, tea, citrus fruit, tea, tobacco, sunflowers, copra
+  </td>
+</tr>
+
+<tr>
+<td width="443" valign="top">  <b>Botswana</b>
+  </td>
+</tr>
+
+<tr>
+<td width="443" valign="top">  Horticulture, sorghum, millet, beef, maize, beans, poultry meat, milk
+  </td>
+</tr>
+
+<tr>
+<td width="443" valign="top">  <b>Lesotho</b>
+  </td>
+</tr>
+
+<tr>
+<td width="443" valign="top">  Maize, sorghum, wheat, beans, peas
+  </td>
+</tr>
+
+<tr>
+<td width="443" valign="top">  <b>Namibia</b>
+  </td>
+</tr>
+
+<tr>
+<td width="443" valign="top">  Beef, sheep meat, maize, wheat, sorghum, millet, horticulture, milk, wool and pelts
+  </td>
+</tr>
+
+<tr>
+<td width="443" valign="top">  <b>Swaziland</b>
+  </td>
+</tr>
+
+<tr>
+<td width="443" valign="top">  Sugar cane, maize, citrus, cotton, beef, milk
+  </td>
+</tr>
+
+<tr>
+<td width="443" valign="top">  <b>Angola</b>
+  </td>
+</tr>
+
+<tr>
+<td width="443" valign="top">  Maize, millet, cassava, wheat, rice, palm oil, coffee, cotton, beef, poultry, pig meat.
+  </td>
+</tr>
+
+</table>
+<p>Source: WTO</p><p><b>1.2 Agricultural trade</b></p><p>Regional markets are of considerable importance to South Africa’s exports of food and agricultural products (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/Agriculture/Commodities/Cereals/Divergent-trends-within-South-Africa-s-cereals-sector" target="_self">Divergent trends within South Africa’s cereals sector</a>’, May 2011). South Africa is also an important point of entry to the region for imported food and agricultural products. In some sectors the South African market is of considerable importance to SADC EPA configuration producers (e.g. for Swazi sugar and Namibian beef), or is a principal market targeted by new investments (e.g. in Mozambique). Apart from South Africa, only Swaziland is a net agricultural exporter.</p><p>In the last decade in certain major agricultural sectors such as sugar (but also bananas and horticulture), South African companies have concentrated new production investment in neighbouring countries which enjoy preferential access to overseas markets, with trade preferences playing a major role in these investment decisions.</p><p>While within SACU the principle of free movement of goods behind a common external tariff remains, in practice a multiplicity of trade policy tools is used to regulate trade. This needs to be seen in the context of the overwhelming dominance of the South African food and agricultural sector and the existence of a highly concentrated and advanced retail sector.</p><p>At the SADC level (which reaches beyond the membership of the SADC EPA configuration), while the SACU had granted duty-free quota-free access to its neighbours, this access is qualified and restricted by specific transitional arrangements (for sugar), onerous rules of origin (although these are being relaxed) and the strict application of sanitary and phytosanitary (SPS) and food safety standards.</p><p><b>1.3 Situating agricultural trade policy</b></p><p>Agriculture and agricultural trade policy remain a national responsibility. However efforts are under way to coordinate national policies at regional level. This pooling of sovereignty is most advanced within the SACU, which involves five of the seven SADC EPA configuration countries. However the process of regional trade policy formulation takes place at many different levels, including the 15-member Southern African Development Community (SADC), and the 19-member Common Market for Eastern and Southern Africa (COMESA).</p><p>Both SADC and COMESA are setting in place free-trade area (FTA) arrangements, and both have aspirations to establish customs unions. In addition one other SADC member, Tanzania, is already part of a customs union, the East African Community (EAC) Customs Union, which involves four other COMESA member states (Kenya, Uganda, Burundi and Rwanda). Thus, coordinating agricultural trade policy at a regional level is complicated by the multiple membership of governments in these overlapping regional trade bodies. Efforts are under way to harmonise these regional trade arrangements through the establishment of a ‘grand free-trade area’, encompassing the membership of the SACU, EAC, COMESA and SADC.</p><p>Beyond these overlapping regional groupings there is also the New Partnership for Africa’s Development (NEPAD)-based Comprehensive African Agricultural Development Programme (CAADP). The CAADP seeks to increase government expenditures on agriculture to 10% of their total budgets in order to attain annual agricultural sector growth of 6%. The CAADP provides the main framework for the extension of external assistance to agricultural development in Africa. In 2010 Swaziland and Mozambique made commitments under a CAADP compact.</p><a name="eztoc496268_2" id="eztoc496268_2"></a><h2><b>2. Regional agricultural trade policy developments</b></h2><p><b>2.1 Agriculture in the national context</b></p><p>SADC EPA configuration governments have different perspectives on the role of trade policy in national agricultural sector development. While coordination efforts are taking place, these initiatives are still in the early stages of elaboration, apart from in specific technical areas (such as SPS regulations and animal disease control measures). As a consequence their operational impact on national agricultural policy design and implementation is limited.</p><p>This leads to discrepancies between the application of agricultural trade policy tools at the national level and the nominal regional trade policy commitments. Reconciling these anomalies represents a major policy challenge and is a principal focus of ongoing regional trade negotiations.</p><p>The importance of the food and agricultural sector varies considerably across SADC EPA configuration economies. Generally, however, agriculture makes a far greater contribution to employment creation than it does to GDP and merchandise exports. Indeed, livelihood concerns can come to dominate policy formulation.</p><p><b>Table 2: Agricultural profile of full ACP members of the SADC EPA configuration</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="76" valign="top">  &nbsp;
+  </td><td width="67" valign="top">  <b>Botswana</b>
+  </td><td width="60" valign="top">  <b>Lesotho</b>
+  </td><td width="60" valign="top">  <b>Namibia</b>
+  </td><td width="60" valign="top">  <b>Swaziland</b>
+  </td><td width="60" valign="top">  <b>Angola</b>
+  </td><td width="60" valign="top">  <b>Mozam-bique</b>
+  </td>
+</tr>
+
+<tr>
+<td width="76" valign="top">  Agriculture as % of GDP
+  </td><td width="67" valign="top">  2.0
+  </td><td width="60" valign="top">  17.0
+  </td><td width="60" valign="top">  12.0
+  </td><td width="60" valign="top">  11.0
+  </td><td width="60" valign="top">  20.0
+  </td><td width="60" valign="top">  27.0
+  </td>
+</tr>
+
+<tr>
+<td width="76" valign="top">  Agriculture as % of exports
+  </td><td width="67" valign="top">  1.5
+  </td><td width="60" valign="top">  1.2
+  </td><td width="60" valign="top">  13.0
+  </td><td width="60" valign="top">  28.0
+  </td><td width="60" valign="top">  0.01
+  </td><td width="60" valign="top">  12.4
+  </td>
+</tr>
+
+<tr>
+<td width="76" valign="top">  Agriculture as % of imports
+  </td><td width="67" valign="top">  5.4
+  </td><td width="60" valign="top">  6.4
+  </td><td width="60" valign="top">  12.9
+  </td><td width="60" valign="top">  5.9
+  </td><td width="60" valign="top">  27.5
+  </td><td width="60" valign="top">  20.2
+  </td>
+</tr>
+
+<tr>
+<td width="76" valign="top">  &nbsp;
+  </td><td width="67" valign="top">  &nbsp;
+  </td><td width="60" valign="top">  &nbsp;
+  </td><td width="60" valign="top">  &nbsp;
+  </td><td width="60" valign="top">  &nbsp;
+  </td><td width="60" valign="top">  &nbsp;
+  </td><td width="60" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="76" valign="top">  Total value of agricultural exports
+  </td><td width="67" valign="top">  US$52 million
+  </td><td width="60" valign="top">  US$6 million
+  </td><td width="60" valign="top">  US$237 million
+  </td><td width="60" valign="top">  US$269 million
+  </td><td width="60" valign="top">  US$20 million
+  </td><td width="60" valign="top">  US$124 million
+  </td>
+</tr>
+
+<tr>
+<td width="76" valign="top">  Total value of agricultural imports
+  </td><td width="67" valign="top">  US$155 million
+  </td><td width="60" valign="top">  US$65 million
+  </td><td width="60" valign="top">  US$280 million
+  </td><td width="60" valign="top">  US$71 million
+  </td><td width="60" valign="top">  US$983 million
+  </td><td width="60" valign="top">  US$342 million
+  </td>
+</tr>
+
+<tr>
+<td width="76" valign="top">  Net value of agricultural trade
+  </td><td width="67" valign="top">  (US$103 million)
+  </td><td width="60" valign="top">  (US$59 million)
+  </td><td width="60" valign="top">  (US$43 million)
+  </td><td width="60" valign="top">  US$198 million
+  </td><td width="60" valign="top">  (US$981 million)
+  </td><td width="60" valign="top">  (US$218 million)
+  </td>
+</tr>
+
+<tr>
+<td width="76" valign="top">  &nbsp;
+  </td><td width="67" valign="top">  &nbsp;
+  </td><td width="60" valign="top">  &nbsp;
+  </td><td width="60" valign="top">  &nbsp;
+  </td><td width="60" valign="top">  &nbsp;
+  </td><td width="60" valign="top">  &nbsp;
+  </td><td width="60" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="76" valign="top">  Total population
+  </td><td width="67" valign="top">  1.8 million
+  </td><td width="60" valign="top">  2 million
+  </td><td width="60" valign="top">  2 million
+  </td><td width="60" valign="top">  1.1 million
+  </td><td width="60" valign="top">  16.1 million
+  </td><td width="60" valign="top">  20.5 million
+  </td>
+</tr>
+
+<tr>
+<td width="76" valign="top">  Agricultural labour force
+  </td><td width="67" valign="top">  0.78 million
+  </td><td width="60" valign="top">  0.69 million
+  </td><td width="60" valign="top">  0.92 million
+  </td><td width="60" valign="top">  0.34 million
+  </td><td width="60" valign="top">  9.9 million
+  </td><td width="60" valign="top">  14.54 million
+  </td>
+</tr>
+
+<tr>
+<td width="76" valign="top">  Agricultural labour force as % of total population
+  </td><td width="67" valign="top">  43.5
+  </td><td width="60" valign="top">  34.6
+  </td><td width="60" valign="top">  46.1
+  </td><td width="60" valign="top">  31.2
+  </td><td width="60" valign="top">  61.9
+  </td><td width="60" valign="top">  70.9
+  </td>
+</tr>
+
+</table>
+<p>Source: Compiled by the author from FAO <i>C</i><i>ountry Briefs</i></p><p>Note: regarding population figures, there is an inconsistency between national figures and FAO data, with the suggestion being that FAO data may be seeing the agricultural labour force as a residual category (i.e. including rural pensioners).</p><p>Trends in the agricultural sector also vary considerably. In Namibia, the annual rate of growth in the agricultural sector has been increasing over the 2004–08 period (5% growth compared to 0.02% for the 1999–2003 period), with agricultural development programmes beginning to transform the national supply situation in key sectors (such as horticulture). In contrast, in Botswana, according to the WTO Secretariat, despite high levels of public assistance, there has been little improvement in production and domestic food security, with government programmes generally following a welfare &nbsp;rather than business-oriented approach. In Swaziland, despite efforts to promote diversification, the sugar sector continues to dominate. In Mozambique foreign investment is playing a major role in agriculture development (e.g. in sugar and bananas), while in Angola, efforts to promote foreign agricultural investment have proved less successful.</p><p>Nominally government perspectives on agricultural sector development are similar. The governments of Botswana, Lesotho, Swaziland, Mozambique, Namibia and South Africa all place importance on food security as a policy objective, and agriculture is seen as playing a vital role in the social and economic fabric of all these countries. However there is considerable variation in how food security objectives are defined and how governments perceive the future trajectory for agricultural sector development. More importantly from a policy perspective, there is considerable variation in:</p>
+<ul>
+
+<li>the policy tools which governments use to promote agricultural sector development; </li>
+
+<li>the relationship between agricultural policy and industrial policy (this is particularly relevant to the use of infant industry protection measures).</li>
+
+<li>the extent to which each regulates the operation of market forces; </li>
+
+<li>… and ultimately the success being achieved through the deployment of these policy tools.</li>
+
+</ul>
+<p><b>2.2 Agriculture and agricultural trade policy in the SACU</b></p><p>SACU is nominally a single market with free movement of goods and a common external tariff (CET). However Article 18.1 of the SACU Agreement allows exceptions to the principle of free movement of goods related to infant industry protection (Article 26) and special arrangements for agricultural products (Article 29). There are differences in how governments feel the principle of free movement of goods should be applied in the food and agricultural sector.</p><p>The Namibian government favours a managed approach towards ‘a fully liberalised agricultural trade regime’, implying a continued use of quantitative restrictions and licensing for ‘controlled products’ under any coordinated SACU agricultural policy. This pragmatic approach is seen as increasingly relevant given the price volatility on cereals markets (see <i>Agritrade</i> articles ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Cereals/Prospects-for-global-cereals-markets-to-2019" target="_self">Prospects for global cereals markets to 2019’ and ‘Food prices reach 200...</a>’, February 2011).</p><p>Similar systems operate in other SACU countries. In Swaziland dairy markets are regulated using import quota restrictions, while Botswana uses similar measures in both its dairy and poultry sectors. The government of Lesotho similarly favours a case-by-case approach to liberalisation in the agriculture sector. Government statements however do not always reflect these similarities.</p><p>Differences in approach in part reflect the varied financial capacities of governments to use financial support instruments. Given its mineral wealth Botswana makes greater use of financial support instruments. In Lesotho, Namibia and Swaziland, there is substantially less scope for the use of such tools. As a consequence greater use is made of import licensing arrangements and seasonal import restrictions to regulate supply to local markets. These trade tools however are used with varying degrees of sophistication and varying degrees of success. Namibia has successfully used trade tools as part of wider programmes to substantially expand horticultural production for domestic markets.</p><p>Revenue shocks associated with the global economic downturn however have led to a renewed interest in the use of non-financial policy tools to support agricultural development. This trend can also be seen in the EU where a debate on strengthening the functioning of food supply chains has been launched.</p><p>Food and agricultural products enjoy higher average tariff protection than non-food and agricultural products. In recent years average tariff protection has shifted ‘in favour of agricultural products’ (up from 9.6% in 2002 to 10.1% in 2009). A number of food and agricultural products are also subject to mixed duties (both <i>ad valorem</i> and fixed duties), which provide higher levels of effective protection for these products. This reflects efforts to actively use trade policy to support the structural development of the food and agricultural sector within the SACU.</p><p>Certain anomalies in the application of the CET have arisen as a result of the bilateral EU–South Africa Trade Development and Cooperation Agreement (TDCA), with efforts under way to resolve these through the ongoing SADC–EU EPA negotiations.</p><p>Across a number of SADC EPA configuration countries, land rights and land issues remain contentious. Within the SACU these are largely linked to long-standing efforts to promote land reform in post-apartheid South Africa and Namibia. Beyond the SACU the issue of land acquisition by foreign companies is a policy issue of growing significance.</p><p>At the level of regional agricultural policy formulation, Article 39 of the 2002 SACU Agreement calls on member states to ‘agree to co-operate on agricultural policies in order to ensure the co-ordinated development of the agricultural sector’. This falls far short of a commitment to the establishment of a SACU common agricultural policy. However even with these more limited ambitions the WTO Secretariat has noted ‘little progress’ in coordinating and cooperating on agricultural policies, with work ‘still at an early stage’.</p><p>At the aggregate level it needs to be borne in mind that the SACU is a net importer of staple foods, with import dependency steadily increasing. For example, while South Africa was once self-sufficient in wheat, imports now account for approximately 40% of domestic needs. While SACU remains a surplus producer of maize, it is unclear how long this situation will continue.</p><p><b>2.3 Agriculture and agricultural trade policy in the SADC</b></p><p>While functional cooperation in the agricultural sector has been part of the SADC programme since 1980, and efforts to harmonise policy date back to the 1990s, substantive work on establishing the national baseline for the development of a regional agricultural policy began in March 2008. A synthesis report on key agricultural policy issues was drafted and subjected to technical discussions in April 2010. Here the importance of having a formal, legally binding common agricultural policy was agreed. Technical work is now underway to clearly articulate:</p>
+<ul>
+
+<li>the policy visions, goals and principles of such a policy;</li>
+
+<li>the policy interventions to be permitted and the conditions for their use;</li>
+
+<li>the implementation arrangements for the management of the regional agricultural policy.</li>
+
+</ul>
+<p>A regional agricultural policy document is expected to emerge in 2012, with political approval being secured at key ‘milestones’ in parallel with this technical work. This provides background to the regional agricultural policy process against which The intra-regional agricultural trade negotiations need to be seen against this background to the regional agricultural policy process (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/ACP-regional-trade/Moving-forward-SADC-s-regional-agricultural-policy" target="_self">Moving forward SADC’s regional agricultural policy</a>’, July 2011).</p><p>While Mozambique has been part of the SADC Trade Protocol process since 1996, initial problems were faced in implementing tariff reduction commitments. However Mozambique has subsequently honoured in full its tariff phase-down commitments. In contrast, Angola only acceded to the SADC Trade Protocol in March 2003 and has not yet submitted a tariff phase-down schedule to the SADC Secretariat.</p><p>SADC commitments on the elimination of non-tariff barriers to trade are also tempered by a recognition that some existing agricultural trade policy tools can play an important role in attaining wider development policy objectives. Against this background a pragmatic approach has been adopted in the SADC Trade Negotiations Forum.</p><p>Under the SADC Trade Protocol a distinction was made between elimination of non-tariff barriers such as import quotas, customs procedures and export subsidies, where commitments were sought, and such non-tariff measures as local content requirements, levies and other border charges, and import &nbsp;and export licensing arrangements, which were excluded from the process of removal of non-tariff barriers, providing that such measures were minimally trade distorting.</p><p>At the SADC level it is recognised that a careful assessment needs to be made before taking decisions on individual non-tariff measures. In the case of Mozambique these general SADC-level trade policy commitments need to be reconciled with an agricultural trade policy which:</p><p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; maintains high average tariffs on basic food products (12% for agricultural products compared to an average of 10.1%);</p><p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; maintains very high levels of tariff protection for certain products in order to promote investment (e.g. sugar);</p><p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; establishes minimum prices for sugar, cashew nuts, tobacco and cotton (while allowing the free play of market forces in other products);</p><p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; uses export licences to promote national ownership of export activities in the cashew nut export sector;</p><p>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; uses single channel marketing arrangements for both the domestic distribution and export of certain agricultural commodities (e.g. sugar).</p><p>In the case of Angola, while the government has been undertaking considerable liberalisation in recent years, there are still some peak tariffs for food and agricultural products, while special import regimes are in place for certain products, including import bans and import licensing arrangements. With bound rates of 55% for most agricultural tariff lines, considerable scope exists for increasing applied tariffs in Angola. In addition the government of Angola continues to maintain a number of state enterprises in the food and agricultural sector, although since 2005 these have been subject to a degree of privatisation. Overall, Angola is only beginning to offer trade preferences to its SADC partners, with most favoured nation (MFN) duties largely still being applied.</p><p><b>2.4 Recent developments at the SADC, COMESA and wider levels</b></p><p>The SADC has had an ambitious agenda for trade and economic integration, involving the establishment of a FTA by 2008, a Customs Union by 2010, a common market by 2015, a monetary union by 2016 and a single currency by 2018. However, the approach to tariff harmonisation proposed would have required significant changes to the SACU common external tariff. As a consequence, at the 30<sup>th</sup> anniversary celebrations of the formation of the SADC, the launch of a SADC customs union was postponed, due to the extensive work still required to harmonise policies, regulatory frameworks and standards.</p><p>The regional agricultural trade situation is further complicated by Swaziland’s membership of the COMESA process. Initial plans for a COMESA customs union by 2008 were postponed following a commitment in 2008 by the heads of state to the establishment of a ‘grand FTA’. As a consequence of this wider development, only a minority of COMESA members signed up to membership of the COMESA customs union launched in Victoria Falls in June 2009. At the official opening of the 29<sup>th</sup> meeting of the COMESA Council of Ministers in December 2010, the beginning of 2012 was established as the new date for the establishment of a COMESA CET.</p><p>Moving over to a common external tariff in food and agricultural products is likely to prove particularly problematic, given the differing levels of protection of individual food and agricultural products across COMESA member states and the extensive use made by some COMESA members of special dispensations. These range from the exceptions granted to Kenya to maintain tariff protection for sugar until February 2012, and the blanket exceptions granted to Swaziland not to implement tariff reductions, given its membership of the SACU.</p><p>Against this background, it is unclear to what extent the focus of wider regional trade integration efforts is shifting towards a pragmatic application of existing free-trade area commitments, rather than the deepening of the trade integration process (via the creation of customs unions). The establishment of a multiplicity of bilateral ‘simplified trade regime initiatives’ designed to address practical obstacles in the way of bilateral trade is indicative of a more pragmatic approach.</p><p>The proposed tripartite FTA (T-FTA) offers no easy solutions to these problems. Analysts have pointed out that if the new regional trade deal is to deliver real benefits, it will have to address a range of non-tariff barriers to trade, particularly in the agricultural sector. Yet SACU governments favour a pragmatic approach which recognises the role that certain trade policy tools can play in stimulating national agricultural development in the context of the market realities faced in the Southern and Eastern African region. SACU ministers have insisted that the T-FTA process has to be member state driven, with texts prepared by the regional secretariats being seen as inputs to the process, but not as the starting point for negotiations. This means a substantial process of negotiations will be needed if the T-FTA process is to progress. In addition, if the T-FTA process is to be member state driven, then it is essential that clear and coherent domestic agricultural and agro-industrial policies are in place at the national level. These can then be harmonised at the regional level. In the absence of clear national policies, obstacles to expanding regional agricultural trade are likely to remain in place despite the nominal trade liberalisation commitments made (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Topics/EPAs/SADC-EU-EPA-negotiations-on-hold-as-grand-FTA-challenges-become-apparent" target="_self">SADC–EU EPA negotiations on hold as “grand FTA” challenges become apparent</a>’, July 2011).</p><a name="eztoc496268_3" id="eztoc496268_3"></a><h2><b>3. Wider trade negotiations and developments</b></h2><p><b>3.1 The EPA negotiations</b></p><p>While EPA tariff issues are largely addressed under the TDCA, ‘Everything But Arms’ initiative (EBA) and the EU’s (interim) EPA – (I)EPA – commitments, there remain a number of agriculture-related issues outstanding in the EPA negotiations. The first relates to the possible loss of duty-free access to the EU market (which was most severely felt by Namibia), if eligibility for duty-free access under the EU’s December 2007 transitional regulation were to be withdrawn. During 2010 the danger of withdrawal of duty-free access receded, with a renewed focus on the substantive issues to be addressed. This lifted the shadow that had been hanging over the Namibian beef sector.</p><p>The second outstanding issue relates to the right to continue to use a variety of traditional trade policy tools (import licences, infant industry protection, export licences and export taxes). There is a variety of provisions in the interim EPA which are inconsistent with the current agricultural trade practice within the SACU, with a number of governments seeking the removal or modification of these provisions prior to signature. In 2010, support within the SADC EPA group was consolidated around these issues behind the consensus reached with the EU in Swakopmund in March 2009.</p><p>The third issue relates to improvements in South Africa’s access to EU food and agricultural markets. By the time the TDCA is fully implemented in 2012, South Africa will retain protection on just 108 agricultural product lines, while the EU will enjoy protection on 615 lines. Correcting this imbalance has been a consistent objective of the South African government, with improved market access for wine, sugar and canned fruit being sought. There is a new optimism that an agreement can be reached.</p><p>The fourth issue relates to closer cooperation around SPS issues. Analysis suggests that the full potential of an EPA agreement in this area is not being exploited. A call for the establishment of special technical committees ‘to deal with TBT and SPS barriers to trade’, backed up by ‘specific development cooperation commitments and mechanisms for their implementation’ has been made (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/content/view/full/5246" target="_self">Review of the treatment of NTB issues under (I)EPAs posted</a>’, October 2010). The relevance of such arrangements, if operationally effective, is highlighted by the recent discovery of banned veterinary medicine residues in Namibian cattle slaughtered for consumption in the EU (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../en/layout/set/print/Agriculture/Commodities/Beef/Need-for-intensified-dialogue-of-evolving-food-safety-policy-highlighted" target="_self">Need for intensified dialogue on evolving food safety policy highlighted</a>’, Month 2011). Intensifying collaboration on SPS compliance could potentially help reduce both the additional costs of SPS compliance and the threat of trade disruptions. Close cooperation on traceability schemes already appears to have resulted in considerable progress in the area of trade disruptions.</p><p><b>3.2 Other trade negotiations</b></p><p>Despite having a CET, SACU member states maintain a range of bilateral trade deals. For BLNS countries (the grouping of Botswana, Lesotho, Namibia and Swaziland), this largely involves regional partners and non-reciprocal trade agreements with OECD countries. While there is a logical need to rationalise these bilateral deals, the considerable administrative effort required to reconcile inconsistencies means that unless sectors are particularly sensitive, or major trade volumes are involved (e.g. with the EU), then a pragmatic approach is adopted. Individual governments are also involved in various cooperation agreements that do not involve any tariff commitments.</p><p>The SACU has concluded, or is negotiating, a range of preferential trade agreements, most notably the SACU–Mercosur, SACU–India and SACU–China trade arrangements. These agreements are not as ambitious as FTA agreements, as they involve tariff reductions rather than tariff elimination, and have a more limited product coverage, allowing the exclusion of a wider range of sensitive products.</p><p>The SACU has made extensive tariff elimination commitments in the context of the SADC Trade Protocol and associated SADC FTA. This however involves special treatment for sensitive products (mainly sugar and sugar-containing products), where liberalisation will not take place until 2012, and also involves application of strict rules of origin to prevent the routing of cheap third-country products to SACU markets via SADC countries.</p><p>Beyond the SADC region, in addition to the ongoing EPA negotiations, the SACU has concluded an FTA agreement with the European Free Trade Association (EFTA) and was engaged in FTA negotiations with the EAC and the US, but these have been respectively placed on hold (in the light of the grand FTA discussions in the region) and downgraded to a more narrowly defined Trade and Investment Cooperation Agreement. Negotiations are also ongoing with India.</p><p><b>Table 3: The network of bilateral trade agreements in SACU</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="59" valign="top">  &nbsp;
+  </td><td width="215" valign="top">  <b>Agreements concluded</b>
+  </td><td width="84" valign="top">  <b>Cooperation agreements under negotiation</b>
+  </td><td width="84" valign="top">  <b>Cooperation agreements under consideration</b>
+  </td>
+</tr>
+
+<tr>
+<td width="59" valign="top">  South Africa
+  </td><td width="215" valign="top">  <p>EU; Malawi; Zimbabwe;</p><p>Croatia; Mozambique (unilaterally extended)</p>
+  </td><td width="84" valign="top">  Mauritius; Kuwait; UAE
+  </td><td width="84" valign="top">  <p>Kenya; Nigeria;</p><p>South Korea; China; India; Singapore</p>
+  </td>
+</tr>
+
+<tr>
+<td width="59" valign="top">  Botswana
+  </td><td width="215" valign="top">  <p>Malawi; Zimbabwe; Angola; Zambia; India;</p><p>EU (non-reciprocal); USA</p><p>(non-reciprocal)</p>
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="59" valign="top">  Lesotho
+  </td><td width="215" valign="top">  Mozambique; EU (non-reciprocal); USA (non-reciprocal)
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="59" valign="top">  Namibia
+  </td><td width="215" valign="top">  <p>Zimbabwe; Angola; DRC;</p><p>EU (non-reciprocal); USA</p><p>(non-reciprocal)</p>
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="59" valign="top">  Swaziland
+  </td><td width="215" valign="top">  <p>Tanzania; Malawi; Zambia; Mozambique;</p><p>Zimbabwe; COMESA</p><p>(non-reciprocal); EU (non-reciprocal); USA</p><p>(non-reciprocal)</p>
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  &nbsp;
+  </td>
+</tr>
+
+</table>
+<p>&nbsp;Source: TRALAC</p><a name="eztoc496268_4" id="eztoc496268_4"></a><h2><b>4. Current agricultural trade policy debates and issues</b></h2><p><b>4.1 Establishing a consensus on agricultural policy</b></p><p>In the SACU and wider SADC EPA configuration, there are divergent views on regional agriculture and agricultural trade policy issues. Some implicitly argue for a gradual pragmatic approach, with common policies being allowed to emerge from the process of coordination and cooperation. Others argue for the development of regional policies that should take precedence over national policies.</p><p>Those who favour giving primacy to regional policies take the view that non-tariff barriers to trade should simply be swept away. Those who favour a gradual approach believe that seasonal quantitative restrictions on ‘controlled products’ designated sensitive, and the use of import licences in other ‘controlled product’ sectors, are an essential part of national food security policy and agricultural development policy, and should therefore be tolerated within regional integration processes.</p><p>It is acknowledged that any changes to the approach to non-tariff barriers to trade (notably seasonal restrictions and import licences) would be likely to lead to very different production and employment patterns to those currently prevailing in the sectors subjected to such measures. Given this reality, any consensus on regional agriculture and agricultural trade policy needs to be built from the bottom up. If the depth and quality of the dialogue between member state ministries and agricultural sector stakeholders can be improved, and if effective networks of communication among national governments, stakeholders and regional bodies can be set in place, then member states may be more willing to allocate a coordinating role to regional institutions. Such a coordinating role could ultimately give rise to a common regional agricultural policy.</p><p>Without effective mechanisms for building regional policy on the basis of national realities, governments will continue to be reluctant to pool sovereignty, with regional policy formulation remaining firmly subordinated to diverse national policy making processes.</p><p><b>4.2 The future role of trade policy and financial support instruments</b></p><p>A critical debate revolves around the future use of financial support instruments, as opposed to trade policy tools. Debates on the use of trade policy tools cannot be divorced from South Africa’s economic dominance. This is why the right to use trade policy tools is enshrined in the SACU Agreement and accommodated in the SADC Trade Protocol process.</p><p>In addition, debates on the use of trade policy tools are commonly merged with the wider debate on the elimination of non-policy-related barriers to trade (e.g. inadequate transport, storage and preservation infrastructure, unofficial taxes and levies, inefficient customs procedures and differing product standards). While the elimination of non-policy-related barriers to trade needs to be accorded priority, since this is often a difficult task, attention can shift to the removal of policy-based obstacles to trade. In the SACU this is compounded by the virtual elimination of non-policy-related barriers, with the focus therefore inevitably falling on the use of trade policy tools.</p><p>These debates need to be clearly differentiated and addressed separately, taking into account wider regional realities. Given the recognition of the continued relevance of certain trade policy tools, the major issue would appear to be ensuring full transparency in the application of these trade policy tools, and full assessments of their economic costs and benefits.</p><p>Attempts are under way in the region to explore more coordinated approaches to the use of agricultural trade policy tools, in order to minimise disruptions of intra-regional trade. This includes an exploration of possible policy measures to improve the functioning of markets in view of the considerable concentration of economic power within supply chains, which undermines the functioning of free markets.</p><p>Proposals for the establishment of regional financing facilities to support agricultural development are also being developed. By addressing some of the underlying problems of competitiveness and unequal development in the southern African region, this could reduce the need to use certain agricultural trade policy tools. However, since these discussions in the SACU are linked to the future SACU revenue-sharing arrangement, early progress is not anticipated.</p><p>This provides essential background to EPA-related discussions on the removal of quantitative restrictions on trade, the dismantling of infant industry protection regimes, and the future of agricultural safeguard provisions.</p><p><b>4.3 The future basis of regional trade integration</b></p><p>The essential dichotomy in the region is between those who wish to focus on effectively making existing commitments operational in a pragmatic fashion, based on the current primacy of national policy making processes, and those who wish to push ahead with commitments to deepen economic cooperation and integration. This division can be found at both the SACU and SADC levels.</p><p>The ‘pragmatists’ seek to deploy the region’s human and institutional resources on consolidating existing arrangements and addressing fundamental structural constraints. The ‘regionalists’, in contrast, argue that by abandoning existing commitments to the creation of a SADC customs union, then momentum will be lost and regional integration will become mired in day-to-day disputes. In this context it should be noted that regional policy analysts have argued that ‘most of the economic gains from lower tariffs and improved trade facilitation do not depend on the creation of a customs union and could be gained from a thorough implementation of the current Trade Protocol and upcoming Free-Trade Area’.</p><p>Following the 2007/08 food crisis the ‘pragmatist’ approach appears to be gaining ground at both the SACU and SADC levels. However to avoid becoming mired in day-to-day disputes it is essential that stakeholders can be routinely and transparently incorporated into national and regional policy formulation processes. This will require considerable investment in building policies from the bottom up.</p><p><b>4.4 SPS issues</b></p><p>SPS-related issues are dealt with under Article 16 of the SADC Trade Protocol, and Articles 30 and 18 of the 2002 SACU Treaty. Generally trade in the SADC region proceeds smoothly, largely unimpeded by SPS disputes. Where there have been outbreaks of disease, or even suspicions of pending outbreaks, borders have been closed, but only until the issue has been resolved – although there have been instances where a lack of collaboration has led to extensive application of SPS-related trade restrictions (e.g. concerns over fruit fly infestation resulted in bans on Namibian watermelons for three years on SPS grounds). There is therefore a need to strengthen collaboration on SPS issues, both bilaterally and through regional bodies. However, this will require human resource constraints to be addressed across the region (for example, in Namibia 60% of posts for technical staff in the governmental veterinary department remain unfilled). It will also require increased investment in technical infrastructure (e.g. accredited laboratories and scientific research bodies).</p><p>There is a recognised need to strengthen interaction with private sector stakeholders in the policy formulation process. The absence of effective engagement with producers’ associations and private sector bodies can complicate problems in enforcing SPS standards, particularly for production serving local markets.</p><p>There have been efforts to assist SADC governments in engaging with the activities of international standards setting bodies. However participation on a regional level has not been coordinated, despite a commitment to adopting a collective approach, in order to meaningfully influence international standards. Finally, there is a vital need to harmonise the various national legislation in the region with relevant international standards, in order to improve access to more favourably priced markets.</p><p><b>4.5 Rules of Origin issues</b></p><p>While the SADC Rules of Origin (RoO) were originally designed on the basis of an across-the-board percentage value and a ‘Change in Tariff Heading’ (CTH) requirement, which largely mirrored the COMESA and EAC rules, these were never fully implemented. A product-specific approach was adopted in the amended SADC Trade Protocol. This uses a line-by-line approach for RoO.</p><p>Goods must either be wholly produced in a SADC member state to be considered a local product and qualify for preferences or, where imported materials are used, must be transformed mostly based on a technical test. Many goods are also subject to CTH requirements, and for some products a percentage-based rule is used, mostly by setting a maximum threshold for imported materials. In many cases two or three tests are used jointly, for example the CTH test in combination with a maximum threshold for imported material.</p><p>For a number of products, no SADC preference exists and thus no RoO (e.g. wheat flour and certain wheat flour products). The negotiations on wheat RoOs have been continuing for years, with no resolution. Since the region is a net importer of wheat, most members are proposing to have ‘Single Stage Transformation’ (i.e. the wheat can be sourced anywhere but processed in the member state into flour). SACU does not have its own rules, but is now in a process of finalising a Common Rules Certificate.</p><a name="eztoc496268_4_1" id="eztoc496268_4_1"></a><h3>Main sources</h3><p>1. WTO, ‘Trade policy review: Botswana, Lesotho, Namibia South Africa and Swaziland’, November 2009</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp322_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp322_e.htm</a></p><p>2. WTO, ‘Trade policy review: Mozambique’, April 2009</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp309_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp309_e.htm</a></p><p>3. WTO, ‘Trade policy review: Angola’, February 2006</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp259_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp259_e.htm</a></p><p>4. TRALAC/Konrad Adenauer Stiftung, ‘An assessment of the Trade, Development and Cooperation Agreement (TDCA)’, Chapter 5: ‘Monitoring regional integration in southern Africa: yearbook 2010’, 2011</p><p>
+<a href="http://www.givengain.com/cause_data/images/1694/FINAL_MRI_book_20110706cover.pdf" target="_self">http://www.givengain.com/cause_data/images/1694/FINAL_MRI_book_20110706c...</a></p><p>5. USDA, ‘South Africa: Grain and feed annual report’, GAIN Report, 11 February 2011</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Grain%20and%20Feed%20Annual_Pretoria_South%20Africa%20-%20Republic%20of_2-11-2011.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Grain%20and%20Feed...</a></p><p>6. Trade and Industrial Policy Strategies, ‘Implementation of the SADC Trade Protocol and the intra-SADC Trade Performance’ Southern African Development Research Network, April 2008</p><p>
+<a href="http://www.tips.org.za/publication/implementation-sadc-trade-protocol-and-intra-sadc-trade-performance" target="_self">http://www.tips.org.za/publication/implementation-sadc-trade-protocol-an...</a></p><p>7. TRALAC, ‘Regional integration in SACU’s agricultural sector’, Nick Vink and Ron Sandrey, ‘Monitoring regional integration in southern Africa: yearbook vol. 9’, 2009</p><p>
+<a href="http://www.givengain.com/cause_data/images/1694/FINAL_MRI_2009_20100701.pdf" target="_self">http://www.givengain.com/cause_data/images/1694/FINAL_MRI_2009_20100701.pdf</a></p><p>8. TRALAC, point of access for SADC–EAC–COMESA Tripartite Free Trade Area legal texts (drafts), January 2011</p><p>
+<a href="http://www.tralac.org/cgi-bin/giga.cgi?cmd=cause_dir_news_item&amp;cause_id=1694&amp;news_id=97849&amp;cat_id=1036" target="_self">http://www.tralac.org/cgi-bin/giga.cgi?cmd=cause_dir_news_item&amp;cause...</a></p><p>9. TRALAC, point of access for SADC legal texts</p><p>
+<a href="http://www.tralac.org/cgi-bin/giga.cgi?cmd=cause_dir_news_item&amp;news_id=45318&amp;cause_id=1694" target="_self">http://www.tralac.org/cgi-bin/giga.cgi?cmd=cause_dir_news_item&amp;news_...</a></p><p>10. TRALAC, point of access for SACU legal texts</p><p>
+<a href="http://www.tralac.org/cgi-bin/giga.cgi?cmd=cause_dir_news_item&amp;news_id=45392&amp;cause_id=1694" target="_self">http://www.tralac.org/cgi-bin/giga.cgi?cmd=cause_dir_news_item&amp;news_...</a></p><p>11. SADC, ‘Regional agricultural policy: country summary agricultural policy review reports’, January 2011</p><p>
+<a href="http://www.sadc.int/fanr/docs/rap/RAP%20Combined%20Summary%20Country%20Reports%20-%208%20May%202011.pdf" target="_self">http://www.sadc.int/fanr/docs/rap/RAP%20Combined%20Summary%20Country%20R...</a></p><p>12. SADC, ‘Regional agricultural policy: synthesis report of key agricultural policy issues and policy directions’, March 2011</p><p>
+<a href="http://www.sadc.int/fanr/docs/rap/RAP%20Synthesis%20Report%20-%20For%20Publication%202%20March%202011.pdf" target="_self">http://www.sadc.int/fanr/docs/rap/RAP%20Synthesis%20Report%20-%20For%20P...</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/ESA-Agricultural-trade-policy-debates-and-developments">ESA*: Agricultural trade policy debates and developments</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/SADC-Agricultural-trade-policy-debates-and-developments">SADC*: Agricultural trade policy debates and developments</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/EPA-negotiation-issues-between-ESA-and-the-EU">EPA negotiation issues between ESA and the EU</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/EPA-negotiation-issues-between-SADC-and-the-EU">EPA negotiation issues between SADC and the EU </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":150,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

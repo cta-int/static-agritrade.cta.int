@@ -1,0 +1,247 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>The EU’s transatlantic trade agreements – possible implications for ACP exporters    / EU FTAs / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																										
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																			,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																																																																																																																																																																	
+							
+																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7814/(search)/simple">EU FTAs</a>
+							
+																																																																																																																																																																																																																																															
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>The EU’s transatlantic trade agreements – possible implications for ACP exporters   </h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/281171/3389702/file/b6998af182adcb26e134aec8516cd946.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+												28 September 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc3389669_0_1" id="eztoc3389669_0_1"></a><h3>Introduction</h3><p>2013 saw important developments in the EU’s transatlantic trade relations, with the launch of the EU–US Transatlantic Trade and Investment Partnership (TTIP) negotiations and the conclusion of an EU–Canada trade agreement. The launch of the TTIP negotiations was described by the President of the European Commission as “a game-changer”, since it would create “the largest free trade zone in the world”.<sup>
+<a href="file:///F:/0000%20special%20reports%202014/Reformatted%20Jul14/SR2014%20TTIP%20September%20finalised%20for%20publication%20and%20posting.doc#Source1" target="_self">1</a></sup></p><p>Since existing tariffs on mutual trade are relatively low (except for certain agricultural products), “up to 80% of the gains from any future EU–US trade deal”, such as the TTIP, will come from the process of regulatory harmonisation.<sup>
+<a href="file:///F:/0000%20special%20reports%202014/Reformatted%20Jul14/SR2014%20TTIP%20September%20finalised%20for%20publication%20and%20posting.doc#Source2" target="_self">2</a></sup> Currently, the additional cost of regulatory differences is “equivalent to a tariff of more than 10% and even 20% for some sectors” (compared to around 4% for “classic tariffs”).</p><p>It is recognised that any process of harmonisation of EU–US standards would carry implications for the global system of rule-making on product standards.<sup>
+<a href="file:///F:/0000%20special%20reports%202014/Reformatted%20Jul14/SR2014%20TTIP%20September%20finalised%20for%20publication%20and%20posting.doc#Source3" target="_self">3</a></sup> However, it is unclear how far the process of regulatory harmonisation will go. At present, the emphasis is being placed on ensuring that future regulations are developed on a harmonised basis. This has led some analysts to conclude that the ambitions for regulatory harmonisation under the TTIP are “quite modest”, given the sensitivity of the issue on both sides of the Atlantic.<sup>
+<a href="file:///F:/0000%20special%20reports%202014/Reformatted%20Jul14/SR2014%20TTIP%20September%20finalised%20for%20publication%20and%20posting.doc#Source4" target="_self">4</a></sup>&nbsp;</p><a name="eztoc3389669_0_2" id="eztoc3389669_0_2"></a><h3>Implications</h3><a name="eztoc3389669_0_3" id="eztoc3389669_0_3"></a><h3>Tariff measures</h3><p>Analysis to date suggests that EU–US tariff liberalisation will have minimal direct effects on ACP exports, since there is little overlap in export products, given the structure of US–EU trade. Tariff reductions may carry a threat for specific exports from individual ACP countries (e.g. Malawian tobacco exports), but more detailed country- and product-specific analysis (at the six-digit tariff code level, i.e. looking at specific products, and not just categories of products) is required to identify specific ACP country/product combinations which could be adversely affected.</p><p>As part of the TTIP confidence-building process, in August 2013 the EC announced a 2-year extension of duty-free access for 45,000 tonnes of “high-quality US beef from non-hormone-treated cattle”.<sup>
+<a href="file:///F:/0000%20special%20reports%202014/Reformatted%20Jul14/SR2014%20TTIP%20September%20finalised%20for%20publication%20and%20posting.doc#Source5" target="_self">5</a></sup> Similarly, the EU–Canada agreement established a duty-free quota of 50,000 tonnes for beef (70% fresh and chilled beef and 30% frozen beef), and the immediate waiving of the 20% duty charged on Canadian beef exports under the current multi-supplier, high-quality beef quota.</p><p>This improved access for transatlantic suppliers of high-quality beef is likely to increase competition in a market component increasingly targeted by ACP exporters such as Namibia (and potentially Botswana), which have increasingly sought to target markets for high-quality, value-added cuts in response to the erosion of the value of traditional ACP beef sector trade preferences.</p><p>This is illustrative of some of the specific direct effects that may be felt in particular ACP country/product export combinations.</p><a name="eztoc3389669_0_4" id="eztoc3389669_0_4"></a><h3>Regulatory harmonisation</h3><p>In terms of regulatory harmonisation, analysis published in November 2013 by the European Centre for Development Policy Management identified 12 low-income developing countries where 10 of their top 20 exports are potentially subject to changes in sanitary and phytosanitary (SPS) regulatory regimes.<sup>
+<a href="file:///F:/0000%20special%20reports%202014/Reformatted%20Jul14/SR2014%20TTIP%20September%20finalised%20for%20publication%20and%20posting.doc#Source6" target="_self">6</a></sup> Of these 12, 11 are ACP member states. These countries could be adversely affected if stricter SPS standards were applied as a result of regulatory harmonisation. However, the extent to which individual ACP countries could be affected will be determined by their existing and emerging compliance capacities.</p><p>In a report prepared by the Centre for the Analysis of Regional Integration at Sussex for the UK Department of International Development, the authors observe that “countries that struggle to comply with the SPS requirements of either the EU or US might face enhanced competitive pressure from EU/US suppliers as a result of the TTIP, thus acting to further erode their trade.”<sup>
+<a href="file:///F:/0000%20special%20reports%202014/Reformatted%20Jul14/SR2014%20TTIP%20September%20finalised%20for%20publication%20and%20posting.doc#Source4" target="_self">4</a></sup> Similarly, in a <i>Trade Hot Topics </i>report published by the Commonwealth Secretariat, some countries “might well find it difficult to face any additional obstacles which result from the TTIP”.<sup>
+<a href="file:///F:/0000%20special%20reports%202014/Reformatted%20Jul14/SR2014%20TTIP%20September%20finalised%20for%20publication%20and%20posting.doc#Source7" target="_self">7</a></sup> This being noted, regulatory harmonisation could also result in cost savings for exporters able to serve both EU and US markets. This critically depends on <b>how the process of regulatory harmonisation takes place, and the extent to which it is open to third country suppliers</b>.</p><p>According to the Canadian government, the recently concluded Canada–EU trade agreement includes provisions which make SPS provisions “subject to dispute settlement”. These provisions were described as the “most efficient and innovative process for state-to-state dispute settlement of any of Canada’s free trade agreements”. Under the agreement, a Sanitary and Phytosanitary Measures Joint Management Committee of experts has been established “to discuss issues before they become problems, as well as facilitate discussions to resolve issues impeding trade”.<sup>
+<a href="file:///F:/0000%20special%20reports%202014/Reformatted%20Jul14/SR2014%20TTIP%20September%20finalised%20for%20publication%20and%20posting.doc#Source8" target="_self">8</a></sup></p><p>While the provisions of the Canada–EU agreement exclude measures “necessary to protect human, animal, or plant life or health” from the dispute settlement arrangements, it is unclear how broadly the exclusion provision will be applied. These types of provision could offer better opportunities for ACP governments to get to grips with agri-food sector non-tariff measures, which are increasingly having an impact on ACP exports to the EU.</p><a name="eztoc3389669_0_5" id="eztoc3389669_0_5"></a><h3>Potential areas for ACP action</h3><p>In terms of responding to the possible effects of the new and proposed transatlantic agreements, eight areas for ACP action can be identified:</p>
+<ul>
+
+<li>Initiating detailed analysis of the possible impact of tariff elimination on individual ACP country/product exports and regulatory harmonisation in sensitive agri-food sectors;</li>
+
+<li>lobbying for the exclusion from liberalisation of those export products that face high most-favoured nation (MFN) tariffs where ACP countries have an export interest;</li>
+
+<li>seeking compensation for any preference erosion that might occur; </li>
+
+<li>initiating dialogue on what steps can be taken within the design and application of harmonised regulatory measures in order to ameliorate any adverse effects on ACP exporters; </li>
+
+<li>establishing effective consultative mechanisms to ensure that the cost-increasing effects of the application of SPS and food safety measures are minimised;</li>
+
+<li>ensuring that assistance programmes are established to assist ACP exporters in adjusting to any regulatory changes introduced as part of that transatlantic trade agreements;</li>
+
+<li>ensuring that “best practices” on dispute settlement of SPS matters are extended to ACP–EU trade relations;</li>
+
+<li>ensuring that mutual recognition agreements are open to third countries meeting either EU or US rules (for example, regarding mutual recognition of organic standards).</li>
+
+</ul>
+<a name="eztoc3389669_0_6" id="eztoc3389669_0_6"></a><h3>Sources</h3><p>1. European Commission (EC), ‘Speech: Statement by President Barroso on the Transatlantic Trade and Investment Partnership’, SPEECH/13/121, 13 February 2013</p><p>
+<a href="http://europa.eu/rapid/press-release_SPEECH-13-121_en.htm " target="_self">http://europa.eu/rapid/press-release_SPEECH-13-121_en.htm</a></p><p>2. EC, ‘EU Chief negotiator says EU-US trade deal not about deregulation, as third round of talks end in Washington’, 20 December 2013</p><p>
+<a href="http://europa.eu/rapid/press-release_IP-13-1306_en.htm " target="_self">http://europa.eu/rapid/press-release_IP-13-1306_en.htm</a></p><p>3. EC/DG for Trade, ‘European Union and United States to launch negotiations for a Transatlantic Trade and Investment Partnership’, press release, 13 February 2013</p><p>
+<a href="http://trade.ec.europa.eu/doclib/press/index.cfm?id=869" target="_self">http://trade.ec.europa.eu/doclib/press/index.cfm?id=869</a></p><p>4. Centre for the Analysis of Regional Integration at Sussex, Sussex University, for the UK Department for International Development, ‘Potential effects of the proposed Transatlantic Trade and Investment Partnership on selected developing countries’, by J. Rollo&nbsp;<i>et al</i>., July 2013</p><p>
+<a href="http://tradesift.com/Reports/Potential%20Effects%20of%20the%20Proposed%20Transatlantic%20Trade%20and%20Investment%20Partnership%20on%20Selected%20Developing%20Countries_DFID_Final%20Report_July2013.pdf" target="_self">http://tradesift.com/Reports/Potential%20Effects%20of%20the%20Proposed%2...</a></p><p>5<i>. Euractiv.com</i>, ‘EU extends deal on beef imports from US’, 2 August 2013</p><p>
+<a href="http://www.euractiv.com/cap/eu-extends-deal-beef-imports-us-news-529704" target="_self">http://www.euractiv.com/cap/eu-extends-deal-beef-imports-us-news-529704</a></p><p>6. CTA&nbsp;<i>Agritrade</i>, ‘Initial review of impact of EU–US trade partnership on selected developing countries’, 20 January 2014</p><p>
+<a href="http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/Initial-review-of-impact-of-EU-US-trade-partnership-on-selected-developing-countries" target="_self">http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/Initial-review-of...</a></p><p>7. Commonwealth Secretariat, cited in CTA&nbsp;<i>Agritrade</i>, ‘EU–US talks reportedly on track’, 24 February 2014</p><p>
+<a href="http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/EU-US-trade-talks-reportedly-on-track" target="_self">http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/EU-US-trade-talks...</a></p><p>8. Canadian Broadcasting Corporation, ‘EU-Canada (summary, 2013)’, 29 October 2013</p><p>
+<a href="http://www.cbc.ca/news/politics/summary-of-canada-eu-free-trade-deal-tabled-1.2286695" target="_self">http://www.cbc.ca/news/politics/summary-of-canada-eu-free-trade-deal-tab...</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/EU-FTAs/The-EU-s-transatlantic-trade-agreements-possible-implications-for-ACP-exporters">The EU’s transatlantic trade agreements – possible implications for ACP exporters   </a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/Regional-perspectives-on-changing-EU-ACP-sugar-sector-relations-The-impact-of-duty-free-quota-free-access-on-ACP-exporters">Regional perspectives on changing EU-ACP sugar sector relations: The impact of duty-free, quota-free access on ACP exporters</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/Emerging-EU-policy-on-the-functioning-of-food-supply-chains-Implications-for-the-ACP">Emerging EU policy on the functioning of food supply chains: Implications for the ACP</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Special-reports/Corporate-restructuring-in-the-EU-sugar-sector-Implications-for-the-ACP">Corporate restructuring in the EU sugar sector: Implications for the ACP</a></p>
+						<p><a href="/en/layout/set/print/Resources/Agritrade-documents/Key-policy-issues/No.-4-ACP-EU-sugar-sector-issues">No. 4: ACP-EU sugar-sector issues</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":167,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

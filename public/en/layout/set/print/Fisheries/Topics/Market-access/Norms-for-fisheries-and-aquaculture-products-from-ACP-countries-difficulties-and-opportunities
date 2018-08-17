@@ -1,0 +1,213 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Norms for fisheries and aquaculture products from ACP countries: difficulties and opportunities / Market access / Topics / Fisheries / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/interviews.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+							
+							
+																																													,
+							<a href="/en/layout/set/print/Fisheries/(fisheries)/7828/(search)/simple">Market access</a>
+							
+							
+																																		,
+							<a href="/en/layout/set/print/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																																																															
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Norms for fisheries and aquaculture products from ACP countries: difficulties and opportunities</h1>
+
+			
+			<h4>
+												28 April 2009
+										</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc155239_0_1" id="eztoc155239_0_1"></a><h3>Interview with Eric Rotsaert, sectoral and technical expert of the planning department in CDE (Centre for the Development of Enterprise)</h3><p><b>ACP producers and exporters who want to export to Europe are confronted by an increasingly complex set of norms, put in place either by public authorities or private groups. What are the main difficulties that this poses to the ACP producers and exporters?</b></p><p>The first norms that must be respected by ACP producers are the sanitary norms, then the norms for traceability and, finally, and increasingly, a set of norms aiming at the sustainable management of resources and for improving social aspects.</p><p>In the case of sanitary norms, nowadays, enterprises are facing two important problems: that of investment and having to depend on a public authority which is often not very apt at putting in place an equivalent control system to the EU system. </p><p>Concerning investment, money must be advanced, so it’s necessary to have some capital to start with. People also need easy access to adequate equipment that enables them to comply with norms, and this is not easy in many ACP countries.</p><p>What the EU is asking for through sanitary norms, is for a system to be put in place in the ACP exporting countries equivalent to the EU system, for products destined for its market. But this supposes that the public authority responsible for exports has at its disposal a complete set of legislative and control measures.</p><p>In many cases, the ACP country simply doesn’t have the capacity (either financial or technical), or simply the will to put all of this in place. Often, there is greater willingness and capacity to comply with sanitary norms in the private sector. This is easy enough to explain: for them, it’s a question of survival, which is not the case for the functionaries or authorities representatives. </p><p>But beyond that, the requirements of European sanitary services generate two further constraints in ACP countries: first is the tendency to consider only the issue of protecting European consumers and, secondly is the demand for a clear separation between he control authorities and the private sector, to avoid conflicts of interest.</p><p>Therefore, in many ACP countries, there is a paradox between, on the one side, a willing industry, having a good knowledge of the regulations and mechanisms to be put in place and, on the other side, sanitary authorities lacking technical competence, less concerned and without the necessary budget to do their control work. </p><p>In as much as the industry wants to survive, it is looking for a range of solutions to compensate for the authorities’ shortcomings. These solutions are perfectly appropriate to the context, but are not always acceptable from the point of view of the European sanitary authorities. One of the most sensitive subjects is the financing of tests and of inspectors. In reality, it is the private sector that is obliged to finance, one way or another, both tests and inspectors’ visits. Without this, the country would simply lose its sanitary approval for exports and the sector would be ruined.</p><p>On the other side, the local sanitary authorities sometimes encounter significant difficulties in understanding the systemic and technical demands coming from the EC. It’s rather difficult, for these local ACP authorities as well as for other intermediaries (consultants, specialised agencies, projects) to get direct advice from the European sanitary services.</p><p><b>What can be done to improve the situation?</b></p><p>At the level of the EC, if greater account were taken of developmental aspects this could help to identify more workable solutions at the level of sanitary services. This could be achieved by putting in place a professional advisory service, which would take due consideration of ACP demands and complaints, thereby triggering a constant adjustment of the rules by SANCO. This would also help SANCO to recognise the difficult context of developing countries, and to accept the relationship that exists between the local sanitary authorities and the private sector as regards managing sanitary issues.</p><p>Alternatives should also be explored for financing the process of establishing and assuring compliance with the requirements. For example, through setting up a fund, to which the private sector would contribute, and which would be managed jointly and transparently by the private sector and the authorities to guarantee the good use of the funds. It is important to associate the authorities with such initiatives and it would help them to acknowledge and recognise the value of the system put in place, whilst ensuring its neutrality – the system shouldn’t unfairly advantage some.</p><p>Given the scale of investment required, there is also a need for more attention to be given to the potential of networking between competent authorities, and to regionalise sanitary control operations, laboratories, etc. This would provide a good solution particularly for costly operations, for example like the tests to detect the presence of heavy metals. This, of course, must be accompanied by improved traceability in order to allow for the movement of fish products to be monitored in a given region. But then ACP countries should enter more into the game of regionalisation rather than, as is often the case, wanting to maintain at all costs expensive operations in their own countries.</p><p>In this context, EPAs could provide an interesting tool for developing joint management of these matters, and genuine partnership amongst ACP countries in the same region. EPAs could also help to improve the commercialisation at national and regional level, where necessary investments are more limited.</p><p><b>Would the imposition of increasingly strict and complex norms by the EU have an influence on seafood trade flows?</b></p><p>Yes, there will probably be some displacement of trade flows to less strict countries such as some Asian countries, and also to regional ACP markets, which are becoming more attractive in a context of diminishing resources. </p><p>But one needs also to consider that some norms can force ACP producers to be creative in improving the quality of their products. Take for example the issue of the ‘carbon footprint’, where compliance should reduce greenhouse-gas production and help fight against climate change, whilst there may be associated costs to the system, but there may also be associated savings, and finally, better benefits thanks to the reduction of energy costs and the image given to the product. </p><p>For example, we are working with aquaculture farms in Malawi, Uganda and Zimbabwe where 65% of their product’s cost comes from the costs of fish feed. Fish feed (vegetal pellets) are factory produced, where significant quantities of energy are necessary to prepare the components of these pellets.</p><p>Thanks to some joint thinking, solutions have been found where everyone gains: it helps the fight against deforestation, it improves the environmental management of the production chain - particularly through the decrease of greenhouse gases, and the costs of the final product are also reduced. This all goes to show that, when we want to know what the associated costs of complying with norms are, it’s always important to look at the production chain in its entirety. It’s also important to value the work done and turn it into a selling point.</p><p><b>Many ACP producers are small scale, particularly in the catching sector. How will they be able to adapt to these new norms?</b></p><p>Some small-scale producers, particularly when they work in isolation, will not be able to adapt, and for them, it’s important to develop alternatives, both in terms of markets but also in terms of new income-generating activities. </p><p>For example, we are working with the fisheries sector in Lake Victoria where, given the state of overexploitation of some resources, in particular Nile perch, if we want to encourage sustainable fishing, there needs to be a reduction in fishing pressure, which will require finding alternative employment for some people. We have developed some thinking on sustainable Nile-perch exploitation, encouraging selective line fishing, and through developing the linked activity of producing bait for this fishery, which is creating jobs.</p><p>Taking this example, if we want to promote sustainable fishing, we must also look at what is happening in the regional markets. Currently undersized Nile perch, which can no longer be exported to European markets, is traded in the countries of the sub-region. This market for juvenile fish, estimated to be worth US$100 million, threatens the fishery’s future, but, on the other hand, the trade of these juveniles generates many jobs and plays a role in the supply of protein in the regional market. It is a difficult problem to solve, and to pass a law banning it, without promoting alternatives, would not achieve a great deal. The approach we prefer, is to look at the market dynamics and to try and develop alternative employment and other sources of protein for the regional markets (exploitation of catfish, valorisation of small pelagics, aquaculture, etc).</p><p>I also want to emphasise the fact that, for these small producers, a better way to survive and to improve their capacity to comply with the requirements of the norms, is to get organised, with the support of the buyers, and to take a more global approach to the key issues of the chain: sanitary and traceability issues, issues of resources management, use of ice, motorisation, use of fuel.</p><p>Then, at the level of artisanal fishing, I think that the people most appropriate to help fishermen understand what the norms’ requirements are, are the commercial intermediaries, those who spend time with the fishermen and who can explain to them what the markets want. If these stakeholders, fishermen, fishmongers, processors, etc, can get together and formalise such groupings, as is being done around Lake Victoria, then they can put in place collective structures, such as cold stores, and they can also make their voices heard more clearly by the authorities.</p><p><b>Do support programmes exist today to facilitate this process of organisation and capacity building?</b></p><p>Yes, there are support programmes but, very often, there is a problem of approach with these programmes, which is due to the fact that they do not take account of the production chain in its entirety. Funding agencies only want to work with the poorest and with the local authorities. This creates a rupture in the chain, and the buyers/processors who are not involved in this tend to create parallel chains of custody. Therefore, once the funding agencies go away, everything crumbles.</p><p>From our side, we also offer support, by, for example, gathering around the same table the European buyers and the ACP producers. Often they already know each other but they only discuss trivialities, such as delivery dates; they do not put their heads together to think jointly about the long-term issues facing the future of the sector, and how to address, each in their own context, issues such as norms, labels, etc.</p><p>What we are doing is to put these people together in a structured way, to discuss issues that motivate them and which have implications for the future of their activities. The next step is to convince institutions that these stakeholders have interesting positions on sustainable fisheries management and valorisation of resources, and that they have an active role to play.</p><p><b>Eco labels are also increasingly present as tool to promote sustainable fishing. What are the issues at this level for ACP producers?</b></p><p>For the European market, what is important, above all else, is to guarantee the quality of the product, next to avoid overfishing, and finally to ensure correct social conditions of production.</p><p>Concerning eco-labels, the first thing I want to say is that it’s high time that some order was established. There are a series of them, put in place by non-governmental bodies and by supermarkets - and the consumer as well as the producer risk losing their way.</p><p>Also, it is important to measure the real impact of eco-labels because, for example, in fisheries where there are multiple users, some may adopt responsible behaviour, and try to make this known through eco-labels. But it’s possible that other users in the same fishery will not behave so responsibly. Finally, you can get to a situation where resources are over-exploited because the users don’t all behave with the same level of responsibility vis-à-vis resource exploitation. What is most important, in my view, is to bring all the enterprises active in a fishery together to discuss the common issue of fishery sustainability.</p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/An-interview-with-Fernando-Frutuoso-de-Melo-Director-General-for-Development-Cooperation-at-the-European-Commission">An interview with Fernando Frutuoso de Melo, Director-General for Development Cooperation at the European Commission</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/EU-regional-fisheries-strategies-should-focus-on-supporting-harmonisation-and-specialisation">EU regional fisheries strategies should focus on supporting harmonisation and specialisation</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/Parliamentary-debate-is-essential-for-sustainable-fisheries">Parliamentary debate is essential for sustainable fisheries</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/ACP-EU-relations-FPAs/ACP-fish-producers-need-to-tap-into-EU-eating-out-and-traditional-markets">ACP fish producers need to tap into EU ‘eating out’ and traditional markets  </a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/ACP-EU-relations-FPAs/Prospects-and-challenges-for-west-African-seafood-trade">Prospects and challenges for west African seafood trade</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":135,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

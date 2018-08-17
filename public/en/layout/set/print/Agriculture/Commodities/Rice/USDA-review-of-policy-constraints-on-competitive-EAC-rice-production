@@ -1,0 +1,315 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>USDA review of policy constraints on competitive EAC rice production / Rice / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																														
+																																																																																																																																																																																																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7805/(search)/simple">Rice</a>
+							
+																																																																																																																																	
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>USDA review of policy constraints on competitive EAC rice production</h1>
+
+			
+			<h4>
+												09 July 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>According to the USDA, the EAC’s 75% ad valorem tariff on rice imports in place since 2005 has ‘established the framework for a “false” rice economy within the EAC’. It is held that current EAC rice sector tariffs discriminate against the poor, preventing access for consumers to cheap imported rice and ensuring benefits primarily to intermediary traders. Within the EAC arrangement, Kenya enjoys a reduced duty import quota of 35% for 300,000 tonnes.</p><p>The USDA analysis maintains that the rice sector tariff policy has failed to promote domestic rice production sufficient to meet growing regional demand, and that intermediaries within the rice supply chain gain considerable benefits and account for the large gap between farm-gate and wholesale prices.</p><p>However the detailed data compiled in the USDA report show that EAC rice farmers are ‘increasing area harvested in response to historically high domestic rice prices’. Between 2009 and 2013, the area under rice is projected to increase by 56%, rough production by 17.4%, and milled production by 17.6%. Rice self-sufficiency in the four EAC countries reviewed is set to rise over the same period from 71.3% to 75.5%.</p><p>The largest EAC rice producer is Tanzania, with around 80% of total production, although this share is set to decline, primarily in the face of yield improvements and an expansion of the area under rice in Uganda and declining yields in Tanzania.</p><p>Kenyan growers are reportedly producing ‘a high-yielding and non-aromatic variety for the Ugandan market, as well as for the “mixed” rice (lower quality) market in Kenya’.</p><p>The USDA reports analysis from the Tegemeo Institute of Agriculture Policy and Development (part of Nairobi-based Egerton University) which considers that rice farmers in Kenya have an incentive to produce rice only if the 75% ad valorem tariff is maintained, in view of their cost structure arising from ‘inefficiencies along the rice value chain’ and the poor state of road infrastructure, both of which undermine competitiveness. The USDA speculates that Kenyan producers are unlikely to be able to meet national requirements, given ‘the lack of rice producer market power’.</p><p>In Tanzania, USDA reports that producers may be near to meeting national requirements at current levels of consumption, but expects that as rice producers approach national self-sufficiency, ‘retailers will begin to pressure middlemen for lower prices and middlemen will pressure farmers for lower farm-gate prices, even while attempting to augment sales opportunities in “export” markets’.&nbsp;</p><p>USDA notes that Tanzania has the potential to supply the EAC rice market (based on the Tanzanian area and the attainment of Rwandan yields), but expects Tanzanian rice production to stabilise at around the level national demand, particularly given the periodic use of export bans by the government of Tanzania on food security grounds. This is seen to be holding back the development of intra-regional trade in rice, despite the quality advantages that Tanzanian rice enjoys over Kenyan rice and encouraging ‘discreet’ trade.</p><p>The government of Rwanda is reported to be predicting national self-sufficiency in rice by 2015/17. This is based on the implementation of a range of rice growing projects supported by the World Bank.</p><p><b>EAC rice production 2009–2013</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="130" valign="top">  &nbsp;
+  </td><td width="75" valign="top">  2009
+  </td><td width="102" valign="top">  2010
+  </td><td width="102" valign="top">  2011
+  </td><td width="102" valign="top">  2012
+  </td><td width="102" valign="top">  2013
+  </td>
+</tr>
+
+<tr>
+<td colspan="6" width="614" valign="top">  <b>Area harvested (’000 hectares)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="130" valign="top">  <p>Kenya</p><p>Tanzania</p><p>Uganda</p><p>Rwanda</p><p>Total</p>
+  </td><td width="75" valign="top">  <p class=" text-right">20</p><p class=" text-right">905</p><p class=" text-right">128</p><p class=" text-right">20</p><p class=" text-right">1,073</p>
+  </td><td width="102" valign="top">  <p class=" text-right">29</p><p class=" text-right">1,142</p><p class=" text-right">138</p><p class=" text-right">15</p><p class=" text-right">1,324</p>
+  </td><td width="102" valign="top">  <p class=" text-right">24</p><p class=" text-right">1,461</p><p class=" text-right">140</p><p class=" text-right">15</p><p class=" text-right">1,640</p>
+  </td><td width="102" valign="top">  <p class=" text-right">30</p><p class=" text-right">1,470</p><p class=" text-right">140</p><p class=" text-right">16</p><p class=" text-right">1,656</p>
+  </td><td width="102" valign="top">  <p class=" text-right">32</p><p class=" text-right">1,480</p><p class=" text-right">145</p><p class=" text-right">17</p><p class=" text-right">1,674</p>
+  </td>
+</tr>
+
+<tr>
+<td colspan="6" width="614" valign="top">  <b>Rough production (’000 tonnes)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="130" valign="top">  <p>Kenya</p><p>Tanzania</p><p>Uganda</p><p>Rwanda</p><p>Total</p>
+  </td><td width="75" valign="top">  <p class=" text-right">55</p><p class=" text-right">1,334</p><p class=" text-right">178</p><p class=" text-right">103</p><p class=" text-right">1,670</p>
+  </td><td width="102" valign="top">  <p class=" text-right">110</p><p class=" text-right">1,105</p><p class=" text-right">206</p><p class=" text-right">81</p><p class=" text-right">1,502</p>
+  </td><td width="102" valign="top">  <p class=" text-right">97</p><p class=" text-right">1,119</p><p class=" text-right">218</p><p class=" text-right">81</p><p class=" text-right">1,515</p>
+  </td><td width="102" valign="top">  <p class=" text-right">120</p><p class=" text-right">1,500</p><p class=" text-right">233</p><p class=" text-right">85</p><p class=" text-right">1,938</p>
+  </td><td width="102" valign="top">  <p class=" text-right">125</p><p class=" text-right">1,500</p><p class=" text-right">240</p><p class=" text-right">95</p><p class=" text-right">1,960</p>
+  </td>
+</tr>
+
+<tr>
+<td colspan="6" width="614" valign="top">  <b>Milled production (’000 tonnes)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="130" valign="top">  <p>Kenya</p><p>Tanzania</p><p>Uganda</p><p>Rwanda</p><p>Total</p>
+  </td><td width="75" valign="top">  <p class=" text-right">36</p><p class=" text-right">880</p><p class=" text-right">116</p><p class=" text-right">67</p><p class=" text-right">1,099</p>
+  </td><td width="102" valign="top">  <p class=" text-right">73</p><p class=" text-right">729</p><p class=" text-right">134</p><p class=" text-right">53</p><p class=" text-right">989</p>
+  </td><td width="102" valign="top">  <p class=" text-right">64</p><p class=" text-right">739</p><p class=" text-right">142</p><p class=" text-right">53</p><p class=" text-right">998</p>
+  </td><td width="102" valign="top">  <p class=" text-right">79</p><p class=" text-right">990</p><p class=" text-right">151</p><p class=" text-right">55</p><p class=" text-right">1,275</p>
+  </td><td width="102" valign="top">  <p class=" text-right">83</p><p class=" text-right">990</p><p class=" text-right">158</p><p class=" text-right">62</p><p class=" text-right">1,293</p>
+  </td>
+</tr>
+
+<tr>
+<td colspan="6" width="614" valign="top">  <b>Consumption (’000 tonnes)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="130" valign="top">  <p>Kenya</p><p>Tanzania</p><p>Uganda</p><p>Rwanda</p><p>Total</p>
+  </td><td width="75" valign="top">  <p class=" text-right">323</p><p class=" text-right">980</p><p class=" text-right">166</p><p class=" text-right">72</p><p class=" text-right">1,541</p>
+  </td><td width="102" valign="top">  <p class=" text-right">336</p><p class=" text-right">879</p><p class=" text-right">179</p><p class=" text-right">73</p><p class=" text-right">1,467</p>
+  </td><td width="102" valign="top">  <p class=" text-right">368</p><p class=" text-right">889</p><p class=" text-right">177</p><p class=" text-right">73</p><p class=" text-right">1,507</p>
+  </td><td width="102" valign="top">  <p class=" text-right">401</p><p class=" text-right">1,020</p><p class=" text-right">186</p><p class=" text-right">73</p><p class=" text-right">1,680</p>
+  </td><td width="102" valign="top">  <p class=" text-right">423</p><p class=" text-right">1,020</p><p class=" text-right">193</p><p class=" text-right">77</p><p class=" text-right">1,713</p>
+  </td>
+</tr>
+
+<tr>
+<td colspan="6" width="614" valign="top">  <b>Yields (tonnes per hectare)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="130" valign="top">  <p>Kenya</p><p>Tanzania</p><p>Uganda</p><p>Rwanda</p>
+  </td><td width="75" valign="top">  <p class=" text-right">1.9</p><p class=" text-right">1.5</p><p class=" text-right">1.4</p><p class=" text-right">5.2</p>
+  </td><td width="102" valign="top">  <p class=" text-right">2.2</p><p class=" text-right">1.0</p><p class=" text-right">1.5</p><p class=" text-right">5.4</p>
+  </td><td width="102" valign="top">  <p class=" text-right">2.0</p><p class=" text-right">0.8</p><p class=" text-right">1.6</p><p class=" text-right">5.5</p>
+  </td><td width="102" valign="top">  <p class=" text-right">4.0</p><p class=" text-right">4.0</p><p class=" text-right">1.7</p><p class=" text-right">5.5</p>
+  </td><td width="102" valign="top">  <p class=" text-right">3.9</p><p class=" text-right">1.0</p><p class=" text-right">1.7</p><p class=" text-right">5.6</p>
+  </td>
+</tr>
+
+</table>
+<p>Note: Figures for Burundi were not included for reasons of data availability/country coverage.</p><p>Source: Composite table drawn from tables dealing with EAC member states’ rice production, in USDA, ‘EAC rice import tariffs and food security update’, <i>GAIN Report</i>, 26 April 2012.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>USDA, ‘EAC rice import tariffs and food security update’, <i>GAIN Report</i>, 26 April 2012</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/EAC%20Rice%20Import%20Tariffs%20and%20Food%20Security%20Update_Nairobi_Kenya_4-26-2012.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/EAC%20Rice%20Impor...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The EU allows duty-free imports of nine varieties of husked basmati rice from India and Pakistan with no quantitative limits. For other varieties of rice, duties range from €34 to €211/tonne under country-specific TRQs, with whole milled or semi-milled rice attracting duties of between €145 and €175/tonne. The rate is modified twice a year depending on the quantities imported (based on import licences issued). This is further supported by a system of direct aid payments to rice farmers equivalent to €187/tonne (for details see <i>Agritrade</i> special report ‘The EU’s agricultural policy toolbox: A sector-by-sector review’, Section 6, 13 December 2011). The EU thus makes use of a sophisticated TRQ system to manage markets in ways that allow imports to grow to meet expanding EU demand for rice, while at the same time sustaining and promoting domestic EU rice production. Production has risen by 13% and exports by 136% since the post-reform low point of 2006.</p><p>While the EU experience highlights the potential role that trade policy can play in both sustaining and promoting production and maintaining an openness to imports to meet expanding consumer demand, the EAC context is very different. Here, the absence of full free movement of goods serves to encourage a focus on national self-sufficiency and undermines the development of investment in production for regional markets and the development of intra-regional rice supply chains.</p><p>Within a fully functioning single EAC market, rice trade policy measures potentially have a role in safeguarding and developing the rice sector. However this will require the establishment of other supportive policy measures. In the case of Kenya this would need to include:</p>
+<ul>
+
+<li>freeing up input markets to promote greater competition; </li>
+
+<li>getting to grips with mismanagement of rice irrigation schemes; </li>
+
+<li>improving rural infrastructure (both road and energy) to reduce costs; </li>
+
+<li>enhancing extension service provision to rice farmers. </li>
+
+</ul>
+<p>It seems likely that these types of constraints make as great a contribution to the policy failures observed by the USDA as trade policy measures.</p><p>If these constraints are addressed, then a more sophisticated transparent and accountable regional rice sector trade policy can be put in place to ease the burden currently placed on poor EAC consumers by current trade policy measures.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Rice-value-chain-Madagascar-IRRI-introduces-two-cold-tolerant-rice-varieties">Rice value chain/Madagascar- IRRI introduces two cold-tolerant rice varieties </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Market-access/Grain-value-chain-Uganda-Government-moves-to-enforce-grain-quality-control">Grain value chain/Uganda – Government moves to enforce grain quality control</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Rice-value-chain-Africa-China-clones-heat-tolerant-gene-from-African-rice-strain">Rice value chain/Africa - China clones heat-tolerant gene from African rice strain</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Rice-value-chain-Tanzania-Rice-farmers-achieve-higher-yields-from-SRI-farming">Rice value chain/ Tanzania – Rice farmers achieve higher yields from SRI farming</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cereals/Grain-value-chain-Rwanda-Solar-dryers-to-improve-grain-quality">Grain value chain/Rwanda - Solar dryers to improve grain quality</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":161,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

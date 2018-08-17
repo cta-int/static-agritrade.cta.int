@@ -1,0 +1,220 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Final stage of EPA negotiations generating tensions between EAC members  / EPAs / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																														
+							
+																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7813/(search)/simple">EPAs</a>
+							
+																																																																																																																																																																																																																																																																					
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Final stage of EPA negotiations generating tensions between EAC members </h1>
+
+			
+			<h4>
+												22 March 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>According to the Kenya Flower Council, the Kenyan President has made a commitment “to take charge of the EU-EAC Economic Partnership Agreement (EPA) negotiations” to ensure that the negotiations are completed before the 1 October 2014 deadline. This follows the failure of the January 2014 negotiating session to conclude the negotiations,&nbsp; given outstanding disagreements on “economic and development co-operation, rules of origin, export taxes and the most-favoured nation clause”.&nbsp;</p><p>The Kenya Institute for Public Policy Research and Analysis has argued that Kenyan officials “did not push hard enough for a common position for the region”. The CEO of the Fresh Produce and Exporters Associations of Kenya (FPEAK) and the Kenya Flower Council have called respectively for officials to “push harder” and for negotiators to “spend more time resolving the pending issues”.&nbsp; These calls need to be seen in the context of Latin American exporters actively looking to take over flower markets from Kenyan exporters if the EU does impose import duties on Kenyan flower exports from 1 October 2014.</p><p>East African negotiators, however, have blamed the EC for some of the delays, following the introduction of issues such as “good governance in tax matters”.&nbsp; There are also reportedly concerns in East Africa that as a result of the proposed non-execution clause, “future trade relations… will be based on governance issues as opposed to commercial concerns.”&nbsp; The perceptions that the relevant variables tend to be “loosely defined by the West, depending on the country involved” and that non-execution clauses are “subject to unilateral interpretation and execution” are a particular cause for concern.</p><p>On the MFN clause, EU officials argue that the EU is only seeking a level playing field, and that the EU “would be doing itself a disservice if levies charged on its exports to East African nations are higher compared to those imposed on products from its competitors such as China”. EC officials reportedly sense “a lack of commitment by several EAC nations”, with Tanzania and Burundi being considered “non-committal”. Unlike Kenya, the LDCs in the EAC will continue to enjoy duty-free access to the EU market after 1 October 2014 under the Everything But Arms (EBA) initiative, regardless of the outcome of the EPA negotiations. According to EC officials, “Kenya is in a tricky position, and that is why it has to marshal [its] neighbours into grabbing this window of opportunity.”</p><p>Meanwhile, at the East African meeting of the ACP–EU joint Parliamentary Assembly in Mauritius in February, members adopted a communiqué which emphasised “the crucial importance of regional integration in creating an enabling environment for economic growth, employment, development and poverty reduction” and underlined “the need for EPAs to foster development and to support regional integration”.</p><p>According to the Kenya Flower Council, if current preferences are not extended, “Kenya will not be able to compete on price, and market share will be lost”, since “countries like Colombia, Tanzania, Uganda, Rwanda, Burundi and Ethiopia will continue to enjoy their duty-free status with the EU” (see <i>Agritrade </i>article ‘
+<a href="/en/layout/set/print/Agriculture/Topics/EPAs/Concerns-grow-in-Kenya-as-EAC-EU-EPA-negotiations-continue" target="_blank">Concerns grow in Kenya as EAC–EU EPA negotiations continue</a>’, 6 March 2014).&nbsp; In addition to cut flowers, products potentially affected include “fresh fruit and vegetables, fish and fish products, textiles and apparel, nuts, hides and skins”, where GSP duties of between 8.5 and 15.7% would be charged.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>Kenya Flower Council, ‘President to take charge of EAC EU EPA negotiations’, 17 February 2014</p><p>
+<a href="http://www.hortidaily.com/article/6514/Kenya-President-to-take-charge-of-EAC-EU-EPA-negotiations " target="_self">http://www.hortidaily.com/article/6514/Kenya-President-to-take-charge-of...</a></p><p><i>Daily Nation</i>, ‘Impasse on trade talks threatens Kenya’s quota-free market status’, 17 February 2014</p><p>
+<a href="http://www.trademarksa.org/news/impasse-trade-talks-threatens-kenya-s-quota-free-market-status " target="_self">http://www.trademarksa.org/news/impasse-trade-talks-threatens-kenya-s-qu...</a></p><p><i>Business Daily Africa</i>, ‘EU plans fresh trade talks with Kenya month-end’, 17 February 2014</p><p>
+<a href="http://www.businessdailyafrica.com/EU-plans-fresh-trade-talks-with-Kenya-month-end-/-/539546/2210508/-/d62syy/-/index.html " target="_self">http://www.businessdailyafrica.com/EU-plans-fresh-trade-talks-with-Kenya...</a></p><p>ACP-EU Joint Parliamentary Assembly, ‘11<sup>th</sup> regional meeting (East Africa) of the ACP-EU Joint Parliamentary Assembly Port Louis Communique’, 14 February 2014</p><p>
+<a href="http://www.europarl.europa.eu/intcoop/acp/2014_mauritius/pdf/final_comm_en.pdf" target="_self">http://www.europarl.europa.eu/intcoop/acp/2014_mauritius/pdf/final_comm_...</a></p><p><i>The East African</i>, ‘Why region is hesitant to sign EU trade deal’, 22 February 2014</p><p>
+<a href="http://www.theeastafrican.co.ke/news/Why-region-is-hesitant-to-sign-EU-trade-deal/-/2558/2217606/-/kbnrdb/-/index.html" target="_self">http://www.theeastafrican.co.ke/news/Why-region-is-hesitant-to-sign-EU-t...</a></p><p><i>Business Daily Africa</i>, ‘Rivals eye EU flower market as pact delays’, 27 February 2014</p><p>
+<a href="http://www.businessdailyafrica.com/Rivals-eye-EU-flower-market-as-pact-delays/-/539546/2224844/-/3foh8b/-/index.html " target="_self">http://www.businessdailyafrica.com/Rivals-eye-EU-flower-market-as-pact-d...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The EC is looking to the Kenyan government to “marshal” the LDC members of the EAC into the EPA agreement, despite a recognition of the “lack of commitment by several EAC nations” to an EPA agreement. This could potentially generate tensions within the EAC, since not only Latin American but also fellow EAC exporters could gain trade and investment benefits if the EU imposed tariffs on Kenyan exports from 1 October 2014.</p><p>Balancing this consideration is the perceived absence of any additional real benefits for LDCs from signing an EPA agreement, which it is felt could impose new obligations, the consequences of which are unknown.</p><p>This would suggest a need to find a way of addressing LDC concerns over the possible implications of a range of proposed provisions, the precise scope of which will be subject to interpretation (e.g. via a declaration on the interpretation of provisions such as the non-execution clause).</p><p>Similarly, the discussions on the MFN clause need to be seen in the context of US concerns over the new preferences that the EPA will extend to EU companies and which are not made available to US companies. With the US Africa Growth and Opportunity Act (AGOA) coming up for renewal, some US exporters are starting to put pressure on the US administration to do something about the tariff disadvantages arising from the implementation of EPA commitments. This needs to be seen against the background of the launching of discussions over a possible EAC–US trade and investment partnership (see <i>Agritrade</i> article ‘Launch of EAC–US TIP negotiations potentially complicated by other trade agreements’, forthcoming 2014). This provides a wider context to the request from the EC for EAC endorsement of the draft MFN clauses intended to create “a level playing field” for all major trading nations.&nbsp;</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/Provisions-on-agriculture-trade-policy-instruments-still-to-be-resolved-in-SADC-EU-EPA-negotiations">Provisions on agriculture trade policy instruments still to be resolved in SADC–EU EPA negotiations</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-FTAs/Launch-of-EAC-US-TIP-negotiations-potentially-complicated-by-other-trade-agreements">Launch of EAC–US TIP negotiations potentially complicated by other trade agreements</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/Final-stage-of-EPA-negotiations-generating-tensions-between-EAC-members">Final stage of EPA negotiations generating tensions between EAC members </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/Concerns-grow-in-Kenya-as-EAC-EU-EPA-negotiations-continue">Concerns grow in Kenya as EAC–EU EPA negotiations continue</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/Kenyan-imports-of-value-added-food-products-on-the-rise">Kenyan imports of value-added food products on the rise</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":147,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

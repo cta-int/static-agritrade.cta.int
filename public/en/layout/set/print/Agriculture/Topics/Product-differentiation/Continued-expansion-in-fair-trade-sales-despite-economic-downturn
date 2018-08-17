@@ -1,0 +1,434 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Continued expansion in fair-trade sales despite economic downturn  / Product differentiation / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																																									
+		
+		<div class='contentrealtionlist'>
+										
+																																																																																																																							
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7796/(search)/simple">Bananas</a>
+							
+																																																																																																																																																																																																														,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7798/(search)/simple">Cocoa</a>
+							
+																																																																																																																							,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7799/(search)/simple">Coffee</a>
+							
+																																																																																																																																																																																																																																																																																																					,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7802/(search)/simple">Horticulture</a>
+							
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																			,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																																																																																																																																																																																																																																					,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7988/(search)/simple">Tea</a>
+							
+																			
+																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7818/(search)/simple">Product differentiation</a>
+							
+																																																																																																																																																							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Continued expansion in fair-trade sales despite economic downturn </h1>
+
+			
+			<h4>
+												28 April 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>Reports from Fairtrade International suggest that “sales of Fairtrade products continue to grow around the world”. The value of sales increased by 12% between 2010 and 2011: bananas +9%, cocoa beans +14%, coffee +12%, sugar +9%, tea +9%, and flowers and plants +11%.</p><p>Of 17 EU member states surveyed, Fairtrade International estimates that retail sales increased by between 4 and 39% in 15 of the states, and declined in two. The strongest growth in sales of Fairtrade products in the EU was in Spain, where the value of Fairtrade retail sales increased from €14,363,009 in 2010 to €20,026,046 in 2011.</p><p>Fairtrade-certified products account for a major share of some markets, for example, 42% of bagged sugar in the UK. Some 80% of Fairtrade sugar is sourced from ACP producers. A similar role for ACP suppliers exists in the Fairtrade tea sector, with 70% sourced from East Africa.</p><p><b>Estimated retail sales of Fairtrade products in EU member states and South Africa</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="122" valign="top">  Country
+  </td><td width="122" valign="top">  2010 (€)
+  </td><td width="122" valign="top">  2011 (€)
+  </td><td width="122" valign="top">  Growth rate (%)
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  UK
+  </td><td width="122" valign="top">  1,343,956,837
+  </td><td width="122" valign="top">  1,498,207,592
+  </td><td width="122" valign="top">  +12
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Germany
+  </td><td width="122" valign="top">  340,000,000
+  </td><td width="122" valign="top">  400,544,747
+  </td><td width="122" valign="top">  +18
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  France
+  </td><td width="122" valign="top">  303,314,314
+  </td><td width="122" valign="top">  315,416,709
+  </td><td width="122" valign="top">  +4
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Ireland
+  </td><td width="122" valign="top">  138,000,000
+  </td><td width="122" valign="top">  158,864,349
+  </td><td width="122" valign="top">  +15
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Holland
+  </td><td width="122" valign="top">  119,000,000
+  </td><td width="122" valign="top">  147,300,000
+  </td><td width="122" valign="top">  +24
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Sweden
+  </td><td width="122" valign="top">  108,477,630
+  </td><td width="122" valign="top">  134,335,702
+  </td><td width="122" valign="top">  +17
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Finland
+  </td><td width="122" valign="top">  93,001,210
+  </td><td width="122" valign="top">  102,673,112
+  </td><td width="122" valign="top">  +10
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Austria
+  </td><td width="122" valign="top">  87,000,000
+  </td><td width="122" valign="top">  100,000,000
+  </td><td width="122" valign="top">  +15
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Belgium
+  </td><td width="122" valign="top">  72,000,000
+  </td><td width="122" valign="top">  77,000,000
+  </td><td width="122" valign="top">  +7
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Denmark
+  </td><td width="122" valign="top">  62,535,857
+  </td><td width="122" valign="top">  74,908,637
+  </td><td width="122" valign="top">  +20
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Italy
+  </td><td width="122" valign="top">  49,400,006
+  </td><td width="122" valign="top">  57,542,552
+  </td><td width="122" valign="top">  +16
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Spain
+  </td><td width="122" valign="top">  14,363,009
+  </td><td width="122" valign="top">  20,026,046
+  </td><td width="122" valign="top">  +39
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Luxembourg
+  </td><td width="122" valign="top">  6,200,000
+  </td><td width="122" valign="top">  7,491,910
+  </td><td width="122" valign="top">  +21
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Czech Republic
+  </td><td width="122" valign="top">  2,704,370
+  </td><td width="122" valign="top">  2,859,432
+  </td><td width="122" valign="top">  +6
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Lithuania
+  </td><td width="122" valign="top">  751,776
+  </td><td width="122" valign="top">  624,091
+  </td><td width="122" valign="top">  -17
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Estonia
+  </td><td width="122" valign="top">  606,247
+  </td><td width="122" valign="top">  496,640
+  </td><td width="122" valign="top">  -18
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  Latvia
+  </td><td width="122" valign="top">  425,936
+  </td><td width="122" valign="top">  492,031
+  </td><td width="122" valign="top">  +16
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  <b>EU (17)</b>
+  </td><td width="122" valign="top">  <b>2,740,737,194</b>
+  </td><td width="122" valign="top">  <b>3,098,783,550</b>
+  </td><td width="122" valign="top">  <b>+13</b>
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  &nbsp;
+  </td><td width="122" valign="top">  &nbsp;
+  </td><td width="122" valign="top">  &nbsp;
+  </td><td width="122" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="122" valign="top">  South Africa
+  </td><td width="122" valign="top">  1,898,889
+  </td><td width="122" valign="top">  7,273,254
+  </td><td width="122" valign="top">  +283
+  </td>
+</tr>
+
+</table>
+<p>Beyond the EU, Fairtrade sales in South Africa grew by 283% in 2011, to a value higher than Fairtrade sales in 4 of the EU member states surveyed.</p><p>Fairtrade International reports a growing number of small farmer organisations in the Fairtrade system, with an increase of 10% between 2010 and 2011. For 2010–11, compared to 2009–10, smallholder organisations reported a 30% increase in sales revenues on Fairtrade terms, and a 26% increase in the value of the Fairtrade premium received. Notably, the Fairtrade premium received by smallholder cocoa farmers increased by 89% (to €6.9 million), while in the coffee sector, Fairtrade premiums to the value of €28.9 million were paid out following the 2011 coffee standard review, which saw a doubling of the coffee Fairtrade premium to 20 US cents /lb.</p><p>The total number of farmers producing Fairtrade-certified sugar “grew from 17,600 to 37,200”, reflecting commitments to Fairtrade procurement by major sugar and chocolate companies. This reflects efforts to extend cooperation with multinational companies to encourage the uptake of Fairtrade-certified commodities.</p><p>The report also highlighted new financing initiatives launched to promote Fairtrade production in Africa, notably the €85 million African Agriculture Trade Investment Fund supported by KfW, a German government-owned development banking group, and managed by Deutsche Bank, in consultation with Fairtrade International.</p><p>In some sectors in 2011–12, Fairtrade stakeholders moved beyond minimum prices and fair-trade premiums to negotiate quality premiums. In other sectors an extension of Fairtrade certification to by-products and value-added products is being promoted.</p><p>In February 2013, Fairtrade Africa reported the launch of an initiative in East Africa to certify traditional African vegetables for sale in local supermarkets. A survey is taking place on which crops are in highest demand, as a prelude to the launch of a certification campaign.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>Fairtrade International, ‘Fairtrade monitoring report reveals key impact insights’, 29 February 2013</p><p>
+<a href="http://www.fairtrade.net/single_view1+M5cf89eb6c98.html" target="_self">http://www.fairtrade.net/single_view1+M5cf89eb6c98.html</a></p><p>Fairtrade International, ‘For producers, with producers: Annual report 2011-12’, 2012</p><p>
+<a href="http://www.fairtrade.net/annual_reports.html" target="_self">http://www.fairtrade.net/annual_reports.html</a></p><p>Fairtrade Africa (Nairobi), ‘Africa: Traditional Crops to Go Fairtrade’, 21 February 2013</p><p>
+<a href="http://allafrica.com/stories/201302211021.html " target="_self">http://allafrica.com/stories/201302211021.html</a></p><p>Fairtrade International, ‘Monitoring the scope and benefits of Fairtrade - fourth edition - 2012’, 2012</p><p>
+<a href="http://www.fairtrade.net/impact_studies1.html" target="_self">http://www.fairtrade.net/impact_studies1.html</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>As in many areas of product differentiation, ensuring that primary producers are net beneficiaries of fair-trade certification needs to go beyond inspections and certification. In order to cover inspection costs and investments in meeting the requisite standards, it is also necessary to:</p>
+<ul>
+
+<li>support the strengthening of farmers’ organisations; </li>
+
+<li>foster the introduction of improved production techniques; </li>
+
+<li>promote improvements in the quality of products marketed; </li>
+
+<li>strengthen marketing and negotiating capacities of producer organisations to enhance their position in the supply chain.</li>
+
+</ul>
+<p>In the absence of actions in these areas, the costs of certification and meeting the requisite standards can exceed the financial benefits gained.</p><p>This is increasingly recognised by the fair-trade movement, with initiatives being taken to ensure progress is made in these areas. These initiatives include:</p>
+<ul>
+
+<li>expanded support for the organisation of producers; </li>
+
+<li>cooperation with initiatives to mobilise financial resources for investment in fair-trade production;</li>
+
+<li>the negotiate of quality premiums; </li>
+
+<li>the extension of fair-trade certification to by-products and value-added products; </li>
+
+<li>the renegotiation of basic fair-trade premiums.</li>
+
+</ul>
+<p>While it needs to be recognised that Fairtrade production still only embraces slightly over one million farmers, and hence operates on the margins of the global economy, it is a market component that continues to grow and which can offer benefits to specific groups of ACP producers under specific conditions.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+											
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Will-Ugandan-farmers-get-to-plant-GM-banana">Will Ugandan farmers get to plant GM banana?</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cocoa/Scope-highlighted-for-chocolate-market-using-single-origin-cocoa">Scope highlighted for chocolate market using single-origin cocoa</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/EC-tables-new-regulation-on-the-organic-sector">EC tables new regulation on the organic sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cocoa/Second-successive-cocoa-production-shortfall-supports-prices">Second successive cocoa production shortfall supports prices</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Clock-ticking-on-Jamaican-sugar-sector-diversification">Clock ticking on Jamaican sugar sector diversification  </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":140,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

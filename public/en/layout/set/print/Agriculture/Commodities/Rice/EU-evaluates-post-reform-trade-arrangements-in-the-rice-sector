@@ -1,0 +1,249 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>EU evaluates post-reform trade arrangements in the rice sector / Rice / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																																		
+		
+		<div class='contentrealtionlist'>
+							
+																																																							
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																					,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																																																																																																																														
+																																																																																																																																																																																																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7805/(search)/simple">Rice</a>
+							
+																																																																																																																																	
+																																																																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7814/(search)/simple">EU FTAs</a>
+							
+																																																																																																																																																																																																																																																																																																																																																											,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7823/(search)/simple">Other</a>
+							
+																																																						
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>EU evaluates post-reform trade arrangements in the rice sector</h1>
+
+			
+			<h4>
+												06 August 2009
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The EC has published a report reviewing the operation of the rice agreements concluded in 2004 and 2005, as following the reform of the EU rice regime in 2003, the EC negotiated a new set of market access arrangements for rice exports from India, Pakistan, the USA and Thailand. These agreements offered different concessions for ‘husked basmati rice’, ‘husked rice’ and ‘milled and semi-milled rice’, involving duty-free access and reduced-duty access within certain reference limits (including annual incremental increases) and variable tariffs depending on the level of exports in the preceding period (with higher tariffs where high rates of export growth occurred and lower rates when reference limits were under-served). The aim of these trade arrangements was to offer greater protection to EU markets when export volumes increase and reduced levels of protection when export volumes decreased.</p><p>The new trade arrangements had the following effects:</p>
+<ul>
+
+<li>imports of basmati husked rice increased 36% within four marketing years;</li>
+
+<li>imports of husked rice increased 38.3%, but with 37% of this being accounted for by enlargement to include Romania and Bulgaria in the EU;</li>
+
+<li>imports of semi-milled and milled rice ‘gradually increased until 2007/08, when there was an abrupt 50% increase (+150,000 tonnes) on the previous year’. This resulted in an increase in the duty charged;</li>
+
+<li>‘imports of broken rice increased from 185,000 t in 2005/06 to a stable 240,000 t in 2006/07 and 2007/08’, an increase of 30%, with over 55% of these imports being at ‘reduced or zero duty under preferential agreements and TRQs’;</li>
+
+<li>imports of small packages of milled and semi-milled rice fell 7% from 35,812 t to 332,275 t between 2008/07 and 2007/08. </li>
+
+</ul>
+<p>Following reform, EU25 rice production fell from 1.68 million tonnes in 2004/05 to 1.59 million tonnes in 2006/07, with production in the EU27 returning to 1.68 million tonnes in 2007/08. ‘Intervention stocks of paddy rice, which stood at 600,000 tonnes at the beginning of 2004/05, had been totally disposed of by 2007/08’. Overall the Commission reported that the EU rice industry ‘has maintained its level and has not been adversely affected by the different MFN and preferential trade agreements’. Indeed, ‘the substantial increase in milled and semi-milled rice imports in 2007/08 appears to have had no negative impact on the industry’. However ‘in relative terms imports have gained in importance’, with total imports of rice, in milled equivalent, increasing from ‘715,000 t in 2004/05 to 1,077,000 t in 2007/08’, with this partly being due to EU enlargement.</p><p>In terms of the price effects, since the 2003 reform ‘EU paddy prices have been well above the intervention price … and have, globally, followed an upward trend. During the 2004/05 marketing year, prices were relatively stable within a range of €160/t to €240/t, depending on the origin and type of rice’. However, subsequently there was considerable price variation, with the largest increase in 2008, when following world market price trends, EU prices for Italian indica and japonica reached €480/t, ‘more than three times the intervention level’.</p><p>It was concluded that the trade agreements set in place served their purpose, with variations in EU rice production being ‘related to climatic conditions and producer choices rather than to import flows’. The increased imports which have occurred have responded to increased consumption in the EU and so ‘the agreements have had no adverse effect on the EU rice milling industry’.</p><p>Meanwhile according to the FAO Rice Market Monitor, global rice production in 2008 was 4% up on 2007. A further 0.3% expansion is expected in 2009. The outlook is seen as ‘generally positive in Africa, where some 25.6 million tonnes of paddy (16.8 million, milled rice) are forecast to be harvested in 2009, which would replicate the positive outcome of the 2008 season’. Among the ACP countries, Ghana, Madagascar, Mali, Nigeria, Uganda and Zambia are all expected to expand production, offsetting production declines in Burkina Faso, Chad, Guinea, Liberia, Niger, Senegal, Sierra Leone and Tanzania. Elsewhere erratic climatic conditions and lower price expectations have depressed production in Guyana. In terms of ACP rice exports to the EU, Suriname’s exports are fairly stable despite a slight decrease of 11% since 2003, while Guyana’s exports increased by 17% over the same period and show a significant variability. </p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>
+European Commission, COM(2009) 314 final, June 30th 2009 <br />
+<a href="http://ec.europa.eu/agriculture/markets/rice/publi/com2009_314_en.pdf" target="_self">http://ec.europa.eu/agriculture/markets/rice/publi/com2009_314_en.pdf</a></p><p>
+EC DG Agriculture and Rural Development, communication, June 30th 2009<br />
+<a href="http://ec.europa.eu/agriculture/markets/rice/index_en.htm" target="_self">http://ec.europa.eu/agriculture/markets/rice/index_en.htm</a></p><p>
+FAO, <i>Rice Market Monitor</i>, Vol. XII, Issue 2, June 2009 <br />
+<a href="http://www.fao.org/ES/ESC/en/15/70/highlight_71_p.html" target="_self">http://www.fao.org/ES/ESC/en/15/70/highlight_71_p.html</a></p><p>
+FAO, <i>Rice Price Update</i>, June 2009 <br />
+<a href="http://www.fao.org/ES/ESC/en/15/70/highlight_533_p.html" target="_self">http://www.fao.org/ES/ESC/en/15/70/highlight_533_p.html</a> </p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The experience in the rice sector highlights the ability of the EC to successfully run a managed trade regime, in the context of both the implementation of reform measures and the expansion of market access. This would appear to offer a model for the further reform of the EU sugar regime. Successfully maintaining a market balance, by supporting EU market prices, benefits ACP suppliers by improving the returns obtained from exporting to the EU.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+										
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Rice-value-chain-Ghana-145-Mio-grant-to-advance-smallholder-farmers-in-the-rice-sector">Rice value chain/Ghana - $145 Mio grant to advance smallholder farmers in the rice sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Global-rice-production-expanding">Global rice production expanding</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/EU-evaluates-post-reform-trade-arrangements-in-the-rice-sector">EU evaluates post-reform trade arrangements in the rice sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Current-rice-trends-and-analysis-of-the-price-surge">Current rice trends and analysis of the price surge</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Rice-prices-continue-to-decline">Rice prices continue to decline</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":134,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

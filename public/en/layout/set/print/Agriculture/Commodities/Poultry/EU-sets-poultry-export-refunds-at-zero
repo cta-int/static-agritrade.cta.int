@@ -1,0 +1,283 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>EU sets poultry export refunds at zero  / Poultry / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																								
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																														
+																																																																																																																																																																																																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7804/(search)/simple">Poultry</a>
+							
+																																																																																																																																																							
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>EU sets poultry export refunds at zero </h1>
+
+			
+			<h4>
+												23 September 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>On 19 July 2013, the EC suspended all export refunds for poultry, by setting them at zero. Given that&nbsp; EU export subsidies for arable crops had earlier been set at zero, &nbsp;USDA maintained that the EU appeared to be “following through on its Doha Round promise at the WTO Ministerial meeting in Hong Kong in December 2005 to end all export subsidies by 2013”. &nbsp;</p><p>Export subsidies on whole frozen birds had been exclusively used by two French companies, Doux and Tilly Sabco, largely for exports to the Middle East. USDA noted in a report on 25 July that in 2012, France exported 242,000 tonnes of frozen whole chicken, with a value of US$441 million. This included limited exports to Angola (1,764 tonnes in 2010, 1,211 tonnes in 2011 and 585 tonnes in 2012).</p><p><b>Frozen whole birds sales and export refunds received (by company)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="187" valign="top">  &nbsp;
+  </td><td colspan="2" width="227" valign="top">  Doux
+  </td><td colspan="2" width="201" valign="top">  Tilly Sabco
+  </td>
+</tr>
+
+<tr>
+<td width="187" valign="top">  <b>&nbsp;</b>
+  </td><td width="113" valign="top">  <b>2012</b>
+  </td><td width="113" valign="top">  <b>2013<sup>1</sup></b>
+  </td><td width="104" valign="top">  <b>2012</b>
+  </td><td width="97" valign="top">  <b>2013<sup>1</sup></b>
+  </td>
+</tr>
+
+<tr>
+<td width="187" valign="top">  Total sales
+  </td><td width="113" valign="top">  €650 million
+  </td><td width="113" valign="top">  -
+  </td><td width="104" valign="top">  €136 million
+  </td><td width="97" valign="top">  -
+  </td>
+</tr>
+
+<tr>
+<td width="187" valign="top">  Export refunds received
+  </td><td width="113" valign="top">  €55 million
+  </td><td width="113" valign="top">  €25 million
+  </td><td width="104" valign="top">  €19 million
+  </td><td width="97" valign="top">  €4 million
+  </td>
+</tr>
+
+</table>
+<p>Note 1: projection.</p><p>Source: Extracted from USDA, <i>GAIN Report</i> No. FR9143, 25 July 2013 (see below)</p><p>According to USDA,<i>&nbsp;</i>the EC’s decision has been criticised by the main French farmers’ union, with objections being raised by French ministers and calls made for an immediate reversal of the EC decision. Despite these criticisms, it was reportedly acknowledged by poultry sector experts and some officials that “the French position was unsustainable, with only two companies benefiting from the EU refunds.”</p><p>The decision to set export refunds at zero is part of a gradual reduction in EC export refund support that has been under way since October 2012.</p><p><b>Export refund levels for poultry meat: October 2011–July 2013</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="168" valign="top">  Decision date
+  </td><td width="66" valign="top">  21/10/11
+  </td><td width="66" valign="top">  19/1/12
+  </td><td width="66" valign="top">  19/4/12
+  </td><td width="57" valign="top">  20/7/12
+  </td><td width="66" valign="top">  19/10/12
+  </td><td width="66" valign="top">  19/4/13
+  </td><td width="59" valign="top">  18/7/13
+  </td>
+</tr>
+
+<tr>
+<td width="168" valign="top">  Refund (€/tonne)
+  </td><td width="66" valign="top">  €325
+  </td><td width="66" valign="top">  €325
+  </td><td width="66" valign="top">  €325
+  </td><td width="57" valign="top">  €325
+  </td><td width="66" valign="top">  €217
+  </td><td width="66" valign="top">  €108.5
+  </td><td width="59" valign="top">  €0
+  </td>
+</tr>
+
+</table>
+<p>Source: Extracted from USDA, <i>GAIN Report</i> No. FR9143, 25 July 2013 (see below)</p><p>The USDA report notes that, in response to the EC decision, “Tilly Sabco has decided to temporarily suspend its operations and announced that it will take the Commission’s decision to court.” USDA believes that the case has little chance of success, “since the decision is legal in regard to EU rules”.</p><p>Poultry sector analysts “believe the impact of the end of export refunds is somewhat exaggerated”, since halving export refunds in 2012 had no impact on export sales to the main markets in Saudi Arabia and Yemen, given rising prices on these markets. The lack of impact is also a result of long-established commercial relationships with importers and distributors and the fact that French suppliers are the only exporters of the types of chickens favoured in these markets (small birds of less than 1 kg, 40 days old at slaughter).</p><p>USDA estimates a possible 10–15% decline in French whole frozen chicken exports to Middle Eastern markets as a result of the setting of export refunds at zero.&nbsp; It is expected that the measures will put further financial pressure on Tilly Sabco, which is reportedly under severe financial strain. Doux had already entered receivership in 2012.</p><p>In August, the French government announced an urgent investigation into what can be done to support the French egg and poultry industry beyond existing emergency measures. The investigation will also “explore opportunities for a collective industry approach to prospects for new export markets”. The report is expected in early October 2013.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>USDA, ‘The end of EU broiler export refunds will hurt France’, <i>GAIN Report</i> No. FR9143, 25 July 2013</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/The%20End%20of%20EU%20Broiler%20Export%20Refunds%20Will%20Hurt%20France_Paris_France_7-24-2013.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/The%20End%20of%20E...</a></p><p><i>Thepoultrysite.com</i>/USDA, ‘EU ends last remaining export subsidy for poultry’, 1 August 2013</p><p>
+<a href="http://www.thepoultrysite.com/poultrynews/29658/eu-ends-last-remaining-export-subsidy-for-poultry" target="_self">http://www.thepoultrysite.com/poultrynews/29658/eu-ends-last-remaining-e...</a></p><p><i>Themeatsite.com</i>, ‘France steps up action to help poultry and egg producers’, 21 August 2013</p><p>
+<a href="http://www.themeatsite.com/meatnews/22269/france-steps-up-action-to-help-poultry-and-egg-producers" target="_self">http://www.themeatsite.com/meatnews/22269/france-steps-up-action-to-help...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The EC has not dismantled the export subsidy system, but has set current rates at zero. This needs to be seen in the context of high global food prices and the policy shift to the use of export refunds and intervention buying exclusively as part of broader safety net measures. This means that the EU retains the right to use export refunds should market circumstances require their deployment to support EU producers during times of temporary market disruptions.</p><p>In June 2013, it was agreed as part of the current round of CAP reforms that a €400-million annual “crisis reserve” should be set up to finance emergency measures (including the use of export refunds and increased storage support) in cases where such measures are deemed necessary (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Topics/CAP-reform/Political-agreement-reached-on-CAP-reform" target="_blank">Political agreement reached on CAP reform</a>’, 11 August 2013).</p><p>In the case of the 2009 EU dairy market crisis, the EU expanded both intervention buying and export subsidy allocations, with the aim of cushioning EU producers against the production effects of lower global dairy prices (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Pressure-for-increased-EU-aid-in-response-to-dairy-crisis" target="_blank">Pressure for increased EU aid in response to dairy crisis</a>’, 3 November 2009). This was to prove effective in stabilising the EU market without the additional export refund allocation being used, as global dairy prices recovered, allowing exports to take place using only the initial financial allocation (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Policy-tools-critical-to-turning-around-crisis-in-the-EU-dairy-sector" target="_blank">Policy tools critical to turning around crisis in the EU dairy sector</a>’, 4 May 2010).</p><p>Despite increased intervention buying proving sufficient in the 2009/2010 dairy crisis, the EU retains the right to use export refunds as part of safety net measures across a range of sectors, should the need ever arise.</p><p>The expanded use of national support under consideration by the French government is consistent with the policy thrust towards partial renationalisation of CAP measures implicit in the 2013 round of CAP reforms agreed in June 2013.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Poultry/Case-made-for-continued-protection-of-EU-poultry-sector">Case made for continued protection of EU poultry sector </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Poultry/Continued-growth-in-EU-poultry-meat-exports-targeting-some-African-markets">Continued growth in EU poultry meat exports targeting some African markets </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/US-restrictions-on-EU-beef-amended-in-light-of-confidence-building-measures-by-trade-partners">US restrictions on EU beef amended in light of confidence-building measures by trade partners </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Poultry/EU-sets-poultry-export-refunds-at-zero">EU sets poultry export refunds at zero </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Poultry/South-African-poultry-sector-problems-compounded-by-rising-EU-exports">South African poultry sector problems compounded by rising EU exports  </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":137,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

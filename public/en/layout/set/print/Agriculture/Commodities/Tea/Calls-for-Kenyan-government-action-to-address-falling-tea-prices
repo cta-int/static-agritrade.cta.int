@@ -1,0 +1,223 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Calls for Kenyan government action to address falling tea prices  / Tea / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																														
+																																																																																																																																																																																																																																																																																																																																																																										,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7988/(search)/simple">Tea</a>
+							
+																			
+																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7818/(search)/simple">Product differentiation</a>
+							
+																																																																																																																																																							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Calls for Kenyan government action to address falling tea prices </h1>
+
+			
+			<h4>
+												26 January 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>Press reports in November 2013 showed increasing concerns in Kenya’s tea sector following 7 months of falling prices for Kenyan tea, with anxieties over significant damage to the sector if the price trend continued unchecked. Tea prices had reportedly fallen to their lowest level since 2008. Indeed, average international tea prices in October 2013 were 40% below their 2009 peak and 40% below the October 2012 level. </p><p>In January, in response to these price declines, the Kenya Tea Development Agency (KTDA) called on the Kenyan government to “scrap taxes levied on green leaf”, provide fertiliser subsidies for tea production and establish a stabilisation fund to cushion farmers from price volatility.</p><p>KTDA pointed out that “Kenya’s tea was the most expensive at the Mombasa auction compared to the rest of East African nations including Uganda, Rwanda, Tanzania and Malawi, due to tax charges and high production costs,” observing that this was leading buyers to favour non-Kenyan teas at the auction. </p><p>Press reports indicated troubled times in the Kenyan tea sector, with some Kenyan politicians calling for an end to KTDA’s marketing monopoly, despite the 12.7% increase in sales revenues achieved by KTDA in the 2012/13 financial year. This was a result of increased volumes, with an increase of 5%/kg being paid to producers, despite a 2% decline in the average net selling price per kg in 2013. </p><p>The Tea Board of Kenya for its part is leading a crackdown on multinational companies that deal with tea “hawkers” (i.e. traders who by tea in violation of contractual commitments between growers and processing companies), by threatening to withdraw the multinationals’ trading licences. </p><p>Meanwhile, KTDA continues efforts to promote sustainable tea production, having joined up with Unilever and the Dutch IDH Sustainable Trade Initiative to boost tea production by 30% through extending existing programmes for the promotion of best practices in tea plucking, pesticide use, soil management, or other agronomic practices. KTDA personnel claim that the first phase of this initiative, which has been in progress since 2009, resulted in “higher yields, better quality, increased income, [and] improved water management”. </p><p>KTDA is also continuing its efforts to promote the full Rainforest Alliance certification of KTDA-managed tea processing factories. So far, 54 factories have been certified, while a further 12 are at various stages of certification. This forms part of KTDA’s efforts to “ensure that all its tea factories comply with international standards in order to win the trust of the buyers and consumers, who… are keen on the quality of tea that they buy”.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Business Daily</i>, ‘Agency calls for tax waiver on tea exports as prices drop’, 28&nbsp;October 2013</p><p>
+<a href="http://www.businessdailyafrica.com/Agency-calls-for-tax-waiver-on-tea-exports-as-prices-drop/-/539546/2051050/-/10bi0m2/-/index.html" target="_self">http://www.businessdailyafrica.com/Agency-calls-for-tax-waiver-on-tea-ex...</a></p><p><i>The Star</i>, ‘Tea farmers want KTDA’s marketing monopoly stopped’, 16&nbsp;October 2013</p><p>
+<a href="http://www.the-star.co.ke/news/article-139865/tea-farmers-want-ktdas-marketing-monopoly-stopped" target="_self">http://www.the-star.co.ke/news/article-139865/tea-farmers-want-ktdas-mar...</a></p><p><i>Business Daily</i>, ‘Foreign firms face ban over tea hawkers’, 1&nbsp;October 2013</p><p>
+<a href="http://www.businessdailyafrica.com/Corporate-News/Foreign-firms-face-ban-over-tea-hawkers/-/539550/2015090/-/k8bsad/-/index.html" target="_self">http://www.businessdailyafrica.com/Corporate-News/Foreign-firms-face-ban...</a></p><p>KTDA, ‘KDTA teams up with Unilever, IDH in SH139 million sustainable agriculture project’, 13 January 2014</p><p>
+<a href="http://www.ktdateas.com/index.php/press-releases/397-ktda-teams-up-with-unilever-idh-in-sh139-million-sustainable-agriculture" target="_self">http://www.ktdateas.com/index.php/press-releases/397-ktda-teams-up-with-...</a></p><p><i>Business Daily</i>, ‘Coffee, tea farmers hit by fall in prices to seven year low’, 11&nbsp;November 2013</p><p>
+<a href="http://www.businessdailyafrica.com/Coffee--tea-farmers-hit-by-fall-in-prices-to-seven-year-low/-/539552/2069452/-/pvbvph/-/index.html" target="_self">http://www.businessdailyafrica.com/Coffee--tea-farmers-hit-by-fall-in-pr...</a></p><p>KDTA, ‘Small scale tea farmers earn Sh.69 billion in revenue’, 13 January 2014</p><p>
+<a href="http://www.ktdateas.com/index.php/press-releases/390-small-scale-tea-farmers-earn-sh69-billion-in-revenue" target="_self">http://www.ktdateas.com/index.php/press-releases/390-small-scale-tea-far...</a></p><p><i>Indexmundi.com</i>, ‘Tea monthly price – US cents per kilogram’, December 2013</p><p>
+<a href="http://www.indexmundi.com/commodities/?commodity=tea&amp;months=120" target="_self">http://www.indexmundi.com/commodities/?commodity=tea&amp;months=120</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The decline in international tea prices is not just a Kenyan, but a global problem. With international private-sector-supported initiatives to promote sustainable tea production, price volatility can be understood as an area where both buyers and sellers who are committed to sustainable tea production could usefully join forces to improve supply chain management and increase price stability. In the interim there may be scope for Eastern African regional tea producers to come together to develop improved methods for managing price volatility, particularly in the context of the various sustainability initiatives under way in the tea sector. This needs to be based on a sound analysis of tea price trends and the factors driving price developments.</p><p>While a removal of KTDA’s near-monopoly status might bring some efficiency benefits, improving the management performance of an already fairly successful farmers’ organisation may prove a better option.</p><p>Improving the cash flow to farmers under existing arrangements may offer a better option for dealing with the activities of tea hawkers, since this addresses the underlying problem, rather than treating the symptoms. The establishment of mechanisms that would allow more regular upfront payment for tea deliveries could increase smallholder farmers’ liquidity and solve this problem.</p><p>Although compliance with international standards may bring benefits in terms of increased market access and even higher prices, certification can be expensive and may undermine Kenya’s global price competitiveness. This suggests that more attention needs to be paid to the issue of the distribution of the costs and benefits of sustainability certification in the tea sector, while at the same time building up local certification capacities in order to reduce costs.</p><p>The government’s recent call on stakeholders to come together and develop a policy for the tea industry can be seen as a vehicle for addressing the multiple challenges that are being faced.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Tea/Calls-for-Kenyan-government-action-to-address-falling-tea-prices">Calls for Kenyan government action to address falling tea prices </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Tea/Tea-market-price-falls-raise-supply-chain-issues-in-Kenya">Tea market price falls raise supply chain issues in Kenya </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":133,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

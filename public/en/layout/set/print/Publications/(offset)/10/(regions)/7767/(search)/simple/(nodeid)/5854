@@ -1,0 +1,407 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                      
+	<title>Publications / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+														
+	<h3>Publications</h3>
+
+
+
+	<div class='clear'></div>
+	<div class="sortBy">
+		<strong>Sort by:</strong>
+		<label><input name="sortby" value="date" class='searchfilter_sort_date' type="radio" checked="checked"/> Date</label>
+		<label><input name="sortby" value="count" class="searchfilter_sort_count" type="radio"/> Most read</label>
+	</div>
+
+
+		<div id='searchresultsholder' class='searchindicator'>
+		<div id='searchresults'>
+			
+			
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+																		
+
+
+	
+		
+
+			
+	
+						
+
+
+		<section class="listing">
+			<header class='bigheader'>
+			<h3>
+								Publications
+							</h3>
+			<h4>(3042 results found)</h4>
+									
+																												
+
+
+
+
+<div class="pagination">
+	<!-- Previous -->
+		
+	<span class="prev"><a class="dynamicBrowse" href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple/(nodeid)/5854" rel="/(regions)/7767/(search)/simple/(nodeid)/5854">&lt;&lt; <em>Previous page</em></a></span>
+
+
+	<!-- End previous -->					
+		<span><a class="dynamicBrowse" href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple/(nodeid)/5854" rel="/(regions)/7767/(search)/simple/(nodeid)/5854">1</a></span>  &nbsp;
+
+			
+		<span class='active'><b>2</b></span> &nbsp;
+
+		
+		
+		
+
+
+		<span><a class="dynamicBrowse" href="/en/layout/set/print/Publications/(offset)/20/(regions)/7767/(search)/simple/(nodeid)/5854" rel="/(offset)/20/(regions)/7767/(search)/simple/(nodeid)/5854">3</a></span> &nbsp;
+	
+	
+		
+		
+		
+
+
+		<span><a class="dynamicBrowse" href="/en/layout/set/print/Publications/(offset)/30/(regions)/7767/(search)/simple/(nodeid)/5854" rel="/(offset)/30/(regions)/7767/(search)/simple/(nodeid)/5854">4</a></span> &nbsp;
+	
+	
+		
+		
+		
+
+
+		<span><a class="dynamicBrowse" href="/en/layout/set/print/Publications/(offset)/40/(regions)/7767/(search)/simple/(nodeid)/5854" rel="/(offset)/40/(regions)/7767/(search)/simple/(nodeid)/5854">5</a></span> &nbsp;
+	
+	
+
+
+			<span>...</span>
+	
+		
+	<span><a class="dynamicBrowse" href="/en/layout/set/print/Publications/(offset)/3040/(regions)/7767/(search)/simple/(nodeid)/5854" rel="/(offset)/3040/(regions)/7767/(search)/simple/(nodeid)/5854">305</a></span>
+<!-- End page numbers -->
+
+
+
+<!-- Next -->		
+	<span class="next"><a class="dynamicBrowse" href="/en/layout/set/print/Publications/(offset)/20/(regions)/7767/(search)/simple/(nodeid)/5854" rel="/(offset)/20/(regions)/7767/(search)/simple/(nodeid)/5854"><em>Next page</em> &gt;&gt;</a></span><!-- End next -->
+
+</div>
+								<div class='clear'></div>
+
+
+													<p>Search Keys:
+																						<!-- <a href="Thesaurus-labels/Regions/EU">EU</a> -->
+						EU
+																						</p>
+				
+			</header>
+
+
+												
+		<article class="listlisting">
+
+		<a href="/en/layout/set/print/Fisheries/Topics/ACP-EU-relations-FPAs/EU-Morocco-SFPA-finally-signed-by-Morocco-European-fishermen-hope-to-restart-fishing-in-August">
+			<span class="listleft"><img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="News &amp; Analysis"/></span>
+
+			<span class="listright">
+				<h1>EU–Morocco SFPA finally signed by Morocco: European fishermen hope to restart fishing in August</h1>
+
+				
+									<em>Morocco’s King Mohammed VI took advantage of Spain’s King Felipe VI’s visit to announce that, at last, he will be signing the fishing agreement wit... 22/09/2014
+					 						</em>
+							</span>
+
+		</a>
+
+	</article>
+									
+		<article class="listlisting">
+
+		<a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Making-the-most-of-GI-protection-under-the-SADC-EU-EPA-agreement">
+			<span class="listleft"><img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="News &amp; Analysis"/></span>
+
+			<span class="listright">
+				<h1>Making the most of GI protection under the SADC–EU EPA agreement</h1>
+
+				
+									<em>As part of the SADC–EU EPA negotiations, agreement has been reached on the mutual recognition of a range of Geographical Indications (GIs) covering... 21/09/2014
+					 						</em>
+							</span>
+
+		</a>
+
+	</article>
+									
+		<article class="listlisting">
+
+		<a href="/en/layout/set/print/Fisheries/Topics/ACP-EU-relations-FPAs/EU-and-Madagascar-agree-new-SFPA-protocol">
+			<span class="listleft"><img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="News &amp; Analysis"/></span>
+
+			<span class="listright">
+				<h1>EU and Madagascar agree new SFPA protocol</h1>
+
+				
+									<em>The EU and Madagascar initialled a 4-year protocol to the SFPA with Madagascar. The EU financial compensation for this agreement is about €6 millio... 21/09/2014
+					 						</em>
+							</span>
+
+		</a>
+
+	</article>
+									
+		<article class="listlisting">
+
+		<a href="/en/layout/set/print/Fisheries/Topics/ACP-EU-relations-FPAs/Guinea-Bissau-and-the-EU-reactivate-the-procedure-for-an-SFPA">
+			<span class="listleft"><img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="News &amp; Analysis"/></span>
+
+			<span class="listright">
+				<h1>Guinea Bissau and the EU reactivate the procedure for an SFPA</h1>
+
+				
+									<em>Following the national elections in April 2014, the EU Commissioner for Maritime Affairs and Fisheries met the newly appointed Prime Minister from... 18/09/2014
+					 						</em>
+							</span>
+
+		</a>
+
+	</article>
+									
+		<article class="listlisting">
+
+		<a href="/en/layout/set/print/Fisheries/Topics/ACP-EU-relations-FPAs/EU-and-Mauritania-restart-negotiations-for-a-Sustainable-Fisheries-Partnership-Agreement">
+			<span class="listleft"><img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="News &amp; Analysis"/></span>
+
+			<span class="listright">
+				<h1>EU and Mauritania restart negotiations for a Sustainable Fisheries Partnership Agreement</h1>
+
+				
+									<em>The second round of negotiations for the renewal of the EU–Mauritania Sustainable Fisheries Partnership Agreement (SFPA) concluded without reaching... 17/09/2014
+					 						</em>
+							</span>
+
+		</a>
+
+	</article>
+									
+		<article class="listlisting">
+
+		<a href="/en/layout/set/print/Fisheries/Topics/EU-common-fisheries-policy/Call-on-the-EU-to-ban-subsidies-for-high-seas-fishing">
+			<span class="listleft"><img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="News &amp; Analysis"/></span>
+
+			<span class="listright">
+				<h1>Call on the EU to ban subsidies for high seas fishing</h1>
+
+				
+									<em>The Global Ocean Commission (GOC), an initiative composed of 17 government and business leaders, called for an international governance system for... 07/09/2014
+					 						</em>
+							</span>
+
+		</a>
+
+	</article>
+									
+		<article class="listlisting">
+
+		<a href="/en/layout/set/print/Fisheries/Topics/Market-access/Tackling-IUU-through-trade-policy-The-EU-s-experience">
+			<span class="listleft"><img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="News &amp; Analysis"/></span>
+
+			<span class="listright">
+				<h1>Tackling IUU through trade policy: The EU’s experience</h1>
+
+				
+									<em>The European Commission (DG Mare) has recently published an overview of the state of implementation of the EU IUU regulation by member states, the... 07/09/2014
+					 						</em>
+							</span>
+
+		</a>
+
+	</article>
+									
+		<article class="listlisting">
+
+		<a href="/en/layout/set/print/Fisheries/Topics/Market-access/Improvements-are-needed-for-the-EU-IUU-regulation-says-new-study">
+			<span class="listleft"><img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="News &amp; Analysis"/></span>
+
+			<span class="listright">
+				<h1>Improvements are needed for the EU IUU regulation, says new study</h1>
+
+				
+									<em>A study entitled ‘Traceability, Legal Provenance &amp; the EU IUU Regulation’, supported by the Stop Illegal Fishing Program and recently made publ... 07/09/2014
+					 						</em>
+							</span>
+
+		</a>
+
+	</article>
+									
+		<article class="listlisting">
+
+		<a href="/en/layout/set/print/Fisheries/Topics/Market-access/Developments-in-EU-canned-tuna-market">
+			<span class="listleft"><img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="News &amp; Analysis"/></span>
+
+			<span class="listright">
+				<h1>Developments in EU canned tuna market</h1>
+
+				
+									<em>Two recent publications, the FFA Globefish market report and Trade and Industry News, in its special feature on the Infofish tuna conference 2014,... 06/09/2014
+					 						</em>
+							</span>
+
+		</a>
+
+	</article>
+									
+		<article class="listlisting">
+
+		<a href="/en/layout/set/print/Agriculture/Commodities/Poultry/Lessons-from-EU-poultry-sector-trade-policy">
+			<span class="listleft"><img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt="Special Reports"/></span>
+
+			<span class="listright">
+				<h1>Lessons from EU poultry sector trade policy</h1>
+
+				
+									<em>The context of EU poultry sector tariff policyTrade policy is the principal policy tool used by the EU to manage the poultry sector and involves a... 04/09/2014
+					 						</em>
+							</span>
+
+		</a>
+
+	</article>
+							
+		</section>
+		</div>
+	</div>	
+
+
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":1336,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

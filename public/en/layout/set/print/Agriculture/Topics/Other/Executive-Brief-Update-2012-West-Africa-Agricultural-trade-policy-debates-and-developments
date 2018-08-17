@@ -1,0 +1,521 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2012: West Africa: Agricultural trade policy debates and developments / Other / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																						
+								<a href="/en/layout/set/print/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																				
+							
+																																																																																																																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7816/(search)/simple">ACP regional trade</a>
+							
+																																																																																																																																																																																																																																																																																					,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7823/(search)/simple">Other</a>
+							
+																																																						
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2012: West Africa: Agricultural trade policy debates and developments</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/67299/1141005/file/42dde69b8c6db589da6d1bb6ac4eeb32.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+												29 October 2012
+										</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>About this update</b>&nbsp;</p><p>This brief was updated in September 2012 to reflect developments since August 2011. The 2011 publication was based on a fuller briefing published in March 2009 and is available on request from 
+<a href="mailto:agritrade-mail@cta.int" target="_self">agritrade-mail@cta.int</a></p><p>Other publications in this series and additional resources on ACP–EU agriculture and fisheries trade issues can be found online at 
+<a href="http://agritrade.cta.int/" target="_self">http://agritrade.cta.int/</a>&nbsp;&nbsp;</p>
+
+		</div>
+		
+		
+					<a name="eztoc1140994_0_1" id="eztoc1140994_0_1"></a><h3>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Background and key issues</h3><p>Endemic malnutrition is present in the West African region, which encompasses the 15 members of the Economic Community of West African States (ECOWAS) and Mauritania. Food security in these areas is commonly on a knife-edge, in the context of rapid population growth (300 million in 2010 and projected to increase to over 500 million by 2030). While agriculture currently contributes over 36% of regional GDP and 15% of exports (30% if Nigeria is excluded), and provides employment for the majority of the population, major investments in agricultural production, trade, storage, processing, transportation, logistics management and the creation of an enabling policy environment are required if this underlying situation of food insecurity is to be addressed.</p><p>Efforts are under way at both national and regional levels to address these challenges. In 2011/12 Nigeria launched its Agricultural Transformation Action Plan (August 2011), Benin adopted its <i>Plan stratégique de relance du secteur agricole</i> (October 2011) and Niger adopted its ‘3Ns’ programme (April 2012), all aimed at promoting higher food production and reinvigorating export production. A number of sector-based initiatives are also taking place, for example:</p>
+<ul>
+
+<li>onion and wider horticulture sector development initiatives in Senegal; </li>
+
+<li>joint cotton sector programmes;</li>
+
+<li>national and regional initiatives to strengthen the cocoa sector;</li>
+
+<li>promotion of private sector investment in palm oil production. </li>
+
+</ul>
+<p>The majority of ECOWAS countries have adopted a commodity value-chain approach to programme design in their National Agricultural Investment Plans (NAIPs), which ensures farmers’ interests are accommodated, including through improving access for non-collateral-based financing for on-farm investment.</p><p>With all these initiatives under way, efforts are being made to coordinate regional agricultural policies and development programmes within the Comprehensive Africa Agriculture Development Programme (CAADP) framework through the Regional Agricultural Policy for West Africa (ECOWAP). Emphasis is on the implementation of agreed decisions by national governments to enhance cross-border trade. Plans, agencies and financing are being set in place to support agricultural development.</p><p>Critical to these regional efforts are the various initiatives to free up regional trade in food and agricultural products. Although a customs union, the West African Economic and Monetary Union (WAEMU), exists among eight French-speaking countries (Benin, Burkina Faso, Côte d’Ivoire, Guinea, Mali, Niger, Senegal and Togo), and a nominal free-trade area (FTA) exists across the wider ECOWAS grouping, serious problems are faced in implementing the ECOWAS Trade Liberalisation Scheme (ETLS). Many levies are commonly applied (both official and unofficial) on intra-regional trade while, by contrast, import bans and export restrictions are routinely applied to regional trade policy commitments. Highly heterogeneous trade policies continue to be applied, creating uncertainty among the business community and investors. However, there are continued efforts to harmonise the application of trade policies and to establish a common regulatory framework for agricultural and food product trade within the region, although most countries have not yet reviewed their legal frameworks in line with regional commitments.</p><p>The internal trade policy situation within West Africa complicates the ongoing regional economic partnership agreement (EPA) negotiations. The September 2011 EC proposal to modify Market Access Regulation (MAR) No. 1528/2007 has heightened awareness of the need either to complete the regional process or to ratify and implement existing bilateral interim economic partnership agreement (IEPA) arrangements in West Africa.</p><a name="eztoc1140994_0_2" id="eztoc1140994_0_2"></a><h3>2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Latest developments</h3><p><b>2.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agricultural sector developments in 2011–2012</b></p><p>While a record crop was gathered in most Sahel countries in 2010, cereals production in 2011 dropped on average by 9% to 55 million tonnes (see Table 1). This was still above the 5-year average for the region as a whole, but the production decline was more severe in nine Sahelian countries (−27% compared to 2010 and 5% below the 5-year average). Production dropped significantly in Chad, Niger, Mauritania, Burkina Faso and the coastal states of the Gambia and Senegal. A food crisis emerged in the countries concerned as pasture deteriorated and livestock holdings fell, food prices rose and civil strife increased food insecurity and malnutrition.</p><p>According to Oxfam, food prices were between 20 and 25% above the 5-year average across the region, with Inter-réseaux/SOS Faim Belgique reporting prices being substantially higher in Burkina Faso, Mali, Togo, Côte d’Ivoire, Ghana (+50–60%); Nigeria, Niger, Chad, Benin (+30–40%); Senegal, Mauritania, Gambia and Guinea (+25–33%). Yet, as Inter-réseaux/SOS Faim Belgique pointed out, ‘the provisional cereal balance for Mali and Burkina Faso is in net surplus (which is in contradiction with price developments)’.</p><p>Clearly wider factors were at play influencing price developments, including:</p>
+<ul>
+
+<li>the civil conflict in Mali and northern Nigeria; </li>
+
+<li>rising fuel prices; </li>
+
+<li>the introduction of trade restrictions in Mali and Burkina Faso;</li>
+
+<li>institutional purchases by governments, NGOs and international agencies; </li>
+
+<li>price expectations of traders and farmers, which limited trade in cereals; </li>
+
+<li>imported food price inflation.</li>
+
+</ul>
+<p><b>Table 1: Cereals* production situation in West Africa for selected countries (in millions of tonnes)</b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0" width="375">
+<tr>
+<td width="101" valign="top">  &nbsp;
+  </td><td width="55" valign="top">  <b>2008</b>
+  </td><td width="55" valign="top">  <b>2009</b>
+  </td><td width="55" valign="top">  <b>2010</b>
+  </td><td width="55" valign="top">  <b>2011***</b>
+  </td><td width="55" valign="top">  <b>2012****</b>
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  Burkina Faso
+  </td><td width="55" valign="top">  4.4
+  </td><td width="55" valign="top">  3.6
+  </td><td width="55" valign="top">  4.6
+  </td><td width="55" valign="top">  3.7
+  </td><td width="55" valign="top">  4.1
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  Ghana
+  </td><td width="55" valign="top">  2.3
+  </td><td width="55" valign="top">  2.6
+  </td><td width="55" valign="top">  2.9
+  </td><td width="55" valign="top">  2.6
+  </td><td width="55" valign="top">  3.0
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  Mali
+  </td><td width="55" valign="top">  4.4
+  </td><td width="55" valign="top">  5.0
+  </td><td width="55" valign="top">  6.4
+  </td><td width="55" valign="top">  5.8
+  </td><td width="55" valign="top">  6.1
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  Niger
+  </td><td width="55" valign="top">  5.0
+  </td><td width="55" valign="top">  3.5
+  </td><td width="55" valign="top">  5.6
+  </td><td width="55" valign="top">  3.6
+  </td><td width="55" valign="top">  4.6
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  Nigeria
+  </td><td width="55" valign="top">  25.8
+  </td><td width="55" valign="top">  25.7
+  </td><td width="55" valign="top">  27.0
+  </td><td width="55" valign="top">  26.9
+  </td><td width="55" valign="top">  27.5
+  </td>
+</tr>
+
+<tr>
+<td width="101" valign="top">  West Africa**
+  </td><td width="55" valign="top">  53.2
+  </td><td width="55" valign="top">  52.4
+  </td><td width="55" valign="top">  60.6
+  </td><td width="55" valign="top">  55.0
+  </td><td width="55" valign="top">  58.8
+  </td>
+</tr>
+
+</table>
+<p>Notes:</p><p>* Cereals including wheat, coarse grains and rice (paddy);** including Chad; *** Estimates; **** Forecast</p><p>Sources: FAO, ‘Crop prospects and food situation’, June 2012 and March 2011</p><p>Overall the developments in 2011/12 highlighted the extent to which the cereals supply situation in West Africa is constantly on a knife-edge, with endemic malnutrition even in good years, meaning that supply disruptions, both real and anticipated, can throw the region into a food crisis. Efforts are in progress at the ECOWAS level to translate the lessons learned from the current crisis into concrete actions to reduce future risks and improve the response capacity of the region. This focuses on support to the development of and enhanced implementation of national strategies for agri-food sector development, aimed at modernising production systems, improving rural incomes, enhancing cross-border trade and reducing food dependency.</p><p><b>2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in agricultural policies</b></p><p><b>Harmonising national policies with regional developments</b></p><p>According to a European Centre for Development Policy Management (ECDPM) review of the CAADP/ECOWAP, the process in the West African region is progressing well. A Regional Agricultural Investment Plan (PRIA) for 2011–2015 has been adopted, embracing investments of USD900 million, with ECOWAS committed to contributing USD150 million. This investment plan focuses on:</p>
+<ul>
+
+<li>the promotion of strategic food value chains for food sovereignty (USD399 million);</li>
+
+<li>the promotion of an overall environment favourable to regional agricultural development (USD283 million);</li>
+
+<li>a reduction of vulnerability to food crises and promotion of stable and sustainable access to food (USD176 million);</li>
+
+<li>development of a regional contingency plan and establishment of a regional facility to co-finance initiatives aimed at creating innovative national safety nets. </li>
+
+</ul>
+<p>A Regional Agency for Food and Agriculture (RAFA) is to be set up with a Regional Fund for Agriculture and Food (ECOWADF) being established to mobilise funds for implementing the plan. Food security is recognised as a national responsibility but with scope for complementary regionally coordinated initiatives.</p><p>At the national level, all 15 ECOWAS member countries (as well as Mauritania) ‘have signed national compacts in 2009–2011 and validated NAIPs’; in some cases with more detailed investment plans being drawn up and meetings convened to mobilise financing. A validated CAADP regional investment plan is also in place.</p><p>However, according to ECDPM, coherence between the ECOWAP and national CAADP compacts is not visible enough, with national CAADP compacts not sufficiently recognising cross-border linkages. As a consequence, national policies are not always seen as serving regional food security objectives. In part, this can be addressed by linking national contingency plans to regional early warning and nutrition monitoring systems.</p><p>According to ECDPM, the institutional weaknesses in the ECOWAS Commission structures have held back the deployment of donor financing via regional mechanisms. However, there is a potential for the regional CAADP to enhance coordination and contribute to regional integration even though obstacles still remain. These include noticeably ‘slow action on regional trade, infrastructure, and other related regional initiatives’ directly impacting on regional food security and agricultural development objectives.</p><p><b>Developments in national policies</b></p><p>In August 2011, the Nigerian government unveiled its new Agricultural Transformation Action Plan (ATAP) with the aim of diversifying the economy and ‘significantly increasing production of five key crops: rice, cassava, sorghum, cocoa and cotton’ within a framework of import substitution. Ambitious production targets in some sectors are to be backed up by restrictive trade policy measures, most notably with the introduction of import bans on rice, wheat and cassava flour (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Nigeria-s-ambitious-plans-for-rice-and-wheat-self-sufficiency-to-include-import-bans" target="_self">Nigeria’s ambitious plans for rice and wheat self-sufficiency to include...</a>’, 8 April 2012). Mandatory blending requirements for adding cassava flour in bread are also to be progressively introduced as part of this programme which sees a major expansion of cassava production through investment in commercial estates (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cereals/Development-of-cassava-value-chain-seen-as-means-of-reducing-Nigeria-s-food-import-bill" target="_self">Development of cassava value chain seen as means of reducing Nigeria’s f...</a>’, 16 January 2012). The government of Nigeria has also identified groundnut production and the processing and preservation of fruits and vegetables as opportunities for improving incomes of poor and vulnerable populations. The government is also looking to boost cocoa production from 250,000 to 500,000 tonnes, and cotton production from 20,000 to 140,000 tonnes. However, marketing issues do not seem to be substantively addressed across a range of these products, as recent government actions and plans are potentially inhibiting rather than promoting regional trade.</p><p>The overall aim of the ATAP is to promote private sector-based commercial agricultural production linked to the development of key supply chains (see <i>Agritrade</i> article, ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/ACP-regional-trade/New-Nigerian-agricultural-strategy-could-carry-important-trade-implications" target="_self">New Nigerian agricultural strategy could carry important trade implications</a>’, December 2011). However, questions have been raised about the viability of large-scale commercial farm development given existing land tenure systems in Nigeria.</p><p>In Benin, in October 2011 a new plan was adopted to revive the agricultural sector (<i>Plan Stratégique de Relance du Secteur Agricole</i>, PSRSA). The aim is to increase agricultural production, ensure food security, improve competitiveness and secure access to local, national, regional and international markets. Production targets for 2015 have been established in 14 priority sectors. But with the agricultural budget shrinking 5.2% in 2012, prospects for the attainment of these objectives have been reduced.</p><p>In Niger, in April 2012, the so-called 3N initiative (‘Nigerien people feed Nigerien people’) was launched. The aim is to enhance national food production and resilience to food crises through:</p>
+<ul>
+
+<li>increasing and diversifying agro-pastoral, forestry and fishing productions;</li>
+
+<li>strengthening rural-urban supply chains through enhancing storage, conservation and processing capacities, improving marketing and investing in physical infrastructure; </li>
+
+<li>increasing national reserve stocks of food and agricultural products;</li>
+
+<li>enhancing targeted nutritional programmes.</li>
+
+</ul>
+<p>The initiative is to be funded by a combination of government revenues, development assistance and a strengthening of public-private partnerships.</p><p><b>Sectoral initiatives: Policy and market developments </b></p><p>Recently, the government of Senegal sought to stimulate local onion production by supporting the construction of storage facilities, establishing an official fixed price for producers and placing seasonal restrictions on onion imports. In August 2011, press reports suggested an onion glut had emerged on the Senegalese market with prices falling from €3.71/kg to €1.86/kg (−50%) (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Horticulture/Oversupply-on-Senegalese-onion-markets-sees-prices-plummet" target="_self">Oversupply’ on Senegalese onion markets sees prices plummet</a>’, 25 October 2011). This needs to be considered against an underlying growth in local production and a 23% expansion of Dutch onion exports to Senegal in 2011, in a context where traders stockpiled onions before the introduction of seasonal import restrictions. The increase in Dutch onion exports was a continuation of recent trends (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Horticulture/Dutch-onion-exporters-face-difficulties-but-African-markets-offer-respite" target="_self">Dutch onion exporters face difficulties, but African markets offer respite</a>’, 10 June 2012).</p><p>In June 2012, a 3-year total import ban for onions was announced, with the government committing to the establishment of ‘special protective measures’ to address competition from imports (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Debate-on-onion-tariffs-in-Senegal-intensifies-amid-onion-glut-on-West-African-markets" target="_self">Debate on onion tariffs in Senegal intensifies amid onion glut on West A...</a>’ 6 August 2012). However, with little financing available for investment in quality improvements and inadequate storage facilities at farm level, the question arises as to whether underlying competitiveness can be effectively enhanced within such a 3-year window of reduced competition?</p><p>Côte d’Ivoire, in 2011, carried out a major reform of the cocoa sector by reintroducing a state marketing board similar to the neighbouring Ghanaian Cocoa Board COCOBOD. It aims to guarantee local farmers at least 60% of the export price of cocoa beans. The reforms involved the introduction of daily auctions for forward sales of cocoa bean production (70–80% of the future crop) and the establishment of a regulatory and stabilisation body. Difficulties were faced launching this scheme in January 2012 because buyers initially boycotted the auctions. Although the system is now in place, key operational details of the new system still need to be finalised, including issues related to handling costs, strengthening farmer organisations, approval of warehouses and training of field agents. The implementation of the reforms has not been helped by the drop in world cocoa prices since the beginning of 2012 (for details see, <i>Agritrade</i> special report, ‘Cocoa reform in Côte d’Ivoire’, forthcoming 2012).</p><p>Meanwhile, efforts are under way to expand cocoa production in Liberia, via the strengthening of farmers’ organisations and the enhancement of the commercial position of farmers in the supply chain. Although these efforts are supported by IFAD, a much needed replanting programme has yet to get off the ground and quality levels remain an issue. Currently official exports are only 9,530 tonnes, although extensive smuggling is reported (<i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cocoa/Efforts-underway-to-expand-cocoa-production-in-West-Africa" target="_self">Efforts underway to expand cocoa production in West Africa</a>’, 25 February 2012).</p><p>A number of private–public partnership initiatives have been launched within the West African cocoa sector. These have included:</p>
+<ul>
+
+<li>joint programmes to improve production under the umbrella of the World Cocoa Foundation (including the African Cocoa initiative); </li>
+
+<li>the initiatives of private companies such as Barry Callebaut and Hershey to improve yields and quality certification respectively; </li>
+
+<li>extension service support from multinationals such as Cargill.</li>
+
+</ul>
+<p>Given the short-term price volatility and expanding and shifting patterns of demand for cocoa products, the various public-private partnership initiatives to boost production raise important issues related to:</p>
+<ul>
+
+<li>the regulatory framework for cocoa sector relations; </li>
+
+<li>the scope for increased local value addition;</li>
+
+<li>the distribution of revenues along cocoa and cocoa product supply chains. </li>
+
+</ul>
+<p>Within the cotton sector, the Association of Cotton Producers in Africa (APROCA) launched a project in April 2011 for the development of fair-trade and organic cotton in West and Central Africa. Consequently, some €11.9 million in support was pledged by the French Development Agency (AFD). Implementation is to be nationally based, via operational contracts with national cotton producer associations.</p><p>Furthermore on 11 November 2011, the C4 group of West African governments’ proposal that ‘the US and EU should freeze trade-distorting support for cotton at current historically low levels’ was discussed at the World Trade Organization (WTO). It argued that ‘a “standstill principle” should apply to these subsidies while a negotiated solution is being reached.’ However, this was not endorsed by the 8th WTO Ministerial Conference. C4 governments remain disappointed by:</p>
+<ul>
+
+<li>the lack of progress on cotton issues in the WTO; </li>
+
+<li>the failure of the US to cut cotton subsidies; </li>
+
+<li>the absence of full decoupling of EU cotton support.</li>
+
+</ul>
+<p>(See <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Cotton/WTO-cotton-discussions-little-progress-growing-concerns" target="_self">WTO cotton discussions: Little progress, growing concerns</a>’, 12 August 2012).</p><p>In the palm oil sector, 2011/12 saw a continuation of growth in investment in West Africa. In the last five years, investments have been announced in Côte d’Ivoire, Ghana, Liberia, Nigeria and Sierra Leone. In late November, London-based Agriterra Ltd. announced its acquisition of 45,000 ha of land for plantation production in Sierra Leone to add to its existing investments in the southern area of Sierra Leone. Since signing an agreement in 2009, Malaysian palm oil giant Sime Darby has developed plans to invest USD3.1 billion over 15 years in palm oil production in Liberia. In December 2011, Agrimoney.com analysts spoke of a USD6 billion wave of investment in West African palm oil production.</p><p>Currently, Côte d'Ivoire is the leading African exporter of refined palm oil, and the fifth world producer. Although West Africa is increasing palm oil production, current domestic demand is largely met by cheaper Asian imports (in part linked to processing costs, quality and packaging issues). This threatens to hold back the development of the local palm oil processing industry, which potentially raises important trade policy issues, given the current investments under way in palm oil production across West Africa.</p><p><b>2.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in the implementation of regional trade policies</b></p><p>Since 2006, the WAEMU Common External Tariff (CET) has been extended to ECOWAS member states; however, the main challenge now is to identify products that will fall into the newly created 35% fifth band. This is to be governed by five criteria: vulnerability, diversification, regional integration, industry promotion and high production potential.</p><p>WAEMU had already submitted a list to ECOWAS in February 2010, with the latter being responsible for reconciling member states’ requests. The Joint ECOWAS/WAEMU Committee met in December 2011 and reviewed:</p>
+<ul>
+
+<li>the draft CET Nomenclature;</li>
+
+<li>the proposal for instruments related to ‘Accompanying and Safeguard Measures to be adopted by Member States during the implementation of the CET’. The instruments proposed were a degressive protection tax (TDP) of limited duration to protect local West African manufacturing industries, and an import safeguard tax (TSI) to combat import surges and a countervailing duty to combat ‘unfair’ competition. </li>
+
+</ul>
+<p>A ‘road map’ was agreed for the finalisation of a draft ECOWAS CET to be submitted to the ECOWAS Council of Ministers for adoption by end of June 2012.</p><p>Lobbying efforts continue to include specific products in the five tariff bands. The Ghana National Association of Poultry Farmers has called for poultry imports to be subject to a 35% tariff, following a sharp increase in frozen chicken imports from the EU, US and Brazil (from 26,000 tonnes in 2002 to in excess of 200,000 tonnes in 2011)<sup>&nbsp;</sup>(see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Poultry/Poultry-Focus/Poultry-imports-cause-growing-concern-in-Ghana" target="_self">Poultry imports cause growing concern in Ghana’</a>, 12 November 2011). To date the Ghanaian government has resisted calls for a more restrictive poultry trade policy favouring input support measures and competitiveness enhancement measures (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Poultry/New-poultry-sector-policy-pending-in-Ghana" target="_self">New poultry sector policy pending in Ghana</a>’, 27 December 2011).</p><p>The poultry trade is a particularly sensitive regional trade issue, with exports to Benin largely being smuggled into Nigeria where an import ban is in place (see <i>Agritrade</i> article 
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Poultry/Benin-an-important-market-for-Italian-poultry-exports" target="_self">Benin an important market for Italian poultry exports</a>, 9 August 2011).</p><p>An ad hoc committee of four nations, the coastal states of Côte d’Ivoire, Ghana, Nigeria and Senegal, has urged the ECOWAS Commission to:</p>
+<ul>
+
+<li>‘include sugar on the product priority list for the implementation of CET’; </li>
+
+<li>‘maintain the status quo on their customs tariff applicable to raw and refined sugar till 2014’; </li>
+
+<li>establish by 2018 ‘a uniform duty rate of 35% on both raw and refined sugar’. </li>
+
+</ul>
+<p>The sugar sector is likely to throw up regional trade conflicts in West Africa in the coming years as the countries of the interior seek to develop sugar cane production and processing for both their national and regional markets, while a number of coastal states place greater emphasis on sugar refining (although Illovo’s withdrawal from a major sugar project in Mali reduces scope for trade conflicts).</p><p>In Nigeria, although the government has offered a range of incentives to try to stimulate sugar cane production, some 95% of sugar requirements are still imported, with tariff policy favouring raw sugar for local refining (raw sugar tariff 5% plus 5% VAT, refined sugar a 20% duty, 10% development levy, 5% VAT). This has encouraged an increasing expansion of Nigerian sugar refining capacity to 2.3 million tonnes compared to national sugar consumption of around 1.4 million tonnes.</p><p>A standard duty of 35% for both refined and raw sugar could well change the balance between imports of refined and raw sugar, to the detriment of existing investment in Nigeria. Given the size of the Nigerian sugar refining sector, this carries regional significance. There is already a large informal cross-border trade between Nigeria and neighbouring countries, with official exports of sugar soon to commence to Ghana, Niger and Senegal once refinery rehabilitation is completed (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Sugar/Recommendations-on-West-Africa-regional-sugar-tariffs" target="_self">Recommendations on West Africa regional sugar tariffs</a>’, 15 April 2012).</p><p>An agreement on the ECOWAS CET is expected in 2012, although ‘much work’ remains. However, trade policies of ECOWAS member states are still very heterogeneous, with a multiplicity of non-tariff measures being used at national level. In addition, companies face significant challenges in making use of the ETLS, which aims to facilitate the free movement of agricultural products across the region (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/ACP-FTAs/Non-implementation-of-commitments-and-complex-procedures-hold-back-intra-regional-trade-in-Ghana-and-Nigeria" target="_self">Non-implementation of commitments and complex procedures hold back intra...</a>’, 29 July 2012).</p><p>As highlighted by WTO trade policy reviews in 2011–12, a nominal process of tariff and trade policy alignment is under way within WAEMU. However, major differences remain in terms of trade policy measures applied (see Table 2).</p><p><b>Table 2: Summary of WTO trade policy review findings on tariff rates applied in West Africa</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="92" valign="top">  <b>Country</b>
+  </td><td width="97" valign="top">  <b>Simple average of CET rates (%)</b>
+  </td><td width="152" valign="top">  <b>For agricultural products (WTO definition) (%)</b>
+  </td><td width="255" valign="top">  <b>CET harmonisation</b>
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  <b>WAEMU member states</b>
+  </td><td width="97" valign="top">  12.1
+  </td><td width="152" valign="top">  14.6
+  </td><td width="255" valign="top">  WAEMU CET, Côte d’Ivoire: Additional taxes applied for some products
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  Guinea
+  </td><td width="97" valign="top">  11.7
+  </td><td width="152" valign="top">  14.3
+  </td><td width="255" valign="top">  WAEMU CET except for 30 products
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  Mauritania
+  </td><td width="97" valign="top">  12.1
+  </td><td width="152" valign="top">  11.6
+  </td><td width="255" valign="top">  0, 5, 13 and 20%
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  Nigeria
+  </td><td width="97" valign="top">  11.4
+  </td><td width="152" valign="top">  15.6
+  </td><td width="255" valign="top">  5, 10, 20 and 35% in addition to other duties and taxes
+  </td>
+</tr>
+
+</table>
+<p>Sources: WTO Trade Policy Reviews (see main sources nos. 8 to 11)</p><p>The Côte d’Ivoire trade policy differs to a large extent from WAEMU common trade policy, since it applies:</p>
+<ul>
+
+<li>additional taxes on non-WAEMU originating imports in cases of sharp falls in world prices of dairy products, wheat or meslin flour and various oils (<i>Taxe conjoncturelle à l’importation</i> – TCI);</li>
+
+<li>a degressive protection tax (TDP), despite abolition of this measure by WAEMU;</li>
+
+</ul>
+<p>and various duties and taxes such as:</p>
+<ul>
+
+<li>a countervailing duty on meat not originating in the ECOWAS area; </li>
+
+<li>a special tax on tomato concentrates; an equalization tax on sugar;</li>
+
+<li>a tax for the development of agri-food production (on imported rice and wheat). Moreover, imports of sugar and wheat flour are banned and taxes are collected on exports of cola nuts, cashew nuts, coffee, cocoa and cocoa products.</li>
+
+</ul>
+<p>Although Guinea has attempted to align its most favoured nation (MFN) tariffs with the WAEMU CET since 2005, in reality it ‘has maintained rates that differ from the WAEMU rates for 30 products’. The WTO trade policy review also noted that Guinea imposes a whole range of fees, levies and supplementary taxes equivalent to a tariff of 18%. Currently, Guinea’s agriculture is essentially subsistence and is insufficient to meet national needs, with frequent shortages and high rates of malnutrition. This leads to extensive use of export bans, which in turn generate large-scale smuggling. Government consumer subsidies also encourage imports to the detriment of local producers (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/ACP-regional-trade/Agriculture-dimensions-of-the-WTO-trade-policy-review-for-Guinea" target="_self">Agriculture dimensions of the WTO trade policy review for Guinea</a>’, 12 November 2011).</p><p>In the case of Guinea Bissau exports of cashew nuts, a special licence is required and an ‘extraordinary’ 6% tax is applied. Moreover, ‘exports of some agricultural and animal products are subject to an ad valorem rural contribution tax (<i>contribuição predial rústica</i>): rubber (0.5%); groundnuts, rice, coconuts, cashew nuts, palm oil (1%).</p><p>Togo for its part does not apply any non-tariff barriers or any tariff barriers to its exports.</p><p>In the face of the rising costs of food and agricultural imports, Nigeria appears to be set on pursuing an increasingly protectionist agricultural trade policy. While Nigeria’s 810 agricultural product tariff lines largely fall into four bands (5%, 10%, 20% and 35%) in line with the ECOWAS CET, there are tariffs for products formerly subject to prohibitions which tend to be higher. In addition to tariffs, ‘other duties and charges are applied to imports of some products’; for instance 20% on rice and biscuits, and 10% on sugar. The WTO maintains that Nigeria’s use of import bans is decreasing (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/ACP-regional-trade/Agricultural-policy-dimensions-of-the-WTO-trade-policy-review-for-Nigeria" target="_self">Agricultural policy dimensions of the WTO trade policy review for Nigeria</a>’, 9 August 2011), but policy announcements in 2011–12 suggest the planned reintroduction of such measures in a number of sectors.</p><p>Mauritania, for its part, is highly dependent on imports of food products: over two-thirds of staple products consumed are imported. Although currently no quantitative restrictions on imports are applied for economic purposes, according to the WTO, administrative requirements – including a ‘special authorization’ for ‘sensitive’ products – ‘in practice [mean] that the lucrative trade in rice, sugar and medicines is reserved for a few privileged operators’. Imports of foodstuffs are sold at subsidised prices – a policy that does not encourage any improvement in domestic agricultural production (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Topics/ACP-regional-trade/Mauritania-s-trade-policy-and-food-security" target="_self">Mauritania’s trade policy and food security</a>’, 28 November 2011).</p><p>The trade situation is compounded by many obstacles to intra-regional trade that exist quite independently of government policy measures (including illegal road blocks, corruption at border posts, poor road infrastructure and a lack of logistical infrastructure along trade routes). In this context the liberalisation of intra-regional trade has remained largely theoretical, with continuing tariff and non-tariff barriers to trade between the various WAEMU and ECOWAS states.</p><p>Overall a report commissioned by the French Development Agency released in June 2011 concluded that trade policies within ECOWAS lacked coherence at several levels between:</p>
+<ul>
+
+<li>national and regional policies (i.e. the many instances where community regulations are not respected by member states);</li>
+
+<li>the WAEMU and ECOWAS processes (i.e. discrepancies between what has been agreed at WAEMU level and what is being discussed in the framework of the ECOWAS CET); </li>
+
+<li>national policies and international commitments (i.e. non-respect of commitments made in the WTO on bound tariffs and the use of non-tariff policy tools, in part related to the different development status of ECOWAS member states –DCs/LDCs – and the different obligations this carries);</li>
+
+<li>trade and sectoral policies, including agricultural policies. </li>
+
+</ul>
+<p>The report argues that the WAEMU CET does not reflect agricultural policies and does not sufficiently protect industries that have been identified as priority sectors by the region for the attainment of the objectives of the common agricultural policies elaborated at the WAEMU and ECOWAS levels. It further notes that discussions on the ECOWAS CET and fifth band classifications are primarily about harmonising national policies and requests rather than trying to reflect upon agreed sector policies.</p><p>In this regard, the classification into the fifth 35% band of the ECOWAS CET of strategic products such as rice (WAEMU CET: paddy: 5%, other: 10%); poultry meat (20%); dairy products (5 or 20%); tomatoes concentrates (20%); sugar (20%); wheat (20%); noodles (20%); fruit juices (20%) is currently being discussed. Such a proposal would substantially increase nominal tariffs in the affected products. The key issue then faced is to distinguish ‘local products’ that are not subjected to any custom duties and quantitative restrictions from other agricultural products subjected to preferential tariff scheme. Harmonisation of accreditation, certification and standardisation between WAEMU and ECOWAS could potentially facilitate this process of distinguishing local products.</p><p><b>2.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EPA negotiations</b></p><p><b>Toward a regional EPA: Main issues in negotiations</b></p><p>From May 2011 to May 2012 three meetings for EU and West African regional technical and senior officials were held and focused on:</p>
+<ul>
+
+<li>the West African market access offer; </li>
+
+<li>the EPA programme for development (PAPED); </li>
+
+<li>contention clauses including the non-execution;</li>
+
+<li>MFN and Turkey Clauses;</li>
+
+<li>ECOWAS community taxes;</li>
+
+<li>EU subsidies.</li>
+
+</ul>
+<p>In April 2011 West Africa reaffirmed its 70% market opening offer, which proved unacceptable to the EC which argued the offer was ‘not clear and not detailed enough’, since it provided no formula or schedule for tariff reductions. However, the EC expressed confidence that a compromise could be found at the political level.</p><p>In July 2012 Ghana and the EU called for an early conclusion of talks on the proposed EPAs between EU and the sub-regional body ECOWAS, both reaffirming their ambition to maintain and develop a deep and long-term strategic partnership.</p><p>According to ECDPM, ‘major progress seems to have been made’ on the PAPED development programme. According to the International Centre for Trade and Sustainable Development (ICTSD) and Enda Tiers Monde, ‘only the issue of additionality of necessary funds remains a major source of disagreement’, with this issue having been deferred to the political level. An October 2011 ECDPM discussion paper outlined options for operationalising the PAPED, under which some €15 billion in projects had been identified, while some €6.5 billion in EU funding for PAPED-related activities was available within total Aid for Trade donor allocations conservatively estimated to exceed USD12 billion.</p><p>PAPED covers five areas:</p>
+<ul>
+
+<li>Diversification and increase of production capacities (19%);</li>
+
+<li>Intra-regional trade development and facilitation of access to international markets (7%);</li>
+
+<li>Improvement and reinforcement of trade-related infrastructure (63%);</li>
+
+<li>Making the necessary adjustments and taking into account other trade-related needs (9%);</li>
+
+<li>Support to the implementation and monitoring-evaluation of the EPA by the West Africa region (2%).</li>
+
+</ul>
+<p>ECDPM argues that the PAPED could become an instrument ‘for improving aid effectiveness by contributing to a more coherent and coordinated approach to addressing the trade-related needs of the region’.</p><p>The ECDPM paper also notes that the non-execution clause is still a subject of discussions, with West African negotiators maintaining that no such clause is needed in the EPA since it is covered under the Cotonou Agreement.</p><p>Relating to the ‘Turkey Clause’ that requires West African governments to commit to concluding a free-trade agreement (FTA) with Turkey because of the customs union that the EU has with Turkey, this is a matter of ongoing discussion in West Africa. Similarly, the MFN clause defining to which third countries it should apply is still a focus of debate.</p><p>According to ECDPM, the EC has submitted a proposal to West Africa on the handling of EU agricultural subsidies, while what are described as ‘fruitful discussions’ continue on rules of origin issues.</p><p>At present the use of non-tariff measures such as export taxes and import restrictions do not seem to be the subject of debate in the region despite the continued use of such measures in the region.</p><p><b>Pressure is put on Ghana and Côte d’Ivoire to implement their IEPA</b><b>&nbsp;</b></p><p>Closely related to the ongoing regional negotiations is the status of the bilateral IEPAs concluded by Côte d’Ivoire and Ghana before the 2008 deadline. This issue was given added prominence in 2011 by the tabling of the September 2011 EC proposal to modify EU MAR 1528/2007. The proposal calls on the EU Council and the European Parliament to empower the European Commission to ‘amend the list of countries that benefit from the preferences (Annex I of Council Regulation (EC) No 1528/2007) by removing those which have still not taken the necessary steps towards ratification of an EPA’. This means that ACP countries such as Ghana – which have initialled but not signed the EPA; and Côte d’Ivoire – which have signed but not yet taken step to implement the IEPA, could lose duty-free quota-free access to the EU market from 1 January 2014, if the process of implementing either an IEPA or full regional EPA is not completed by this date.</p><p>Ghana’s Minister of Trade and Industry, Hanna Tetteh, has stressed that while ‘Ghana wants an ECOWAS consensus’ on outstanding contentious issues in the EPA negotiations, Ghana still has ‘the interim EPA as a fall-back should we not reach a consensus within the stipulated time-frame’.</p><p><b>2.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; West African trade negotiations with non-EU partners</b></p><p>Apart from negotiations with the EU, the West African region is looking to engage with the continent-wide free-trade agreement (CFTA) process. However according to ICTSD, several representatives from various regional groupings including Nigerian President Goodluck Jonathan have insisted that the 2017 deadline for a CFTA is too premature and unrealistic. President Jonathan maintains ‘there are no quick-fixes to integration’.</p><p>Press reports indicate Ghana is looking to conclude an FTA with Turkey aimed at increasing trade. Currently, Ghana exports mainly cocoa and gold to Turkey and imports mainly cement, metals, mineral oils, electrical machinery and equipment. The present volume of trade heavily favours Turkey, with Turkish exports growing significantly (from USD175 million in 2009 to USD290 million in 2010).</p><a name="eztoc1140994_0_3" id="eztoc1140994_0_3"></a><h3>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Current policy debates and issues</h3><p><b>3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lessons for the horticultural sector drawing on wider experiences</b></p><p>When addressing issues in the Senegalese onion and horticultural sector, lessons could usefully be learned from the Namibian horticultural development experience. Here as part of a wider scheme, involving computer-based supply and demand information systems and structured intra-sector dialogue, import licences – to individual wholesalers and retailers for products where commercially viable production is possible locally – are linked to a progressive expansion in local purchasing. This has led to local production meeting 30% of local demand compared to only 5% before the programme was initiated, against a background of the minimal use of trade restrictions. The use of such licensing arrangements to strengthen the functioning of local supply chains, potentially avoids the shortcomings of the current Senegalese approach of restricting seasonal imports.</p><p><b>3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Capitalising on growing Asian demand for cocoa-based products</b></p><p>Growing Asian markets offer opportunities for the establishment of joint ventures which enable West African cocoa producers to move up the value chain. In the longer term, however, this may require producer bodies to become more involved in downstream businesses. Taking a financial stake in major multinationals involved in chocolate and sweets production should secure a greater share of the value added in meeting expanding Asian demand. This can be seen as the next stage, building on recent investments in value-added processing of cocoa in West Africa.</p><p><b>3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moving towards closer harmonisation of agricultural trade policies</b></p><p>Bearing in mind the various trade policies applied currently by ECOWAS member states and Mauritania, CET finalisation and implementation is likely to prove difficult. Despite the existence of an ECOWAS free-trade area, barriers to trade still remain between the countries of the region, seriously impeding efforts to promote regional food security and agricultural sector development.</p><p>The experience of the use of import bans during 2011/12 in the face of an emerging food crisis raises issues related to the consistency of national trade policy measures with existing regional policy commitments (e.g. commitments made in November 2011 in the Charter for the Prevention and Management of Food Crises).</p><p>Given the endemic food insecurity in the region, there appears to be a need to find mechanisms for ensuring member state governments hold to commonly agreed agricultural trade policy commitments, within an agreed regional framework for strengthening agricultural investment, production and trade, closely linked to regionally coordinated arrangements for ensuring food security.</p><p><b>3.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dealing with the ongoing EPA processes</b></p><p>Potentially the EC proposal to modify MAR 1528/2007 could adversely affect exports of agricultural and fisheries products from Ghana and Côte d’Ivoire. Although recent votes in the European Parliament calling for the deadline to be shifted to 1 January 2016 may reduce the urgency of this issue, ongoing uncertainty over future access to the EU market could hold back efforts to attract investment in moving up agri-food value chains. In this context clear strategies for dealing with the consequences of delays in completing regional EPA negotiations in West Africa will need to be developed if the adverse effects of uncertainty are to be avoided.</p><p><b>&nbsp;</b></p><p><b>Main sources</b></p><p><b>&nbsp;</b>1. FAO, ‘Crop prospects and food situation’, December 2010</p><p>
+<a href="http://www.fao.org/docrep/013/al972e/al972e00.pdf" target="_self">http://www.fao.org/docrep/013/al972e/al972e00.pdf</a></p><p>2. FAO, ‘Crop prospects and food situation’, March 2012</p><p>
+<a href="http://www.fao.org/docrep/015/al985e/al985e00.pdf" target="_self">http://www.fao.org/docrep/015/al985e/al985e00.pdf</a></p><p>3.&nbsp;FAO, ‘Executive brief: The Sahel crisis, 2012’,11 May 2012</p><p>
+<a href="http://www.fao.org/fileadmin/user_upload/sahel/docs/EXECUTIVE%20BRIEF%20TCE%2011%20May.pdf" target="_self">http://www.fao.org/fileadmin/user_upload/sahel/docs/EXECUTIVE%20BRIEF%20...</a></p><p>4.&nbsp;Oxfam, Roppa <i>et al</i>., ‘Sahel markets under pressure’, Inter-agency briefing note, 31 May 2012</p><p>
+<a href="http://www.oxfam.org/sites/www.oxfam.org/files/bn-sahel-markets-under-pressure-31052012-en_0.pdf" target="_self">http://www.oxfam.org/sites/www.oxfam.org/files/bn-sahel-markets-under-pr...</a></p><p>5. AFD, ‘Analyse de la cohérence des politiques commerciales en Afrique de l’Ouest’, by J.-P. Rolland/A. Alpha/GREAT, <i>Document de travail</i> no. 114, June 2011</p><p class=" text-left">
+<a href="http://www.gret.org/wp-content/uploads/114-document-travail.pdf" target="_self">http://www.gret.org/wp-content/uploads/114-document-travail.pdf</a></p><p>6. GNAPF, ‘Implementation of ECOWAS CET Tariff of 35% as stated in the budget as a first step in reviving the poultry industry’, Research document for GNAPF/BUSAC Advocacy, December 2011</p><p>
+<a href="http://www.gnapf.com/index.php/publications/28-implementation-of-ecowas-cet-tariff-2" target="_self">httdp://www.gnapf.com/index.php/publications/28-implementation-of-ecowas...</a></p><p>7. World Bank, ‘Removing barriers to trade between Ghana and Nigeria: Strengthening regional integration by implementing ECOWAS commitments’, by M. Hoppe and F. Aidoo, <i>Policy Note</i> No. 30, March 2012</p><p>
+<a href="http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/AFRICAEXT/EXTAFRREGTOPTRADE/0,,contentMDK:23155666~pagePK:34004173~piPK:34003707~theSitePK:502469,00.html" target="_self">http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/AFRICAEXT/EXTAFRREGTO...</a></p><p>&nbsp;8.&nbsp;WTO, ‘Trade policy review: Côte d’Ivoire, Guinea-Bissau and Togo’, July 2012</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp366_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp366_e.htm</a></p><p>&nbsp;9.&nbsp;WTO, ‘Trade policy review: Nigeria’, June 2011</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp347_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp347_e.htm</a></p><p class=" text-left">10.&nbsp; WTO, ‘Trade policy review: Mauritania’, September 2011</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp350_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp350_e.htm</a></p><p class=" text-left">11.&nbsp; WTO, ‘Trade policy review: Guinea’, September 2011</p><p>
+<a href="http://www.wto.org/english/tratop_e/tpr_e/tp351_e.htm" target="_self">http://www.wto.org/english/tratop_e/tpr_e/tp351_e.htm</a></p><p class=" text-left">12.&nbsp; ECDPM, ‘Taking stock of CAADP in West Africa: State of play and challenges ahead for the region’, by D. Afun-Odigan, <i>GREAT Insights</i>, Volume 1, Issue 2, March–April 2012</p><p>
+<a href="http://www.ecdpm.org/Web_ECDPM/Web/Content/Navigation.nsf/index2?readform&amp;http://www.ecdpm.org/Web_ECDPM/Web/Content/Content.nsf/0/0602a1814afb236ec12579d600215fc7?OpenDocument" target="_self">http://www.ecdpm.org/Web_ECDPM/Web/Content/Navigation.nsf/index2?readfor...</a></p><p class=" text-left">13.&nbsp; ECDPM, ‘Regional approaches to food security in Africa: The CAADP and other relevant policies and programmes in ECOWAS’, J. van Seters, D. Afun-Ogidan and F. Rampa, <i>Discussion Paper</i> 128d, 2012</p><p>
+<a href="http://www.ecdpm.org/dp128d" target="_self">www.ecdpm.org/dp128d</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Regions/ACP/West-Africa/Executive-Brief-Update-2013-West-Africa-Agricultural-trade-policy-debates-and-developments">Executive Brief Update 2013 – West Africa: Agricultural trade policy debates and developments</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Other/Executive-Brief-Update-2012-West-Africa-Agricultural-trade-policy-debates-and-developments">Executive Brief Update 2012: West Africa: Agricultural trade policy debates and developments</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":144,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

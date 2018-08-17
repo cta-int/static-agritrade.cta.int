@@ -1,0 +1,228 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Emerging consensus on new EU rules to regulate dairy sector relations  / Dairy / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																								
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																														
+																																																																																																																																																																																																																																																		,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7801/(search)/simple">Dairy</a>
+							
+																																																																																																																																																																																																																																																		,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																																																												
+																																																																																																																																																																																										,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7819/(search)/simple">CAP reform</a>
+							
+																																																																																																																																	
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Emerging consensus on new EU rules to regulate dairy sector relations </h1>
+
+			
+			<h4>
+												16 January 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>Following a dispute between the EU Council and European Parliament on new rules to strengthen the functioning of the dairy supply chain within the EU, a reconciliation process between Council and EP representatives has reached a consensus. The new rules seek ‘to boost dairy farmers’ bargaining power’ within the supply chain, thereby ensuring ‘fairer prices for raw milk’. The new rules ‘will allow producers’ organisations to negotiate raw milk prices for the farmers they represent’. They also provide exemptions to certain competitions rules relating to combinations of producers.</p><p>Under the new rules it is left to the discretion of member state governments ‘whether or not to impose contracts covering milk delivery from farmers to collectors or processors’. Where compulsory contracts are required, these have to stipulate the price to be paid for milk, the payment periods and the ‘arrangements for collecting and delivering the milk’. The contracts also have to be for a minimum of 6 months.</p><p>After presentation to the Agriculture Committee in December, the results of this intra-institutional reconciliation process will be voted in plenary in February 2012. ‘The new regulation … will enter into force in 2012, after it is endorsed by both Parliament and the Council.’</p><p>The EC welcomed the agreement, maintaining that it will ‘prepare the milk sector for the new economic context and reinforce the position of the dairy producers in the supply chain’. The Commission argued that the new regulation ‘will open the way towards a modern management of agricultural markets, less bureaucratic, better organised between the public authorities and private actors with tools tailored to new economic challenges’.</p><p>The secretary general of EU farmers’ organisation Copa-Cogeca welcomed the new rules, remarking that ‘the agreement responds to our calls to strengthen farmers positioning in the food chain as they currently only get a fraction of the price.’ The exceptions to competition rules to allow ‘a greater concentration of supply’ and stipulations on minimum requirements for contracts were particularly welcomed. However, the chair of Copa-Cogeca’s Milk Working Party warned that ‘this dairy package is not sufficient in order to meet all the challenges’, and that tools such as intervention buying and support to private storage would continue to be necessary to address crisis situations on the EU market resulting from heightened global dairy price volatility.</p><p>In terms of global prices, online analysis <i>Agrimoney .com </i>reported in November 2011 that dairy prices had fallen for seven consecutive months, with the expectation that by June 2012 they could be down 20% from their earlier peak levels.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Thedairysite.com</i>, ‘Fairer deal for dairy farmers: New rules agreed’, 6 December 2011</p><p>
+<a href="http://www.thedairysite.com/news/36715/fairer-deal-for-dairy-farmers-new-rules-agreed" target="_self">http://www.thedairysite.com/news/36715/fairer-deal-for-dairy-farmers-new...</a></p><p>EC, ‘Commissioner Dacian Cioloş welcomes informal agreement by Council and Parliament on new rules for the milk sector’, MEMO/11/877, 6 December 2011</p><p>
+<a href="http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/11/877&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en" target="_self">http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/11/877&amp;...</a></p><p>Copa-Cogeca, ‘Copa-Cogeca welcomes EU agreement on milk package’, 6 December 2011</p><p>
+<a href="http://www.copa-cogeca.be/Main.aspx?page=Archive&amp;lang=en" target="_self">http://www.copa-cogeca.be/Main.aspx?page=Archive&amp;lang=en</a></p><p><i>Agrimoney.com</i>, ‘Dairy price warning, as China's milk imports halve’, 25 November 2011</p><p>
+<a href="http://www.agrimoney.com/news/dairy-price-warning-as-chinas-milk-imports-halve--3894.html" target="_self">http://www.agrimoney.com/news/dairy-price-warning-as-chinas-milk-imports...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The significance of the new rules reaches beyond the dairy sector, given broader EU moves away from administratively determined prices towards market-based prices. The new rules represent the elaboration, in concrete regulatory form, of efforts to rebalance relationship along supply chains that are characterised by substantial inequalities in the distribution of power among stakeholders. As such, the approach as a wider applicability than just the dairy sector – for example, it could also be applicable to the sugar sector.</p><p>However the intra-institutional compromise leaves it to the discretion of EU member states whether to make contracts compulsory. This would suggest that there is no consensus among member states on the desirability of regulating contractual relations within food supply chains. This may make it more difficult to extend aspects of the EU’s evolving policy on strengthening the functioning of specific food supply chains to the ACP–EU level. This is despite a recognition in the EC’s ‘EU raw materials paper’ of February 2011 on the potential relevance of such initiatives in dealing with the production consequences of global price volatility (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/General/Agriculture-speculation-and-the-EC-raw-materials-communication" target="_blank">Agriculture speculation and the EC raw materials communication</a>’, 1 March 2011).</p><p>The granting of exemptions to competition rules would appear to recognise the unique characteristics of the functioning of certain agricultural supply chains, which seem to require special exceptions.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Impact-of-CAP-reform-agreement-on-the-sugar-sector">Impact of CAP reform agreement on the sugar sector </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/CAP-reform/Building-coherence-with-development-policy-into-the-CAP">Building coherence with development policy into the CAP</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/CAP-reform/The-current-state-of-CAP-reform-negotiations">The current state of CAP reform negotiations</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/EU-Council-political-agreement-on-extension-of-sugar-production-quotas-until-2016-17">EU Council political agreement on extension of sugar production quotas until 2016/17 </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/CAP-reform/CAP-debate-intensifies-but-uncertainties-remain">CAP debate intensifies but uncertainties remain</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":175,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

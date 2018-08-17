@@ -1,0 +1,279 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Prospects for wheat prices in 2013 / Cereals / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																											
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																																																										
+								<a href="/en/layout/set/print/Publications/(regions)/7770/(search)/simple">Caribbean</a>
+																																																																																																																																																																																									,
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																																																	,
+								<a href="/en/layout/set/print/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																															
+																																																																																																																																																																																																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7893/(search)/simple">Cereals</a>
+							
+																																									
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Prospects for wheat prices in 2013</h1>
+
+			
+			<h4>
+												24 February 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>According to a report published by Rabobank, volatility in agricultural commodity markets looks set to continue into 2013, with grains and oilseeds looking particularly volatile. A supply squeeze in the first 6 months of 2013 is ‘expected to push prices higher’, before a production rebound leads to a weakening of prices.</p><p>In terms of the more detailed picture, reported by <i>Agrimoney.com </i>on the basis of several analysts’ projections, wheat futures proved one of the ‘best performers’ in 2012 (with wheat prices in October 2012 20% higher than in October 2011), although wheat future prices are projected to fall between 11 and 23% over the course of 2013 (see table). According to the report, this is despite the use of wheat in feed grain reaching its second highest level at 132.3 million tonnes, and low stock levels following poor harvests in Black Sea wheat exporting countries. Further price falls in 2014 are projected by Société Générale.</p><p><b>Wheat: Analysts’ average price projections per quarter for 2013 (US$/bushel, Chicago front futures contract)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="92" valign="top">  &nbsp;
+  </td><td width="123" valign="top">  Commerzbank
+  </td><td width="123" valign="top">  Rabobank
+  </td><td width="123" valign="top">  Société Générale
+  </td><td width="123" valign="top">  Goldman Sachs
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  Q1
+  </td><td width="123" valign="top">  8.50
+  </td><td width="123" valign="top">  9.10
+  </td><td width="123" valign="top">  8.92
+  </td><td width="123" valign="top">  9.50
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  Q2
+  </td><td width="123" valign="top">  8.20
+  </td><td width="123" valign="top">  7.75
+  </td><td width="123" valign="top">  8.53
+  </td><td width="123" valign="top">  9.50
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  Q3
+  </td><td width="123" valign="top">  7.70
+  </td><td width="123" valign="top">  7.35
+  </td><td width="123" valign="top">  8.15
+  </td><td width="123" valign="top">  -
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  Q4
+  </td><td width="123" valign="top">  7.50
+  </td><td width="123" valign="top">  7.00
+  </td><td width="123" valign="top">  7.95
+  </td><td width="123" valign="top">  8.00
+  </td>
+</tr>
+
+<tr>
+<td width="92" valign="top">  Average for 2013
+  </td><td width="123" valign="top">  8.00
+  </td><td width="123" valign="top">  -
+  </td><td width="123" valign="top">  8.39
+  </td><td width="123" valign="top">  -
+  </td>
+</tr>
+
+</table>
+<p>Source: <i>Agrimoney.com </i>(see below)</p><p>Commerzbank, while acknowledging uncertainties over future production levels, expects the area under wheat to increase by 2% globally in response to the high prices in 2012. While this is likely to lead to price falls throughout 2013, prices will still be at historically high levels by the end of 2013.</p><p>Goldman Sachs projects higher average prices than Commerzbank, since it expects wheat production to be lower than forecast by USDA, with wheat inventories beyond China and India falling ‘to their lowest levels since 2007-08’. According to Goldman Sachs, declining inventories and ‘inelastic food demand’ will ‘push wheat prices sharply higher and well above corn prices’, thereby effectively pricing wheat out of the feed market.</p><p>Rabobank expects wheat prices to rise at the beginning of 2013, but with subsequent strong falls. According to Morgan Stanley, in the longer term ‘a rebound in 2013-14 global production and lower corn prices should [put pressure on] wheat’ prices. These price pressures will be exacerbated by rising wheat production.</p><p>In mid January 2013, it was reported that ‘the USDA has pointed out that heavy rains in Argentina and Russia have affected wheat crops, and production estimates have been revised downwards.’&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Thedairysite.com</i>, ‘Rabobank 2013 outlook: Grain markets remain volatile’, 4 December 2012</p><p>
+<a href="http://www.thedairysite.com/news/40804/rabobank-2013-outlook-grain-markets-remain-volatile " target="_self">http://www.thedairysite.com/news/40804/rabobank-2013-outlook-grain-marke...</a></p><p><i>Agrimoney.com</i>, ‘Wheat prices - will they outperform again in 2013?’, 3 January 2013</p><p>
+<a href="http://www.agrimoney.com/feature/wheat-prices---will-they-outperform-again-in-2013--191.html" target="_self">http://www.agrimoney.com/feature/wheat-prices---will-they-outperform-aga...</a></p><p>IRIN, ‘Will there be a global food crisis in 2013?’, 16 January 2012</p><p>
+<a href="http://www.irinnews.org/Report/97255/Will-there-be-a-global-food-crisis-in-2013" target="_self">http://www.irinnews.org/Report/97255/Will-there-be-a-global-food-crisis-...</a></p><p><i>Nation News</i>, ‘Move to get returns from cassava’, 17 January 2013</p><p>
+<a href="http://www.nationnews.com/articles/view/move-to-get-returns-from-cassava/#When:04:06:53Z" target="_self">http://www.nationnews.com/articles/view/move-to-get-returns-from-cassava...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Wheat markets tend to be more vulnerable to production shocks than maize prices. Given the many uses of maize (e.g. food, animal feed, biofuel feedstock, corn syrup), companies and consumers are better placed to find substitute products than is the case for wheat. These factors appear to have been taken into account in the projections of Goldman Sachs, which has the highest price projections of the four banks reviewed.</p><p>High wheat prices are thus likely to heavily affect major wheat importing ACP countries (e.g. Nigeria). This gives added importance to efforts to promote a partial substitution of wheat flour by cassava flour in the bakery products industry. Initiatives to promote cassava flour use even appear to be gaining momentum in smaller ACP states: it has been being reported that trials are scheduled to start in Barbados to test the possible uses of cassava flour in bakery products, with reference to Barbadian consumer preferences.</p><p>Given the increasingly widespread nature of initiatives to promote partial substitution of cassava flour for wheat flour in bakery products, there would appear to be scope for sharing experience across the ACP, from cassava milling, through cassava flour refining, to inclusion in end products.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+									
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Maize-value-chain-East-Southern-Africa-COMESA-launches-Road-Map-to-boost-regional-maize-trade">Maize value chain/East-Southern Africa – COMESA launches Road Map to boost regional maize trade</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cereals/Wheat-value-chain-Ethiopia-Farmers-gaining-from-improved-crop-varieties">Wheat value chain/Ethiopia – Farmers gaining from improved crop varieties</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Ethiopia-Over-5-million-Ethiopian-farmers-to-benefit-from-IBM-s-ECX-Traceability-System">Input value chain/Ethiopia - Over 5 million Ethiopian farmers to benefit from IBM's ECX Traceability System</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Grain-value-chain-Ethiopia-Research-reveals-indigenous-crop-varieties-face-danger">Grain value chain/Ethiopia - Research reveals indigenous crop varieties face danger</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Wheat-value-chain-Zambia-State-bans-wheat-importation">Wheat value chain/Zambia - State bans wheat importation</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":147,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

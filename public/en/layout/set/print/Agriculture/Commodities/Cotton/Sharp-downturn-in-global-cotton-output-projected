@@ -1,0 +1,223 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Sharp downturn in global cotton output projected / Cotton / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																											
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7771/(search)/simple">Central Africa</a>
+																																																																																																			,
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																			,
+								<a href="/en/layout/set/print/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																																																																																
+																																																																																																																																														,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7800/(search)/simple">Cotton</a>
+							
+																																																																																																																																																																																																																																															
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7812/(search)/simple">WTO</a>
+							
+																																																																																																																																																																																																																																																																																											
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Sharp downturn in global cotton output projected</h1>
+
+			
+			<h4>
+												03 February 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>Analysis published in December 2012 on the website <i>Agrimoney.com</i> projects low cotton prices (which have fallen two-thirds from their all-time highs of March 2011) leading to the largest season-on-season fall in global cotton production in 20 years. The International Cotton Advisory Committee estimates that ‘world cotton production will fall 11.0% to 23.19m tonnes’ in 2013/14. Production is projected to decline in southern hemisphere producers such as Australia and Brazil, and to ‘fall sharply’ in Turkey and the USA, in the face of competition for land use from other crops, particularly soya. Smaller crops are also forecast in China, Pakistan, central Asia and francophone Africa.&nbsp;</p><p>World cotton inventories at the close of the 2012/13 are nevertheless projected to reach ‘a record high… – equivalent to more than eight months’ use’. World cotton stocks at the end of 2013/14, while slightly reduced, are still expected to be ‘high by historic standards’.&nbsp;</p><p>China accounts for around 43% of global inventories, following the implementation of reserve-building programmes. China’s reserves have risen ‘from 3% of mill use in August 2011 to 90% in November 2012’, according to the International Cotton Advisory Committee (ICAC). It is unclear how these stocks will be managed in 2013/14. This is an important issue, as ‘international cotton prices are currently supported and stabilised by Chinese policies.’ Any policy changes could have major market impacts.</p><p>In the same month, December 2012, the WTO reported to members on cotton matters, and released the latest data on development assistance flows to mainly African cotton producers. Submissions made to the WTO Secretariat suggest that since 2005, some US$389 million has been disbursed, US$291 million of this to projects now completed. Expenditure on ongoing projects accounts for only 28% of the outstanding committed amount of US$354 million. In addition, ‘a further $1.4 billion has been spent on completed or continuing projects for agriculture and infrastructure, which also benefits cotton,’ with a total of US$5 billion committed.</p><p>The WTO reported that on 6 December 2012, the chairperson of the ‘Framework mechanism for cotton’ meetings said there was ‘little to report’ on cotton-related negotiations, and that African governments nevertheless continue to push for ‘a quick, ambitious and specific solution on cotton as agreed in the 2005 Hong Kong Ministerial Declaration’. The report also notes members’ concerns that ‘new legislation in the US might increase the distorting subsidies’ in the cotton sector.</p><p>According to ICAC representatives at the WTO meeting, cotton production has expanded in both Burkina Faso and Mali, but with only limited volumes being used by local mills. Cotton production in Côte d’Ivoire and Zimbabwe is seen as having been ‘resilient despite political problems’. In Tanzania, local use of cotton has increased alongside an expansion of production, largely as a result of ‘foreign direct investment from countries such as Thailand and Indonesia’, which see advantages in Tanzania’s convenient location for ‘shipping exports to Asian markets’.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Agrimoney.com</i>, ‘Cotton output to fall at steepest rate in 20 years’, 4 December 2012</p><p>
+<a href="http://www.agrimoney.com/news/cotton-output-to-fall-at-steepest-rate-in-20-years--5294.html " target="_self">http://www.agrimoney.com/news/cotton-output-to-fall-at-steepest-rate-in-...</a></p><p>WTO, ‘Members work on improving quantity and quality of aid for cotton’, 6 December 2012</p><p>
+<a href="http://www.wto.org/english/news_e/news12_e/cdac_06dec12_e.htm " target="_self">http://www.wto.org/english/news_e/news12_e/cdac_06dec12_e.htm</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The situation among the African ACP cotton producing countries differs substantially, according to the production zone. While, at the global level, production is forecast to fall in 2012/13 by 1.5 million tonnes, production in francophone Africa is forecast to rise sharply (+41%), and in anglophone Africa to follow the general trend, falling by about 24%. These differing forecasts are due to cotton’s place in those countries’ economies, as well as to how their cotton industry is organised. In francophone Africa, the countries were determined to strengthen the recovery of their cotton industry by renewing agricultural input subsidies and also the higher purchase price offered to growers, despite the fall in world cotton prices. This policy appears to have paid off, in view of the nearly 33% increase in areas sown. In anglophone African countries, however, the fall in world prices led to a fall in local prices and thus to a reduction of 19% in the areas under cultivation.</p><p>While world prices have fallen by two-thirds, compared to their highest level in March 2011, in recent months they have fallen less than expected when the high level of stocks is taken into account. With the Cotlook index averaging 83 US cents/lb, prices remain profitable for African countries. The ICAC also indicates that the market is substantially less volatile, which is positive for all stakeholders. Nevertheless, despite the drop in production expected in 2013/14 and the recovery in consumption levels, the market will again produce a surplus. China’s policy with regard to its cotton reserves will also be a key factor in determining prices in 2013.</p><p>The US Farm Bill, which was due to expire on 30 September 2012, has been extended to 30 September 2013 within the framework of the budget agreement adopted by the Senate and the House of Representatives on 1 January. This means some months of negotiation to come in order for a compromise to be reached between the two chambers, and the cotton dossier at the WTO on hold.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+									
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/Does-the-new-US-Farm-Bill-meet-US-cotton-subsidy-reduction-commitments">Does the new US Farm Bill meet US cotton subsidy reduction commitments?</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/Sharp-downturn-in-global-cotton-output-projected">Sharp downturn in global cotton output projected</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/C4-and-China-agree-cooperation-deal-on-fringes-of-the-WTO-Ministerial">C4 and China agree cooperation deal on fringes of the WTO Ministerial</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/C4-countries-table-standstill-principle-proposal-in-WTO">C4 countries table ‘standstill principle’ proposal in WTO</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cotton/US-Brazil-cotton-dispute-may-return-to-the-WTO">US–Brazil cotton dispute may return to the WTO</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":156,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

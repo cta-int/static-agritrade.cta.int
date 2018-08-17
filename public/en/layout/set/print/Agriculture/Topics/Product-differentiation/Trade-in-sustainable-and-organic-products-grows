@@ -1,0 +1,258 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Trade in sustainable and organic products grows  / Product differentiation / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																											
+		
+		<div class='contentrealtionlist'>
+							
+																																										
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																																																																																			,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7795/(search)/simple">General</a>
+							
+																																																																																																																																																																																																																																																																																																																																																													
+																																																																																																																																																																																																																																																															,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7818/(search)/simple">Product differentiation</a>
+							
+																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/8254/(search)/simple">Market access</a>
+							
+																																
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Trade in sustainable and organic products grows </h1>
+
+			
+			<h4>
+												02 May 2011
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>According to the Fairtrade Foundation, sales of ethical and fair-trade products to the UK increased in value by around a third between 2009 and 2010 (rising from £836 million in 2009 to over £1.1 billion in 2010), making it the biggest global market for ethical and fair-trade products. This follows the more vigorous adoption of fair-trade/ethical brands by leading UK supermarkets such as Sainsbury’s. It has also seen the announcement by discount retailers such as Aldi of their entry into the fair-trade market.</p><p>‘Fair trade’ is one way in which ACP producers can distinguish their exports and so attract higher prices; another way is to export an acknowledged premium product, such as Jamaica’s Blue Mountain coffee. Neither approach removes entirely the many demand- and supply-side problems facing agricultural producers, since niche markets must always be defended and continuously developed. The recent difficulties faced by Jamaican exporters to the Japanese market (even before the devastating tsunami) is illustrative in this regard (see <i>Agritrade </i>article, ‘
+<a href="http://agritrade.cta.int/en/Commodities/Coffee-sector/News/Market-diversification-is-key-to-price-premiums-for-Blue-Mountain-coffee" target="_blank">Market diversification is key to price premiums for Blue Mountain coffee</a>’, April 2011).</p><p>On a wider level, the 2010 review by the State of Sustainability Initiatives (SSI) project reports a ‘steady to dramatic’ increase in sales of products under ‘ten of the most mature voluntary sustainability initiatives (VSIs) in the forestry, coffee, tea, cocoa and banana sectors’. This increase in sales has been ‘faster than conventional markets’. The SSI 2010 review reports:</p>
+<ul>
+
+<li>sustainable coffee sales up over 5 years by 433% at 457,756 tonnes, accounting ‘for 8% of global exports in 2009’;</li>
+
+<li>sustainable tea production up over 5 years by 2,000% at 281,105 tonnes, accounting for ‘approximately 7.7 % of global tea production for export’;</li>
+
+<li>sustainable cocoa sales up over 5 years by 248% at 46,896 tonnes, accounting for ‘1.2% per cent of global sales by 2009’;</li>
+
+<li>sustainable banana sales up between 2007 and 2009 by 63% and, at 3,480,565 tonnes, accounting for ‘approximately 20% of world exports by 2009.’ </li>
+
+</ul>
+<p>The supply of sustainable products remains ‘highly concentrated among a small number of countries, with the largest supply coming from more organized and developed markets’, with Latin American suppliers dominating. Only in the tea sector does Africa serve a larger portion of the sustainable tea market (70%) than its share in conventional tea exports (32%).</p><p>In the various sector, reported premiums for sustainable products were as follows:</p>
+<ul>
+
+<li>in the coffee sector, price premiums ranged from US$0.025 to 0.405 per pound, with most premiums falling in the US$.05–0.10/lb range;</li>
+
+<li>in the tea sector, price premiums ranged from US$0.17–1.59 per kg;</li>
+
+<li>in the cocoa sector, price premiums ranged from US$67–292 per tonne;</li>
+
+<li>in the banana sector, price premiums ranged from US$1.00–9.47 per box.</li>
+
+</ul>
+<p>However, of the certification schemes reviewed, only fair-trade certification schemes include explicit pricing requirements that brought additional benefits to producers.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>
+<i>Fructidor.fr</i>, ‘Les ventes de produits éthiques et équitables ont bondi de 40 %’, 16 March 2011 <br />
+
+<a href="http://www.fructidor.fr/newsdetail.aspx?idn=10349" target="_self">http://www.fructidor.fr/newsdetail.aspx?idn=10349</a><br />
+<i>Jamaica Gleaner</i>, ‘Car and coffee traders keep wary eye on Japan’, 18 March 2011<br />
+
+<a href="http://jamaica-gleaner.com/gleaner/20110318/business/business4.html" target="_self">http://jamaica-gleaner.com/gleaner/20110318/business/business4.html</a><br />
+SSI Project (Joint Initiative of IISD, IIED, Aidenvironment, UNCTAD and ENTWINED), ‘The state of sustainability initiatives review 2010: Sustainability and transparency’, November 2010<br />
+<a href="http://www.iisd.org/pdf/2010/ssi_sustainability_review_2010.pdf" target="_self">http://www.iisd.org/pdf/2010/ssi_sustainability_review_2010.pdf</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>It used to be argued that primary products were undifferentiated ‘commodities’, doomed for ever to suffer deteriorating terms of trade. While this remains true for some primary products (e.g. bulk cereals or tropical products), it does not apply to all. There are ways in which agricultural producers can differentiate their products from bulk commodities and thereby claim a premium price. While some ‘fair and ethical trade’ schemes ensure that a part of this price premium accrues to the producers, other schemes may simply worsen the terms of trade of producers by requiring that they pay for the costs of certification without offering either a price premium, or even a guaranteed market.</p><p>In this context, assisting ACP producers in entering value chains that really do offer a ‘fairer’ form of trade, assisting them to upgrade the quality of their products and respond to evolving markets would all appear to be essential. Certification schemes therefore need to be adopted in close association with:</p><p>* improvements in marketing strategies, to ensure products meet changing consumer preferences and needs;</p><p>* clear labelling requirements to facilitate consumer choice, and programmes to better educate consumers;</p><p>* efforts to deal with issues linked to strengthening the functioning of particular value chains.</p><p>Building capacity to respond to evolving markets is essential. As soon as a new market niche starts to look attractive, big producers will move in. Thus, while Caribbean exporters led the way in creating a market niche in fair-trade bananas, big Latin American suppliers can now be seen capitalising on this market. Similarly, as illustrated by the Jamaican Blue Mountain coffee experience, reinvesting revenues in ensuring that premium-brand product markets are diversified and responsive to evolving trends is essential. There will never be a shortfall in demand for Blue Mountain coffee; but whether Jamaica’s producers can in future retain as high a share of the prices paid by wealthy coffee lovers as in the past is much less certain.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+									
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Trade-in-sustainable-and-organic-products-grows">Trade in sustainable and organic products grows </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/SPS-Food-safety/Improving-information-on-food-safety-SPS-and-quality-standard-requirements">Improving information on food safety, SPS and quality-standard requirements</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/General/Agriculture-speculation-and-the-EC-raw-materials-communication">Agriculture speculation and the EC raw materials communication </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Other/Risk-management-in-an-era-of-price-volatility">Risk management in an era of price volatility</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/CAP-reform/Lessons-from-EU-agricultural-product-promotion-programmes">Lessons from EU agricultural product promotion programmes </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":129,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

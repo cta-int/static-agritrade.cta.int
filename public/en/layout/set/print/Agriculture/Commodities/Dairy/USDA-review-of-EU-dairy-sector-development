@@ -1,0 +1,235 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>USDA review of EU dairy sector development / Dairy / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																																																																																																																																																																																,
+								<a href="/en/layout/set/print/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																																																													,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																															
+																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7801/(search)/simple">Dairy</a>
+							
+																																																																																																																																																																																																																									
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>USDA review of EU dairy sector development</h1>
+
+			
+			<h4>
+												05 July 2011
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The US Department of Agriculture (USDA) has published its semi-annual report on the EU dairy sector, and highlights a substantial expansion (63%) in 2010 of exports of skimmed-milk powder (SMP), the area of greatest concern to ACP milk producers. The report specifically mentioned Nigeria as a destination for EU SMP exports, although the main export destinations were Russia and China. The report notes that as a result of these exports, SMP stocks in the EU had fallen back to more normal levels.</p><p>A further expansion in SMP exports of 6% is projected for 2011 as a result of increased international demand. This is consistent with current trends, with exports in the first two months of 2011 up 11% on the corresponding period for 2010. However it is also based on the continued release of intervention stocks. While planned stock releases in the first half of 2011 are expected to largely meet demand in Asia, some will also find their way onto South African markets, despite growing local demand for SMP from the EU food and feed industry.</p><p><b>EU skimmed-milk powder exports (tonnes) </b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="115" valign="top">  2009
+  </td><td width="132" valign="top">  2010
+  </td><td width="112" valign="top">  2011 (projection)
+  </td>
+</tr>
+
+<tr>
+<td width="115" valign="top">  231,000
+  </td><td width="132" valign="top">  378,000
+  </td><td width="112" valign="top">  400,000
+  </td>
+</tr>
+
+</table>
+<p>According to the USDA, EU intervention stocks for butter which had risen in 2009, disappeared in 2010, largely as a result of ‘internal food assistance programmes and exports’. In 2010 EU butter production declined as more milk was directed to cheese production, where profit margins are higher. The downward trend in butter consumption in the EU continues, while Asia faces butter shortages. This is increasing butter prices, which in turn are expected to lead to increased EU butter exports in 2011.</p><p>In 2010, EU milk output rose 1.2% in response to a 15% increase in average farm-gate prices for milk. EU27 cheese exports increased 18% in 2010, with exports expected to continue to grow in 2011, but at a slower pace, due to supply constraints. The expansion of cheese exports in 2010 mainly occurred in low-priced cheeses, with Russian demand a major factor. Overall, the US, Switzerland, Japan, Russia and Saudi Arabia are all major markets for EU cheese exports.</p><p>Whole-milk powder production in 2011 is expected to remain stable, after higher-than-expected production in 2010 due to ‘higher raw milk production and stronger export demand’. EU exports are expected to be hampered by stiff competition on Asian markets. According to the USDA, whole-milk powder is ‘a branded product and produced on a contract basis, thus production in general varies less than [SMP]’. The leading export destinations for EU whole-milk powder include Algeria, Nigeria and Oman.</p><p>‘In 2011 EU-27 milk production is expected to increase in response to growing demand on the domestic and international markets’ and firm prices. EU production will however remain under the quota ceiling. The analysis notes that while prices continue to entice farmers, ‘rising input costs are forcing more efficient production practices with fewer animals’.</p><p>With EU market prices substantially above intervention price levels, no EU intervention buying is expected in 2011.</p><p>The USDA analysis closes by reviewing recent policy developments regarding the strengthening of the functioning of dairy supply chains (including creation of dairy producers’ organisations for contract negotiation purposes, transparent contracts, and improved reporting on the state of EU dairy markets). On the back of this initiative, milk producer prices in France have been jointly negotiated (by farmers, dairies and government) since January 2011, with price fluctuations for milk limited to less than €10 per tonne per month and less than €8 per tonne per year. Government initiatives to regulate the milk market have also been launched in Spain.</p><p>The USDA analysis notes that with the ending of production quotas in 2015, EU dairy farmers ‘will be much more exposed to market forces and subsequent price volatility’. It expresses the belief that direct aid payments for dairy farmers will be ‘significantly cut, if not completely ceased’. The analysis maintains that ‘new support instruments will have to emerge to protect dairy farming in least favoured areas.’</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>
+USDA, ‘EU27: Dairy and products semi-annual report 2011’, GAIN Report No. PL0111, 13 May 2011<br/>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Dairy%20and%20Products%20Semi-annual_Warsaw_EU-27_5-6-2011.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Dairy%20and%20Prod...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The 63% expansion of EU skimmed-milk powder (SMP) exports in 2010 can be seen as a by-product of the expanded storage programmes introduced in response to the EU dairy crisis in 2009. This saw 282,587 tonnes bought into intervention, compared to a nominal ceiling of 109,000 tonnes, and the budget for export refunds in 2010 increased 148% from €181m to €449m. EU safety-net policy interventions to cushion the effects on EU producers of price declines (down 30–40% over an 18-month period) thus had direct trade effects in 2010.</p><p>While Nigeria and South Africa are the main ACP markets for EU exports of SMP, even relatively small volumes of EU exports to smaller ACP markets can have an impact on the functioning of the local dairy sector, given the volume of EU exports relative to national ACP market demand. This however is mediated through the purchasing decisions of local dairy-processing companies, who generally further process imported SMP into other value-added dairy products for local consumption. Increased milk powder imports can reduce both demand for and prices of locally produced milk, disrupting the development of local supply chains.</p><p>The EU maintains that it adopts a cautious approach to the use of export refunds, and indeed the EU system is very sophisticated, allowing refund levels to be varied by destination, product and end use. Potentially ACP government policies (notably import-licensing arrangements and the establishment of a dialogue process between stakeholders on the role of imported raw materials in promoting the development of local milk supplies to local dairies) could play an important role in influencing the overall pattern and impact of EU SMP exports on local dairy-sector development.</p><p>In this context, current initiatives in the EU (notably in France) to strengthen the functioning of national dairy supply chains could hold relevance for ACP governments seeking to promote better functioning of the input-supply arrangements between milk producers and dairy processors.</p><p>It should be noted that the USDA reference to a ‘significant cut’ or possible elimination of direct aid payments refers to the current coupled payment system, which accounted for around €1bn of aid payments to EU dairy farmers in 2011. It does not refer to the system of decoupled payments (the so-called single payment scheme), which according to EC statements delivers some €5bn per annum to EU dairy farmers.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Dairy-value-chain-Zambia-Sweden-promotes-the-use-of-biogas">Dairy value chain/Zambia - Sweden promotes the use of biogas </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Dairy-value-chain-Zambia-Introduce-25-duty-on-dairy-products">Dairy value chain/Zambia - Introduce 25% duty on dairy products</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Beef/Livestock-value-chain-Botswana-Consider-genetics-when-buying-cattle">Livestock value chain/Botswana - Consider genetics when buying cattle </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/SPS-Food-safety/Livestock-value-chain-Mozambique-Namibia-Foot-and-Mouth-disease-poses-threat-of-national-disaster">Livestock value chain/Mozambique &amp; Namibia - Foot and Mouth disease poses threat of ' national disaster'</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/South-Africa-invests-in-milk-production-in-Mozambique">South Africa invests in milk production in Mozambique</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":170,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

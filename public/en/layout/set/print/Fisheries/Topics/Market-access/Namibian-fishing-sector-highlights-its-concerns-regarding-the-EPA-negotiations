@@ -1,0 +1,219 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Namibian  fishing sector highlights its concerns regarding the EPA negotiations / Market access / Topics / Fisheries / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																					
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																																																																																																																																																													,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+							
+							
+																																,
+							<a href="/en/layout/set/print/Fisheries/(fisheries)/7828/(search)/simple">Market access</a>
+							
+							
+																																																																														
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Namibian  fishing sector highlights its concerns regarding the EPA negotiations</h1>
+
+			
+			<h4>
+												08 May 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>At a regional seminar on the EU–SADC Economic Partnership Agreement (EPA) held in Botswana at the end of 2012, the Confederation of Namibian Fishing Associations shared its views about fisheries issues arising from the EPA negotiations.</p><p>Close ties exist between the Namibian and EU fishing sectors, through a significant number of joint ventures, particularly for hake fishing, and trade: 73% of Namibian hake goes to the EU as well as monkfish and tuna. The hake fishing sector is a key employer, providing 13,380 jobs – more than two-thirds of the total Namibian fishing sector jobs.</p><p>A key concern for the fish trade with the EU is that Namibia, which will be considered as an upper middle income country by 2014, could be excluded from the generalised scheme of preferences (GSP) following an EC proposal. If this were the case, Namibia would no longer qualify to access EU markets with zero or reduced tariffs, thus threatening the future of the Namibian fishing industry. The Namibian fishing sector therefore supports its government’s position that this EC proposal should be rejected and, rather, EPA negotiations should be allowed to continue until a mutually beneficial agreement can be reached.</p><p>However, fisheries issues must still be resolved in the EPA negotiations. The EU wants first right of refusal regarding their vessels being chartered or incorporated into joint ventures. Namibia has a different view: ‘In the past Namibia ended up with old de-commissioned EU vessels, where the EU joint venture partner got a subsidy for shifting the vessel to Namibia. Now Namibia sits with many fuel inefficient vessels over 30-years old, and does not have local access to finance on good financial terms to modernise this fleet,’ explains the representative of the fishing sector. Namibia now wants to get the most competitive options when buying vessels internationally.</p><p>Rules of origin are another stumbling block: the EU states that Namibian fish can only be ‘wholly obtained’ when caught within Namibia’s territorial waters (up to 12 nautical miles). Namibia’s long-standing view is that all fish caught within its exclusive economic zone (EEZ) should be considered of origin, and that much of its territorial waters are closed to fishing for conservation reasons. Eurothon, a platform representing the EU tuna sector, strongly opposed such an extension. They consider that the standard rules of origin should be the same for all SADC states, including Namibia. Reasons include: avoiding confusion and a high risk of misdeclarations thus ‘opening the field for IUU [illegal, unreported and unregulated] fishing’; and local processing of globally sourced raw material that might occur through such an extension, would get unduly preferential access to the EU market, and unfairly compete with EU products.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>Confederation of Namibian Fishing Associations, ‘Market access to the EU for the Namibian fishing sector’, presentation at EC Regional Seminar on the EUSADC EPA in Botswana, 14–15 November 2012, January 2013</p><p class=" text-left">
+<a href="http://trade.ec.europa.eu/doclib/docs/2013/january/tradoc_150223.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2013/january/tradoc_150223.pdf</a></p><p>Eurothon,‘Note on the EU-SADC Economic Partnership Agreement Negotiations - 18.11.2010’, 18 November 2010</p><p class=" text-left">
+<a href="http://www.eurothon.eu/content/note-eu-sadc-economic-partnership-agreement-negotiations" target="_self">http://www.eurothon.eu/content/note-eu-sadc-economic-partnership-agreeme...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The issues raised by Namibia about the relaxation of chartering conditions and rules of origin are also key for many other ACP countries, as they impact on the development of their fishing and processing sectors. Increasingly for the EU, the key market access condition is to ensure that imported fish products come from sustainable, legal sources. Such sustainability concerns, shared by ACP countries, have to be addressed for both chartering and rules of origin issues. The main concern regarding chartering is the lack of clarity about who is ultimately responsible for the legality and sustainability of the vessel operation: the chartering (coastal) state or the flag state. In many cases, such opacity has facilitated IUU operations as no one has clearly taken this responsibility. It will be important for ACP countries that want to argue for the relaxation of the chartering conditions to address this issue. The request for an extension of the ‘wholly obtained’ status for products coming from the EEZ of an ACP country derives from the UN Convention on the Law of the Sea. This gives the coastal state sovereignty over the exploitation of the fish resources in its EEZ, as well as responsibilities to manage these resources sustainably, which include fighting IUU fishing. ACP states who want to argue for such relaxation of the rules of origin should therefore demonstrate, like Namibia, that fishing in their EEZ is governed by robust fishing policies, including on enforcement and the fight against IUU fishing.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/Fish-markets-enhance-the-dagaa-fish-trade-in-the-sub-region">Fish markets enhance the dagaa fish trade in the sub region</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/AAK-assist-the-grass-root-aquaculturist">AAK assist the grass root aquaculturist</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/Africa-moving-towards-innovation-and-product-development-in-the-Fisheries-sector">Africa moving towards innovation and product development in the Fisheries sector.</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/Sea-cucumbers-saving-lives-the-radical-charity-giving-Madagascan-fishing-communities-hope">Sea cucumbers saving lives: the radical charity giving Madagascan fishing communities hope</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/News-from-the-IOC-region/Enhancing-the-supply-chain-of-the-octopus-fishery-in-Mauritius-and-Rodrigues-and-crabs-in-Madagascar">Enhancing the supply chain of the octopus’ fishery in Mauritius and Rodrigues and crabs in Madagascar</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":134,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

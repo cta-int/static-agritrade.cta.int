@@ -1,0 +1,479 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Launch of the second phase of the negotiations / EPAs / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																											
+		
+		<div class='contentrealtionlist'>
+							
+																																																							
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																					,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																																																																																																																														
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7795/(search)/simple">General</a>
+							
+																																																																																																																																																																																																																																																																																																																																																													
+																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7813/(search)/simple">EPAs</a>
+							
+																																																																																																																																																																																																																																																																					
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Launch of the second phase of the negotiations</h1>
+
+			
+			<h4>
+												20 May 2004
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>
+On October 4th 2003 the first regionally based second phase of the <br />
+ &nbsp;EPA negotiations was begun between the EU and CEMAC - the Central <br />
+ &nbsp;African Economic and Monetary Union - which includes Cameroon, Central <br />
+ &nbsp;African Republic, Chad, Republic of Congo, Gabon, Equatorial Guinea, <br />
+ &nbsp;Sao Tome and Principe. On October 6th the second regionally based <br />
+ &nbsp;second-phase negotiations were launched in west Africa with ECOWAS <br />
+ &nbsp;-the Economic Community of West African States - which includes <br />
+ &nbsp;Cape Verde, Guinea; Gambia, Ghana, Nigeria, Sierra Leone and WAEMA <br />
+ &nbsp;- West African Economic and Monetary Union - which includes. Benin, <br />
+ &nbsp;Burkina Faso, Côte d'Ivoire Guinea Bissau; Mali, Niger, Senegal <br />
+ &nbsp;and Togo.<br />
+ Speaking in Benin at the opening of the west Africa negotiations <br />
+ &nbsp;EU Trade Commission Pascal Lamy maintained that the objective of <br />
+ &nbsp;an EU-West Africa EPA was an ambitious one, namely 'transforming <br />
+ &nbsp;West Africa into an economic hub which both attracts investment <br />
+ &nbsp;and mobilises private initiative; a centre of economic activity <br />
+ &nbsp;ensuring sustained growth... and long-lasting economic, social and <br />
+ &nbsp;environmental development'. According to Commissioner Lamy this <br />
+ &nbsp;is to be achieved through: widening existing markets; establishing <br />
+ &nbsp;a stable, transparent and predictable framework for economic activity <br />
+ &nbsp;and facilitating trade between the EU and west Africa.<br />
+ With regard to market access, Commissioner Lamy expressed the commitment <br />
+ &nbsp;to 'progressively eliminating trade barriers between us' and committed <br />
+ &nbsp;the EU to building on existing preferences 'by getting you as close <br />
+ &nbsp;as we can to the system we operate for the least developed countries'.<br />
+ Referring to CAP distortions, Commissioner Lamy committed the EU <br />
+ &nbsp;to discussing internally the impact of the EU's remaining export <br />
+ &nbsp;subsidies as well as other measures that could act as barriers to <br />
+ &nbsp;trade.<br />
+ With reference to the extent of reciprocity, Commissioner Lamy <br />
+ &nbsp;maintained that the Commission would 'carry out these negotiations <br />
+ &nbsp;with all the flexibility necessary to take into account the economic, <br />
+ &nbsp;social and environmental restrictions with which you are confronted, <br />
+ &nbsp;as well as your countries' capacity to adapt to the process of freeing <br />
+ &nbsp;markets'. He maintained that market opening would be required only <br />
+ &nbsp;to the extent 'necessary for your own development'.<br />
+ Commissioner Lamy recognised that EPAs would 'entail restructuring <br />
+ &nbsp;your economies' but maintained that this was essential if the benefits <br />
+ &nbsp;of EPAs were to be obtained. These benefits he maintained would <br />
+ &nbsp;need to be policy driven. Commissioner Lamy emphasised the importance <br />
+ &nbsp;of bringing into the process of EPA negotiations 'all concerned <br />
+ &nbsp;stakeholders, be they the private sector social partners or civil <br />
+ &nbsp;society' and maintained that the European Commission was committed <br />
+ &nbsp;to supporting this process.<br />
+ Commissioner Lamy acknowledged concerns about the preparedness <br />
+ &nbsp;of west Africa to engage in EPA negotiations. He noted that while <br />
+ &nbsp;ECOWAS was committed to the establishment of a common external tariff <br />
+ &nbsp;by 2007, few practical steps to achieving this objective had been <br />
+ &nbsp;taken. He also noted that 'many other measures still have to be <br />
+ &nbsp;put into effect in order to achieve real economic integration at <br />
+ &nbsp;west African level and even more measures to reach the objective <br />
+ &nbsp;you have set yourselves of establishing a common market across west <br />
+ &nbsp;Africa'. Commissioner Lamy pointed out that in west Africa the participation <br />
+ &nbsp;of Nigeria and Ghana in the regional integration process and EPA <br />
+ &nbsp;negotiations was essential, for without them regional integration <br />
+ &nbsp;would not gather much momentum. Despite the problems faced, Commissioner <br />
+ &nbsp;Lamy expressed the view that EPA negotiations would facilitate resolution <br />
+ &nbsp;of these problems.<br />
+ He reiterated the Commission's belief in 'open regionalism' whereby <br />
+ &nbsp;alongside opening up towards each other, ACP countries would take <br />
+ &nbsp;steps to open to the wider world (notably the EU). Commissioner <br />
+ &nbsp;Lamy maintained that any other alternative to EPAs would be 'inconceivable <br />
+ &nbsp;on a political level and irresponsible on an economic level'.<br />
+ Development Commissioner Poul Nielson in his speech covered many <br />
+ &nbsp;similar areas, emphasising that Phase 1 had succeeded in placing <br />
+ &nbsp;development at centre stage in the EPA negotiating process. He maintained <br />
+ &nbsp;that EPAs in and of themselves were a 'development framework', with <br />
+ &nbsp;development being 'mainstreamed all over the process of 'building' <br />
+ &nbsp;the EPA' and guiding discussions on every topic under negotiations.<br />
+ Commissioner Nielson highlighted that under the EDF the EU has <br />
+ &nbsp;a long-standing commitment to supporting regional integration amongst <br />
+ &nbsp;ACP countries. This he maintained was reflected in the designation <br />
+ &nbsp;of 'support to regional integration and trade' as a focal sector <br />
+ &nbsp;throughout ACP regional indicative programmes.<br />
+ Finally Commissioner Nielson emphasised the importance of EPAs <br />
+ &nbsp;and development assistance being complementary. He referred to the <br />
+ &nbsp;importance of using NIP funds, RIP funds and Investment Facility <br />
+ &nbsp;resources to support the preparation and implementation of EPAs, <br />
+ &nbsp;and recognised that this may require a review of the utilisation <br /> &nbsp;of NIP resources under the mid-term review process.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+
+<ul>
+
+<li> Commission press release (IP/03/1334-02/10/2003) </li>
+
+<li> Speech by Commissioner Lamy (SPEECH/03/449-06/10/2003) </li>
+
+<li> Speech by Commissioner Nielson (SPEECH/03/451-06/10/2003) </li>
+
+<li> ICTSD report on the launch of Phase 2 of the EPA negotiations </li>
+
+<li> Note on the ACP follow-up mechanisms for Phase 2 of the EPA negotiations </li>
+
+</ul>
+		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>
+Market access<br />
+ &nbsp;Commissioner Lamy's commitments on the market-access component of <br />
+ &nbsp;EPAs are illuminating. He committed the EU to getting EPA members <br />
+ &nbsp;'as close as we can to the system we operate for the least developed <br />
+ &nbsp;countries' This implies that the market access arrangements to be <br />
+ &nbsp;negotiated under EPAs will not provide market access as good as <br />
+ &nbsp;the trade preferences extended to least developed countries under <br />
+ &nbsp;the EU's 'Everything but Arms' initiative, the benefits of which <br />
+ &nbsp;already accrue to 12 of the 14 west African countries which were <br />
+ &nbsp;a party to the opening of the second phase negotiations (and 4 of <br /> &nbsp;the 7 central African countries).</p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0" width="75%">
+<tr>
+<td colspan="3" valign="top">  <b>Least Developed Countries in West Africa*</b>
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  <i>Benin</i>
+  </td><td valign="top">  <i>Burkina Faso</i>
+  </td><td valign="top">  <i>Cape Verde</i>
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  Cote d'Ivoire
+  </td><td valign="top">  <i>Gambia</i>
+  </td><td valign="top">  <i>Ghana</i>
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  <i>Guinea</i>
+  </td><td valign="top">  <i>Guinea Bissau</i>
+  </td><td valign="top">  <i>Liberia</i>
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  <i>Mali</i>
+  </td><td valign="top">  <i>Mauritania</i>
+  </td><td valign="top">  <i>Niger</i>
+  </td>
+</tr>
+
+<tr>
+<td valign="top">  Nigeria
+  </td><td valign="top">  <i>Senegal </i>
+  </td><td valign="top">  <i>Sierra Leone</i>
+  </td>
+</tr>
+
+<tr>
+<td colspan="3" valign="top">  
+* least developed <br /> &nbsp;countries are italicised
+  </td>
+</tr>
+
+</table>
+<p>
+Economic Partnership Agreements would thus appear to offer no additional <br />
+ &nbsp;benefits to the vast majority of west African countries in terms <br />
+ &nbsp;of the tariff treatment accorded them for access to the EU market. <br />
+ &nbsp;This means that overall with regard to market access, the benefits <br />
+ &nbsp;which EPAs may bring will hinge on how the EU deals with non-tariff <br />
+ &nbsp;barriers to trade, most notably SPS issues and rules-of-origin issues.<br />
+ CAP reform<br />
+ &nbsp;It may be significant that in addressing the external effects of <br />
+ &nbsp;CAP reform Commissioner Lamy restricted himself to references to <br />
+ &nbsp;export subsidies, ignoring entirely the effects of the new CAP-support <br />
+ &nbsp;instruments on production and trade in ACP countries. The position <br />
+ &nbsp;adopted by Commissioner Lamy is consistent with the Commission's <br />
+ &nbsp;view that the new forms of support are either less trade distorting <br />
+ &nbsp;or non trade distorting. Also of significance is the Commissioner's <br />
+ &nbsp;reference to how the EU will 'discuss among ourselves' the issue <br />
+ &nbsp;of export subsidies. This implies that the EU is not willing to <br />
+ &nbsp;participate in a dialogue with ACP countries on the external effects <br />
+ &nbsp;of the CAP.<br />
+ Reciprocity<br />
+ &nbsp;The Commissioner's comments on the extent of reciprocity which would <br />
+ &nbsp;be required from west African countries were designed to reassure <br />
+ &nbsp;governments that this would be consistent with what was necessary <br />
+ &nbsp;for their development and their ability to adapt. However it needs <br />
+ &nbsp;to be borne in mind that at the close of Phase 1 the Commission <br />
+ &nbsp;reiterated its interpretation of WTO provisions on 'substantially <br />
+ &nbsp;all trade' meaning that the product coverage of any reciprocal agreement <br />
+ &nbsp;should extend to 90% of currently traded goods. This Commission <br />
+ &nbsp;position would appear to place very real limits on the extent of <br />
+ &nbsp;flexibility within which the Commission will negotiate reciprocal <br />
+ &nbsp;market-access commitments. It reinforces ACP concerns over the need <br />
+ &nbsp;for a modification of WTO rules on free-trade areas to accommodate <br />
+ &nbsp;appropriate levels of reciprocity in trade relations between a developed <br />
+ &nbsp;economic giant like the EU and a bloc of least developed and developing <br />
+ &nbsp;countries such as those in west and central Africa.<br />
+ Regionalism<br />
+ &nbsp;The Commission's reiteration of the importance of pursuing 'open <br />
+ &nbsp;regionalism' was linked by Commissioner Lamy to the establishment <br />
+ &nbsp;of NEPAD and the importance of west Africa being open to trade with <br />
+ &nbsp;other African countries in the context of NEPAD. However it should <br />
+ &nbsp;be borne in mind that the EU's promotion of the concept of 'open <br />
+ &nbsp;regionalism' dates back to the mid-1990s. Despite the difficulties <br />
+ &nbsp;faced in fostering regional market integration in West Africa the <br />
+ &nbsp;Commission asserts that open regionalism will ease these difficulties. <br />
+ &nbsp;In its presentation of this point the Commission has a habit of <br />
+ &nbsp;conflating the benefits of regional market integration with the <br />
+ &nbsp;benefits of concluding free-trade area agreements (EPAs) with the <br />
+ &nbsp;EU at the same time. This is highly contentious. The parallel negotiation <br />
+ &nbsp;of EPAs may well dilute the benefits derived from the creation of <br />
+ &nbsp;larger regional markets, since it may well result in local enterprises <br />
+ &nbsp;sharing the benefits of larger markets with EU enterprises which <br />
+ &nbsp;secure access to the enlarged market through EPA negotiations. In <br />
+ &nbsp;a context where transport infrastructure, rather than linking up <br />
+ &nbsp;regional trading partners, is primarily oriented to overseas trade, <br />
+ &nbsp;the benefits of the creation of larger markets under 'open regionalism' <br />
+ &nbsp;may come to be gained disproportionately by European-based enterprises <br />
+ &nbsp;rather than those in neighbouring countries. <br />
+ The development context<br />
+ &nbsp;While in his speech to the assembled West African delegations Commissioner <br />
+ &nbsp;Lamy made reference to the wider context within which Phase 2 EPA <br />
+ &nbsp;negotiations will take place, this focussed exclusively on the WTO. <br />
+ &nbsp;No reference was made to the all-ACP-EU follow-up mechanism, which, <br />
+ &nbsp;from an ACP perspective, aims to both resolve the issues left outstanding <br />
+ &nbsp;under the Phase 1 negotiations and provide a coordinating mechanism <br />
+ &nbsp;to maintain the negotiating strength of the ACP Group as a whole. <br />
+ &nbsp;This suggests a lack of EU commitment to the joint follow-up mechanism <br />
+ &nbsp;established. Careful monitoring of the EPA negotiations will be <br />
+ &nbsp;essential in order to ensure that the EU lives up to its commitment <br />
+ &nbsp;to building development into all aspects under negotiation within <br />
+ &nbsp;the EPA process.<br />
+ Regional integration<br />
+ &nbsp;Commissioner Nielson's emphasis on support to regional integration <br />
+ &nbsp;conflates the EU's long-standing support to regional co-operation <br />
+ &nbsp;with its increased focus on supporting regional market integration. <br />
+ &nbsp;The extent of the increased Commission focus on regional market <br />
+ &nbsp;integration can be seen from the fact that the guidelines for regional <br />
+ &nbsp;programming prepared by the Commission had 'support to regional <br />
+ &nbsp;integration and trade' already filled in as a focal sector for all <br />
+ &nbsp;ACP regions. <br />
+ EDF support<br />
+ &nbsp;The emphasis on using EDF funds to support programmes for the preparation <br />
+ &nbsp;and implementation of EPAs is a somewhat controversial area. The <br />
+ &nbsp;first point to note is that the European Commission has a relatively <br />
+ &nbsp;poor record of support to economic programmes. Put simply, the Commission <br />
+ &nbsp;on the basis of its own evaluation reports, is simply not very good <br />
+ &nbsp;at conceptualising, designing and implementing such programmes. <br />
+ &nbsp;Secondly EDF procedures are poorly suited to responding to the time <br />
+ &nbsp;frames of the private-sector operators which will increasingly need <br />
+ &nbsp;to be brought into EDF cooperation programmes if successful support <br />
+ &nbsp;to economic restructuring is to be extended. Thirdly only a small <br />
+ &nbsp;amount of NIP resources has so far been allocated to trade, business <br />
+ &nbsp;and agricultural development A review of the sectoral utilisation <br />
+ &nbsp;of some &amp;euro;6,243 million of agreed 9th EDF NIP programmes found <br />
+ &nbsp;only 0.1% of funds allocated to trade projects, only 0.6% allocated <br />
+ &nbsp;to business projects and only 1.1% allocated to agricultural projects. <br />
+ &nbsp;The vast majority of funds were allocated to structural adjustment <br />
+ &nbsp;(30.7%), which largely took the form of budgetary support and transportation <br />
+ &nbsp;projects (21.4%), with governance, water, education and health accounting <br />
+ &nbsp;collectively for a further 25.2% of programmed allocated funds. <br />
+ &nbsp;This suggest that if substantial amounts of NIP funding are to be <br />
+ &nbsp;deployed in support of the preparation and implementation of EPAs <br />
+ &nbsp;then either additional funds will be required or a major redeployment <br />
+ &nbsp;of funds will need to take place under the mid-term review.<br />
+ Negotiating capacity<br />
+ &nbsp;Concerns have been raised at the all-ACP level that it is too early <br />
+ &nbsp;to begin the second phase of negotiations when so many issues remain <br />
+ &nbsp;outstanding from Phase 1. Indeed, ACP representatives have expressed <br />
+ &nbsp;concern at the lack of capacity in central Africa to engage meaningfully <br />
+ &nbsp;in trade negotiations with the EU. There is concern that these 'negotiations' <br />
+ &nbsp;will rather be a process by which these countries sign up to EU <br />
+ &nbsp;proposals for EPAs, which then become the template for similar agreements <br />
+ &nbsp;with other regions. These concerns account for the importance attached <br />
+ &nbsp;by some ACP members to the follow-up mechanism designed to ensure <br /> &nbsp;coherence across the ACP.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+									
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/Review-of-the-treatment-of-NTBs-under-I-EPAs-posted">Review of the treatment of NTBs under (I)EPAs posted</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EU-FTAs/Rising-concerns-over-new-EU-trade-agreements">Rising concerns over new EU trade agreements</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EU-FTAs/A-more-integrated-flexible-approach-required-to-services-EPAs">A more integrated, flexible approach required to services EPAs </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/Trade-policy-WTO-finds-Gambian-competitiveness-eroded-in-ECOWAS">Trade policy: WTO finds Gambian competitiveness eroded in ECOWAS</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/Non-tariff-barriers-found-to-hinder-EAC-trade">Non-tariff barriers found to hinder EAC trade</a></p>
+						</div>
+</div>	</aside>
+
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":166,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

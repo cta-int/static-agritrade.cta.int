@@ -1,0 +1,387 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>EC projections of EU sugar market developments after the expiry of the production quota system / Sugar / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																								
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																														
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>EC projections of EU sugar market developments after the expiry of the production quota system</h1>
+
+			
+			<h4>
+												06 February 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The EC’s latest ‘Prospects for Agricultural markets and income in the EU 2011-2020’, published in December 2011, includes a review of likely developments in the sugar sector following the expiry of the current system of sugar production quotas in April 2015. Currently, production quotas constitute the main market management tool in the sugar sector. The EC notes that since the introduction of sugar sector reform, ‘the EU has turned from a net exporter into a net importer of sugar’.</p><p>The EC projects an expansion of the area under sugar beet in the EU (+18.75%) as a result of ‘projected developments in world prices and growing demand for ethanol, as well as the impact of the assumed end of the quota scheme’. It is expected that ‘the overall increase in demand for ethanol [will] lead to increased utilisation of sugar beet for ethanol’ (135% increase in utilisation), although wheat and maize will remain the main feedstocks for ethanol production. This, however, will be influenced by the relative price competitiveness of the different feedstocks used in the production of ethanol. Overall, ‘sugar processing is expected to remain largely unchanged from its current level.’</p><p>It is anticipated that a steady market balance will be maintained up to 2020, with production in 2020 being 8% below 2009, consumption 0.6% higher, imports 30% higher, and exports 40.6% lower than in 2009. The big change is in ending stocks, which by 2020 are projected to be 129% higher (described by the EC as ‘slight adjustments of domestic stocks’, but in reality equivalent by 2020 to 23% of consumption, up from 10% of consumption in 2009).</p><p><b>EU sugar balance sheet projections 2009–2020 (million tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="650">
+<tr>
+<td width="83" valign="top">  &nbsp;
+  </td><td width="47" valign="top">  2009
+  </td><td width="47" valign="top">  2010
+  </td><td width="47" valign="top">  2011
+  </td><td width="47" valign="top">  2012
+  </td><td width="47" valign="top">  2013
+  </td><td width="47" valign="top">  2014
+  </td><td width="47" valign="top">  2015
+  </td><td width="47" valign="top">  2016
+  </td><td width="47" valign="top">  2017
+  </td><td width="47" valign="top">  2018
+  </td><td width="47" valign="top">  2019
+  </td><td width="47" valign="top">  2020
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  Area under sugar beet (m/ha)
+  </td><td width="47" valign="top">  1.6
+  </td><td width="47" valign="top">  1.6
+  </td><td width="47" valign="top">  1.6
+  </td><td width="47" valign="top">  1.6
+  </td><td width="47" valign="top">  1.7
+  </td><td width="47" valign="top">  1.7
+  </td><td width="47" valign="top">  1.8
+  </td><td width="47" valign="top">  1.8
+  </td><td width="47" valign="top">  1.8
+  </td><td width="47" valign="top">  1.9
+  </td><td width="47" valign="top">  1.9
+  </td><td width="47" valign="top">  1.9
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  Total beet produced
+  </td><td width="47" valign="top">  114.4
+  </td><td width="47" valign="top">  106.8
+  </td><td width="47" valign="top">  112.1
+  </td><td width="47" valign="top">  108.3
+  </td><td width="47" valign="top">  111.7
+  </td><td width="47" valign="top">  112.6
+  </td><td width="47" valign="top">  117.6
+  </td><td width="47" valign="top">  119.8
+  </td><td width="47" valign="top">  122.1
+  </td><td width="47" valign="top">  123.7
+  </td><td width="47" valign="top">  124.9
+  </td><td width="47" valign="top">  128.1
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  - for ethanol
+  </td><td width="47" valign="top">  17.1
+  </td><td width="47" valign="top">  18.2
+  </td><td width="47" valign="top">  20.6
+  </td><td width="47" valign="top">  23.1
+  </td><td width="47" valign="top">  26.9
+  </td><td width="47" valign="top">  28.1
+  </td><td width="47" valign="top">  29.3
+  </td><td width="47" valign="top">  31.2
+  </td><td width="47" valign="top">  33.6
+  </td><td width="47" valign="top">  36.6
+  </td><td width="47" valign="top">  38.5
+  </td><td width="47" valign="top">  40.2
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  - processed to sugar
+  </td><td width="47" valign="top">  97.2
+  </td><td width="47" valign="top">  88.5
+  </td><td width="47" valign="top">  91.5
+  </td><td width="47" valign="top">  85.2
+  </td><td width="47" valign="top">  84.7
+  </td><td width="47" valign="top">  84.5
+  </td><td width="47" valign="top">  88.3
+  </td><td width="47" valign="top">  88.6
+  </td><td width="47" valign="top">  88.5
+  </td><td width="47" valign="top">  87.1
+  </td><td width="47" valign="top">  86.3
+  </td><td width="47" valign="top">  87.9
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  Sugar production*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (quota 13.3m tonnes until 2015)
+  </td><td width="47" valign="top">  16.2
+  </td><td width="47" valign="top">  14.5
+  </td><td width="47" valign="top">  16.5
+  </td><td width="47" valign="top">  14.4
+  </td><td width="47" valign="top">  14.4
+  </td><td width="47" valign="top">  14.3
+  </td><td width="47" valign="top">  15.0
+  </td><td width="47" valign="top">  15.0
+  </td><td width="47" valign="top">  15.0
+  </td><td width="47" valign="top">  14.8
+  </td><td width="47" valign="top">  14.6
+  </td><td width="47" valign="top">  14.9
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  Consumption
+  </td><td width="47" valign="top">  16.5
+  </td><td width="47" valign="top">  16.5
+  </td><td width="47" valign="top">  16.7
+  </td><td width="47" valign="top">  16.6
+  </td><td width="47" valign="top">  16.6
+  </td><td width="47" valign="top">  16.6
+  </td><td width="47" valign="top">  16.6
+  </td><td width="47" valign="top">  16.7
+  </td><td width="47" valign="top">  16.7
+  </td><td width="47" valign="top">  16.7
+  </td><td width="47" valign="top">  16.6
+  </td><td width="47" valign="top">  16.6
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  Imports
+  </td><td width="47" valign="top">  3.0
+  </td><td width="47" valign="top">  4.2
+  </td><td width="47" valign="top">  3.5
+  </td><td width="47" valign="top">  4.4
+  </td><td width="47" valign="top">  4.4
+  </td><td width="47" valign="top">  3.9
+  </td><td width="47" valign="top">  3.4
+  </td><td width="47" valign="top">  3.9
+  </td><td width="47" valign="top">  3.9
+  </td><td width="47" valign="top">  4.0
+  </td><td width="47" valign="top">  4.0
+  </td><td width="47" valign="top">  3.9
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  Exports
+  </td><td width="47" valign="top">  3.2
+  </td><td width="47" valign="top">  1.9
+  </td><td width="47" valign="top">  2.5
+  </td><td width="47" valign="top">  2.0
+  </td><td width="47" valign="top">  1.9
+  </td><td width="47" valign="top">  1.9
+  </td><td width="47" valign="top">  2.0
+  </td><td width="47" valign="top">  2.0
+  </td><td width="47" valign="top">  2.0
+  </td><td width="47" valign="top">  2.0
+  </td><td width="47" valign="top">  1.9
+  </td><td width="47" valign="top">  1.9
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  Ending stocks
+  </td><td width="47" valign="top">  1.7
+  </td><td width="47" valign="top">  2.0
+  </td><td width="47" valign="top">  2.9
+  </td><td width="47" valign="top">  3.1
+  </td><td width="47" valign="top">  3.4
+  </td><td width="47" valign="top">  3.1
+  </td><td width="47" valign="top">  2.9
+  </td><td width="47" valign="top">  3.1
+  </td><td width="47" valign="top">  3.3
+  </td><td width="47" valign="top">  3.4
+  </td><td width="47" valign="top">  3.5
+  </td><td width="47" valign="top">  3.9
+  </td>
+</tr>
+
+</table>
+<p>* Sugar production is adjusted for carry-forward quantities and does not include ethanol feedstock quantities</p><p>Source: Extracted from, EC, ‘Prospects for Agricultural Markets and Income in the EU 2011-2020’, Tables A.10 and A.8</p><p>Use of sugar beet in sugar production is projected to stabilise at around 15.0 million tonnes after 2015. In the context of growing levels of imports (rising from 3.4 million tonnes in 2015 to 3.9 million tonnes in 2020) and stable exports (at around 2 million tonnes), a growing accumulation of ending stocks of sugar is projected (rising from 2.9 to 3.9 million tonnes). The abolition of production quotas in 2015 is thus projected as having no significant effect on export levels (with the main effect being felt in terms of increased ending stocks).</p><p>Overall, according to the European Commission, the abolition of production quotas – even with the anticipated ‘relatively high prices’ – is not expected to significantly change the net trade position of the EU (the trade deficit in 2020 is projected at 2.0 million tonnes, i.e. the same as the projected deficit for 2014, but lower than the projected deficit of 2.4 and 2.5 million tonnes projected for 2012 and 2013).</p><p>While the overall demand for sweeteners is anticipated to increase, this is expected to be captured by sweeteners other than sugar.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EC, ‘Prospects for Agricultural markets and Income in the EU 2011-2020’, December 2011</p><p>
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2011/fullrep_en.pdf" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2011/fullrep_en.pdf</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The most recent EC analysis is relatively silent on likely price trends. However, the EC’s earlier analysis of the impact of the abolition of production quotas suggests a decline in average sugar prices of between 8.2 and 10% for sugar beet, and between 3.5 and 5.7% for white sugar (depending on the timetable for the phasing out of production quotas). This is likely to be the main area of impact on ACP sugar exporters, with prices paid under commercial contracts and the nature of contractual relationships likely to have an important bearing on the extent to which traditional ACP exporters continue to supply sugar to the EU market within the projected trend towards expanded EU sugar imports.</p><p>A major issue, unaddressed in the EC projections report (as it is based exclusively on existing agreed EU policies), is the extent to which EU member states will support a policy regime which gives rise to a progressively expanding volume of EU ending stocks of sugar after 2015 (despite the rapid increase in the use of sugar beet in ethanol production of over 43% between 2014 and 2020). Should a decision be taken to relax export regulations for refined sugar products during periods of high world market prices (so as to reduce stock levels and the associated costs of storage), this could have implications for world market prices. Any such refocusing of the implementation of existing policies could serve to undermine any increase in world market prices, exacerbating price volatility in the sugar sector (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Sugar/EU-to-expand-out-of-quota-sugar-exports" target="_blank">EU to expand out-of-quota sugar exports</a>’, 2 March 2010) .</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Zimbabwean-sugar-exports-to-the-EU-to-continue-while-imports-to-be-restricted">Zimbabwean sugar exports to the EU to continue while imports to be restricted</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/EU-to-emerge-as-a-major-driver-of-global-sugar-markets">EU to emerge as a major driver of global sugar markets</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Debate-intensifies-on-extension-of-COOL-requirements-to-other-products">Debate intensifies on extension of COOL requirements to other products </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Sugar-users-call-for-reform-of-EU-sugar-import-regime">Sugar users call for reform of EU sugar import regime</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/More-limited-market-prospects-projected-for-sugar-imports-beyond-2017">More limited market prospects projected for sugar imports beyond 2017 </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":149,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

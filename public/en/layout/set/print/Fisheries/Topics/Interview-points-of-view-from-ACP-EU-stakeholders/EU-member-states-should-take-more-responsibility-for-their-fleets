@@ -1,0 +1,213 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>EU member states should take more responsibility for their fleets / Interview: points of view from ACP–EU stakeholders / Topics / Fisheries / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/interviews.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+							
+							
+																																																																												,
+							<a href="/en/layout/set/print/Fisheries/(fisheries)/7830/(search)/simple">EU common fisheries policy</a>
+							
+							
+																																		
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>EU member states should take more responsibility for their fleets</h1>
+
+			
+			<h4>
+												25 February 2012
+										</h4>
+
+						<h2>An interview with MEP Isabella Lövin</h2>
+					</header>
+
+
+				<div class="intro">
+
+						<p>﻿﻿</p>
+<div class="object-left">		
+<div class="embed-image">
+<img border="0" src="/var/agritrade/storage/images/08-10-09-lovin-isabella-se_small2/637260-1-eng-GB/08-10-09-LOVIN-Isabella-SE_small_medium.jpg" width="148" height="215"></div></div><p>MEP Isabella Lövin is a member of the European Parliament Fisheries and Development Committees. She is also a member of the ACP–EU Joint Parliamentary Assembly. In the context of the reform of the Common Fisheries Policy, she is rapporteur of the EC communication on the external dimension for the EP’s Fisheries Committee.&nbsp;</p>
+
+		</div>
+		
+		
+					<p><b>Q: The current CFP reform will have to be co-decided by the European Parliament and the Council. You are rapporteur for the EC communication regarding the reform of the external dimension of the CFP, which is not a legislative text. How do you think your report can influence CFP legislative reform?</b></p><p>The resolution that I’m preparing on the EC communication will serve as a basis for making inputs and proposing amendments to the future CFP legislative text, and I’m working closely with the rapporteur of the basic regulation – the main legislative text for the future CFP. I’m also discussing with the member states about how best to take into account sustainable fisheries development issues in the reform. Within the Parliament, the objective of the whole exercise is to create awareness: to be rapporteur for this communication means that we can have debates, organise exchanges of views with European and third-country fisheries stakeholders, and therefore contribute to creating support in the European parliament for some proposals which will be developed thanks to such debates.</p><p><b>Q: In your working document, you highlight the fact that, roughly, only a third of EU vessels fishing outside EU waters operate under fisheries agreements. The rest operate under private licensing and joint ventures, and you describe mainly what can happen outside the scope of fisheries agreements. Why did you want to emphasise these aspects?</b></p><p>The EC proposals for future Sustainable Fisheries Agreements, SFAs, have our full support: the need to get access only to resources where there is a surplus, the request for transparency about the cumulated fishing effort in third countries’ waters, the inclusion of a human rights clause, and the decoupling of monies paid for access, which should be increasingly the responsibility of boat owners to pay, from tailor-made financial support to develop sustainable fisheries in the ACP country concerned.</p><p>Some months ago, the Parliament, with a very large majority, adopted a resolution concerning the EU–Mauritania fishing agreement negotiations, where we stated our support for these general principles.</p><p>However, we realise also that putting these into practice may lead to some EU vessel-owners becoming less interested in operating under these SFAs, because rules will be stricter; in particular the fact that the EU fleets should only access the surplus of resources that cannot be caught by local fleets.</p><p>Given the state of overexploitation of many coastal resources in ACP countries, there are not so many cases where a surplus will be clearly demonstrable. So EU vessel owner may be tempted to find other ways of getting access to ACP fish resources. We therefore wanted to examine what these ‘other ways’ are, and what measures the EU can take to ensure that all its fishing vessels, regardless of whether they fish under an SFA or not, respect the same high level of requirements for sustainability.</p><p><b>&nbsp;</b></p><p><b>Q: What kind of measures could the EU take to ensure that EU vessels fishing outside agreements still comply with CFP rules?</b></p><p>One important element is that we want EU member states to take more responsibility over their fleets. They have to keep control over the activities of their companies, their vessels and their nationals when they act outside the EU.</p><p>Another key aspect is transparency and access to information. In order for the EU to take its responsibilities, it’s necessary that member states provide key information: about their vessels operating outside EU waters under private agreements and joint ventures; about EU ownership in foreign vessels, companies, etc. Third countries should also be encouraged to provide information on who is fishing in their waters. This is being proposed as a condition for the signing of future SFAs, the so-called transparency clause, but it might also be considered as a requirement under the IUU Regulation.</p><p>To improve transparency, we are also looking at the possibility of including the fisheries sector as an ‘extractive industry’ under the EU Transparency Directive which is being discussed at the moment. This would oblige EU fishing companies of a certain size to disclose payments they have made to governments.</p><p>I’m sure that even EU operators can see the importance of this, as it will help to create a level playing field for all EU operators active in distant-water fisheries.</p><p><b>Q: You mention particularly the desire of some EU fleets to develop ‘second registers’. This proposal sparked some controversy during the first debate in Parliament on your working document. What are these second registers, and what would be the negative impacts on developing coastal countries?</b></p><p>Some important EU fishing nations want to make the life of their fishing sector easier, by allowing them to pay less tax under these ‘second registers’. Some argue that this is necessary for EU fleets to operate on a more level playing field vis-à-vis their competitors, particularly Asian fleets.</p><p>We see this as a very worrying development: such ‘second registers’ already exist for merchant ships, and what it led to, apart from tax rebates, is a general lowering of social standards for the crew on board these vessels. Inasmuch as developing coastal countries, including those in the ACP, provide many fishermen to work on EU vessels, this would have negative consequences on their prospects in terms of getting decent jobs on board EU vessels.</p><p>We fully agree with those who want a level playing field for EU fleets, but, if you want to promote environmentally and socially sustainable development, this should be achieved through a ‘race to the top’, rather than a ‘race to the bottom’, by lowering standards applicable to EU fleets.</p><p><b>Q: But what do you say to those who emphasise that, if EU fleets are effectively barred from developing countries’ waters because they respect these new rules and high standards, like not fishing if there is no demonstrable surplus, it will not be to the benefit of the local fishing sector, but rather to the benefit of other distant-water fishing nations, like China?</b></p><p>We are in a situation where, given the increasing scarcity of fish resources, distant-water fishing fleets, whatever their origin, are trying to secure their access to developing countries’ fishing resources, to their ‘raw material’.</p><p>In a way, we could say that, similar to what is happening in agriculture with ‘land grabbing’, there is some kind of ‘sea grabbing’ taking place.</p><p>It’s important for developing countries like ACP countries to resist such ‘sea grabbing’. It’s for that reason that Sustainable Fisheries Agreements are interesting.</p><p>They should, on the one side, propose a transparent legal framework to ensure that the activities of EU fleets do not contribute to overfishing, environmental destruction and competition with local fishing communities.</p><p>They should also, through sectoral support for which the level will now be delinked from the level of fishing possibilities negotiated for EU fleets, help to mobilise the necessary financial resources to ensure that the coastal country can best manage its fisheries and maximise, over the long term, the benefits for its people.</p><p>I think if the EU succeeds in signing SFAs with its ACP partners on that basis, then this could become a model to inspire other distant-water fishing nations and to be promoted internationally. After all, ensuring fisheries’ sustainability globally is of interest to all, coastal countries and distant-water fishing countries alike!</p><p><b>Q: The Common Market Organisation is also being reformed. How do you think this may affect fish imports from ACP countries?</b></p><p>Like many of my colleagues, I’m in favour of putting stronger conditions on imports in the future market regulation. I’m convinced that the EU is not helping anyone by importing unsustainable fish products, neither the fishing sector in developing countries, nor its own fishing sector.</p><p>Concerning products imported from ACP countries, the EU should provide support and incentives to raise the environmental and social conditions under which fish is caught or farmed, when necessary.</p><p>This is a position that the EU, as the biggest world fish market, should also promote with other major fish market nations, like the USA or Japan, so that fish production becomes more sustainable globally.</p><p>I would also like to mention a very interesting debate that is now happening in Parliament. It has to do with what we call ‘the mackerel war’, between Iceland and the Faroe Islands on the one side, and the EU and Norway on the other.</p><p>This has led to a legislative proposal by the EC to take trade-related measures against third countries which allow unsustainable fishing. If this proposal is adopted, and although it was sparked by the particular conflict on mackerel in the North Atlantic, it will be applicable to other situations where third countries do not take the necessary measures to ensure sustainable fisheries.</p><p>As you can see, steps are being taken in the right way, and, provided the EU gives the necessary support to ACP countries to address these new measures, I’m convinced this will promote more sustainable fisheries at a global level.</p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/EU-member-states-should-take-more-responsibility-for-their-fleets">EU member states should take more responsibility for their fleets</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/EU-common-fisheries-policy/The-reform-of-the-external-dimension-of-the-Common-Fisheries-Policy">The reform of the external dimension of the Common Fisheries Policy  </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":137,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,228 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>New EU GSP comes into effect   / Market access / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+							
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/8254/(search)/simple">Market access</a>
+							
+																			
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>New EU GSP comes into effect  </h1>
+
+			
+			<h4>
+												08 February 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The new Generalised System of Preferences (GSP) agreed by the EU in 2012 came into effect on 1 January 2014. ACP states will be affected both indirectly (as GSP sets the tariffs for imports into the EU from some competitors) and, in a few cases, very directly (as their own market access terms have changed). The new regime will apply for the next 10 years and cover both agricultural and other goods.</p><p>While there are some changes to tariffs applied to specific goods, these changes are relatively small; the big change is in the list of countries that will receive GSP preferences. There will be a sharp reduction in the number of beneficiary states. This was foreseen when the new GSP was agreed, since it included the detailed criteria for inclusion and exclusion. However, country level assessments were deferred in order to make use of the most up-to-date data. The details of which countries are in and which are out have now been published.</p><p>There are three tranches in the GSP, offering different levels of preference to beneficiaries:</p>
+<ul>
+
+<li>The Everything But Arms (EBA) regime. Eligibility is determined by whether a country is classified as a least developed country (LDC). The new GSP has not changed this, although Maldives has lost its LDC status and South Sudan has acquired EBA eligibility. This is the most generous of the tranches.</li>
+
+<li>“The specific incentive arrangement” (known as GSP+). Eligibility for this middle tranche is determined by two sets of criteria: vulnerability, and implementation of a number of international environmental, social and human rights conventions. Countries must formally apply for GSP+, and the EC has announced the 10 countries approved for GSP+ treatment from January 2014. These include one ACP state – Cabo Verde; five Latin American states; three former centrally planned economies (Armenia, Georgia and Mongolia); and Pakistan. However, nine other ACP states satisfy the vulnerability criteria and so could become eligible if they meet the convention ratification requirements and apply. Six of these are non-LDC Pacific ACP states, but the list also includes the Republic of Congo, Nigeria and Maldives (although as the latter has now appeared in the World Bank list of upper-middle income states, its eligibility may be short-lived).</li>
+
+<li>“The standard arrangement” (GSP). This has undergone the most extensive changes, and has the broadest eligibility and the least generous preferences. No fewer than 87 states have been excluded from the GSP, so that only 41 states (plus the 49 LDCs eligible under EBA) remain eligible. </li>
+
+</ul>
+<p>However, this change to standard GSP treatment is not as dramatic as it appears, since in part it is a tidying-up exercise that excludes countries eligible for equivalent or better market access under another trade regime. This accounts for 77 of the exclusions, which split almost equally between Europe’s overseas countries and territories (OCTs) and its FTA partners, plus those ACP states still negotiating EPAs and currently covered by the EU’s autonomous preferences. Nevertheless, it could create short-term problems for those non-LDC ACP states still negotiating Economic Partnership Agreements (EPAs).</p><p>The second exclusion criterion is more controversial: states are excluded if classified by the World Bank for 3 years in a row as high or upper-middle income (HIC or UMIC), unless they are also classified as LDCs. Among the ACP states, this excludes Gabon and Palau with effect from January 2014.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EC, ‘Revised EU trade scheme to help developing countries applies on 1 January 2014’, 19 December 2013</p><p>
+<a href="http://trade.ec.europa.eu/doclib/docs/2013/december/tradoc_152015.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2013/december/tradoc_152015.pdf</a></p><p>EC, ‘10 countries to benefit from EU preferential trade scheme GSP+ as of 1 January 2014’, 30 December 2013</p><p>
+<a href="http://trade.ec.europa.eu/doclib/press/index.cfm?id=1006" target="_self">http://trade.ec.europa.eu/doclib/press/index.cfm?id=1006</a> </p><p>EC, ‘Information notice for countries which may request to be granted the special incentive arrangement for sustainable development and good governance under Regulation (EU) No 978/2012 of 31 October 2012 </p><p>
+<a href="http://trade.ec.europa.eu/doclib/docs/2012/november/tradoc_150043.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2012/november/tradoc_150043.pdf</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The inclusion of Pakistan as a GSP+ beneficiary is the change most likely to have an indirect impact on the competitive position of those ACP states that are not directly affected by the new GSP regime.</p><p>Competition could increase for some ACP agricultural (and non-agricultural) exports, with ACP exporters needing to look carefully at whether or not Pakistani exports are in direct competition with their own exports.</p><p>There is also the <i>possibility</i> that the inclusion of Pakistan could result in a WTO challenge to the GSP+ regime: India successfully challenged the precursor of GSP+ when coverage was extended from its original Latin American beneficiaries to include Pakistan. As with all trade policies, compatibility with a WTO rule is only effectively tested if and when a WTO member decides to launch a challenge.</p><p>A more immediate and direct importance of the GSP changes for some ACP states arises from the EU’s decision to phase out the autonomous preferences that have applied to the states currently negotiating EPAs. All the non-LDC negotiating states are now excluded from the GSP by virtue of the autonomous preferences. If these came to an end without an EPA being in place, states would find themselves in ‘preference limbo’ until the Commission acted to add them to the GSP lists. As Botswana and Namibia are, like Maldives, now in the World Bank’s list of UMICs, they could lose GSP eligibility permanently, either in 2014 or when they make their third consecutive appearance in the World Bank list.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/New-COMESA-guidelines-on-merger-assessment">New COMESA guidelines on merger assessment</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/Developments-in-Ghana-EU-fisheries-relations">Developments in Ghana–EU fisheries relations</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Market-access/Review-of-India-s-LDC-scheme-highlights-the-importance-of-product-coverage-SPS-requirements-and-rules-of-origin">Review of India’s LDC scheme highlights the importance of product coverage, SPS requirements and rules of origin</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Market-access/New-EU-GSP-comes-into-effect">New EU GSP comes into effect  </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EU-FTAs/EU-introduces-new-Generalised-System-of-Preferences">EU introduces new Generalised System of Preferences</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":139,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

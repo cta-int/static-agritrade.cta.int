@@ -1,0 +1,221 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Shedding light on European Fisheries subsidies / EU common fisheries policy / Topics / Fisheries / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																											
+		
+		<div class='contentrealtionlist'>
+							
+																																																							
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																					,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																																																																																																																														
+							
+							
+																																																																			,
+							<a href="/en/layout/set/print/Fisheries/(fisheries)/7829/(search)/simple">ACP-EU relations; FPAs</a>
+							
+							
+																																																												,
+							<a href="/en/layout/set/print/Fisheries/(fisheries)/7830/(search)/simple">EU common fisheries policy</a>
+							
+							
+																																															
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Shedding light on European Fisheries subsidies</h1>
+
+			
+			<h4>
+												20 January 2011
+										</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						
+<div class="">    <a href="/en/layout/set/print/Agriculture/Topics/EPAs/PACP-heads-of-state-call-for-speeding-up-of-regional-EPA-process">PACP heads of state call for speeding up of regional EPA process</a></div><p>Markus Knigge is Research and Policy Director of the Pew Environment Group’s EU Marine Programme. In cooperation with EU Transparency, Pew has been involved in setting up the fishsubsidy.org project, which aims to obtain detailed data relating to payments and recipients of EU fisheries subsidies and to make such data available in a way that is useful to citizens.</p>
+
+		</div>
+		
+		
+					<p><b>Q: EU fleets, including those fishing in ACP waters, are often described as ‘subsidised fleets’? What is the scale of these subsidies?</b></p><p>In reality, no one really knows how much funding goes into EU fisheries subsidies. The reason for that is there is a wide range of subsidies, some of them going to the whole sector – like the fuel tax exemption – some of them going to specific parts of the industry, as for modernisation or construction of fishing vessels, through the EU structural funds, or reduced social-security contributions, applying to EU distant-water fleets. It is very difficult to make exact judgments on how much the sector actually gets.</p><p>But if you look at specific cases, such as some Spanish vessels fishing on the high seas and under fisheries agreements, it is possible to get a better idea. One of the most impressive cases is that of two Spanish tuna vessels – the Albatun one and two – which received more than €4.9 million each, as subsidy for construction. If you add to that the fact that these vessels do not pay tax on fuel, but benefit from fisheries agreements, you can see that subsidies can be very substantial.</p><p>The EC itself estimates that in a number of EU member states the amount of subsidies to the fisheries sector exceeds the value of catches landed. Figures have been made available for the use of EU structural funds for the period 1994-2006, showing for instance that each job created in the Spanish catching sector received on average about €25,000 per year from EU structural funding in the 2000-2006 period.</p><p>And – as mentioned – that is just subsidies received through the EU structural funds – it does not include other types of subsidies. In addition, these are average figures and they hide the fact that several companies received repeated funding, for several vessels, while others, usually small companies, did not receive any support from structural funds.</p><p><b>Q: Distant water EU operators often argue that they need such public funding as otherwise they are unable to compete with other distant-water fishing fleets which do not respect the same level of environmental and social standards. Do you think this is a valid argument?</b></p><p>I think it is necessary to take a step back. Fisheries subsidies have been recognised by the global community as a major contributor to overfishing. In particular the World Summit on Sustainable Development as well as the WTO Hong Kong mandate recognised the need to deal with fisheries subsidies that lead to overfishing. In a way, it is a bit strange to hear operators who benefit from massive subsidies talk about a ‘level playing field’ and ‘competitiveness’. It is obvious that these fleets have received a massive advantage over the years. Whether withdrawing this advantage will lead to a lack of competitiveness is difficult to evaluate, in as much as we do not have good knowledge of the operational costs of these fleets and the costs of their competitors. Only such a comparison could give an idea of the relative competitiveness of the various fleets. But even if it showed that the EU fleet was less competitive, the question to ask is whether the solution would be to give it more subsidies?</p><p>It is indeed important to create a level playing field, but maybe it should be created by removing all subsidies that contribute to overfishing, for instance by lowering capital and operational costs, and to focus more on the need to preserve fish resources.</p><p><b>Q: This also raises the issue of how access to the fish resources are priced, in particular by developing countries such as ACP countries, and whether access is adequately paid for by distant-water fleets?</b></p><p>Absolutely. Although pricing fish resources is not easy, it would be very important for developing countries to value correctly their resources, looking at the whole value chain – catching, processing – in order to be able to define a price for access that reflects the value of the fish resources for the country’s development: economic value, local processing and job creation associated. The pricing of fish resources and access rights should also take into account the need for the country to recover the costs associated for the management of these resources.</p><p><b>Q: One issue often raised with fisheries subsidies is the lack of transparency</b></p><p>The basic reason why there should be transparency regarding fisheries subsidies is the fact that it is public money and there is a need for public scrutiny. But further than that, having transparency about how subsidies are used is the only way to allow a proper analysis of the effects of subsidies and to find a way to make public spending compatible with sustainable fisheries.</p><p>We were able to successfully claim data on fisheries structural funds from administrations for the period 1994-2006. Unfortunately, it proves more difficult to obtain adequate data for the current European Fisheries Fund. The main reasons are that the data are now disclosed by the individual member states in different languages and with less information than before. Also, in practice, this information is presented in such varying forms as to make proper scrutiny and cross-reference almost impossible…</p><p>Data should be made available to scientists and the public in a meaningful way. This is the reason why we established a website which allows a proper analysis of the data we successfully obtained.</p><p>Such analysis shows for instance that EU fisheries subsidies even supported law-breaking vessels. Some of these vessels have been convicted of serious infringements ranging from logbook misreporting to captures under minimum size, and to use of illegal fishing gear etc.</p><p><b>Q: Does the EU acknowledge that its fisheries subsidy policy is problematic?</b></p><p>I think so. The EC acknowledge that the European fishing fleets can in many cases exert a pressure on the stocks which is two to three times the sustainable level, and that subsidies have contributed to this.</p><p>Within the framework of the Sustainable Development Strategy, the EU even committed itself to removing environmentally damaging subsidies, proposing a roadmap for their elimination by 2008. But, to date, this roadmap has yet to materialise.</p><p>However, the EU has taken a first positive step to addressing the issue of subsidies allocated to operators involved in IUU fishing: the new IUU regulation stipulates that EU member states shall not grant any public aid under national aid regimes or European funds to operators owning or operating vessels included in the Community IUU vessel list.</p><p><b>Q: How may the EU ‘subsidising’ policy be reviewed in the context of Common Fisheries Policy reform?</b></p><p>Currently, the vast majority of EU funding is used for structural aid and fisheries agreements: the EU fisheries sector receives about €850 million annually in structural support and €150 million through access agreements.</p><p>At the same time, the EU contribution to control and enforcement as well as data collection is limited to about €50 million each, despite the fact that this is of benefit to the entire fishing sector.</p><p>The CFP reform needs to change these priorities and ensure that public money is used to create public goods. Clearly, more emphasis should be put on public funds being used for data collection, control and enforcement. Particularly as important needs have been identified: for example in 2007 the European Court of Auditors highlighted in a report the failure by member states to effectively control fishing activities by their fleets.</p><p><b>Q: Regarding funds disbursed through fisheries agreements, one of the reasons why many ACP countries are in favour of maintaining the status quo is that, often, these funds provide an important source of revenue for the state. </b></p><p>It is important to consider that ACP fisheries may perform better if less public funds were received by distant-water fleets, including through EU access fees payments. Cash-strapped countries are unable to provide ‘distant-water fleets levels of subsidies’ to their own fleets, and the situation created is therefore likely to be of an unfair competition between their fleets and distant-water fishing fleets operating in the same zone, fishing the same resources.</p><p>If there were less of these subsidies for access, ACP countries fisheries, composed mainly of small- and medium-size enterprises, may be more able to develop their comparative advantage.</p><p>And it could also make EU fleets change their behaviour. For example, if there were lower EU subsidies for fuel, landing the fish in third countries where the fish is caught might become more attractive. This would certainly give a boost to local processing.</p><p><b>Q: One of the latest submissions on fisheries subsidies to the WTO by the BRIC countries and Mexico proposes to prohibit to developed countries those ‘subsidies arising from the further transfer, by a payer member government, of access rights that it has acquired from another member government to fisheries within the jurisdiction of such other member’. In other words, it means that the EU could be challenged in the WTO for fisheries agreements. What is your opinion concerning such a proposal?</b></p><p>Well, everything supporting the income or lowering the costs of fishing operations can be regarded as a subsidy. So, in as much as EU FPA financial compensation is directly linked to access rights acquired by the EU for its fleets, lowering access costs for EU vessels owners, it is clearly a subsidy.</p><p>This being said, it does not mean that it is bad or good. What will be important for the future is that public funds, including what is spent through FPAs, should be used for the public good: independent scientific research to aid stock assessments and reduce impacts on habitat and ecosystems should be supported. Aid for further measures, such as training, cooperation between scientists and fishers, marine protection in sensitive areas and research and development of more selective gears, would also help to set the sector on a more sustainable footing, and help to create the conditions for sustainable fisheries in developing countries involved in such partnerships.</p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+									
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Fisheries/Topics/EU-common-fisheries-policy/EU-Member-States-that-have-exceeded-their-fishing-quotas-in-2013-will-face-reduced-quotas-in-2014">EU Member States that have exceeded their fishing quotas in 2013 will face reduced quotas in 2014 </a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/ACP-EU-relations-FPAs/EU-and-Spanish-support-FAO-work-for-a-global-register-of-fishing-vessels">EU and Spanish support FAO work for a global register of fishing vessels</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/ACP-EU-relations-FPAs/EU-and-Mozambique-open-talks-on-the-renewal-of-Sustainable-Fisheries-Partnership-Agreement-Protocol">EU and Mozambique open talks on the renewal of Sustainable Fisheries Partnership Agreement Protocol</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/ACP-EU-relations-FPAs/EU-Morocco-SFPA-finally-signed-by-Morocco-European-fishermen-hope-to-restart-fishing-in-August">EU–Morocco SFPA finally signed by Morocco: European fishermen hope to restart fishing in August</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/ACP-EU-relations-FPAs/EU-and-Madagascar-agree-new-SFPA-protocol">EU and Madagascar agree new SFPA protocol</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":153,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,291 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Bumper maize harvest in southern Africa, but with pockets of food insecurity / Cereals / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																										
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+																																																																																																																																																																																																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7893/(search)/simple">Cereals</a>
+							
+																																									
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Bumper maize harvest in southern Africa, but with pockets of food insecurity</h1>
+
+			
+			<h4>
+												21 September 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>In Southern Africa, FAO has forecast production increases for all of the major cereals producing countries in 2014. After a slightly reduced harvest in 2013, an annual increase in production of 14.8% in 2014 will result in a production increase of 10.8% over the period 2012–14.</p><p>This trend reflects large production increases outside South Africa, with a record maize harvest in Zambia, a bumper harvest of 4.1 million tonnes forecast for Malawi and a major recovery in cereals production in Zimbabwe. These are attributed to “favourable climatic conditions and continued public support, to improve input supplies”.&nbsp;</p><p><b>Southern African cereals production, including rice (million tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0" width="614">
+<tr>
+<td width="123" valign="top">  &nbsp;
+  </td><td width="123" valign="top">  <b>2012</b>
+  </td><td width="123" valign="top">  <b>2013&nbsp;&nbsp;&nbsp; &nbsp;(estimate)</b>
+  </td><td width="123" valign="top">  <b>2014 &nbsp;&nbsp;&nbsp;&nbsp;(forecast)</b>
+  </td><td width="123" valign="top">  &nbsp;<b>Percentage change 2012/14</b>
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Southern Africa
+  </td><td width="123" valign="top">  31.4
+  </td><td width="123" valign="top">  30.3
+  </td><td width="123" valign="top">  34.8
+  </td><td width="123" valign="top">  +10.8
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  South Africa
+  </td><td width="123" valign="top">  15.2
+  </td><td width="123" valign="top">  14.9
+  </td><td width="123" valign="top">  16.4
+  </td><td width="123" valign="top">  +7.9
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Zambia
+  </td><td width="123" valign="top">  3.2
+  </td><td width="123" valign="top">  2.9
+  </td><td width="123" valign="top">  3.6
+  </td><td width="123" valign="top">  +12.5
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Malawi
+  </td><td width="123" valign="top">  3.8
+  </td><td width="123" valign="top">  3.9
+  </td><td width="123" valign="top">  4.1
+  </td><td width="123" valign="top">  +7.9
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Zimbabwe
+  </td><td width="123" valign="top">  1.2
+  </td><td width="123" valign="top">  1.0
+  </td><td width="123" valign="top">  1.7
+  </td><td width="123" valign="top">  +41.7
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Mozambique
+  </td><td width="123" valign="top">  2.2
+  </td><td width="123" valign="top">  2.2
+  </td><td width="123" valign="top">  2.5
+  </td><td width="123" valign="top">  +13.6
+  </td>
+</tr>
+
+<tr>
+<td width="123" valign="top">  Madagascar
+  </td><td width="123" valign="top">  5.0
+  </td><td width="123" valign="top">  4.1
+  </td><td width="123" valign="top">  4.7
+  </td><td width="123" valign="top">  –6
+  </td>
+</tr>
+
+</table>
+<p>Source: FAO, ‘Crop prospects and food situation’ (see below), Table 11.</p><p>Similar favourable production developments are apparent among smaller producers. Production is forecast to increase by 50% in Namibia following the drought-affected production levels of 2013 (although this is still 5% below the short-term average and production losses faced in northern communal area production zones). This is allowing replenishment of the Namibian National Strategic Food Reserve (NSFR), which was drawn on from late 2012, allowing all food needs to be met from the government’s own strategic reserve during the drought period. Angola is also forecast to increase production by some 20%.</p><p>However, production losses in contiguous areas of northern Namibia and southern Angola have been reported, due to a prolonged dry spell. Only in Lesotho is lower production foreseen, following frost damage which has depressed yields and undermined the benefits of the increased area placed under cereals.</p><p>There remain pockets of food insecurity in the region. In Zimbabwe, an “exceptional shortfall in aggregate food production/supplies” is forecast, despite a major recovery production – largely as a result of the depth of the earlier production decline. In addition, a “widespread lack of access” is projected in parts of Malawi, where localised food production losses have occurred. Severe localised food insecurity is also reported in Lesotho and in Mozambique, where localised, weather-related damage to production has occurred.</p><p>Overall production increases across the region are projected to see maize prices decline sharply, except in areas of localised production shortfalls. This will improve overall food security in Southern Africa in 2014.</p><p>In terms of trade South Africa will remain the main maize exporter, followed by Zambia, where the earlier export ban has been lifted and there is “an estimated exportable surplus of about 1 million tonnes”.</p><p>The intra-regional trade position is complicated by the debate ranging in Zimbabwe over recently introduced import restrictions on maize and maize meal (see <i>Agritrade </i>article, ‘The intra-regional trade consequences of import and export restrictions’, forthcoming 2014). Consumer organisations in Zimbabwe have criticised the Zimbabwean government’s decision to impose a ban on maize and maize meal imports, and some traders have commented that the move will create a food shortage, since farmers are “reluctant to deliver their crop to the Grain Marketing Board” (which is facing serious financial difficulties). Critics fear that a situation could arise where “[locally produced] maize and maize meal will only be traded outside the formal market”.</p><p>According to press reports, the business lobby is split on the issue, with the Zimbabwe National Chamber of Commerce applauding the import ban, despite acknowledging possible “negative repercussions”. Other business community representatives have “called on the government to reverse its decision amid reports [that] local farmers said they would not sell their produce to the formal market due to poor prices”.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>FAO, ‘Crop prospects and food situation’, No. 2, July 2014</p><p>
+<a href="http://www.fao.org/3/a-i3899e.pdf" target="_self">http://www.fao.org/3/a-i3899e.pdf</a></p><p>CAJ News Agency, ‘Shortages feared as Zim bans maize imports’, 4 July 2014</p><p>
+<a href="http://allafrica.com/stories/201407072063.html" target="_self">http://allafrica.com/stories/201407072063.html</a></p><p><i>New Era</i>, ‘Grain reserves at 18,900 tonnes’, 31 July 2014</p><p>
+<a href="http://www.newera.com.na/2014/07/31/grain-reserves-at-18-900-tonnes/" target="_self">http://www.newera.com.na/2014/07/31/grain-reserves-at-18-900-tonnes/</a></p><p>Tralac, ‘The settlement of disputes in the SADC free trade area’, June 2014</p><p>
+<a href="http://www.tralac.org/images/docs/5786/final-submission-on-sadc-dispute-settlement-june-2014.pdf" target="_self">http://www.tralac.org/images/docs/5786/final-submission-on-sadc-dispute-...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Even in very good years, problems exist with the functioning of local supply chains. Shortcomings in the functioning of national supply chains can be seen as the root cause of often volatile and contested cereals sector trade policy pronouncements. So long as national supply chains malfunction, short-term policy responses that are disruptive of the development of intra-regional supply chains would appear to remain an ever-present danger.</p><p>This places real limits on the development of coherent and consistent regional cereals sector trade policies that are consistently and transparently applied. It is as yet unclear to what extent inconsistent trade policies will rebound and impact on farmers’ returns and the sustainability of the longer-term trend towards expanded cereals production that has been under way in the Southern African region.</p><p>According to South Africa’s trade law centre Tralac, a trade dispute settlement mechanism was part of the original design of the SADC free trade area and a special arrangement for the settlement of trade disputes was developed (Annex VI to the SADC Protocol on Trade), but the tribunal – which exercises jurisdiction over all SADC legal instruments – has never heard any trade disputes. In reality, annex IV has not been implemented, and its first-stage panel procedure has not been implemented. A new protocol for the operation of the tribunal is now under discussion, but it is unclear whether this will cover the specific needs required to resolve trade disputes.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Wheat-value-chain-Zambia-State-bans-wheat-importation">Wheat value chain/Zambia - State bans wheat importation</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/Grain-value-chain-Zambia-E-voucher-to-empower-smallholder-farmers">Grain value chain/Zambia - E-voucher to empower smallholder farmers</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/SPS-Food-safety/Africa-launches-initiative-to-control-maize-disease">Africa launches initiative to control maize disease</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/COMESA-moves-to-deal-with-effects-of-Aflatoxin">COMESA moves to deal with effects of Aflatoxin</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/ACP-regional-trade/South-Africa-s-Withering-Corn-Crop-Threatens-Region-s-Food-Costs">South Africa’s Withering Corn Crop Threatens Region’s Food Costs </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":125,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

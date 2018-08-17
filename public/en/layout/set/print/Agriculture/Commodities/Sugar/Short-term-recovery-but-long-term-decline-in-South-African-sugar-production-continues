@@ -1,0 +1,217 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Short-term recovery, but long-term decline in South African sugar production continues / Sugar / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																																
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																																																																																						,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																
+																																																																																																																																																																																																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Short-term recovery, but long-term decline in South African sugar production continues</h1>
+
+			
+			<h4>
+												13 January 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>According to a 6-month report published by USDA on the South African sugar sector, after two drought-affected years, South African sugar production is expected to increase by 10% to 18.6 million tonnes in the 2012/13 season. As a consequence, South African sugar exports are expected to double to 500,000 tonnes, after a 40% decline in marketing year (MY) 2011/12. </p><p>The USDA analysis reports a small recovery in the area harvested of about 3% in MY 2012/13, compared to the two previous seasons, but notes that in the longer term, the area under sugar cane in South Africa continues to decline in the face of ‘land reform concerns, urbanization, high crime levels and infrastructure constraints’. In the past 10 years, the number of large-scale producers declined by 20%, while the number of small-scale producers declined by 47%, and the overall area decreased 13%. </p><p>Indicative of this ongoing trend, in October 2012 TSB Sugar announced plans to invest US$740 million in new sugar production in Mozambique, across the border from its operations in South Africa. This will include the construction of a mill due to start operations in 2013. All three of South Africa’s main sugar companies will then have production facilities in Mozambique. </p><p>On the demand side, USDA reports that growth of 2% is projected for the 2012/13 season, with high sugar prices slowing the growth of demand. In the SACU area, 44% of South African sugar sales are to industrial users, with 80% of direct consumption sugars being in the form of refined sugars. Swaziland supplies about 340,000 tonnes of sugar to the SACU market out of a total demand of 1.6 million tonnes. The SACU market has increased in significance to the South African sugar sector since the 1997/98 season.</p><p>New 5% ethanol blending requirements are being formulated, but with no fixed date for their implementation. There is also continued regulatory uncertainty over the production and distribution of co-generated electricity. </p><p>In terms of raw cane sugar exports, 59.2% (2010/11) and 58.9% (2011/12) of total raw sugar exports were destined for sub-Saharan African markets. For refined sugar exports, 81.4% (2010/11) and 94.1% (2011/12) were destined for sub-Saharan Africa. While in both 2010/11 and 2011/12, more refined sugar than raw sugar was exported, in 2012/13, South Africa’s sugar exports are projected to be 60% raw sugar and 40% refined. </p><p>At the policy level, USDA reports that a review of the Sugar Act is currently in progress, and that cane growers consider that ‘the new policy and industry framework will prevent the erosion of growers’ revenue’. Currently, only revenues from sugar and molasses are pooled and shared between growers and millers. The review and associated legislation is expected to be finalised for the 2014/15 season.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>USDA, ‘Republic of South Africa: Sugar semi-annual’, <i>GAIN Report</i>, 1 October 2012</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Sugar%20Semi-annual_Pretoria_South%20Africa%20-%20Republic%20of_10-1-2012.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Sugar%20Semi-annua...</a></p><p><i>Macauhub.com.mo</i>, ‘South Africa’s TSB Sugar wants to produce sugar in Mozambique’, 10 October 2012</p><p>
+<a href="http://www.macauhub.com.mo/en/2012/10/10/south-africa%E2%80%99s-tsb-sugar-wants-to-produce-sugar-in-mozambique/" target="_self">http://www.macauhub.com.mo/en/2012/10/10/south-africa%E2%80%99s-tsb-suga...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>While the USDA analysis identifies the ‘push factors’ encouraging South African sugar sector investment in neighbouring countries, it neglects the ‘pull factors’ of better access to overseas markets, lower labour costs and, in some neighbouring countries, favourable natural agro-ecological conditions for sugar production. Just how important market access issues were in initial investment decisions is illustrated by the earlier investments in neighbouring LDCs, which occurred following the announcement of the EU’s Everything But Arms initiative, and the ‘delayed’ investment in expanding sugar milling capacity in Swaziland, which awaited the announcement of the EC’s planned duty-free, quota-free market access offer within the EPA negotiations framework.</p><p>In terms of South African sugar exports, when export volumes are limited (e.g. in the last two seasons), it appears that the growing South African corporate engagement with sugar production elsewhere in Southern and Eastern Africa appears to be sustaining South African refined sugar exports to these markets. This may in part be linked to triangular trade arrangements whereby local production in African countries with better access to overseas markets is exported, while local demand for refined sugar products is served by imports from South Africa. This would appear to apply primarily to Mozambique.</p><p>South African sugar companies also appear to have an established interest in exporting refined sugar to the East African Community, despite the absence of South Africa from the COMESA FTA. This is likely to see the sugar trade being a focus of discussion in the trilateral FTA negotiations, which is likely to be sensitive in the EAC context, given current efforts to expand or revive domestic sugar production.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Zimbabwean-sugar-exports-to-the-EU-to-continue-while-imports-to-be-restricted">Zimbabwean sugar exports to the EU to continue while imports to be restricted</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Distribution-of-new-revenue-streams-raised-by-Mauritian-cane-farmers">Distribution of new revenue streams raised by Mauritian cane farmers</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Challenges-faced-in-Tanzania-in-balancing-growing-demand-with-efforts-to-promote-local-sugar-production">Challenges faced in Tanzania in balancing growing demand with efforts to promote local sugar production</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/EU-to-emerge-as-a-major-driver-of-global-sugar-markets">EU to emerge as a major driver of global sugar markets</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Nordzucker-looking-for-new-international-investment-opportunities">Nordzucker looking for new international investment opportunities</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":170,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

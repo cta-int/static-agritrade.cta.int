@@ -1,0 +1,271 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Analysis of preference erosion and distortion to agricultural incentives / WTO / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																																																
+		
+		<div class='contentrealtionlist'>
+							
+																																																							
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																					,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																																																																																																																														
+																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7795/(search)/simple">General</a>
+							
+																																																																																																																																																																																																																																																																																																																																																													
+																																																																							,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7812/(search)/simple">WTO</a>
+							
+																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7813/(search)/simple">EPAs</a>
+							
+																																																																																													,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7814/(search)/simple">EU FTAs</a>
+							
+																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7815/(search)/simple">ACP - FTAs</a>
+							
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																															
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Analysis of preference erosion and distortion to agricultural incentives</h1>
+
+			
+			<h4>
+												31 May 2009
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>The World Bank has recently produced two books dealing respectively with preference erosion and distortions to agricultural incentives in Africa. The publication on preference erosion reviews the current value of preferential access, the implications of preference erosion under different scenarios and the possible policy responses to the challenges faced. There are three distinct sets of papers focussing on: the non-reciprocal preference schemes of individual countries; sectoral features of preference schemes (agricultural products, non-agricultural products, textiles and clothing); the overall effects of preference erosion and options for dealing with preference erosion resulting from non-discriminatory trade liberalisation.</p><p>Chapters of particular relevance to the ACP-EU agricultural trade relationship include: </p>
+<ul>
+
+<li>‘What are EU trade preferences worth for sub-Saharan Africa and other developing countries’; </li>
+
+<li>‘Quantifying the value of preferences and potential erosion losses’; </li>
+
+<li>‘Non-reciprocal preference erosion arising from MFN liberalisation in agriculture: what are the risks of’; </li>
+
+<li>‘The Doha development agenda and preference erosion: modelling the impacts; </li>
+
+<li>‘Economic policy response to preference erosion: from trade as aid to aid for trade’.</li>
+
+</ul>
+<p>Overall the papers highlight the importance of the EU preferential arrangements to LDCs and certain other developing countries (notably the ACP), with the EU accounting for 40% of ‘Quad’ trade preferences for developing countries. The papers also highlight the fact that while at the aggregate level for all developing countries the losses from preference erosion are outweighed by the trade gains of multilateral liberalisation, ‘for a limited number of preference-dependent countries, deep global reforms will have significant costs’. However the spread of reciprocal free-trade agreements is also eroding the value of preferences. Furthermore, in the agricultural sector the process of internal EU reform is greatly reducing the impact of any multilateral agreement on the overall significance of preference erosion. The papers highlight the importance of preferences to LDCs and conversely the concentration of losses from preference erosion in a number of island economies dependent on a limited range of products, notably sugar and bananas. </p><p>In terms of the policy response the papers advocate: </p>
+<ul>
+
+<li>addressing the negotiating priorities of preference-dependent countries in other areas of the WTO negotiations, rather than holding back the process of multilateral trade liberalisation;</li>
+
+<li>the adoption of certain trade-based solutions , such as improving rules of origin, so as to enhance the use of preferences in ways which offset the economic impact of preference erosion;</li>
+
+<li>the implementation of new preferential market-access arrangements by non-OECD importers;</li>
+
+<li>‘aid for trade’ to help countries to adjust, and to exploit remaining and emerging trade opportunities.</li>
+
+</ul>
+<p>It calls for any such mitigation measures to be ‘closely targeted at the countries at risk’.</p><p>The publication on distortions to agricultural incentives in Africa includes chapters on Madagascar, Mozambique, South Africa, Zambia, Zimbabwe, Ethiopia, Kenya, Sudan, Tanzania, Uganda, Cameroon, Côte d’Ivoire, Ghana, Nigeria, Senegal, Benin, Burkina Faso, Chad, Mali and Togo. The overview paper argues that the poor record of poverty reduction in Africa is attributable to the agricultural policy choices made which have had an anti-agricultural anti-trade bias. A switch to less-biased policies is held to be a relatively recent one. The paper maintains that ‘agricultural price, trade and exchange-rate policies have reduced the earnings of African farmers quite substantially’. In the post independence period in the agricultural sector ‘the average rate of taxation … rose sharply’, with the 1980s beginning to see significant reductions in this anti-agricultural bias in Ghana, Uganda, Tanzania, Cameroon, Senegal and Madagascar. In Kenya and Mozambique a pro-farmer policy emerged, while an anti-agriculture bias remained in Côte d’Ivoire, Zimbabwe and Zambia up to 2004. However, it noted considerable variation across products with basic foodstuffs such as sugar rice and milk receiving assistance, while tropical export crops such as coffee, cocoa, cotton and tobacco were more heavily taxed. Most of the taxes imposed take the form of trade taxes.</p><p>While the bias against agriculture is being reduced, growth in the sector means that ‘the total value of annual transfers from farmers has risen’ (threefold for Africa as a whole). However, overall ‘there has been substantial reform towards less distortion of incentives’, although ‘there are still many opportunities for policy change that would be both pro-poor and pro-growth, raising income for low income farmers and improving resource allocation within and between countries’.</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>
+World Bank, <i>Distortions to Agricultural Incentives in Africa</i>, 2009<br/>
+<a href="http://siteresources.worldbank.org/INTTRADERESEARCH/Resources/544824-1146153362267/Africa_e-book_0309.pdf" target="_self">http://siteresources.worldbank.org/INTTRADERESEARCH/Resources/544824-114...</a></p><p>
+Analytical paper quantifying the value of trade preferences and potential erosion losses, World Bank (ed.), July 2008<br/>
+<a href="http://siteresources.worldbank.org/INTTRADERESEARCH/Resources/544824-1235150721870/ch01_Intro.pdf" target="_self">http://siteresources.worldbank.org/INTTRADERESEARCH/Resources/544824-123...</a></p><p>
+Analysis of the value of EU trade preferences to sub-Saharan Africa, World Bank (ed.), July 2008<br/>
+<a href="http://siteresources.worldbank.org/INTTRADERESEARCH/Resources/544824-1235150721870/ch03_candau_Jean_EU_preferences.pdf" target="_self">http://siteresources.worldbank.org/INTTRADERESEARCH/Resources/544824-123...</a></p><p>
+Analysis of economic policy response to preference erosion, World Bank (ed.), July 2008<br/>
+<a href="http://siteresources.worldbank.org/INTTRADERESEARCH/Resources/544824-1235150721870/ch11_Hoekman_Prowse_Trade_Aid_Aid_for_Trade.pdf" target="_self">http://siteresources.worldbank.org/INTTRADERESEARCH/Resources/544824-123...</a></p><p>
+Paper modelling the impact of the DDR on preference erosion, World Bank (ed.), May 2008<br/>
+<a href="http://siteresources.worldbank.org/INTTRADERESEARCH/Resources/544824-1235150721870/ch09_Mensbrugghe_Doha_and_Preference_Erosion.pdf" target="_self">http://siteresources.worldbank.org/INTTRADERESEARCH/Resources/544824-123...</a></p><p>
+Paper examining at the impact of MFN liberalisation on preference erosion, World Bank (ed.)<br/>
+<a href="http://siteresources.worldbank.org/INTTRADERESEARCH/Resources/544824-1235150721870/ch08_Low_Agriculture_Preferences.pdf" target="_self">http://siteresources.worldbank.org/INTTRADERESEARCH/Resources/544824-123...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>These publications provide the wider context to many of the underlying policy debates taking place around the development of EU-ACP agricultural trade relations, and as such provide essential background reading for situating current policy discussions at the ACP-EU level. With regard to the publication on preference erosion, a common feature of the analysis is the relative neglect of any substantial assessment of the process of erosion of the value of ACP trade preferences arising from the initiation of the EU domestic-reform process in the agriculture sector. These internal reforms serve to lay the foundations for subsequent bilateral and multilateral trade liberalisation beyond the ACP/LDC group. Outside of the banana sector, it is this first phase of erosion of the value of traditional ACP trade preferences which has had the greatest impact on the ACP agricultural trade position with the EU, not the subsequent process of erosion of the margins of preference at the multilateral level.</p><p>In looking at options for responding to the process of erosion of the value of preferences the analysis also neglects the growing product differentiation on EU markets (which has increasing commercial significance as the process of reform is approaching completion) and the scope for serving ‘luxury purchase’ components of this market, as part of the response to the erosion of the value of preferences. This represents one area where highly targeted support could prove extremely valuable in assisting ACP exporters in maintaining a profitable presence in the EU market in the context of both the erosion of the value of ACP trade preferences and their margins of tariff preference.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+												
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/WTO/WTO-rules-and-food-insecurity-in-perspective">WTO rules and food insecurity in perspective</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/Review-of-the-treatment-of-NTBs-under-I-EPAs-posted">Review of the treatment of NTBs under (I)EPAs posted</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EU-FTAs/Rising-concerns-over-new-EU-trade-agreements">Rising concerns over new EU trade agreements</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EU-FTAs/A-more-integrated-flexible-approach-required-to-services-EPAs">A more integrated, flexible approach required to services EPAs </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/EPAs/Trade-policy-WTO-finds-Gambian-competitiveness-eroded-in-ECOWAS">Trade policy: WTO finds Gambian competitiveness eroded in ECOWAS</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":131,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

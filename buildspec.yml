@@ -1,0 +1,8 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo "Uploading files"
+      - aws s3 sync --size-only --delete public/ s3://$BUCKET/
+

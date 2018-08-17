@@ -1,0 +1,325 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2012: ACP–EU fisheries: Market access and trade / Market access / Topics / Fisheries / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																														
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																												
+							
+							
+																																,
+							<a href="/en/layout/set/print/Fisheries/(fisheries)/7828/(search)/simple">Market access</a>
+							
+							
+																																																																														
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2012: ACP–EU fisheries: Market access and trade</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/71055/1175272/file/a37e6f1596b0b2aaa335ec5654b71bfa.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+												11 November 2012
+										</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>About this update</b></p><p>This brief was updated in September 2012 to reflect developments since July 2011. The 2011 publication was based on a fuller briefing published in October 2008, and is available on request from 
+<a href="mailto:agritrade-mail@cta.int" target="_self">agritrade-mail@cta.int</a></p><p>Other publications in this series and additional resources on ACP–EU agriculture and fisheries trade issues can be found online at 
+<a href="http://agritrade.cta.int/" target="_self">http://agritrade.cta.int/</a></p>
+
+		</div>
+		
+		
+					<a name="eztoc1175261_1" id="eztoc1175261_1"></a><h2>1. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Background and key issues</h2><p>Almost 40% of total world fisheries production enters international trade. While fish consumption is rising, sustainability concerns are limiting capture fisheries, with aquaculture coming to play an increasingly important role in meeting expanding global demand. While ACP countries have lagged behind in aquaculture development, initiatives are now under way to promote a rapid expansion of aquaculture production in Africa. Selecting aquaculture species which are not dependent on fishmeal produced from capture fisheries will be an important issue within ACP aquaculture development.</p><p>While the ACP provides only 11% of EU fish imports, this disregards fish supplies from ACP waters captured under fisheries partnership agreements (FPAs) but not landed in these countries. ACP countries now trade with the EU under interim economic partnership agreements (IEPAs), standard Generalised System of (tariff) Preferences (GSP) or the ‘Everything but Arms’ (EBA) arrangements, with significant developments taking place in the first two arrangements in 2011–12.</p><p>Where duty-free, quota-free access has been secured, rules of origin, sanitary and phytosanitary (SPS) standards and production process requirements (the legality of the fishing operation) are increasingly impacting on the ACP–EU trade in fisheries products. Since 1 January 2010, traceability requirements under the EU’s catch-certification scheme have taken on particular significance. In addition, increasingly strict retailer requirements are impacting on the ACP–EU fisheries trade.</p><p>Overall, the level of value retained by ACP fish exporters has been declining over the past 10 years, a process which could undermine efforts to promote more sustainable patterns of fisheries exploitation. However, this stimulates ACP efforts to move up fisheries-product value chains, including through the more efficient delivery of fresh fish to premium-priced markets. Cost reduction and addressing the issue of the distribution of value along fisheries supply chains are key issues for the future, particularly in the context of increasingly strict public and private standards.</p><p>There remain concerns over preference erosion in the fisheries sector, although with the Doha Round stalled this mainly occurs through the conclusion of bilateral free-trade area (FTA) arrangements or World Trade Organization (WTO) dispute settlement rulings.</p><p>Key issues faced from an ACP perspective include:</p>
+<ul>
+
+<li>securing better prices and retained income through investment in value-added processing, marketing and strengthening the functioning of fisheries supply chains;</li>
+
+<li>ensuring sustainable levels of production through appropriate investment in fisheries management and sustainable aquaculture;</li>
+
+<li>ensuring that increasingly strict standards are met in a cost-effective manner;</li>
+
+<li>addressing issues related to the net benefits of foreign investment in ACP fisheries sectors. </li>
+
+</ul>
+<a name="eztoc1175261_2" id="eztoc1175261_2"></a><h2>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Latest developments</h2><a name="eztoc1175261_2_1" id="eztoc1175261_2_1"></a><h3>2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Global context</h3><p>According to a recent analysis, by 2015 aquaculture will have overtaken capture fisheries in meeting human consumption needs for fish (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/OECD-and-FAO-outlook-for-2011-2020-on-the-seafood-market" target="_blank">OECD and FAO outlook for 2011–2020 on the seafood market</a>’, 1 August 2011). In the next decade aquaculture production in Africa is expected to grow by 70%, on the back of increased private-sector investment, rising local demand and government policies promoting aquaculture. With rising incomes it is also anticipated that more people will consume filleted or other forms of value-added fish products, increasing ‘residues’ for domestic fishmeal production and lessening the dependency on wild fish-based imports of fishmeal. Up to 2020, developed countries are expected to account for about 60% of world imports of fish for human consumption, while developing countries will be the main exporters.</p><a name="eztoc1175261_2_2" id="eztoc1175261_2_2"></a><h3>2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trends in the ACP–EU fish trade</h3><p>In 2011 the EU remained the world’s largest fish importer, with the value of imports rising to €28 billion from €23 billion in 2010. The EU’s reliance on imported fish products&nbsp;was 62% in 2011, while the import dependence on white fish remained at 90% (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/European-importers-and-processors-publish-their-annual-FinFish-study" target="_blank">European importers and processors publish their annual FinFish study</a>’, 12 November 2011).</p><p>In 2011 in value terms the percentage of ACP fisheries exports destined for the EU market rose to 70% from 68% in 2010, although the ACP’s percentage share of EU imports remained the same at 11%. The main fish products imported from ACP countries include: tuna, crustaceans (shrimp, farmed and wild caught, etc.), cephalopods, white fish (hake, Nile perch), with the top ACP suppliers remaining Namibia, Senegal, Madagascar and the Seychelles.</p><p>The EC’s September 2011 proposal to amend market access regulation (MAR) 1528/2007, which seeks to establish a deadline of 1 January 2014 for the signing, ratification and implementation of initialled IEPAs, could potentially see an introduction of import duties on fisheries exports from a range of the affected ACP countries, including Namibia, Seychelles, Côte d’Ivoire and Ghana. However, in May 2012 Seychelles, Madagascar, Mauritius and Zimbabwe completed the process of ratifying their IEPAs, which duly entered into force.</p><p><b>Fisheries products potentially affected by the proposed amendment of MAR 1528/2007</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="68" valign="top">  CN Code
+  </td><td width="213" valign="top">  Product Description
+  </td><td width="170" valign="top">  Possible maximum changes in tariffs (%)
+  </td><td width="167" valign="top">  Countries potentially affected
+  </td>
+</tr>
+
+<tr>
+<td width="68" valign="top">  03026966
+  </td><td width="213" valign="top">  Fresh and chilled cape hake..
+  </td><td width="170" valign="top">  15.0
+  </td><td width="167" valign="top">  Namibia
+  </td>
+</tr>
+
+<tr>
+<td width="68" valign="top">  03037811
+  </td><td width="213" valign="top">  Frozen cape hake…
+  </td><td width="170" valign="top">  11.5
+  </td><td width="167" valign="top">  Namibia
+  </td>
+</tr>
+
+<tr>
+<td width="68" valign="top">  03037981
+  </td><td width="213" valign="top">  Frozen monkfish
+  </td><td width="170" valign="top">  15.0
+  </td><td width="167" valign="top">  Namibia
+  </td>
+</tr>
+
+<tr>
+<td width="68" valign="top">  16041418
+  </td><td width="213" valign="top">  Prepared &amp; preserved tuna and skipjack
+  </td><td width="170" valign="top">  20.5
+  </td><td width="167" valign="top">  Ghana, Côte d’Ivoire
+  </td>
+</tr>
+
+<tr>
+<td width="68" valign="top">  16041411
+  </td><td width="213" valign="top">  Tuna prepared &amp; preserved in veg. oil
+  </td><td width="170" valign="top">  20.5
+  </td><td width="167" valign="top">  Ghana, Côte d’Ivoire
+  </td>
+</tr>
+
+</table>
+<p>Source: Extracted from ‘The costs to the ACP of exporting to the EU under the GSP’, ODI, Final Report, March 2007</p><p>There remain substantive issues to be resolved in the EPA negotiations involving Namibia. However, the prospect of an early imposition of import duties on fisheries exports has receded following the vote in the Trade Committee of the European Parliament (EP) by 25 to 2 to shift the proposed deadline for completion of the EPA process to 1 January 2016. While this amendment to the EC proposal still needs to be voted on in the plenary session of the EP, and still needs to be agreed in the EU Council, the scale of the vote in favour of the amendment would suggest that a deferment of the EC deadline is very likely (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Topics/EPAs/EP-calls-for-more-time-in-EPA-negotiations" target="_blank">EP calls for more time in EPA negotiations</a>’, 22 July 2012).</p><p>The process of regional negotiations in West Africa is also proving difficult, with the governments of Ghana and Côte d’Ivoire potentially faced with the difficult choice of ratifying their initialled bilateral IEPAs or continued engagement with the regional EPA negotiating process which may not be completed by the deadline. Any reimposition of import duties would affect fisheries exports and a range of agricultural exports (most notably bananas and processed cocoa products).</p><p>Other fish-exporting countries which are classified as least developed would continue to enjoy duty-free, quota-free access under the EBA initiative, but without any possibility of negotiating an improvement in the rules of origin applicable to their fisheries exports, similar to the ‘global sourcing’ provisions secured under the Papua New Guinea (PNG)–EU IEPA.</p><a name="eztoc1175261_2_3" id="eztoc1175261_2_3"></a><h3>2.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in ACP aquaculture</h3><p>Although fish farming is still in its infancy in ACP countries, in 2011, several initiatives were taken to develop strategies for sustaining fish farming expansion, particularly in the sub-Saharan African region (See <i>Agritrade</i> interview ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Interview-points-of-view-from-ACP-EU-stakeholders/ATLAFCO-A-tool-for-regional-fisheries-cooperation" target="_blank">ATLAFCO, a tool for regional cooperation</a>’, 13 July 2012). There is rapid growth in countries like Nigeria, Ghana and Zimbabwe, mainly of freshwater herbivorous species like tilapia, which are less dependent on fishmeal from wild catches. The strong demand for fish on national and regional markets means that there is a shift of destination for these products. For example, the largest integrated tilapia farm in sub-Saharan Africa, which had been developed to strict European production standards, is now primarily supplying African markets, with Zimbabwe and the wider Southern African region taking 90% of production and the EU market 10% (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/Tilapia-farming-gets-African-Bank-support-in-Zimbabwe" target="_blank">Tilapia farming gets African Bank support in Zimbabwe</a>’, 9 December 2011).</p><p>Regional trade agreements can play a beneficial role in this context. The establishment of the East African Community Customs Union involving Uganda, Kenya, Tanzania, Rwanda and Burundi, has significantly improved the free movement of goods in the region, including fisheries-related products (live fry for fish farming, fresh or processed fish). With the likelihood of accession of South Sudan to the EAC Customs Union, the prospects for extending this trade to new markets would be enhanced.</p><a name="eztoc1175261_2_4" id="eztoc1175261_2_4"></a><h3>2.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The reform of the EU CMO for fisheries products</h3><p>In the context of the Common Fisheries Policy reform debate, there is a growing consensus between EU institutions (with some notable exceptions) that, in the current financial crisis subsidies to the fishing sector will have to diminish. This option is further pushed by environmental non-governmental organisations (NGOs) which feel that fishing subsidies are a driver of overcapacity and overfishing. Reacting to this trend, in 2011, the EU fishing industry (particularly in southern member states), continued to lobby to raise the social and environmental standards which imported products need to meet in order to be allowed access to the EU market (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/Spanish-tuna-canners-and-trade-union-call-for-level-playing-field" target="_blank">Spanish tuna canners and trade union call for “level playing field</a>”’, 31 October 2011).</p><p>In 2012 EU aquaculture producers added their voice to these lobbying efforts, arguing that aquaculture is increasingly affected by unfair competition from farmed white-fish imports, such as pangasius, since exporting country producers do not have to meet the same environmental standards as EU producers (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/Potential-changes-in-EU-whitefish-markets-towards-more-sustainability" target="_blank">Potential changes in EU whitefish markets, towards more sustainability</a>’, 25 March 2012). NGOs and trade unions also continued to ask for stronger environmental and social conditionalities to be applied to fish products imported into the EU, but with the additional requirement that they be accompanied by the establishment of appropriate support mechanisms, so that these requirements do not become unfair barriers to trade.</p><p>The main dissenting voice from these lobbying efforts is the EU Fish Processors and Traders Association, which in 2011 called for a removal of all trade barriers for fish from third countries (see <i>Agritrade</i> article '
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/Meeting-the-EU-s-food-needs-involves-more-than-simply-protecting-the-catching-sector" target="_blank">Meeting the EU’s food needs involves more than simply protecting the cat...</a>', 25 July 2011). The association takes the view that a reformed CFP needs to focus on meeting the EU’s future food needs (in terms of safety, quality, nutritional value, affordability and security of supply) rather than simply trying to protect an ailing catching sector.</p><p>These views were reflected in the debate in the European Parliament on the EC proposal for a regulation on the common organisation of the markets (CMO) in fishery and aquaculture products. In many areas of policy the EP now has co-decision making powers under the Lisbon Treaty (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Topics/EU-FTAs/EU-trade-agreements-and-the-enhanced-role-of-the-European-Parliament" target="_blank">EU trade agreements and the enhanced role of the European Parliament</a>’, 2 May 2011).The EP report drawn up during the 2011–12 session stressed the importance of the EC ensuring that all fisheries and aquaculture products imported from third countries fully respect sustainable fishing practices and the provisions of Union law, in order to ensure a level playing field for competition between EU and third-country producers (see <i>Agritrade</i> articles ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/European-Parliament-to-discuss-future-organisation-of-EU-fish-markets" target="_blank">European Parliament to discuss future organisation of EU fish markets</a>’, 19 February 2012 and ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/Trade-measures-against-fish-products-from-unsustainable-sources" target="_blank">Trade measures against fish products from unsustainable sources</a>’, 9 April 2012).</p><p>A separate proposal for a regulation on certain measures in relation to countries allowing non-sustainable fishing was also debated and voted on in June 2012 in the EP Fisheries Committee. The Parliament favours extending the coverage of the EC proposal on non-sustainable fishing to fish stocks managed by regional fisheries management organisations (RFMOs) to which the EU is a contracting party, wherever they are. This goes beyond the EC proposal which would have restricted the application of the regulation to fish stock whose geographical distribution makes it available to the fleets of both EU member states and non-EU states. The EP further wishes to accelerate the time-frame for full implementation of the requirements of the regulations, with non-compliant producers having one month instead of four to comply (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/EP-Fisheries-Committee-backs-market-related-measures-against-countries-allowing-unsustainable-fishing" target="_blank">EP Fisheries Committee backs market-related measures against countries a...</a>’, 24 June 2012).</p><p>Overall, the measures which could be taken against countries allowing unsustainable fishing are wide-ranging and include quantitative restrictions on imports and restrictions on a wide variety of forms of short-term and permanent vessel transfers involving countries allowing non-sustainable fishing.</p><a name="eztoc1175261_2_5" id="eztoc1175261_2_5"></a><h3>2.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commercial pressures for liberalisation of fisheries trade</h3><p>In 2011, a conflict arose between the EU fish-catching sector and fish importers, which highlighted how ACP preferences could be further eroded by trade liberalisation with non-ACP countries such as Thailand (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/EU-canning-industry-and-ship-owners-disagree-on-further-duty-free-tuna-imports" target="_blank">EU canning industry and ship owners disagree on further duty-free tuna i...</a>’, 25 March 2012). The Spanish Association of Canned Fish and Shellfish, ANFACO, stated that for the tuna-canning industry in the EU to operate profitably, it needs to import 60,000 tonnes of duty-free pre-cooked tuna loins from countries which have no trade agreements with the EU, including from key Asian tuna-producing countries, like Thailand or the Philippines. On the other hand, the Spanish Fisheries Confederation (CEPESCA) rejected the request of ANFACO, arguing that they only wanted this increase so as to be able to compete in the low-priced canned-tuna market, lowering prices through the use of raw material from fishing fleets which did not fish responsibly.</p><p>However, combined with the existence of rich fisheries resources, ACP tariff preferences are still an attractive element for foreign investors, particularly those from Asia. In 2011, the Korean company Dongwon, one of the biggest world tuna companies, with a strong focus on the Pacific, where catch restrictions are being introduced, made acquisitions in Africa as part of a strategy to become a truly global player. This includes initiatives in Senegal, where the reflagging of two Dongwon seiner vessels creates possibilities for duty-free canned tuna exports to the EU (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/Korean-company-to-buy-Senegalese-tuna-cannery-could-benefit-from-free-access-to-EU-market" target="_blank">Korean company to buy Senegalese tuna cannery could benefit from free ac...</a>’, 12 November 2011).</p><a name="eztoc1175261_2_6" id="eztoc1175261_2_6"></a><h3>2.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in SPS and IUU-related requirements</h3><p>A prerequisite for exporting to the EU market is the meeting of EU SPS standards in a verifiable manner, with this potentially constituting a significant barrier to ACP fisheries exports. However the 2011 EU review of global sourcing in the Pacific highlighted how in the case of the PNG–EU tuna trade, compliance with EU SPS regulations by fishing vessels and processing plant was not a major constraint on the sourcing of adequate raw material supplies by PNG’s processing facilities. What was more of a constraint was the existence of long-standing supply arrangements with non-PNG trading companies and processors (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/European-Commission-publishes-study-on-global-sourcing-in-the-Pacific" target="_blank">European Commission publishes study on global sourcing in the Pacific</a>’, 25 March 2012).</p><p>Meanwhile, a 2012 study by IEEP (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/The-IEEP-identifies-flaws-in-the-IUU-regulation" target="_blank">The IEEP identifies flaws in the IUU regulation</a>’, 30 January 2012) reviewing the implementation of the EU’s illegal, unlicensed and unreported (IUU) fishing regulation which came into force on 1 January 2010, found that the catch certification scheme was not effective in preventing illegally fished products from entering the EU market, as the paper certificates were open to fraud. While a shift to electronic certificates could help to reduce fraud, a major intensification of inspections and validation processes for IUU certification will be required if the legislation is to be effective in closing off market opportunities for illegally caught fish. Before October 2013 the EC is scheduled to undertake a detailed evaluation of the IUU regulation.</p><a name="eztoc1175261_2_7" id="eztoc1175261_2_7"></a><h3>2.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discussions on developments in the rules of origin</h3><p>The extension of global sourcing concessions under the Pacific IEPAs has met with strong resistance from representatives of the EU fishing fleet. In 2011, at a European Parliament hearing, a representative of Eurothon, the European tuna-industry body, again called for global sourcing to be suspended, arguing that PNG might become a centre from which illegally caught tuna would be exported to the EU (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/European-Parliament-hearing-on-traceability-of-fish-products" target="_blank">European Parliament hearing on traceability of fish products</a>’, 1 August 2011). However, it was pointed out that Spanish fleet operators were showing little interest in investing in onshore processing in PNG, with their focus being on securing increased fishing access. In March 2012, the EC published the long awaited study on global sourcing in the Pacific. This reported that the impact of global sourcing on the development of the PNG economy had been ‘negligible’, as there had been little use of the derogation by the canners. However, with the planned development of five new processing plants, the derogation will become more important. Nevertheless it was held that the expansion of onshore processing is driven more by the PNG government’s policy of linking fisheries access to onshore processing, rather than by the existence of duty-free access to the EU market and global sourcing <i>per se</i>. What global sourcing will help to achieve are economies of scale, so that when PNG’s margins of preferences on the EU market are eroded it will still be possible to sustain PNG’s processing sector.</p><p>The report also pointed out some key challenges, including the necessity for PNG to make efforts to ensure that restrictions on the level of fishing effort are fully respected and the need to address negative social and environmental issues associated with developments in tuna processing. Finally, the report showed that global sourcing was not harming the EU processing sector, or the fishing sector, contrary to allegations from Spanish fishing fleet owners (See <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/European-Commission-publishes-study-on-global-sourcing-in-the-Pacific" target="_blank">European Commission publishes study on global sourcing in the Pacific</a>’, 25 March 2012).</p><a name="eztoc1175261_2_8" id="eztoc1175261_2_8"></a><h3>2.8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The rise of private standards: Eco-labelling and fair-trade schemes</h3><p>EU fish processors and importers, if they support a removal of tariff barriers for some fish imports (such as raw material and primary processed fish) are, on the other hand, increasingly imposing private standards and certification requirements on suppliers. A 2011 study showed that private standards are now a key mechanism whereby large-scale retailers and commercial brand owners transmit their requirements to other parts of the supply chain (See <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/Private-standards-and-certification-in-fisheries-and-aquaculture" target="_blank">Private standards and certification in fisheries and aquaculture</a>’, 31 October 2011). While private standards and certification can serve as mechanisms for safety and quality assurance, facilitate traceability and transparency of production processes, as well as ensuring uniform standards for products sourced from a range of international suppliers, this carries financial costs. From an ACP perspective such increased costs need to be reflected in the price obtained from retailers and traders for the certified product. This is particularly the case since such schemes are commonly used as marketing tools by retailers and commercial brand owners to strengthen their market position vis-à-vis high-income consumers. However, the current financial and economic stress in major overseas markets such as the EU makes this a very tricky issue to address at the present time. Currently it is unclear whether, for example, efforts by fishermen to enter the costly MSC certification process translate into better prices, and greater revenues. The main advantage seems to be that having an MSC label opens up new markets for them, or helps to maintain existing market shares.</p><p>Overall, in cases where supermarket chains consolidate their role as the primary distributors of fish and seafood products, and as their procurement policies move away from open markets towards contractual supply relationships, the impact of private standards is likely to increase.</p><p>However, the proliferation of private standards causes confusion not only for consumers, but also:</p>
+<ul>
+
+<li>for fishers and fish farmers trying to decide which certification scheme will maximise market returns; </li>
+
+<li>buyers trying to decide which standards have most credence in the market and will offer returns to reputation and risk management; </li>
+
+<li>governments trying to decide where private standards fit into their food safety and resource-management strategies.</li>
+
+</ul>
+<p>The most widely used and debated private standards and certification schemes for fish products relate to the environmental conditions of production: eco-labels. The most important development in this area in 2012 relates to the attainment by the Parties to the Nauru Agreement (PNA – comprising eight Pacific-island countries), of the Marine Stewardship Council (MSC) eco-label for its skipjack tuna fishery (See <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/The-world-s-first-certified-purse-seine-fishery" target="_blank">The world’s first certified purse-seine fishery</a>’, 5 February 2012). The Marine Stewardship Council (MSC) eco-label remains the most widely used for fish products accounting for about 6% of global wild-fish catches. However this granting of eco-labelling to PNA countries was initially opposed by the International Seafood Sustainability Foundation (ISSF), a coalition of environmental, scientific and industry players, which insisted that ‘the final assessment report did not identify, with accuracy and consistency, the PNA’s share of the region’s skipjack catch and the certifier had no scientific basis to conclude that PNA would be capable of managing the entire migratory stock (see <i>Agritrade</i> articles ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/ISSF-opposes-the-MSC-ecolabelling-of-Pacific-skipjack-fishery" target="_blank">ISSF opposes the MSC eco-labelling of Pacific skipjack fishery</a>’, 31 October 2011 and ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/The-scientific-evidence-for-PNA-MSC-application-is-questioned" target="_blank">The scientific evidence for PNA MSC application is questioned</a>’, 19 December 2011).</p><p>In the course of 2011 the MSC launched a process of improving its methodology for certification of sustainable fishing, with a particular focus on small scale and data-deficient fisheries, so as to facilitate MSC-certification of fishing activities in these areas.</p><p>Certification schemes for environmental and social standards are also being introduced in the aquaculture sector. In 2011, in the face of increasing competition from Asian suppliers and a recovery in the EU cod stocks, a Dutch company announced the success of ‘Naturland-certified’ sustainable Nile perch products, which accounted for over 20% of total sales in that category. Under the Naturland scheme the first sale price to producers is negotiated with the buyer, providing significant social and economic benefits to fishermen and their families.</p><p>Looking further ahead, issues linked to the carbon footprint of fish products are likely to come to the fore. For example, the EU is planning to extend its carbon emissions trading system, which currently only applies to EU-based polluters, to emissions from aviation flights. While maritime transport dominates the supply of fish to the EU market some high-value products are flown in. In addition if maritime transport was also to be included in the EU emissions trading system in the future, the price of traded fish could rise (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/The-EU-s-carbon-emissions-trading-system-would-impact-on-fish-trade" target="_blank">The EU’s carbon emissions trading system would impact on fish trade</a>’, 31 October 2011).</p><p>However if this were the case it could encourage greater intra-regional trade in fisheries products within the ACP, providing a major boost to food security. Africa could then join the trend in India, Malaysia, Brazil and Mexico towards increased per capita consumption of fish products. Fish consumption in sub-Saharan Africa (SSA) is currently the lowest in the world, yet the region has one of the highest rates of food insecurity, as highlighted by the third FAO <i>ad hoc</i> fish-price index workshop (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Fisheries/Topics/Market-access/Food-security-trade-and-the-economic-health-of-fisheries" target="_blank">Food security, trade and the economic health of fisheries</a>’, 9 December 2011). Fish has the potential to be a significant asset in the diet of SSA populations, especially as it is often less expensive and more affordable than other animal proteins, specifically when it is preserved by drying or fermenting methods. Fish can improve food security directly, through consumption and indirectly through the generation of income and employment.</p><p>Somewhat surprisingly, a high prevalence of under-nutrition in fishing communities has been documented, suggesting that cash income from fishing may not always be enough to allow the purchase of non-staple foods, and therefore the nutritional status may still remain inadequate. This highlights the importance of ensuring increased revenue to the primary fish producers.</p><a name="eztoc1175261_2_9" id="eztoc1175261_2_9"></a><h3>2.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implications of the EU’s GSP reforms</h3><p>Research suggests that fisheries products will be affected more than any other group by the changes to the EU’s GSP that come into force in 2014. There are two main elements to the reform: ‘income graduation’ i.e. the removal of upper-middle income countries (UMICs) from the scheme, and new rules for ‘product graduation’, under which beneficiaries supplying more than a given share of imports lose GSP preferences on those products. A study by the Overseas Development Institute (ODI) identifies 102 goods for which the GSP changes are likely to be particularly important, with 24 of these being fisheries products, making it the most affected single category.</p><p>ACP states will be affected by the reforms in one of two ways. Any that are classified as a UMIC (such as Namibia) will be subject to income graduation and so lose all GSP preferences, although the final calculations will not be made by the Commission until 2013 using the latest data. Other ACP fish exporters could gain, in theory, as competitors lose their GSP preferences. But the ODI study suggests that in most cases their exports to the EU of the affected fisheries products are either non-existent or very small, often because the fish are not found in their waters.</p><p>This means that GSP preference will be even less of an option for ACP fisheries exporters than they currently are should they fail to conclude the EPA negotiations process and hence lose duty-free, quota-free access to the EU market.</p><a name="eztoc1175261_3" id="eztoc1175261_3"></a><h2>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implications for the ACP</h2><a name="eztoc1175261_3_10" id="eztoc1175261_3_10"></a><h3>3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Putting in context a further relaxation of EU rules of origin</h3><p>ACP governments have been calling for many years for a relaxation of specific fisheries rules of origin to allow the use of any fish caught in their EEZs. The granting of ‘global sourcing’ concessions for canned tuna under the Pacific–EU EPAs can be seen as a major breakthrough in this regard. However such concessions are of little value if sustainability and SPS requirements are not met and markets are therefore closed to ‘originating’ export products. Even in the short term, growing consumer concerns over traceability are making themselves felt through private standards requirements. In this context for concessions on the rules of origin to be meaningful, ACP governments will need to intensify efforts to strengthen their capacities to ensure that fishing activity within their EEZs take place on an increasingly sustainable basis.</p><a name="eztoc1175261_3_11" id="eztoc1175261_3_11"></a><h3>3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Managing new investment flows</h3><p>While multinational fishing companies, particularly from Asian countries, are increasingly investing in ACP onshore operations, with this being linked to the granting of fishing licences, it is essential that such onshore investment be ‘locked in’, so as to promote responsible fishing by these fishing companies. This has implications for the investment incentives offered by ACP governments to companies considering investment in onshore processing. This needs to be structured in such a way as to promote responsible and sustainable fishing by these new entrants. It equally needs to encourage movement by onshore processors up the value chain, particularly for tuna.</p><a name="eztoc1175261_3_12" id="eztoc1175261_3_12"></a><h3>3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Responding to sustainable fishing legislation</h3><p>The adoption of legislation, allowing the EU to take measures against countries allowing non-sustainable fishing, may have profound effects on the ACP–EU fish trade. Some fishing operations currently taking place in ACP waters may be considered unsustainable. In most cases, this is primarily due to a lack of technical and human capacity in ACP coastal states. It is important that this aspect is taken into account when drafting and implementing EU fisheries legislation. Also specific support measures need to be put in place and applied in order to enhance ACP coastal countries’ capacity to manage and police their fisheries. In the coming years governance of ACP fisheries, particularly as regards environmental and social sustainability, transparency and accountability, is likely to become of paramount importance for exporting fish products onto the EU market.</p><p>ACP governments will need to make better use of the possibilities offered by licensing arrangements with foreign fleets to introduce environmental and social obligations, such as compulsory electronic catch data reports, use of satellite-based vessel monitoring systems (VMS), compulsory landings, etc. in order to improve fisheries governance and promote more sustainable fisheries sector development.</p><a name="eztoc1175261_3_13" id="eztoc1175261_3_13"></a><h3>3.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Meeting the challenge of quality and labelling requirements</h3><p>Given the economic context in the EU it is likely that the pressure will continue for accommodating social and environmental conditionalities within the fisheries provisions of trade agreements. The development of these standards represent an important challenge for ACP fish-exporting countries, but they could also provide an opportunity to promote the environmental and social production qualities of ACP products, and give ACP fish products a competitive advantage over some other suppliers. However, it will also increase production costs.</p><p>In this context, ACP governments should insist that, whenever such conditionalities are introduced, appropriate support mechanisms are set in place to prevent these requirements becoming unfair barriers to trade. This is particularly important since price-conscious EU consumers are increasingly opting for cheaper products, which will make it difficult to cover the costs of such measures through increased prices.</p><p>Taking the example of PNG ‘global sourcing’, where the EU published a detailed impact assessment, it is clear that similar impact assessments are required on the effects of new EU quality standards and labelling requirements, with such studies providing the basis for the identification of the assistance needed in order to support compliance.</p><p>Looking beyond the provision of public assistance (‘aid for trade’) in meeting new standards, it is important for ACP governments to find ways of improving the negotiating power of their producers, both through strengthening their organisational structures and enhancing transparency throughout the value chain. EU policy initiatives on strengthening the functioning of certain EU agricultural product supply chains could potentially hold lessons in this regard. However ACP governments will also need to make choices as to the kinds of fishery activities and extraction methods and products to promote.</p><a name="eztoc1175261_3_14" id="eztoc1175261_3_14"></a><h3>3.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maximising the potential of aquaculture</h3><p>The development of aquaculture in ACP countries can provide a new source of jobs, economic growth and diversification. It can also add to government revenues, regional trade and integration, foreign exchange generation and enhanced food security. However a number of important issues need to be addressed if sustainable aquaculture development is to be promoted. First, since many types of aquaculture are dependent on capture fisheries for fishmeal, choosing fish species that can use a mainly vegetarian diet generated on-site, is an important element for ensuring its long-term viability. Second, the fact that fish produced can be sold on local and regional markets may be a positive factor in improving both the contribution of fish to food security at local and regional level, and in diminishing the dependence on international markets, where constraints related to evolving standards are increasing.</p><a name="eztoc1175261_3_15" id="eztoc1175261_3_15"></a><h3>3.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitoring access to the EU market</h3><p>For fish-exporting ACP countries that are not classified as least developed, the EC’s proposed reforms of its GSP scheme will further reduce the attractiveness of this trade arrangement as an alternative to the conclusion of an EPA. This suggests a need for the elaboration of strategies either to preserve duty-free access to the EU market beyond 2014 (or 2016) or to identify alternative markets where similar prices can be obtained.</p><p>As many fish markets are sellers’ markets as a result of ongoing processes of stock depletion, importers are more likely to absorb part of the cost of any increased tariffs rather than simply passing them on to exporters in the form of lower prices. In this context ACP governments will need to balance their concerns about fisheries sector trade against the various other concerns they have which have impeded the conclusion of the EPA processes in which they are involved.</p><p><b>Main sources</b></p><p>1. FAO, ‘The state of world fisheries and aquaculture’ (SOFIA), 2012</p><p>
+<a href="http://www.fao.org/docrep/016/i2727e/i2727e00.htm " target="_self">http://www.fao.org/docrep/016/i2727e/i2727e00.htm</a></p><p>2. FAO data on capture fisheries, aquaculture and trade, available as downloadable data bases at:</p><p>
+<a href="http://www.fao.org/fi/statist/FISOFT/FISHPLUS.asp" target="_self">http://www.fao.org/fi/statist/FISOFT/FISHPLUS.asp</a></p><p>3. FAO Committee on Fisheries Sub-Committee on Fish Trade, ‘Decisions and recommendations of the 13<sup>th</sup> session, 20-24 February 2012’, 2012</p><p>
+<a href="http://www.fao.org/cofi/24005-01e276260099b4967ed0ff22d8b4e6e4c.pdf" target="_self">http://www.fao.org/cofi/24005-01e276260099b4967ed0ff22d8b4e6e4c.pdf</a></p><p>4. FAO <i>Globefish </i>website</p><p>
+<a href="http://www.globefish.org/" target="_self">http://www.globefish.org/</a></p><p>5. FFA <i>Fisheries Trade Briefings</i></p><p>
+<a href="http://www.ffa.int/trade_industry" target="_self">http://www.ffa.int/trade_industry</a></p><p>6. ICTSD <i>Trade Negotiations Insights</i></p><p>
+<a href="http://www.ictsd.org/tni/tni_english" target="_self">http://www.ictsd.org/tni/tni_english</a></p><p>7. EU Summaries of EU legislation: <i>External trade</i></p><p>
+<a href="http://europa.eu/legislation_summaries/external_trade/index_en.htm" target="_self">http://europa.eu/legislation_summaries/external_trade/index_en.htm</a></p><p>8. Export Helpdesk for developing countries</p><p>
+<a href="http://exporthelp.europa.eu/" target="_self">http://exporthelp.europa.eu/</a></p><p>9. AIPCE-CEP, <i>FinFish Study 2011</i>, September 2011&nbsp;</p><p>
+<a href="http://aipcecep.drupalgardens.com/sites/aipcecep.drupalgardens.com/files/FinFish%20Study%202011.pdf" target="_self">http://aipcecep.drupalgardens.com/sites/aipcecep.drupalgardens.com/files...</a></p><p>10. EU, ‘Report on the Implementation of the derogation to the standard rules of origin granted to the Pacific ACP states in the framework of the interim economic partnership agreement’, December 2011, published 27 February 2012</p><p>
+<a href="http://trade.ec.europa.eu/doclib/docs/2012/february/tradoc_149137.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2012/february/tradoc_149137.pdf</a></p><p>11. European Parliament DG for Internal Policies, Policy Department B: ‘Structural and cohesion policies: fisheries, the impact of WTO and other trade negotiations on fisheries’, study, 2009</p><p>
+<a href="http://www.europarl.europa.eu/committees/en/studiesdownload.html?languageDocument=EN&amp;file=29031" target="_self">http://www.europarl.europa.eu/committees/en/studiesdownload.html?languag...</a></p><p>12. ODI, ‘The poverty impact of the proposed graduation threshold in the Generalised System of Preferences (GSP) trade scheme’, by C. Stevens <i>et al</i>.,<i>&nbsp;</i>
+<a href="http://www.odi.org.uk/resources/search.asp?type=Research%20reports%20and%20studies" target="_self"><i>Research reports and studies</i></a>, October 2011</p><p>
+<a href="http://www.odi.org.uk/resources/details.asp?id=6015&amp;title=poverty-impact-graduation-threshold-generalised-system-preferences-gps-trade-scheme" target="_self">http://www.odi.org.uk/resources/details.asp?id=6015&amp;title=poverty-im...</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Topics/Market-access/Executive-Brief-Update-2013-Market-access">Executive Brief Update 2013: Market access</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/Executive-Brief-Update-2013-ACP-EU-fisheries-Market-access-and-trade">Executive Brief Update 2013: ACP–EU fisheries: Market access and trade</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/Executive-Brief-Update-2012-ACP-EU-fisheries-Market-access-and-trade">Executive Brief Update 2012: ACP–EU fisheries: Market access and trade</a></p>
+						<p><a href="/en/layout/set/print/Fisheries/Topics/Market-access/Fisheries-market-access-tariff-and-non-tariff-aspects-Executive-brief">Fisheries market access; tariff and non-tariff aspects: Executive brief</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":130,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

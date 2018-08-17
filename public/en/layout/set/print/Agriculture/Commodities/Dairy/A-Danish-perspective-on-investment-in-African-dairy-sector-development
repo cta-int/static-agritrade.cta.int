@@ -1,0 +1,221 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>A Danish perspective on investment in African dairy sector development / Dairy / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/interviews.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																											
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																																																																																																																																																																																																																	
+								<a href="/en/layout/set/print/Publications/(regions)/7771/(search)/simple">Central Africa</a>
+																																																																																																																		,
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																																																	,
+								<a href="/en/layout/set/print/Publications/(regions)/7773/(search)/simple">West Africa</a>
+																																																																																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7775/(search)/simple">Southern Africa</a>
+																																															
+																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7801/(search)/simple">Dairy</a>
+							
+																																																																																																																																																																																																																									
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>A Danish perspective on investment in African dairy sector development</h1>
+
+			
+			<h4>
+												24 February 2013
+										</h4>
+
+						<h2>An interview with Mr Peter Helk, Manager, Confederation of Danish Industry</h2>
+					</header>
+
+
+				<div class="intro">
+
+						
+<div class="object-left">		
+<div class="embed-image">
+<img border="0" src="/var/agritrade/storage/images/peter-helk/1622513-1-eng-GB/Peter-Helk_medium.jpg" width="181" height="290"></div></div><p>Peter Helk has worked for the Confederation of Danish Industry (DI) for the past 12 years, developing winning market access strategies for its member companies. In the early 2000s, his focus was on Central and Eastern Europe, moving since 2004 on to sub-Saharan Africa. Currently Peter works mainly on identifying new business opportunities in emerging markets for Danish companies supplying the agricultural and food processing sectors, and in natural resource exploration and extraction.&nbsp;</p>
+
+		</div>
+		
+		
+					<p><b>Q: In October 2012, DI held a workshop in Denmark to explore investment potential in the African dairy sector. Which regions were identified as being of greatest interest to Danish investors?</b></p><p>The focus of the workshop was on East Africa, and specifically Kenya. Although many other parts of Africa hold an equal potential, the competitive landscape in East Africa is particularly interesting. The reason for this is that the industry presently is going through a period of defragmentation within and across borders, the most active seemingly being Brookside, East Africa’s leading dairy company.</p><p>We see a clear tendency that Kenyan-owned dairies in particular have decided to pursue a more aggressive mergers and acquisitions strategy. This naturally creates a very interesting market for our members, who see that they will have to pursue only one client rather than several. A number of the Danish companies producing and delivering services within this area are currently developing products that can provide significant gains when inserted in a rural setting.</p><p>At the same time, though, we are seeing some of our member companies wishing to start up operations, i.e. dairy operations. These are, however, setting themselves up in more complicated markets such as rural Mozambique, rather than the larger cities where the competition is more difficult. These investors are, however, aware that they must truly adapt their business model to reach the consumers.</p><p><b>Q: What are the key factors driving Danish investment interest?</b></p><p>The key driver of growth is the quite significant growth rates we see across sub-Saharan Africa. These are driven not only by the significant finds of oil and gas, but equally by the growing middle class. This is a customer segment that demands – and is willing to pay for – more advanced products.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p><b>Q: What are the current patterns of trade in dairy products between Denmark and sub-Saharan Africa?</b></p><p>At present the only dairy products being sold in larger quantities from Denmark to sub-Saharan Africa are milk powder and a small quantity of our butter. A couple of Danish companies have, however, decided to establish local production of dairy products in West Africa and in Mozambique. It is to be expected that we will see further investments, seeing that competition is heating up and will necessitate a presence on the market to sustain a competitive advantage within, for instance, milk powder.</p><p><b>Q: What is the most favoured form of business relationship for Danish companies?</b></p><p>It very much depends on the country. Up till a few years ago, the favoured form of business relationship was joint ventures with one or more local partners. Assuming that Danish investments in sub-Saharan Africa follow the same pattern as they did in other emerging markets, it is to be expected that most favoured form of investment will change to one of direct, 100%-owned investments. This is expected to happen when the markets become truly important to the companies.</p><p><b>Q: In January 2013, in its new strategy, Arla identified CAP reforms (i.e. the abolition of production quotas) as a major driver in the company’s focus on emerging markets. Can you elaborate on how this influences growing Danish interest in emerging dairy markets?</b></p><p>The primary assumption is that when the production quota is lifted, an alternative market for 1 to 2 billion litres of suppressed supply must be identified. In other words, Arla needs to find a market for the milk it will receive. At the same time, though, there is a general understanding at Arla and a number of other agro-industrial companies that growth should not be sought within Europe, but rather on the new growth markets in, for instance, Africa.</p><p><b>Q: In January 2013, the Chair of Arla Board spoke of how increased sales to new consumers of dairy products in emerging markets ‘will help to maintain a viable dairy business in northern Europe’. Can you elaborate on this?</b></p><p>This is linked to the lifting of the production quotas. However, there is no doubt that Arla sees the potential in Africa as significant. The Arla dairy expects to employ 250 new employees in sub-Saharan Africa within the coming year to support its overall strategy.</p><p>There is no doubt that Danish expertise within dairy processing technology – and especially technology that supports the individual elements of the dairy value chain – is well developed. However, to be truly competitive it is necessary that the companies supplying technology and services customise their products to support the dairy industry's value chain in the region. The cold chain requirements and demands are for instance very different in Denmark and in Uganda.</p><p>I truly believe that a sustainable competitive position cannot be held by exporting bulk commodities from Europe to sub-Saharan Africa. Nor do I believe that there is much to be gained in the long run from exporting value-added products. The true competitive advantage will only be attained from investing directly in the market and thus building up a value chain that will allow dairy companies to supply the consumers of sub-Saharan Africa with home-grown products.</p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+									
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/An-interview-with-Amos-Omore-Country-Representative-International-Livestock-Research-Institute-Tanzania">An interview with Amos Omore Country Representative, International Livestock Research Institute, Tanzania</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/An-interview-with-Manu-Schaerer-Supplier-development-manager-at-Nestle-Equatorial-Africa-Region-Ltd">An interview with Manu Schärer - Supplier development manager at Nestlé Equatorial Africa Region Ltd</a></p>
+						<p><a href="/en/layout/set/print/Publications/Interviews/An-interview-with-Mr.-Peter-Ngaruiya-Executive-Director-of-Eastern-and-Southern-African-Dairy-Association-ESADA">An interview with Mr. Peter Ngaruiya – Executive Director of Eastern and Southern African Dairy Association (ESADA)</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/A-Danish-perspective-on-investment-in-African-dairy-sector-development">A Danish perspective on investment in African dairy sector development</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":134,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

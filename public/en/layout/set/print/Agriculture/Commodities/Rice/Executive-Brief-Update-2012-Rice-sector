@@ -1,0 +1,1020 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2012: Rice sector / Rice / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																															
+		
+		<div class='contentrealtionlist'>
+										
+																																																																																																																																																																																																																																																												
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7805/(search)/simple">Rice</a>
+							
+																																																																																																																																	
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2012: Rice sector</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/31039/735800/file/443c4635d6af930e4620aaf63d00be4f.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+									</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>About this update</b></p><p>This brief was updated in June 2012 to reflect developments since July 2011.</p><p>The 2011 publication was based on a fuller briefing published in June 2008, and is available on request from agritrade-mail@cta.int</p><p>Other publications in this series and additional resources on ACP—EU agriculture and fisheries trade issues can be found online at http://agritrade.cta.int/</p>
+
+		</div>
+		
+		
+					<a name="eztoc735789_0_1" id="eztoc735789_0_1"></a><h3>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Background and key issues</h3><p>With high world market prices, ACP governments have adopted a variety of policy measures to promote greater rice self-sufficiency. This has given rise to a significant growth in rice production in Africa, and increasing rice production in the Caribbean. African rice production has been supported by the Coalition for African Rice Development (CARD) initiative (see Box 1), which seeks to double production by 2018. Efforts to expand rice production follow many different models in seeking to mobilise investment, address production constraints and get to grips with marketing issues. Particular challenges are faced over rice quality, which impacts both on the relative attractiveness of domestic versus imported rice and on the development of regional trade in rice. This needs to be seen in the context of rapidly growing consumer demand for rice in many ACP countries.</p><p>There is considerable debate across the ACP on the most appropriate policy mix required to promote domestic rice production, with trade policy measures in some countries playing an important role. This is throwing up new challenges for regional trade arrangements in a number of African regions. In the Pacific, rice trading arrangements emerged as a major issue of concern in Papua New Guinea in late 2011/early 2012.</p><p>ACP rice exports to the EU are increasingly balanced by exports to regional markets, given the disappearance of a significant price differential. With rice price volatility, ACP exporters face the challenge of adopting increasingly sophisticated marketing strategies in order to maximise export revenues.</p><p>EU rice sector reforms, first introduced in 1995 and followed up in 2004/05, have involved a shift from price support to direct aid payments. This has transformed the EU reference price for rice into a ‘safety net’ price, which no longer impacts on market price formation under normal circumstances. The change has been supported by historically high world market rice prices, and has seen the price differential between EU and world rice markets disappear. In response to high global rice prices, both EU rice production and exports have grown, with exports mainly consisting of high-quality rice. The EU makes sophisticated use of tariff-rate quotas (TRQs) and a sliding scale of tariffs to manage the EU rice market.</p><a name="eztoc735789_0_2" id="eztoc735789_0_2"></a><h3>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Latest developments</h3><p><b>2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recent global rice sector trends</b></p><p>2.1.1&nbsp;&nbsp;&nbsp; Production, consumption and stock trends</p><p>Despite earlier fears, widespread flooding in South-East Asia only resulted in a 1% decline in regional rice production in 2011/12, compared to the record harvest in 2010/11. Overall, in January 2012 global rice production for the 2011/12 season was forecast at 461.6 million tonnes, up 2.5% compared to 2010 levels (450.4 million tonnes).</p><p>This increase in rice production can in part be attributed to the drive by many rice-dependent countries to boost self-sufficiency in the light of the experience of the 2007/08 crisis in rice prices. The contrary nature of rice price trends relative to other cereals and the ongoing price volatility in rice markets have reinforced this policy orientation, and this is a feature of evolving rice sector policies in ACP countries. However, with demand surging ahead and rice quality challenges for domestic producers, this is proving difficult to address in many of the ACP countries concerned.</p><p>With global consumption and losses for 2011/12 projected at 458.6 million tonnes, global ending stocks are set to rise for the fifth year in a row, reaching 100.1 million tonnes. This gives a ratio of stocks to use that is substantially higher than in the last decade. However, these stock levels are not in themselves significantly affecting prices. Following the 2007/08 rice price crisis, many major rice-consuming countries have made a policy decision to maintain higher stock levels.</p><p>2.1.2&nbsp;&nbsp;&nbsp; Price trends and developments</p><p>While rice prices have fallen back from the high average prices of 2008 and 2009, they have remained significantly above historical price levels, with the price in 2010/11 between 61% and 71% higher than the average prevailing in 2006/07.</p><p>In 2011, global trade in rice reached record levels. In 2012, however, global trade is forecast to decline and to affect prices. In the last 5 months of 2011, the US Department of Agriculture (USDA) estimated global rice prices at levels 22.4% (for long-grain rice) and 23.8% (short-grain) above the corresponding period in 2010. At the beginning of 2012, prices began to decline: January prices were 8.7% (long-grain) and 7.8% (short-grain) below the corresponding period in 2011.</p><p>Despite this development, USDA forecast that average rice prices for 2011/12 would be within 4% of the average price levels prevailing in 2008/09, and even exceeding those levels in some categories (see Table 1 setting out USDA’s estimates).</p><p><b>Table 1: USDA estimates of average global rice prices</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="83" valign="top">  &nbsp;
+  </td><td colspan="4" width="406" valign="top">  <b>Thai dollars/tonne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  </td><td width="102" valign="top">  <b>Vietnamese dollars/tonne</b>
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  <b>&nbsp;</b>
+  </td><td width="101" valign="top">  <b>100% grade ‘B’</b>
+  </td><td width="102" valign="top">  <b>5% parboiled</b>
+  </td><td width="102" valign="top">  <b>15% broken</b>
+  </td><td width="102" valign="top">  <b>Thai Super</b>
+  </td><td width="102" valign="top">  <b>5% broken</b>
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  2005/06
+  </td><td width="101" valign="top">  301
+  </td><td width="102" valign="top">  293
+  </td><td width="102" valign="top">  284
+  </td><td width="102" valign="top">  216
+  </td><td width="102" valign="top">  259
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  2006/07
+  </td><td width="101" valign="top">  320
+  </td><td width="102" valign="top">  317
+  </td><td width="102" valign="top">  302
+  </td><td width="102" valign="top">  243
+  </td><td width="102" valign="top">  292
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  2007/08
+  </td><td width="101" valign="top">  551
+  </td><td width="102" valign="top">  570
+  </td><td width="102" valign="top">  334
+  </td><td width="102" valign="top">  454
+  </td><td width="102" valign="top">  620
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  2008/09
+  </td><td width="101" valign="top">  609
+  </td><td width="102" valign="top">  616
+  </td><td width="102" valign="top">  532
+  </td><td width="102" valign="top">  342
+  </td><td width="102" valign="top">  456
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  2009/10
+  </td><td width="101" valign="top">  532
+  </td><td width="102" valign="top">  544
+  </td><td width="102" valign="top">  472
+  </td><td width="102" valign="top">  350
+  </td><td width="102" valign="top">  397
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  2010/11
+  </td><td width="101" valign="top">  518
+  </td><td width="102" valign="top">  522
+  </td><td width="102" valign="top">  481
+  </td><td width="102" valign="top">  415
+  </td><td width="102" valign="top">  471
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  2011/12*
+  </td><td width="101" valign="top">  602
+  </td><td width="102" valign="top">  591
+  </td><td width="102" valign="top">  569
+  </td><td width="102" valign="top">  510
+  </td><td width="102" valign="top">  534
+  </td>
+</tr>
+
+</table>
+<p>Note:</p><p>* preliminary</p><p class=" text-left">Source: USDA, <i>Rice Outlook</i>, 13 January 2012, 
+<a href="http://usda01.library.cornell.edu/usda/ers/RCS/2010s/2012/RCS-01-13-2012.pdf" target="_self">http://usda01.library.cornell.edu/usda/ers/RCS//2010s/2012/RCS-01-13-201...</a></p><p>This suggests considerable price volatility on global rice markets, and reflects the strong influence of weather-related production scares, an emerging input price squeeze on profitability and concerns over possible government policy responses to adverse supply projections (e.g. a re-emergence of export bans or similar restrictions in major producing/consuming countries). The UN Food and Agriculture Organisation (FAO) has identified interventions in India and Thailand as the most critical to the process of global rice price formation.</p><p>2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in the EU rice sector</p><p>According to USDA, EU rice production is estimated to have declined slightly in 2011 (down 20,000 tonnes) but expected to recover in 2012 (+32,000 tonnes), taking EU-27 production to 1,899,000 tonnes. EU rice exports are projected to increase from 282,000 tonnes in 2010 to 300,000 tonnes in 2011 and 350,000 tonnes in 2012 (see Table 2). The maintenance of EU rice production levels and expansion of exports reflects the effectiveness of EU rice sector policy measures in equipping EU rice farmers to take advantage of rising global rice prices. In effect, high world market prices, a growing consumer awareness of quality-differentiated rice and EU support policies are sustaining EU rice production at record levels.</p><p><b>Table 2: EU milled rice production and exports (tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="148" valign="top">  &nbsp;
+  </td><td width="148" valign="top">  2009/10
+  </td><td width="148" valign="top">  2010/11
+  </td><td width="148" valign="top">  2011/12*
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Production
+  </td><td width="148" valign="top">  1,887,000
+  </td><td width="148" valign="top">  1,867,000
+  </td><td width="148" valign="top">  1,899,000
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  &nbsp;
+  </td><td width="148" valign="top">  2010
+  </td><td width="148" valign="top">  2011
+  </td><td width="148" valign="top">  2012
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Exports
+  </td><td width="148" valign="top">  282,000
+  </td><td width="148" valign="top">  300,000
+  </td><td width="148" valign="top">  350,000
+  </td>
+</tr>
+
+</table>
+<p>Note:</p><p>* projected</p><p class=" text-left">Source: USDA, <i>Rice Outlook</i>, 13 January 2012, 
+<a href="http://usda01.library.cornell.edu/usda/ers/RCS/2010s/2012/RCS-01-13-2012.pdf" target="_self">http://usda01.library.cornell.edu/usda/ers/RCS//2010s/2012/RCS-01-13-201...</a></p><p>This followed a dip in average EU rice production and exports during the reform period, which began in the 2004/05 season (down by 5.6% and 21.6% respectively compared to the previous 3-year average). Over the 2009–11 period, production and export grew by 11.9% and 91.8% respectively, taking average annual production and exports to 5.6% and 50% higher respectively than for the period from 2003–05. This reduced EU average ending stocks of rice in the 2009–11 period to 9.4% below the average level for the 2003–05 period. Indeed, by 2011 EU ending stocks were 25.8% below their peak level in 2005 (see Table 3).</p><p><b>Table 3: EU rice production, exports and ending stocks (tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="102" valign="top">  &nbsp;
+  </td><td width="193" valign="top">  Production
+  </td><td width="148" valign="top">  Exports
+  </td><td width="148" valign="top">  Ending stocks
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  2003
+  </td><td width="193" valign="top">  1,741,000
+  </td><td width="148" valign="top">  225,000
+  </td><td width="148" valign="top">  974,000
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  2004
+  </td><td width="193" valign="top">  1,880,000
+  </td><td width="148" valign="top">  175,000
+  </td><td width="148" valign="top">  1,138,000
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  2005
+  </td><td width="193" valign="top">  1,731,000
+  </td><td width="148" valign="top">  161,000
+  </td><td width="148" valign="top">  1,181,000
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  2006
+  </td><td width="193" valign="top">  1,676,000
+  </td><td width="148" valign="top">  148,000
+  </td><td width="148" valign="top">  1,138,000
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  2007
+  </td><td width="193" valign="top">  1,757,000
+  </td><td width="148" valign="top">  152,000
+  </td><td width="148" valign="top">  1,126,000
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  2008
+  </td><td width="193" valign="top">  1,620,000
+  </td><td width="148" valign="top">  140,000
+  </td><td width="148" valign="top">  1,020,000
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  2009
+  </td><td width="193" valign="top">  1,887,000
+  </td><td width="148" valign="top">  244,000
+  </td><td width="148" valign="top">  1,120,000
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  2010
+  </td><td width="193" valign="top">  1,867,000
+  </td><td width="148" valign="top">  250,000
+  </td><td width="148" valign="top">  987,000
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  2011
+  </td><td width="193" valign="top">  1,899,000
+  </td><td width="148" valign="top">  350,000
+  </td><td width="148" valign="top">  876,000
+  </td>
+</tr>
+
+</table>
+<p>Source: USDA</p><p>This reduction in ending stocks can be taken as indicative of the success of EU rice sector reform measures. However, it should be noted that reform has not meant liberalisation and deregulation. The EU maintains core support instruments for rice production and a sophisticated rice trade regime.</p><p>The principal feature of the EU rice regime is the inclusion of the rice sector in the Single Payment Scheme. Following the implementation of EU rice sector reforms in the 2004/05 season, a payment of €102/tonne to rice farmers was incorporated into the Single Payment Scheme. In addition, coupled payments were maintained under the budget line ‘Area aid for rice’ (BL 05020219). The allocation in 2011 was 6% below expenditures under this budget item in 2008. This is nevertheless equivalent to an additional support payment of around €85 per tonne. With world market prices for rice substantially above the reference price level, no expenditures on intervention storage or export refunds have been recorded in the last 4 years.</p><p>It is unclear whether coupled support in the rice sector is to be retained after 2014, since this possibility has been kept open in the EC’s October 2011 reform proposals.</p><p>To manage the EU rice market, where consumption is growing faster than domestic production, and where EU production only accounts for certain rice types, a sophisticated system of TRQs is operating behind relatively high bound tariffs (see Table 4). Duties charged on husked rice and whole milled or semi-milled rice may be modified twice a year, at the beginning and halfway through the marketing year. This depends on the quantities imported during the previous half year (based on licences issued), for which reference levels for various importers are established (see <i>Agritrade</i>
+<a href="http://agritrade.cta.int/Agriculture/Topics/CAP-reform/Special-report-The-EU-s-agricultural-policy-toolbox-A-sector-by-sector-review" target="_self">Special Report: ‘The EU’s agricultural policy toolbox: A sector-by-secto...</a>, 13 December 2011).</p><p><b>Table 4: EU rice sector tariffs</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="192" valign="top">  Type of rice
+  </td><td width="192" valign="top">  Bound duty (€/tonne)
+  </td><td width="192" valign="top">  Applied duty (€/tonne)
+  </td>
+</tr>
+
+<tr>
+<td width="192" valign="top">  Paddy
+  </td><td width="192" valign="top">  211
+  </td><td width="192" valign="top">  211
+  </td>
+</tr>
+
+<tr>
+<td width="192" valign="top">  Husked
+  </td><td width="192" valign="top">  65
+  </td><td width="192" valign="top">  30–42.5–65
+  </td>
+</tr>
+
+<tr>
+<td width="192" valign="top">  Whole milled or semi-milled
+  </td><td width="192" valign="top">  175
+  </td><td width="192" valign="top">  145–175
+  </td>
+</tr>
+
+<tr>
+<td width="192" valign="top">  Broken
+  </td><td width="192" valign="top">  128
+  </td><td width="192" valign="top">  65
+  </td>
+</tr>
+
+<tr>
+<td width="192" valign="top">  Husked basmati
+  </td><td width="192" valign="top">  &nbsp;
+  </td><td width="192" valign="top">  0
+  </td>
+</tr>
+
+</table>
+<p>Source: CTA, ‘The EU’s agricultural policy toolbox: a sector-by-sector review’, <i>Special report</i>, Table 6.4.2: Tariffs, December 2012.</p><p><b>2.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in the ACP rice sector</b></p><p>2.3.1&nbsp;&nbsp;&nbsp; Policy development since 2008</p><p>In the light of the 2007–2008 rice price crisis, many ACP governments have placed greater emphasis on promoting self-sufficiency in rice. This has involved the adoption of a variety of measures, including:</p>
+<ul>
+
+<li>the extension of producer support (e.g. Kenya and Mozambique);</li>
+
+<li>the use of consumer prices subsidies (e.g. Guinea, Guinea-Bissau, Senegal, Sierra Leone, Côte d’Ivoire, Madagascar); </li>
+
+<li>the use of a combination of producer support prices and consumer price subsidies (e.g. Dominican Republic);</li>
+
+<li>provision of input subsidies; </li>
+
+<li>the establishment of production targets to stimulate production (e.g. Nigeria and Mozambique);</li>
+
+<li>the use of export bans (e.g. Guinea, Sierra Leone and Madagascar);</li>
+
+<li>the use of import restrictions or high tariffs (e.g. Guinea-Bissau, Mali, Nigeria, Sierra Leone, Kenya and Madagascar)</li>
+
+<li>the close regulation of the rice trade (e.g. Rwanda).</li>
+
+</ul>
+<p>The multiplicity of policy responses adopted raises the question over the relative effectiveness of various policy measures in promoting financially and commercially sustainable forms of rice sector development.</p><p>2.3.2&nbsp;&nbsp;&nbsp; Overall production and consumption trends in Africa</p><p><b>West Africa</b>: According to the UN Food and Agriculture Organisation (FAO), in the context of expansionary rice policies in the region (including investment in irrigation and input supply programmes) the 2011 season closed ‘positively’, despite erratic rains. USDA reported a 24% increase in West African rice production in 2010/11 (excluding Nigeria and Ghana), with a further 10% increase projected for the 2011/12 season. A vigorous increase in production was also foreseen for Benin, Ghana, Mali, Nigeria and Sierra Leone (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Rice/USDA-analysis-of-West-African-rice-sector" target="_self">USDA analysis of West African rice sector</a>’, 10 June 2011). In the case of Sierra Leone there is growing Chinese interest in rice sector development. According to FAO, these favourable production trends more than compensated for production declines in Burkina Faso, Chad, Côte d’Ivoire and Guinea-Bissau.</p><p>Average annual rice production in the period 2009–11 was substantially higher than in 2006–08, which were the 3 years that included the 2008 rice price crisis (except in Côte d’Ivoire) (see Table 5). Average annual rice production has doubled, and even quadrupled in countries such as Burkina Faso and Gambia which have only modest levels of rice production. Average annual production has grown in the high double-digits in larger producers such as Guinea (+60%) and Mali (+82%), and even the region’s largest producer, Nigeria, has seen annual rice production increase by 12%.</p><p>Rice consumption in West Africa has grown strongly (except in Côte d’Ivoire), increasing by 30–194% between 2006 and 2011, thus leaving a substantial and growing rice deficit which needs to be met by imports. The situation in Senegal is illustrative: average annual rice production has more than doubled in the last 3 years and an additional annual 147,000 tonnes of production is scheduled to be available by 2015. However, the country will still require annual imports equivalent to 50% of national consumption (down from 85% of national consumption in 2009, and 66% in 2011). With certain notable exceptions, the expansion of regional rice production in West Africa also has serious quality-related issues which make it less attractive to urban consumers than imported rice. This constitutes a major challenge for the future (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Rice/Production-expansion-faces-quality-challenges" target="_self">Production expansion faces quality challenges</a>’, 2 May 2011).</p><p class=" text-center">Table 5: Milled rice production in selected West African countries – annual averages 2006–08 and 2009–11 (tonnes)</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="148" valign="top">  &nbsp;
+  </td><td width="148" valign="top">  Annual average 2006–08
+  </td><td width="148" valign="top">  Annual average 2009–11
+  </td><td width="148" valign="top">  Percentage change (%)
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Benin
+  </td><td width="148" valign="top">  53,333
+  </td><td width="148" valign="top">  94,000
+  </td><td width="148" valign="top">  +76.3
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Burkina Faso
+  </td><td width="148" valign="top">  82,000
+  </td><td width="148" valign="top">  175,000
+  </td><td width="148" valign="top">  +113.4
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Chad
+  </td><td width="148" valign="top">  91,667
+  </td><td width="148" valign="top">  121,000
+  </td><td width="148" valign="top">  +32.0
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Côte d’Ivoire
+  </td><td width="148" valign="top">  380,000
+  </td><td width="148" valign="top">  397,667
+  </td><td width="148" valign="top">  +4.6
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Gambia
+  </td><td width="148" valign="top">  13,667
+  </td><td width="148" valign="top">  61,000
+  </td><td width="148" valign="top">  +436.3
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Ghana
+  </td><td width="148" valign="top">  147,333
+  </td><td width="148" valign="top">  268,667
+  </td><td width="148" valign="top">  +82.4
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Guinea
+  </td><td width="148" valign="top">  628,667
+  </td><td width="148" valign="top">  1,007,667
+  </td><td width="148" valign="top">  +60.3
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Guinea-Bissau
+  </td><td width="148" valign="top">  64,666
+  </td><td width="148" valign="top">  113,000
+  </td><td width="148" valign="top">  +74.7
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Liberia
+  </td><td width="148" valign="top">  125,333
+  </td><td width="148" valign="top">  178,000
+  </td><td width="148" valign="top">  +42.0
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Mali
+  </td><td width="148" valign="top">  760,667
+  </td><td width="148" valign="top">  1,383,333
+  </td><td width="148" valign="top">  +81.9
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Mauritania
+  </td><td width="148" valign="top">  51,333
+  </td><td width="148" valign="top">  64,667
+  </td><td width="148" valign="top">  +26.0
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Niger
+  </td><td width="148" valign="top">  49,333
+  </td><td width="148" valign="top">  65,333
+  </td><td width="148" valign="top">  +32.4
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Nigeria
+  </td><td width="148" valign="top">  2,281,333
+  </td><td width="148" valign="top">  2,556,666
+  </td><td width="148" valign="top">  +12.1
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Senegal
+  </td><td width="148" valign="top">  172,000
+  </td><td width="148" valign="top">  372,333
+  </td><td width="148" valign="top">  +116.5
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Sierra Leone
+  </td><td width="148" valign="top">  421,000
+  </td><td width="148" valign="top">  491,000
+  </td><td width="148" valign="top">  +16.6
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Togo
+  </td><td width="148" valign="top">  125,333
+  </td><td width="148" valign="top">  178,000
+  </td><td width="148" valign="top">  +42.0
+  </td>
+</tr>
+
+</table>
+<p>Source: USDA: extracted and aggregated by the author</p><p><b>Central Africa</b>: Rice production is stable in Angola and the DRC, while annual production levels in 2009–11 were 43% above those of 2006–08 in Cameroon, within an uneven trend (see Table 6). Consumption, however, grew between 12% and 29% in these countries, broadening the gap between rice production and consumption (which grew by 10% in Cameroon, 30% in Angola and 37% in the DRC).</p><p><b>Table 6: Milled rice production in selected Central African countries – annual averages 2006–08 and 2009–11 (tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="148" valign="top">  &nbsp;
+  </td><td width="148" valign="top">  Annual average 2006–08
+  </td><td width="148" valign="top">  Annual average 2009–11
+  </td><td width="148" valign="top">  Percentage change (%)
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Angola
+  </td><td width="148" valign="top">  9,000
+  </td><td width="148" valign="top">  9,000
+  </td><td width="148" valign="top">  0
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Cameroon
+  </td><td width="148" valign="top">  44,000
+  </td><td width="148" valign="top">  63,000
+  </td><td width="148" valign="top">  +43
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  DRC
+  </td><td width="148" valign="top">  189,000
+  </td><td width="148" valign="top">  191,000
+  </td><td width="148" valign="top">  +1.1
+  </td>
+</tr>
+
+</table>
+<p>Source: USDA: extracted and aggregated by the author</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="590" valign="top">  <p><b>Box 1: International support for rice sector development in Africa</b></p><p>In 2008 the Coalition for African Rice Development (CARD) initiative was launched with Japanese government support, with the aim of doubling sub-Saharan African rice production from 14 to 28 million tonnes by 2018. The initiative is not a funding facility but rather seeks to match available funding with rice sector investment needs and promote greater donor coordination in support of rice sector development, under the auspices of African leadership. The initiative is currently active in 23 sub-Saharan African countries: Benin, Burkina Faso, Cameroon, Central African Republic, Côte d’Ivoire, Democratic Republic of Congo (DRC), Ethiopia, Gambia, Ghana, Guinea, Kenya, Liberia, Madagascar, Mali, Mozambique, Nigeria, Senegal, Sierra Leone, Rwanda, Tanzania, Togo, Uganda and Zambia.</p><p>Priority is given to developing rice sector strategies that identify the specific challenges inhibiting rice development in each country. Some 152 rice-centred projects are identified under the initiative: 56% of these are in West Africa, 16% in the East African Community (EAC), and 13% in Madagascar.</p><p>The importance of the work of CARD in strengthening rice research and development to accelerate productivity growth in rice production in Africa was recognised in the G20 Agriculture Ministers’ Action Plan in June 2011.</p><p>For more about the CARD initiative, see: 
+<a href="http://www.riceforafrica.org/about-card" target="_self">http://www.riceforafrica.org/about-card</a></p>
+  </td>
+</tr>
+
+</table>
+<p><b>Eastern and Southern Africa</b>: According to FAO, regional production suffered under late rains in Madagascar, which were expected to depress production by as much as 10%, although in January 2012, USDA reported only a 4.5% decline. Output was also anticipated to fall in Zambia and Tanzania, although in January 2012 USDA reported a rise in Tanzanian production for MY 2011/12. Rice production increased in Mozambique following new investments, and was also expected to increase in Malawi. (See Table 7 setting out percentage change from 2006–08 to 2009–11 for rice production in the region.)</p><p><b>Table 7: Milled rice production in selected Eastern and Southern Africa countries – annual averages 2006–08 and 2009–11 (tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="148" valign="top">  &nbsp;
+  </td><td width="148" valign="top">  Annual average 2006–08
+  </td><td width="148" valign="top">  Annual average 2009–11
+  </td><td width="148" valign="top">  Percentage change (%)
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Kenya
+  </td><td width="148" valign="top">  30,667
+  </td><td width="148" valign="top">  30,333
+  </td><td width="148" valign="top">  -1.1
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Madagascar
+  </td><td width="148" valign="top">  2,221,667
+  </td><td width="148" valign="top">  2,898,000
+  </td><td width="148" valign="top">  +30.4
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Malawi
+  </td><td width="148" valign="top">  70,667
+  </td><td width="148" valign="top">  77,667
+  </td><td width="148" valign="top">  +9.9
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Mozambique
+  </td><td width="148" valign="top">  134,000
+  </td><td width="148" valign="top">  138,667
+  </td><td width="148" valign="top">  +3.5
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Rwanda
+  </td><td width="148" valign="top">  44,333
+  </td><td width="148" valign="top">  53,000
+  </td><td width="148" valign="top">  +19.5
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Zambia
+  </td><td width="148" valign="top">  11,333
+  </td><td width="148" valign="top">  33,333
+  </td><td width="148" valign="top">  +194.1
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Tanzania
+  </td><td width="148" valign="top">  835,333
+  </td><td width="148" valign="top">  903,000
+  </td><td width="148" valign="top">  +8.1
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Uganda
+  </td><td width="148" valign="top">  111,333
+  </td><td width="148" valign="top">  128,333
+  </td><td width="148" valign="top">  +15.3
+  </td>
+</tr>
+
+</table>
+<p>Source: USDA: extracted and aggregated by the author</p><p>While the production growth in the region has been less dramatic than in West Africa, rice production has grown strongly in the region, with the exception of Kenya. In countries with a modest level of rice production such as Zambia, average annual production over the period 2009–11 has almost tripled, while in land-constrained Rwanda, average annual production has grown almost 20%. In Uganda, Malawi, and Mozambique average production has grown 15.5%, 10% and 3.5% respectively. In Madagascar, the region’s largest producer, there has been double-digit growth in annual average production, with harvests on average 8% higher in the second largest producer Tanzania.</p><p>National consumption of rice is increasing rapidly in rice-producing countries in Eastern and Southern Africa, although at a much slower rate than in West Africa. In all of the rice-producing countries of the region except Zambia and Uganda, the deficit in rice production over national consumption has increased since 2006. However, in large economies like South Africa (the third largest consumer of rice in the region after Madagascar and Tanzania), rice consumption has actually fallen since 2007, with a dramatic 24% decline in 2008 and a slight recovery in the following 3 years (+7% on average above the depressed levels of 2007).</p><p>Several initiatives to stimulate rice production are underway in Eastern and Southern Africa. These include efforts in Rwanda, Uganda, Kenya and Ethiopia, all of which promote different models for the development of rice production. This raises the issue of the relative commercial viability of the rice sector development models being pursued (see Box 2: Rice production initiatives in Eastern and Southern Africa).</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="590" valign="top">  <p><b>Box 2: Rice production initiatives in Eastern and Southern Africa</b></p><p><b>Rwanda:</b> Efforts are underway with World Bank support to develop 1,750 ha for rice production in the Muvumba Marshland. The aim is to produce an additional 22,000 tonnes of rice a year, substantially reducing the current gap between production and expanding consumption. The government also has plans to put further land under rice as part of its Rural Sector Support programme.</p><p><b>Uganda: </b>While rice sector development in Rwanda is government-led, the lead in Uganda in 2011 was taken by foreign private investors. According to press reports, a UK-based Bangladeshi-owned company, Farland Investments, is to commence ‘commercial production of rice in Uganda’ on some 10,000 ha of farm land in 2011. The first phase, requiring investment of US$31 million (20% of it committed by Farland, and 24% by various development banks), is projected to produce between 80,000 and 90,000 tonnes of rice, increasing national production by over two-thirds and generating a surplus for export. The project involves the granting of a 49-year lease (automatically renewable) and the resettling of 1,500 Bangladeshi workers and their families as permanent residents on the scheme.</p><p><b>Kenya: </b>Current <b>i</b>nitiatives aim to improve ‘yields, grain quality size and aroma’ through the introduction of new seed varieties and production methods. The results are expected to ‘meet the supply deficit for local consumption and provide a surplus for export’ (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Rice/Efforts-underway-to-improve-Kenyan-rice-production" target="_self">Efforts underway to improve Kenyan rice production</a>’, 9 December 2011).</p><p><b>Ethiopia: </b>Beyond the East Africa Community (EAC), the government of Ethiopia has major ambitions to develop the rice sector, with the aim of expanding production from 498,332 tons of paddy rice in 2009 to 1,887,784 tons in 2014, and 3,958,323 tons by 2019, through the expansion of medium and large-scale commercial farms, based on a combination of national and foreign investment. At the beginning of 2011 some 83,000 ha of government-administered land was devoted to commercial investments in rice production. However, given that the rice sector is in its infancy in Ethiopia, there is an acute lack of expertise and knowledge on the practicalities of rice farming. This is making it difficult to identify appropriate investment partners with the requisite know-how and skills.</p><p>Sources:</p><p>Ethiopia Institute of Agricultural Research, ‘Challenges and opportunities of rice in Ethiopian agricultural development’, <i>Empowering Farmers’ Innovation </i>No. 2, 2011</p><p>
+<a href="http://www.eiar.gov.et/Publications/frgseries2.pdf" target="_self">http://www.eiar.gov.et/Publications/frgseries2.pdf</a></p><p><i>The New Times</i> (Kigali), ‘1750 hectares earmarked for rice farming in Nyagatare’, 29 December 2011</p><p>
+<a href="http://allafrica.com/stories/201112290346.html" target="_self">http://allafrica.com/stories/201112290346.html</a></p><p><i>Thecropsite.com</i>, ‘Rice farming in Uganda to begin in March’, 23 March 2011</p><p>
+<a href="http://www.thecropsite.com/news/10123/rice-farming-in-uganda-to-begin-in-march" target="_self">http://www.thecropsite.com/news/10123/rice-farming-in-uganda-to-begin-in...</a></p><p><i>Thecropsite.com</i>, ‘Farmers adopt new method to grow more rice with less water’, 26 September 2011</p><p>
+<a href="http://www.thecropsite.com/news/9227/farmers-adopt-new-method-to-grow-more-rice-with-less-water " target="_self">http://www.thecropsite.com/news/9227/farmers-adopt-new-method-to-grow-mo...</a></p><p><i>New Vision</i> (Kampala), ‘Renovation of Doho rice scheme starts’, 27 September 2011</p><p>
+<a href="http://allafrica.com/stories/201109281265.html" target="_self">http://allafrica.com/stories/201109281265.html</a></p>
+  </td>
+</tr>
+
+</table>
+<p>Overall, there was a strong increase in African rice imports (+1.2 million tonnes, some 13%) in 2011. According to FAO, this was assisted by ‘the reduction or lifting of import duties and taxes by governments attempting to cool domestic inflation’. Imports in 2012 were projected by FAO to remain around 2011 levels, although these could increase if global rice prices decline. USDA figures show Africa markets accounting for a growing share of the global trade in rice, up from 18.6% in 2009/11 to a projected 21.3% in 2011/12 (see Table 8). This reflects population growth, rising per capita income, growing urbanisation and associated changes in consumer tastes.</p><p><b>Table 8: USDA January 2012 estimates of trends in the main ACP rice-importing countries 2009–2012 (tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="102" valign="top">  &nbsp;
+  </td><td width="113" valign="top">  2009/10
+  </td><td width="113" valign="top">  2010/11*
+  </td><td width="113" valign="top">  2011/12*
+  </td><td class=" text-center" width="148" valign="top">  <p>Percentage change</p><p>09/10–11/12 (%)</p>
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Nigeria
+  </td><td width="113" valign="top">  2,000,000
+  </td><td width="113" valign="top">  2,300,000
+  </td><td width="113" valign="top">  2,200,000
+  </td><td width="148" valign="top">  +10.0
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Côte d’Ivoire
+  </td><td width="113" valign="top">  840,000
+  </td><td width="113" valign="top">  900,000
+  </td><td width="113" valign="top">  950,000
+  </td><td width="148" valign="top">  +13.1
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  South Africa
+  </td><td width="113" valign="top">  733,000
+  </td><td width="113" valign="top">  760,000
+  </td><td width="113" valign="top">  750,000
+  </td><td width="148" valign="top">  +2.3
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Senegal
+  </td><td width="113" valign="top">  685,000
+  </td><td width="113" valign="top">  800,000
+  </td><td width="113" valign="top">  750,000
+  </td><td width="148" valign="top">  +9.5
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Haiti
+  </td><td width="113" valign="top">  337,000
+  </td><td width="113" valign="top">  340,000
+  </td><td width="113" valign="top">  325,000
+  </td><td width="148" valign="top">  -3.6
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Mozambique
+  </td><td width="113" valign="top">  325,000
+  </td><td width="113" valign="top">  400,000
+  </td><td width="113" valign="top">  375,000
+  </td><td width="148" valign="top">  +15.4
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Ghana
+  </td><td width="113" valign="top">  320,000
+  </td><td width="113" valign="top">  520,000
+  </td><td width="113" valign="top">  400,000
+  </td><td width="148" valign="top">  +25.0
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Guinea
+  </td><td width="113" valign="top">  320,000
+  </td><td width="113" valign="top">  320,000
+  </td><td width="113" valign="top">  315,000
+  </td><td width="148" valign="top">  - 1.6
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Cameroon
+  </td><td width="113" valign="top">  300,000
+  </td><td width="113" valign="top">  300,000
+  </td><td width="113" valign="top">  330,000
+  </td><td width="148" valign="top">  +10.0
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Liberia
+  </td><td width="113" valign="top">  220,000
+  </td><td width="113" valign="top">  250,000
+  </td><td width="113" valign="top">  250,000
+  </td><td width="148" valign="top">  +13.6
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Sierra Leone
+  </td><td width="113" valign="top">  75,000
+  </td><td width="113" valign="top">  140,000
+  </td><td width="113" valign="top">  130,000
+  </td><td width="148" valign="top">  +73.3
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Sub-total
+  </td><td width="113" valign="top">  5,867,000
+  </td><td width="113" valign="top">  7,030,000
+  </td><td width="113" valign="top">  6,775,000
+  </td><td width="148" valign="top">  +15.4
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  World total
+  </td><td width="113" valign="top">  31,605,000
+  </td><td width="113" valign="top">  34,782,000
+  </td><td width="113" valign="top">  31,880,000
+  </td><td width="148" valign="top">  +0.9
+  </td>
+</tr>
+
+<tr>
+<td width="102" valign="top">  Percentage share (%)
+  </td><td width="113" valign="top">  18.6%
+  </td><td width="113" valign="top">  20.2%
+  </td><td width="113" valign="top">  21.3%
+  </td><td width="148" valign="top">  &nbsp;
+  </td>
+</tr>
+
+</table>
+<p>Note:</p><p>* preliminary</p><p class=" text-left">Source: USDA, <i>Rice Outlook</i>, 13 January 2012, 
+<a href="http://usda01.library.cornell.edu/usda/ers/RCS/2010s/2012/RCS-01-13-2012.pdf" target="_self">http://usda01.library.cornell.edu/usda/ers/RCS//2010s/2012/RCS-01-13-201...</a></p><p>2.3.3&nbsp;&nbsp;&nbsp; Production trends in the Caribbean</p><p>In three of the four main Caribbean-region ACP rice producers, average annual production over the period 2009–11 was around 20% above average annual production in the preceding 3-year period, 2006–08 (see Table 9). Suriname showed only a 2.7% increase, but anticipated strong production growth in 2011 (+6.5% compared to 2010). In the Dominican Republic, annual production growth occurred against the background of a large increase in consumption of rice (+27% between 2006 and 2011). Imports therefore remained stable, between 24,000 and 31,000 tonnes. Apart from the Dominican Republic, the growth in rice consumption has been much more modest in rice-producing Caribbean countries (between 3 and 7% over 2006–2011).</p><p><b>Table 9: Milled rice production in selected Caribbean countries annual averages 2006–08 and 2009–11 (tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="148" valign="top">  &nbsp;
+  </td><td width="147" valign="top">  Annual average 2006–08
+  </td><td width="147" valign="top">  Annual average 2009–11
+  </td><td width="148" valign="top">  Percentage change (%)
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Guyana
+  </td><td width="147" valign="top">  311,667
+  </td><td width="147" valign="top">  371,333
+  </td><td width="148" valign="top">  +19.1
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Suriname
+  </td><td width="147" valign="top">  122,000
+  </td><td width="147" valign="top">  125.333
+  </td><td width="148" valign="top">  +2.7
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Dominican Republic
+  </td><td width="147" valign="top">  472,333
+  </td><td width="147" valign="top">  567.667
+  </td><td width="148" valign="top">  +20.2
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Haiti
+  </td><td width="147" valign="top">  57,667
+  </td><td width="147" valign="top">  70,333
+  </td><td width="148" valign="top">  +22.0
+  </td>
+</tr>
+
+<tr>
+<td width="148" valign="top">  Trinidad &amp; Tobago
+  </td><td width="147" valign="top">  3,000
+  </td><td width="147" valign="top">  3,000
+  </td><td width="148" valign="top">  0
+  </td>
+</tr>
+
+</table>
+<p>Source: USDA</p><p>While the Dominican Republic is the largest rice producer, Guyana is the largest Caribbean ACP rice exporter. Guyana’s exports increased 32% between 2006 and 2011, reaching with 3.5% of peak export levels in 2010. However the structure of the Guyanese rice export trade is now very different. Exports are being slowly reoriented away from the EU, where significant price premiums no longer exist and competition from third-country suppliers is increasing, towards exports to Latin American markets, primarily Venezuela. Whereas in 1996 80% of all Guyana’s rice exports went to the EU, by 2010 this had fallen to 54%, this was despite the progressive lifting of quantitative restrictions on Caribbean rice exports as part of the Economic Partnership agreement (EPA) process. In October 2011, a major new annual supply agreement with Venezuela was announced for 50,000 tonnes of paddy rice and 20,000 tonnes of milled rice. Substantial rice exports to the region also occur but on a highly variable trend.</p><p>The Guyanese Minister of Agriculture however urged rice exporters not to neglect traditional markets, declaring that export licences to trade with Venezuela under the agreement would be given to ‘those millers and exporters who continue to target and develop the traditional markets’. This targeting of both new and traditional markets was made possible by the reported 23% increase in rice production in the first 6 months of 2011 (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Rice/Guyana-s-rice-exporters-urged-not-to-neglect-traditional-markets" target="_self">Guyana’s rice exporters urged not to neglect traditional markets</a>’, 23 November 2011).</p><p>The further expansion of rice production in Guyana is being supported by the launch of two new varieties of rice that are better suited to the evolving climatic conditions faced in rice-growing areas of Guyana. These new varieties are expected to boost rice yields by up to 75%.</p><p>A significant policy initiative taken in the Guyana rice sector is the attempt to use access to export licences as a means of improving the functioning of the rice supply chain. There are efforts to link the issuing of export licences to prompt payment of farmers by rice millers. However, reports in October 2011 suggested that this policy was enjoying only limited success, with one milling company reportedly having outstanding payment obligations to farmers in excess of US$29 million. This can be seen as indicative of the continued strained relations between rice farmers and rice millers in Guyana.</p><p>While Suriname’s rice exports to the EU have shown considerable volatility in recent years, this has occurred within a more balanced trade profile with around 50% of exports destined for EU markets, around 30% destined for regional Caribbean markets, and 14% destined for Latin American markets (see Table 10).</p><p><b>Table 10: Trends in EU imports of rice from Guyana and Suriname (Jan–Dec, tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="77" valign="top">  &nbsp;
+  </td><td width="77" valign="top">  2005
+  </td><td width="77" valign="top">  2006
+  </td><td width="77" valign="top">  2007
+  </td><td width="77" valign="top">  2008
+  </td><td width="77" valign="top">  2009
+  </td><td width="77" valign="top">  2010
+  </td><td width="77" valign="top">  2011
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  Guyana
+  </td><td width="77" valign="top">  106,249
+  </td><td width="77" valign="top">  90,899
+  </td><td width="77" valign="top">  133,573
+  </td><td width="77" valign="top">  120,209
+  </td><td width="77" valign="top">  146,111
+  </td><td width="77" valign="top">  146,715
+  </td><td width="77" valign="top">  73,061
+  </td>
+</tr>
+
+<tr>
+<td width="77" valign="top">  Suriname
+  </td><td width="77" valign="top">  27,821
+  </td><td width="77" valign="top">  14,844
+  </td><td width="77" valign="top">  15,833
+  </td><td width="77" valign="top">  20,447
+  </td><td width="77" valign="top">  26,324
+  </td><td width="77" valign="top">  33,487
+  </td><td width="77" valign="top">  14,860
+  </td>
+</tr>
+
+</table>
+<p>Source: Eurostat</p><p>2.3.4&nbsp;&nbsp;&nbsp; Issues arising in Pacific rice sector</p><p>In the Pacific the principal developments in the rice sector in 2011 occurred in Papua New Guinea (PNG), where considerable controversy emerged over rice sector trade arrangements. As in many ACP countries following the rice price crisis in 2008, considerable emphasis was placed on developing rice production. As part of a draft agreement with an Indonesian company it was proposed in late 2011 that the tariff of 60–100% on rice imports be waived, if imported by the company making the investment, in order to meet a shortfall in domestic supply. All other companies would need to pay the standard duties in force.</p><p>This proposal led to considerable protests from existing rice traders, who argued that if the agreement went ahead ‘it could force all current industry growers, manufacturers and distributors out of the market’, with no guarantees that domestic rice production would actually expand. According to independent analysts, while land was to be allocated to the Indonesian company for rice production, there was ‘no obligation for the company to grow rice in the short term’. In January 2012, the Prime Minister of PNG expressed concerns about the possible emergence of a rice monopoly, while the Minister of Commerce and Industry announced that ‘the government was, in principle, against any form of monopoly’ (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Rice/Application-of-trade-policy-at-heart-of-PNG-rice-sector-controversy" target="_self">Application of trade policy at heart of PNG rice sector controversy</a>’, 19 February 2012).</p><p>The debate in PNG around trade policy in the rice sector highlights the need to take a considered and nuanced approach to the use of trade policy tools in the rice sector so as to ensure a balance between the interests of producers, traders and consumers.</p><a name="eztoc735789_0_3" id="eztoc735789_0_3"></a><h3>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implications for the ACP</h3><p><b>3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Getting to grips with production constraints in East Africa</b></p><p>While efforts are underway to expand rice production in East Africa, there are many challenges to overcome. These include:</p>
+<ul>
+
+<li>the high cost of inputs; </li>
+
+<li>poor extension; </li>
+
+<li>mismanagement of large-scale irrigation schemes; </li>
+
+<li>poor marketing; </li>
+
+<li>limited rice-milling capacities; </li>
+
+<li>in some instances, poor producer prices. </li>
+
+</ul>
+<p>Currently a variety of models are being pursued to address these constraints, including:</p>
+<ul>
+
+<li>government-led, donor-financed irrigation schemes;</li>
+
+<li>private-sector-led expatriate settlement schemes; </li>
+
+<li>increased technical cooperation; </li>
+
+<li>better applied research;</li>
+
+<li>improved extension service provision to existing producers.</li>
+
+</ul>
+<p>Careful evaluation of the experience under the different models for rice sector development (see Box 2) could provide valuable insights into the most effective ways of getting to grips with these various production constraints in the rice sector.</p><p><b>3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Getting to grips with regional rice trade issues</b></p><p>Despite the commitments to regional free trade in West Africa as well as Eastern and Southern Africa, there remain many barriers to trade in rice. These range from import bans on rice across land borders (Nigeria) to export bans in East Africa. In a context where African rice imports from outside the continent are increasing, these obstacles to regional trade will need to be addressed in order to foster the development of regional rice trading networks that are capable of meeting the growing demand for rice in Africa from African rice production.</p><p>This will also require the development of common quality standards for rice, if regional market and trading networks are to be developed. This is particularly important in view of the preference of urban consumers for imported rice. It will also require investment in processing and packaging to meet commonly agreed regional standards that are designed, in order to better equip regional rice producers to meet the quality challenge posed by rice imports.</p><p><b>3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maximising export revenues in a time of price volatility</b></p><p>When the government of Guyana negotiated the rice agreement with Venezuela, the negotiated price appeared favourable compared to world market prices in the first half of 2011. However rice prices were subjected to volatile price movements, with prices increasing by 18% on average between the second and fourth quarters of 2011. This raises the question of the marketing strategies and price management tools to be used by ACP rice exporters.</p><p><b>3.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The use of trade policy tools</b></p><p>The policy desire to increase domestic rice production in countries where demand is rapidly expanding is common to many ACP governments. The use of tariff protection to nurture rice sector investments in an era of high price volatility is also a common feature of the policy framework used by ACP governments in pursuit of this objective. Even in the EU, TRQs are commonly used to regulate imports in ways that allow the clearing of local markets, while meeting expanding consumer demand.</p><p>However, as the example of PNG illustrates, care is needed in using trade policy tools if unintended outcomes are not to emerge. This often requires the sophisticated use of trade policy measures alongside other policy tools, for example, competition policy and the elaboration of sector specific standards.</p><p>In this context, reviewing the EU’s use of TRQs to regulate rice sector market access and the modalities used for the management of such TRQs could prove of some relevance to ACP governments seeking to use trade policy tools to foster investment in rice sector development. However, such tools cannot be used in isolation and need to form part of broader sector development strategies.</p><p><b>Main sources</b></p><p>Global</p><p>1. USDA Foreign Agriculture Service, ‘Grains: World markets and trade’, <i>Circular Series, </i>FG 08-11, August 2011</p><p>
+<a href="http://www.fas.usda.gov/grain/circular/2011/08-11/grain.pdf" target="_self">http://www.fas.usda.gov/grain/circular/2011/08-11/grain.pdf</a></p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USDA Foreign Agriculture Service, ‘SE Asia: Widespread flooding impacts regional rice production in 2011’, 9 November 2011</p><p>
+<a href="http://www.pecad.fas.usda.gov/highlights/2011/11/SE%20Asia/" target="_self">http://www.pecad.fas.usda.gov/highlights/2011/11/SE%20Asia/</a></p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USDA Economic Research Service, <i>Rice Outlook</i>, RCS-12a, 13 January 2012</p><p>
+<a href="http://usda01.library.cornell.edu/usda/ers/RCS/2010s/2012/RCS-01-13-2012.pdf" target="_self">http://usda01.library.cornell.edu/usda/ers/RCS//2010s/2012/RCS-01-13-201...</a></p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FAO, ‘Food Outlook: Global market analysis’ November 2011</p><p>
+<a href="http://www.fao.org/docrep/014/al981e/al981e00.pdf" target="_self">http://www.fao.org/docrep/014/al981e/al981e00.pdf</a></p><p>Africa</p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Concord Times</i> (Freetown) ‘Chinese Investors to Boost Rice, Rubber Production’, 19 January 2012</p><p>
+<a href="http://allafrica.com/stories/201201201504.html" target="_self">http://allafrica.com/stories/201201201504.html</a></p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Thecropsite.com</i>, ‘Farmers adopt new method to grow more rice with less water’, 26 September 2011</p><p>
+<a href="http://www.thecropsite.com/news/9227/farmers-adopt-new-method-to-grow-more-rice-with-less-water " target="_self">http://www.thecropsite.com/news/9227/farmers-adopt-new-method-to-grow-mo...</a></p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coalition for African Rice Development, website</p><p>
+<a href="http://www.riceforafrica.org/about-card" target="_self">http://www.riceforafrica.org/about-card</a></p><p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USDA Foreign Agriculture Service, ‘West Africa rice annual/Grain and feed annual’, <i>GAIN Report</i>, 6 May 2011</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Grain%20and%20Feed%20Annual_Dakar_Senegal_5-6-2011.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Grain%20and%20Feed...</a></p><p>Caribbean</p><p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GINA, ‘Minister Persaud urges rice farmers - do not sacrifice traditional export markets’, press release, 13 October 2011</p><p>
+<a href="http://www.agriculture.gov.gy/Bulletins/October%202011/Minister%20Persaud%20urges%20rice%20farmers-%20do%20not%20sacrifice%20traditional%20export%20markets.html" target="_self">http://www.agriculture.gov.gy/Bulletins/October%202011/Minister%20Persau...</a></p><p>Pacific</p><p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>The National</i> (Port Moresby), ‘Fears over proposed rice monopoly in PNG’, 9 January 2012</p><p>
+<a href="http://www.islandsbusiness.com/news/index_dynamic/containerNameToReplace=MiddleMiddle/focusModuleID=130/focusContentID=26724/tableName=mediaRelease/overideSkinName=newsArticle-full.tpl" target="_self">http://www.islandsbusiness.com/news/index_dynamic/containerNameToReplace...</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Executive-Brief-Update-2013-Rice-sector">Executive Brief Update 2013: Rice sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Executive-Brief-Update-2012-Product-differentiation">Executive Brief Update 2012: Product differentiation</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Executive-Brief-Update-2012-Rice-sector">Executive Brief Update 2012: Rice sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Executive-Brief-Update-2011-Rice-sector">Executive Brief Update 2011: Rice sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rice/Rice-Trade-Issues-for-the-ACP">Rice: Trade Issues for the ACP</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":141,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

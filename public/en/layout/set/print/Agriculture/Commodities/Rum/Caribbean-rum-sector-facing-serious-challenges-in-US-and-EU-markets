@@ -1,0 +1,230 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Caribbean rum sector facing serious challenges in US and EU markets / Rum / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																																											
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																								
+								<a href="/en/layout/set/print/Publications/(regions)/7770/(search)/simple">Caribbean</a>
+																																																																																																																																																																		
+																																																																																																																																																																																																																																																																																																																																																																																																																																	,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7806/(search)/simple">Rum</a>
+							
+																																																																			,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7807/(search)/simple">Sugar</a>
+							
+																																																																																																																												
+																																													,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7812/(search)/simple">WTO</a>
+							
+																																																																												,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7814/(search)/simple">EU FTAs</a>
+							
+																																																																																																																																																																																																																																																																																																																																																																																														
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Caribbean rum sector facing serious challenges in US and EU markets</h1>
+
+			
+			<h4>
+												16 December 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>According to recent Caribbean and industry press reports and analysis, it has been suggested that the combined effects of the way US tax breaks for rum producers in the US Virgin Islands and Puerto Rico are being deployed and new FTA agreements concluded by the EU could prove ‘devastating’ for the Caribbean rum sector. </p><p>There are growing calls in the region for concerted Caribbean action to challenge the US tax breaks as illegitimate forms of subsidisation within the WTO. (1 and 6) A legal opinion from the Geneva-based Advisory Centre on WTO Law (ACWL) has confirmed that ‘CARIFORUM countries have a solid case for the US government to answer’ under the terms of the Subsidies and Countervailing Measures Agreement, since current rum incentives ‘cause adverse effects in the form of “serious prejudice” to the interests of other WTO members’. </p><p>Particular problems are seen to arise from the way that international rum manufacturers based in the US Virgin islands (USVI) are ‘taking advantage of US government refunds… of excise taxes on rum to subsidize rum production and marketing’. In 2011, some US$133.5 million was provided by these rebates. According to Dr Frank Ward, Chair of the Barbados Rum Committee, the US subsidies allow US rum producers to procure molasses at an average cost of US$20/tonne, while CARIFORUM producers pay on average US$200/tonne. In addition, it is maintained that rebates have been used in the USVI to finance the building of a new distillery which would be operated by Diageo and produce Captain Morgan Rum for the US market. </p><p>It has been argued in an article on website <i>Caribbean360.com </i>that ‘the USVI subsidies alone will result in the addition of 28 million proof-gallons of new rum capacity, which is about 80% of current US consumption.’ In this context, it is feared that ‘the vast increase in rum exports to the US mainland, at a subsidized cost, will squeeze out other Caribbean rums.’ The article maintains that Caribbean producers have already ‘had supply contracts cancelled because they cannot match or beat the price of subsidized competition coming from Puerto Rico and the USVI’. This is affecting the price-sensitive bulk rum component of the market, which is central to the revenues of the Caribbean rum industry. It is also argued that ‘over time, the USVI and Puerto Rico effect will spread to suppliers of bottled products as well’. According to the article, the value of rebates in Puerto Rico was US$452 million in 2011. </p><p>However, the issue is complicated by the involvement of international rum producers in rum production on both US territory and in ACP Caribbean countries. Diageo in particular has expressed concerns and opposition to proposed legal action in the WTO by CARICOM countries. According to other press reports, ‘Diageo has denied “flooding” the US market,’ maintaining that ‘Diageo’s premium rum does not compete with, much less displace, the bulk rum produced by WIRSPA [West Indies Rum and Spirits Association] members.’ According to these reports, Diageo has warned that any legal challenge to US subsidies could lead the company ‘to re-evaluate its Caribbean interests’. </p><p>The Barbados Minister for Agriculture has stated that the option of resolving the issue through dialogue is preferred, but ‘failing that, the next option will be to file a case at the WTO’. </p><p>Press reports indicate that a Commonwealth Secretariat report published in October 2012 has identified a further threat to exports of CARIFORUM rum from new and pending EU FTA agreements. It is argued that these agreements would result in ‘an increase in the relative price of Caribbean rum and a decrease in the relative price of rum imports from other sources’. </p><p>Rum producers in the Dominican Republic, Jamaica, Guyana and the Bahamas were seen as the ‘most vulnerable’, while Barbados was also seen as vulnerable. While past EC efforts to support Caribbean rum sector repositioning were acknowledged and welcomed, it was maintained that the dual effect of the US policy measures and the new EU FTAs would adversely affect the financial capacity of Caribbean rum producers to survive.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Caribbean360.com</i>, ‘Rum facing devastating double whammy’, 1 November 2012</p><p>
+<a href="http://www.caribbean360.com/index.php/opinion/629979.html?utm_source=Caribbean360+Newsletters&amp;utm_campaign=2f31981bbd-Vol_5_Issue_43_Business11_1_2012&amp;utm_medium=email#axzz2B4Oodh1s" target="_self">http://www.caribbean360.com/index.php/opinion/629979.html?utm_source=Car...</a></p><p><i>Caribbean360.com</i>, ‘Rum parting the ways between US and the Caribbean’, 26 July 2012</p><p>
+<a href="http://www.caribbean360.com/index.php/opinion/600275.html?utm_source=Caribbean360+Newsletters&amp;utm_campaign=6be0deadb3-7_26_2012&amp;utm_medium=email#ixzz21prbJZAe" target="_self">http://www.caribbean360.com/index.php/opinion/600275.html?utm_source=Car...</a></p><p><i>Caribbean360.com</i>, ‘Diageo not happy with CARICOM rum row’, 9 August 2012</p><p>
+<a href="http://www.caribbean360.com/index.php/business/606062.html?utm_source=Caribbean360+Newsletters&amp;utm_campaign=e7feff37cb-8_9_2012&amp;utm_medium=email#ixzz239OsVvkC" target="_self">http://www.caribbean360.com/index.php/business/606062.html?utm_source=Ca...</a></p><p><i>The Spirits Business</i>, ‘Diageo’s Caribbean rum dispute’, 17 August 2012</p><p>
+<a href="http://www.thespiritsbusiness.com/2012/08/diageos-caribbean-rum-dispute/" target="_self">http://www.thespiritsbusiness.com/2012/08/diageos-caribbean-rum-dispute/</a></p><p><i>The Barbados Advocate</i>, ‘Rum industry could have WTO case’, 6 November 2012</p><p>
+<a href="http://www.barbadosadvocate.com/newsitem.asp?more=business&amp;NewsID=27646 " target="_self">http://www.barbadosadvocate.com/newsitem.asp?more=business&amp;NewsID=27646</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Given the importance of bulk rum revenues (accounting for fully 90% of CARICOM rum exports to the EU and 38% of CARIFORUM exports – which includes the Dominican Republic), any threat to these revenues is likely to undermine ongoing efforts to increase production of quality-differentiated rums under the EC and rum-industry-supported Caribbean Rum Programme (led by the ‘Authentic Caribbean rum’ quality label initiative).</p><p>While by value ‘bottled rums over €7.9’ (CN 22084031) accounted for 60% of CARIFORUM rum exports to the EU in 2011, this category accounted for only 8% of CARICOM rum exports, suggesting an ongoing need for restructuring and market repositioning support for CARICOM producers. This is particularly the case as CARIFORUM’s market share has fallen from 77% to 48% since the introduction of duty-free access for this category of rum in 2003.</p><p>However, the decline in CARIFORUM’s market share of ‘bulk rum over €2’ (CN22084091) has been even more pronounced (down from 94% to 7%), with CARICOM rum exports in this category almost disappearing from the EU market. This has been attributed to the decision by Bacardi to relocate production from the Bahamas to Puerto Rico, following the introduction of duty-free access for this category of rum in 2003. This saw the value of imports from the Bahamas of ‘bulk rum over €2’ falling from €140 million in 2008 to 0.3 million in 2011, with imports from the US growing from €0.3 million to €200 million.</p><p>The production location decisions of multinational rum producers can thus have profound economic and trade consequences. Against this background, the threat of a multinational company such as Diageo to ‘re-evaluate’ its operations in those Caribbean countries where it is actively engaged could potentially act as a powerful disincentive to concerted CARICOM action on this issue.</p><p>In contrast, according to the Commonwealth Secretariat impact assessment of October 2012, the value of CARIFORUM rum exports in categories where preferences are still enjoyed ‘has been relatively stable’, highlighting the continued importance of these CARIFORUM tariff preferences.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+									
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Rum/CARICOM-to-take-US-rum-subsidies-to-WTO-dispute-settlement">CARICOM to take US rum subsidies to WTO dispute settlement </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rum/Calls-for-further-consultation-on-rum-dispute-with-US-but-no-WTO-dispute-panel-launched">Calls for further consultation on rum dispute with US but no WTO dispute panel launched</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Rum/Caribbean-rum-sector-facing-serious-challenges-in-US-and-EU-markets">Caribbean rum sector facing serious challenges in US and EU markets</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/Decline-in-per-tonne-sugar-earnings-in-Barbados-indicative-of-broader-challenges">Decline in per tonne sugar earnings in Barbados indicative of broader challenges</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Sugar/The-Dominican-Republic-begins-sugar-exports-to-the-EU">The Dominican Republic begins sugar exports to the EU</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":125,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,221 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Danone’s acquisition of 40% share in Brookside Dairy confirmed / Dairy / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																														
+																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7801/(search)/simple">Dairy</a>
+							
+																																																																																																																																																																																																																									
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Danone’s acquisition of 40% share in Brookside Dairy confirmed</h1>
+
+			
+			<h4>
+												21 September 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>In July 2014 the French dairy company Danone announced that it had acquired a 40% stake in the Kenyan company Brookside Dairy Ltd from the Kenyatta family (which formerly owned 90% of the company). Brookside is East Africa’s leading dairy manufacturer, having recently taken over a number of smaller dairies including SpinKnit Dairy, Buzeki Dairy, Ilara and Delamere, in addition to its deal in January to control the operations of Limuru Dairy for the next 10 years.</p><p>All in all, Brookside accounts for an estimated 44% of the Kenyan dairy market, with access to the largest milk collection and distribution networks in East Africa, embracing 140,000 farmers and more than 200,000 outlets. Brookside also has production operations in Uganda and Tanzania and has export business with Rwanda, Burundi and Egypt, and with Middle Eastern and Indian Ocean countries, with total sales of around US$176 million. Brookside is also looking to develop operations in Nigeria, where it “plans to set up a milk processing plant next year”.</p><p>With the Brookside share purchase, Danone now has operations in East Africa, South Africa, West Africa (via Fan Milk International – see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Danone-looking-to-expand-in-West-Africa" target="_blank">Danone looking to expand in West Africa</a>’, 19 January 2014), Morocco and Egypt, effectively straddling the African continent.</p><p>Reuters maintains that the company is “seeking new opportunities amid weak growth in Europe and slowing economy in China”. This reflects a broader trend, with a range of global consumer goods companies “attracted by the spending power of the growing middle class” in Africa.</p><p>According to Danone’s Vice-President for Corporate Affairs, “Africa is an important new frontier for Danone”, with the company looking to grow both organically and through acquisitions. Currently, Danone “generates 60% of its turnover in emerging countries” and “has invested more than a billion euros in Africa”.</p><p>Press reports elsewhere indicate that in 2013 the US became “the leading global exporter of SMP [skimmed-milk powder]”, and that SMP exports more than doubled between 2009 and 2013 (from 248,000 to 555,000 tonnes). This growth continued into 2014, with 10% growth in the first 4 months compared to the corresponding period in 2013.</p><p>According to USDA, despite “speculation” that Chinese demand for dairy products was set to fall, current import trends suggest that China’s imports of whole-milk powder (WMP) in 2014 will grow by 54% (to a record 1 million tonnes) and imports of SMP by 10% (to 330,000 tonnes). Up to May 2014, Chinese imports of cheese were up by 67% and butterfat by 121%, compared to the same period in 2013.</p><p>Despite the continued surge in Chinese demand, increased supplies of dairy products and hence increased competition on international market have led to a sharp decline in WMP prices from around US$5,100/t in January to around US$3,700/t in early July (FOB Oceania), with SMP prices faring no better.</p><p>The US is primarily increasing its SMP exports to China. After China, the principal destinations for US SMP exports are Canada, Mexico and South Korea.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Dairyreporter.com</i>, ‘Danone to acquire 40% share in Kenyan dairy Brookside’, 18 July 2014</p><p>
+<a href="http://www.dairyreporter.com/Manufacturers/Danone-to-acquire-40-stake-in-Kenyan-dairy-Brookside" target="_self">http://www.dairyreporter.com/Manufacturers/Danone-to-acquire-40-stake-in...</a></p><p>Reuters, ‘French group Danone buys 40% stake in Brookside’, 18 July 2014</p><p>
+<a href="http://www.businessdailyafrica.com/Corporate-News/-/539550/2388592/-/vuvphfz/-/index.html" target="_self">http://www.businessdailyafrica.com/Corporate-News/-/539550/2388592/-/vuv...</a></p><p><i>Agweb.com</i>, ‘US milk powder exports hit record high in May’, 10 July 2014</p><p>
+<a href="http://www.agweb.com/article/u.s._milk_powder_exports_hit_record_high_in_may_NAA_Dairy_Today_Editors/" target="_self">http://www.agweb.com/article/u.s._milk_powder_exports_hit_record_high_in...</a></p><p>USDA, ‘Dairy: World markets and trade’, July 2014</p><p>
+<a href="http://apps.fas.usda.gov/psdonline/circulars/Dairy.pdf" target="_self">http://apps.fas.usda.gov/psdonline/circulars/Dairy.pdf</a></p><p><i>Wsj.com</i>, ‘Danone to buy 40% stake in Kenyan dairy company Brookside</p><p>
+<a href="http://brussels.cta.int/index.php?option=com_k2&amp;id=8999:danone-to-buy-40-stake-in-kenyan-dairy-company-brookside&amp;view=item&amp;Itemid=54" target="_self">http://brussels.cta.int/index.php?option=com_k2&amp;id=8999:danone-to-bu...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>With the abolition of EU milk production quotas, French milk production is projected to increase by 10% (see <i>Agritrade </i>article ‘Developments in the global and EU dairy market’, forthcoming 2014), and companies such as Danone are looking for outlets for this expanded milk production, two-thirds of which will need to find markets outside the EU.</p><p>While China remains the largest growth market for dairy products, competition for the Chinese market is intensifying: New Zealand’s Fonterra is constantly jockeying for competitive advantage, and the US is an increasingly important competitor in the SMP and WMP markets.</p><p>It is against this background that the development of Danone’s strategic network of partnership in different African regions needs to be seen. This network is likely to provide ready outlets for milk powder exports, largely insulated from competition from exporters from the US and New Zealand.</p><p>In South Africa, however, Danone also has a history of promoting product innovation to serve health-conscious, urban middle-class consumers, which has stimulated local milk production for use in value-added dairy products.</p><p>Government policies regarding the management of import licences for milk powders could play an important role in determining the relative weight given to the development of dairy production based on local milk sourcing and to dairy production that is based on reconstituting imported milk powders.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Rwanda-institutes-a-legal-mechanism-towards-regulation-of-dairy-industry-to-boost-its-growth">Rwanda institutes a legal mechanism towards regulation of dairy industry to boost its growth</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Progress-on-More-Milkit-Program-in-Tanzania-Traders-receive-training-in-developing-bankable-business-plans">Progress on More Milkit Program in Tanzania-Traders receive training in developing bankable business plans</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Dairy-Farmers-and-Tax-man-in-Uganda-at-Crossroads">Dairy Farmers and ‘Tax-man’ in Uganda at Crossroads</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Kenyan-Consumers-unlikely-to-benefit-from-El-Nino-tiding-as-milk-prices-remain-high">Kenyan Consumers unlikely to benefit from El-Nino tiding as milk prices remain high </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/An-Italian-Tanzania-Project-Awarded-for-its-contribution-in-improving-lives-of-Dairy-Farmers-in-Njombe-Tanzania">An Italian-Tanzania Project Awarded for its contribution in improving lives of Dairy Farmers in Njombe, Tanzania</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":133,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

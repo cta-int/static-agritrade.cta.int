@@ -1,0 +1,271 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>EC response to crisis in the dairy sector / Dairy / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																																									
+		
+		<div class='contentrealtionlist'>
+							
+																																																							
+							<a href="/en/layout/set/print/Publications/(regions)/7766/(search)/simple">Global</a>
+																																																																,
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																					,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																																																																																																																														
+																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7801/(search)/simple">Dairy</a>
+							
+																																																																																																																																																																																																																									
+																																																																																																																																,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7814/(search)/simple">EU FTAs</a>
+							
+																																																																																																																																																																																													,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7817/(search)/simple">SPS / Food safety</a>
+							
+																																																																																																																																																																																																																																																																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7823/(search)/simple">Other</a>
+							
+																																																																																
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>EC response to crisis in the dairy sector</h1>
+
+			
+			<h4>
+												28 August 2009
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>On July 22nd the EC issued a communication on the dairy market situation in 2009. This included a catalogue of the measures currently in place to support EU dairy farmers. This includes:</p>
+<ul>
+
+<li>continued and enhanced use of traditional support instruments such as intervention, private storage and export refunds (the cost of planned spending on these items is more than €600 million);</li>
+
+<li>the early payment of direct-aid payments (the ‘main policy tool for supporting farmers’ incomes’), which is ‘now worth €5 billion a year’ to EU dairy farmers;</li>
+
+<li>increased support for dairy promotion programmes;</li>
+
+<li>the possible use of levies imposed for overproduction to ‘finance voluntary retirement from milk production’;</li>
+
+<li>‘the extension to farmers of the Temporary Crisis Framework for state aid’, involving increased access to state-provided loans at market rates;</li>
+
+<li>unilateral redistribution of aid to the dairy sector at the national level within the framework of the 2008 CAP health check proposals (opening access to a portion of some €4.2 billion allocated to such measures);</li>
+
+<li>an EC review of potential anti-competitive practices in the food supply chain (Commissioner Fischer Boel has commented that ‘whereas farmers are getting less for their dairy products than before the price surge of 2007/08, prices on the supermarket shelf are still up 14%’) and support for organisation of farmers’ associations;</li>
+
+</ul>
+<p>Commissioner Fischer Boel argued that while the EC was committed ‘to do all we can to help our milk producers’, she made it clear that the EC will not accept any reversal of the quota expansion introduced, since this has been designed to provide a soft landing to the process of quota abolition. She argued that quota expansion was not a cause of low dairy prices. Indeed, while production quotas for 2008/09 were increased, ‘production actually fell by 0.9%, taking the total about 4.2% under quota by March 31st’. She argued that ‘the real sources of the crisis are the weakness of global demand and a powerful surge in output from major non-European producers’.</p><p>The EC communication comes against the backdrop of continued producer demands for halting quota expansion and introducing a system of effective supply control, including the ‘freezing’ of at least 5% of the milk quota. European farmers’ organisations maintain that this would allow producer prices to recover. In the longer term, the demand is for a system where ‘supply can be adjusted to demand in the future’. This change to the system is deemed to be ‘indispensible’ by European Milk Board President Romuald Schaber. This industry perspective received a degree of support from the Agriculture Committee of the European Parliament, which described the EC’s response to the dairy crisis as ‘inadequate’.</p><p>However there is by no means a consensus on this critique of EC policies within the farming community. The Chairman of the NFU Dairy Board in the UK, Gwyn Jones, argued that ‘the additional support measures proposed by the Commission offer a proportionate short-term response which has the potential to inject greater support and stability into the market, without deviating from current policy’. He said, ‘This is important. Farmers require certainty as well as predictability’, adding that ‘the certainty has to be that quotas are finished’.</p><p>Meanwhile the EC has posted a consultancy report on the economic impact of the abolition of the milk quota regime on individual EU regions. The analysis is based on ‘different simulation scenarios performed with the CAPRI model’, which has been further elaborated for the purpose, and a comparison of the results of previous studies. The assessment found that quota abolition would result in an increase in milk production in the EU27 of approximately 4.4%, and a decline in the raw milk price of around 10%. </p><p>The impact of quota abolition will vary greatly from region to region across the EU. Overall ‘nearly 70% of the European regions show an increase in dairy cow herds as a consequence of quota abolition’, with some areas enjoying particularly strong increases. These different effects lead to different consequences for agricultural income in different regions of the EU. Overall however the ‘welfare effects are slightly positive for the EU27. While ‘total agricultural income would decline due to lower milk prices on average, the EU dairy industry would benefit, as prices of dairy products are expected to decline less than raw milk prices’. </p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>
+<i>TheDairySite.com, </i>July 16th 2009<br />
+<a href="http://www.thedairysite.com/news/27834/eu-ag-commissioner-calls-for-milk-transparency" target="_self">http://www.thedairysite.com/news/27834/eu-ag-commissioner-calls-for-milk...</a></p><p>
+<i>TheDairySite.com</i>, July 15th 2009 <br />
+<a href="http://www.thedairysite.com/news/27819/immediate-action-required-for-eu-dairy-markets" target="_self">http://www.thedairysite.com/news/27819/immediate-action-required-for-eu-...</a></p><p>
+<i>Europa Press Releases Rapid, </i>IP/09/1172, July 22nd 2009 <br />
+<a href="http://europa.eu/rapid/pressReleasesAction.do?reference=IP/09/1172&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en" target="_self">http://europa.eu/rapid/pressReleasesAction.do?reference=IP/09/1172&amp;f...</a></p><p>
+EC communication to the Council, <i>COM(2009) 385 final</i>, July 22nd 2009<br />
+<a href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2009:0385:FIN:EN:PDF" target="_self">http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2009:0385:FIN:...</a></p><p>
+EC, dairy market situation report, July 22nd 2009 <br />
+<a href="http://ec.europa.eu/agriculture/markets/milk/report2009/index_en.htm" target="_self">http://ec.europa.eu/agriculture/markets/milk/report2009/index_en.htm</a></p><p>
+EC, DC Agriculture and Rural Development news, July 24th 2009 <br />
+<a href="http://ec.europa.eu/agriculture/newsroom/en/362.htm" target="_self">http://ec.europa.eu/agriculture/newsroom/en/362.htm</a></p><p>
+EC, Commissioner Fischer Boel’s blog, July 22nd 2009 <br />
+<a href="http://blogs.ec.europa.eu/fischer-boel/dairy-sector-keeping-the-ship-steady-but-straight/" target="_self">http://blogs.ec.europa.eu/fischer-boel/dairy-sector-keeping-the-ship-ste...</a></p><p>
+<i>TheDairySite.com</i>, July 23rd 2009<br />
+<a href="http://www.thedairysite.com/news/27911/ag-committee-calls-ec-dairy-measures-insufficient" target="_self">http://www.thedairysite.com/news/27911/ag-committee-calls-ec-dairy-measu...</a></p><p>
+<i>TheDairySite.com</i>, July 22nd 2009 <br />
+<a href="http://www.thedairysite.com/news/27901/eu-commission-proposes-a-new-way-for-dairy" target="_self">http://www.thedairysite.com/news/27901/eu-commission-proposes-a-new-way-...</a></p><p>
+EC, <i>Economic impact of the abolition of the milk quota regime, </i>full report<i>, </i>February 20th 2009<br />
+<a href="http://ec.europa.eu/agriculture/analysis/external/milkquota/full_report_en.pdf" target="_self">http://ec.europa.eu/agriculture/analysis/external/milkquota/full_report_...</a></p><p>
+EC, executive summary, February 2009 <br />
+<a href="http://ec.europa.eu/agriculture/analysis/external/milkquota/ex_sum_en.pdf" target="_self">http://ec.europa.eu/agriculture/analysis/external/milkquota/ex_sum_en.pdf</a> </p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The most immediate concern would appear to be around the implications of the expansion of EU export refund operations, which could serve to exacerbate the consequences of the global dairy crisis for African producers, given the dominant role which the EU plays in the dairy trade into Africa. In the longer term, the increased role the EC is looking to take in monitoring the function of supply chains to ensure that no anti-competitive practices emerge could well be relevant to ACP suppliers, if such measures were extended to supply chains in which ACP suppliers play major roles (e.g. the sugar and horticultural product supply chains).</p><p>In terms of the internal regional implications within the EU of quota abolition, this has little impact on ACP countries, since the ACP have only very limited exports of dairy products to the EU. Of more potential interest is methodology for assessing the regional impact of abolition of quotas on the geographical distribution of production and the distribution of income along supply chains. These are both critical issues in the ACP sugar sector at the present time.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+											
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/High-feed-costs-highlight-importance-of-new-EU-dairy-sector-initiatives">High feed costs highlight importance of new EU dairy sector initiatives </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/CAP-reform/Agriculture-Commissioner-s-perspectives-on-the-external-effects-of-CAP-reform">Agriculture Commissioner’s perspectives on the external effects of CAP reform</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Concern-over-EC-management-of-the-dairy-market">Concern over EC management of the dairy market</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Policy-tools-critical-to-turning-around-crisis-in-the-EU-dairy-sector">Policy tools critical to turning around crisis in the EU dairy sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Quality-labelling-seen-as-critical-to-EU-dairy-farmers">Quality labelling seen as critical to EU dairy farmers</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":152,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

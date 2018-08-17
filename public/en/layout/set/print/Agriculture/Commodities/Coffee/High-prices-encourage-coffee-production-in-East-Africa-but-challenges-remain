@@ -1,0 +1,351 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>High prices encourage coffee production in East Africa, but challenges remain  / Coffee / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																														
+																																																																																																																								,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7799/(search)/simple">Coffee</a>
+							
+																																																																																																																																																																																																																																																																					
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>High prices encourage coffee production in East Africa, but challenges remain </h1>
+
+			
+			<h4>
+												16 July 2012
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>USDA has posted its annual reviews of coffee production in Kenya, Uganda, Tanzania and Ethiopia. The Kenyan report notes that record and near-record prices ‘have increased interest in producing and exporting high-quality Kenyan coffee’, with investments being made in improved varieties and production practices. USDA projects exports of 725,000 60-kg bags in marketing year (MY) 2012 and 800,000 in MY 2013.&nbsp; This will still be below the 900,000 60-kg bags achieved in 2008/09.</p><p>According to USDA, Kenyan ‘AA’ beans will continue to be exported to the European market, where they ‘benefit from a small niche market in the premium retail trade but, reportedly, play a much more important role in blending to improve the general quality of retail coffee’. Efforts are under way to increase the production of AA-graded beans, while reducing costs and meeting ‘the many environmental and social certification requirements’.</p><p>In terms of marketing, USDA reports that Kenyan producers are questioning the value-added role of the various government-related agencies. This is reportedly leading to an increase in direct sales by producers. USDA reports a number of Kenyan government initiatives including:</p>
+<ul>
+
+<li>the introduction of a debt waiver for growers;</li>
+
+<li>the establishment of a coffee development fund;</li>
+
+<li>restructuring of coffee institutions;</li>
+
+<li>the full liberalisation of coffee marketing through the introduction of direct sales;</li>
+
+<li>the development of national coffee standards as a benchmark code of practice for producers to promote sustainability certification;</li>
+
+<li>the launch of a Kenyan mark of origin. </li>
+
+</ul>
+<p>Opportunities for local blending using Kenyan, Tanzanian and Ugandan beans are currently being explored. In this context, the USDA country report for Tanzania notes that ‘European coffee traders source Tanzanian robusta beans to blend with Kenyan AA coffee beans’, however there is currently only limited intra-regional trade in Tanzanian robusta beans. Tanzania is also working to raise quality standards to Kenyan levels, although the report suggests that ‘equality may be some years away.’</p><p>In Tanzania, coffee sales largely take place through the Tanzanian Coffee Board auctions. For Tanzania, Japan is the main market for arabica coffee bean (53%), followed by Europe (22%) and the USA (17%). In contrast, 89% of Tanzanian robusta bean sales are to Europe. Average prices on arabica bean sales to Japan were reportedly 23% higher than average prices on sales to Europe, but only 1.6% higher than average sale prices to the US. The highest price of all in 2011, however, was on a small volume of sales (1.65%) to South Africa, where average prices were 9% higher than sale prices for Japan. High export levels are expected for 2013, with high prices reportedly driving an ‘astronomical’ take-up of new varieties of seedlings with ‘greater disease resistance, productivity and quality’. Ninety per cent of production takes place on smallholder farms (involving some 2 million Tanzanians).</p><p>USDA’s report on Uganda notes that Europe provides the market for 80% of Ugandan robusta and 90% of its arabica coffee production. Uganda’s other major market for robusta beans is South Sudan. High prices have allowed Uganda producers to buy additional inputs and expand production. Following a drop in 2010 in 2012 and 2013, Ugandan coffee exports are projected to exceed the levels reached in 2009, reaching some 3 million 60-kg bags.&nbsp;</p><p><b>East African total coffee production and exports (’000 60-kg bags)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="103" valign="top">  &nbsp;
+  </td><td width="103" valign="top">  2009
+  </td><td width="103" valign="top">  2010
+  </td><td width="103" valign="top">  2011
+  </td><td width="103" valign="top">  2012
+  </td><td width="103" valign="top">  2013
+  </td>
+</tr>
+
+<tr>
+<td colspan="6" width="616" valign="top">  <b>Production</b>
+  </td>
+</tr>
+
+<tr>
+<td width="103" valign="top">  <p class=" text-left"><b>Kenya</b></p><p class=" text-left">Arabica</p><p class=" text-left">Robusta</p>
+  </td><td width="103" valign="top">  <p class=" text-right">900</p><p class=" text-right">0</p>
+  </td><td width="103" valign="top">  <p class=" text-right">700</p><p class=" text-right">0</p>
+  </td><td width="103" valign="top">  <p class=" text-right">680</p><p class=" text-right">0</p>
+  </td><td width="103" valign="top">  <p class=" text-right">780</p><p class=" text-right">0</p>
+  </td><td width="103" valign="top">  <p class=" text-right">805</p><p class=" text-right">0</p>
+  </td>
+</tr>
+
+<tr>
+<td width="103" valign="top">  <p class=" text-left"><b>Tanzania</b></p><p class=" text-left">Arabica</p><p class=" text-left">Robusta</p>
+  </td><td width="103" valign="top">  <p class=" text-right">644</p><p class=" text-right">504</p>
+  </td><td width="103" valign="top">  <p class=" text-right">392</p><p class=" text-right">202</p>
+  </td><td width="103" valign="top">  <p class=" text-right">600</p><p class=" text-right">450</p>
+  </td><td width="103" valign="top">  <p class=" text-right">640</p><p class=" text-right">350</p>
+  </td><td width="103" valign="top">  <p class=" text-right">700</p><p class=" text-right">300</p>
+  </td>
+</tr>
+
+<tr>
+<td width="103" valign="top">  <p class=" text-left"><b>Uganda</b></p><p class=" text-left">Arabica</p><p class=" text-left">Robusta</p>
+  </td><td width="103" valign="top">  <p class=" text-right">650</p><p class=" text-right">2,610</p>
+  </td><td width="103" valign="top">  <p class=" text-right">818</p><p class=" text-right">2,052</p>
+  </td><td width="103" valign="top">  <p class=" text-right">644</p><p class=" text-right">2,568</p>
+  </td><td width="103" valign="top">  <p class=" text-right">630</p><p class=" text-right">2,700</p>
+  </td><td width="103" valign="top">  <p class=" text-right">650</p><p class=" text-right">2,800</p>
+  </td>
+</tr>
+
+<tr>
+<td colspan="6" width="616" valign="top">  <b>Exports</b>
+  </td>
+</tr>
+
+<tr>
+<td width="103" valign="top">  Kenya
+  </td><td width="103" valign="top">  980
+  </td><td width="103" valign="top">  740
+  </td><td width="103" valign="top">  654
+  </td><td width="103" valign="top">  725
+  </td><td width="103" valign="top">  800
+  </td>
+</tr>
+
+<tr>
+<td width="103" valign="top">  Tanzania
+  </td><td width="103" valign="top">  1,201
+  </td><td width="103" valign="top">  804
+  </td><td width="103" valign="top">  1,010
+  </td><td width="103" valign="top">  851
+  </td><td width="103" valign="top">  951
+  </td>
+</tr>
+
+<tr>
+<td width="103" valign="top">  Uganda
+  </td><td width="103" valign="top">  3,050
+  </td><td width="103" valign="top">  2,670
+  </td><td width="103" valign="top">  3,150
+  </td><td width="103" valign="top">  3,200
+  </td><td width="103" valign="top">  3,400
+  </td>
+</tr>
+
+</table>
+<p>Source: USDA, May 2012, see reports below</p><p>Africa’s largest coffee producer, however, is Ethiopia. Ethiopia is the sixth largest coffee producer in the world, and its production is largely smallholder-based (95%). USDA’s report notes little progress in disease management and input usage, although production is expected to increase slightly following good rains. A further increase in production is projected for 2012/13. The spread of root rot in some regions is overhanging the sector, as is the increased commercial attractiveness of producing <i>khat</i> (a stimulant) for regional markets.</p><p>According to the report, while coffee accounts for 25–30% of total Ethiopian export earnings, about half of all coffee produced is consumed locally, with a small informal trade to neighbouring markets. Six of Ethiopia’s top 10 export destinations are in the EU, accounting for 59% of exports in MY 2010/11.</p><p>Ethiopia’s coffee trade is highly regulated by the government, with all export coffee business requiring licences. Exports in MY 2011/12 are lower than normal due to a dispute over packaging practices designed to reduce the dangers of disease transmission, which had previously closed the Japanese market to Ethiopian coffee exports. This dispute led to hoarding and government export bans on individual companies.</p><p>In 2008, the Ethiopian Commodity Exchange (ECX) was established. It now handles 90% of coffee exports.&nbsp; However, its trade in coffee allows little scope for product differentiation for single-origin coffees, with cooperatives and farmers producing single-origin coffee trading on their own account. The ECX is now working with Starbucks to find ways of addressing this shortcoming.</p><p><b>Ethiopian arabica coffee production and exports (’000 60-kg bags)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="154" valign="top">  &nbsp;
+  </td><td width="154" valign="top">  2010/11
+  </td><td width="154" valign="top">  2011/12
+  </td><td width="154" valign="top">  2012/13
+  </td>
+</tr>
+
+<tr>
+<td width="154" valign="top">  Production
+  </td><td width="154" valign="top">  6,113
+  </td><td width="154" valign="top">  6,320
+  </td><td width="154" valign="top">  6,450
+  </td>
+</tr>
+
+<tr>
+<td width="154" valign="top">  Exports
+  </td><td width="154" valign="top">  3,235
+  </td><td width="154" valign="top">  2,733
+  </td><td width="154" valign="top">  3,650
+  </td>
+</tr>
+
+</table>
+<p>Source: USDA, <i>GAIN Report </i>ET 1202, 15 May 2012</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>USDA, ‘Kenya coffee annual report’, <i>GAIN Report</i>, 15 May 2012</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Coffee%20Annual_Nairobi_Kenya_5-15-2012.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Coffee%20Annual_Na...</a></p><p>USDA, ‘Tanzania coffee annual report’, <i>GAIN Report</i>, 23 May 2012,</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Coffee%20Annual_Nairobi_Tanzania_5-23-2012.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Coffee%20Annual_Na...</a></p><p>USDA, ‘Uganda coffee annual report’, <i>GAIN Report</i>, 22 May 2012</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Coffee%20Annual_Nairobi_Uganda_5-22-2012.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Coffee%20Annual_Na...</a></p><p>USDA, ‘Ethiopia coffee annual report’, <i>GAIN Report</i> ET 1202, 15 May 2012</p><p>
+<a href="http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Coffee%20Annual_Addis%20Ababa_Ethiopia_4-25-2012.pdf" target="_self">http://gain.fas.usda.gov/Recent%20GAIN%20Publications/Coffee%20Annual_Ad...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>In some parts of East Africa, a big issue is potential conversion of land use. In Kenya, coffee estates in peri-urban areas of Nairobi are being converted to real estate, and this is spreading to other smaller towns in coffee-growing areas. This needs to be seen in the context of climate change, which is projected to change agro-environmental conditions for coffee production and require a redefinition of coffee-growing areas.</p><p>In Ethiopia competition is primarily from khat production. In some instances, this can be addressed by stabilising and enhancing coffee farmers’ incomes.&nbsp; Such initiatives can be promoted through a variety of means, including:</p>
+<ul>
+
+<li>reducing inputs costs to promoting value addition and/or product differentiation;</li>
+
+<li>improving marketing; </li>
+
+<li>strengthening the functioning of coffee supply chains by enhancing the bargaining position of producers within supply chains. </li>
+
+</ul>
+<p>These factors raise the issue of the future role of government policies, agencies and regulatory measures in the coffee sector.</p><p>Scope for the development of cross-border processing of coffee and joint promotional measures in new markets emerging from shifting patterns of global demand for coffee need to be fully explored.</p><p>Such a move could build on the type of regional product differentiation and promotional strategy adopted in the Caribbean rum sector.&nbsp; Here, the development of promotional campaigns around the regional ‘Authentic Caribbean rum’ quality mark reduced the costs to individual companies of marketing branded bottled rums, which were produced as part of a strategy to move away from the export of bulk rum. With jointly developed and carefully targeted promotional campaigns, this initiative has laid a solid basis for a fundamentally different engagement of the Caribbean rum sector with the global economy.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Coffee-sector-s-important-contribution-to-household-food-security-potentially-undermined-by-price-volatility">Coffee sector’s important contribution to household food security potentially undermined by price volatility</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Ethiopian-coffee-sector-caught-out-by-declining-global-prices-in-2013-14">Ethiopian coffee sector caught out by declining global prices in 2013/14</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Investment-in-storage-reduces-vulnerability-of-Rwandan-coffee-sector-to-global-price-volatility">Investment in storage reduces vulnerability of Rwandan coffee sector to global price volatility </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Improving-global-prices-could-boost-East-African-coffee-sector-development">Improving global prices could boost East African coffee sector development</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Coffee/Falling-arabica-coffee-prices-could-boost-demand-from-coffee-blenders-in-emerging-markets">Falling arabica coffee prices could boost demand from coffee blenders in emerging markets </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":155,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

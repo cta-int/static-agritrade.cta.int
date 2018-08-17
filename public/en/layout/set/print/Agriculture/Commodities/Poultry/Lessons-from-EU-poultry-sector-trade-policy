@@ -1,0 +1,536 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Lessons from EU poultry sector trade policy / Poultry / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+																																																																																																																																																																																																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7804/(search)/simple">Poultry</a>
+							
+																																																																																																																																																							
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Lessons from EU poultry sector trade policy</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/277613/3350063/file/aff73e037550328c59ec9c0131206963.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+												04 September 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc3350030_0_1" id="eztoc3350030_0_1"></a><h3>The context of EU poultry sector tariff policy</h3><p>Trade policy is the principal policy tool used by the EU to manage the poultry sector and involves a sophisticated system of product and country-specific reduced or zero duty import quotas (or tariff-rate quotas/TRQs).</p><p>A study financed by the Association of Poultry Processors and Poultry Trade in the EU (AVEC) and published in December 2013 has highlighted the lower costs of poultry production in Argentina (71% of average EU production costs), Brazil (72%), Ukraine (77%), the USA (80%), Thailand (84%) and Russia (92%). These differences in costs are attributed by the AVEC study to higher EU production and environmental standards.&nbsp; The study argues that “quotas and import levies protect the EU from third-country imports whose legislation or production requirements do not meet the requirements or expectations of [EU] consumers.” It maintains that higher EU production and environmental standards require the maintenance of a protective EU trade policy.<sup>1</sup>&nbsp;</p><a name="eztoc3350030_0_2" id="eztoc3350030_0_2"></a><h3>EU tariff policy</h3><p>As part of the Uruguay Round Agreement, import tariffs were reduced and minimum market access quotas were established. However, a special safeguard mechanism was retained, to be triggered if import prices fell below a specified level. This special safeguard clause, subject to monthly review, has been permanently invoked.</p><p>In this context, the EU maintains a highly disaggregated tariff regime for poultry products, which is in part based on evolving EU consumer demand for poultry-meat products. The EU has no fewer than 20 main tariff subheadings for poultry broiler meat, with 10 different bound tariffs, and fixed tariffs ranging from €187 to 1,024/tonne. The EU maintains lower levels of protection for processed poultry meat products (see Annex 1).</p><p>Within the bound tariff, the EU establishes a range of non-preferential tariff quotas (TQs) as well as certain country-specific preferences. Reportedly, only small volumes of poultry meat imports take place outside EU TQ arrangements. These out-of-quota imports generally occur in order to establish a track record of imports in order to become eligible for future quota allocations.</p><p>The EU thus effectively uses import licences to regulate the poultry trade, allowing imports to increase in response to evolving consumer demand while preserving high-value market components of domestic poultry products. While EU imports of poultry meat have been following a downward trend in recent years, there has been an increase in imports of prepared poultry meat in response to evolving consumer demand, mainly for use in the catering trade.</p><p>Overall, the EU’s experience of regulated imports, with increases in imports concentrated in market components where duties are low and access is regulated through TRQs, highlights the scope for the nuanced use of trade policy tools to address specific poultry sector problems.</p><a name="eztoc3350030_0_3" id="eztoc3350030_0_3"></a><h3>The impact of EU tariff policy</h3><p>According to a 2005 evaluation of the EU poultry regime prepared for the European Commission, import tariffs play “a vital role in restricting the volume of imports into the EU from third countries”. The report found that import tariffs maintained prices between 11.5 and 13.1% higher, and production between 7 and 13.3% higher than would be the case in the absence of tariff protection (varying according to world market price levels).<sup>2</sup></p><p>The report also noted EU poultry producers’ belief that “in the absence of import tariffs… the EU market would rapidly be influenced by imported products, with EU producers increasingly restricted to supplying niche markets.”</p><p>The effectiveness of the EU trade policy in supporting EU poultry producers and nurturing the domestic EU poultry sector is highlighted by the fact that, despite the price disadvantages facing EU producers vis-à-vis the EU’s main international poultry sector competitors, poultry-meat imports rose by only 17,000 tonnes in response to an expansion of consumer demand of 640,000 tonnes between 2007 and 2012. This limited import response reflects the negligible volume of imports taking place outside of quota arrangements. In contrast, EU production increased by 10% (some 1,172,000 tonnes), with this fuelling the growth of EU exports of poultry parts.</p><p><b>EU28 poultry meat market balance (’000 tonnes carcase weight equivalent)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="169" valign="top">  &nbsp;
+  </td><td width="50" valign="top">  <b>2003<sup>1</sup></b>
+  </td><td width="53" valign="top">  <b>2007<sup>2</sup></b>
+  </td><td width="48" valign="top">  <b>2010</b>
+  </td><td width="50" valign="top">  <b>2011</b>
+  </td><td width="54" valign="top">  <b>2012</b>
+  </td><td width="50" valign="top">  <b>2013</b>
+  </td><td width="51" valign="top">  <b>2014</b>
+  </td><td width="50" valign="top">  <b>2015</b>
+  </td><td width="45" valign="top">  <b>2023</b><sup>3</sup>
+  </td>
+</tr>
+
+<tr>
+<td width="169" valign="top">  Net production
+  </td><td width="50" valign="top">  10,842
+  </td><td width="53" valign="top">  11,466
+  </td><td width="48" valign="top">  12,182
+  </td><td width="50" valign="top">  12,384
+  </td><td width="54" valign="top">  12,638
+  </td><td width="50" valign="top">  12,850
+  </td><td width="51" valign="top">  12,950
+  </td><td width="50" valign="top">  13,034
+  </td><td width="45" valign="top">  13,602
+  </td>
+</tr>
+
+<tr>
+<td width="169" valign="top">  Total consumption
+  </td><td width="50" valign="top">  10,514
+  </td><td width="53" valign="top">  11,526
+  </td><td width="48" valign="top">  11,829
+  </td><td width="50" valign="top">  11,925
+  </td><td width="54" valign="top">  12,166
+  </td><td width="50" valign="top">  12,338
+  </td><td width="51" valign="top">  12,442
+  </td><td width="50" valign="top">  12,514
+  </td><td width="45" valign="top">  13,013
+  </td>
+</tr>
+
+<tr>
+<td width="169" valign="top">  Per capita consumption (kg)
+  </td><td width="50" valign="top">  23.0
+  </td><td width="53" valign="top">  23.4
+  </td><td width="48" valign="top">  20.6
+  </td><td width="50" valign="top">  20.8
+  </td><td width="54" valign="top">  21.1
+  </td><td width="50" valign="top">  21.4
+  </td><td width="51" valign="top">  21.5
+  </td><td width="50" valign="top">  21.6
+  </td><td width="45" valign="top">  22.08
+  </td>
+</tr>
+
+<tr>
+<td width="169" valign="top">  Imports
+  </td><td width="50" valign="top">  641
+  </td><td width="53" valign="top">  824
+  </td><td width="48" valign="top">  796
+  </td><td width="50" valign="top">  831
+  </td><td width="54" valign="top">  841
+  </td><td width="50" valign="top">  788
+  </td><td width="51" valign="top">  785
+  </td><td width="50" valign="top">  785
+  </td><td width="45" valign="top">  855
+  </td>
+</tr>
+
+<tr>
+<td width="169" valign="top">  Exports
+  </td><td width="50" valign="top">  969
+  </td><td width="53" valign="top">  729
+  </td><td width="48" valign="top">  1,150
+  </td><td width="50" valign="top">  1,290
+  </td><td width="54" valign="top">  1,313
+  </td><td width="50" valign="top">  1,300
+  </td><td width="51" valign="top">  1,293
+  </td><td width="50" valign="top">  1,305
+  </td><td width="45" valign="top">  1,445
+  </td>
+</tr>
+
+</table>
+<p>Notes: 1. EU25:&nbsp; EC, ‘Prospects for agricultural markets and income 2005-2012’, July 2005; 2. EU27: EC, ‘Prospects for agricultural markets and incomes in the European Union 2008–2015’, March 2009; 3. EC, ‘Prospects for agricultural markets and incomes in the EU 2013-2023’, December 2013.</p><p>Sources: EC, ‘Short term outlook for arable crops, meat and dairy markets in the European Union’, Winter 2014</p><p>The December 2013 AVEC analysis suggests that the EU’s poultry trade regime helps to support EU poultry prices by increasing average import prices above average EU poultry prices. This carries important implications not only in terms of protecting EU domestic poultry producers from international competition, but also in terms of the competitiveness of EU poultry product exports. &nbsp;According to analysis published by USDA in September 2013, the continued growth in EU poultry meat exports owes a lot to the fact that EU poultry producers can pass on cost increases to domestic consumers, without imports expanding their market share. This means that EU exporters can maintain competitive prices on export markets.<sup>3</sup></p><a name="eztoc3350030_0_4" id="eztoc3350030_0_4"></a><h3>Options for dealing with trade challenges in the poultry sector</h3><p>The problem of dumping of poultry parts is common to countries in Africa, the Caribbean and the Pacific, although the origin of this trade varies (EU, USA and Australia respectively). The question arises: what policy measures can be taken in response to the disruptive effects that this ‘residual’ trade can have on the local markets affected?</p><p>In addition to the current use of quantitative restrictions or bans on imports of poultry parts which are used in a number of ACP countries, the EU experience would appear to suggest two further options:</p>
+<ul>
+
+<li>The first option involves the use of a differentiated tariff structure, with higher specific duties on frozen poultry parts, which are the main source of concern. This would target the specific problem area without unduly increasing the average tariff applied, and would mirror the tariff policy approach used by the EU in the poultry sector. This would however require a strong customs implementation capacity.</li>
+
+<li>The second option involves linking the issuing of import licences to food safety concerns over the handling of frozen poultry parts. Import licences could potentially be allocated only to companies that have access to the physical infrastructure to ensure safe storage and handling of frozen poultry parts and have been certified as such by national inspection services. </li>
+
+</ul>
+<p>This would to a certain extent mirror EU practice in the dairy sector, where for many years import licences were issued only to ‘approved undertakings’ which could guarantee the integrity of the handling and storage of dairy products. These ‘approved undertakings’ were exclusively EU dairy companies, since no traders found it worthwhile to invest in complying with all EU dairy sector regulations necessary to attain ‘approved undertakings’ status.</p><p>In the poultry sector this follows a similar path, restricting the issuing of import licences for frozen poultry parts, on food safety grounds, to ‘approved undertakings’ which can guarantee the integrity of the cold chain from point of production to point of retail sale.</p><p>However, it needs to be borne in mind that replicating the EU’s use of sophisticated trade policy tools in the poultry sector sits uneasily with some of the broad trade policy prescriptions enshrined in EU–ACP Economic Partnership Agreements (EPAs). These include tariff standstill commitments, restrictions on the use of quantitative restrictions (TRQs) and prohibitions on the use of import licences. A careful review of the implications for the poultry sector of EPA commitments would therefore appear to be needed.</p><p><b> </b></p><a name="eztoc3350030_0_4_1" id="eztoc3350030_0_4_1"></a><h4>Annex 1: EU broiler meat tariffs</h4><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="215" valign="top">  <b>CN code</b>
+  </td><td width="104" valign="top">  <b>Base rate erga omnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; €/100 kg</b>
+  </td><td width="104" valign="top">  <b>Non-preferential tariff quota&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; €/100 kg</b>
+  </td><td width="189" valign="top">  <b>Specific preferences</b>
+  </td>
+</tr>
+
+<tr>
+<td colspan="4" width="612" valign="top">  <b>020711 fresh or chilled not cut</b>
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071110&nbsp; (plucked and gutted ‘83% chickens)
+  </td><td width="104" valign="top">  26.2
+  </td><td width="104" valign="top">  13.1
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071130 (plucked and drawn ’70% chickens’)
+  </td><td width="104" valign="top">  29.9
+  </td><td width="104" valign="top">  14.9
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071190 (plucked and drawn ‘65% chickens’)
+  </td><td width="104" valign="top">  32.5
+  </td><td width="104" valign="top">  16.2
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td colspan="4" width="612" valign="top">  <b>020712 frozen not cut</b>
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071210 (plucked and drawn ‘70% chickens’)
+  </td><td width="104" valign="top">  29.9
+  </td><td width="104" valign="top">  14.9
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071290 (frozen chickens plucked and drawn
+  </td><td width="104" valign="top">  32.5
+  </td><td width="104" valign="top">  16.2
+  </td><td width="189" valign="top">  €0 under TRQ (Brazil, Thailand); Representative (rep.) price-based €131.2/100 kg (Argentina)
+  </td>
+</tr>
+
+<tr>
+<td colspan="4" width="612" valign="top">  <b>020713 cuts, offal fresh or chilled</b>
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071310 (boneless)
+  </td><td width="104" valign="top">  102.4
+  </td><td width="104" valign="top">  51.2
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071330&nbsp; (whole wings)
+  </td><td width="104" valign="top">  26.9
+  </td><td width="104" valign="top">  13.4
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071340 (backs, necks, rumps, wingtips)
+  </td><td width="104" valign="top">  18.7
+  </td><td width="104" valign="top">  9.3
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071350 (breasts/cuts thereof)
+  </td><td width="104" valign="top">  60.2
+  </td><td width="104" valign="top">  30.1
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071360 (legs/cuts thereof)
+  </td><td width="104" valign="top">  46.3
+  </td><td width="104" valign="top">  23.1
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071370 (other)
+  </td><td width="104" valign="top">  100.8
+  </td><td width="104" valign="top">  50.4
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071399 (offal – other)
+  </td><td width="104" valign="top">  18.7
+  </td><td width="104" valign="top">  18.7
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td colspan="4" width="612" valign="top">  020714 cuts &amp; offal frozen
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071410 (frozen boneless cuts &amp; offal)
+  </td><td width="104" valign="top">  102.4
+  </td><td width="104" valign="top">  79.5
+  </td><td width="189" valign="top">  <p class=" text-left">€0 under rep. price-based TRQ (Brazil)</p><p class=" text-left">€0 TRQ (Thailand)</p><p class=" text-left">Rep. price-based €2 under TRQ (Argentina)</p>
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071420 (bone-in halves/qters)
+  </td><td width="104" valign="top">  35.8
+  </td><td width="104" valign="top">  17.9
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071430 (whole wings)
+  </td><td width="104" valign="top">  26.9
+  </td><td width="104" valign="top">  13.4
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071440 (backs, necks, rumps, wingtips)
+  </td><td width="104" valign="top">  18.7
+  </td><td width="104" valign="top">  9.3
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071450 (breasts and cuts thereof)
+  </td><td width="104" valign="top">  60.2
+  </td><td width="104" valign="top">  0
+  </td><td width="189" valign="top">  <p class=" text-left">€0 under rep. price-based TRQ (Thailand)</p><p class=" text-left">€0 under TRQ (Brazil)</p>
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071460 (bone-in legs and cuts)
+  </td><td width="104" valign="top">  46.3
+  </td><td width="104" valign="top">  23.1
+  </td><td width="189" valign="top">  €122.7/100 kg – representative price (Brazil,
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071470 (other)
+  </td><td width="104" valign="top">  100.8
+  </td><td width="104" valign="top">  0
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="215" valign="top">  02071499 (offal – other)
+  </td><td width="104" valign="top">  €18.7
+  </td><td width="104" valign="top">  €18.7
+  </td><td width="189" valign="top">  &nbsp;
+  </td>
+</tr>
+
+</table>
+<p>Source: EC, Market Access Database, ‘EU tariffs’: 
+<a href="http://madb.europa.eu/madb/euTariffs.htm" target="_self">http://madb.europa.eu/madb/euTariffs.htm</a></p><a name="eztoc3350030_0_4_2" id="eztoc3350030_0_4_2"></a><h4>Annex 2: EU processed poultry meat tariffs</h4><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="186" valign="top">  <b>CN code</b>
+  </td><td width="105" valign="top">  <b>Base rate erga omnes €/100 kg</b>
+  </td><td width="132" valign="top">  <b>Non-preferential tariff quota&nbsp;&nbsp; €/100 kg</b>
+  </td><td width="191" valign="top">  <b>Specific preferences</b>
+  </td>
+</tr>
+
+<tr>
+<td width="186" valign="top">  160232 (meat preparation)
+  </td><td width="105" valign="top">  &nbsp;
+  </td><td width="132" valign="top">  &nbsp;
+  </td><td width="191" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="186" valign="top">  16023211 (uncooked)
+  </td><td width="105" valign="top">  276.5
+  </td><td width="132" valign="top">  63
+  </td><td width="191" valign="top">  Additional duty based on cif price (Brazil)
+  </td>
+</tr>
+
+<tr>
+<td width="186" valign="top">  16023219 (other)
+  </td><td width="105" valign="top">  102.4
+  </td><td width="132" valign="top">  8%
+  </td><td width="191" valign="top">  8%
+  </td>
+</tr>
+
+</table>
+<p>Source: EC, Market Access Database, ‘EU tariffs’: 
+<a href="http://madb.europa.eu/madb/euTariffs.htm" target="_self">http://madb.europa.eu/madb/euTariffs.htm</a></p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>1. LEI Wageningen UR, ‘Competitiveness of the EU poultry meat sector’, LEI Report 2013-068, December 2013</p><p>
+<a href="http://www.avec-poultry.eu/system/files/archive/new-structure/avec/Communication/Study%20final%20version.pdf" target="_self">http://www.avec-poultry.eu/system/files/archive/new-structure/avec/Commu...</a></p><p class=" text-left">2. Agra CEAS Consulting, ‘Evaluation of the Common Market Organisation (CMOs) for pigmeat, poultrymeat and eggs’, Contract 30-CE-0009330/00-422134/CC/November 2005</p><p class=" text-left">
+<a href="http://ec.europa.eu/agriculture/eval/reports/pig_poultry_egg/fullrep_en.pdf" target="_self">http://ec.europa.eu/agriculture/eval/reports/pig_poultry_egg/fullrep_en.pdf</a></p><p>3. USDA, ‘EU28 poultry sector to grow again in 2013 and 2014’, <i>GAIN Report</i> No. FR9146, 9 September 2013</p><p>
+<a href="http://www.thefarmsite.com/reports/contents/EUPoultry&amp;Products30Sept2013.pdf" target="_self">http://www.thefarmsite.com/reports/contents/EUPoultry&amp;Products30Sept...</a></p>		</div>
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Poultry/South-Africa-s-experience-of-managing-poultry-sector-trade-policy">South Africa’s experience of managing poultry sector trade policy</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Poultry/Lessons-from-EU-poultry-sector-trade-policy">Lessons from EU poultry sector trade policy</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":145,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

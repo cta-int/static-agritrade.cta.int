@@ -1,0 +1,868 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2011: Cocoa sector / Cocoa / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																															
+		
+		<div class='contentrealtionlist'>
+										
+																																																																																																		
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7798/(search)/simple">Cocoa</a>
+							
+																																																																																																																																																																																																																																																																																											
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2011: Cocoa sector</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/12123/496402/file/d64450d7a23b5921b9b55ca1f80ccde3.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt="" /></a>
+			</div>
+			
+			<h4>
+									</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>About this update</b></p><p>This brief was updated in July 2011. The original executive brief was published in May 2008 and is available on request from agritrade-mail@cta.int</p><p>Other publications in this series and additional resources on ACP—EU agriculture and fisheries trade issues can be found online at http://agritrade.cta.int/</p>
+
+		</div>
+		
+		
+					<a name="eztoc496392_1" id="eztoc496392_1"></a><h2><b>1. Background and key issues </b></h2><p>Some 36 ACP countries are involved in cocoa production, with the vast majority of cocoa production taking place on family farms. This provides livelihoods for millions of smallholder farmers. In three ACP countries, cocoa production is particularly important, accounting for about a third of export revenues. In other ACP countries, cocoa production, while less significant to their economies, can nevertheless be an important means of livelihood for smallholder farming communities. In Jamaica, for example, while only about 1,200 tonnes of cocoa is produced in good years, cocoa nevertheless provides employment for some 11,000 smallholder farmers, some of whom are involved in efforts to improve their commercial position within the cocoa supply chain.</p><p>World production and exports are dominated by Côte d’Ivoire, Ghana, Nigeria and Cameroon, with the first two alone producing and exporting over half the world’s total cocoa production. ACP exporters of cocoa beans and cocoa products have traditionally enjoyed duty-free access to the EU market. However, cocoa products containing sugar still had to pay levies related to sugar content, until the transitional arrangements under the (Interim) Economic Partnership Agreements (EPAs) expired and full duty-free, quota-free access for sugar was granted to ACP countries that had initialled (I)EPAs. Indonesia and Brazil are also large cocoa producers, but Indonesia is the only significant non-ACP exporter, with about 10% of world exports. Cocoa is thus essentially an ACP commodity export.</p><p>In recent years, total cocoa production has ‘slightly increased’, from 3.42 million tonnes in 2004–2005 to an estimated 3.6 million tonnes in 2009–2010 (+6.6%). This increase in production however has not been linear, as there have been variations between countries and regions.</p><p>Cocoa is traded on two world exchanges in two currencies: on the London LIFFE exchange (in pounds sterling) and on the New York ICE exchange (in US dollars). Since 1973 the London-based International Cocoa Organisation (ICCO), an intergovernmental organisation established under the auspices of the United Nations, has coordinated and administered various International Cocoa Agreements, with the aim of promoting balanced market development. While these agreements were initially based on price support measures, including export quotas and the maintenance of buffer stocks, the major aim of the sixth and last agreement, which came into force in 2003, has been to ‘maintain a sustainable cocoa economy’ through dialogue with private sector players.</p><p>The ICCO also seeks ‘to promote transparency in the world cocoa market through the collection, analysis and dissemination of relevant statistics and the undertaking of appropriate studies.’ ICCO also supports the World Cocoa Foundation, created in 2000 by a group of companies such as ADM, Armajaro, Barry Callebaut, Nestlé, Cargill etc, and which aims to ‘promote and coordinate sustainable cocoa community development’.</p><p>The most common variety of cocoa tree cultivated today is the Forastero, which produced over 90% of output, mainly from Africa and Brazil: Forastero beans are also known as ‘bulk’ or ‘ordinary’ cocoa beans. The other main variety is the Criollos, formerly the major cocoa tree before the Forastero took over; along with Trinitario, it produces ‘fine’ and ‘flavoured’ cocoas, which have distinctive flavour characteristics. These types constitute less than 10% of production.</p><p>Ghanaian cocoa sets the standard for grading, determined by the count of defective beans per 100 grammes. After shelling and roasting, the resulting ‘nib’ is ground into cocoa liquor (or paste) and then refined to produce cocoa butter and cocoa cake. Cocoa cake is used to make cocoa powder. Chocolate is made by mixing cocoa butter with cocoa liquor. Other ingredients, such as sugar and milk, may be added according to the manufacturer’s recipe. While cocoa butter can be substituted by many other vegetable fats, such as palm or shea oil, cocoa powder has no substitute. However, by grinding cocoa beans, you get both products – butter and powder. Sometimes there is more demand for one than for the other, which affects prices.</p><p>The largest concentration of cocoa processing is in Europe, accounting for 41.1% of world grindings. However, grinding operations are increasingly taking place in producing countries such as Côte d’Ivoire.</p><p>The cocoa and chocolate manufacturing and associated distribution sector is highly oligopolistic in structure. While currently ‘fair-trade’ chocolate is seen as the main means of rebalancing this oligopolistic control, this also raises important issues related to the functioning of the cocoa supply chain. This is potentially an area for joint ACP–EU action, given the EC’s growing policy interest in this area and the recognition in the February 2011 EC raw materials communication of the relevance of policies on strengthening the functioning of supply chains at the international level.</p><p>Under various development cooperation instruments, the EU has sought to improve the contribution of commodity production to poverty alleviation. Initially this took the form of the STABEX instrument, which was subsequently replaced by the FLEX instrument, which proved far less effective in insulating ACP commodity production from price fluctuations. More recently the EU All ACP Agricultural Commodities programme – 
+<a href="http://www.euacpcommodities.eu/en" target="_self">http://www.euacpcommodities.eu/en</a> – was set up to improve export performance, reduce vulnerability to price fluctuations and enhance producer incomes.</p><a name="eztoc496392_2" id="eztoc496392_2"></a><h2><b>2.&nbsp; Recent developments</b></h2><p><b>2.1&nbsp; Global developments in production</b></p><p>Between 2004/05 and 2009/10 total global production increased from 3.42 million tonnes to 3.63 million tonnes (+6.14%), while grindings grew by 8.5% between 2008/09 and 2010/11, from 3.499 million 3.798 million tonnes. According to some traders, the cocoa market seems in the past few years to have been in a ‘structural’ deficit, which explains the high prices. In 2009/10, this deficit was 89,000 tonnes, and in July 2011, a Reuters poll forecast a global cocoa deficit for 2011/12 of 50,000 tonnes.</p><p>The 2010/11 season in Africa benefited from very favourable weather conditions. The return to peace in Côte d’Ivoire towards the end of the cocoa crop season should bring world production to 4,025,000 tonnes, generating a surplus of production over grindings of around 250,000 to 300,000 tonnes. The ICCO pegged Côte d’Ivoire’s output above 1.3 million tonnes, with Ghana’s production reaching a record 960,000 tonnes. Indonesia’s cocoa production was affected by weather and disease outbreaks, with production falling to 510,000 tonnes, the lowest level since 2004.</p><p>With total statistical end-of-season stocks of cocoa beans 11.5% higher in 2010/11 than in 2009/10, at a level equivalent to 47.8% of projected annual grindings, this could exert a downward pressure on prices or at least put a lid on further increases. However, the 2011/12 crop year might be not as good as 2010/11 in terms of volumes produced. The counting of cocoa pods in July 2011 in Côte d’Ivoire shows that the very dry weather of April–May 2011 (related to the El Niño weather pattern) is likely to have an impact on the next crop year’s cocoa production.</p><p>In the coming 5 years, growth in production is projected to be strongest in Ecuador (+16%), Brazil (+10%), Dominican Republic (+10%), Nigeria (+9%) and Cameroon (+8%). Africa should maintain its principal role as the lead cocoa supplier, with around 70% of the market share, as Ghana increases its production and Côte d’Ivoire production recovers, with increased aid for rehabilitation of the country’s infrastructure.</p><p><b>Table 1: Cocoa production by region (tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="68" valign="top">  <b>&nbsp;</b>
+  </td><td width="73" valign="top">  <b>Total global</b>
+  </td><td width="73" valign="top">  <b>Africa</b>
+  </td><td width="73" valign="top">  <b>Asia &amp; Oceania</b>
+  </td><td width="73" valign="top">  <b>Latin America &amp; Caribbean</b>
+  </td>
+</tr>
+
+<tr>
+<td colspan="5" width="360" valign="top">  <b>Actual</b>
+  </td>
+</tr>
+
+<tr>
+<td width="68" valign="top">  2004/05
+  </td><td width="73" valign="top">  3,421,000
+  </td><td width="73" valign="top">  2,414,000
+  </td><td width="73" valign="top">  569,000
+  </td><td width="73" valign="top">  437,000
+  </td>
+</tr>
+
+<tr>
+<td width="68" valign="top">  2005/06
+  </td><td width="73" valign="top">  3,762,000
+  </td><td width="73" valign="top">  2,647,000
+  </td><td width="73" valign="top">  661,000
+  </td><td width="73" valign="top">  434,000
+  </td>
+</tr>
+
+<tr>
+<td width="68" valign="top">  2006/07
+  </td><td width="73" valign="top">  3,425,000
+  </td><td width="73" valign="top">  2,378,000
+  </td><td width="73" valign="top">  635,000
+  </td><td width="73" valign="top">  412,000
+  </td>
+</tr>
+
+<tr>
+<td width="68" valign="top">  2007/08
+  </td><td width="73" valign="top">  3,661,000
+  </td><td width="73" valign="top">  2,603,000
+  </td><td width="73" valign="top">  614,000
+  </td><td width="73" valign="top">  445,000
+  </td>
+</tr>
+
+<tr>
+<td width="68" valign="top">  2008/09
+  </td><td width="73" valign="top">  3,535,000
+  </td><td width="73" valign="top">  2,451,000
+  </td><td width="73" valign="top">  607,000
+  </td><td width="73" valign="top">  477,000
+  </td>
+</tr>
+
+<tr>
+<td colspan="5" width="360" valign="top">  <b>Projected</b>
+  </td>
+</tr>
+
+<tr>
+<td width="68" valign="top">  2009/10
+  </td><td width="73" valign="top">  3,761,000
+  </td><td width="73" valign="top">  2,690,000
+  </td><td width="73" valign="top">  618,000
+  </td><td width="73" valign="top">  453,000
+  </td>
+</tr>
+
+<tr>
+<td width="68" valign="top">  2010/11
+  </td><td width="73" valign="top">  3,252,000
+  </td><td width="73" valign="top">  2,739,000
+  </td><td width="73" valign="top">  641,000
+  </td><td width="73" valign="top">  472,000
+  </td>
+</tr>
+
+<tr>
+<td width="68" valign="top">  2011/12
+  </td><td width="73" valign="top">  3,934,000
+  </td><td width="73" valign="top">  2,787,000
+  </td><td width="73" valign="top">  657,000
+  </td><td width="73" valign="top">  490,000
+  </td>
+</tr>
+
+<tr>
+<td width="68" valign="top">  2012/13
+  </td><td width="73" valign="top">  3,985,000
+  </td><td width="73" valign="top">  2,805,000
+  </td><td width="73" valign="top">  672,000
+  </td><td width="73" valign="top">  506,000
+  </td>
+</tr>
+
+</table>
+<p>Source: Extracted from Cocoa Market Update, May 2010, World Cocoa Foundation, with original sources drawn from ICCO, USDA, Reuters, LMC estimates April 2010</p><p><b>2.2 Global price and market developments</b></p><p>While low prices and price volatility have plagued cocoa production by periodically undermining the financial viability of cocoa farmers, international prices have on average risen considerably since 2007. In 2007, 2008, 2009 and 2010, average annual cocoa price increased 23%, 32%, 12% and 8.5% respectively. The monthly average price peaked in February 2011 at US$3,471/tonne, 118% above the average annual price for 2006. Cocoa futures soared to its highest in 32 years, at US$3,775 (early March 2011) as presidential claimant Alassane Ouattara, seen by the international community as the winner of Côte d’Ivoire’s November 2010 elections, urged an extension of the cocoa export ban he first established in January 2011. With EU support for the ban, no ships left Côte d’Ivoire from February until the end of the conflict.</p><p>By 1 April 2011, with the end of the fighting in Côte d'Ivoire, daily prices had fallen some 23% from these highs. This price level was still 4.5% above the average price level in 2009.</p><p>Although at high levels, daily prices on futures markets have been extremely volatile in recent years, varying between 5% and 17% within any given month. This volatility generates considerable commercial uncertainty at the level of ACP exporters and producers.</p><p>Factors influencing price developments, in addition to the underlying supply and demand balance include:</p>
+<ul>
+
+<li>movements in the US dollar exchange rate; </li>
+
+<li>political developments in major producing countries; </li>
+
+<li>weather patterns such as El Niño and La Niña, rain levels; </li>
+
+<li>and also plant disease-related fears. </li>
+
+</ul>
+<p>These factors interact with the influence of financial speculation in cocoa markets, which can further exacerbate price volatility. Collectively these factors have given rise to a situation where, according to the ICCO, price developments have occurred which ‘were not really supported by supply and demand fundamentals’.</p><p><b>Table 2: Cocoa daily average prices (ICCO) (US$ per tonne)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="63" valign="top">  <b>&nbsp;</b>
+  </td><td width="63" valign="top">  <b>2006</b>
+  </td><td width="63" valign="top">  <b>2007</b>
+  </td><td width="63" valign="top">  <b>2008</b>
+  </td><td width="63" valign="top">  <b>2009</b>
+  </td><td width="63" valign="top">  <b>2010</b>
+  </td><td width="63" valign="top">  <b>2011</b>
+  </td>
+</tr>
+
+<tr>
+<td width="63" valign="top">  January
+  </td><td width="63" valign="top">  1,577.78
+  </td><td width="63" valign="top">  1,701.99
+  </td><td width="63" valign="top">  2,215.85
+  </td><td width="63" valign="top">  2,626.00
+  </td><td width="63" valign="top">  3,525.12
+  </td><td width="63" valign="top">  3,164.86
+  </td>
+</tr>
+
+<tr>
+<td width="63" valign="top">  February
+  </td><td width="63" valign="top">  1,545.08
+  </td><td width="63" valign="top">  1,813.88
+  </td><td width="63" valign="top">  2,523.07
+  </td><td width="63" valign="top">  2,647.59
+  </td><td width="63" valign="top">  3,276.55
+  </td><td width="63" valign="top">  3,471.10
+  </td>
+</tr>
+
+<tr>
+<td width="63" valign="top">  March
+  </td><td width="63" valign="top">  1,544.13
+  </td><td width="63" valign="top">  1,924.20
+  </td><td width="63" valign="top">  2,670.41
+  </td><td width="63" valign="top">  2,509.97
+  </td><td width="63" valign="top">  3,089.65
+  </td><td width="63" valign="top">  3,392.97
+  </td>
+</tr>
+
+<tr>
+<td width="63" valign="top">  April
+  </td><td width="63" valign="top">  1,552.37
+  </td><td width="63" valign="top">  1,977.20
+  </td><td width="63" valign="top">  2,628.33
+  </td><td width="63" valign="top">  2,555.17
+  </td><td width="63" valign="top">  3,221.24
+  </td><td width="63" valign="top">  3,113.51
+  </td>
+</tr>
+
+<tr>
+<td width="63" valign="top">  May
+  </td><td width="63" valign="top">  1,594.45
+  </td><td width="63" valign="top">  2,004.84
+  </td><td width="63" valign="top">  2,689.62
+  </td><td width="63" valign="top">  2,480.74
+  </td><td width="63" valign="top">  3,178.48
+  </td><td width="63" valign="top">  3,070.77
+  </td>
+</tr>
+
+<tr>
+<td width="63" valign="top">  June
+  </td><td width="63" valign="top">  1,606.65
+  </td><td width="63" valign="top">  2,016.69
+  </td><td width="63" valign="top">  3,021.76
+  </td><td width="63" valign="top">  2,700.36
+  </td><td width="63" valign="top">  3,230.83
+  </td><td width="63" valign="top">  3,015.64
+  </td>
+</tr>
+
+<tr>
+<td width="63" valign="top">  July
+  </td><td width="63" valign="top">  1,676.65
+  </td><td width="63" valign="top">  2,152.65
+  </td><td width="63" valign="top">  2,953.68
+  </td><td width="63" valign="top">  2,791.35
+  </td><td width="63" valign="top">  3,229.55
+  </td><td width="63" valign="top">  3,167.18
+  </td>
+</tr>
+
+<tr>
+<td width="63" valign="top">  August
+  </td><td width="63" valign="top">  1,610.79
+  </td><td width="63" valign="top">  1,902.09
+  </td><td width="63" valign="top">  2,810.47
+  </td><td width="63" valign="top">  2,956.66
+  </td><td width="63" valign="top">  3,071.71
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="63" valign="top">  September
+  </td><td width="63" valign="top">  1,567.42
+  </td><td width="63" valign="top">  1,938.08
+  </td><td width="63" valign="top">  2,678.96
+  </td><td width="63" valign="top">  3,142.86
+  </td><td width="63" valign="top">  2,874.93
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="63" valign="top">  October
+  </td><td width="63" valign="top">  1,529.63
+  </td><td width="63" valign="top">  1,914.68
+  </td><td width="63" valign="top">  2,252.28
+  </td><td width="63" valign="top">  3,372.50
+  </td><td width="63" valign="top">  2,927.46
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="63" valign="top">  November
+  </td><td width="63" valign="top">  1,581.18
+  </td><td width="63" valign="top">  1,966.84
+  </td><td width="63" valign="top">  2,067.72
+  </td><td width="63" valign="top">  3,384.13
+  </td><td width="63" valign="top">  2,910.31
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="63" valign="top">  December
+  </td><td width="63" valign="top">  1,702.50
+  </td><td width="63" valign="top">  2,113.13
+  </td><td width="63" valign="top">  2,457.09
+  </td><td width="63" valign="top">  3,497.58
+  </td><td width="63" valign="top">  3,060.02
+  </td><td width="63" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="63" valign="top">  <b>Annual average</b>
+  </td><td width="63" valign="top">  <b>1,590.72</b>
+  </td><td width="63" valign="top">  <b>1,952.19</b>
+  </td><td width="63" valign="top">  <b>2,580.77</b>
+  </td><td width="63" valign="top">  <b>2,888.74</b>
+  </td><td width="63" valign="top">  <b>3,132.99</b>
+  </td><td width="63" valign="top">  <b>&nbsp;</b>
+  </td>
+</tr>
+
+</table>
+<p class=" text-left">Source: International Cocoa Organisation. Available from: 
+<a href="http://www.indexmundi.com/commodities/?commodity=cocoa-beans&amp;months=60" target="_self">http://www.indexmundi.com/commodities/?commodity=cocoa-beans&amp;months=60</a></p><p>It is unclear to what extent these price developments at the global level have benefited smallholder cocoa farmers. Jamaican cocoa farmers’ representatives in March 2011 calculated that the farm gate price paid to Jamaican cocoa farmers was ‘less than 5% of what the commodity fetched from overseas buyers’ (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Cocoa/Jamaican-cocoa-farmers-seeking-to-improve-returns-by-direct-marketing" target="_self">Jamaican cocoa farmers seeking to improve returns by direct marketing</a>’, June 2011). The two main cocoa producers, Côte d’Ivoire and Ghana, operate a liberalised market and a regulated price mechanism respectively. Thus, when world prices are very high and Ghanaian cocoa producers are locked into a price set at the beginning of each crop year in October, cocoa beans are smuggled from Ghana to Côte d’Ivoire to benefit from high world high (see below). However, when world prices fall and Ghana’s regulatory price remains stable, cocoa beans go from Côte d’Ivoire to Ghana. Cocoa smuggling into Côte d’Ivoire was high in 2009/10. Cocobod, the Ghanaian Cocoa Board, did not want this to recur and so set a high regulated price in 2010/11 (increasing the producer price by 33%). This, along with very good weather, led Ghana to register a record crop of nearly 1 million tonnes (see <i>Agritrade</i> article, ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Cocoa/Cote-d-Ivoire-cocoa-export-ban-continues" target="_self">Côte d’Ivoire cocoa export ban continues</a>’, April 2011).</p><p>Producer concerns about the share of the final value of the cocoa that they receive is common across ACP producers. In the case of Jamaica, the Jamaica Cocoa Farmers’ Association (JCFA) has launched an initiative to become directly licensed as a cocoa trader (the Jamaican Cocoa Industry Board is currently the sole exporter of cocoa beans). JCFA representatives hope that by securing their own cocoa dealer’s licence they will be able to obtain higher farm gate prices. This needs to be seen in the context of local efforts to secure price premiums for quality-differentiated cocoa supplied direct to high-end chocolate manufacturers.</p><p>A debate is now taking place across the ACP on how to make the cocoa market work better for farmers, and identifying ‘what policy tools are needed to ensure that farmers benefit more directly’ from the functioning of world cocoa markets is a critical issue.</p><p>Internationally, considerable concern has been expressed about the role of financial speculators in international cocoa price volatility. In 2010, the London-based commodities fund Armajaro bought futures contracts on the July position worth £650 million – an amount equivalent to 7% of all the cocoa grown in the world in 2010. Similar squeezes occur regularly on cocoa markets but this one was significant. In its April 2010 ‘Cocoa Market Review’, ICCO noted that ‘non-commercial participants increased their investment in cocoa’, with this resulting in a price increase in cocoa which exceeded by far ‘the rise of the average price of other commodities’. This led ICCO in May 2010 to note a possible ‘attempt by a market participant of a “technical squeeze” by taking a large long position on the market’. This was held to be raising concerns over commercial participants. In June 2010 this gave rise to formal written complaints to the New York Stock Exchange from 16 cocoa companies and trade associations about manipulation of cocoa futures on the London market, with this ‘manipulation … bringing the London market into disrepute’.</p><p>NGOs have expressed concern that this high level of speculative purchases could limit the ability of farmers to benefit from high prices (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Cocoa/Commodity-fund-investment-raises-issue-of-functioning-of-cocoa-supply-chain" target="_self">Commodity fund investment raises issue of functioning of cocoa supply chain</a>’, October 2010) and have gone on to call for a regulatory clamp-down on agricultural commodity market speculation. NGOs argue that regulatory action is required to:</p>
+<ul>
+
+<li>reduce the effect of speculation on price volatility; </li>
+
+<li>help producers and purchasers hedge against risk; </li>
+
+<li>enable futures markets to better discover prices; </li>
+
+<li>free up capital for genuine productive investments; </li>
+
+<li>and protect against financial crises (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Other/NGO-calls-for-regulatory-clamp-down-on-commodity-market-speculation" target="_self">NGO calls for regulatory clamp-down on commodity market speculation</a>’, October 2010).</li>
+
+</ul>
+<p>So far the EU has adopted a cautious approach to regulation of financial speculation in agricultural commodity markets. The EC’s February 2011 raw materials communication, which took up the issue of financial speculation in raw materials markets (including agricultural commodities), related primarily to improving the quality and timeliness of market information and the formalisation of trading operations within a common EU regulatory framework. The extent and nature of the actual regulations to be set in place to ease speculative pressures on agricultural commodity markets have still to be determined (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/General/Agriculture-speculation-and-the-EC-raw-materials-communication" target="_self">Agriculture speculation and the EC raw materials communication</a>’, March 2011).</p><p>A major debate among G20 countries took place on this issue early in 2011 when France, as heads of G20, first suggested regulating markets before then backing off and suggesting reducing price volatility by giving more information on market fundamentals. However other EU member states, most notably the UK, argued that supply and demand had to remain the dominant price drivers. The United States, Brazil and Canada, all major producers of foods, metals and other commodities, opposed the French proposal, fearing that interference with commodities prices would send misleading signals to markets, with results such as causing production bottlenecks.</p><p>The only common ground in these positions relates to the need for greater transparency in commodities markets and linked derivative markets. On this basis, a compromise is being worked out which would give market supervisory bodies – such as the European Securities and Markets Authority, the new EU watchdog – the power to take action when needed. This however is a softer policy position than that adopted in the US, which introduced position limits in some of its commodities markets.</p><p>The US, the world’s biggest market for chocolate, has imported its highest levels of West African cocoa in 3 years, as Indonesian supplies to the US market have been curbed by disease and government taxes (of 5–15%) designed to stimulate local processing. The Indonesian policy measures, which are expected to raise domestic processing from 280,000 tonnes to 400,000 tonnes, may help to keep world prices high, although uncertainty over production forecasts is increasing the price volatility of futures markets.</p><p><b>2.3 Developments in ACP countries</b></p><p><b>&nbsp;</b></p><p><b>Production</b></p><p>African producers dominate the cocoa market, accounting for around 70% of supplies. Within Africa production is concentrated in West and Central Africa, with Côte d’Ivoire and Ghana accounting for 56% (32% and 24% respectively) of world production for this crop year, 2010/11. Caribbean and Pacific cocoa producers add about another 4% to African production, taking the total ACP share of global cocoa production to almost 75%.</p><p>In Côte d’Ivoire, the reform of the cocoa sector and publishing of audits on this opaque industry is one of the tasks given by newly elected President Alassane Ouattara to his ministers in early July 2011. One option under consideration is a return to a guaranteed price paid to producers. Coordination of regulated pricing at the regional level would reduce the incentive to smuggle cocoa across the region, improving the predictability of national cocoa production. In parallel to this, Nestlé recently started a vast programme planting new high-yield cocoa trees. Because of poor farming techniques and a lack of state support to farmers, Ivorian cocoa yields are currently among the lowest in the world, at less than 500 kg per hectare, compared to 2 tonnes/ha in Indonesia and 1.5 tonnes/ha in Ghana.</p><p>In Ghana, the efficiency of state marketing arrangements and producer pricing policy plays as great a role in influencing production decisions as movements in global prices, given the highly unequal distribution of cocoa revenues along the cocoa supply chain. This accounts for ICCO’s projections of only a modest 4% growth in Ghanaian cocoa production between the 2009/10 and 2012/13 seasons.</p><p>Modest production growth in the major producers –3% for Côte d’Ivoire and 4% for Ghana – however is not necessarily disadvantageous, given the sensitivity of prices to increases in production. As ICCO reporting shows, even rumours of a good cocoa crop in West Africa can lead to sharp declines in cocoa prices. Cocoa can thus be seen as a very delicate market, where speculative financial investments can cause major disruption.</p><p>Elsewhere in West and Central Africa, higher production growth is projected, with 8% for Cameroon and 9% for Nigeria – despite, in Nigeria’s case, the trade difficulties arising from the reimposition of GSP import duties on exports to the EU market following the government’s decision not to sign an interim EPA.</p><p>In the Caribbean, the Dominican Republic dominates regional cocoa production, with growth of 10% projected for the period 2009/10 to 2012/13. In neighbouring Haiti, according to FAO data, cocoa production showed strong growth between 2005 and 2007/08. Haiti produces Criollo and Trinitario varieties, known for their flavour and delicacy. Some of this cocoa is farmed in Haiti, and exports to high-quality French chocolate producers began in 2010. The devastating earthquake of 2010 did not seriously affect Haiti’s cocoa production, which is mostly in the northern part of the country. The main impacts were the result of disruption to transport and marketing arrangements.</p><p>Elsewhere in the Caribbean considerable scope exists for the development of fine and flavoured cocoa. For this to occur, cocoa producers will need to more carefully identify their end users and develop closer commercial relationships, so that high price premiums can be secured for quality-differentiated cocoa production. This will need to extend to close collaboration on improving and maintaining consistent quality standards, with these higher quality standards being rewarded by significantly higher prices.</p><p>In this context the USAID funded initiative in Jamaica, which has helped the Jamaica Cocoa Farmers’ Association to develop close cooperation with the Hershey chocolate company, could hold important lessons for other regional producers. The current Hershey deal, which involves the supply of cocoa for the production of high-end brands for the expanding quality-conscious chocolate market, includes the provision of technical assistance to Jamaican farmers, to improve their capacity to ‘ferment and dry their cocoa beans to maximise the farm gate returns’ (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/../../../../Agriculture/Commodities/Cocoa/Jamaican-cocoa-farmers-seeking-to-improve-returns-by-direct-marketing" target="_self">Jamaican cocoa farmers seeking to improve returns by direct marketing</a>’, May 2011).</p><p>Overall cocoa production in the Caribbean is still only equivalent to around 2% of Africa’s cocoa production.</p><p>Turning to the Pacific, cocoa production in Papua New Guinea according to FAO data fluctuates up and down from year to year. However, average production between 2004 and 2008 was 13.5% higher than the average of the preceding 5-year period. Meanwhile in the Solomon Islands, where production is less than one-tenth of that of Papua New Guinea, cocoa production grew from 2002 to 2005, declined in 2006 and then showed a halting recovery through to 2009, when production was 60% higher than in 2002, but still 5% below the peak production level attained in 2005. Here local political developments appear to have played an important role in influencing production and trade in cocoa.</p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="443" valign="top">  <p><b>Organic cocoa</b></p><p>The organic cocoa market represents less than 0.5% of total production. The International Cocoa Organisation (ICCO) estimates production of certified organic cocoa at 15,500 tonnes, sourced from Madagascar, Tanzania, Uganda, Belize, Bolivia, Brazil, Costa Rica, Dominican Republic, El Salvador, Mexico, Nicaragua, Panama, Peru, Venezuela, Fiji, India, Sri Lanka and Vanuatu.</p><p>However, demand is growing. According to Euromonitor International, global organic chocolate sales are estimated to have increased from US$171 million in 2002 to US$304 million in 2005.</p><p>According to ICCO, organic cocoa pays the producer US$100 to US$300 per tonne more than conventional cocoa, and ‘originating countries with smaller volumes can fetch much higher premiums. This premium should cover both the cost of fulfilling organic cocoa production requirements and certification fees paid to certification bodies.’</p>
+  </td>
+</tr>
+
+</table>
+<table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="443" valign="top">  <p><b>Fair-trade cocoa</b></p><p>Fair Trade is a trading partnership seeking greater equity in international trade. According to ICCO, the Fair Trade partnership ‘contributes to sustainable development by offering better trading conditions to, and securing the rights of, disadvantaged producers, especially in the South’. Fairtrade-certified producer organisations have to comply with social, labour, economic and environmental requirements.</p><p>To have the financial ability to fulfil the above requirements and to cover the certification fees, a higher price is paid for Fairtrade-labelled cocoa. This price does not follow usually short-term market fluctuations. According to ICCO, the Fair Trade premium for standard quality cocoa is around US$ 150 per tonne. In early June 2011, Kraft Foods launched its Fairtrade Cadbury’s Dairy Milk chocolate bar in South Africa. The product was already on sale in the UK, Ireland, Australia, New Zealand and Canada since 2009, but this was its first launch on the African continent. Kraft pays a US$200 premium to producers for their fair-trade beans, and they are paid US$2,000 minimum for a tonne of cocoa, or more if world prices are higher. Another interesting aspect of this product was the boast of being ‘100% African’: the beans are bought in Ghana, and the bars produced in Kraft’s plant in Port Elizabeth, South Africa.</p><p>Euromonitor International estimates that world retail value sales of Fairtrade chocolate confectionery exceeded US$300 million in 2009, up 21% from 2008. The UK market accounts for around 50% of this, driven by intense manufacturer activity. Other private label fair-trade chocolate confectionery lines have increasingly become involved in fair-trade products and have boosted sales. Growth of fair-trade chocolate has been stagnant in other western European countries. Fair-trade performance has been bad in the US in 2009&nbsp;because of economic recession: sales declined by around 25%.</p><p>From the producers’ perspective, one of the biggest constraints of fair-trade chocolate is the sourcing of ingredients that need to be traceable all along the value chain.</p><p>Nevertheless, Euromonitor emphasises the continued expansion of ‘hybrid formats’, such as ‘ethical’ – combining organic and fair-trade qualities, available at prices comparable to organic or fair-trade-only chocolate. This is being driven by ‘intense promotional activity’ from manufacturers such as Cadbury’s and Nestlé to support their existing product lines.</p>
+  </td>
+</tr>
+
+</table>
+<p><b>Grindings</b></p><p>Africa’s participation in grinding activities is expanding, suggesting that a significant movement up the value chain is occurring. In 2010/11, Africa’s grinding was estimated by ICCO at 663,000 tonnes, representing 17.5% of world grindings, up from 150,000 tonnes in the late 1980s (8.3% of world grindings) and 360,000 tonnes in the late 1990s. However, according to ICCO, grinding in Africa varies, with the war in Côte d’Ivoire seeing grindings fall from 419,000 tonnes in 2008/09 to 340,000 tonnes in 2010/11. However, investment in grinding is taking place: in August 2011, Barry Callebaut, the world’s largest maker of chocolate products, announced an upgrading of the grinding capacity at its cocoa processing plant in Côte d’Ivoire to 175,000 tonnes from 105,000 tonnes. Last year, Olam also announced it was investing in a 60,000 tonne greenfield processing facility.</p><p>Grindings in Ghana have also risen strongly over the past three seasons, from 133,000 tonnes in 2008/09 to a projected 260,000 tonnes in 2010/11. In Cameroon, grindings increased by 54% in the 2010/11 season to 27,131 tonnes of beans ground by 31 May 2011, compared to 17,572 tonnes in the previous season. The country's only cocoa grinder, Sic-Cacao, is a Barry Callebaut subsidiary. Sic-Cacao processes cocoa beans into cocoa liquor, cocoa butter and cocoa cake. Most of its products are exported, but some goes to Douala-based chocolate maker Chocolaterie Confiserie Camerounaise (Chococam), owned by South Africa's Tiger Brands. In 2010, Sic-Cacao upgraded its factory to raise its processing capacity from 25,000 to 30,000 tonnes per annum.</p><p><b>Table 3: Main ACP cocoa producers 2005–2008</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="104" valign="top">  &nbsp;
+  </td><td width="73" valign="top">  <b>2005</b>
+  </td><td width="89" valign="top">  <b>2006</b>
+  </td><td width="89" valign="top">  <b>2007</b>
+  </td><td width="89" valign="top">  <b>2008</b>
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Côte d’Ivoire
+  </td><td width="73" valign="top">  1,360,000
+  </td><td width="89" valign="top">  1,372,000
+  </td><td width="89" valign="top">  1,384,000
+  </td><td width="89" valign="top">  1,370,000
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Ghana
+  </td><td width="73" valign="top">  740,000
+  </td><td width="89" valign="top">  734,000
+  </td><td width="89" valign="top">  615,000
+  </td><td width="89" valign="top">  700,000
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Nigeria
+  </td><td width="73" valign="top">  441,000
+  </td><td width="89" valign="top">  485,000
+  </td><td width="89" valign="top">  500,000
+  </td><td width="89" valign="top">  500,000
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Cameroon
+  </td><td width="73" valign="top">  *178,000
+  </td><td width="89" valign="top">  *164,000
+  </td><td width="89" valign="top">  *179,000
+  </td><td width="89" valign="top">  *187,532
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Togo
+  </td><td width="73" valign="top">  *53,000
+  </td><td width="89" valign="top">  *73,000
+  </td><td width="89" valign="top">  *78,000
+  </td><td width="89" valign="top">  *80,000
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Papua New Guinea
+  </td><td width="73" valign="top">  *47,800
+  </td><td width="89" valign="top">  *51,100
+  </td><td width="89" valign="top">  *47,300
+  </td><td width="89" valign="top">  *48,800
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Dominican Republic
+  </td><td width="73" valign="top">  31,361
+  </td><td width="89" valign="top">  45,912
+  </td><td width="89" valign="top">  42,151
+  </td><td width="89" valign="top">  °42,151
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Uganda
+  </td><td width="73" valign="top">  *5,000
+  </td><td width="89" valign="top">  °8,500
+  </td><td width="89" valign="top">  10,006
+  </td><td width="89" valign="top">  13,000
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Guinea
+  </td><td width="73" valign="top">  °12,000
+  </td><td width="89" valign="top">  13,940
+  </td><td width="89" valign="top">  °14,000
+  </td><td width="89" valign="top">  °10,500
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Sierra Leone
+  </td><td width="73" valign="top">  °12,000
+  </td><td width="89" valign="top">  13,940
+  </td><td width="89" valign="top">  °14,000
+  </td><td width="89" valign="top">  °10,500
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Dem. Rep. Congo
+  </td><td width="73" valign="top">  5,630
+  </td><td width="89" valign="top">  5,590
+  </td><td width="89" valign="top">  5,590
+  </td><td width="89" valign="top">  5,510
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Haiti
+  </td><td width="73" valign="top">  4,800
+  </td><td width="89" valign="top">  6,000
+  </td><td width="89" valign="top">  8,500
+  </td><td width="89" valign="top">  8,000
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Madagascar
+  </td><td width="73" valign="top">  5,861
+  </td><td width="89" valign="top">  5,859
+  </td><td width="89" valign="top">  *4,500
+  </td><td width="89" valign="top">  *4,500
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Solomon Islands
+  </td><td width="73" valign="top">  4,928
+  </td><td width="89" valign="top">  3,835
+  </td><td width="89" valign="top">  4,342
+  </td><td width="89" valign="top">  4,259
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  São Tome &amp; Principe
+  </td><td width="73" valign="top">  1,843
+  </td><td width="89" valign="top">  1,900
+  </td><td width="89" valign="top">  *2,800
+  </td><td width="89" valign="top">  *2,500
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Equatorial Guinea
+  </td><td width="73" valign="top">  *3,000
+  </td><td width="89" valign="top">  *2,000
+  </td><td width="89" valign="top">  *2,500
+  </td><td width="89" valign="top">  *2,000
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Trinidad and Tobago
+  </td><td width="73" valign="top">  *1,350
+  </td><td width="89" valign="top">  *1,350
+  </td><td width="89" valign="top">  *1,350
+  </td><td width="89" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Jamaica
+  </td><td width="73" valign="top">  1,150
+  </td><td width="89" valign="top">  1,180
+  </td><td width="89" valign="top">  1,200
+  </td><td width="89" valign="top">  1,200
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Guyana
+  </td><td width="73" valign="top">  *260
+  </td><td width="89" valign="top">  *260
+  </td><td width="89" valign="top">  *260
+  </td><td width="89" valign="top">  *260
+  </td>
+</tr>
+
+<tr>
+<td width="104" valign="top">  Belize
+  </td><td width="73" valign="top">  43
+  </td><td width="89" valign="top">  25
+  </td><td width="89" valign="top">  50
+  </td><td width="89" valign="top">  39
+  </td>
+</tr>
+
+</table>
+<p class=" text-left">Source: FAO. Available from: 
+<a href="http://faostat.fao.org/site/567/DesktopDefault.aspx?PageID=567#ancor" target="_self">http://faostat.fao.org/site/567/DesktopDefault.aspx?PageID=567#ancor</a></p><p>Notes: * unofficial estimate; ° FAO estimate</p><p><b>2.4&nbsp; ACP–EU cocoa sector relations</b></p><p>The EU is the largest processor of cocoa in the world, accounting for over 40% of global grindings. But although the EU’s volume of grindings is growing (from 1.446 million tonnes in 2008/09 to a projected 1.539 million tonnes in 2010/11), its share of the world market is declining, from 41.3% of world grindings in 2008/09 to 40.5% this season. Among developed countries, the Netherlands is the largest grinder in the world (525,000 tonnes), followed by the United States (390,000 tonnes) and Germany (385,000 tonnes). Côte d’Ivoire is on track to bypass the Netherlands with just over 500,000 tonnes (40% of the country’s cocoa production). But it should be noted that of the eight companies operating today in the processing of cocoa in Côte d’Ivoire, four are subsidiaries of either European or American multinationals: Saco (Barry Callebaut, Switzerland), Unicao (ADM, USA), Cargill Cocoa (USA) and Cemoi (French). However, more and more Ivorian companies are becoming involved, such as Oct&nbsp;Holding, Ivcao, Tafi and Choco Ivoire, and the country’s processing activities are making significant progress.</p><a name="eztoc496392_3" id="eztoc496392_3"></a><h2><b>3. Implications for the ACP</b></h2><p><b>3.1&nbsp; The use of vegetable fats</b></p><p>The EU imports over 90% of its cocoa from West Africa. In West Africa some 11 million people depend on cocoa production for their livelihood. The EU–ACP cocoa relationship has gone through rough times over the past decade. In 2003, under pressure from the confectionery industry and EU member states such as Denmark, UK and Ireland, as well as Portugal, Austria, Sweden and Finland, common rules were adopted on what was to be named chocolate, i.e. a product made not only from cocoa product but also from 5% of other vegetable fats, such as palm oil, shea butter, illipé, etc. At the time it was calculated that this policy decision on the inclusion of vegetable fats would generate a loss of over US$800 million for cocoa producing countries.</p><p>It should be noted, however, that the dispute over the definition of chocolate is of long standing. From 1973 up till the 2003 regulation, the UK and other EU countries had enjoyed a derogation from the EU regulation stipulating that chocolate could only be made out of cocoa. As a consequence, while the ACP argued that the new ‘chocolate’ regulation violated international treaty obligations (from the Maastricht Treaty, through the Lomé Convention, to commitments under the International Cocoa Agreement) the market effects of the new regulation have proved to be more limited than expected, and the cocoa trade has not been significantly affected.</p><p><b>3.2 Possible implications of EPA commitments</b></p><p>Another big item on the ACP–EU agenda involves the negotiation of EPAs between regional groupings of ACP states and the EU. All of the ACP countries which initialled interim EPAs made a smooth transition to full duty-free quota-free access under the December 2007 transitional regulation. Least developed ACP countries meanwhile continued to enjoy full duty-free quota-free access under the Everything But Arms (EBA) initiative. Failure to sign initialled text has so far not affected this arrangement. Nigeria’s decision not to initial an interim EPA did however result in the loss of the duty-free quota-free access enjoyed under the Cotonou Agreement, with Nigeria reverting to standard GSP tariff treatment.</p><p>Progress towards comprehensive regional EPAs has proved slow, and while most ACP countries have not yet signed the interim EPAs, Côte d’Ivoire, Ghana and Cameroon have done so, with the explicit intent of preserving duty-free access for cocoa and in the case of Cameroon banana exports to the EU.</p><p>The Caribbean is the only region to have signed a full EPA with the EU. However, the implementation process has been slow, and it has so far had no impact on cocoa production and trade.</p><p>In future however, the implementation of EPA commitments may carry some limited negative implications in the cocoa sector. According to the current agreements, over the next 15 years Côte d’Ivoire and Ghana will liberalise 81% and 80% respectively of their imports from the EU. This means that at the end of the day, chocolate made in the EU could come and compete on a duty-free basis with locally manufactured chocolate on these African markets and also on the regional market. Moreover, since the EPAs have the objective of liberalising not only trade but also investments, local entrepreneurs in cocoa producing ACP countries could meet increased competition from both well-established and newly emerging chocolate producing multinationals. Many of these companies are already advanced in their technologies, market know-how, equipment, financing, etc.</p><p><b>3.3 Strengthening the functioning of cocoa supply chains</b></p><p>UNCTAD published a study in 2010 under the All ACP Agricultural Commodities Programme (AAACP)<i>&nbsp;</i>on the cocoa value chain in Cameroon. There, and in all ACP countries that have liberalised their cocoa business, producers are totally exposed to the vagaries of international markets, and the report emphasises that the value chain rewards farmers inadequately for producing quality products and achieving higher levels of productivity. According to the UNCTAD study, in Cameroon and in many other producing countries, there are insufficient regional and community cocoa nurseries. Also, many producers do not have sufficient financial capacity to&nbsp;invest in inputs, labour, replanting and fixed assets for production.</p><p><b>Table 4: Percentage of cocoa price paid to farmers (in US$, as percentage of ICCO daily price)</b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0" width="308">
+<tr>
+<td width="167" valign="top">  <b>Country</b>
+  </td><td width="71" valign="top">  <p class=" text-center"><b>2001</b></p><p class=" text-center"><b>(%)</b></p>
+  </td><td width="71" valign="top">  <p class=" text-center"><b>2002</b></p><p class=" text-center"><b>(%)</b></p>
+  </td>
+</tr>
+
+<tr>
+<td width="167" valign="top">  Brazil
+  </td><td width="71" valign="top">  90
+  </td><td width="71" valign="top">  99
+  </td>
+</tr>
+
+<tr>
+<td width="167" valign="top">  Ecuador
+  </td><td width="71" valign="top">  80
+  </td><td width="71" valign="top">  N/A
+  </td>
+</tr>
+
+<tr>
+<td width="167" valign="top">  Cameroon
+  </td><td width="71" valign="top">  58
+  </td><td width="71" valign="top">  80
+  </td>
+</tr>
+
+<tr>
+<td width="167" valign="top">  Côte d'Ivoire
+  </td><td width="71" valign="top">  52
+  </td><td width="71" valign="top">  57
+  </td>
+</tr>
+
+<tr>
+<td width="167" valign="top">  Ghana
+  </td><td width="71" valign="top">  56
+  </td><td width="71" valign="top">  52
+  </td>
+</tr>
+
+<tr>
+<td width="167" valign="top">  Nigeria
+  </td><td width="71" valign="top">  96
+  </td><td width="71" valign="top">  85
+  </td>
+</tr>
+
+<tr>
+<td width="167" valign="top">  Malaysia
+  </td><td width="71" valign="top">  89
+  </td><td width="71" valign="top">  88
+  </td>
+</tr>
+
+<tr>
+<td width="167" valign="top">  Indonesia
+  </td><td width="71" valign="top">  85
+  </td><td width="71" valign="top">  85
+  </td>
+</tr>
+
+<tr>
+<td width="167" valign="top">  <b>Average ICCO dail</b><b>y price</b>
+  </td><td width="71" valign="top">  US$1,089
+  </td><td width="71" valign="top">  US$1,778
+  </td>
+</tr>
+
+<tr>
+<td colspan="3" width="308" valign="top">  Source: ICCO. Available from: 
+<a href="http://www.icco.org/faq3.aspx?id=3c01098" target="_self">http://www.icco.org/faq3.aspx?id=3c01098</a>
+  </td>
+</tr>
+
+</table>
+<p>Creating and reinforcing producer organisations (POs) is one way of helping producers to capture a larger share of the value chain, since this facilitates more pooled investment in procuring inputs, developing production, enhancing storage and facilitating access to short-term crop financing. Access to finance is seen as one of the main issues facing growers.</p><p>However, the structure of the international cocoa business makes it difficult to bring about modifications of the functioning of the supply chain: the industry is concentrated in the hands of a few multinationals or companies, vertically integrated sometimes up to the grower, with intermediaries going to fetch the beans from the farm (particularly since the dismantling of the Côte d’Ivoire’s Caistab in August 1999). &nbsp;</p><p>In July 2011, Barry Callebaut, ADM, Cargill and OLAM accounted for 65% of Cameroon’s cocoa exports. Worldwide, cocoa and chocolate supply is controlled by nine companies: three grinders (Cargill, Barry Callebaut and ADM) and six chocolate and confectionery companies (Mars, Nestlé, Hershey, Kraft Foods, Cadbury Schweppes and Ferreo).</p><p>In Côte d’Ivoire, of the 1,379,440 tonnes of cocoa that arrived at the ports of Abidjan and San Pedro from October 2010 to 14 August 2011, over 950,000 tonnes was handled by 10 companies, of which 9 are subsidiaries of foreign companies: Cargill, ADM, Barry Callebaut, Outspan Olam, Touton, Noble, Zamacom-Ecom, and Armajaro.</p><p>On an international basis, five multinationals account for more than half of world grindings, whether in producing or consuming countries: ADM, Cargill, Barry Callebaut, Petra Foods and Blommer. This makes it difficult to gain insights into the costs of cocoa production and the functioning of the cocoa supply chain. Moreover, over 70% of the cocoa exported goes to the Netherlands for processing: this concentration weakens producers’ positions in the value chain. According to UNCTAD, the internationalisation of activities in different segments of the cocoa value chain within multinational companies renders tacit or formal collusive behaviour possible.</p><p>Against this background, initiatives to promote greater transparency of contractual arrangements, given the integrated nature of the sector, could also in some measure alleviate fears over abuse of dominant market position by major commercial players in the cocoa supply chain.</p><p>In addition, the very high concentration of cocoa trade and cocoa manufacturing in the hands of a few multinational companies also makes it difficult for ACP cocoa producing countries to have a say in cocoa trademark and intellectual property rights (IPR) issues – such as recipes, local know-how, local varieties and appellations of origin – and the financial benefit derived from quality-based product differentiation. Meanwhile, it is worth noting that several developing countries, some of them from the ACP, are currently looking at origin differentiation schemes. For instance, the National Cocoa and Coffee Board of Cameroon organised a technical workshop in 2010 with CTA, CIRAD and AIPO on the opportunities offered by geographical indications with high potentials for developing origin cocoa. A detailed feasibility study should be launched soon.</p><p>Sustainable cocoa remains a small market: while sustainable cocoa sales grew 248% between 2005 and 2010, cocoa still only accounts for 1.2% of global cocoa sales in 2008, some 46,896 tonnes. All of this is based on private schemes, with four voluntary sustainability initiatives (VSIs) emerging as the main providers in 2009: Fairtrade, Organic (IFOAM), Rainforest Alliance and UTZ Certified. The first two have had products on the market since 2000, Rainforest has been offering certified cocoa since 2007, and UTZ Certified started supplying cocoa in 2009, having previously focused only on coffee.</p><p>Organic cocoa (20,000 tonnes in 2009, +14% compared to 2008) is the largest market among sustainability initiatives in the cocoa sector, followed by fair-trade (+1,000% since 2001). Between 2008 and 2009, Fairtrade sales grew from 7,306 to 13,000 tonnes. In 2009, Rainforest Alliance sold an estimated 8,500 tonnes of certified cocoa (+27% from 2008); UTZ Certified sold 5,396 tonnes.</p><p>Finally, since most of the large companies and multinationals are registered on world stock exchanges, one solution proposed is for the governments of ACP cocoa producing countries to buy shares in these international companies in order to receive a share of the profits (see <i>Agritrade</i> article ‘Price volatility is likely to plague cocoa market’, September 2011).</p><p><b>Table 5: Net confectionery sales of the top 10 global confectionery companies</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="190" valign="top">  Company
+  </td><td width="128" valign="top">  <p class=" text-center">Net sales 2010</p><p class=" text-center">(US$ millions)</p>
+  </td>
+</tr>
+
+<tr>
+<td width="190" valign="top">  Kraft Foods Inc (USA)
+  </td><td width="128" valign="top">  16,825
+  </td>
+</tr>
+
+<tr>
+<td width="190" valign="top">  Mars Inc (USA)
+  </td><td width="128" valign="top">  15,000
+  </td>
+</tr>
+
+<tr>
+<td width="190" valign="top">  Nestle SA (Switzerland)
+  </td><td width="128" valign="top">  11,265
+  </td>
+</tr>
+
+<tr>
+<td width="190" valign="top">  Ferrero Group (Italy)
+  </td><td width="128" valign="top">  8,763
+  </td>
+</tr>
+
+<tr>
+<td width="190" valign="top">  Hershey Foods Corp (USA)
+  </td><td width="128" valign="top">  5,703
+  </td>
+</tr>
+
+<tr>
+<td width="190" valign="top">  Chocoladefabriken Lindt &amp; Sprüngli AG (Switzerland)
+  </td><td width="128" valign="top">  2,602
+  </td>
+</tr>
+
+<tr>
+<td width="190" valign="top">  Yildiz Holding (Turkey)
+  </td><td width="128" valign="top">  2,180
+  </td>
+</tr>
+
+<tr>
+<td width="190" valign="top">  August Storck KG (Germany)
+  </td><td width="128" valign="top">  2,000
+  </td>
+</tr>
+
+<tr>
+<td width="190" valign="top">  Arcor Group (Argentina)
+  </td><td width="128" valign="top">  1,650
+  </td>
+</tr>
+
+<tr>
+<td width="190" valign="top">  Meiji Holdings (Japan)
+  </td><td width="128" valign="top">  1,599
+  </td>
+</tr>
+
+</table>
+<p>Source: ICCO, ‘The chocolate industry’: http://www.icco.org/about/chocolate.aspx</p><p><b>3.4 The issue of child labour</b></p><p>Child labour is another issue which has been and continues to be of great concern in EU–ACP cocoa relations. This especially concerns production in Côte d’Ivoire and Ghana. According to surveys under the International Labour Organisation (ILO) Convention regarding the <i>Worst Forms of Child Labour</i>, more than 50% of the children in agricultural households in the cocoa growing areas of Côte d’Ivoire and Ghana work in agriculture, of which 25 to 50% work in cocoa.</p><p>In the early 2000s, campaigners mostly in the US and the EU lobbied the cocoa industry, which led to the signing of the Harkin/Engel Protocol by activists, governments and representatives of the world cocoa industry in 2001 in Washington DC. A year later, the International Cocoa Initiative (ICI) was established. The initiative works with farmers and consumer groups to identify the most efficient way to end abusive labour practices in the cocoa sector. The ICI now supports the work of&nbsp;<b>290 cocoa growing communities</b>, reaching more than&nbsp;<b>650,000 community members.</b></p><p>In the private sector, Caobisco, the Association of Chocolate, Biscuit and Confectionery Industries of Europe, which represents more than 2,000 companies in the EU and over 50% of world cocoa consumption, has been involved for the past 10 years in tackling the issue of child labour in the cocoa supply chain. Caobisco has been working with the governments of Côte d’Ivoire and Ghana to develop their National Action Plans relating to the use of child labour. A public certification process is now under way.</p><p>The EU has considered restrictive trade measures for cocoa coming from countries using child labour, but this could worsen the situation, as trade restrictions would not alleviate poverty, one of the main reasons for the use of child labour.</p><a name="eztoc496392_3_1" id="eztoc496392_3_1"></a><h3><b>Main sources</b></h3><p>1. ICCO, ‘Latest Quarterly Bulletin of Statistics’, press release, 1 March 2011</p><p>http://www.icco.org/about/press2.aspx?Id=zxi14616</p><p>2. World Cocoa Foundation, ‘Cocoa Market Update’, May 2010</p><p>
+<a href="http://www.worldcocoafoundation.org/learn-about-cocoa/documents/CocoaMarketUpdateasof5.18.10.pdf" target="_self">http://www.worldcocoafoundation.org/learn-about-cocoa/documents/CocoaMar...</a></p><p>3. ICCO, ‘Monthly Review of the Market’, October 2008 – February 2011</p><p>
+<a href="http://www.icco.org/statistics/monthlyreview.aspx" target="_self">http://www.icco.org/statistics/monthlyreview.aspx</a></p><p>4. Monthly price data on cocoa commodity prices</p><p>
+<a href="http://www.indexmundi.com/commodities/?commodity=cocoa-beans&amp;months=60" target="_self">http://www.indexmundi.com/commodities/?commodity=cocoa-beans&amp;months=60</a></p><p>5. Thomson Reuters, ‘World cocoa surplus/deficit 2000-12: Reuters poll forecasts a global 2011/12 deficit of 50,000 tonnes’, 18 July 2011</p><p>http://graphics.thomsonreuters.com/11/07/CMD_GLBCOCOA0711_SC.gif</p><p>6. UNCTAD, ‘Study of value chain finance for coffee and cocoa in Cameroon’, November 3, 2010</p><p>
+<a href="http://www.euacpcommodities.eu/files/1CENC03ValueChainCoffeeCocoaCoulterEtoaAbena.pdf" target="_self">http://www.euacpcommodities.eu/files/1CENC03ValueChainCoffeeCocoaCoulter...</a></p><p>7. <i>Eurogersinformation, </i>‘Amer chocolat ! Défense de la tradition et de la libre circulation ne font pas bon ménage dans l’Union Européenne’, opinion piece on EU chocolate directive, August 2003</p><p>
+<a href="http://www.eurogersinfo.com/actu5.htm" target="_self">http://www.eurogersinfo.com/actu5.htm</a></p><p>8. <i>Howwemadeitinafrica.com</i>, ‘Olam to set up new cocoa processing facility in Cote d’Ivoire’, 29 August 2010</p><p>
+<a href="http://www.howwemadeitinafrica.com/olam-to-set-up-new-cocoa-processing-facility-in-cote-divoire/3569/" target="_self">http://www.howwemadeitinafrica.com/olam-to-set-up-new-cocoa-processing-f...</a></p><p><b>Cocoa in Haiti</b></p><p>9. Agronomes et veterinaries sans frontières/Label IDEAS, ‘Projet cacao en Haïti’, undated</p><p>
+<a href="http://ideas.asso.fr/media/organism/20101129_AVSF_cacao_HAITI.pdf" target="_self">http://ideas.asso.fr/media/organism/20101129_AVSF_cacao_HAITI.pdf</a></p><p><b>&nbsp;</b></p><p><b>International Cocoa Organisation (ICCO)</b></p><p>10. Trends in global supply and demand for cocoa. International Cocoa Organisation, (EX/116/7), 20 February 2003</p><p>
+<a href="http://www.icco.org/about/chocolate.aspx" target="_self">http://www.icco.org/about/chocolate.aspx</a></p><p>11. ICCO general information website</p><p>http://www.icco.org/</p><p><b>&nbsp;</b></p><p><b>Sustainable cocoa and fair trade</b></p><p>12. The state of sustainability initiatives review 2010: Sustainability and transparency</p><p class=" text-left">
+<a href="http://www.iisd.org/pdf/2010/ssi_sustainability_review_2010.pdf" target="_self">http://www.iisd.org/pdf/2010/ssi_sustainability_review_2010.pdf</a></p><p class=" text-left">13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Euromonitor International, ‘100% traceable fairtrade products: The next super-premium niche in chocolate?’, 7 December 2010&nbsp;</p><p class=" text-left">
+<a href="http://blog.euromonitor.com/2010/12/100-traceable-fairtrade-products-the-next-super-premium-niche-in-chocolate.html" target="_self">http://blog.euromonitor.com/2010/12/100-traceable-fairtrade-products-the...</a></p><p class=" text-left">14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oxfam International, ‘T<i>owards a sustainable cocoa chain: Power and possibilities within the cocoa and chocolate sector’,&nbsp;</i>research report,&nbsp;January 2009</p><p class=" text-left">&nbsp;http://www.oxfam.org.uk/resources/policy/trade/downloads/research_sustainable_cocoa_chain.pdf</p><p><b>&nbsp;</b></p><p><b>Child labour issues</b></p><p>15. Caobisco/European Cocoa Association, ‘Combating child labour: A holistic, development oriented approach’, undated</p><p>
+<a href="http://www.caobisco.com/doc_uploads/caobisco_eca_response_key_messages.pdf" target="_self">http://www.caobisco.com/doc_uploads/caobisco_eca_response_key_messages.pdf</a></p><p>16. Payson Center for International Development and Technology Transfer, Tulane University, ‘Oversight of public and private initiatives to eliminate the worst forms of child labor in the cocoa sector in Côte d’Ivoire and Ghana’, 31 March 2011</p><p>
+<a href="http://childlabor-payson.org/Tulane%20Final%20Report.pdf" target="_self">http://childlabor-payson.org/Tulane%20Final%20Report.pdf</a></p><p class=" text-left">17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Cocoa Initiative, website</p><p class=" text-left">
+<a href="http://www.cocoainitiative.org/en" target="_self">http://www.cocoainitiative.org/en</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+					
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Cocoa/Executive-Brief-Update-2013-Cocoa-sector">Executive Brief Update 2013: Cocoa sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cocoa/Executive-Brief-Update-2012-Cocoa-sector">Executive Brief Update 2012: Cocoa sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Other/Executive-Brief-Update-2012-Central-Africa-Agricultural-trade-policy-debates-and-developments">Executive Brief Update 2012: Central Africa: Agricultural trade policy debates and developments</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/Executive-Brief-Update-2012-Product-differentiation">Executive Brief Update 2012: Product differentiation</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Cocoa/Executive-Brief-Update-2011-Cocoa-sector">Executive Brief Update 2011: Cocoa sector</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":150,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

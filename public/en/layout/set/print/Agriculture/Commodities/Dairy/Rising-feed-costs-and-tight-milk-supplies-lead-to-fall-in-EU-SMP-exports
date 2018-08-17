@@ -1,0 +1,271 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Rising feed costs and tight milk supplies lead to fall in EU SMP exports  / Dairy / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																								
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																														
+																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7801/(search)/simple">Dairy</a>
+							
+																																																																																																																																																																																																																									
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Rising feed costs and tight milk supplies lead to fall in EU SMP exports </h1>
+
+			
+			<h4>
+												02 September 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>According to the EC report ‘Short term outlook for EU arable crops, meat and dairy markets’, published on 4 July 2013, world dairy commodity prices at the beginning of 2013 were “very high” in the face of “buoyant demand” and “tight supply”. The EC considered that while supply is expected to increase in the course of 2013, “world and EU prices should stay firm.” &nbsp;</p><p>According to the report, “in the EU, despite high world [prices], dairy commodities production is restrained by the low milk supply.” Milk powder production is particularly affected, as dairies use available milk for higher-value products in demand on domestic markets. Thus, despite high world market prices, EU production of whole-milk powder (WMP) and skimmed-milk powder (SMP) is expected to decrease significantly – by 8.2 and 4.4% respectively – in 2013. With stocks currently “very small”, a 20% decline in SMP exports in 2013 is projected. &nbsp;</p><p>While domestic demand for cheese has been affected by the economic crisis, export demand grew by 11% in the first 4 months of 2013 (although this demand is expected to slow to an annual growth of 6% over the year). Export demand for butter saw growth in EU exports of 12% in the first 4 months, but this is expected to slow to an overall growth of only 2% in 2013. &nbsp;</p><p>In 2014, EU milk production is forecast to increase by 1.3% compared to 2013 levels, to 154.4 million tonnes. This follows an increase in the number of dairy cows (+1.8%) in the EU15 countries in 2012 (the EU now numbers 28 members, with the EU15 referring to the first 15 member states). The increase took place largely in the UK, the Netherlands, Luxembourg, Ireland, Spain and Italy. &nbsp;</p><p>Given poor pasture conditions in many areas of the EU and the “very tight” EU cereals market, lower feed availability, high prices and low stocks have squeezed the profitability of dairy producers. As a result, the 2012 growth in the dairy herd is expected to fall slightly in 2013 (–0.3%). Nevertheless, milk yields in 2014 are expected to recover to 2011 levels (7,112 kg/cow) in the EU15. Milk yields in EU13 producer countries (i.e. the 13 newest member states of the EU) are expected to increase steadily, reaching 4,808 kg/cow in 2014. &nbsp;</p><p>Also in July, the outgoing Director-General of Dairy UK, which “represents the interests of the entire dairy supply chain including farmers, producer co-operatives, manufacturers of dairy products, and processors and distributors of liquid milk throughout the United Kingdom”, has argued that improving farmer–processor relations in the UK is essential to the effective exploitation of emerging market opportunities in Europe and beyond. Jim Begg maintained that the foundations for substantial progress in this area have been laid in the Code of Best Practice developed in the UK. The UK dairy industry now needs “to find a way of combining growth in emerging markets in other parts of the world, and shifting reliance from commodity products to added value products which return higher values”. &nbsp;</p><p><b>EU27 dairy exports 2010–2014 (’000 tonnes)</b></p><table class="renderedtable" border="1" cellpadding="2" cellspacing="0">
+<tr>
+<td width="83" valign="top">  &nbsp;
+  </td><td width="101" valign="top">  2010
+  </td><td width="101" valign="top">  2011
+  </td><td width="101" valign="top">  2012 (estimate)
+  </td><td width="114" valign="top">  2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (EU28 forecast)
+  </td><td width="114" valign="top">  2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (EU28 forecast)
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  SMP
+  </td><td width="101" valign="top">  379
+  </td><td width="101" valign="top">  518
+  </td><td width="101" valign="top">  523
+  </td><td width="114" valign="top">  416
+  </td><td width="114" valign="top">  445
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  WMP
+  </td><td width="101" valign="top">  447
+  </td><td width="101" valign="top">  390
+  </td><td width="101" valign="top">  387
+  </td><td width="114" valign="top">  339
+  </td><td width="114" valign="top">  319
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  Cheese
+  </td><td width="101" valign="top">  767
+  </td><td width="101" valign="top">  682
+  </td><td width="101" valign="top">  776
+  </td><td width="114" valign="top">  807
+  </td><td width="114" valign="top">  831
+  </td>
+</tr>
+
+<tr>
+<td width="83" valign="top">  Butter
+  </td><td width="101" valign="top">  157
+  </td><td width="101" valign="top">  124
+  </td><td width="101" valign="top">  124
+  </td><td width="114" valign="top">  127
+  </td><td width="114" valign="top">  127
+  </td>
+</tr>
+
+</table>
+<p>Source: EC, ‘Short term outlook…’ (see below), Tables 6.18, 6.19, 6.20 and 6.21</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EC DG for Agriculture and Rural Development, ‘Short term outlook for EU arable crops, meat and dairy markets’, 4 July 2013</p><p>
+<a href="http://ec.europa.eu/agriculture/markets-and-prices/short-term-outlook/pdf/summer-2013_en.pdf" target="_self">http://ec.europa.eu/agriculture/markets-and-prices/short-term-outlook/pd...</a></p><p>Dairy UK, ‘About Dairy UK’, web page</p><p>
+<a href="http://www.dairyuk.org/about-dairy-uk-mainmenu-32" target="_self">http://www.dairyuk.org/about-dairy-uk-mainmenu-32</a></p><p><i>Foodnavigator.com</i>, ‘Great confidence in the export future of British dairy, says retiring dairy chief’, 3 July 2013</p><p>
+<a href="http://mobile.foodnavigator.com/Financial-Industry/Great-confidence-in-the-export-future-of-British-dairy-says-retiring-Dairy-UK-chief?utm_source=feedly#.UddNUTt7Kjg" target="_self">http://mobile.foodnavigator.com/Financial-Industry/Great-confidence-in-t...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Patterns of EU exports of SMP have been a matter of concern to ACP milk producers, given that some ACP dairy processors use the import price of milk powder as a benchmark for determining the price to be paid for fresh milk. The most recent projected decline of 20% in SMP exports in 2013 goes against the longer-term trend of rising SMP exports projected in the EC forecast of December 2012 (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Dairy/EU-dairy-sector-developments-and-prospects" target="_blank">EU dairy sector developments and prospects</a>’, 15 April 2013). However, this decline in SMP exports is unlikely to be sustained as more competitive EU dairy producers gear up for the abolition of EU milk production quotas in 2015 and average milk yields increase.</p><p>With EU demand for cheese falling, exports are set to rise at a rate that more than compensates for the decline in domestic demand (+39,000 tonnes, compared a decline of 6,000 tonnes). Forecasts for cheese exports in 2014 are 23% higher than actual exports in 2010 (+155,000 tonnes), suggesting that the move towards exports of higher-value products is getting under way. The EC projections published in December 2012 showed this growth in cheese exports continuing to 2022, to a level 41% (or +280,000 tonnes) above 2010 exports.</p><p>This surge in EU cheese exports may well need to be taken on board in the investment plans of local ACP dairy companies.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/EC-reviews-experience-of-strengthening-dairy-supply-chains">EC reviews experience of strengthening dairy supply chains </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/The-expanding-EU-dairy-herd-and-the-growing-importance-of-overseas-markets-including-in-Africa">The expanding EU dairy herd and the growing importance of overseas markets, including in Africa</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/UK-retailers-milk-price-war-imminent">UK retailers’ milk price war imminent?</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/EU-dairy-sector-investments-continue-to-target-export-markets">EU dairy sector investments continue to target export markets</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Good-prospects-for-EU-dairy-exports-but-growing-competition">Good prospects for EU dairy exports but growing competition </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":175,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,218 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>ACP agricultural exports and proposed changes to the EU Regulation on food and feed controls / SPS / Food safety / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/specialreports.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																																				
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																		
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																											,
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																																																																																																																																					
+																																																																																																																																																																																										,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7802/(search)/simple">Horticulture</a>
+							
+																																																																																																																																																																																																			
+																																																																																																																																														,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7817/(search)/simple">SPS / Food safety</a>
+							
+																																																																																																																																																																													
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>ACP agricultural exports and proposed changes to the EU Regulation on food and feed controls</h1>
+
+			
+			<h4>
+												11 May 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<a name="eztoc3172895_0_1" id="eztoc3172895_0_1"></a><h3>Background</h3><p>In May 2013, the EC put forward “proposals to change the current legislation governing all official controls in the food and agriculture industries”, with the aim of ensuring “a more consistent approach to official controls” throughout the EU food and agriculture sector. The proposals include “a change to the way official controls are funded”, with the EC proposing that member states move towards full cost recovery for all official controls carried out,<sup>1</sup> and potentially “a major increase in the number of controls subject to mandatory charging”. The proposed changes affect all “procedures and management of import controls across the plant, animal, feed and food chains”.<sup>2</sup></p><p>Current EC proposals include “detailed measures for the calculation of fees”, including “a mandatory exemption for micro-businesses” (defined as “enterprises employing fewer than 10 persons and whose annual turnover or annual balance sheet total does not exceed EUR 2 million”<sup>3</sup>) from fees, but not from controls. This exemption is in recognition of the impact that such fees could have on the competitiveness of microenterprises, and forms part of a more general flexibility for microenterprises within the EU. These complex proposals for regulatory changes are still under consideration by the European Parliament and the European Council, with voting “not expected to take place until late 2014.”<sup>1</sup></p><p>The EC’s food and feed controls are currently reviewed on a quarterly basis. This can give rise to significant changes in inspection rates (i.e. the proportion of consignments inspected) from one quarter to the next, depending on the assessment of risk. In July 2013, for example, the EC’s Standing Committee on Plant Health increased the inspection rate for passionflower cut flowers imported from Zimbabwe from 35% to 50% of all consignments, while the inspection rate on imports of aster flowers from Zimbabwe fell from 100% of all consignments to 75%. In the case of Suriname, the inspection rate on imports of bitter squash fell from 100% to 50% of all consignments.<sup>4</sup> This variability in inspection rates for ACP floriculture and horticulture exports provides the context for assessing the implications of moves to full cost recovery for EU inspections.</p><a name="eztoc3172895_0_2" id="eztoc3172895_0_2"></a><h3>Implications</h3><p>On 6 April 2012, as part of moves towards full cost recovery in response to the fiscal pressures on the UK government, a substantial increase in inspection fees and charges was introduced for fresh plant produce and cut flowers imported into the UK. A review of changes to UK plant health inspection fees charged since April 2012 shows a 250% increase in fees levied between January 2011 and January 2014.<sup>5</sup></p><p>In addition, moves were initiated in the UK to increase inspection rates to bring them in line with EU rates of inspection. In 2009–10, for standard consignments nominally subject to full inspection, a 91% rate of inspection was achieved. For imports from origins where reduced rates of inspection were applied, only 20% of the reduced number of inspections were carried out. The UK Food and Environment Research Agency noted that their aim was to achieve 100% of the required inspections in the coming years.<sup>6</sup> This implies a fivefold increase in the number of inspections carried out on imports currently subject to reduced rates of inspection and an increase of approximately 10% in the number of inspections of imports subject to standard import control requirements.</p><p>In March 2012, it was estimated by the UK Fresh Produce Consortium (FPC) that overall the costs of inspections would increase by 73% between 2012 and 2014, while the consumer price of imported food products would increase by 1.9% as a result of moves towards full cost recovery. In the short term, it was feared that trading activities might move elsewhere in the EU, to take advantage of lower inspection charges. Significantly, the FPC concluded that “many sectors of the industry will struggle to absorb these costs”.<sup>7</sup></p><p>Concerns in the UK over “trade diversion” arising from moves to full cost recovery at the national level would appear to account for why the EC is proposing that moves to full costs recovery take place uniformly across the EU.</p><p>In addition, proposals have subsequently emerged to shift from an “open system” of controls, under which plants can be imported from any country unless an explicit country prohibition exists, to a “closed system” under which plants can only be imported from countries placed on a positive list.</p><p>These proposals potentially carry profound financial implications for a range of ACP agro-food product exporters.</p><a name="eztoc3172895_0_3" id="eztoc3172895_0_3"></a><h3>Issues arising</h3><p>There are concerns that an increase in the number of mandatory controls and the application of full cost recovery to all official controls could fall particularly heavily on:</p><p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; those ACP exporters with limited overall export volumes (since the unit cost of inspections would be higher); and</p><p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; those ACP countries seeking to develop new exports, where export volumes still need to be built up, since inspection rates are based on a risk assessment, drawn up on the basis of the exporter’s track record. Where no track record exists, inspections are maintained at a high level until a proper risk assessment can be carried out.</p><p>In addition, the move from an open system to a closed system could create serious financial obstacles to the emergence of non-traditional ACP exporters across a range of food and feed products.</p><p>Against this background, given the exemptions proposed for EU micro-businesses from the principle of full cost recovery on the grounds of concerns over competitiveness, there would appear to be a case for extending similar exemptions to ACP exporters of plant and animal products, particularly for LDCs, small island and vulnerable economies and those ACP economies promoting export diversification in response to preference erosion.</p><p>Given that there is no evidence that closed systems are more effective than open systems in preventing disease transmission, a full assessment of the financial implications for ACP countries of moves to a closed system of import controls would appear essential.</p><p><b>Notes</b></p><p>1. <i>Thecropsite.com</i>, ‘EU food and feed regulations to be revised’, 13 May 2013</p><p>
+<a href="http://www.thecropsite.com/news/13670/eu-food-and-feed-regulations-to-be-revised " target="_self">http://www.thecropsite.com/news/13670/eu-food-and-feed-regulations-to-be...</a></p><p>2. EC, Animal and plant health package: Smarter rules for safer food, web page with links to all draft proposals for regulation and impact assessments, undated</p><p>
+<a href="http://ec.europa.eu/dgs/health_consumer/pressroom/animal-plant-health_en.htm" target="_self">http://ec.europa.eu/dgs/health_consumer/pressroom/animal-plant-health_en...</a></p><p>3. See Article 82 of EC ‘Proposal&nbsp; for a regulation… on official controls, and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health, plant reproductive material, plant protection products…’ COM(2013) 265 final, 6 May 2013</p><p>
+<a href="http://ec.europa.eu/dgs/health_consumer/pressroom/docs/proposal-regulation-ep-council_en.pdf" target="_self">http://ec.europa.eu/dgs/health_consumer/pressroom/docs/proposal-regulati...</a></p><p>
+<a href="http://ec.europa.eu/dgs/health_consumer/pressroom/docs/proposal-regulation-ep-council_fr.pdf" target="_self">http://ec.europa.eu/dgs/health_consumer/pressroom/docs/proposal-regulati...</a></p><p>4. <i>Hortidaily.com</i>, ‘EU changes list of phytosanitary checks for cut flower import’, 26 July 2013</p><p>
+<a href="http://www.hortidaily.com/article/3072/EU-changes-list-of-phytosanitary-checks-for-cut-flower-import " target="_self">http://www.hortidaily.com/article/3072/EU-changes-list-of-phytosanitary-...</a></p><p>5. A more detailed breakdown of fee increases compiled by the Fresh Produce Consortium (FPC) in November 2011 suggested even larger fee increases for some services: see&nbsp; ‘FPC rejects massive hike in plant health statutory charges’, 22 November 2011</p><p>
+<a href="http://www.freshplaza.com/article/89294/FPC-rejects-massive-hike-in-plant-health-statutory-charges" target="_self">http://www.freshplaza.com/article/89294/FPC-rejects-massive-hike-in-plan...</a></p><p>6. For details, see ‘Changes to import inspections at key points of entry’, undated, at 
+<a href="http://www.fera.defra.gov.uk/plants/plantHealth/imports/" target="_self">http://www.fera.defra.gov.uk/plants/plantHealth/imports/</a></p><p>7. See Fresh Produce Consortium, ‘Small businesses take brunt of increased plant health inspection charges’, 21 March 2012</p><p>
+<a href="http://www.freshplaza.com/article/94362/UK-Small-businesses-take-brunt-of-increased-plant-health-inspection-charges#SlideFrame_1" target="_self">http://www.freshplaza.com/article/94362/UK-Small-businesses-take-brunt-o...</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+								
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/Financing-EU-food-and-feed-controls-Recent-developments-and-implications-for-the-ACP">Financing EU food and feed controls: Recent developments and implications for the ACP </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/SPS-Food-safety/ACP-agricultural-exports-and-proposed-changes-to-the-EU-Regulation-on-food-and-feed-controls">ACP agricultural exports and proposed changes to the EU Regulation on food and feed controls</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":146,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

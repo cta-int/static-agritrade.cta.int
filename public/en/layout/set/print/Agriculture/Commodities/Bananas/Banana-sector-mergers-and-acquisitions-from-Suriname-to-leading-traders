@@ -1,0 +1,220 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Banana sector mergers and acquisitions, from Suriname to leading traders  / Bananas / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																								
+								<a href="/en/layout/set/print/Publications/(regions)/7770/(search)/simple">Caribbean</a>
+																																																																																																																																																																		
+																																																						,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7796/(search)/simple">Bananas</a>
+							
+																																																																																																																																																																																																																																																																																																																																							
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Banana sector mergers and acquisitions, from Suriname to leading traders </h1>
+
+			
+			<h4>
+												10 May 2014
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>According to press reports from January 2014, “Suriname’s Ministry of Agriculture has reached a deal with Belgian produce multinational Univeg to privatize the vast majority of its shares in banana entity Stichting Behoud Banana Sector (SBBS).” Univeg “will now hold 90% of the company that has 2,000 hectares of banana production and an annual turnover of $65 million”. SBBS is now to operate under the name Food and Agricultural industries NV (FAI NV). The Belgium-based Univeg Group has an “international network for delivery and distribution of fresh produce, flowers &amp; plants and convenience products”. Univeg announced that the move was part of the company’s “continued strategy to secure long-term sourcing requirements to optimally service its retail customers”.</p><p>The purchase builds on the business relationship established between Univeg France and SBBS since 2006, when SBBS “was revitalised with the support of the European Union”. The Managing Director of Univeg France commented that “Suriname has great assets for the production of tropical products, such as a skilled workforce, ideal climate, soils and luminosity.” Suriname’s Minister of Agriculture added that “In selecting Univeg, we found a good home for the future development and marketing of the Suriname banana.”</p><p>It appears, however, that the position of Univeg on the European market could be undermined by the merger between Chiquita and Fyffes. The website <i>Fresh Plaza</i> commented in March 2014 that Univeg was “the largest distributor of Chiquita bananas in Europe… in direct competition with Fyffes”.</p><p>According to analysts, the Chiquita/Fyffes merger, announced in March 2014, was in response to Chiquita’s loss of market share in the last few years (its market share has halved, with strong competition from Del Monte and Dole) and “the fact that there is less and less to be earned in the banana market”, given the tendency of some European supermarkets to use bananas as loss leaders to attract customers.</p><p>Commenting on the merger, Chiquita’s CEO has highlighted how the merged company will be able to make cost savings on shipping by sharing vessels, thereby reducing the number of vessels hired, and by adopting slow steaming practices (operating container ships at less than maximum speed), thus saving also on fuel costs. There were also savings to be made through better use of shared ripening facilities.</p><p>Banana Link, an organisation campaigning for a fair and sustainable banana trade, has warned that if the merger goes through, “the top three companies will have 70% of the global market” in internationally traded bananas. In this context, the Fairtrade Foundation has made a commitment to closely watch “the impact that the merger… will have on banana farmers and workers”. According to Banana Link, both companies had good reputations on improving working conditions and environmental issues. But with European retailers taking value out of the banana supply chain through low pricing practices, the commercial pressure is increasing.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Freshfruitportal.com</i>, ‘Univeg gets stake in Suriname banana industry privatization’, 24 January 2014</p><p>
+<a href="http://www.freshfruitportal.com/2014/01/24/univeg-gets-stake-in-suriname-banana-industry-privatization/?country=belgium " target="_self">http://www.freshfruitportal.com/2014/01/24/univeg-gets-stake-in-suriname...</a></p><p>Univeg, ‘UNIVEG finalises privatisation process of SBBS’, press release, 23 January 2014</p><p>
+<a href="http://www.univeg.com/en/media/press_releases/univeg_finalises_privatisation_process_of_sbbs/" target="_self">http://www.univeg.com/en/media/press_releases/univeg_finalises_privatisa...</a></p><p><i>Freshplaza.com</i>, ‘Fyffes Exec: Takeovers have been an important factor in the growth of Fyffes’, 11 March 2013</p><p>
+<a href="http://www.freshplaza.com/article/118686/Fyffes-Exec-Takeovers-have-been-an-important-factor-in-the-growth-of-Fyffes" target="_self">http://www.freshplaza.com/article/118686/Fyffes-Exec-Takeovers-have-been...</a></p><p><i>Freshfruitportal.com</i>, ‘Chiquita-Fyffes merger a “dramatic acceleration” for banana value’, 11 March 2014</p><p>
+<a href="http://www.freshfruitportal.com/2014/03/11/chiquita-fyffes-merger-a-dramatic-acceleration-for-banana-value/?country=belgium" target="_self">http://www.freshfruitportal.com/2014/03/11/chiquita-fyffes-merger-a-dram...</a></p><p><i>The Guardian</i>,’ Fyffes to merge with Chiquita and create world's biggest banana company’, 10 March 2014</p><p>
+<a href="http://www.theguardian.com/business/2014/mar/10/fyffes-merge-chiquita-banana-co-chiquitafyffes" target="_self">http://www.theguardian.com/business/2014/mar/10/fyffes-merge-chiquita-ba...</a></p><p>CNN, ‘Merger to make Chiquita world's biggest banana company’, 10 March 2014</p><p>
+<a href="http://money.cnn.com/2014/03/10/news/companies/banana-merger/" target="_self">http://money.cnn.com/2014/03/10/news/companies/banana-merger/</a></p><p>Univeg, ‘About us: History’, web page</p><p>
+<a href="http://www.univeg.com/en/about_us/history/" target="_self">http://www.univeg.com/en/about_us/history/</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>Although the volumes are relatively small, the acquisition of SBBS by Univeg to “secure long-term sourcing requirements” can be seen as timely, given the planned Chiquita/Fyffes merger, which could impact on Univeg’s current role as a distributor of Chiquita bananas.</p><p>The benefits derived by Suriname’s banana producers from the Univeg investment will be critically determined by the investments that Univeg makes in the packaging and marketing of Suriname’s bananas on various EU markets. If Univeg loses the Chiquita distribution contract following the merger, it will have to invest in more effectively competing with the new banana industry leader.</p><p>While the increased investment could rebound to the benefit of Surinamese banana producers, the commercial pressures within banana supply chains could lead to the burden of adjustment to new market realities being passed back down to banana producers in ACP countries such as Suriname.</p><p>This suggests that the close monitoring of the impact of the proposed Chiquita/Fyffese merger on banana farmers promised by the Fairtrade Foundation will need to extend beyond the Chiquita/Fyffes banana supply chains.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Bananas/Permanent-low-retail-pricing-for-bananas-spreads-to-the-Netherlands">Permanent low retail pricing for bananas spreads to the Netherlands</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/Product-differentiation/EC-tables-new-regulation-on-the-organic-sector">EC tables new regulation on the organic sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Bananas/Free-trade-agreements-boost-Latin-and-Central-American-banana-exports-to-EU-but-with-variable-performance">Free trade agreements boost Latin and Central American banana exports to EU but with variable performance</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Bananas/Banana-sector-mergers-and-acquisitions-from-Suriname-to-leading-traders">Banana sector mergers and acquisitions, from Suriname to leading traders </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Bananas/ACP-Ministers-call-for-accelerated-and-expanded-banana-assistance-programmes">ACP Ministers call for accelerated and expanded banana assistance programmes </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":148,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

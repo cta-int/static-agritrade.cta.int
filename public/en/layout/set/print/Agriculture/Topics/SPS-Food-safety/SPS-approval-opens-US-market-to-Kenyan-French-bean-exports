@@ -1,0 +1,221 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>SPS approval opens US market to Kenyan French bean exports  / SPS / Food safety / Topics / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																													
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																																																																																																												
+								<a href="/en/layout/set/print/Publications/(regions)/7772/(search)/simple">Eastern Africa</a>
+																																																																																																														
+																																																																																																																																																																																										,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7802/(search)/simple">Horticulture</a>
+							
+																																																																																																																																																																																																			
+																																																																																																																																														,
+
+							<a href="/en/layout/set/print/Agriculture/(topics)/7817/(search)/simple">SPS / Food safety</a>
+							
+																																																																																																																																																																													
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>SPS approval opens US market to Kenyan French bean exports </h1>
+
+			
+			<h4>
+												19 August 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>In May 2013, a statement from the US Animal and Plant Health Inspection Service announced that the US was “amending the fruits and vegetable regulations to allow the importation of French and runner beans from Kenya into the US”. This constitutes the lifting of the ban on imports of French beans from Kenya that was introduced by the US in 2000, following improvements in washing, packaging and processing of beans and a raising of standards along the whole Kenyan French bean value chain. The CEO of the Fresh Produce and Exporters Association of Kenya said that the US authorities “have inspected our pre-export processing conditions and found them satisfactory”.</p><p>Standard Media in Kenya reported that in 2012, “French beans accounted for 29 per cent, Sh4 billion of Kenya’s total earnings from vegetable exports of Sh13.7 billion last year.” With falling demand in the EU, the reopening of the US market is seen as timely. However, press reports suggest that the US may seek to limit access for Kenyan French beans, with analysis from the US Department of Agriculture reportedly showing that “imports of 3,500 tonnes of French beans pulled prices down by [US]$12.35 per tonne, leading to a fall in US domestic production of 1,838 tonnes.”</p><p>According to the website<i> Business Daily Africa</i>,<i> </i>recent<i> </i>software innovations are due to speed up quality testing for Kenyan fresh produce exports. The new system “enables a continuous process of record taking and processing from planting to harvesting, hence farmers do not have to wait for days for the post-harvest audit”, and no longer requires smallholder growers to forfeit up to 10% of their produce for testing. According to the Director of the Kenya Plant Health Inspectorate Service, “real time information can help strengthen internal control systems, improve compliance with food safety standards and increase transparency and traceability.”</p><p>By enhancing traceability and reducing the amount of time it takes farmers to compile the necessary data and documentation, the new technology is expected to ease pressures on Kenyan producers arising from the stricter interpretation of EU standards compliance requirements introduced in December 2012 (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/New-EU-maximum-residue-levels-hit-Kenyan-vegetable-exports" target="_blank">New EU maximum residue levels hit Kenyan vegetable exports</a>’, 28 April 2013). The new EU testing requirements weighed particularly heavily on Kenya’s smallholder producers. According to press reports, sales for export to the EU from some groups of growers were down by 92% following the introduction of the stricter controls. In one group of growers affected, this reduced the number of producers delivering for export to the EU from 30 to 6.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p><i>Standardmedia.com</i>, ‘Kenya gets green light for US bean export’, 14 May 2013</p><p>
+<a href="http://www.freshplaza.com/news_detail.asp?id=109141#SlideFrame_1" target="_self">http://www.freshplaza.com/news_detail.asp?id=109141#SlideFrame_1</a></p><p><i>Businessdailyafrica.com</i>, ‘Software to speed up EU exports’, 23 May 2013</p><p>
+<a href="http://www.freshplaza.com/news_detail.asp?id=109508 #SlideFrame_1" target="_self">http://www.freshplaza.com/news_detail.asp?id=109508#SlideFrame_1</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>The length of time taken to secure approval for Kenyan French bean exports to the US – more than 10 years – suggests a need for more efficient procedures for securing sanitary and phytosanitary (SPS) approvals, alongside increased support to capacity building along the whole supply chain for the products concerned, in order to verifiably ensure compliance with the required standards. The procedures would also need to address sector-wide rather than only product-specific issues, and would thus need to be more structural in nature.</p><p>In addition, while the use of modern technology is helping exporters to comply with food safety standards, in the long term more emphasis needs to be placed on building capacity at the level of smallholder producers, since this is the starting point for good agricultural practices that comply with food safety standards.</p><p>In addition to new procedures, the time taken in the Kenyan French bean market access case calls for standardisation of SPS approval procedures across major markets. The current EU–US negotiations on standards in the context of the Transatlantic Trade and Investment Partnership negotiations could offer opportunities in this regard, and could ultimately benefit all ACP horticultural exporters (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Topics/EU-FTAs/Discussions-on-standards-in-EU-US-trade-negotiations-carry-global-implications" target="_blank">Discussions on standards in EU–US trade negotiations carry global implic...</a>’, 4 May 2013).</p><p>Since the EU–US process may require regulatory changes in either the EU or the US, it would appear important for ACP exporters to follow these negotiations and for procedures to be set up for advanced notification of changes under consideration. This could allow time for ACP exporters to adjust without any trade disruption, and constitutes an area where improved information systems are required.</p><p>The decline in the EU demand for Kenya’s French bean exports also needs attention. Given historical trade relations between the EU and Kenya, and the relative closeness of the EU market compared to the US, it might be useful to set in place a system of monitoring market trends and factors influencing consumer demand, in order to enable producers to respond to evolving market conditions. Potentially, such systems for monitoring market trends could most cost-effectively be established at the all-ACP level, with links to regional ACP producer associations. These systems could build on the existing COLEACP network of inter-professional organisations active in the horticultural trade.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+							
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/FVO-report-identifies-progress-in-Kenyan-inspection-service-and-calls-for-more-targeted-checks">FVO report identifies progress in Kenyan inspection service and calls for more targeted checks</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/SA-avocado-experience-highlights-growing-importance-of-addressing-SPS-issues-for-market-diversification">SA avocado experience highlights growing importance of addressing SPS issues for market diversification </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/KEPHIS-undertakes-research-to-make-case-for-easing-EU-import-controls">KEPHIS undertakes research to make case for easing EU import controls </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Horticulture/EFSA-to-inspect-Kenyan-horticulture-industry-control-systems">EFSA to inspect Kenyan horticulture industry control systems </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Topics/SPS-Food-safety/SPS-approval-opens-US-market-to-Kenyan-French-bean-exports">SPS approval opens US market to Kenyan French bean exports </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":150,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

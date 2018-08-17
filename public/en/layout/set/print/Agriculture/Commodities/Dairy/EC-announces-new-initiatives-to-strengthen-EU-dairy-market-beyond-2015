@@ -1,0 +1,220 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>EC announces new initiatives to strengthen EU dairy market beyond 2015  / Dairy / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com" />
+	
+			<meta name="copyright" content="CTA - Agritrade" />
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<meta name="generator" content="eZ publish" />
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico" />
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml" />
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css" />
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content="" />
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png" />
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" />
+</head>
+<body id="home"
+onload = "window.print();"
+>
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade" />
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade" /></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr />
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/newsanalysis.gif" alt="" />
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																								
+							<a href="/en/layout/set/print/Publications/(regions)/7767/(search)/simple">EU</a>
+																																																																																																																																																																																																																																														
+																																																																																																																																																																				,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7801/(search)/simple">Dairy</a>
+							
+																																																																																																																																																																																																																									
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>EC announces new initiatives to strengthen EU dairy market beyond 2015 </h1>
+
+			
+			<h4>
+												01 December 2013
+										</h4>
+
+					</header>
+
+
+		
+		
+					<p>On 24 September 2013, the EU Agriculture Commissioner Dacian Cioloş announced that the EC would “strengthen its capacity to monitor the dairy market following the end of dairy quotas”. The EC is to “set up an internal observatory in charge of analysing the evolution of the market in the short, middle and long term. The observatory will work in close collaboration with Member States and operators, who have access to first-hand market information.” It is hoped that the observatory “will provide an early warning of the risks of imbalances on markets” and thus assist in dealing with price volatility. </p><p>The announcement was made at the opening of a conference on the theme of “the EU dairy sector: Developing beyond 2015”. The new initiative supplements the EU’s October 2012 ‘milk package’ which is under implementation in 11 member states based on mandatory contracts, with a further four member states planning mandatory contract schemes. Meanwhile, efforts continue in the EC “to promote a better balance, transparency and honesty in relationships within the food chain”. </p><p>These developments need to be seen against the background of continued scope for coupled dairy sector payments, the scope for regional differentiation in levels of direct aid payments and opportunities for the deployment of rural development funding in support of dairy sector development. </p><p>The Commissioner challenged conference participants to explore whether these tools, alongside traditional market management measures, were “sufficient to intervene firmly and effectively if there is a crisis of overproduction, falling consumption or a rapid and sudden rise in production costs”. </p><p>An analysis of future developments in the milk sector prepared for the conference explored likely scenarios post-quota abolition. It was thought that quota abolition would not play a major role in determining market perspectives, since quotas no longer restrain overall EU production. Developments in global markets will be the critical determinant of future EU dairy sector perspectives, with price volatility posing a major challenge in the near future and requiring a refining of the use of existing policy tools and introduction of new policy tools. </p><p>The analysis maintained that, over time, an increasing volume of EU milk will be transformed into value-added dairy products, with less of a focus on production of bulk dairy products. It recognised that “the distribution of value added along the dairy supply chain is currently unbalanced in favour of processors”, with support to producer organisations and inter-trade organisations potentially offering a means of alleviating “asymmetries in bargaining power between producers and processors”. In this context, it was acknowledged that quota abolition would result in a further concentration of milk production in “larger and more efficient farms”, Environmental degradation would also be “one of the main challenges for the years to come”. </p><p>Many submissions were made to the conference, with the EC presenting its latest market perspectives report. Most significantly, this highlighted growing levels of EU exports of cheese and skimmed-milk powder (SMP) up to 2022, with a more or less stable EU share of global dairy product markets after a dramatic decline from 2001 to 2011. Overall, this will lead to a growing importance of global markets, with the percentage of milk-equivalent exports in total EU production rising from 7.7% in 2009 to 10.6% in 2015 and 11.1% in 2022.&nbsp;</p>
+		
+		
+				<div class="box related">
+			<h3>Sources</h3>
+			
+<p>EC, ‘Commission will follow up dairy market more closely’, 24 September 2013</p><p>
+<a href="http://ec.europa.eu/agriculture/newsroom/131_en.htm" target="_self">http://ec.europa.eu/agriculture/newsroom/131_en.htm</a></p><p>EC, ‘The EU dairy sector: Developing beyond 2015’, speech by Commissioner Dacian Cioloş,&nbsp; 24 September 2013</p><p>
+<a href="http://europa.eu/rapid/press-release_SPEECH-13-737_en.htm" target="_self">http://europa.eu/rapid/press-release_SPEECH-13-737_en.htm</a></p><p>Ernst &amp; Young (prepared for the EC), ‘Analysis on future developments in the milk sector’, 19 September 2013</p><p>
+<a href="http://ec.europa.eu/agriculture/events/2013/milk-conference/ernst-and-young-report_en.pdf" target="_self">http://ec.europa.eu/agriculture/events/2013/milk-conference/ernst-and-yo...</a></p><p>EC, ‘Market situation and perspectives’, presentation at the conference ‘The EU dairy sector: Developing beyond 2015, 24 September 2013</p><p>
+<a href="http://ec.europa.eu/agriculture/events/2013/milk-conference/versteijlen_en.pdf" target="_self">http://ec.europa.eu/agriculture/events/2013/milk-conference/versteijlen_...</a></p>		</div>
+		
+		
+				<div class="box">
+			<h3>Editorial comment</h3>
+			<p>In the context of dairy sector reforms that are designed to increasingly align the EU milk sector with the functioning of global dairy markets, the EC remains committed to insulating EU milk producers from the worst effects of market price volatility. This involves the continued use of coupled supports, traditional market management tools and the implementation of new policy measures to strengthen the functioning of EU dairy supply chains. </p><p>Potentially, ACP countries with established dairy sectors could learn lessons from the new EU policy framework aimed at strengthening the functioning of dairy supply chains. This can be seen as particularly significant, given the growing interest of certain EU dairy companies in expanding markets for dairy products in Africa (particularly SMP) and the projection of increased volumes of EU milk production destined for non-EU markets.</p><p>Over the long term, the trend is towards greater EU exports of value-added dairy products, but in the medium term (to 2022), EU dairy companies will continue to seek markets for bulk dairy exports (mainly SMP) – this process of market development in Africa is already under way (see <i>Agritrade</i> article ‘
+<a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Arla-launches-turnkey-milk-powder-packaging-facility-in-Cote-d-Ivoire" target="_blank">Arla launches turnkey milk powder packaging facility in Cote d’Ivoire</a>’, 27 October 2013).</p><p>This may require ACP governments to develop targeted strategies for fostering the development of EU corporate investment and trade relationships in ways that support local dairy sector development.</p>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/EC-reviews-experience-of-strengthening-dairy-supply-chains">EC reviews experience of strengthening dairy supply chains </a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/The-expanding-EU-dairy-herd-and-the-growing-importance-of-overseas-markets-including-in-Africa">The expanding EU dairy herd and the growing importance of overseas markets, including in Africa</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/UK-retailers-milk-price-war-imminent">UK retailers’ milk price war imminent?</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/EU-dairy-sector-investments-continue-to-target-export-markets">EU dairy sector investments continue to target export markets</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Dairy/Good-prospects-for-EU-dairy-exports-but-growing-competition">Good prospects for EU dairy exports but growing competition </a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl" />
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":156,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

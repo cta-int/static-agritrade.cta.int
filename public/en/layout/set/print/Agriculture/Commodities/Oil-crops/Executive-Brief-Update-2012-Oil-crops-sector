@@ -1,0 +1,1201 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- /en/layout/set/print/layout/set/print -->
+
+	
+                                        
+	<title>Executive Brief Update 2012: Oil crops sector / Oil crops / Commodities / Agriculture / Home - Technical Centre for Agricultural and Rural Cooperation ACP-EU (CTA)</title>
+
+	<!-- meta tags [ -->
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+				
+
+	
+			<meta name="author" content="Contactivity | 2011 | http://www.contactivity.com"/>
+	
+			<meta name="copyright" content="CTA - Agritrade"/>
+	
+				
+				
+		<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+		<meta name="generator" content="eZ publish"/>
+
+	<!-- ] meta tags -->
+
+	<!-- favicon [ -->
+		<link rel="shortcut icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+		<link rel="icon" href="/extension/agritrade/design/agritrade/images/favicon.ico"/>
+
+		
+	<!-- ] favicon -->
+
+
+     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+	
+
+<!-- rss/xml [ -->
+		<link rel="alternate" title="Agritrade.cta.int" href="http://agritrade.cta.int/layout/set/custom_rss/Publications/(from)//(until)//(sortby)/date/(search)/simple/(nodeid)/2/(pubtype)/7760-7761-7762-7763-7764-7765" type="application/rss+xml"/>
+	
+<!-- ] rss/xml -->
+
+<!-- styles [ -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/print.css" media="print">
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/global.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/socialize/design/socialize/stylesheets/socialize.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/prettyPhoto.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/personal.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/community.css"/>
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/js/dateinput/dateinput.css"/>
+
+
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css" media="print">
+
+
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/blueprint/ie.css" media="screen, projection"><![endif]-->
+<!-- ] styles -->
+
+<!-- javascript [ -->
+	<!-- HTML5 will assume <script> as text/javascript! :) -->
+	<script src="/extension/agritrade/design/agritrade/js/modernizr-1.7.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/innershiv.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.1-5.min.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.cookie.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.pngFix.pack.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.easy-slider.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/jquery.prettyPhoto.js"></script>
+	<script src="/extension/agritrade/design/agritrade/js/dateinput/jquery.dateinput.min.js"></script>
+
+	
+	
+	<!-- facebook -->
+
+	<meta property="og:title" content=""/>
+    <meta property="og:image" content="http://agritrade.cta.int/extension/agritrade/design/agritrade/images/agritrade.png"/>
+
+	<!-- facebook -->
+
+<!-- ] javascript -->
+	<link rel="stylesheet" type="text/css" href="/extension/agritrade/design/agritrade/stylesheets/print.css"/>
+</head>
+<body id="home" onload="window.print();">
+<div id="wrapper" class="print">
+	<div id="mainCntr">
+			<img src="/extension/agritrade/design/agritrade/images/logo.jpg" alt="agritrade"/>
+			<div class="logo">
+				<h1><img src="/extension/agritrade/design/agritrade/images/agritrade.png" alt="agritrade"/></h1>
+				<h2 class="subline">Informed Analysis, Expert Opinions</h2>
+			</div>
+
+		<article>
+			<h6 class="datestamp">
+				
+			</h6>
+			<hr/>
+
+				
+<section class="content">
+
+	<nav>
+		<div class="left">
+													<img src="/extension/agritrade/design/agritrade/images/pubtypes/briefs.gif" alt=""/>
+					
+
+		</div>
+
+		
+		
+
+		
+																																						
+		
+		<div class='contentrealtionlist'>
+							
+																																																																																																														
+								<a href="/en/layout/set/print/Publications/(regions)/7769/(search)/simple">All ACP</a>
+																																																																																																																																																																																												
+																																																																																																																																																																																																																,
+
+							<a href="/en/layout/set/print/Agriculture/(commodities)/7803/(search)/simple">Oil crops</a>
+							
+																																																																																																																																																																													
+							
+							
+		</div>
+		
+		
+
+		<div class="clear"></div>
+	</nav>
+
+	<article>
+
+		<header>
+			
+			<h1>Executive Brief Update 2012: Oil crops sector</h1>
+
+						<div class="pdf-file">
+				<a href="/en/layout/set/print/content/download/74804/1212868/file/f1a131b3fd2a9995c937cd6c65a58a38.pdf">Download <img src="/extension/agritrade/design/agritrade/images/pdf.gif" alt=""/></a>
+			</div>
+			
+			<h4>
+												28 November 2012
+										</h4>
+
+					</header>
+
+
+				<div class="intro">
+
+						<p><b>About this update</b>&nbsp;</p><p>This brief was updated in October 2012 to reflect developments since November 2011. The 2011 publication was based on a fuller briefing published in March 2010, and is available on request from 
+<a href="mailto:agritrade-mail@cta.int" target="_self">agritrade-mail@cta.int</a></p><p>Other publications in this series and additional resources on ACP–EU agriculture and fisheries trade issues can be found online at 
+<a href="http://agritrade.cta.int/" target="_self">http://agritrade.cta.int/</a>&nbsp;&nbsp;</p>
+
+		</div>
+		
+		
+					<a name="eztoc1212857_0_1" id="eztoc1212857_0_1"></a><h3>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Background and key issues</h3><p>Oil crops can be divided into two types: crops with a high protein content, generally but not solely used as animal feed – for example, soybean, rapeseed and sunflower – and crops grown primarily for human consumption, i.e. palm oil. Palm oil is the oil most widely consumed, as well as the most competitive, and it is also increasingly used for energy purposes (biodiesel).</p><p>ACP countries, mainly in West Africa and the Pacific, produce four of the world's seven major oil crops – palm oil kernels, groundnuts, cottonseed and coconuts. However, whether as growers or exporters, these countries play only a marginal role on world markets. They also face competition, in Europe, traditionally their major customer, as well as in their domestic markets, from the low-cost palm oil of South-East Asia (Malaysia and Indonesia), which dominates the market. Only Papua New Guinea (PNG) is managing to maintain its ranking (third) among the leading suppliers of palm oil to the EU, its major customer. From a leading position in the 1950s and 1960s, the countries of West and Central Africa have since almost completely disappeared from the palm oil market, but investment is now increasing again to rehabilitate the sector. Nigeria, followed bySenegal, are the most significant ACP producers of groundnuts, but together they only account for roughly 10% of world production.</p><p>The EU is a net importer of vegetable oils, producing only 25% of its total consumption and drawing the balance largely from Indonesia and Malaysia. ACP countries do not benefit from any trade preferences for oilseeds on the EU market, since imports enter duty free regardless of their place of origin. However, the EU imposes most favoured nation (MFN) duties of up to 12.8% on vegetable oils, so ACP countries do retain an advantage in this sector. Following the 2003 CAP reform, oil crops have been incorporated into the non-crop-specific single-payment system and derive no benefit from intervention purchase, export refunds or any other form of European support.</p><p>Adopted in April 2009, Directive 2009/28/EC requires each member state to generate 10% of its transport-related energy consumption from renewable resources by 2020. Special aid for energy crops was introduced as part of the 2003 CAP reform, and in 2007 a bonus of €45 per hectare was introduced, later abolished in 2010. With other Asian and American countries adopting similar targets, demand for oil crops is set to grow, with biodiesel production predicted to account for 15% of world vegetable oil consumption, up from 10% in 2008–2010. ACP producers of palm oil could benefit from this extra demand, although not as much as the two Asian giants, and a number of projects have been launched, particularly in Mozambique and Tanzania.</p><p>Several NGOs have run campaigns highlighting the environmental impacts of palm oil production, particularly in Malaysia, among them deforestation and loss of biodiversity. In consequence, several agri-food industries are now promoting sustainable palm oil, certified by the Roundtable on Sustainable Palm Oil (RSPO). In Papua New Guinea, sustainable production has been developed using investment from New Britain Palm Oils Limited (NBPOL), the world's largest producer of certified sustainable palm oil, which manages a plantation of approximately 44,000 hectares in the country.</p><a name="eztoc1212857_0_2" id="eztoc1212857_0_2"></a><h3>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Latest developments</h3><p><b>2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The international market for oil crops in 2011/12</b></p><p>The international market for oil crops is under pressure in 2011/12, as demand for oilseeds will exceed supply. With demand continuing to grow, the result of this production gap, accompanied for the first time by a simultaneous decline in the output of two key oils, soybean and rapeseed, will be lower stocks.</p><p><b>Production </b></p><p>The upward trend in world oilseed production (soybean, cottonseed, groundnut, sunflower, rapeseed, palm kernel and copra), apparent for several years, will tail off in 2011/12, with output settling at 442.7 million tonnes. This reverse is largely the result of a collapse in soybean production, at its lowest level for 3 years, caused in particular by severe drought in the southern hemisphere.</p><p>Rapeseed apart, output of other seed crops was stable or on the increase, but this was insufficient to compensate for the shortfall in soybeans. In fact, production of sunflower seeds reached record levels due to an expansion of the planted area, particularly in Russia and the Ukraine, and to good weather, more than offsetting falls in the United States, Argentina and Africa.</p><p>For 2012/13, the US Department of Agriculture predicts a net recovery in oilseed production to a level of 470 million tonnes. Soybeans should perform particularly strongly, with a 15% increase in output estimated both for South America and the United States.</p><p><b>Table 1: World oil crop production and principal producers (millions of tonnes)</b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="160" valign="top">  &nbsp;
+  </td><td width="101" valign="top">  <b>2009/10</b>
+  </td><td width="107" valign="top">  <b>2010/11</b>
+  </td><td width="103" valign="top">  <b>2011/12*</b>
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  <b>Opening stocks</b>
+  </td><td width="101" valign="top">  58.20
+  </td><td width="107" valign="top">  77.70
+  </td><td width="103" valign="top">  88.70
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  <b>Soybean</b>
+  </td><td width="101" valign="top">  259.96
+  </td><td width="107" valign="top">  265.79
+  </td><td width="103" valign="top">  236.85
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  United States
+  </td><td width="101" valign="top">  91.42
+  </td><td width="107" valign="top">  90.61
+  </td><td width="103" valign="top">  83.17
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  Brazil
+  </td><td width="101" valign="top">  68.69
+  </td><td width="107" valign="top">  75.32
+  </td><td width="103" valign="top">  65.80
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  Argentina
+  </td><td width="101" valign="top">  53.80
+  </td><td width="107" valign="top">  49.20
+  </td><td width="103" valign="top">  40.50
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  China
+  </td><td width="101" valign="top">  14.98
+  </td><td width="107" valign="top">  15.08
+  </td><td width="103" valign="top">  13.60
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  India
+  </td><td width="101" valign="top">  8.40
+  </td><td width="107" valign="top">  9.50
+  </td><td width="103" valign="top">  10.50
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  <b>Sunflower</b>
+  </td><td width="101" valign="top">  33.27
+  </td><td width="107" valign="top">  33.51
+  </td><td width="103" valign="top">  38.92
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  Russia
+  </td><td width="101" valign="top">  6.60
+  </td><td width="107" valign="top">  5.72
+  </td><td width="103" valign="top">  9.40
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  Ukraine
+  </td><td width="101" valign="top">  7.30
+  </td><td width="107" valign="top">  8.00
+  </td><td width="103" valign="top">  9.20
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  EU27
+  </td><td width="101" valign="top">  7.00
+  </td><td width="107" valign="top">  7.01
+  </td><td width="103" valign="top">  8.19
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  Argentina
+  </td><td width="101" valign="top">  2.65
+  </td><td width="107" valign="top">  3.67
+  </td><td width="103" valign="top">  3.60
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  <b>Rapeseed</b>
+  </td><td width="101" valign="top">  61.34
+  </td><td width="107" valign="top">  60.69
+  </td><td width="103" valign="top">  59.44
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  EU27
+  </td><td width="101" valign="top">  21.73
+  </td><td width="107" valign="top">  20.61
+  </td><td width="103" valign="top">  19.12
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  Canada
+  </td><td width="101" valign="top">  12.89
+  </td><td width="107" valign="top">  13.10
+  </td><td width="103" valign="top">  14.50
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  China
+  </td><td width="101" valign="top">  13.30
+  </td><td width="107" valign="top">  12.20
+  </td><td width="103" valign="top">  11.60
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  India
+  </td><td width="101" valign="top">  6.00
+  </td><td width="107" valign="top">  7.10
+  </td><td width="103" valign="top">  5.80
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  <b>Groundnuts</b>
+  </td><td width="101" valign="top">  25.55
+  </td><td width="107" valign="top">  25.79
+  </td><td width="103" valign="top">  25.97
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  China
+  </td><td width="101" valign="top">  10.34
+  </td><td width="107" valign="top">  10.00
+  </td><td width="103" valign="top">  10.50
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  India
+  </td><td width="101" valign="top">  3.55
+  </td><td width="107" valign="top">  4.09
+  </td><td width="103" valign="top">  4.15
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  Nigeria
+  </td><td width="101" valign="top">  2.08
+  </td><td width="107" valign="top">  1.85
+  </td><td width="103" valign="top">  2.25
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  <b>Coconut</b>
+  </td><td width="101" valign="top">  5.82
+  </td><td width="107" valign="top">  4.80
+  </td><td width="103" valign="top">  5.21
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  Philippines
+  </td><td width="101" valign="top">  2.68
+  </td><td width="107" valign="top">  1.70
+  </td><td width="103" valign="top">  2.03
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  Indonesia
+  </td><td width="101" valign="top">  1.44
+  </td><td width="107" valign="top">  1.40
+  </td><td width="103" valign="top">  1.45
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  <b>Palm</b>
+  </td><td width="101" valign="top">  11.72
+  </td><td width="107" valign="top">  12.75
+  </td><td width="103" valign="top">  13.19
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  Indonesia
+  </td><td width="101" valign="top">  5.38
+  </td><td width="107" valign="top">  5.84
+  </td><td width="103" valign="top">  6.20
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  Malaysia
+  </td><td width="101" valign="top">  4.29
+  </td><td width="107" valign="top">  4.71
+  </td><td width="103" valign="top">  4.71
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  <b>Total production </b>
+  </td><td width="101" valign="top">  <b>436.8</b>
+  </td><td width="107" valign="top">  <b>446.60</b>
+  </td><td width="103" valign="top">  <b>426.20</b>
+  </td>
+</tr>
+
+<tr>
+<td width="160" valign="top">  <b>Closing stocks </b>
+  </td><td width="101" valign="top">  77.70
+  </td><td width="107" valign="top">  88.70
+  </td><td width="103" valign="top">  66.20
+  </td>
+</tr>
+
+</table>
+<p>Note: * projected</p><p>Source: Oil World</p><p><b>Consumption</b></p><p>Rising population and rising incomes, concomitant increases in the consumption of meat and fats, and the development of biodiesel, all continue to underpin demand for oil crops.</p><p>Despite the global economic crisis, world demand for the eight main vegetable oils (palm, soybean, sunflower, rapeseed, groundnut, coconut, palm kernel and cottonseed) remains robust, showing a 4% increase. Supply of these eight oils in 2011/12, as in previous years, continued to match demand, apart from soybean oil and, to a lesser extent, rapeseed oil. Sunflower oil showed the highest level of growth, with soybean oil performing less well. Accounting for 34.4% of global consumption, palm oil remains top among vegetable oils, with production at record levels. Nevertheless, a slowdown in the average rate of growth is becoming apparent, and this trend is expected to continue over future years because farming practices are sub-optimal and some of the oil palms in Indonesia and Malaysia (together responsible for 85% of world production) are aging. As many as 25% of Malaysia's trees are now over 25 years old, and it takes between 3 and 4 years for new plants to become productive.</p><p>China confirmed its position as the world's leading consumer of vegetable oils, with demand rising by 3% in 2011/12 to 28.13 million tonnes. It is followed by the EU, India, the United States, Indonesia and Brazil.</p><p>Demand for biodiesel has slowed slightly, but nevertheless continues its upward trend. Oil World forecasts that biodiesel production will reach 23.2 million tonnes in 2012, a rise of only 1.5 million tonnes, compared with increases of 3.4 million tonnes in 2011 and 2 million tonnes in 2010. Soybean oil has become the main biodiesel feedstock, representing one third of all feedstocks.</p><p><b>Table 2: World oilseed consumption (millions of tonnes)</b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="251" valign="top">  &nbsp;
+  </td><td width="91" valign="top">  <b>2009/10</b>
+  </td><td width="106" valign="top">  <b>2010/11</b>
+  </td><td width="99" valign="top">  <b>2011/12*</b>
+  </td>
+</tr>
+
+<tr>
+<td width="251" valign="top">  Soybean
+  </td><td width="91" valign="top">  239.50
+  </td><td width="106" valign="top">  254.60
+  </td><td width="99" valign="top">  258.00
+  </td>
+</tr>
+
+<tr>
+<td width="251" valign="top">  Sunflower
+  </td><td width="91" valign="top">  34.20
+  </td><td width="106" valign="top">  33.30
+  </td><td width="99" valign="top">  38.80
+  </td>
+</tr>
+
+<tr>
+<td width="251" valign="top">  Rapeseed
+  </td><td width="91" valign="top">  61.00
+  </td><td width="106" valign="top">  61.60
+  </td><td width="99" valign="top">  60.80
+  </td>
+</tr>
+
+<tr>
+<td width="251" valign="top">  Other (cotton, groundnut, coconut, palm)
+  </td><td width="91" valign="top">  82.50
+  </td><td width="106" valign="top">  86.20
+  </td><td width="99" valign="top">  91.10
+  </td>
+</tr>
+
+<tr>
+<td width="251" valign="top">  <b>Total</b>
+  </td><td width="91" valign="top">  <b>417.20</b>
+  </td><td width="106" valign="top">  <b>435.70</b>
+  </td><td width="99" valign="top">  <b>448.70</b>
+  </td>
+</tr>
+
+<tr>
+<td width="251" valign="top">  Closing stock
+  </td><td width="91" valign="top">  77.70
+  </td><td width="106" valign="top">  88.70
+  </td><td width="99" valign="top">  66.20
+  </td>
+</tr>
+
+</table>
+<p class=" text-left">Note: * projected</p><p class=" text-left">Source: Oil World</p><p><b>Table 3: World production and consumption of the main vegetable oils (millions of tonnes)</b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="146" valign="top">  &nbsp;
+  </td><td width="100" valign="top">  <b>2009/10</b>
+  </td><td width="100" valign="top">  <b>2010/11</b>
+  </td><td width="111" valign="top">  <b>2011/12*</b>
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  <b>Production</b>
+  </td><td width="100" valign="top">  <b>138.75</b>
+  </td><td width="100" valign="top">  <b>143.94</b>
+  </td><td width="111" valign="top">  <b>149.59</b>
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  &nbsp; Palm oil
+  </td><td width="100" valign="top">  46.06
+  </td><td width="100" valign="top">  49,12
+  </td><td width="111" valign="top">  51.49
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  &nbsp; Soybean oil
+  </td><td width="100" valign="top">  38.89
+  </td><td width="100" valign="top">  41,38
+  </td><td width="111" valign="top">  41.72
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  &nbsp; Sunflower oil
+  </td><td width="100" valign="top">  12.62
+  </td><td width="100" valign="top">  12,45
+  </td><td width="111" valign="top">  14.63
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  &nbsp; Rapeseed oil
+  </td><td width="100" valign="top">  23.75
+  </td><td width="100" valign="top">  23,62
+  </td><td width="111" valign="top">  23.64
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  <b>Consumption</b>
+  </td><td width="100" valign="top">  <b>138.11</b>
+  </td><td width="100" valign="top">  <b>143.87</b>
+  </td><td width="111" valign="top">  <b>149.67</b>
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  &nbsp; Palm oil
+  </td><td width="100" valign="top">  46.45
+  </td><td width="100" valign="top">  48.25
+  </td><td width="111" valign="top">  51.43
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  &nbsp; Soybean oil
+  </td><td width="100" valign="top">  38.03
+  </td><td width="100" valign="top">  41.68
+  </td><td width="111" valign="top">  42.28
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  &nbsp; Sunflower oil
+  </td><td width="100" valign="top">  12.94
+  </td><td width="100" valign="top">  12.59
+  </td><td width="111" valign="top">  14.27
+  </td>
+</tr>
+
+<tr>
+<td width="146" valign="top">  &nbsp; Rapeseed oil
+  </td><td width="100" valign="top">  23.23
+  </td><td width="100" valign="top">  24.04
+  </td><td width="111" valign="top">  23.7
+  </td>
+</tr>
+
+</table>
+<p class=" text-left">Note: * projected</p><p class=" text-left">Source: Oil World</p><p><b>Trade</b></p><p>Oil crops and vegetable oils are among the most widely traded of commodities, with over 40% of output sold on international markets. The United States, Brazil, Argentina and Canada dominate the export market, with China and the EU the main importers.</p><p>In recent years, several countries have started to develop their own seed-crushing industries, with a view to securing greater added value. Soybeans dominate the oilseed market, with the United States, Brazil and Argentine as the major exporters. Then comes rapeseed, although at one eighth the volume, with Canada, Australia and the Ukraine as the main producers.</p><p>Palm oil is the most widely traded of vegetable oils. Unlike soybeans, crushing must take place where the fruits are produced, which partly explains why 90% of the palm oil produced, mainly by Malaysia and Indonesia, is traded. A trade war may be in the offing with the decision of Indonesia, the world's leading producer of palm oil, to encourage the export of refined oil by reducing export duties from 23 to 10%. This decision has been vigorously contested by Malaysia, which specialises in refined oil, as well as by India (which has underused refinery capacity) and the Dutch Product Board for Margarine, Fats and Oils (MVO), which fears the supply of crude palm oil will be reduced.</p><p><b>Prices</b></p><p>After rising strongly between 2010 and 2011, oil crop prices slipped slightly in 2011, before picking up again in January 2012 to return to their previous high. Generally speaking, the average price of the most widely consumed oils fell between October and May, by comparison with the previous year. In May, the price of oil crops plummeted in parallel with that of most raw materials, due to external factors such as the global macroeconomic situation, the crisis of the euro, falling energy prices and the strengthening US dollar. However, prices still remain high, well above their 2008/2009 levels.</p><p>The fundamentals of the oil crop market are bullish, with supply tightening in relation to still buoyant demand. China in particular is confirming its position as the world's leading importer of vegetable oils and fats, with a volume estimated at 10.4 million tonnes in 2011/12. India is now hot on the heels of the EU, with imports forecast to reach a record 9.6 million tonnes, while those to the EU stagnate. Stocks of the seven main oilseed crops are falling sharply, reaching their lowest level for 3 years (66 million tonnes in 2011/12, a fall of 22 million tonnes from 2010/11). To a lesser extent, stocks of the eight main oils are also in decline.</p><p>Supply side tensions will continue at least until Latin American production becomes available to support oil crop prices in early 2013. Demand, however, could be affected by the economic crisis, particularly the difficulties in the Eurozone. Similarly, high prices should boost the planted area and so increase production, if good weather conditions prevail. However, this will not be a factor in the short term.</p><p>Two oils have followed a rather different trend. The price of groundnut oil doubled in a year, after falling production in Senegal and the United States left groundnuts in very short supply. The Argentinian harvest is expected to ease the situation. As for coconut oil, the Philippines, the world's leading producer, responsible for around 50% of global production, saw output fall by 30% in 2010/11. Prices rose sharply as a result, although they have since fallen back again.&nbsp;</p><p><b>Figure 1: Trends in the price of various vegetable oils (US cents/lb) </b></p>
+<div class="">		
+<div class="embed-image">
+<img border="0" src="/var/agritrade/storage/images/1/1221824-1-eng-GB/1_imagelarge.png" width="448" height="221"></div></div><p>Source: USDA, ‘Oilseeds: World Market and Trade’, May 2012</p><p><b>Figure 2: Trends in the price of palm oil and soybean oil (US cents/lb)</b></p>
+<div class="">		
+<div class="embed-image">
+<img border="0" src="/var/agritrade/storage/images/2/1221828-1-eng-GB/2_imagelarge.png" width="448" height="295"></div></div><p>Source: Oilseeds, oils &amp; meals,<i>&nbsp;monthly price and policy update</i>, FAO. Soybean oil, Netherlands FOB. Crude palm oil, CFA, north-west Europe.</p><p><b>2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developments in ACP countries</b></p><p>ACP countries play a minor role as producers and exporters of the seven main oil crops. However, foreign investors are looking to develop palm oil production in several African countries and a number of projects are under way, for example, in Cameroon, Liberia, Congo, Côte d’Ivoire and Gabon.</p><p><b>Table 4: Main ACP oil crop producers by country and crop in 2010 (tonnes)</b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="189" valign="top">  &nbsp;
+  </td><td width="91" valign="top">  <b>Palm</b>
+  </td><td width="87" valign="top">  <b>Groundnut</b>
+  </td><td width="84" valign="top">  <b>Coconut</b>
+  </td><td width="106" valign="top">  <b>Sesame seed</b>
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Burkina Faso
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  340,166
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  90,649
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Cameroon
+  </td><td width="91" valign="top">  1,575,000
+  </td><td width="87" valign="top">  460,000
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Côte d'Ivoire
+  </td><td width="91" valign="top">  1,500,000
+  </td><td width="87" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  DR Congo
+  </td><td width="91" valign="top">  1,163,580
+  </td><td width="87" valign="top">  371,263
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Ghana
+  </td><td width="91" valign="top">  2,004,300
+  </td><td width="87" valign="top">  530,087
+  </td><td width="84" valign="top">  297,900
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Ethiopia
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  314,000
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Guinea
+  </td><td width="91" valign="top">  830,000
+  </td><td width="87" valign="top">  291,700
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Mali
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  314,458
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Nigeria
+  </td><td width="91" valign="top">  8,500,000
+  </td><td width="87" valign="top">  2,636,230
+  </td><td width="84" valign="top">  170,000
+  </td><td width="106" valign="top">  115,586
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Niger
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  406,245
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Uganda
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  170,000
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Senegal
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  1,286,860
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Somalia
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  70,500
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Sudan
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  762,500
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  248,000
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Tanzania
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  394,400
+  </td><td width="84" valign="top">  590,000
+  </td><td width="106" valign="top">  48,000
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Chad
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  PNG
+  </td><td width="91" valign="top">  1,730,000
+  </td><td width="87" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  902,000
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Dominican Republic
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  95,000
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Fiji
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  170,100
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Solomon Islands
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  422,400
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Samoa
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  214,200
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  Vanuatu
+  </td><td width="91" valign="top">  &nbsp;
+  </td><td width="87" valign="top">  &nbsp;
+  </td><td width="84" valign="top">  349,000
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="189" valign="top">  <b>World total </b>
+  </td><td width="91" valign="top">  210,917,078
+  </td><td width="87" valign="top">  37,643,609
+  </td><td width="84" valign="top">  62,451,506
+  </td><td width="106" valign="top">  3,836,030
+  </td>
+</tr>
+
+</table>
+<p>&nbsp;Source: FAOSTAT</p><p>Palm oil and soybean oil, primarily from Malaysia, Indonesia and the United States, are the main oils imported by ACP countries, which brought in 2.7 million tonnes of palm oil in 2010, up from 1.7 million tonnes in 2005. As demonstrated in the table below, the last decade has seen imports grow considerably, particularly in Benin and Ethiopia. The increase in Benin is likely to be due to illegal re-exports to Nigeria, which has an import ban on refined palm oil.</p><p><b>Table 5: Main ACP palm oil importers and volumes imported (tonnes)</b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="94" valign="top">  <b>Importer</b>
+  </td><td width="80" valign="top">  <b>Average 2001–2003 </b>
+  </td><td width="80" valign="top">  <b>Average 2008–2010</b>
+  </td><td width="88" valign="top">  <b>Difference %</b>
+  </td>
+</tr>
+
+<tr>
+<td width="94" valign="top">  Kenya
+  </td><td width="80" valign="top">  329,397
+  </td><td width="80" valign="top">  479,797
+  </td><td width="88" valign="top">  +46
+  </td>
+</tr>
+
+<tr>
+<td width="94" valign="top">  South Africa
+  </td><td width="80" valign="top">  232,025
+  </td><td width="80" valign="top">  330,026
+  </td><td width="88" valign="top">  +42
+  </td>
+</tr>
+
+<tr>
+<td width="94" valign="top">  Benin
+  </td><td width="80" valign="top">  18,307
+  </td><td width="80" valign="top">  169,409
+  </td><td width="88" valign="top">  +825
+  </td>
+</tr>
+
+<tr>
+<td width="94" valign="top">  Tanzania
+  </td><td width="80" valign="top">  163,617
+  </td><td width="80" valign="top">  188,280
+  </td><td width="88" valign="top">  +15
+  </td>
+</tr>
+
+<tr>
+<td width="94" valign="top">  Ethiopia
+  </td><td width="80" valign="top">  12,730
+  </td><td width="80" valign="top">  188,411
+  </td><td width="88" valign="top">  +1,380
+  </td>
+</tr>
+
+<tr>
+<td width="94" valign="top">  Uganda
+  </td><td width="80" valign="top">  54,191
+  </td><td width="80" valign="top">  183,443
+  </td><td width="88" valign="top">  +239
+  </td>
+</tr>
+
+</table>
+<p>Source: International Trade Centre, based on UN Comtrade data</p><p><b>Developments in the Caribbean</b></p><p>In Suriname, a state-run factory and palm oil mills, officially closed in 2004, are due for rehabilitation thanks to a US$4.5-miilion investment by the Chinese company China Zhaon Hen Tai, guaranteed by the Chinese government. Palm oil processing is planned to begin in 2 years' time (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Oil-crops/Suriname-s-palm-oil-sector-to-be-rehabilitated" target="_self">Suriname's palm-oil sector to be rehabilitated</a>’, 5 July 2011).</p><p><b>Developments in West and Central Africa</b></p><p>Investor interest in West and Central Africa as a base for palm oil production is increasing. Demand remains high (growing by 3% a year), and in Asia, particularly in Malaysia, opportunities to extend the planted area are few.</p><p>In West Africa, US$6 billion has been invested by companies like Sime Darby and Wilmar International between 2009 and 2011. Since then, further investments have taken place in Sierra Leone (45,000 hectares) and Liberia (450,000 hectares) (see <i>Agritrade</i> articles ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Oil-crops/Malaysian-group-Sime-Darby-invests-in-palm-oil-in-Liberia" target="_self">Malaysian group Sime Darby invests in palm oil in Liberia</a>’, 9 August 2011 and ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Oil-crops/New-era-dawning-for-palm-oil-producers" target="_self">New era dawning for palm oil producers</a>’, 6 February 2012).</p><p>In Central Africa, the Singaporean group Olam has managed to secure almost 300,000 hectares in Gabon, and other projects are under way, notably in Liberia, Cameroon, Congo, Zambia and the Democratic Republic of Congo.</p><p>Palm oil production in West and Central Africa should therefore grow significantly over time. In Côte d’Ivoire, it is already up by 120,000 tonnes in 5 years, reaching 400,000 tonnes in 2011, a 21% increase over 2010. In Nigeria, production is growing steadily (915,000 tonnes in 2011/12), but is still unable to match rising domestic demand (1.773 million tonnes in 2011/12).</p><p>Senegal, the world's leading exporter of groundnut oil, has seen production fall by more than half in 2011/12, due to drought and a reduction in the area under cultivation. Although Senegal sends the majority of its exports to the EU, the country has successfully diversified its markets over the last 3 years and is now exporting large volumes of groundnut oil to Libya.</p><p><b>Developments in East and Southern Africa&nbsp;</b></p><p>With prices recovering and less planting of corn, South Africa predicts an expansion of the area devoted to oil crops in 2011/12, particularly for sunflower seeds and soybeans, as the country turns increasingly from the former to the latter. With its shortage of crushing capacity, South Africa exports its seed crops, but efforts are under way to stimulate investment in this area, particularly by keeping import duties in force.&nbsp;</p><p>In addition, rising demand for soybeans and soybean meal over recent years has benefited European exporters of soybean oil, largely due to their duty-free access to the South African market (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Oil-crops/Review-of-South-African-oil-crops-sector" target="_self">Review of South African oil crops sector</a>’, 5 July 2011).</p><p><b>Developments in the Pacific&nbsp;</b></p><p>Palm oil production in the Pacific has grown by 50% in 10 years, standing today at over 550,000 tonnes (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Oil-crops/Palm-oil-prospects-looking-good-in-Papua-New-Guinea" target="_self">Palm oil prospects looking good in Papua New Guinea</a>’, 10 June 2011). Exports have increased in parallel, reaching 555,000 tonnes in 2011, 95% heading to the EU and 5% to Malaysia, second among PNG's export markets since 2005.</p><p>NBPOL has announced plans to build a twelfth palm oil refinery, adding 300,000 tonnes of palm fruit bunches a year to the company's production capacity (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Oil-crops/Sustainable-palm-oil-still-ahead-of-canned-tuna-in-Papua-New-Guinea-trade-with-EU" target="_self">Sustainable palm oil still ahead of canned tuna in Papua New-Guinea trad...</a>’, 31 March 2012).&nbsp;</p><p><b>2.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The European market in 2011/12</b></p><p><b>Trends in production, consumption and trade</b></p><p>European oilseed production rose slightly in 2011/12 to reach 29.18 million tonnes, up from 29.11 million tonnes in 2010/11. With domestic output falling by 1.49 million tonnes, Europe increased its imports of rapeseed and for the past 2 years has been the world's leading rapeseed importer.&nbsp;</p><p>After more than doubling since the end of the 1980s, Europe's consumption of oils and fats fell for the second successive year. This was almost wholly due to a decline in the use of oils and fats for energy generation, consumption for food purposes remaining stagnant. The EU remains the world's biggest producer of biodiesel, but production levels are predicted to drop in 2012 to 9 million tonnes. The fall in European biodiesel production is partly due to an increased offer of soybean methyl ester from Argentina and palm methyl ester from Indonesia, significant quantities being exported to Europe.</p><p>With an estimated 9.9 million tonnes in 2011/12, the EU continues to rank second among world importers of vegetable oils and fats. Palm oil accounts for almost 60% of this total (5.7 million tonnes in 2011/12, a rise of 4.1%).</p><p><b>EU policy developments in 2011/12</b></p><p>While oilseeds, irrespective of origin, can enter EU markets duty free, the EU imposes MFN duties on oilseed-derived oils, meals and flours, varying from 0 to 12.8% dependent on the amount of processing involved (see Table 6). However, ACP countries are also exempt from customs duties on these processed products and so are still benefiting from trade preferences.&nbsp;</p><p><b>Table 6: EU MFN import tariffs on oilseed-derived oils, meals and flours </b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="373" valign="top">  <b>Product (SH code)</b>
+  </td><td width="121" valign="top">  <b>Import tariff (%)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="373" valign="top">  Soybean meal and flour (120810)
+  </td><td width="121" valign="top">  4.5
+  </td>
+</tr>
+
+<tr>
+<td width="373" valign="top">  Soybean oil and its fractions (1507)
+  </td><td width="121" valign="top">  3.2–9.6
+  </td>
+</tr>
+
+<tr>
+<td width="373" valign="top">  Groundnut oil and its fractions (1508)
+  </td><td width="121" valign="top">  0–9.6
+  </td>
+</tr>
+
+<tr>
+<td width="373" valign="top">  Palm oil and its fractions (1511)
+  </td><td width="121" valign="top">  0–12.8
+  </td>
+</tr>
+
+<tr>
+<td width="373" valign="top">  Coconut (copra) oil and its fractions (151311)
+  </td><td width="121" valign="top">  2.5–12.8
+  </td>
+</tr>
+
+<tr>
+<td width="373" valign="top">  Palm kernel oil or babassu oil and fractions thereof (151321)
+  </td><td width="121" valign="top">  3.2–12.8
+  </td>
+</tr>
+
+</table>
+<p>Source: Export Helpdesk</p><p>The MVO, supported by the RSPO, has announced that it intends to argue forcefully for the EU to exempt sustainable palm oil from all import tariffs, currently applied at a rate of 3.8% for the crude product. According to the MVO, abolishing this duty 'will serve to offset most of the additional costs inherent in the production of sustainable oil and will allow the removal of a major barrier on the European market.'</p><p>Agro-fuel production is growing in the wake of the EU's 2009 directive mandating a 10% share for renewables in energy consumption for transport purposes by 2020. By early 2012, around 380 biofuel plants were operating in Europe, with a capacity of 1,055 petajoules, the largest projects being in Finland and Germany. Ecoprog also forecasts another 40 new projects, with additional capacity of 100 petajoules, mainly in second generation ethanol and biodiesel.</p><p>After lying dormant for several years, debate is now intensifying over the role of biodiesel in alleviating climate change. The sustainability of biofuels is under attack, and the indirect changes in land use linked to biofuel development are also increasingly questioned. With the amount of investment made and the cost of biofuels to the consumer, this is a particularly sensitive issue, and no decision has been reached to date.&nbsp;</p><p>The European Commission has already adopted a number of criteria and has recognised the seven voluntary sustainability schemes or standards (ISCC, Bonsucro EU, RTRS EU RED, RSB EU RED, 2BSvs, RSBA and Greenergy). In 2007, in its directive on renewable energy, the EU also recognised the standard put forward by the Roundtable on Sustainable Biofuels (RSB), located within the Energy Centre of the École Polytechnique Fédérale de Lausanne (EPFL) in Switzerland.</p><p><b>2.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The oil crops trade between the ACP and the EU and related issues</b></p><p>Although European demand for oil crops is very high, the palm oil market is dominated by Asia and the soybean market by America, so the levels of import and export trade in oil crops between the EU and the ACP remain small. However, for some countries, oil crops form a high proportion of exports to the EU. This is particularly true of palm oil for PNG and the Solomon Islands, and groundnuts for Senegal.</p><p>ACP countries, in particular PNG, supply 12% of the European palm oil market. Not only has PNG managed to maintain its share of the European market over the last decade (between 8 and 11% of European imports), it has also increased its exports by 46% over the same period, to around 500,000 tonnes in 2011. However, PNG ranks only third among EU suppliers, far behind Malaysia and Indonesia, which in 2011 supplied 77% of the EU market, and which have increased their exports by 16 and 128% respectively in 10 years. The Solomon Islands, whose exports have grown from small beginnings of 1,000 tonnes in 2006 to almost 29,000 tonnes today, now rank second among ACP suppliers. Exports from West and Central Africa are still relatively weak and vary from year to year. Côte d’Ivoire has performed strongly in recent years, but the political crisis has seen its exports to the EU tumbling to only 12,000 tonnes, down from 70,000 tonnes in 2010.</p><p>The EU's main suppliers of coconut oil are Indonesia and the Philippines, who accounted for almost 80% of the market in 2011, ACP countries taking an 8% share. The leading ACP supplier was PNG, whose exports fell slightly in 2011, while those of Vanuatu declined by nearly two-thirds.</p><p>With 55% of the market, Senegal was the EU's leading supplier of groundnut oil in 2011. If Gambia is added, this figure climbs to 64%, with the balance supplied by Argentina (13%) and Brazil (17%). However, the share of the market supplied by Senegal and Gambia has varied considerably over the past decade, from a low of 21% in 2009 to a high of 83% (in 2001). Following this year's collapse in groundnut production, Senegal is likely to export only 34,000 tonnes to the EU in 2011/12, down from 77,000 in 2010/11, and the country will lose its first place to Argentina. It should be noted that EU imports of groundnut oil are declining steadily, with volumes cut by half over the last decade.</p><p>European imports of sesame oil have been growing steadily over the past 3 years, up 7% in 2010 and 19% in 2011, but ACP countries have largely been excluded. They are better placed in the export of sesame seeds, with Sudan and Ethiopia the main suppliers. However, those exported from ACP countries are destined in the main for China.</p><p><b>Table 7: EU vegetable oil imports from ACP countries (2011, tonnes)</b></p><table class="renderedtable" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="145" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  <p class=" text-center"><b>Palm oil</b></p><p class=" text-center"><b>(1511)</b></p>
+  </td><td width="106" valign="top">  <p class=" text-center"><b>Coconut oil</b></p><p class=" text-center"><b>(151311)</b></p>
+  </td><td width="106" valign="top">  <p class=" text-center"><b>Palm kernel oil</b></p><p class=" text-center"><b>(151321)</b></p>
+  </td><td width="106" valign="top">  <b>Groundnut oil (1508)</b>
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Benin
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  395
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Cameroon
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  2
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Congo
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Côte d'Ivoire
+  </td><td width="106" valign="top">  11,661
+  </td><td width="106" valign="top">  1,253
+  </td><td width="106" valign="top">  12,932
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Fiji
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  0.6
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Gambia
+  </td><td width="106" valign="top">  12
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  7,148
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Gabon
+  </td><td width="106" valign="top">  314
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  169
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Ghana
+  </td><td width="106" valign="top">  2,132
+  </td><td width="106" valign="top">  4
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  43
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Guinea
+  </td><td width="106" valign="top">  177
+  </td><td width="106" valign="top">  17
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Guinea-Bissau
+  </td><td width="106" valign="top">  5
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Haiti
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Kenya
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  8
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Liberia
+  </td><td width="106" valign="top">  1,134
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Mali
+  </td><td width="106" valign="top">  5
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Nigeria
+  </td><td width="106" valign="top">  36
+  </td><td width="106" valign="top">  11
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  PNG
+  </td><td width="106" valign="top">  518,252
+  </td><td width="106" valign="top">  33,879
+  </td><td width="106" valign="top">  39,539
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Solomon Islands
+  </td><td width="106" valign="top">  28,909
+  </td><td width="106" valign="top">  7
+  </td><td width="106" valign="top">  3,353
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Dominican Republic
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  132
+  </td><td width="106" valign="top">  16
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Samoa
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  9
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  São Tomé and Principe
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  75
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Senegal
+  </td><td width="106" valign="top">  64
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  41,532
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Sierra Leone
+  </td><td width="106" valign="top">  39
+  </td><td width="106" valign="top">  6
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Togo
+  </td><td width="106" valign="top">  19
+  </td><td width="106" valign="top">  0
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  Vanuatu
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  2,314
+  </td><td width="106" valign="top">  &nbsp;
+  </td><td width="106" valign="top">  &nbsp;
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  <b>Total ACP countries</b>
+  </td><td width="106" valign="top">  562,758
+  </td><td width="106" valign="top">  37,716
+  </td><td width="106" valign="top">  56,406
+  </td><td width="106" valign="top">  48,722
+  </td>
+</tr>
+
+<tr>
+<td width="145" valign="top">  <b>Total EU imports </b>
+  </td><td width="106" valign="top">  4628,145
+  </td><td width="106" valign="top">  616,568
+  </td><td width="106" valign="top">  467,741
+  </td><td width="106" valign="top">  76,485
+  </td>
+</tr>
+
+</table>
+<p>Source: Export Helpdesk</p><a name="eztoc1212857_0_3" id="eztoc1212857_0_3"></a><h3>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implications for ACP countries</h3><p><b>3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The issue of trade preference erosion</b></p><p>The government of PNG recently ‘expressed its anxiety over the possible future erosion of its trade preferences for palm oil’ (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Oil-crops/Sustainable-palm-oil-still-ahead-of-canned-tuna-in-Papua-New-Guinea-trade-with-EU" target="_self">Sustainable palm oil still ahead of canned tuna in Papua New-Guinea trad...</a>’, 31 March 2012). In 2012, the EU is due to conclude its negotiations over a free-trade agreement with Malaysia, begun in 2010, and negotiations with Indonesia are expected to start shortly. This would imply the abolition of duties imposed on exports from these two countries, which are already very competitive and dominate the palm oil market.</p><p>Similarly, the granting of duty-free access to EU markets for sustainable palm oil, as demanded in some quarters, would also mean an erosion of trade preferences for ACP exporters.</p><p>PNG and the Solomon Islands currently export a significant quantity of palm oil to the EU, due partly their preferential position on the European market. It should be noted that in 2010 exports of palm oil accounted for 62.5% of these two countries’ total exports to the EU. In addition, the investments currently being made in West Africa and Central Africa could allow the countries involved to increase their share of the European market.</p><p>The EC has responded to these fears by confirming that any erosion of preferences would be progressive, allowing PNG's industries opportunity to adapt. In terms of this issue, it would be helpful to develop targeted strategies to deal with specific instances of preference erosion and to obtain EC help to implement them. Such strategies could include the development of measures designed to help ACP exporters reposition themselves in the market, perhaps towards third-country markets or towards differentiated segments of the EU market, such as certified sustainable or fair-trade oils.</p><p><b>3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sustainable production of oils</b></p><p>At a little over 6 million tonnes, RSPO-certified oil represents 12% of current total palm oil output. Indonesia accounts for 46% of the area under cultivation, Malaysia 42%, PNG 7%, Brazil 2.7%, the Solomon Islands 0.5%, Colombia 0.4% and Côte d’Ivoire 0.7%, while Africa's first RSPO certification was obtained in 2012 by the firm Agrivar Agro Industrie Variée. In addition, the Belgian investors SIAT and their Singaporean counterparts Olam have agreed to produce RSPO oil in Gabon.&nbsp;</p><p>This market is predicted to grow, offering potential opportunities to ACP countries. The British firm NBPOL, which has set up partnerships with firms like Ferrero or Stephenson and which imports sustainable palm oil from PNG, has recently set up a refinery on site. By positioning itself within this niche market and achieving vertical integration of the whole supply chain, PNG has maintained its share of the European market in a less competitive environment than that for mainstream palm oil.</p><p>Trade relations between the ACP and the EU present two major issues: the potential use of customs duties to favour the import of certified sustainable palm oil, and the development and application of quality standards which encourage the use of certified sustainable palm oil in foodstuffs.&nbsp;</p><p>These quality standards could be modelled on the sustainability criteria applied under the Renewable Energy Directive, which deals with oil crop use in biofuel production. Policy developments in this area could stimulate the uptake of the certified sustainable palm oil available on the market, encourage an expansion in sustainably produced supplies and promote a move towards certification systems which progressively eliminate 'unacceptable sources' of supply (see <i>Agritrade</i> article ‘
+<a href="http://agritrade.cta.int/Agriculture/Commodities/Oil-crops/Policy-challenges-linked-to-slow-take-up-of-sustainable-palm-oil-production" target="_self">Policy challenges linked to slow take-up of sustainable palm oil production</a>’, 7 January 2012).</p><p><b>3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Regional trade in oil crops</b></p><p>The African continent is a net importer of oil crops. West Africa alone has an estimated deficit in vegetable oil of around 1.5 million tonnes – Nigeria, for example, produces only around 1.5 million tonnes of the 2.5 million tonnes it consumes. In recent years Nigeria has imposed import restrictions on vegetable oils, although its import ban on crude oils was lifted early in 2009. As an ECOWAS member, Nigeria is allowed to import duty free, facilitating trade with neighbouring countries like Côte d’Ivoire. Nevertheless, a substantial proportion of its vegetable oil needs continue to be met by unauthorised re-exports of palm oil from its neighbours, a practice which has developed as a consequence of the import ban on refined oils which remains in force.&nbsp;</p><p>Overall, members of WAEMU and ECOWAS impose customs duties of 20% (plus 18% VAT) on imported vegetable oils. Potential conflicts of interest notwithstanding, they therefore have every incentive to develop regional trade. Senegal exports its groundnut oil outside Africa, so the only country currently in a position to increase its trade is Côte d’Ivoire, where domestic consumption of palm oil is roughly half the country's total output of approximately 500,000 tonnes. And change does appear to be taking place. Rising production is allowing Côte d’Ivoire to increase its palm oil exports (254,000 tonnes in 2011, up from 96,000 tonnes in 2008) while at the same time developing its regional markets. Côte d’Ivoire has tripled its palm oil exports to West Africa in 4 years, but its exports to the EU have fallen. The latter declined from 89,000 tonnes in 2009 to 22,000 tonnes in 2011, while exports to West Africa rose from 91,000 tonnes to 216,000 tonnes over the same period. Nigeria (46,000 tonnes) is the major customer, followed by Senegal (45,000 tonnes), Mali (43,000 tonnes), Burkina Faso (32,000 tonnes), Togo (27,000 tonnes), Ghana (15,000 tonnes) and Niger (8,000 tonnes). However, the 2012 figures are needed before this trend can be confirmed, with the crisis in Côte d’Ivoire, particularly the closure of the port of Abidjan for several weeks, potentially distorting trade flows.&nbsp;</p><p><b>Main sources</b></p><p><b>Global oil crop markets</b></p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FAO, <i>Food Outlook</i>, web page</p><p class=" text-left">
+<a href="http://www.fao.org/giews/english/fo/index.htm" target="_self">http://www.fao.org/giews/english/fo/index.htm</a></p><p class=" text-left">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Oil World</i>, website</p><p class=" text-left">
+<a href="http://www.oilworld.org/" target="_self">www.oilworld.org</a></p><p class=" text-left">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Food and Agricultural Policy Research Institute (FAPRI), website</p><p class=" text-left">
+<a href="http://www.fapri.org/outlook/2011/" target="_self">http://www.fapri.org/outlook/2011/</a></p><p class=" text-left">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US Department of Agriculture (USDA), ‘Oilseeds: World markets and trade’, web page</p><p class=" text-left">
+<a href="http://www.fas.usda.gov/oilseeds_arc.asp" target="_self">http://www.fas.usda.gov/oilseeds_arc.asp</a></p><p class=" text-left">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyclope, web page on global markets</p><p class=" text-left">
+<a href="http://www.cercle-cyclope.com/content/view/13/26/" target="_self">http://www.cercle-cyclope.com/content/view/13/26/</a></p><p class=" text-left">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Commission (EC), ‘Export Helpdesk’,&nbsp;website</p><p class=" text-left">
+<a href="http://exporthelp.europa.eu/" target="_self">http://exporthelp.europa.eu</a>&nbsp;</p><p class=" text-left">7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Jeuneafrique.com</i>, ‘Agrobusiness : le continent décroche la palme’, 2 May 2012</p><p class=" text-left">
+<a href="http://www.jeuneafrique.com/Article/JA2676p060-063.xml0/angola-congo-nigeria-zambieagrobusiness-le-continent-decroche-la-palme.html" target="_self">http://www.jeuneafrique.com/Article/JA2676p060-063.xml0/angola-congo-nig...</a>&nbsp;</p><p class=" text-left">8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Bloomberg.com</i>, ‘Malaysia plans steps to counter Indonesia palm oil tax cut’, 7 June 2012</p><p class=" text-left">
+<a href="http://www.bloomberg.com/news/2012-06-07/malaysia-plans-steps-to-counter-indonesia-palm-oil-tax-cut-1-.html" target="_self">http://www.bloomberg.com/news/2012-06-07/malaysia-plans-steps-to-counter...</a></p><p class=" text-left">9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Green Palm, ‘RSPO supports Dutch industry's call on the EU to abolish import duty on sustainable palm oil’, undated</p><p class=" text-left">
+<a href="http://www.greenpalm.org/en/blog-press/blog/rspo-supports-dutch-industrys-call-on-the-eu-to-abolish-import-duty-on-sustainable-palm-oil" target="_self">http://www.greenpalm.org/en/blog-press/blog/rspo-supports-dutch-industry...</a></p><p class=" text-left">10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Dawn.com</i>, ‘Jakarta move: Palm oil plants in Europe unhappy’, 1 December 2012</p><p class=" text-left">
+<a href="http://dawn.com/2011/12/01/jakarta-move-palm-oil-plants-in-europe-unhappy/" target="_self">http://dawn.com/2011/12/01/jakarta-move-palm-oil-plants-in-europe-unhappy/</a></p><p class=" text-left">11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Agrimoney.com</i>, ‘Africa to exploit palm oil potential - at last’, 5 September 2011</p><p class=" text-left">
+<a href="http://www.agrimoney.com/news/africa-to-exploit-palm-oil-potential---at-last--3560.html" target="_self">http://www.agrimoney.com/news/africa-to-exploit-palm-oil-potential---at-...</a></p><p class=" text-left">12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roundtable on Sustainable Palm Oil (RSPO), website on the organisation and its certification scheme for sustainable palm oil</p><p class=" text-left">
+<a href="http://www.rspo.org/" target="_self">www.rspo.org</a>&nbsp;</p><p><b>EU biofuels</b></p><p class=" text-left">13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC, ‘First EU sustainability schemes for biofuels get the go-ahead’, 19 July 2011</p><p class=" text-left">
+<a href="http://ec.europa.eu/commission_2010-2014/oettinger/headlines/news/2011/07/20110719_en.htm" target="_self">http://ec.europa.eu/commission_2010-2014/oettinger/headlines/news/2011/0...</a></p><p class=" text-left">14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC, Directive on the use of energy from renewable sources, 23 April 2009</p><p class=" text-left">
+<a href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:140:0016:0062:EN:PDF" target="_self">http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:140:0016...</a></p><p class=" text-left">15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EC, ‘Prospects for agricultural markets and income in the EU2010-2020’, December 2010</p><p class=" text-left">
+<a href="http://ec.europa.eu/agriculture/publi/caprep/prospects2010/pres_en.pdf" target="_self">http://ec.europa.eu/agriculture/publi/caprep/prospects2010/pres_en.pdf</a></p><p class=" text-left">16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Studies on EU policy:</p><p class=" text-left">IEEP: 
+<a href="http://www.ieep.eu/" target="_self">http://www.ieep.eu/</a>&nbsp;</p><p class=" text-left">IFPRI: 
+<a href="http://www.ifpri.org/book-774/ourwork/researcharea/bioenergy/bioenergy-resources" target="_self">http://www.ifpri.org/book-774/ourwork/researcharea/bioenergy/bioenergy-r...</a>&nbsp;</p><p class=" text-left">17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Greenpeace France, ‘Des agrocarburants français qui émettent plus de gaz à effet de serre que les fossiles’, 20 July 2011</p><p class=" text-left">
+<a href="http://presse.greenpeace.fr/forets/des-agrocarburants-francais-qui-emettent-plus-de-gaz-a-effet-de-serre-que-les-fossiles-2904-20072011" target="_self">http://presse.greenpeace.fr/forets/des-agrocarburants-francais-qui-emett...</a>&nbsp;</p><p class=" text-left">18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IFPRI, ‘Assessing the land use change&nbsp;consequences of European biofuel policies’, October 2011</p><p class=" text-left">
+<a href="http://trade.ec.europa.eu/doclib/docs/2011/october/tradoc_148289.pdf" target="_self">http://trade.ec.europa.eu/doclib/docs/2011/october/tradoc_148289.pdf</a></p>
+		
+		
+		
+		
+		
+		<div class="clear"></div>
+
+		
+	</article>
+
+	<aside>
+		
+						
+<div class="block yellow">
+	<h3>Related content</h3>
+	<div>
+								<p><a href="/en/layout/set/print/Agriculture/Commodities/Oil-crops/Executive-Brief-Update-2013-Oil-crops-sector">Executive Brief Update 2013: Oil crops sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Oil-crops/Executive-Brief-Update-2012-Oil-crops-sector">Executive Brief Update 2012: Oil crops sector</a></p>
+						<p><a href="/en/layout/set/print/Agriculture/Commodities/Oil-crops/Oilseeds-Trade-issues-for-the-ACP">Oilseeds: Trade issues for the ACP</a></p>
+						</div>
+</div>	</aside>
+
+		<div id="comment">
+			
+
+	<div class="separator"></div>
+	<a name="comment"></a>
+	
+		</div>
+	
+
+
+</section>
+
+				<br/><br/>
+																						<br/>http://agritrade.cta.int/
+								<br/>
+				<br/>
+				<div clear="all">
+					<hr>
+					<a href="http://www.cta.int" target="_blank">Copyright 2018, CTA. Technical Centre for Agricultural and Rural Cooperation (ACP-EU)</a>
+					<br class="cl"/>
+				</div>
+		</article>
+
+		<div id="dom-load"></div>
+	</div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"44f10573e2","applicationID":"19959973","transactionName":"Z1RXbUICXUJZBkBQXF4eYEtZTFpfXABMF0NYQQ==","queueTime":0,"applicationTime":146,"atts":"SxNUGwoYTkw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
