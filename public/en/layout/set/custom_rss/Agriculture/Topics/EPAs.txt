@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Topics/EPAs</id>
+	<link rel="self" href="http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Topics/EPAs" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T16:41:33Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/EU-agro-food-trade-surplus-continues-to-expand</id>
+		<title>EU agro-food trade surplus continues to expand</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/EU-agro-food-trade-surplus-continues-to-expand"/>
+		<updated>2014-08-18T18:19:39Z</updated>
+		<summary>
+				According to the EC’s agricultural trade report for 2013, growth in EU exports of agricultural products slowed down to 5.8% in 2013, compared to 12...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/EPAs/Cote-d-Ivoire-trade-policy-dilemma-highlighted</id>
+		<title>Côte d’Ivoire trade policy dilemma highlighted</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/EPAs/Cote-d-Ivoire-trade-policy-dilemma-highlighted"/>
+		<updated>2014-08-11T14:38:52Z</updated>
+		<summary>
+				According to analysis published by the International Centre for Trade and Sustainable Development (ICTSD), if Côte d’Ivoire does not complete its E...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/EPAs/Use-of-agricultural-trade-policy-tools-remains-contentious-in-EPA-negotiations-and-intra-regional-trade</id>
+		<title>Use of agricultural trade policy tools remains contentious in EPA negotiations and intra-regional trade</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/EPAs/Use-of-agricultural-trade-policy-tools-remains-contentious-in-EPA-negotiations-and-intra-regional-trade"/>
+		<updated>2014-07-23T13:21:25Z</updated>
+		<summary>
+				In the SADC EPA context, outstanding issues have been reduced to two: agricultural safeguards and export taxes, both of which potentially impact on...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Central-Africa-EU-EPA-negotiations-relaunched-as-anxieties-over-future-of-Cameroon-s-banana-exports-increase</id>
+		<title>Central Africa–EU EPA negotiations relaunched as anxieties over future of Cameroon’s banana exports increase </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Central-Africa-EU-EPA-negotiations-relaunched-as-anxieties-over-future-of-Cameroon-s-banana-exports-increase"/>
+		<updated>2014-06-30T09:30:35Z</updated>
+		<summary>
+				ECDPM reported in May 2014 that “the Central Africa region has reopened the EPA dossier after years of relative inactivity.” This followed indicat...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/EPAs/EPA-implications-of-the-EU-streamlining-of-its-trade-defence-mechanisms</id>
+		<title>EPA implications of the EU streamlining of its trade defence mechanisms</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/EPAs/EPA-implications-of-the-EU-streamlining-of-its-trade-defence-mechanisms"/>
+		<updated>2014-06-15T20:49:06Z</updated>
+		<summary>
+				The European Parliament and Council have both approved (on April 2 and May 8 respectively) a new legal framework under which the European Commissio...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/EPAs/Regardless-of-outcome-of-negotiations-there-will-be-EPA-related-costs</id>
+		<title>Regardless of outcome of negotiations, there will be EPA-related costs </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/EPAs/Regardless-of-outcome-of-negotiations-there-will-be-EPA-related-costs"/>
+		<updated>2014-06-15T23:03:12Z</updated>
+		<summary>
+				According to press reports, the Ghanaian business community is divided over whether Ghana should ratify the EPA. Exporters to the EU (e.g. tuna and...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/EPAs/EC-clarifies-options-for-Pacific-EU-EPA</id>
+		<title>EC clarifies options for Pacific–EU EPA</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/EPAs/EC-clarifies-options-for-Pacific-EU-EPA"/>
+		<updated>2014-05-17T11:09:13Z</updated>
+		<summary>
+				In an interview with PACNEWS in March 2014, the head of the political and trade section of the EU Delegation in the Pacific, Adam Janssen, set out...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/EPAs/Provisions-on-agriculture-trade-policy-instruments-still-to-be-resolved-in-SADC-EU-EPA-negotiations</id>
+		<title>Provisions on agriculture trade policy instruments still to be resolved in SADC–EU EPA negotiations</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/EPAs/Provisions-on-agriculture-trade-policy-instruments-still-to-be-resolved-in-SADC-EU-EPA-negotiations"/>
+		<updated>2014-05-06T15:42:57Z</updated>
+		<summary>
+				According to an interview with a leading South African trade official, a number of negotiating issues in the SADC–EU EPA negotiations have now been...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/EPAs/West-Africa-heads-of-state-defer-final-decision-on-the-regional-EPA-agreement</id>
+		<title>West Africa heads of state defer final decision on the regional EPA agreement</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/EPAs/West-Africa-heads-of-state-defer-final-decision-on-the-regional-EPA-agreement"/>
+		<updated>2014-04-22T17:50:26Z</updated>
+		<summary>
+				At an ECOWAS heads of state and government meeting held at the end of March 2014, West Africa leaders endorsed the EPA agreement with the EU in pri...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Namibian-dairy-sector-measures-questioned-by-South-African-dairy-company</id>
+		<title>Namibian dairy sector measures questioned by South African dairy company</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Namibian-dairy-sector-measures-questioned-by-South-African-dairy-company"/>
+		<updated>2014-04-11T16:33:28Z</updated>
+		<summary>
+				The use of dairy sector import controls in Namibia has been criticised by the South African dairy company Clover  (see Agritrade article ‘
+Discussi...
+				</summary>
+	</entry>			</feed>

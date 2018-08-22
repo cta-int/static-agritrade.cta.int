@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:30:42Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Les-Etats-membres-de-l-UE-ayant-depasse-leurs-quotas-de-peche-en-2013-verront-leurs-quotas-reduits-en-2014</id>
+		<title>Les États membres de l’UE ayant dépassé leurs quotas de pêche en 2013 verront leurs quotas réduits en 2014</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Les-Etats-membres-de-l-UE-ayant-depasse-leurs-quotas-de-peche-en-2013-verront-leurs-quotas-reduits-en-2014"/>
+		<updated>2014-10-08T12:05:06Z</updated>
+		<summary>
+				D’après un communiqué de presse publié par Maria Damanaki, commissaire européenne en charge des affaires maritimes et de la pêche, « les dix États...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Appel-a-ce-que-l-UE-interdise-les-subventions-pour-la-peche-en-haute-mer</id>
+		<title>Appel à ce que l’UE interdise les subventions pour la pêche en haute mer</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Appel-a-ce-que-l-UE-interdise-les-subventions-pour-la-peche-en-haute-mer"/>
+		<updated>2014-10-08T12:04:48Z</updated>
+		<summary>
+				La Global Ocean
+ Commission (GOC), une initiative composée de 17 gouvernements et dirigeants d’entreprise, appelle à un système de gouvernance inte...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/La-mise-en-aeuvre-de-l-interdiction-des-rejets-souleve-de-plus-en-plus-de-critiques</id>
+		<title>La mise en œuvre de l'interdiction des rejets soulève de plus en plus de critiques</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/La-mise-en-aeuvre-de-l-interdiction-des-rejets-souleve-de-plus-en-plus-de-critiques"/>
+		<updated>2014-07-23T11:08:17Z</updated>
+		<summary>
+				Une récente étude parue dans la revue scientifique Nature souligne que, à elle seule, l'élimination des rejets – une mesure clé acceptée dans la no...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Une-conference-internationale-analyse-la-dimension-exterieure-de-la-nouvelle-PCP</id>
+		<title>Une conférence internationale analyse la dimension extérieure de la nouvelle PCP</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Une-conference-internationale-analyse-la-dimension-exterieure-de-la-nouvelle-PCP"/>
+		<updated>2014-06-23T08:39:05Z</updated>
+		<summary>
+				Un rapport récent sur la Conférence internationale qui s’est tenue durant deux jours à la fin janvier 2014 à Stockholm, examine les implications de...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/L-instrument-financier-de-l-UE-pour-les-peches-est-definitivement-adopte</id>
+		<title>L’instrument financier de l’UE pour les pêches est définitivement adopté</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/L-instrument-financier-de-l-UE-pour-les-peches-est-definitivement-adopte"/>
+		<updated>2014-05-12T10:24:16Z</updated>
+		<summary>
+				Mettant un terme à cinq années de révision de la Politique commune des pêches (PCP), le Parlement européen a adopté, le 16 avril 2014, le Fonds eur...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Les-institutions-de-l-UE-conviennent-d-une-aide-au-secteur-de-la-peche-europeen-pour-2014-2020</id>
+		<title>Les institutions de l’UE conviennent d’une aide au secteur de la pêche européen pour 2014–2020</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Les-institutions-de-l-UE-conviennent-d-une-aide-au-secteur-de-la-peche-europeen-pour-2014-2020"/>
+		<updated>2014-03-10T11:03:20Z</updated>
+		<summary>
+				Après la suspension des négociations en décembre dernier, le Parlement européen, le Conseil et la Commission sont finalement parvenus à un accord s...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Renforcer-la-coherence-de-la-politique-de-peche-avec-la-securite-alimentaire</id>
+		<title>Renforcer la cohérence de la politique de pêche avec la sécurité alimentaire </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Renforcer-la-coherence-de-la-politique-de-peche-avec-la-securite-alimentaire"/>
+		<updated>2014-03-03T09:58:23Z</updated>
+		<summary>
+				Le Centre européen pour la gestion des politiques de développement (ECDPM) a publié un document sur la cohérence politique et la sécurité alimentai...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2013-Politique-commune-de-la-peche-de-l-UE-et-accords-de-partenariat-de-peche-enjeux-pour-les-pays-ACP</id>
+		<title>Note de synthèse - mise à jour 2013 : Politique commune de la pêche de l’UE et accords de partenariat de pêche : enjeux pour les pays ACP </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Note-de-synthese-mise-a-jour-2013-Politique-commune-de-la-peche-de-l-UE-et-accords-de-partenariat-de-peche-enjeux-pour-les-pays-ACP"/>
+		<updated>2013-12-16T17:24:07Z</updated>
+		<summary>
+				1.         Contexte et principaux enjeuxLa Politique commune de la pêche (PCP) régit les activités des flottes de pêche de l’UE, y compris les opér...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Davantage-de-soutien-a-la-peche-artisanale-avec-la-nouvelle-PCP</id>
+		<title>Davantage de soutien à la pêche artisanale avec la nouvelle PCP </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Davantage-de-soutien-a-la-peche-artisanale-avec-la-nouvelle-PCP"/>
+		<updated>2013-12-09T10:47:43Z</updated>
+		<summary>
+				Le processus de négociations en « trilogue » pour le subventionnement futur du secteur de la pêche de l’UE – le Fonds européen pour les affaires ma...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/En-vue-des-negociations-finales-le-PE-prend-position-sur-les-subventions-futures-au-secteur-de-la-peche</id>
+		<title>En vue des négociations finales, le PE prend position sur les subventions futures au secteur de la pêche </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/En-vue-des-negociations-finales-le-PE-prend-position-sur-les-subventions-futures-au-secteur-de-la-peche"/>
+		<updated>2013-12-02T10:01:22Z</updated>
+		<summary>
+				Le Parlement européen a voté en session plénière en faveur du Fonds européen pour les affaires maritimes et la pêche (FEAMP). La prochaine étape se...
+				</summary>
+	</entry>			</feed>

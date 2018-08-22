@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/en/layout/set/custom_rss/Publications/Compendium</id>
+	<link rel="self" href="http://agritrade.cta.int/en/layout/set/custom_rss/Publications/Compendium" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T17:37:03Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+		
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Publications/Compendium/Agritrade-Compendium-2011</id>
+		<title>Agritrade Compendium 2011</title>
+
+		<link href="http://agritrade.cta.int/en/Publications/Compendium/Agritrade-Compendium-2011"/>
+		<updated>2012-02-27T14:36:00Z</updated>
+		<summary>
+				
+		
+
+The CTA Agritrade Compendium 2011 features in depth analyses on ACP-EU agricultural and fisheries trade policy. The section on commodity specific trade issues now totals 13 briefs with two new analyses on the dairy and poultry sectors.Please click the links below to read and download the individual briefs.
+Agriculture Trade issues  (WTO Agreement on Agriculture, CAP reform, EPA negotiations, Market access, Food safety / SPS, Product differentiation)
+Commodity Trade Issues (Banana, Beef, Cereals, Cocoa, Coffee, Cotton, Horticulture, Dairy, Horticulture, Oil crops, Poultry, Rice, Sugar, Tea)
+Fisheries Trade Issues (Market access, EU Common Fisheries Policy and Fisheries Partnership Agreements, Tuna sector, WTO aspects of ACP–EU fisheries relations)If you would like to order a copy of the CD-Rom with all the briefs, please do so via the CTA publications portal (
+http://publications.cta.int/).
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Publications/Compendium/Agricultural-and-fisheries-trade-issues-for-ACP-countries-2010-Compendium</id>
+		<title>Agricultural and fisheries trade issues for ACP countries: 2010 Compendium</title>
+
+		<link href="http://agritrade.cta.int/en/Publications/Compendium/Agricultural-and-fisheries-trade-issues-for-ACP-countries-2010-Compendium"/>
+		<updated>2011-07-11T09:21:06Z</updated>
+		<summary>
+				
+		
+
+The second in a series launched in 2009, this 2010 Compendium offers a collection of critical reviews of issues related to agricultural and fisheries trade for the African, Caribbean and Pacific (ACP) countries published on the Agritrade website between 2009 and 2010.
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Publications/Compendium/ACP-EU-Trade-Issues-in-the-Agricultural-and-Fisheries-Sectors-2009-Compendium</id>
+		<title>ACP-EU Trade Issues in the Agricultural and Fisheries Sectors: 2009 Compendium</title>
+
+		<link href="http://agritrade.cta.int/en/Publications/Compendium/ACP-EU-Trade-Issues-in-the-Agricultural-and-Fisheries-Sectors-2009-Compendium"/>
+		<updated>2011-07-11T09:21:06Z</updated>
+		<summary>
+				
+		
+
+The present publication is a compendium of briefings published on the CTA Agritrade web site in 2008.The issues are addressed in a factual and non-partisan manner.
+				</summary>
+	</entry>			</feed>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Publications/Compendium</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Publications/Compendium" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:41:33Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+		
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Publications/Compendium/Agritrade-Compendium-2011</id>
+		<title>Agritrade Compendium 2011</title>
+
+		<link href="http://agritrade.cta.int/fr/Publications/Compendium/Agritrade-Compendium-2011"/>
+		<updated>2012-02-27T14:36:00Z</updated>
+		<summary>
+				
+		
+
+Le nouveau Compendium Agritrade 2011 du CTA contient différentes notes de synthèse sur les enjeux du commerce agricole ACP-UE et de la pêche. La section consacrée au commerce des produits de base compte aujourd’hui 13 notes de synthèse,  avec notamment deux nouvelles analyses sur le secteur laitier et le secteur de la volaille.Veuillez cliquer les liens ci-dessous pour lire et télécharger les différentes notes de synthèse.
+Commerce agricole (Accord de l'OMC, APE, accès aux marches, SPS/sécurité des aliments, différenciation des produits, réforme de la PAC)
+Commerce des produits de base (Banane, Cacao, Café, Céréales, Coton, Horticulture, Oléagineux, Produits laitier, Riz, Sucre, Thé, Viande bovine, Volaille)
+Commerce de la pêche (pêche ACP-UE - accès au marché et commerce, politique commune de la pêche de l’UE et accords de partenariat de pêche : défis pour les pays ACP, secteur du thon, aspects OMC des relations ACP-UE dans le secteur de la pêche)Si vous souhaitez recevoir la version cédérom, vous pouvez effectuer une commande sur le portail des publications du CTA (
+http://publications.cta.int)
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Publications/Compendium/Enjeux-du-commerce-agricole-et-de-la-peche-pour-les-pays-ACP-Compendium-2010</id>
+		<title>Enjeux du commerce agricole et de la pêche pour les pays ACP: Compendium 2010</title>
+
+		<link href="http://agritrade.cta.int/fr/Publications/Compendium/Enjeux-du-commerce-agricole-et-de-la-peche-pour-les-pays-ACP-Compendium-2010"/>
+		<updated>2011-07-11T09:21:06Z</updated>
+		<summary>
+				2ème édition d’une série lancée en 2009, ce compendium offre un recueil des analyses publiées en 2009 et 2010 sur le site Web Agritrade, portant sur les enjeux du commerce agricole et de la pêche pour les pays d’Afrique, des Caraïbes et du Pacifique (ACP)
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Publications/Compendium/Enjeux-du-commerce-ACP-UE-dans-le-secteur-agricole-et-de-la-peche-Compendium-2009</id>
+		<title>Enjeux du commerce ACP-UE dans le secteur agricole et de la pêche: Compendium 2009	</title>
+
+		<link href="http://agritrade.cta.int/fr/Publications/Compendium/Enjeux-du-commerce-ACP-UE-dans-le-secteur-agricole-et-de-la-peche-Compendium-2009"/>
+		<updated>2011-07-11T09:21:06Z</updated>
+		<summary>
+				Cette publication est un recueil des analyses publiées sur le site Agritrade du CTA. Les questions commerciales sont abordées de manière factuelle et non partisane.
+				</summary>
+	</entry>			</feed>

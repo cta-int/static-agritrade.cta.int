@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Peche/Sujets/Accord-de-l-OMC</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Peche/Sujets/Accord-de-l-OMC" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:29:33Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Le-cadre-OMC-pour-l-acces-aux-marches-internationaux-pour-les-produits-de-la-peche-et-de-l-aquaculture</id>
+		<title>Le cadre OMC pour l’accès aux marchés internationaux pour les produits de la pêche et de l’aquaculture</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Le-cadre-OMC-pour-l-acces-aux-marches-internationaux-pour-les-produits-de-la-peche-et-de-l-aquaculture"/>
+		<updated>2014-10-12T13:33:03Z</updated>
+		<summary>
+				Des délégués de 11 pays ont participé à un atelier conjoint organisé par la FAO et Info-SAMAK sur un « cadre OMC pour l’accès aux marchés internati...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Subventions-pour-la-peche-des-propositions-pour-faire-avancer-le-debat-a-l-OMC</id>
+		<title>Subventions pour la pêche: des propositions pour faire avancer le débat à l’OMC</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Subventions-pour-la-peche-des-propositions-pour-faire-avancer-le-debat-a-l-OMC"/>
+		<updated>2014-07-23T11:10:45Z</updated>
+		<summary>
+				Selon un récent article du directeur d’ICTSD Rashid Sumaila, une des principales raisons de l'absence de progrès dans les négociations concernant l...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/La-FAO-adopte-des-lignes-directrices-internationales-pour-des-pecheries-artisanales-durables</id>
+		<title>La FAO adopte des lignes directrices internationales pour des pêcheries artisanales durables </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/La-FAO-adopte-des-lignes-directrices-internationales-pour-des-pecheries-artisanales-durables"/>
+		<updated>2014-07-05T11:32:16Z</updated>
+		<summary>
+				La 31e session du Comité des pêches de la FAO (COFI 31) s’est tenue du 9 au 13 juin 2014 à Rome. Juste avant le COFI 31, la FAO avait publié l’édit...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Doit-on-fermer-les-zones-de-haute-mer-a-la-peche</id>
+		<title>Doit-on fermer les zones de haute mer à la pêche?</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Doit-on-fermer-les-zones-de-haute-mer-a-la-peche"/>
+		<updated>2014-05-26T09:55:51Z</updated>
+		<summary>
+				Dans un article scientifique paru dans PLoS Biology, des chercheurs ont avancé que la meilleure solution pour que les stocks d’espèces pélagiques m...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Une-nouvelle-etude-de-la-FAO-demontre-que-l-aquaculture-beneficie-aux-communautes-locales</id>
+		<title>Une nouvelle étude de la FAO démontre que l’aquaculture bénéficie  aux communautés locales</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Une-nouvelle-etude-de-la-FAO-demontre-que-l-aquaculture-beneficie-aux-communautes-locales"/>
+		<updated>2014-03-24T09:52:17Z</updated>
+		<summary>
+				Afin de répondre aux problèmes de gouvernance engendrés par l’essor de l’industrie aquacole, le Département des pêches et de l’aquaculture de la FA...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Des-propositions-sur-la-transparence-des-accords-d-acces-inserees-dans-la-resolution-de-l-Assemblee-generale-des-Nations-unies-sur-la-peche-durable</id>
+		<title>Des propositions sur la transparence des accords d’accès insérées dans la résolution de l’Assemblée générale des Nations unies sur la pêche durable </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Des-propositions-sur-la-transparence-des-accords-d-acces-inserees-dans-la-resolution-de-l-Assemblee-generale-des-Nations-unies-sur-la-peche-durable"/>
+		<updated>2014-03-09T16:58:48Z</updated>
+		<summary>
+				Pour l’examen annuel de la résolution de l’Assemblée générale des Nations unies sur la pêche durable, la CE a consulté le Conseil consultatif régio...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Accord-de-l-OMC-a-Bali-sur-la-securite-alimentaire-et-les-PMA</id>
+		<title>Accord de l’OMC à Bali sur la sécurité alimentaire et les PMA</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Accord-de-l-OMC-a-Bali-sur-la-securite-alimentaire-et-les-PMA"/>
+		<updated>2014-02-07T12:01:59Z</updated>
+		<summary>
+				Lors de la 9ème conférence ministérielle de l’OMC organisée à Bali, Indonésie, en décembre 2013, un accord de dernière minute a été obtenu sur plus...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Le-rapport-de-l-OCDE-rappelle-la-necessite-d-une-coherence-politique-pour-le-developpement-des-pecheries-et-de-l-aquaculture</id>
+		<title>Le rapport de l’OCDE rappelle la nécessité d’une cohérence politique pour le développement des pêcheries et de l’aquaculture </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Le-rapport-de-l-OCDE-rappelle-la-necessite-d-une-coherence-politique-pour-le-developpement-des-pecheries-et-de-l-aquaculture"/>
+		<updated>2014-02-07T11:58:39Z</updated>
+		<summary>
+				Un nouveau rapport sur la Cohérence pour le développement (CODE) de l’Organisation de coopération et de développement économiques (OCDE) examine le...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Le-4eme-Forum-du-thon-du-Pacifique-discute-de-l-elargissement-des-investissements-dans-le-secteur-du-thon</id>
+		<title>Le 4ème Forum du thon du Pacifique discute de l’élargissement des investissements dans le secteur du thon </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Le-4eme-Forum-du-thon-du-Pacifique-discute-de-l-elargissement-des-investissements-dans-le-secteur-du-thon"/>
+		<updated>2013-12-23T08:42:05Z</updated>
+		<summary>
+				La dernière édition du Forum Fisheries Agency (FFA) Trade News résume les problèmes et perspectives discutés au 4ème Forum du thon du Pacifique, or...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Note-de-synthese-mise-a-jour-2013-Les-aspects-OMC-et-internationaux-des-relations-ACP-UE-dans-le-secteur-de-la-peche</id>
+		<title>Note de synthèse - mise à jour 2013 : Les aspects OMC et internationaux des relations ACP-UE dans le secteur de la pêche</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Note-de-synthese-mise-a-jour-2013-Les-aspects-OMC-et-internationaux-des-relations-ACP-UE-dans-le-secteur-de-la-peche"/>
+		<updated>2013-12-16T17:10:20Z</updated>
+		<summary>
+				1.         Contexte et principaux enjeuxLes règles de l’OMC s’appliquant au commerce international de poisson, ainsi que les traités et conventions...
+				</summary>
+	</entry>			</feed>

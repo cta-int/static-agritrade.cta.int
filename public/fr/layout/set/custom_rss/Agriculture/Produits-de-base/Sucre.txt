@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Produits-de-base/Sucre</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Produits-de-base/Sucre" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:19:09Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Les-exportations-de-sucre-des-pays-ACP-vers-l-UE-et-l-avenir-du-co-raffinage-de-sucre-de-canne-brut-par-les-raffineurs-de-betterave-europeens</id>
+		<title>Les exportations de sucre des pays ACP vers l'UE et l'avenir du co-raffinage de sucre de canne brut par les raffineurs de betterave européens</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Les-exportations-de-sucre-des-pays-ACP-vers-l-UE-et-l-avenir-du-co-raffinage-de-sucre-de-canne-brut-par-les-raffineurs-de-betterave-europeens"/>
+		<updated>2014-12-17T15:34:14Z</updated>
+		<summary>
+				RésuméDans le cadre des réformes partielles du régime sucrier de l'UE, les plafonds contingentaires continuellement imposés à la production de sucr...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Suedzucker-profil-d-entreprise</id>
+		<title>Südzucker - profil d’entreprise</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Suedzucker-profil-d-entreprise"/>
+		<updated>2014-09-28T17:15:32Z</updated>
+		<summary>
+				Structure de propriétéSüdzucker est la plus grande sucrerie de betterave de l’UE et du monde, avec une production de sucre européenne de 4,9 millio...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Les-exportations-de-sucre-du-Zimbabwe-vers-l-UE-vont-continuer-tandis-que-les-importations-seront-restreintes</id>
+		<title>Les exportations de sucre du Zimbabwe vers l’UE vont continuer tandis que les importations seront restreintes </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Les-exportations-de-sucre-du-Zimbabwe-vers-l-UE-vont-continuer-tandis-que-les-importations-seront-restreintes"/>
+		<updated>2014-08-11T14:49:29Z</updated>
+		<summary>
+				D’après le département de l’agriculture des États-Unis (USDA), la production de canne à sucre du Zimbabwe devrait reculer de 3 % au cours de la cam...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Profils-d-entreprise-de-l-industrie-sucriere-introduction</id>
+		<title>Profils d’entreprise de l'industrie sucrière - introduction</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Profils-d-entreprise-de-l-industrie-sucriere-introduction"/>
+		<updated>2014-09-28T17:17:35Z</updated>
+		<summary>
+				Les réformes du secteur sucrier de l’UE n’ont pas seulement eu un impact sur les prix du sucre et les accords d’accès au marché pour le sucre ACP,...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Tereos-profil-d-entreprise</id>
+		<title>Tereos - profil d’entreprise</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Tereos-profil-d-entreprise"/>
+		<updated>2014-09-28T18:11:19Z</updated>
+		<summary>
+				Structure de la propriétéTereos, coopérative détenue par 12 000 producteurs de betterave à sucre français, a vu le jour après une période de consol...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/British-Sugar-Associated-British-Foods-profil-d-entreprise</id>
+		<title>British Sugar/Associated British Foods - profil d’entreprise</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/British-Sugar-Associated-British-Foods-profil-d-entreprise"/>
+		<updated>2014-09-28T18:13:47Z</updated>
+		<summary>
+				Structure de la propriétéBritish Sugar, l’unique transformateur de betterave sucrière du Royaume-Uni (quota britannique de 1 056 474 tonnes), appar...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Suiker-Unie-Royal-Cosun-profil-d-entreprise</id>
+		<title>Suiker Unie/Royal Cosun - profil d’entreprise</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Suiker-Unie-Royal-Cosun-profil-d-entreprise"/>
+		<updated>2014-09-28T18:19:29Z</updated>
+		<summary>
+				Structure de la propriétéSuiker Unie est une filiale de la coopérative d’agriculteurs Royal Cosun (plus connue sous le nom de Cosun). Cosun a été c...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Tate-Lyle-American-Sugar-Refining-profil-d-entreprise</id>
+		<title>Tate &amp; Lyle/American Sugar Refining - profil d'entreprise</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Tate-Lyle-American-Sugar-Refining-profil-d-entreprise"/>
+		<updated>2014-09-28T18:20:31Z</updated>
+		<summary>
+				Structure de la propriétéEn octobre 2010, American Sugar Refining (ASR) a achevé son rachat de la division sucrière de Tate and Lyle, impliquant l’...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/La-repartition-des-nouvelles-sources-de-revenus-critiquee-par-les-producteurs-de-canne-mauriciens</id>
+		<title>La répartition des nouvelles sources de revenus critiquée par les producteurs de canne mauriciens </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/La-repartition-des-nouvelles-sources-de-revenus-critiquee-par-les-producteurs-de-canne-mauriciens"/>
+		<updated>2014-07-21T10:39:06Z</updated>
+		<summary>
+				Les représentants de 17 000 petits producteurs de sucre mauriciens – qui contribuent à 28 % de la production de sucre nationale – ont exprimé leurs...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/La-Tanzanie-a-du-mal-a-trouver-un-juste-equilibre-entre-la-demande-croissante-de-sucre-et-les-efforts-pour-promouvoir-la-production-de-sucre-locale</id>
+		<title>La Tanzanie a du mal à trouver un juste équilibre entre la demande croissante de sucre et les efforts pour promouvoir la production de sucre locale </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/La-Tanzanie-a-du-mal-a-trouver-un-juste-equilibre-entre-la-demande-croissante-de-sucre-et-les-efforts-pour-promouvoir-la-production-de-sucre-locale"/>
+		<updated>2014-06-30T09:18:56Z</updated>
+		<summary>
+				D’après un article de la presse régionale, les broyeurs de sucre tanzaniens détiennent plus de 62 800 tonnes de sucre, tandis que les distributeurs...
+				</summary>
+	</entry>			</feed>

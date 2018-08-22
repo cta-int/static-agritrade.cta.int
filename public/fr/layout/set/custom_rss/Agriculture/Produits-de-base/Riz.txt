@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Produits-de-base/Riz</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Produits-de-base/Riz" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:17:50Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Le-Guyana-cherche-a-developper-ses-exportations-de-riz-vers-l-Afrique-de-l-Ouest</id>
+		<title>Le Guyana cherche à développer ses exportations de riz vers l’Afrique de l’Ouest</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Le-Guyana-cherche-a-developper-ses-exportations-de-riz-vers-l-Afrique-de-l-Ouest"/>
+		<updated>2014-11-24T11:34:07Z</updated>
+		<summary>
+				Des articles de presse indiquent que le gouvernement guyanien cherche à conclure un accord pour la livraison de 120 000 tonnes de riz au Ghana dans...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Le-debat-s-intensifie-sur-les-droits-de-douane-applicables-au-riz-de-la-CAE</id>
+		<title>Le débat s'intensifie sur les droits de douane applicables au riz de la CAE </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Le-debat-s-intensifie-sur-les-droits-de-douane-applicables-au-riz-de-la-CAE"/>
+		<updated>2014-10-30T11:01:56Z</updated>
+		<summary>
+				Le Suivi du marché du riz de juillet 2014 de la FAO fait état de meilleures perspectives pour la production de riz en Afrique orientale. Comparée à...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Les-differentes-politiques-appliquees-au-secteur-du-riz-gagneraient-a-partager-leur-experience-en-Afrique-de-l-Ouest</id>
+		<title>Les différentes politiques appliquées au secteur du riz gagneraient à partager leur expérience en Afrique de l'Ouest</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Les-differentes-politiques-appliquees-au-secteur-du-riz-gagneraient-a-partager-leur-experience-en-Afrique-de-l-Ouest"/>
+		<updated>2014-10-29T18:45:30Z</updated>
+		<summary>
+				D'après la FAO, la campagne 2013 du riz en Afrique de l'Ouest a produit « un volume record de 13,7 millions de tonnes (8,7 millions de tonnes en éq...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Les-reformes-de-la-politique-commerciale-et-les-investissements-se-poursuivent-dans-le-secteur-du-riz-du-Nigeria</id>
+		<title>Les réformes de la politique commerciale et les investissements se poursuivent dans le secteur du riz du Nigeria</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Les-reformes-de-la-politique-commerciale-et-les-investissements-se-poursuivent-dans-le-secteur-du-riz-du-Nigeria"/>
+		<updated>2014-10-26T15:39:40Z</updated>
+		<summary>
+				La politique nigériane révisée du secteur du riz, qui propose des droits de douane inférieurs sur les importations de riz aux entreprises investiss...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Le-Guyana-developpe-avec-succes-sa-production-de-riz-et-trouve-de-nouveaux-marches</id>
+		<title>Le Guyana développe avec succès sa production de riz et trouve de nouveaux marchés</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Le-Guyana-developpe-avec-succes-sa-production-de-riz-et-trouve-de-nouveaux-marches"/>
+		<updated>2014-10-18T12:04:27Z</updated>
+		<summary>
+				Des informations de presse parues en juin 2014 évaluent la production de riz au Guyana en 2013 à 532 000 tonnes, soit 25 % de plus que les 425 000...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Le-Nigeria-elargit-encore-les-concessions-tarifaires-pour-soutenir-la-creation-de-liens-en-amont-dans-le-secteur-du-riz</id>
+		<title>Le Nigeria élargit encore les concessions tarifaires pour soutenir la création de liens en amont dans le secteur du riz</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Le-Nigeria-elargit-encore-les-concessions-tarifaires-pour-soutenir-la-creation-de-liens-en-amont-dans-le-secteur-du-riz"/>
+		<updated>2014-08-24T15:38:14Z</updated>
+		<summary>
+				Selon des informations de presse, le 26 mai 2014, le gouvernement nigérian a étendu sa politique de droits d’importation préférentiels aux opérateu...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Les-parties-prenantes-du-secteur-du-riz-tanzanien-appellent-a-une-application-coherente-des-droits-d-importation-sur-le-riz</id>
+		<title>Les parties prenantes du secteur du riz tanzanien appellent à une application cohérente des droits d’importation sur le riz</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Les-parties-prenantes-du-secteur-du-riz-tanzanien-appellent-a-une-application-coherente-des-droits-d-importation-sur-le-riz"/>
+		<updated>2014-07-21T10:35:58Z</updated>
+		<summary>
+				D’après les informations publiées dans la presse tanzanienne, des représentants du secteur privé ont appelé le gouvernement tanzanien à établir un...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Developpements-du-secteur-mondial-du-riz</id>
+		<title>Développements du secteur mondial du riz </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Developpements-du-secteur-mondial-du-riz"/>
+		<updated>2014-07-07T09:10:06Z</updated>
+		<summary>
+				D’après le rapport Food Outlook de la FAO de mai 2014, « la production de riz mondiale en 2014 pourrait atteindre 501,1 millions de tonnes (…) soit...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP/Le-Benin-profite-de-la-politique-commerciale-agricole-du-Nigeria</id>
+		<title>Le Bénin profite de la politique commerciale agricole du Nigeria </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP/Le-Benin-profite-de-la-politique-commerciale-agricole-du-Nigeria"/>
+		<updated>2014-06-02T10:15:42Z</updated>
+		<summary>
+				Un examen de la situation agricole au Bénin réalisé par l’USDA, publié en mars 2014, affirme que le « Bénin sert de corridor de transport pour l’Af...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Developpements-du-secteur-du-riz-dans-certains-pays-ouest-africains</id>
+		<title>Développements du secteur du riz dans certains pays ouest-africains </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Developpements-du-secteur-du-riz-dans-certains-pays-ouest-africains"/>
+		<updated>2014-05-23T20:27:57Z</updated>
+		<summary>
+				Le département américain de l’agriculture (USDA) a publié un examen des tendances de la production du riz dans 11 pays ouest-africains (excepté le...
+				</summary>
+	</entry>			</feed>

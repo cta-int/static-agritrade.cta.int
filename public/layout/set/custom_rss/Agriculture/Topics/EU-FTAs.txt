@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/layout/set/custom_rss/Agriculture/Topics/EU-FTAs</id>
+	<link rel="self" href="http://agritrade.cta.int/layout/set/custom_rss/Agriculture/Topics/EU-FTAs" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T15:04:35Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/The-EU-s-transatlantic-trade-agreements-possible-implications-for-ACP-exporters</id>
+		<title>The EU’s transatlantic trade agreements – possible implications for ACP exporters   </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/The-EU-s-transatlantic-trade-agreements-possible-implications-for-ACP-exporters"/>
+		<updated>2014-09-29T20:04:03Z</updated>
+		<summary>
+				Introduction2013 saw important developments in the EU’s transatlantic trade relations, with the launch of the EU–US Transatlantic Trade and Investm...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/EPAs/Analysis-throws-light-on-the-differential-impact-on-companies-of-increased-costs-of-accessing-EU-markets</id>
+		<title>Analysis throws light on the differential impact on companies of increased costs of accessing EU markets</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/EPAs/Analysis-throws-light-on-the-differential-impact-on-companies-of-increased-costs-of-accessing-EU-markets"/>
+		<updated>2014-08-11T14:40:11Z</updated>
+		<summary>
+				The Commonwealth Secretariat has published a report in its Trade Hot Topics series that explores the implications and subsequent costs of the possi...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Increased-competitive-challenges-in-prospect-for-ACP-banana-exporters</id>
+		<title>Increased competitive challenges in prospect for ACP banana exporters</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Increased-competitive-challenges-in-prospect-for-ACP-banana-exporters"/>
+		<updated>2014-07-07T09:02:34Z</updated>
+		<summary>
+				According to press reports, adjustments to shipping schedules between Ecuador and Europe are set to reduce banana shipment times and improve handli...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/EU-MRLs-and-retailer-standards-affect-more-than-ACP-exporters</id>
+		<title>EU MRLs and retailer standards affect more than ACP exporters </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/EU-MRLs-and-retailer-standards-affect-more-than-ACP-exporters"/>
+		<updated>2014-06-30T09:21:51Z</updated>
+		<summary>
+				A growing number of press reports are highlighting mounting concerns among horticultural exporters over the stricter application of official EU max...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/ACP-countries-must-position-themselves-with-regard-to-the-emerging-Pacific-and-Atlantic-FTAs</id>
+		<title>ACP countries must position themselves with regard to the emerging Pacific and Atlantic FTAs </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/ACP-countries-must-position-themselves-with-regard-to-the-emerging-Pacific-and-Atlantic-FTAs"/>
+		<updated>2014-06-30T09:20:48Z</updated>
+		<summary>
+				A review by the European Centre for International Political Economy (ECIPE) of what it calls “mega-regional” FTAs argues that ACP states will have...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Free-trade-agreements-boost-Latin-and-Central-American-banana-exports-to-EU-but-with-variable-performance</id>
+		<title>Free trade agreements boost Latin and Central American banana exports to EU but with variable performance</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Free-trade-agreements-boost-Latin-and-Central-American-banana-exports-to-EU-but-with-variable-performance"/>
+		<updated>2014-05-12T11:02:03Z</updated>
+		<summary>
+				According to press reports, Panamanian banana exports in 2013 increased by 8.63% to reach 14.3 million boxes, valued at US$90.4 million. In the sam...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/EC-trade-barriers-report-provides-insights-into-agro-food-sector-priorities-in-future-trade-relations</id>
+		<title>EC trade barriers report provides insights into agro-food sector priorities in future trade relations </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/EC-trade-barriers-report-provides-insights-into-agro-food-sector-priorities-in-future-trade-relations"/>
+		<updated>2014-04-24T18:04:32Z</updated>
+		<summary>
+				The European Commission (EC) has published its ‘Trade and investment barriers report 2014’, which looks at the key barriers faced in trade and inve...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/EU-US-trade-talks-reportedly-on-track</id>
+		<title>EU–US trade talks reportedly on track </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/EU-US-trade-talks-reportedly-on-track"/>
+		<updated>2014-02-24T08:48:17Z</updated>
+		<summary>
+				In December 2013, the EU and US negotiators concluded a third round of talks on a Transatlantic Trade and Investment Partnership (TTIP) agreement....
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/EU-agricultural-product-promotional-measures-to-be-expanded</id>
+		<title>EU agricultural product promotional measures to be expanded </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/EU-agricultural-product-promotional-measures-to-be-expanded"/>
+		<updated>2014-01-27T09:57:11Z</updated>
+		<summary>
+				The EC has announced plans to expand and refocus its “information and promotion policy for European agricultural and food products”. The budget is...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/Initial-review-of-impact-of-EU-US-trade-partnership-on-selected-developing-countries</id>
+		<title>Initial review of impact of EU–US trade partnership on selected developing countries </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/EU-FTAs/Initial-review-of-impact-of-EU-US-trade-partnership-on-selected-developing-countries"/>
+		<updated>2014-01-20T09:36:54Z</updated>
+		<summary>
+				The European Centre for Development Policy Management has published a paper on the possible impact of the proposed Transatlantic Trade and Investme...
+				</summary>
+	</entry>			</feed>

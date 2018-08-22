@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Peche</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Peche" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:27:57Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+	
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Regions/ACP/Afrique-de-l-Ouest/Le-Senegal-et-la-Guinee-Bissau-s-accordent-pour-un-nouveau-dispositif-de-controle</id>
+		<title>Le Sénégal et la Guinée-Bissau s’accordent pour un nouveau dispositif de contrôle</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Regions/ACP/Afrique-de-l-Ouest/Le-Senegal-et-la-Guinee-Bissau-s-accordent-pour-un-nouveau-dispositif-de-controle"/>
+		<updated>2015-04-01T09:32:49Z</updated>
+		<summary>
+				PÊCHE : Le Sénégal et la Guinée-Bissau s’accordent pour un nouveau dispositif de contrôle
+La Direction de la Protection et de la Surveillance des...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Le-cadre-OMC-pour-l-acces-aux-marches-internationaux-pour-les-produits-de-la-peche-et-de-l-aquaculture</id>
+		<title>Le cadre OMC pour l’accès aux marchés internationaux pour les produits de la pêche et de l’aquaculture</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Le-cadre-OMC-pour-l-acces-aux-marches-internationaux-pour-les-produits-de-la-peche-et-de-l-aquaculture"/>
+		<updated>2014-10-12T13:33:03Z</updated>
+		<summary>
+				Des délégués de 11 pays ont participé à un atelier conjoint organisé par la FAO et Info-SAMAK sur un « cadre OMC pour l’accès aux marchés internati...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Aborder-le-probleme-de-l-offre-d-aliments-pour-poissons</id>
+		<title>Aborder le problème de l’offre d’aliments pour poissons</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Aborder-le-probleme-de-l-offre-d-aliments-pour-poissons"/>
+		<updated>2014-10-12T12:31:01Z</updated>
+		<summary>
+				Le dernier rapport Globefish sur la farine de poisson et l’huile de poisson souligne qu’une demande croissante des secteurs utilisant une alimentat...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Developpements-dans-les-relations-de-peche-Ghana-UE</id>
+		<title>Développements dans les relations de pêche Ghana–UE</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Developpements-dans-les-relations-de-peche-Ghana-UE"/>
+		<updated>2014-10-08T12:11:34Z</updated>
+		<summary>
+				En visitant la Fisheries Enforcement Unit à Tema au mois d’août, le ministre ghanéen de la pêche et de l’aquaculture a affirmé que « l’industrie de...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Le-merlu-sud-africain-prospere-avec-le-label-ecologique-du-Marine-Stewardship-Council</id>
+		<title>Le merlu sud-africain prospère avec le label écologique du Marine Stewardship Council </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Le-merlu-sud-africain-prospere-avec-le-label-ecologique-du-Marine-Stewardship-Council"/>
+		<updated>2014-10-08T12:10:02Z</updated>
+		<summary>
+				Le Marine Stewardship Council (MSC) affirme que 10 ans après avoir octroyé son label écologique à la pêcherie de merlu d’Afrique du Sud, cette pêch...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Les-Etats-membres-de-l-UE-ayant-depasse-leurs-quotas-de-peche-en-2013-verront-leurs-quotas-reduits-en-2014</id>
+		<title>Les États membres de l’UE ayant dépassé leurs quotas de pêche en 2013 verront leurs quotas réduits en 2014</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Les-Etats-membres-de-l-UE-ayant-depasse-leurs-quotas-de-peche-en-2013-verront-leurs-quotas-reduits-en-2014"/>
+		<updated>2014-10-08T12:05:06Z</updated>
+		<summary>
+				D’après un communiqué de presse publié par Maria Damanaki, commissaire européenne en charge des affaires maritimes et de la pêche, « les dix États...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Le-Nigeria-vise-la-reduction-de-ses-importations-de-poisson</id>
+		<title>Le Nigeria vise la réduction de ses importations de poisson</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Le-Nigeria-vise-la-reduction-de-ses-importations-de-poisson"/>
+		<updated>2014-10-08T12:01:49Z</updated>
+		<summary>
+				Certains articles de presse publiés récemment évoquent les plans du Nigeria visant à réduire les importations annuelles de poisson, ainsi que l’int...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Problemes-emergents-en-matiere-d-evaluation-et-de-gestion-de-la-securite-et-de-la-qualite-des-produits-de-la-mer</id>
+		<title>Problèmes émergents en matière d’évaluation et de gestion de la sécurité et de la qualité des produits de la mer</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Problemes-emergents-en-matiere-d-evaluation-et-de-gestion-de-la-securite-et-de-la-qualite-des-produits-de-la-mer"/>
+		<updated>2014-10-04T11:18:00Z</updated>
+		<summary>
+				La FAO a publié un nouveau document technique sur les pratiques actuelles et les problèmes émergents en matière de sécurité et de qualité des produ...
+				</summary>
+	</entry>								
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/L-UE-et-l-Espagne-soutiennent-le-travail-de-la-FAO-pour-un-registre-mondial-des-navires-de-peche</id>
+		<title>L’UE et l’Espagne soutiennent le travail de la FAO pour un registre mondial des navires de pêche </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/L-UE-et-l-Espagne-soutiennent-le-travail-de-la-FAO-pour-un-registre-mondial-des-navires-de-peche"/>
+		<updated>2014-10-08T12:04:19Z</updated>
+		<summary>
+				S’exprimant sur l’issue du 31ème Comité des pêches de la FAO, la CE a noté qu’un accueil largement favorable a été réservé à la mise en place d’un...
+				</summary>
+	</entry>			</feed>

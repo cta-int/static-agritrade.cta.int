@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/SPS-Securite-des-aliments</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/SPS-Securite-des-aliments" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T17:58:28Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Chaine-de-valeur-de-la-volaille-Burkina-Faso-Grippe-aviaire-le-Burkina-Faso-sollicite-un-appui-d-urgence</id>
+		<title>Chaîne de valeur de la volaille / Burkina Faso - Grippe aviaire : le Burkina Faso sollicite un appui d’urgence</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Chaine-de-valeur-de-la-volaille-Burkina-Faso-Grippe-aviaire-le-Burkina-Faso-sollicite-un-appui-d-urgence"/>
+		<updated>2015-05-20T11:00:27Z</updated>
+		<summary>
+				À la date du 13 avril, le pays a enregistré plus de 202 000 volailles mortes ou abattues et plus de 5 millions de dollars de pertes, y compris les...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Chaine-de-valeur-de-la-volaille-Burkina-Faso-Debut-dune-epidemie-de-grippe-aviaire</id>
+		<title>Chaîne de valeur de la volaille / Burkina Faso - Début dune épidémie de grippe aviaire </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Chaine-de-valeur-de-la-volaille-Burkina-Faso-Debut-dune-epidemie-de-grippe-aviaire"/>
+		<updated>2015-05-15T08:46:18Z</updated>
+		<summary>
+				Le gouvernement burkinabè a annoncé mercredi 01/04/2015 avoir décelé des cas de grippe aviaire de type H5N1 au sein d'élevages de volailles dans l...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Financement-des-controles-des-denrees-alimentaires-et-des-aliments-pour-animaux-de-l-UE-developpements-recents-et-implications-pour-les-pays-ACP</id>
+		<title>Financement des contrôles des denrées alimentaires et des aliments pour animaux de l'UE : développements récents et implications pour les pays ACP </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Financement-des-controles-des-denrees-alimentaires-et-des-aliments-pour-animaux-de-l-UE-developpements-recents-et-implications-pour-les-pays-ACP"/>
+		<updated>2015-01-18T19:54:07Z</updated>
+		<summary>
+				IntroductionL'OCDE, dans sa publication « Non-tariff measures in agri-food trade: Improving policy coherence for development » (Les mesures non tar...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Des-interceptions-plus-frequentes-d-organismes-nuisibles-viennent-entacher-les-exportations-horticoles-ACP-vers-l-UE</id>
+		<title>Des interceptions plus fréquentes d’« organismes nuisibles » viennent entacher les exportations horticoles ACP vers l’UE </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Des-interceptions-plus-frequentes-d-organismes-nuisibles-viennent-entacher-les-exportations-horticoles-ACP-vers-l-UE"/>
+		<updated>2014-09-29T10:03:17Z</updated>
+		<summary>
+				À la mi-juillet 2014, la CE a envoyé une lettre d’avertissement aux organisations nationales de protection phytosanitaire (ONPP) de huit pays, sign...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Viande-bovine/Un-nouveau-reglement-en-matiere-d-importation-de-betail-d-Afrique-du-Sud-met-en-lumiere-les-difficultes-a-etablir-des-regimes-d-importation-SPS-a-l-echelle-de-la-region</id>
+		<title>Un nouveau règlement en matière d’importation de bétail d’Afrique du Sud met en lumière les difficultés à établir des régimes d’importation SPS à l’échelle de la région </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Viande-bovine/Un-nouveau-reglement-en-matiere-d-importation-de-betail-d-Afrique-du-Sud-met-en-lumiere-les-difficultes-a-etablir-des-regimes-d-importation-SPS-a-l-echelle-de-la-region"/>
+		<updated>2014-08-21T12:17:24Z</updated>
+		<summary>
+				Le 1er mai 2014, les autorités sud-africaines ont imposé des exigences vétérinaires strictes pour l’importation d’animaux vivants en provenance de...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Rapport-annuel-de-l-UE-sur-les-interceptions-phytosanitaires-de-produits-de-fournisseurs-tiers</id>
+		<title>Rapport annuel de l’UE sur les interceptions phytosanitaires de produits de fournisseurs tiers </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Rapport-annuel-de-l-UE-sur-les-interceptions-phytosanitaires-de-produits-de-fournisseurs-tiers"/>
+		<updated>2014-08-18T08:45:06Z</updated>
+		<summary>
+				Selon le rapport annuel pour 2013 de l’Office alimentaire et vétérinaire (OAV) de l’UE, quelque 6 639 lots provenant de pays tiers ont été intercep...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Des-controles-europeens-sur-la-securite-des-aliments-plus-nombreux-mais-moins-de-produits-non-conformes-en-provenance-de-pays-tiers</id>
+		<title>Des contrôles européens sur la sécurité des aliments plus nombreux mais moins de produits non conformes en provenance de pays tiers</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Des-controles-europeens-sur-la-securite-des-aliments-plus-nombreux-mais-moins-de-produits-non-conformes-en-provenance-de-pays-tiers"/>
+		<updated>2014-08-21T13:05:47Z</updated>
+		<summary>
+				Un article sur le site web Foodqualitynews.com indique que, selon la Commission européenne, « le système de contrôles aux frontières de l’UE sur le...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Les-organisations-d-agriculteurs-britanniques-reclament-une-uniformisation-des-regles-du-jeu-pour-l-usage-des-pesticides</id>
+		<title>Les organisations d’agriculteurs britanniques réclament une uniformisation des règles du jeu pour l’usage des pesticides</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Les-organisations-d-agriculteurs-britanniques-reclament-une-uniformisation-des-regles-du-jeu-pour-l-usage-des-pesticides"/>
+		<updated>2014-08-11T14:27:14Z</updated>
+		<summary>
+				Les organisations représentant les agriculteurs et les fournisseurs d’intrants au Royaume-Uni ont exprimé leurs préoccupations que la surréglementa...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Fixation-de-nouvelles-limites-maximales-de-cadmium-dans-les-denrees-alimentaires</id>
+		<title>Fixation de nouvelles limites maximales de cadmium dans les denrées alimentaires</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Fixation-de-nouvelles-limites-maximales-de-cadmium-dans-les-denrees-alimentaires"/>
+		<updated>2014-07-21T09:48:54Z</updated>
+		<summary>
+				En mai 2014, la CE « a adopté de nouvelles mesures pour réduire les limites maximales d’exposition des consommateurs au cadmium dans les aliments t...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/La-revision-du-systeme-PMA-de-l-Inde-met-en-exergue-l-importance-de-la-couverture-des-produits-des-exigences-SPS-et-des-regles-d-origine</id>
+		<title>La révision du système PMA de l’Inde met en exergue l’importance de la couverture des produits, des exigences SPS et des règles d’origine </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/La-revision-du-systeme-PMA-de-l-Inde-met-en-exergue-l-importance-de-la-couverture-des-produits-des-exigences-SPS-et-des-regles-d-origine"/>
+		<updated>2014-07-21T09:41:57Z</updated>
+		<summary>
+				Le système d’importation préférentiel en franchise de droits annoncé par l’Inde en avril 2008 est devenu pleinement opérationnel en octobre 2012. L...
+				</summary>
+	</entry>			</feed>

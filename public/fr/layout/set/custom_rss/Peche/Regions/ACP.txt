@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Peche/Regions/ACP</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Peche/Regions/ACP" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:32:31Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Le-cadre-OMC-pour-l-acces-aux-marches-internationaux-pour-les-produits-de-la-peche-et-de-l-aquaculture</id>
+		<title>Le cadre OMC pour l’accès aux marchés internationaux pour les produits de la pêche et de l’aquaculture</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/Le-cadre-OMC-pour-l-acces-aux-marches-internationaux-pour-les-produits-de-la-peche-et-de-l-aquaculture"/>
+		<updated>2014-10-12T13:33:03Z</updated>
+		<summary>
+				Des délégués de 11 pays ont participé à un atelier conjoint organisé par la FAO et Info-SAMAK sur un « cadre OMC pour l’accès aux marchés internati...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Problemes-emergents-en-matiere-d-evaluation-et-de-gestion-de-la-securite-et-de-la-qualite-des-produits-de-la-mer</id>
+		<title>Problèmes émergents en matière d’évaluation et de gestion de la sécurité et de la qualité des produits de la mer</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Problemes-emergents-en-matiere-d-evaluation-et-de-gestion-de-la-securite-et-de-la-qualite-des-produits-de-la-mer"/>
+		<updated>2014-10-04T11:18:00Z</updated>
+		<summary>
+				La FAO a publié un nouveau document technique sur les pratiques actuelles et les problèmes émergents en matière de sécurité et de qualité des produ...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Appel-a-ce-que-l-UE-interdise-les-subventions-pour-la-peche-en-haute-mer</id>
+		<title>Appel à ce que l’UE interdise les subventions pour la pêche en haute mer</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/Appel-a-ce-que-l-UE-interdise-les-subventions-pour-la-peche-en-haute-mer"/>
+		<updated>2014-10-08T12:04:48Z</updated>
+		<summary>
+				La Global Ocean
+ Commission (GOC), une initiative composée de 17 gouvernements et dirigeants d’entreprise, appelle à un système de gouvernance inte...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Lutter-contre-la-peche-INN-par-le-biais-de-la-politique-commerciale-l-experience-de-l-UE</id>
+		<title>Lutter contre la pêche INN par le biais de la politique commerciale : l’expérience de l’UE </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Lutter-contre-la-peche-INN-par-le-biais-de-la-politique-commerciale-l-experience-de-l-UE"/>
+		<updated>2014-10-08T12:01:13Z</updated>
+		<summary>
+				La Commission européenne (DG Mare) a récemment publié un aperçu de l’état d’avancement de la mise en œuvre du règlement INN de l’UE par les États m...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Des-ameliorations-doivent-etre-apportees-a-la-reglementation-de-l-UE-en-matiere-de-peche-INN-affirme-une-nouvelle-etude</id>
+		<title>Des améliorations doivent être apportées à la réglementation de l’UE en matière de pêche INN, affirme une nouvelle étude </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Des-ameliorations-doivent-etre-apportees-a-la-reglementation-de-l-UE-en-matiere-de-peche-INN-affirme-une-nouvelle-etude"/>
+		<updated>2014-10-08T12:00:50Z</updated>
+		<summary>
+				Une nouvelle étude intitulée « Traceability, Legal Provenance and the EU IUU Regulation » (Traçabilité, provenance licite et règlement de l’UE en m...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Developpements-recents-dans-le-marche-europeen-du-thon-en-conserve</id>
+		<title>Développements récents dans le marché européen du thon en conserve </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Developpements-recents-dans-le-marche-europeen-du-thon-en-conserve"/>
+		<updated>2014-10-08T12:00:29Z</updated>
+		<summary>
+				Deux publications récentes, à savoir le rapport Globefish de la FFA et le Trade and Industry News, dans son article spécial sur la conférence sur l...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/La-mise-en-aeuvre-de-l-interdiction-des-rejets-souleve-de-plus-en-plus-de-critiques</id>
+		<title>La mise en œuvre de l'interdiction des rejets soulève de plus en plus de critiques</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Politique-commune-de-la-peche-de-l-UE/La-mise-en-aeuvre-de-l-interdiction-des-rejets-souleve-de-plus-en-plus-de-critiques"/>
+		<updated>2014-07-23T11:08:17Z</updated>
+		<summary>
+				Une récente étude parue dans la revue scientifique Nature souligne que, à elle seule, l'élimination des rejets – une mesure clé acceptée dans la no...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/La-FAO-adopte-des-lignes-directrices-internationales-pour-des-pecheries-artisanales-durables</id>
+		<title>La FAO adopte des lignes directrices internationales pour des pêcheries artisanales durables </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Accord-de-l-OMC/La-FAO-adopte-des-lignes-directrices-internationales-pour-des-pecheries-artisanales-durables"/>
+		<updated>2014-07-05T11:32:16Z</updated>
+		<summary>
+				La 31e session du Comité des pêches de la FAO (COFI 31) s’est tenue du 9 au 13 juin 2014 à Rome. Juste avant le COFI 31, la FAO avait publié l’édit...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Une-conference-internationale-analyse-la-dimension-exterieure-de-la-nouvelle-PCP</id>
+		<title>Une conférence internationale analyse la dimension extérieure de la nouvelle PCP</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Une-conference-internationale-analyse-la-dimension-exterieure-de-la-nouvelle-PCP"/>
+		<updated>2014-06-23T08:39:05Z</updated>
+		<summary>
+				Un rapport récent sur la Conférence internationale qui s’est tenue durant deux jours à la fin janvier 2014 à Stockholm, examine les implications de...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Les-navires-thoniers-espagnols-battant-pavillon-etranger-devront-se-conformer-aux-normes-de-la-PCP-en-matiere-de-controle</id>
+		<title>Les navires thoniers espagnols battant pavillon étranger devront se conformer aux normes de la PCP en matière de contrôle </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Relations-ACP-UE-APP/Les-navires-thoniers-espagnols-battant-pavillon-etranger-devront-se-conformer-aux-normes-de-la-PCP-en-matiere-de-controle"/>
+		<updated>2014-06-15T23:23:11Z</updated>
+		<summary>
+				Le gouvernement espagnol et la Confédération espagnole de pêche (CEPESCA), au nom des associations de pêche au thon espagnoles (ANABAC et OPAGAC),...
+				</summary>
+	</entry>			</feed>

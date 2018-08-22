@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Produits-de-base/Cacao</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Produits-de-base/Cacao" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:10:29Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Tendances-prospectives-dans-la-localisation-de-la-production-mondiale-de-cacao</id>
+		<title>Tendances prospectives dans la localisation de la production mondiale de cacao</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Tendances-prospectives-dans-la-localisation-de-la-production-mondiale-de-cacao"/>
+		<updated>2014-07-26T17:29:53Z</updated>
+		<summary>
+				La hausse de la consommation mondiale de cacao étant largement impulsée par les marchés en développement en Asie et en Amérique latine, la question...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Fixation-de-nouvelles-limites-maximales-de-cadmium-dans-les-denrees-alimentaires</id>
+		<title>Fixation de nouvelles limites maximales de cadmium dans les denrées alimentaires</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Fixation-de-nouvelles-limites-maximales-de-cadmium-dans-les-denrees-alimentaires"/>
+		<updated>2014-07-21T09:48:54Z</updated>
+		<summary>
+				En mai 2014, la CE « a adopté de nouvelles mesures pour réduire les limites maximales d’exposition des consommateurs au cadmium dans les aliments t...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Le-secteur-du-cacao-nigerian-se-developpe-en-reponse-a-la-hausse-des-prix</id>
+		<title>Le secteur du cacao nigérian se développe en réponse à la hausse des prix </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Le-secteur-du-cacao-nigerian-se-developpe-en-reponse-a-la-hausse-des-prix"/>
+		<updated>2014-07-21T09:44:52Z</updated>
+		<summary>
+				Dans un rapport publié en mai 2014, l’USDA prévoit une augmentation de 7 % de la production de cacao nigériane, à presque 300 000 tonnes, en 2013/1...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Des-normes-flexibles-aident-la-Papouasie-Nouvelle-Guinee-a-developper-les-exportations-de-cacao-certifie-commerce-equitable-alors-que-le-debat-sur-l-integrite-du-label-s-intensifie</id>
+		<title>Des normes flexibles aident la Papouasie-Nouvelle-Guinée à développer les exportations de cacao certifié commerce équitable, alors que le débat sur l’intégrité du label s’intensifie</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Des-normes-flexibles-aident-la-Papouasie-Nouvelle-Guinee-a-developper-les-exportations-de-cacao-certifie-commerce-equitable-alors-que-le-debat-sur-l-integrite-du-label-s-intensifie"/>
+		<updated>2014-07-10T14:46:59Z</updated>
+		<summary>
+				En mai 2014, Fairtrade International a annoncé que le « Club 3000 », un groupe de 629 producteurs de cacao en Papouasie-Nouvelle-Guinée (PNG), étai...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/De-nouvelles-perspectives-pour-le-marche-du-chocolat-utilisant-le-cacao-d-origine-unique</id>
+		<title>De nouvelles perspectives pour le marché du chocolat utilisant le cacao d’origine unique </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/De-nouvelles-perspectives-pour-le-marche-du-chocolat-utilisant-le-cacao-d-origine-unique"/>
+		<updated>2014-06-15T22:45:52Z</updated>
+		<summary>
+				Barry Callebaut a lancé un assortiment haut de gamme de chocolats d’origine unique sous la marque « Origin », et affirme que le produit peut égalem...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Le-second-deficit-successif-de-la-production-de-cacao-soutient-les-prix</id>
+		<title>Le second déficit successif de la production de cacao soutient les prix</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Le-second-deficit-successif-de-la-production-de-cacao-soutient-les-prix"/>
+		<updated>2014-05-06T15:49:09Z</updated>
+		<summary>
+				En mars 2014, l’Organisation internationale du cacao (ICCO) prévoit un déficit de la production de cacao pour la saison 2013/14 de 115 000 tonnes p...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Les-levures-utilisees-dans-la-fermentation-des-feves-pourraient-favoriser-de-nouvelles-tendances-de-la-consommation-de-chocolat</id>
+		<title>Les levures utilisées dans la fermentation des fèves pourraient favoriser de nouvelles tendances de la consommation de chocolat </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Les-levures-utilisees-dans-la-fermentation-des-feves-pourraient-favoriser-de-nouvelles-tendances-de-la-consommation-de-chocolat"/>
+		<updated>2014-03-16T18:21:59Z</updated>
+		<summary>
+				D’après des informations parues sur le site web Confectionery News, des chercheurs de l’université de New South Wales ont confirmé l’importance de...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/La-Cote-d-Ivoire-tete-de-pont-vers-le-marche-regional-du-chocolat</id>
+		<title>La Côte d'Ivoire, tête de pont vers le marché régional du chocolat</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/La-Cote-d-Ivoire-tete-de-pont-vers-le-marche-regional-du-chocolat"/>
+		<updated>2014-03-09T14:22:34Z</updated>
+		<summary>
+				
+		
+
+Troisième génération aux commandes du chocolatier français Cémoi (CA de €780 millions) implanté à Perpignan, Patrick Poirrier, 43 ans, a lancé la filiale en Côte d'Ivoire et l'a dirigée avant de prendre la direction du groupe en France. 
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Tendances-en-matiere-d-origine-d-authenticite-et-de-tracabilite-dans-le-secteur-du-cacao-chocolat</id>
+		<title>Tendances en matière d’origine, d’authenticité et de traçabilité dans le secteur du cacao/chocolat</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Tendances-en-matiere-d-origine-d-authenticite-et-de-tracabilite-dans-le-secteur-du-cacao-chocolat"/>
+		<updated>2014-03-10T11:01:18Z</updated>
+		<summary>
+				L’industrie belge du chocolat « profite d’une tendance à la consommation de produits authentiques et traçables », d’après ce que rapporte le produc...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Le-rapport-d-impact-d-UTZ-Certified-revele-que-la-certification-ameliore-les-rendements-et-les-revenus-des-agriculteurs</id>
+		<title>Le rapport d’impact d’UTZ Certified révèle que la certification améliore les rendements et les revenus des agriculteurs </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Le-rapport-d-impact-d-UTZ-Certified-revele-que-la-certification-ameliore-les-rendements-et-les-revenus-des-agriculteurs"/>
+		<updated>2014-03-09T13:19:27Z</updated>
+		<summary>
+				D’après des articles parus dans Confectionery News, au cours de l’année 2012/13, le cacao UTZ Certified représentait 14 % de la production mondiale...
+				</summary>
+	</entry>			</feed>

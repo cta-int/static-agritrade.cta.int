@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Produits-de-base/Cereales</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Produits-de-base/Cereales" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:12:10Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Le-sorgho-et-le-manioc-de-plus-en-plus-utilises-dans-l-industrie-brassicole-en-Afrique</id>
+		<title>Le sorgho et le manioc de plus en plus utilisés dans l'industrie brassicole en Afrique</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Le-sorgho-et-le-manioc-de-plus-en-plus-utilises-dans-l-industrie-brassicole-en-Afrique"/>
+		<updated>2014-12-08T11:02:56Z</updated>
+		<summary>
+				On observe une tendance croissante vers la culture sous contrat du manioc et d'autres intrants pour l'industrie brassicole en Afrique, où sept gouv...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Integration-de-marche-en-Afrique-centrale-et-orientale-pour-le-mais-le-riz-et-le-sorgho</id>
+		<title>Intégration de marché en Afrique centrale et orientale pour le maïs, le riz et le sorgho</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Integration-de-marche-en-Afrique-centrale-et-orientale-pour-le-mais-le-riz-et-le-sorgho"/>
+		<updated>2014-11-25T21:31:28Z</updated>
+		<summary>
+				La Banque mondiale a publié un document de recherche sur les politiques qui évalue les « obstacles à l'intégration de marché en Afrique centrale et...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/La-Tanzanie-se-tourne-vers-les-marches-etrangers-pour-ecouler-son-excedent-de-mais</id>
+		<title>La Tanzanie se tourne vers les marchés étrangers pour écouler son excédent de maïs </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/La-Tanzanie-se-tourne-vers-les-marches-etrangers-pour-ecouler-son-excedent-de-mais"/>
+		<updated>2014-11-24T11:07:53Z</updated>
+		<summary>
+				D'après certains articles de presse parus fin août 2014, le gouvernement de la Tanzanie envisage d'exporter son excédent de maïs vers les marchés d...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Les-importations-de-mais-ont-un-impact-sur-le-prix-du-mais-kenyan</id>
+		<title>Les importations de maïs ont un impact sur le prix du maïs kényan </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Les-importations-de-mais-ont-un-impact-sur-le-prix-du-mais-kenyan"/>
+		<updated>2014-11-17T11:06:54Z</updated>
+		<summary>
+				D'après des informations parues dans la presse d’Afrique de l’Est, les importations de maïs en provenance des pays voisins ont engendré une baisse...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Des-perspectives-pour-attirer-le-commerce-informel-des-cereales-vers-le-secteur-formel</id>
+		<title>Des perspectives pour attirer le commerce informel des céréales vers le secteur formel </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Des-perspectives-pour-attirer-le-commerce-informel-des-cereales-vers-le-secteur-formel"/>
+		<updated>2014-11-10T09:58:34Z</updated>
+		<summary>
+				La Banque mondiale a publié une note politique sur la possibilité d’améliorer le commerce transfrontalier informel de maïs, riz et haricots, propos...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/En-Tanzanie-relier-les-zones-excedentaires-aux-marches-constitue-un-defi</id>
+		<title>En Tanzanie, relier les zones excédentaires aux marchés constitue un défi</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/En-Tanzanie-relier-les-zones-excedentaires-aux-marches-constitue-un-defi"/>
+		<updated>2014-11-03T11:31:06Z</updated>
+		<summary>
+				à la mi-août 2014, le gouvernement tanzanien a « demandé aux commerçants et agences commerciales d’acheter et exporter le maïs en excédent suite au...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Differentes-approches-de-la-promotion-de-la-transformation-et-du-commerce-du-manioc</id>
+		<title>Différentes approches de la promotion de la transformation et du commerce du manioc</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Differentes-approches-de-la-promotion-de-la-transformation-et-du-commerce-du-manioc"/>
+		<updated>2014-10-18T11:55:18Z</updated>
+		<summary>
+				Des informations de presse récentes d'Afrique australe et occidentale ont souligné les approches très différentes qui peuvent être adoptées pour pr...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Des-dysfonctionnements-dans-les-operations-actuelles-justifient-une-restructuration-du-NCPB-kenyan</id>
+		<title>Des dysfonctionnements dans les opérations actuelles justifient une restructuration du NCPB kényan </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Des-dysfonctionnements-dans-les-operations-actuelles-justifient-une-restructuration-du-NCPB-kenyan"/>
+		<updated>2014-10-04T12:40:01Z</updated>
+		<summary>
+				En juin 2014, la presse a relayé l’information selon laquelle le National Cereals and Produce Board (NCPB) du Kenya n’achetait plus de maïs aux agr...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Le-debat-se-cristallise-autour-des-importations-de-mais-du-Kenya</id>
+		<title>Le débat se cristallise autour des importations de maïs du Kenya </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Le-debat-se-cristallise-autour-des-importations-de-mais-du-Kenya"/>
+		<updated>2014-10-04T12:38:01Z</updated>
+		<summary>
+				D’après la FAO, la production céréalière en Afrique orientale devrait avoir augmenté de 0,9 % entre 2012 et 2014, avec une croissance annuelle prév...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Vue-d-ensemble-de-la-disponibilite-des-cereales-en-Afrique-subsaharienne</id>
+		<title>Vue d’ensemble de la disponibilité des céréales en Afrique subsaharienne </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Vue-d-ensemble-de-la-disponibilite-des-cereales-en-Afrique-subsaharienne"/>
+		<updated>2014-10-04T12:35:32Z</updated>
+		<summary>
+				En juillet 2014, la FAO a indiqué dans son rapport Perspectives de récolte et situation alimentaire que les perspectives pour la production mondial...
+				</summary>
+	</entry>			</feed>

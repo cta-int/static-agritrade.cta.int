@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Commodities/Rice</id>
+	<link rel="self" href="http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Commodities/Rice" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T17:12:48Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/Rice-value-chain-Ghana-CRIG-develops-a-new-high-yielding-and-drought-resistant-rice-variety</id>
+		<title>Rice value chain/Ghana – CRIG develops a new high yielding and drought resistant rice variety</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/Rice-value-chain-Ghana-CRIG-develops-a-new-high-yielding-and-drought-resistant-rice-variety"/>
+		<updated>2016-01-18T11:00:46Z</updated>
+		<summary>
+				The Crop Research Institute of Ghana (CRIG) in Ashanti Region has developed a new high yielding and drought resistant rice variety called AgraRice,...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Rice/Rice-value-chain-Cameroon-Commercial-rice-farming-supports-women-farmers-from-climate-stress</id>
+		<title>Rice value chain/Cameroon - Commercial rice farming supports women farmers from climate stress</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Rice/Rice-value-chain-Cameroon-Commercial-rice-farming-supports-women-farmers-from-climate-stress"/>
+		<updated>2015-11-09T11:11:15Z</updated>
+		<summary>
+				Women farmers in Western Cameroon are leading the way in commercial rice production, benefiting from new seeds and marketing opportunities that are...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Rice-value-chain-Ghana-Ghana-meets-56-percent-demand-in-local-rice-production</id>
+		<title>Rice value chain/Ghana - Ghana meets 56 percent demand in local rice production</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Rice-value-chain-Ghana-Ghana-meets-56-percent-demand-in-local-rice-production"/>
+		<updated>2015-10-20T15:20:39Z</updated>
+		<summary>
+				According to Ghana’s Deputy Minister of Food and Agriculture in charge of Crops, current statistics pointed to the fact that the country met 56 per...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Rice-value-chain-Guyana-Government-to-implement-rice-marketing-plan-to-boost-output-and-reduce-production-costs</id>
+		<title>Rice value chain/Guyana – Government to implement rice marketing plan to boost output and reduce production costs</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Rice-value-chain-Guyana-Government-to-implement-rice-marketing-plan-to-boost-output-and-reduce-production-costs"/>
+		<updated>2015-09-15T09:51:26Z</updated>
+		<summary>
+				The government of Guyana is planning to implement a rice marketing plan which aims at improving productivity, reducing production costs, enhancing...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Rice-value-chain-Nigeria-Nigeria-plans-to-review-rice-imports-policy-to-enhance-production</id>
+		<title>Rice value chain/Nigeria – Nigeria plans to review rice imports policy to enhance production</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Rice-value-chain-Nigeria-Nigeria-plans-to-review-rice-imports-policy-to-enhance-production"/>
+		<updated>2015-09-15T09:47:47Z</updated>
+		<summary>
+				The Federal Government of Nigeria is planning to review the rice import policy in order to increase productivity, raise incomes of farmers as well...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/Rice-value-chain-Madagascar-IRRI-introduces-two-cold-tolerant-rice-varieties</id>
+		<title>Rice value chain/Madagascar- IRRI introduces two cold-tolerant rice varieties </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/Rice-value-chain-Madagascar-IRRI-introduces-two-cold-tolerant-rice-varieties"/>
+		<updated>2015-08-31T12:59:09Z</updated>
+		<summary>
+				The International Rice Research Institute (IRRI) and the Africa Rice Center (AfriceRice) have jointly released two cold-tolerant rice varieties in...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Market-access/Grain-value-chain-Uganda-Government-moves-to-enforce-grain-quality-control</id>
+		<title>Grain value chain/Uganda – Government moves to enforce grain quality control</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Market-access/Grain-value-chain-Uganda-Government-moves-to-enforce-grain-quality-control"/>
+		<updated>2015-08-31T12:57:39Z</updated>
+		<summary>
+				According to Uganda’s Trade Ministry, grains leaving and coming into the country will be subjected to strict quality controls as government moves...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Rice/Rice-and-Cassava-value-chain-Cameroon-C2D-projects-amplify-seed-multiplication</id>
+		<title>Rice and Cassava value chain/Cameroon - C2D projects amplify seed multiplication </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Rice/Rice-and-Cassava-value-chain-Cameroon-C2D-projects-amplify-seed-multiplication"/>
+		<updated>2015-08-06T13:03:43Z</updated>
+		<summary>
+				The Cameroon French Debt Relief Programme (C2D-PAR) on agricultural research, managed by the Ministry of Scientific Research and Innovation (MINRE...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Other/Rice-value-chain-Nigeria-Rice-production-increases-by-140-percent</id>
+		<title>Rice value chain/Nigeria - Rice production increases by 140 percent</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Other/Rice-value-chain-Nigeria-Rice-production-increases-by-140-percent"/>
+		<updated>2015-06-19T13:20:29Z</updated>
+		<summary>
+				According to the Managing Director (MD) of Niger State Agricultural and Mechanization Development Authority (NAMDA), rice yield per hectare has inc...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Rice/Rice-value-chain-Zambia-FAO-to-support-484-000-for-Zambian-rice-sector</id>
+		<title>Rice value chain/Zambia – FAO to support $484,000 for Zambian rice sector</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Rice/Rice-value-chain-Zambia-FAO-to-support-484-000-for-Zambian-rice-sector"/>
+		<updated>2015-06-19T13:18:21Z</updated>
+		<summary>
+				Zambian rice sector will receive U.S $484,000 support from FAO under its Technical Cooperation Program (TCP). The program will boost the rice prod...
+				</summary>
+	</entry>			</feed>

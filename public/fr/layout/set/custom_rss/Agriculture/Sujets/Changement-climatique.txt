@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/Changement-climatique</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/Changement-climatique" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:04:01Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/The/La-hausse-des-prix-compense-la-chute-des-volumes-de-the-exportes-en-Afrique-de-l-Est</id>
+		<title>La hausse des prix compense la chute des volumes de thé exportés en Afrique de l’Est</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/The/La-hausse-des-prix-compense-la-chute-des-volumes-de-the-exportes-en-Afrique-de-l-Est"/>
+		<updated>2012-09-09T15:12:10Z</updated>
+		<summary>
+				Le Kenya Tea Board a annoncé une baisse de 11,4 % de la production de thé au premier semestre 2012, soit 158 170 tonnes contre 178 400 tonnes sur l...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Impact-du-changement-climatique-sur-la-production-de-cacao-en-Afrique-de-l-Ouest</id>
+		<title>Impact du changement climatique sur la production de cacao en Afrique de l’Ouest</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Impact-du-changement-climatique-sur-la-production-de-cacao-en-Afrique-de-l-Ouest"/>
+		<updated>2012-01-07T15:22:24Z</updated>
+		<summary>
+				Un rapport rédigé par des scientifiques spécialistes du climat du Centre international pour l’agriculture tropicale (CIAT) basé en Colombie, comman...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Les-exportateurs-de-riz-du-Guyana-sont-pries-de-ne-pas-negliger-les-marches-traditionnels</id>
+		<title>Les exportateurs de riz du Guyana sont priés de ne pas négliger les marchés traditionnels </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Riz/Les-exportateurs-de-riz-du-Guyana-sont-pries-de-ne-pas-negliger-les-marches-traditionnels"/>
+		<updated>2011-11-23T12:28:52Z</updated>
+		<summary>
+				Après la conclusion d’un accord avec le gouvernement vénézuélien pour la fourniture de 50 000 tonnes de riz paddy à 520 $US/tonne et de 20 000 tonn...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/The/La-production-kenyane-de-the-en-baisse-sur-fond-de-craintes-des-impacts-a-long-terme-du-changement-climatique</id>
+		<title>La production kényane de thé en baisse sur fond de craintes des impacts à long terme du changement climatique</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/The/La-production-kenyane-de-the-en-baisse-sur-fond-de-craintes-des-impacts-a-long-terme-du-changement-climatique"/>
+		<updated>2011-10-14T08:17:13Z</updated>
+		<summary>
+				D’après certains articles de presse, des précipitations irrégulières ont engendré une baisse de 16,2  % de la production de thé au cours du premier...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Changement-climatique/L-impact-du-changement-climatique-sur-les-disponibilites-en-eau-et-la-securite-alimentaire</id>
+		<title>L’impact du changement climatique sur les disponibilités en eau et la sécurité alimentaire </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Changement-climatique/L-impact-du-changement-climatique-sur-les-disponibilites-en-eau-et-la-securite-alimentaire"/>
+		<updated>2011-07-11T17:52:40Z</updated>
+		<summary>
+				Un rapport de la FAO sur l’impact du changement climatique vient d’être publié, mettant en garde contre le fait que « le changement climatique aura...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Agriculture-et-changement-climatique</id>
+		<title>Agriculture et changement climatique</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Agriculture-et-changement-climatique"/>
+		<updated>2011-07-11T09:11:38Z</updated>
+		<summary>
+				Un document intitulé « Agriculture et changement climatique », dans le volume « 2020 European agriculture: Challenges and policies », co-publié par...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/APE/Debat-sur-la-mise-en-aeuvre-de-l-APE-et-sur-les-preoccupations-en-matiere-de-changement-climatique</id>
+		<title>Débat sur la mise en œuvre de l’APE et sur les préoccupations en matière de changement climatique</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/APE/Debat-sur-la-mise-en-aeuvre-de-l-APE-et-sur-les-preoccupations-en-matiere-de-changement-climatique"/>
+		<updated>2011-07-11T09:13:42Z</updated>
+		<summary>
+				Lors de la 31ème réunion des chefs de gouvernement du CARICOM qui s’est tenue du 4 au 7 juillet 2010, l’agriculture a été identifiée comme « un sec...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Flambee-des-prix-sur-le-marche-de-l-UE-suite-aux-conditions-meteorologiques</id>
+		<title>Flambée des prix sur le marché de l’UE suite aux conditions météorologiques</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Flambee-des-prix-sur-le-marche-de-l-UE-suite-aux-conditions-meteorologiques"/>
+		<updated>2011-07-11T09:18:14Z</updated>
+		<summary>
+				En juillet, « les prix des céréales en Europe ont grimpé de 25% [...] après une vague de canicule et de sécheresse qui a touché les cultures quelqu...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/L-horticulture-vulnerable-a-des-chocs-exogenes</id>
+		<title>L’horticulture vulnérable à des chocs exogènes</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/L-horticulture-vulnerable-a-des-chocs-exogenes"/>
+		<updated>2011-07-11T09:16:18Z</updated>
+		<summary>
+				Le froid qui sévit en Europe porte préjudice aux exportations kényanes de produits horticoles et floricoles, le mauvais temps venant sérieusement p...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Debat-sur-les-effets-du-commerce-international-sur-les-emissions-de-carbone</id>
+		<title>Débat sur les effets du commerce international sur les émissions de carbone </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Debat-sur-les-effets-du-commerce-international-sur-les-emissions-de-carbone"/>
+		<updated>2011-07-11T09:16:17Z</updated>
+		<summary>
+				The debate on the role of the international food trade in climate change has intensified, with statements from the Archbishop of Canterbury calling...
+				</summary>
+	</entry>			</feed>

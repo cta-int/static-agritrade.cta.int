@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/layout/set/custom_rss/Agriculture/Topics/Other</id>
+	<link rel="self" href="http://agritrade.cta.int/layout/set/custom_rss/Agriculture/Topics/Other" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T15:19:12Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/General/Agriculture-Policing-Kick-starts-in-Uganda</id>
+		<title>Agriculture Policing Kick starts in Uganda</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/General/Agriculture-Policing-Kick-starts-in-Uganda"/>
+		<updated>2015-10-20T08:18:27Z</updated>
+		<summary>
+				The need to stamp out agricultural (including livestock) malpractices has necessitated creation of a special Agriculture Unit within the Ugandan Po...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/General/To-Eat-or-Not-to-Eat-The-debate-revolving-around-the-beast-of-burden-in-Kenya</id>
+		<title>To Eat or Not to Eat? The debate revolving around the beast of burden in Kenya</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/General/To-Eat-or-Not-to-Eat-The-debate-revolving-around-the-beast-of-burden-in-Kenya"/>
+		<updated>2015-10-20T08:12:30Z</updated>
+		<summary>
+				Donkey meat has recently found its way on to tables of some households in Kenya amidst a contest between campaigners of ‘enlarged food basket’ on o...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/General/Perpetual-Cattle-Rustling-in-Northern-Region-of-Kenya-rears-its-ugly-head-Again</id>
+		<title>Perpetual Cattle Rustling in Northern Region of Kenya rears its ugly head Again</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/General/Perpetual-Cattle-Rustling-in-Northern-Region-of-Kenya-rears-its-ugly-head-Again"/>
+		<updated>2015-10-20T08:08:44Z</updated>
+		<summary>
+				It’s quite unfortunate that livestock resources on which the community of Northern Kenya regarded as their ‘four-legged gold’ should turn into the...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/General/The-Impact-of-Political-Strife-to-Livestock-Keepers-in-Burundi</id>
+		<title>The Impact of Political Strife to Livestock Keepers in Burundi</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/General/The-Impact-of-Political-Strife-to-Livestock-Keepers-in-Burundi"/>
+		<updated>2015-10-20T08:04:08Z</updated>
+		<summary>
+				Political strife has a direct negative impact on the productive sectors of economies globally and results in an average of 12.5% drop in agricultur...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Constraints-of-Commercialization-of-Dairy-Sector-in-Tanzania</id>
+		<title>Constraints of Commercialization of Dairy Sector in Tanzania</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Constraints-of-Commercialization-of-Dairy-Sector-in-Tanzania"/>
+		<updated>2015-10-20T08:01:59Z</updated>
+		<summary>
+				The small-scale nature of milk actors in the dairy value chain from production to trading has been poised as a bottleneck that is curtailing full c...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/General/How-do-farming-communities-understand-Resource-Ownership-and-what-is-the-implication-on-food-security-Case-of-Tanzania</id>
+		<title>How do farming communities understand “Resource Ownership and what is the implication on food security? Case of Tanzania </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/General/How-do-farming-communities-understand-Resource-Ownership-and-what-is-the-implication-on-food-security-Case-of-Tanzania"/>
+		<updated>2015-10-20T07:58:39Z</updated>
+		<summary>
+				A new study conducted to understand perceptions of ‘resource ownership’ and how this affects food security among smallholder livestock keepers in T...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/General/Business-as-Unusual-a-Participatory-Approach-in-Foliage-Data-Collection-in-Tanzania</id>
+		<title>‘Business as Unusual’: a Participatory Approach in Foliage Data Collection in Tanzania</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/General/Business-as-Unusual-a-Participatory-Approach-in-Foliage-Data-Collection-in-Tanzania"/>
+		<updated>2015-10-20T07:53:59Z</updated>
+		<summary>
+				Conventionally, in agricultural research projects, other stakeholders such as farmers and extension officers are usually passive participants only...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Factors-affecting-Pregnancy-Rate-in-cattle-through-Artificial-Insemination-in-Small-Scale-Dairy-Farms-in-Rwanda</id>
+		<title>Factors affecting Pregnancy Rate in cattle through Artificial Insemination in Small Scale Dairy Farms in Rwanda?</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Factors-affecting-Pregnancy-Rate-in-cattle-through-Artificial-Insemination-in-Small-Scale-Dairy-Farms-in-Rwanda"/>
+		<updated>2015-10-20T07:43:55Z</updated>
+		<summary>
+				Age, parity and cattle breed are intrinsic factor that determine the rate of pregnancy in cattle through AI. In addition, level of education, recor...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Inadequate-security-of-Land-Tenure-continues-to-perpetuate-conflicts-between-Farmers-and-Herders-in-Tanzania</id>
+		<title>Inadequate security of Land Tenure continues to perpetuate conflicts between Farmers and Herders in Tanzania</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Inadequate-security-of-Land-Tenure-continues-to-perpetuate-conflicts-between-Farmers-and-Herders-in-Tanzania"/>
+		<updated>2015-10-19T14:34:47Z</updated>
+		<summary>
+				It has emerged that policy deficiencies and contradictions, insecurity of land tenure, inadequacy of capacity of community based institutions, corr...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Beef/Calls-for-Use-of-Animal-Feeds-to-Increase-Livestock-Production-in-Rwanda</id>
+		<title>Calls for Use of Animal Feeds to Increase Livestock Production in Rwanda</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Beef/Calls-for-Use-of-Animal-Feeds-to-Increase-Livestock-Production-in-Rwanda"/>
+		<updated>2015-10-16T12:24:02Z</updated>
+		<summary>
+				It is noteworthy that there is renewed appreciation by industry players of the benefits of using commercial feeds in livestock production against t...
+				</summary>
+	</entry>			</feed>

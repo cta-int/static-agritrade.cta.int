@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Topics/Aid-for-trade</id>
+	<link rel="self" href="http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Topics/Aid-for-trade" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T16:56:35Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Aid-for-trade/Value-chain-finance-Zambia-Zanaco-John-Deere-and-ZNFU-launch-asset-finance-scheme</id>
+		<title>Value chain finance/Zambia – Zanaco, John Deere and ZNFU launch asset finance scheme</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Aid-for-trade/Value-chain-finance-Zambia-Zanaco-John-Deere-and-ZNFU-launch-asset-finance-scheme"/>
+		<updated>2015-09-15T10:05:27Z</updated>
+		<summary>
+				Zanaco bank in partnership with John Deere Financial and the Zambia National Farmers Union (ZNFU) launched an agriculture asset finance scheme. Off...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Aid-for-trade/Dairy-value-chain-Kenya-Milk-preserving-technology-to-boost-farmers-revenue</id>
+		<title>Dairy value chain/Kenya – Milk preserving technology to boost farmers’ revenue</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Aid-for-trade/Dairy-value-chain-Kenya-Milk-preserving-technology-to-boost-farmers-revenue"/>
+		<updated>2015-09-15T09:43:26Z</updated>
+		<summary>
+				A new milk preserving technology that preserves up to a month has helped over 3,000 dairy farmers cut losses they experienced in milk going bad whi...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Aid-for-trade/Dairy-value-chain-Kenya-Farmers-contracted-by-Brookside-set-to-benefit-from-loans-deal</id>
+		<title>Dairy value chain/Kenya - Farmers contracted by Brookside set to benefit from loans deal</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Aid-for-trade/Dairy-value-chain-Kenya-Farmers-contracted-by-Brookside-set-to-benefit-from-loans-deal"/>
+		<updated>2015-08-31T13:16:37Z</updated>
+		<summary>
+				A local milk processing firm has entered into partnership with financial institutions to give credit to dairy farmers. Brookside Dairy has reached...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Cereals/Grain-value-chain-Ghana-Bank-of-Ghana-supports-warehouse-receipt-system</id>
+		<title>Grain value chain/Ghana - Bank of Ghana supports warehouse receipt system </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Cereals/Grain-value-chain-Ghana-Bank-of-Ghana-supports-warehouse-receipt-system"/>
+		<updated>2015-08-06T13:05:42Z</updated>
+		<summary>
+				The Bank of Ghana (BoG) has initiated action towards the introduction of Warehouse Receipt System finance during an international seminar on Commo...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Cereals/Grain-value-chain-Kenya-Grain-farmers-to-get-asset-financing-at-9</id>
+		<title>Grain value chain/Kenya - Grain farmers to get asset financing at 9%</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Cereals/Grain-value-chain-Kenya-Grain-farmers-to-get-asset-financing-at-9"/>
+		<updated>2015-08-06T12:56:03Z</updated>
+		<summary>
+				In Kenya, Transnational Bank has partnered with BrazAgro, a farm machinery dealer, to issue grain farmers with funds to purchase storage facilitie...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Value-chain-Finance-Tanzania-Farmers-benefit-from-financial-training-through-M-Pawa</id>
+		<title>Value chain Finance/Tanzania - Farmers benefit from financial training through M-Pawa</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Value-chain-Finance-Tanzania-Farmers-benefit-from-financial-training-through-M-Pawa"/>
+		<updated>2015-05-20T10:59:03Z</updated>
+		<summary>
+				About 20,000 grain farmers in Tanzania have benefited from financial training as part of the Connected Farmer Alliance, a USAID funded partnership...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Rice-value-chain-Ghana-Japan-supports-Ghana-rice-sector-with-machines</id>
+		<title>Rice value chain/ Ghana – Japan supports Ghana rice sector with machines</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Rice-value-chain-Ghana-Japan-supports-Ghana-rice-sector-with-machines"/>
+		<updated>2015-05-15T09:31:55Z</updated>
+		<summary>
+				Agriculture machines worth $ 2.5 million were issued by the Japanese government under grant assistance. The support included 11 rice reapers, 6 ri...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Policy-reforms-key-to-encourage-African-women-take-up-agribusiness</id>
+		<title>Policy reforms key to encourage African women take up agribusiness</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Policy-reforms-key-to-encourage-African-women-take-up-agribusiness"/>
+		<updated>2015-05-12T09:47:53Z</updated>
+		<summary>
+				African governments should accelerate policy reforms and invest in transport and storage infrastructure to encourage women’s participation in agri...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Cereals/Grain-value-chain-Kenya-Finance-for-smallholder-farmers</id>
+		<title>Grain value chain/Kenya - Finance for  smallholder farmers</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Cereals/Grain-value-chain-Kenya-Finance-for-smallholder-farmers"/>
+		<updated>2015-03-18T10:55:26Z</updated>
+		<summary>
+				In Kenya, Chase Bank has launched a loan product targeting small scale farmers producing cereal, in partnership with John Deere a US based multinational specialized in agriculture machinery.
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Cereals/Grain-value-chain-Rwanda-Solar-dryers-to-improve-grain-quality</id>
+		<title>Grain value chain/Rwanda - Solar dryers to improve grain quality</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Cereals/Grain-value-chain-Rwanda-Solar-dryers-to-improve-grain-quality"/>
+		<updated>2015-03-18T10:45:46Z</updated>
+		<summary>
+				Adoption of these new productivity-enhancing and post harvest solutions could trigger an agricultural transformation and facilitate the participation of smallholders in the value chain. 
+				</summary>
+	</entry>			</feed>

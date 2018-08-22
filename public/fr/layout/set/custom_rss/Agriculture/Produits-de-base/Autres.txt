@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Produits-de-base/Autres</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Produits-de-base/Autres" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:24:19Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/General/La-flambee-des-prix-des-denrees-alimentaires-va-t-elle-durer</id>
+		<title>La flambée des prix des denrées alimentaires va-t-elle durer ? </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/General/La-flambee-des-prix-des-denrees-alimentaires-va-t-elle-durer"/>
+		<updated>2012-11-30T09:46:02Z</updated>
+		<summary>
+				D’après Lester Brown, expert alimentaire de renommée internationale, le niveau record enregistré par l’indice FAO des prix des produits alimentaire...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Des-efforts-en-cours-pour-consolider-les-benefices-de-la-production-horticole-locale</id>
+		<title>Des efforts en cours pour consolider les bénéfices de la production horticole locale</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Des-efforts-en-cours-pour-consolider-les-benefices-de-la-production-horticole-locale"/>
+		<updated>2011-07-11T09:16:20Z</updated>
+		<summary>
+				Après avoir promu avec succès un meilleur accès pour les fruits et légumes produits locaux aux principales chaînes de distribution et grands distri...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Les-couts-et-benefices-des-mesures-non-tarifaires-dans-le-secteur-kenyan-des-fleurs-coupees-evalues-par-l-OCDE</id>
+		<title>Les coûts et bénéfices des mesures non tarifaires dans le secteur kényan des fleurs coupées évalués par l’OCDE</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Les-couts-et-benefices-des-mesures-non-tarifaires-dans-le-secteur-kenyan-des-fleurs-coupees-evalues-par-l-OCDE"/>
+		<updated>2011-07-11T09:16:20Z</updated>
+		<summary>
+				Un rapport de l’OCDE sur les coûts et bénéfices des mesures non tarifaires, comprenant une étude de cas sur le secteur kényan des fleurs coupées, v...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/La-faiblesse-de-l-euro-frappe-les-exportateurs-kenyans</id>
+		<title>La faiblesse de l’euro frappe les exportateurs kenyans</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/La-faiblesse-de-l-euro-frappe-les-exportateurs-kenyans"/>
+		<updated>2011-07-11T09:16:19Z</updated>
+		<summary>
+				Après avoir souffert de perturbations climatiques et d’éruptions volcaniques, les exportations horticoles du Kenya souffrent maintenant des conséqu...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Examen-annuel-de-la-politique-de-l-UE-en-matiere-de-biocarburants-par-l-USDA</id>
+		<title>Examen annuel de la politique de l’UE en matière de biocarburants par l’USDA</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Examen-annuel-de-la-politique-de-l-UE-en-matiere-de-biocarburants-par-l-USDA"/>
+		<updated>2011-07-11T09:17:43Z</updated>
+		<summary>
+				L’USDA a publié son examen annuel de la politique de l’UE en matière de biocarburants. L’examen souligne que le « marché européen des biocarburants...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/L-Afrique-du-Sud-augmente-ses-droits-de-douane-sur-la-confiserie</id>
+		<title>L'Afrique du Sud augmente ses droits de douane sur la confiserie </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/L-Afrique-du-Sud-augmente-ses-droits-de-douane-sur-la-confiserie"/>
+		<updated>2011-07-11T09:17:16Z</updated>
+		<summary>
+				Bien que les importateurs de confiseries s'y opposent (ils sont désormais au nombre de 100 environ), le gouvernement d'Afrique du Sud a augmenté l...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Le-Benelux-domine-le-commerce-mondial-de-produits-horticoles</id>
+		<title>Le Benelux domine le commerce mondial de produits horticoles </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Le-Benelux-domine-le-commerce-mondial-de-produits-horticoles"/>
+		<updated>2011-07-11T09:16:11Z</updated>
+		<summary>
+				Un rapport publié en janvier 2005 par le département américain en charge de l’agriculture (USDA) révèle que plus de 13 % des exportations mondiale...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Accord-de-l-OMC/Parallele-entre-l-acces-au-marche-non-agricole-et-la-liberalisation-des-services</id>
+		<title>Parallèle entre l'accès au marché non agricole et la libéralisation des services </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Accord-de-l-OMC/Parallele-entre-l-acces-au-marche-non-agricole-et-la-liberalisation-des-services"/>
+		<updated>2011-07-11T09:11:44Z</updated>
+		<summary>
+				S'adressant à la commission du commerce du Parlement européen, le 15 mars 2005, le commissaire Mandelson a plaidé pour plus d'ambition dans le cyc...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Publication-d-un-guide-sur-l-application-de-la-legislation-communautaire-relative-aux-sous-produits-animaux</id>
+		<title>Publication d’un guide sur l’application de la législation communautaire relative aux sous-produits animaux</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Publication-d-un-guide-sur-l-application-de-la-legislation-communautaire-relative-aux-sous-produits-animaux"/>
+		<updated>2011-07-11T09:14:05Z</updated>
+		<summary>
+				 Ce guide se propose de répondre à quelque 46 questions simples portant sur l’application de la législation de l’UE relative aux sous-produits animaux qui est entrée en vigueur le 1er mai 2004 pour les pays tiers.
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/L-UE-soutient-le-renforcement-des-regles-internationales-applicables-a-la-protection-et-a-la-sante-des-plantes-et-des-vegetaux</id>
+		<title>L’UE soutient le renforcement des règles internationales applicables à la protection et à la santé des plantes et des végétaux</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/L-UE-soutient-le-renforcement-des-regles-internationales-applicables-a-la-protection-et-a-la-sante-des-plantes-et-des-vegetaux"/>
+		<updated>2011-07-11T09:14:06Z</updated>
+		<summary>
+				 Le 20 juillet 2004, le Conseil « Agriculture » a approuvé une version révisée de la convention internationale de protection des végétaux, en vue de renforcer son rôle dans l’adoption des normes internationales.
+				</summary>
+	</entry>			</feed>

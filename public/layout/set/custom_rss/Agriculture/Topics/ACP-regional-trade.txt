@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/layout/set/custom_rss/Agriculture/Topics/ACP-regional-trade</id>
+	<link rel="self" href="http://agritrade.cta.int/layout/set/custom_rss/Agriculture/Topics/ACP-regional-trade" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T15:08:06Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Maize-value-chain-East-Southern-Africa-COMESA-launches-Road-Map-to-boost-regional-maize-trade</id>
+		<title>Maize value chain/East-Southern Africa – COMESA launches Road Map to boost regional maize trade</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Maize-value-chain-East-Southern-Africa-COMESA-launches-Road-Map-to-boost-regional-maize-trade"/>
+		<updated>2016-01-18T11:03:09Z</updated>
+		<summary>
+				The maize trade in Eastern and Southern Africa is set to rise following a roadmap to address bottlenecks caused by differences in standards and reg...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-East-Southern-Africa-ACTESA-and-AFAP-collaborate-for-a-joint-fertilizer-program</id>
+		<title>Input value chain/ East-Southern Africa - ACTESA and AFAP collaborate for a joint fertilizer program</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-East-Southern-Africa-ACTESA-and-AFAP-collaborate-for-a-joint-fertilizer-program"/>
+		<updated>2016-01-18T10:55:56Z</updated>
+		<summary>
+				The Alliance for Commodity Trade in Eastern and Southern Africa (ACTESA) in collaboration with the African Fertilizer and Agribusiness Partnership...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Livestock-value-chain-Uganda-Roots-tubers-and-banana-plants-are-next-generation-pig-feeds</id>
+		<title>Livestock value chain/Uganda - Roots, tubers and banana plants are next-generation pig feeds </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Livestock-value-chain-Uganda-Roots-tubers-and-banana-plants-are-next-generation-pig-feeds"/>
+		<updated>2016-01-11T14:17:56Z</updated>
+		<summary>
+				In a research conducted by scientists from the International Livestock Research Institute, the International Potato Center, Iowa State University-U...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Cassava-value-chain-Jamaica-Red-Stripe-to-add-cassava-in-its-brewing-process</id>
+		<title>Cassava value chain/Jamaica – Red Stripe to add cassava in its brewing process</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Cassava-value-chain-Jamaica-Red-Stripe-to-add-cassava-in-its-brewing-process"/>
+		<updated>2016-01-11T14:14:47Z</updated>
+		<summary>
+				Jamaica’s Minister of Agriculture and Fisheries, Hon. Derrick Kellier applauded Red Stripe’s decision to add cassava in its brewing process which w...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Market-information-System-Uganda-National-Bureau-of-Standards-adopts-E-tag-system-to-check-fake-farm-inputs</id>
+		<title>Market information System/Uganda - National Bureau of Standards  adopts E-tag system to check fake farm inputs</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Market-information-System-Uganda-National-Bureau-of-Standards-adopts-E-tag-system-to-check-fake-farm-inputs"/>
+		<updated>2016-01-11T14:10:46Z</updated>
+		<summary>
+				Uganda has tightened the fight against counterfeit and substandard agricultural inputs like seeds, fertilizers, chemicals among other items floodin...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Senegal-New-partnership-to-strengthen-the-private-seed-and-agricultural-inputs-sector</id>
+		<title>Input value chain/Senegal - New partnership to strengthen the private seed and agricultural inputs sector </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Senegal-New-partnership-to-strengthen-the-private-seed-and-agricultural-inputs-sector"/>
+		<updated>2016-01-11T14:08:42Z</updated>
+		<summary>
+				Action for Enterprise (AFE), Argidius Foundation and Alliance for a Green Revolution in Africa (AGRA), have partnered for a new initiative to make...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Malawi-Government-to-align-its-Seed-Regulations-to-COMESA-System</id>
+		<title>Input value chain/Malawi - Government to align its Seed Regulations to COMESA System</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Malawi-Government-to-align-its-Seed-Regulations-to-COMESA-System"/>
+		<updated>2015-12-15T08:54:29Z</updated>
+		<summary>
+				Malawi is planning to align its seed regulations with the Common Market for East and Southern Africa (COMESA) Seed Harmonization Implementation Pla...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Value-chain-Finance-Nigeria-Central-Bank-states-conditions-for-distribution-funds-to-empower-farmers</id>
+		<title>Value chain Finance/Nigeria – Central Bank states conditions for distribution funds to empower farmers</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Value-chain-Finance-Nigeria-Central-Bank-states-conditions-for-distribution-funds-to-empower-farmers"/>
+		<updated>2015-12-15T08:51:30Z</updated>
+		<summary>
+				The Central Bank of Nigeria (CBN) rolled out conditions for distribution of more than U$ 1.1 billion through the Micro, Small and Medium Enterprise...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Zambia-Expedite-e-voucher-system-PMRC-urged-Government</id>
+		<title>Input value chain/Zambia - Expedite e-voucher system, PMRC urged Government</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Zambia-Expedite-e-voucher-system-PMRC-urged-Government"/>
+		<updated>2015-11-25T15:39:01Z</updated>
+		<summary>
+				The Policy Monitoring and Research Centre (PMRC) has urged Zambian government to accelerate the implementation of the electronic voucher system in...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Ethiopia-Over-5-million-Ethiopian-farmers-to-benefit-from-IBM-s-ECX-Traceability-System</id>
+		<title>Input value chain/Ethiopia - Over 5 million Ethiopian farmers to benefit from IBM's ECX Traceability System</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Ethiopia-Over-5-million-Ethiopian-farmers-to-benefit-from-IBM-s-ECX-Traceability-System"/>
+		<updated>2015-11-25T15:36:11Z</updated>
+		<summary>
+				The Ethiopia Commodity Exchange (ECX) has officially launched its IBM-enabled national traceability system, known as eATTS. With numerous industry...
+				</summary>
+	</entry>			</feed>

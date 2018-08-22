@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Topics/SPS-Food-safety</id>
+	<link rel="self" href="http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Topics/SPS-Food-safety" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T16:49:30Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/Input-value-chain-Tanzania-Firm-makes-bags-that-kill-pests</id>
+		<title>Input value chain/Tanzania - Firm makes bags that kill pests</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/Input-value-chain-Tanzania-Firm-makes-bags-that-kill-pests"/>
+		<updated>2016-01-11T14:13:25Z</updated>
+		<summary>
+				A Tanzanian agricultural company has launched a reusable grain storage technology which will help farmers protect their crops from high insect infe...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/Ugandan-Farmers-trained-on-Biosecurity-measures-as-an-alternative-control-of-African-swine-fever</id>
+		<title>Ugandan Farmers trained on Biosecurity measures as an alternative control of African swine fever</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/Ugandan-Farmers-trained-on-Biosecurity-measures-as-an-alternative-control-of-African-swine-fever"/>
+		<updated>2015-11-09T09:27:13Z</updated>
+		<summary>
+				As reported in the July-August article 2015 article of this Livestock news series, farmers in Masaka district were lamenting loss of their animals...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/Uganda-butchers-trained-on-hygiene-and-biosafety-practices-in-handling-of-pork-products</id>
+		<title>Uganda butchers trained on hygiene and biosafety practices in handling of pork products</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/Uganda-butchers-trained-on-hygiene-and-biosafety-practices-in-handling-of-pork-products"/>
+		<updated>2015-11-09T09:19:58Z</updated>
+		<summary>
+				Uganda has the highest annual per capita consumption of pork in EAC at 3.4kg. Implicitly, there are a lot of activities that go on along the value...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Campaign-on-prevention-of-Transboundary-Animal-Diseases-launched-in-Karamoja-region-of-Uganda</id>
+		<title>Campaign on prevention of Transboundary Animal Diseases launched in Karamoja region of Uganda</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Campaign-on-prevention-of-Transboundary-Animal-Diseases-launched-in-Karamoja-region-of-Uganda"/>
+		<updated>2015-11-09T09:16:33Z</updated>
+		<summary>
+				Karamoja region of Uganda is the latest recipient of FAO’s support in the livestock sub-sector in Uganda as it plays host to a three months long va...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Spatial-Differences-in-occurrence-of-brucellosis-among-indigenous-cattle-populations-in-Uganda</id>
+		<title>Spatial Differences in occurrence of brucellosis among indigenous cattle populations in Uganda</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Spatial-Differences-in-occurrence-of-brucellosis-among-indigenous-cattle-populations-in-Uganda"/>
+		<updated>2015-11-09T09:13:44Z</updated>
+		<summary>
+				Agro-ecological predisposition has a role to play in occurrence of brucellosis in indigenous cattle in Uganda. This was a finding from a study cond...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Poultry/Do-Pigs-have-a-role-to-play-in-transmission-of-Ebola-Case-study-of-Uganda</id>
+		<title>Do Pigs have a role to play in transmission of Ebola? Case study of Uganda </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Poultry/Do-Pigs-have-a-role-to-play-in-transmission-of-Ebola-Case-study-of-Uganda"/>
+		<updated>2015-11-09T09:11:16Z</updated>
+		<summary>
+				Increasing importance of piggery in many households in Uganda and proportionate increase in emergence of zoonotic diseases such as bird flu in rece...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Gendering-of-Delivery-of-the-Contagious-Bovine-Pleuropneumonia-CBPP-vaccine-in-Northeastern-Kenya-found-to-be-effective</id>
+		<title>‘Gendering’ of Delivery of the Contagious Bovine Pleuropneumonia (CBPP) vaccine in Northeastern Kenya found to be effective</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Gendering-of-Delivery-of-the-Contagious-Bovine-Pleuropneumonia-CBPP-vaccine-in-Northeastern-Kenya-found-to-be-effective"/>
+		<updated>2015-11-09T09:08:26Z</updated>
+		<summary>
+				“Women should be included as relevant stakeholders in the cattle industry in North Eastern Kenya to prevent spread of cattle lung disease”. This is...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Altitude-determines-susceptibility-of-cattle-to-trematodes-case-study-of-Iringa-Rural-District-Tanzania</id>
+		<title>Altitude determines susceptibility of cattle to trematodes: case study of Iringa Rural District, Tanzania</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Altitude-determines-susceptibility-of-cattle-to-trematodes-case-study-of-Iringa-Rural-District-Tanzania"/>
+		<updated>2015-11-09T09:02:27Z</updated>
+		<summary>
+				A study conducted to investigate the epidemiology of trematode infections in cattle in the highlands and lowlands areas of Iringa Rural District in...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/Poultry-value-chain-Jamaica-Government-committed-to-protecting-poultry-industry-from-bird-flu</id>
+		<title>Poultry value chain/Jamaica – Government committed to protecting poultry industry from bird flu</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/Poultry-value-chain-Jamaica-Government-committed-to-protecting-poultry-industry-from-bird-flu"/>
+		<updated>2015-10-20T15:30:34Z</updated>
+		<summary>
+				Jamaican government has reaffirmed its commitment to partnering with key stakeholders in protecting the poultry industry from the avian influenza a...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/Training-on-FMD-Control-Takes-Place-in-Uganda</id>
+		<title>Training on FMD Control Takes Place in Uganda</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/Training-on-FMD-Control-Takes-Place-in-Uganda"/>
+		<updated>2015-10-20T09:26:37Z</updated>
+		<summary>
+				An outbreak of Foot and Mouth Disease (FMD) mid 2014 in Uganda put the country’s preparedness to test necessitating intervention from FAO-Uganda an...
+				</summary>
+	</entry>			</feed>

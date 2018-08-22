@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Peche/Sujets/Acces-au-marche</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Peche/Sujets/Acces-au-marche" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:28:42Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Regions/ACP/Afrique-de-l-Ouest/Le-Senegal-et-la-Guinee-Bissau-s-accordent-pour-un-nouveau-dispositif-de-controle</id>
+		<title>Le Sénégal et la Guinée-Bissau s’accordent pour un nouveau dispositif de contrôle</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Regions/ACP/Afrique-de-l-Ouest/Le-Senegal-et-la-Guinee-Bissau-s-accordent-pour-un-nouveau-dispositif-de-controle"/>
+		<updated>2015-04-01T09:32:49Z</updated>
+		<summary>
+				PÊCHE : Le Sénégal et la Guinée-Bissau s’accordent pour un nouveau dispositif de contrôle
+La Direction de la Protection et de la Surveillance des...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Aborder-le-probleme-de-l-offre-d-aliments-pour-poissons</id>
+		<title>Aborder le problème de l’offre d’aliments pour poissons</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Aborder-le-probleme-de-l-offre-d-aliments-pour-poissons"/>
+		<updated>2014-10-12T12:31:01Z</updated>
+		<summary>
+				Le dernier rapport Globefish sur la farine de poisson et l’huile de poisson souligne qu’une demande croissante des secteurs utilisant une alimentat...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Le-merlu-sud-africain-prospere-avec-le-label-ecologique-du-Marine-Stewardship-Council</id>
+		<title>Le merlu sud-africain prospère avec le label écologique du Marine Stewardship Council </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Le-merlu-sud-africain-prospere-avec-le-label-ecologique-du-Marine-Stewardship-Council"/>
+		<updated>2014-10-08T12:10:02Z</updated>
+		<summary>
+				Le Marine Stewardship Council (MSC) affirme que 10 ans après avoir octroyé son label écologique à la pêcherie de merlu d’Afrique du Sud, cette pêch...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Le-Nigeria-vise-la-reduction-de-ses-importations-de-poisson</id>
+		<title>Le Nigeria vise la réduction de ses importations de poisson</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Le-Nigeria-vise-la-reduction-de-ses-importations-de-poisson"/>
+		<updated>2014-10-08T12:01:49Z</updated>
+		<summary>
+				Certains articles de presse publiés récemment évoquent les plans du Nigeria visant à réduire les importations annuelles de poisson, ainsi que l’int...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Problemes-emergents-en-matiere-d-evaluation-et-de-gestion-de-la-securite-et-de-la-qualite-des-produits-de-la-mer</id>
+		<title>Problèmes émergents en matière d’évaluation et de gestion de la sécurité et de la qualité des produits de la mer</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Problemes-emergents-en-matiere-d-evaluation-et-de-gestion-de-la-securite-et-de-la-qualite-des-produits-de-la-mer"/>
+		<updated>2014-10-04T11:18:00Z</updated>
+		<summary>
+				La FAO a publié un nouveau document technique sur les pratiques actuelles et les problèmes émergents en matière de sécurité et de qualité des produ...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Lutter-contre-la-peche-INN-par-le-biais-de-la-politique-commerciale-l-experience-de-l-UE</id>
+		<title>Lutter contre la pêche INN par le biais de la politique commerciale : l’expérience de l’UE </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Lutter-contre-la-peche-INN-par-le-biais-de-la-politique-commerciale-l-experience-de-l-UE"/>
+		<updated>2014-10-08T12:01:13Z</updated>
+		<summary>
+				La Commission européenne (DG Mare) a récemment publié un aperçu de l’état d’avancement de la mise en œuvre du règlement INN de l’UE par les États m...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Des-ameliorations-doivent-etre-apportees-a-la-reglementation-de-l-UE-en-matiere-de-peche-INN-affirme-une-nouvelle-etude</id>
+		<title>Des améliorations doivent être apportées à la réglementation de l’UE en matière de pêche INN, affirme une nouvelle étude </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Des-ameliorations-doivent-etre-apportees-a-la-reglementation-de-l-UE-en-matiere-de-peche-INN-affirme-une-nouvelle-etude"/>
+		<updated>2014-10-08T12:00:50Z</updated>
+		<summary>
+				Une nouvelle étude intitulée « Traceability, Legal Provenance and the EU IUU Regulation » (Traçabilité, provenance licite et règlement de l’UE en m...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Developpements-recents-dans-le-marche-europeen-du-thon-en-conserve</id>
+		<title>Développements récents dans le marché européen du thon en conserve </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Developpements-recents-dans-le-marche-europeen-du-thon-en-conserve"/>
+		<updated>2014-10-08T12:00:29Z</updated>
+		<summary>
+				Deux publications récentes, à savoir le rapport Globefish de la FFA et le Trade and Industry News, dans son article spécial sur la conférence sur l...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Le-Ghana-et-les-Seychelles-vont-cooperer-pour-stimuler-les-exportations-de-thon-vers-l-UE</id>
+		<title>Le Ghana et les Seychelles vont coopérer pour stimuler les exportations de thon vers l'UE</title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/Le-Ghana-et-les-Seychelles-vont-cooperer-pour-stimuler-les-exportations-de-thon-vers-l-UE"/>
+		<updated>2014-07-23T10:53:16Z</updated>
+		<summary>
+				Les Seychelles et le Ghana ont signé un accord administratif pour stimuler leurs exportations de thon vers le marché de l'UE. L'accord prévoit la p...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/L-UE-lance-un-avertissement-a-la-PNG-et-aux-Philippines-concernant-l-insuffisance-de-leurs-mesures-de-lutte-contre-la-peche-INN</id>
+		<title>L’UE lance un avertissement à la PNG et aux Philippines concernant l’insuffisance de leurs mesures de lutte contre la pêche INN </title>
+
+		<link href="http://agritrade.cta.int/fr/Peche/Sujets/Acces-au-marche/L-UE-lance-un-avertissement-a-la-PNG-et-aux-Philippines-concernant-l-insuffisance-de-leurs-mesures-de-lutte-contre-la-peche-INN"/>
+		<updated>2014-07-05T11:28:42Z</updated>
+		<summary>
+				La Commission européenne (CE) a averti les Philippines et la Papouasie-Nouvelle-Guinée (PNG) qu’elles risquaient d’être identifiées comme pays non-...
+				</summary>
+	</entry>			</feed>

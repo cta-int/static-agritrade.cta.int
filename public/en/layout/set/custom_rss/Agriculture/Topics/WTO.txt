@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Topics/WTO</id>
+	<link rel="self" href="http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Topics/WTO" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T16:39:13Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Poultry/South-Africa-imposes-preliminary-anti-dumping-duties-on-specific-EU-member-states-frozen-poultry-cuts</id>
+		<title>South Africa imposes preliminary anti-dumping duties on specific EU member states’ frozen poultry cuts</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Poultry/South-Africa-imposes-preliminary-anti-dumping-duties-on-specific-EU-member-states-frozen-poultry-cuts"/>
+		<updated>2014-08-18T08:46:59Z</updated>
+		<summary>
+				Following an investigation by the International Trade Administration Commission (ITAC) into claims of dumping of frozen poultry parts by German, Du...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Cotton/Does-the-new-US-Farm-Bill-meet-US-cotton-subsidy-reduction-commitments</id>
+		<title>Does the new US Farm Bill meet US cotton subsidy reduction commitments?</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Cotton/Does-the-new-US-Farm-Bill-meet-US-cotton-subsidy-reduction-commitments"/>
+		<updated>2014-08-18T07:40:31Z</updated>
+		<summary>
+				Analysts from two academic news forums, IFPRI and ICTSD, argue that it is now time to end the long-standing cotton dispute, involving the C4 group...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/WTO/The-WTO-and-animal-welfare-related-trade-restrictions</id>
+		<title>The WTO and animal welfare-related trade restrictions</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/WTO/The-WTO-and-animal-welfare-related-trade-restrictions"/>
+		<updated>2014-08-18T07:32:16Z</updated>
+		<summary>
+				Animal welfare concerns were raised at the International Meat Secretariat Veal Committee meeting in mid June 2014 over the possible implication for...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/WTO/Cairns-Group-presents-paper-on-total-trade-distorting-support</id>
+		<title>Cairns Group presents paper on ‘total trade-distorting support’</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/WTO/Cairns-Group-presents-paper-on-total-trade-distorting-support"/>
+		<updated>2014-05-19T13:24:05Z</updated>
+		<summary>
+				According to a report published by the International Centre for Trade and Sustainable Development (ICTSD), an informal paper by the Cairns Group ha...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/WTO/Tonga-s-food-supply-increasingly-dependent-on-migrant-remittances</id>
+		<title>Tonga’s food supply increasingly dependent on migrant remittances </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/WTO/Tonga-s-food-supply-increasingly-dependent-on-migrant-remittances"/>
+		<updated>2014-04-06T19:29:16Z</updated>
+		<summary>
+				The first WTO Trade Policy Review (TPR) of Tonga after the country joined the WTO in 2007, published in February, finds that “remittances by Tongan...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/WTO/Outlook-for-Doha-still-uncertain-after-Bali</id>
+		<title>Outlook for Doha still uncertain after Bali</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/WTO/Outlook-for-Doha-still-uncertain-after-Bali"/>
+		<updated>2014-03-31T10:11:02Z</updated>
+		<summary>
+				WTO Director-General Roberto Azevêdo has urged members to use 2014 “to get the struggling negotiations [in the Doha Development Round] ‘back on tra...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/WTO-discusses-how-to-make-certification-standards-less-of-a-barrier-to-trade</id>
+		<title>WTO discusses how to make certification standards less of a barrier to trade</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/WTO-discusses-how-to-make-certification-standards-less-of-a-barrier-to-trade"/>
+		<updated>2014-02-03T09:08:08Z</updated>
+		<summary>
+				At the end of October 2013, the WTO held a formal meeting of the Technical Barriers to Trade (TBT) Committee to discuss “how to make it easier for...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/WTO/ACP-aspirations-and-expectations-and-the-outcome-of-the-Ninth-WTO-Bali-Ministerial-Conference</id>
+		<title>ACP aspirations and expectations and the outcome of the Ninth WTO Bali Ministerial Conference</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/WTO/ACP-aspirations-and-expectations-and-the-outcome-of-the-Ninth-WTO-Bali-Ministerial-Conference"/>
+		<updated>2013-12-16T16:42:25Z</updated>
+		<summary>
+				1.       IntroductionThe Ninth WTO Ministerial Conference in Bali reached agreement in December 2013 on a package of measures that form a small com...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/WTO/Agreement-on-a-mini-deal-reached-in-Bali</id>
+		<title>Agreement on a mini-deal reached in Bali  </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/WTO/Agreement-on-a-mini-deal-reached-in-Bali"/>
+		<updated>2013-12-13T12:14:29Z</updated>
+		<summary>
+				The agreement reached at the Ninth WTO Ministerial meeting in Bali includes a range of decisions and declarations potentially impacting on ACP agri...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/WTO/Executive-Brief-Update-2013-WTO-Agreement-on-Agriculture</id>
+		<title>Executive Brief Update 2013: WTO Agreement on Agriculture</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/WTO/Executive-Brief-Update-2013-WTO-Agreement-on-Agriculture"/>
+		<updated>2013-12-04T11:54:15Z</updated>
+		<summary>
+				1.         Background and key issuesDuring 2012-13, while the overall process of the World Trade Organization (WTO) trade negotiations remained sta...
+				</summary>
+	</entry>			</feed>

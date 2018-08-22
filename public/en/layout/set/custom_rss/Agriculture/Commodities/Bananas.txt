@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Commodities/Bananas</id>
+	<link rel="self" href="http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Commodities/Bananas" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T16:59:47Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Will-Ugandan-farmers-get-to-plant-GM-banana</id>
+		<title>Will Ugandan farmers get to plant GM banana?</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Will-Ugandan-farmers-get-to-plant-GM-banana"/>
+		<updated>2015-03-11T10:40:26Z</updated>
+		<summary>
+				Genetically modified organisms, or GMOs, are a hotly contested subject. 
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Permanent-low-retail-pricing-for-bananas-spreads-to-the-Netherlands</id>
+		<title>Permanent low retail pricing for bananas spreads to the Netherlands</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Permanent-low-retail-pricing-for-bananas-spreads-to-the-Netherlands"/>
+		<updated>2014-08-11T14:31:18Z</updated>
+		<summary>
+				Banana Link has reported that supermarket banana price wars have spread to the Netherlands, with Albert Heijn, the country’s number 1 retailer, fol...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Increased-competitive-challenges-in-prospect-for-ACP-banana-exporters</id>
+		<title>Increased competitive challenges in prospect for ACP banana exporters</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Increased-competitive-challenges-in-prospect-for-ACP-banana-exporters"/>
+		<updated>2014-07-07T09:02:34Z</updated>
+		<summary>
+				According to press reports, adjustments to shipping schedules between Ecuador and Europe are set to reduce banana shipment times and improve handli...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Central-Africa-EU-EPA-negotiations-relaunched-as-anxieties-over-future-of-Cameroon-s-banana-exports-increase</id>
+		<title>Central Africa–EU EPA negotiations relaunched as anxieties over future of Cameroon’s banana exports increase </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Central-Africa-EU-EPA-negotiations-relaunched-as-anxieties-over-future-of-Cameroon-s-banana-exports-increase"/>
+		<updated>2014-06-30T09:30:35Z</updated>
+		<summary>
+				ECDPM reported in May 2014 that “the Central Africa region has reopened the EPA dossier after years of relative inactivity.” This followed indicat...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Fairtrade-Foundation-calls-for-regulatory-action-to-promote-more-sustainable-banana-production</id>
+		<title>Fairtrade Foundation calls for regulatory action to promote more sustainable banana production  </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Fairtrade-Foundation-calls-for-regulatory-action-to-promote-more-sustainable-banana-production"/>
+		<updated>2014-06-02T10:24:37Z</updated>
+		<summary>
+				The Fairtrade Foundation has published a report highlighting the impact of UK retailers’ “banana wars” on banana producers. In the past decade, the...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/FAO-review-of-corporate-developments-in-the-international-banana-trade</id>
+		<title>FAO review of corporate developments in the international banana trade</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/FAO-review-of-corporate-developments-in-the-international-banana-trade"/>
+		<updated>2014-05-23T20:21:15Z</updated>
+		<summary>
+				An information note from FAO, ‘The changing role of multinational companies in the global banana trade’, produced by the FAO’s Intergovernmental Gr...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/EC-tables-new-regulation-on-the-organic-sector</id>
+		<title>EC tables new regulation on the organic sector</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/EC-tables-new-regulation-on-the-organic-sector"/>
+		<updated>2014-05-12T11:16:35Z</updated>
+		<summary>
+				In March 2014, the EC published “proposals for a new Regulation on organic production and the labelling of organic products”. The proposal focuses...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Free-trade-agreements-boost-Latin-and-Central-American-banana-exports-to-EU-but-with-variable-performance</id>
+		<title>Free trade agreements boost Latin and Central American banana exports to EU but with variable performance</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Free-trade-agreements-boost-Latin-and-Central-American-banana-exports-to-EU-but-with-variable-performance"/>
+		<updated>2014-05-12T11:02:03Z</updated>
+		<summary>
+				According to press reports, Panamanian banana exports in 2013 increased by 8.63% to reach 14.3 million boxes, valued at US$90.4 million. In the sam...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Banana-sector-mergers-and-acquisitions-from-Suriname-to-leading-traders</id>
+		<title>Banana sector mergers and acquisitions, from Suriname to leading traders </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Banana-sector-mergers-and-acquisitions-from-Suriname-to-leading-traders"/>
+		<updated>2014-05-11T18:56:19Z</updated>
+		<summary>
+				According to press reports from January 2014, “Suriname’s Ministry of Agriculture has reached a deal with Belgian produce multinational Univeg to p...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Ecuador-seeks-access-to-EU-Andean-Pact-trade-agreement</id>
+		<title>Ecuador seeks access to EU–Andean Pact trade agreement </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Bananas/Ecuador-seeks-access-to-EU-Andean-Pact-trade-agreement"/>
+		<updated>2014-03-16T18:14:46Z</updated>
+		<summary>
+				In January 2014, the first round of trade negotiations was launched between Ecuador and the EC over accession to the existing Andean Pact–EU trade...
+				</summary>
+	</entry>			</feed>

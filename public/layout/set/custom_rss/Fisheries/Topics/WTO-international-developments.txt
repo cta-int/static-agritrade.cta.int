@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/layout/set/custom_rss/Fisheries/Topics/WTO-international-developments</id>
+	<link rel="self" href="http://agritrade.cta.int/layout/set/custom_rss/Fisheries/Topics/WTO-international-developments" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T15:51:00Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/WTO-framework-for-international-market-access-in-fisheries-and-aquaculture</id>
+		<title>WTO framework for international market access in fisheries and aquaculture</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/WTO-framework-for-international-market-access-in-fisheries-and-aquaculture"/>
+		<updated>2014-10-12T13:33:03Z</updated>
+		<summary>
+				Delegates from 11 countries participated in a joint workshop organised by FAO and Info-SAMAK, on a ‘WTO framework for international market access i...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/Fisheries-subsidies-Suggestions-for-improvements-of-WTO-debate</id>
+		<title>Fisheries subsidies: Suggestions for improvements of WTO debate</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/Fisheries-subsidies-Suggestions-for-improvements-of-WTO-debate"/>
+		<updated>2014-07-23T11:10:45Z</updated>
+		<summary>
+				According to a recent article by ICTSD Director Rashid Sumaila, a key reason for the lack of progress in the fisheries subsidies negotiations at th...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/FAO-adopts-international-guidelines-for-sustainable-small-scale-fisheries</id>
+		<title>FAO adopts international guidelines for sustainable small-scale fisheries</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/FAO-adopts-international-guidelines-for-sustainable-small-scale-fisheries"/>
+		<updated>2014-07-05T11:32:16Z</updated>
+		<summary>
+				The 31st session of the Fisheries Committee (COFI 31) of the FAO was held 9–13 June 2014 in Rome. Prior to COFI 31, the FAO published the 2014 edit...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/Should-the-high-seas-be-closed-to-fishing</id>
+		<title>Should  the high seas be closed to fishing?</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/Should-the-high-seas-be-closed-to-fishing"/>
+		<updated>2014-05-26T09:55:51Z</updated>
+		<summary>
+				In a scientific article published in PLoS Biology, researchers argue that the best way for dwindling stocks of high-value migratory pelagic species...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/New-FAO-study-demonstrates-that-aquaculture-benefits-local-communities</id>
+		<title>New  FAO study demonstrates that aquaculture benefits local communities</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/New-FAO-study-demonstrates-that-aquaculture-benefits-local-communities"/>
+		<updated>2014-03-24T09:52:17Z</updated>
+		<summary>
+				In order to address governance problems caused by the aquaculture industry’s fast growth, the FAO Fisheries and Aquaculture Department has publishe...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/Proposals-on-access-agreement-transparency-inserted-in-UNGA-resolution-on-sustainable-fisheries</id>
+		<title>Proposals  on access agreement transparency inserted in UNGA resolution on sustainable fisheries</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/Proposals-on-access-agreement-transparency-inserted-in-UNGA-resolution-on-sustainable-fisheries"/>
+		<updated>2014-03-09T16:58:48Z</updated>
+		<summary>
+				For the annual review of the United Nation General Assembly (UNGA) Resolution on sustainable fisheries, the EC consulted the Long Distance Regional...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/WTO-deal-in-Bali-on-food-security-and-LDCs</id>
+		<title>WTO  deal in Bali on food security and LDCs</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/WTO-deal-in-Bali-on-food-security-and-LDCs"/>
+		<updated>2014-02-07T12:01:59Z</updated>
+		<summary>
+				The 9th WTO Ministerial Conference was held in Bali, Indonesia in December 2013. A last minute deal was reached on several areas, including an agre...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/OECD-report-recalls-the-need-for-policy-coherence-for-fisheries-and-aquaculture-development</id>
+		<title>OECD  report recalls the need for policy coherence for fisheries and aquaculture development</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/OECD-report-recalls-the-need-for-policy-coherence-for-fisheries-and-aquaculture-development"/>
+		<updated>2014-02-07T11:58:39Z</updated>
+		<summary>
+				A new report for the Organisation for Economic Cooperation and Development (OECD) Coherence for Development (CODE) explores the role of fisheries a...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/4th-Pacific-Tuna-Forum-discusses-the-broadening-of-tuna-investments</id>
+		<title>4th  Pacific Tuna Forum discusses the broadening of tuna investments</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/4th-Pacific-Tuna-Forum-discusses-the-broadening-of-tuna-investments"/>
+		<updated>2013-12-23T08:42:05Z</updated>
+		<summary>
+				The latest issue of the Forum Fisheries Agency (FFA) Trade News summarises issues and perspectives discussed at the 4th Pacific Tuna Forum, held la...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/Executive-Brief-Update-2013-WTO-and-other-international-aspects-of-ACP-EU-fisheries-relations</id>
+		<title>Executive Brief Update 2013: WTO and other international aspects of ACP–EU fisheries relations</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/Executive-Brief-Update-2013-WTO-and-other-international-aspects-of-ACP-EU-fisheries-relations"/>
+		<updated>2013-12-16T17:10:20Z</updated>
+		<summary>
+				1.         Background and key issuesWTO rules applying to international fish trade and treaties, as well as conventions governing fisheries managem...
+				</summary>
+	</entry>			</feed>

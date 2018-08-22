@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Commodities/Sugar</id>
+	<link rel="self" href="http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Commodities/Sugar" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T17:15:25Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Angola-sets-quotas-for-imports-of-the-basic-basket-of-goods</id>
+		<title>Angola sets quotas for imports of the basic basket of goods</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Angola-sets-quotas-for-imports-of-the-basic-basket-of-goods"/>
+		<updated>2015-03-11T14:19:52Z</updated>
+		<summary>
+				The government of Angola has set a maximum quota for the import of products included in the basic basket of goods in 2015 at around 2 million tons, including cooking oil, flour, rice and sugar, according to a joint executive decree dated 23 January.
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/ACP-sugar-exports-to-the-EU-and-the-future-of-co-refining-of-raw-cane-sugar-by-EU-beet-refiners</id>
+		<title>ACP sugar exports to the EU and the future of co-refining of raw cane sugar by EU beet refiners</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/ACP-sugar-exports-to-the-EU-and-the-future-of-co-refining-of-raw-cane-sugar-by-EU-beet-refiners"/>
+		<updated>2014-12-17T15:34:14Z</updated>
+		<summary>
+				SummaryIn the context of partial reforms of the EU sugar regime, continued quota ceilings on the production of sugar from beet have resulted in EU...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Suedzucker-corporate-profile</id>
+		<title>Südzucker - corporate profile</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Suedzucker-corporate-profile"/>
+		<updated>2014-09-28T17:15:32Z</updated>
+		<summary>
+				Ownership structureSüdzucker is the largest beet sugar company in the EU and the world, with an EU sugar output of 4.9 million tonnes and total sug...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Zimbabwean-sugar-exports-to-the-EU-to-continue-while-imports-to-be-restricted</id>
+		<title>Zimbabwean sugar exports to the EU to continue while imports to be restricted</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Zimbabwean-sugar-exports-to-the-EU-to-continue-while-imports-to-be-restricted"/>
+		<updated>2014-08-11T14:49:29Z</updated>
+		<summary>
+				According to the United States Department of Agriculture (USDA), Zimbabwe’s sugar cane production is projected to fall by 3% in MY 2014/15 to 3.8 m...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Sugar-industry-corporate-profiles-Introduction</id>
+		<title>Sugar industry corporate profiles - Introduction</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Sugar-industry-corporate-profiles-Introduction"/>
+		<updated>2014-09-28T17:17:35Z</updated>
+		<summary>
+				EU sugar sector reforms have not only impacted on sugar prices and the market access arrangements for ACP sugar, but have also resulted in major co...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Tereos-corporate-profile</id>
+		<title>Tereos - corporate profile</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Tereos-corporate-profile"/>
+		<updated>2014-09-28T18:11:19Z</updated>
+		<summary>
+				Ownership structureTereos, a cooperative owned by 12,000 French sugar beet producers, came into being following a period of consolidation among sug...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/British-Sugar-Associated-British-Foods-corporate-profile</id>
+		<title>British Sugar/Associated British Foods - corporate profile</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/British-Sugar-Associated-British-Foods-corporate-profile"/>
+		<updated>2014-09-28T18:13:47Z</updated>
+		<summary>
+				Ownership structureBritish Sugar, the sole processor of the UK sugar beet crop (UK quota 1,056,474 tonnes), is owned by Associated British Foods (A...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Suiker-Unie-Royal-Cosun-corporate-profile</id>
+		<title>Suiker Unie/Royal Cosun - corporate profile</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Suiker-Unie-Royal-Cosun-corporate-profile"/>
+		<updated>2014-09-28T18:19:29Z</updated>
+		<summary>
+				Ownership structureSuiker Unie is a subsidiary of the farmers’ cooperative Royal Cosun (known as Cosun). Cosun was set up in the early 20th century...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Tate-Lyle-American-Sugar-Refining-corporate-profile</id>
+		<title>Tate &amp; Lyle/American Sugar Refining - corporate profile</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Tate-Lyle-American-Sugar-Refining-corporate-profile"/>
+		<updated>2014-09-28T18:20:31Z</updated>
+		<summary>
+				Ownership structureIn October 2010, American Sugar Refining (ASR) completed its takeover of Tate and Lyle’s sugar division, involving the acquisiti...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Distribution-of-new-revenue-streams-raised-by-Mauritian-cane-farmers</id>
+		<title>Distribution of new revenue streams raised by Mauritian cane farmers</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Distribution-of-new-revenue-streams-raised-by-Mauritian-cane-farmers"/>
+		<updated>2014-07-21T10:39:06Z</updated>
+		<summary>
+				Representatives of 17,000 small-scale Mauritian sugar farmers – who contribute 28% of national sugar production – have raised concerns that they ar...
+				</summary>
+	</entry>			</feed>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/Autres</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/Autres" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:06:20Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Commerce-regional-ACP/Appels-a-un-examen-complet-des-strategies-du-secteur-agroalimentaire-de-la-CARICOM</id>
+		<title>Appels à un examen complet des stratégies du secteur agroalimentaire de la CARICOM </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Commerce-regional-ACP/Appels-a-un-examen-complet-des-strategies-du-secteur-agroalimentaire-de-la-CARICOM"/>
+		<updated>2014-02-24T14:03:15Z</updated>
+		<summary>
+				D’après un document de synthèse publié par le Bureau sous-régional de la FAO pour les Caraïbes, « la facture des importations alimentaires de la CA...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Autres/Les-organisations-de-producteurs-ouest-africaines-appellent-a-la-mise-en-aeuvre-des-engagements-de-la-declaration-de-Maputo</id>
+		<title>Les organisations de producteurs ouest-africaines appellent à la mise en œuvre des engagements de la déclaration de Maputo </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Autres/Les-organisations-de-producteurs-ouest-africaines-appellent-a-la-mise-en-aeuvre-des-engagements-de-la-declaration-de-Maputo"/>
+		<updated>2013-12-15T20:09:29Z</updated>
+		<summary>
+				Lors de sa réunion organisée au Liberia en septembre 2013, l’organisation d’agriculteurs de la région d’Afrique de l’Ouest ROPPA a de nouveau appel...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Autres/Note-de-synthese-mise-a-jour-2012-Afrique-centrale-enjeux-lies-au-commerce-agricole</id>
+		<title>Note de synthèse - mise à jour 2012 : Afrique centrale : enjeux liés au commerce agricole</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Autres/Note-de-synthese-mise-a-jour-2012-Afrique-centrale-enjeux-lies-au-commerce-agricole"/>
+		<updated>2012-11-05T11:06:00Z</updated>
+		<summary>
+				À propos de cette mise à jourCette note de synthèse a été mise à jour en octobre 2012 afin de prendre en compte les développements depuis janvier 2009. La note de synthèse de 2011 est basée sur la version intégrale publiée en octobre 2008 et est disponible sur demande auprès de 
+agritrade-mail@cta.int.D’autres publications dans cette série et des ressources supplémentaires sur le commerce agricole et de la pêche ACP-UE peuvent être trouvées en ligne à 
+http://agritrade.cta.int/fr.
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Autres/Note-de-synthese-mise-a-jour-2012-Afrique-de-l-Ouest-enjeux-lies-au-commerce-agricole</id>
+		<title>Note de synthèse - mise à jour 2012 : Afrique de l’Ouest : enjeux liés au commerce agricole</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Autres/Note-de-synthese-mise-a-jour-2012-Afrique-de-l-Ouest-enjeux-lies-au-commerce-agricole"/>
+		<updated>2012-10-29T11:10:30Z</updated>
+		<summary>
+				À propos de cette mise à jourCette note de synthèse a été mise à jour en septembre 2012 afin de prendre en compte les développements depuis août 2011. La note de synthèse de 2011 est basée sur la version intégrale publiée en mars 2009 et est disponible sur demande auprès de 
+agritrade-mail@cta.int.D’autres publications dans cette série et des ressources supplémentaires sur le commerce agricole et de la pêche ACP-UE peuvent être trouvées en ligne à 
+http://agritrade.cta.int/fr.
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/General/Un-projet-de-rapport-ebauche-les-reponses-possibles-a-la-volatilite-des-prix-des-denrees-alimentaires</id>
+		<title>Un projet de rapport ébauche les réponses possibles à la volatilité des prix des denrées alimentaires </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/General/Un-projet-de-rapport-ebauche-les-reponses-possibles-a-la-volatilite-des-prix-des-denrees-alimentaires"/>
+		<updated>2011-07-11T09:15:04Z</updated>
+		<summary>
+				D’après l’ICTSD, « un projet de rapport confidentiel d’agences internationales de premier plan a exhorté les gouvernements du G-20 à « renforcer im...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Accord-de-l-OMC/Les-negociations-a-l-OMC-sur-la-securite-alimentaire-la-volatilite-des-prix-et-le-commerce</id>
+		<title>Les négociations à l’OMC sur la sécurité alimentaire, la volatilité des prix et le commerce</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Accord-de-l-OMC/Les-negociations-a-l-OMC-sur-la-securite-alimentaire-la-volatilite-des-prix-et-le-commerce"/>
+		<updated>2011-07-11T09:12:13Z</updated>
+		<summary>
+				Un document sur la sécurité alimentaire, la volatilité des prix et le commerce et leur impact sur les pays en développement vient d’être publié par...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Autres/L-UE-adopte-de-nouvelles-regles-d-origine</id>
+		<title>L’UE adopte de nouvelles règles d’origine </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Autres/L-UE-adopte-de-nouvelles-regles-d-origine"/>
+		<updated>2011-07-11T09:15:03Z</updated>
+		<summary>
+				La Commission européenne a adopté un règlement introduisant de nouvelles règles d’origine qui affecteront directement les exportations de tous les...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Le-prix-du-ble-fait-grimper-l-indice-FAO-des-prix-alimentaires</id>
+		<title>Le prix du blé fait grimper l’indice FAO des prix alimentaires</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Le-prix-du-ble-fait-grimper-l-indice-FAO-des-prix-alimentaires"/>
+		<updated>2011-07-11T09:18:14Z</updated>
+		<summary>
+				D’après la FAO, « la hausse des prix du blé a fait grimper de 5 % les prix mondiaux des produits alimentaires au mois d’août, soit l’augmentation l...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Un-fonds-d-investissement-souleve-le-probleme-de-la-chaine-d-approvisionnement-du-cacao</id>
+		<title>Un fonds d’investissement soulève le problème de la chaîne d’approvisionnement du cacao</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cacao/Un-fonds-d-investissement-souleve-le-probleme-de-la-chaine-d-approvisionnement-du-cacao"/>
+		<updated>2011-07-11T09:15:39Z</updated>
+		<summary>
+				L’ICTSD a publié un article soulignant les prix élevés du cacao et les activités du fonds d’investissement londonien, Armajaro, qui a « récemment a...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cafe/Les-exportations-de-cafe-de-la-Jamaique-touchees-par-le-ralentissement-economique-mondial</id>
+		<title>Les exportations de café de la Jamaïque touchées par le ralentissement économique mondial</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cafe/Les-exportations-de-cafe-de-la-Jamaique-touchees-par-le-ralentissement-economique-mondial"/>
+		<updated>2011-07-11T09:15:42Z</updated>
+		<summary>
+				Des rapports de presse indiquent que le secteur du café jamaïcain a connu une baisse de 58% des exportations de café au cours du premier semestre d...
+				</summary>
+	</entry>			</feed>

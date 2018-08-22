@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/Commerce-regional-ACP</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/Commerce-regional-ACP" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T17:56:11Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Commerce-regional-ACP/La-BCEAO-prevoit-une-croissance-de-7-2-en-2015-dans-la-zone-UEMOA</id>
+		<title>La BCEAO prévoit une croissance de 7,2 % en 2015 dans la zone UEMOA</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Commerce-regional-ACP/La-BCEAO-prevoit-une-croissance-de-7-2-en-2015-dans-la-zone-UEMOA"/>
+		<updated>2015-04-01T09:46:53Z</updated>
+		<summary>
+				L’UEMOA a enregistré un taux d’inflation de 0,1 % en glissement annuel à fin décembre 2014, selon un communiqué de la BCEAO daté du 4 mars. Cette é...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Commerce-regional-ACP/Les-consequences-commerciales-intra-regionales-des-restrictions-a-l-importation-et-a-l-exportation</id>
+		<title>Les conséquences commerciales intra-régionales des restrictions à l’importation et à l’exportation</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Commerce-regional-ACP/Les-consequences-commerciales-intra-regionales-des-restrictions-a-l-importation-et-a-l-exportation"/>
+		<updated>2014-08-21T13:03:56Z</updated>
+		<summary>
+				En avril 2014, la Grain Traders Association of Zambia (GTAZ) a averti le gouvernement qu’à défaut de lever bientôt l’interdiction d’exportation de...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Le-debat-sur-les-OGM-et-le-commerce-intra-regional-en-Afrique-australe-et-orientale</id>
+		<title>Le débat sur les OGM et le commerce intra-régional en Afrique australe et orientale </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Cereales/Le-debat-sur-les-OGM-et-le-commerce-intra-regional-en-Afrique-australe-et-orientale"/>
+		<updated>2014-07-21T10:27:49Z</updated>
+		<summary>
+				En mai 2014, il a été annoncé que la politique est-africaine en matière de biosécurité de la CAE serait prête à être adoptée en juin. Le processus...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/APE/L-utilisation-des-outils-de-politique-commerciale-agricole-reste-litigieuse-dans-les-negociations-d-APE-et-le-commerce-intra-regional</id>
+		<title>L’utilisation des outils de politique commerciale agricole reste litigieuse dans les négociations d’APE et le commerce intra-régional </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/APE/L-utilisation-des-outils-de-politique-commerciale-agricole-reste-litigieuse-dans-les-negociations-d-APE-et-le-commerce-intra-regional"/>
+		<updated>2014-07-23T13:21:25Z</updated>
+		<summary>
+				Dans le contexte des négociations d’APE SADC, les questions en suspens ont été réduites à deux : les sauvegardes agricoles et les taxes d’exportati...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Commerce-regional-ACP/La-recherche-agricole-africaine-s-intensifie-mais-est-encore-inegale-et-trop-faible</id>
+		<title>La recherche agricole africaine s’intensifie mais est encore inégale et trop faible </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Commerce-regional-ACP/La-recherche-agricole-africaine-s-intensifie-mais-est-encore-inegale-et-trop-faible"/>
+		<updated>2014-05-23T20:18:05Z</updated>
+		<summary>
+				Dans son rapport annuel sur la politique alimentaire mondiale, l’Institut international de recherche sur les politiques alimentaires (IFPRI) note q...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP/La-CEDEAO-convient-d-un-tarif-exterieur-commun-avec-une-protection-agricole-plus-importante</id>
+		<title>La CEDEAO convient d’un tarif extérieur commun avec une protection agricole plus importante</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP/La-CEDEAO-convient-d-un-tarif-exterieur-commun-avec-une-protection-agricole-plus-importante"/>
+		<updated>2014-02-24T08:41:16Z</updated>
+		<summary>
+				D’après un rapport de l’ECDPM, les pays de la CEDEAO ont convenu d’appliquer un tarif extérieur commun (TEC) qui entrera en vigueur en 2015, et qui...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Regions/ACP/Afrique-Australe/Note-de-synthese-mise-a-jour-2013-Afrique-australe-et-orientale-enjeux-lies-au-commerce-agricole</id>
+		<title>Note de synthèse - mise à jour 2013 : Afrique australe et orientale : enjeux liés au commerce agricole</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Regions/ACP/Afrique-Australe/Note-de-synthese-mise-a-jour-2013-Afrique-australe-et-orientale-enjeux-lies-au-commerce-agricole"/>
+		<updated>2013-12-11T15:05:34Z</updated>
+		<summary>
+				1.         Contexte et principaux enjeuxLa politique du secteur alimentaire et agricole est une question politique complexe en Afrique orientale et...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Regions/ACP/Pacifique/Note-de-synthese-mise-a-jour-2013-Pacifique-enjeux-lies-au-commerce-agricole</id>
+		<title>Note de synthèse - mise à jour 2013 : Pacifique : enjeux liés au commerce agricole</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Regions/ACP/Pacifique/Note-de-synthese-mise-a-jour-2013-Pacifique-enjeux-lies-au-commerce-agricole"/>
+		<updated>2013-12-04T11:58:46Z</updated>
+		<summary>
+				1.         Contexte et principaux enjeuxLa hausse des prix des denrées alimentaires est une source de préoccupation majeure dans les pays ACP du Pa...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Regions/ACP/Afrique-de-l-Ouest/Note-de-synthese-mise-a-jour-2013-Afrique-de-l-Ouest-enjeux-lies-au-commerce-agricole</id>
+		<title>Note de synthèse - mise à jour 2013 : Afrique de l’Ouest : enjeux liés au commerce agricole</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Regions/ACP/Afrique-de-l-Ouest/Note-de-synthese-mise-a-jour-2013-Afrique-de-l-Ouest-enjeux-lies-au-commerce-agricole"/>
+		<updated>2013-12-04T11:57:56Z</updated>
+		<summary>
+				1.         Contexte et principaux enjeuxAprès six années de discussions, en 2013, un accord a finalement été trouvé par la Communauté des États d’A...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Regions/ACP/Afrique-Centrale/Note-de-synthese-mise-a-jour-2013-Afrique-centrale-enjeux-lies-au-commerce-agricole</id>
+		<title>Note de synthèse - mise à jour 2013 : Afrique centrale : enjeux liés au commerce agricole</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Regions/ACP/Afrique-Centrale/Note-de-synthese-mise-a-jour-2013-Afrique-centrale-enjeux-lies-au-commerce-agricole"/>
+		<updated>2013-12-04T11:57:20Z</updated>
+		<summary>
+				1. Contexte et principaux enjeuxLes pays d’Afrique centrale – le Cameroun, la République centrafricaine (RCA), la République du Congo, le Gabon, la...
+				</summary>
+	</entry>			</feed>

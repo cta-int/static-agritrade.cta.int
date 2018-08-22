@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/layout/set/custom_rss/Agriculture/Commodities/Horticulture</id>
+	<link rel="self" href="http://agritrade.cta.int/layout/set/custom_rss/Agriculture/Commodities/Horticulture" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T15:30:53Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Kenya-cracks-down-on-dishonest-nut-dealers</id>
+		<title> Kenya cracks down on dishonest nut dealers </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Kenya-cracks-down-on-dishonest-nut-dealers"/>
+		<updated>2015-03-11T10:36:05Z</updated>
+		<summary>
+				The Kenyan Government is launching a facts-finding mission in the nuts sector to stem massive losses and widespread exploitation of nut farmers. 
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Financing-EU-food-and-feed-controls-Recent-developments-and-implications-for-the-ACP</id>
+		<title>Financing EU food and feed controls: Recent developments and implications for the ACP </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Financing-EU-food-and-feed-controls-Recent-developments-and-implications-for-the-ACP"/>
+		<updated>2015-01-18T19:54:07Z</updated>
+		<summary>
+				IntroductionThe OECD, in its publication ‘Non-tariff measures in agri-food trade: Improving policy coherence for development’ of January 2013, has...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Sorghum-and-cassava-increasingly-used-in-brewing-across-Africa</id>
+		<title>Sorghum and cassava increasingly used in brewing across Africa</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Sorghum-and-cassava-increasingly-used-in-brewing-across-Africa"/>
+		<updated>2014-12-08T11:02:56Z</updated>
+		<summary>
+				There is a growing trend towards contract farming of cassava and other inputs to the brewing industry across Africa, where seven governments have e...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Tanzanian-government-to-launch-horticulture-board-to-protect-farmers-interests</id>
+		<title>Tanzanian government to launch horticulture board to protect farmers’ interests</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Tanzanian-government-to-launch-horticulture-board-to-protect-farmers-interests"/>
+		<updated>2014-11-30T19:22:02Z</updated>
+		<summary>
+				According to press reports, the government of Tanzania is proposing the creation of a horticulture board to help farmers defend their own interests...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Finding-commercially-viable-markets-for-cassava-proves-challenging</id>
+		<title>Finding commercially viable markets for cassava proves challenging</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Finding-commercially-viable-markets-for-cassava-proves-challenging"/>
+		<updated>2014-11-30T19:16:05Z</updated>
+		<summary>
+				At the beginning of September 2014, Nigerian cassava chip producers expressed frustration at the prices on offer for cassava chip exports to China....
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Horticulture-development-programmes-under-way/Growing-interest-in-Irish-potato-production-in-East-and-Southern-Africa</id>
+		<title>Growing interest in Irish potato production in East and Southern Africa </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Horticulture-development-programmes-under-way/Growing-interest-in-Irish-potato-production-in-East-and-Southern-Africa"/>
+		<updated>2014-11-24T11:22:02Z</updated>
+		<summary>
+				Production of Irish potato is on the rise in Ethiopia. According to a recent report in the Irish Times, “it is estimated there are one million pota...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Evolving-demand-trends-and-export-opportunities-for-sweet-potatoes-yams-and-other-roots-and-tubers</id>
+		<title>Evolving demand trends and export opportunities for sweet potatoes yams and other roots and tubers</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Evolving-demand-trends-and-export-opportunities-for-sweet-potatoes-yams-and-other-roots-and-tubers"/>
+		<updated>2014-11-10T09:50:15Z</updated>
+		<summary>
+				Roots and tubers have traditionally been the second largest sub-category of food production in the Caribbean, with imports equivalent to around 19%...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Promoting-local-fruit-and-vegetable-sourcing-Aspirations-and-experiences-in-Southern-Africa</id>
+		<title>Promoting local fruit and vegetable sourcing: Aspirations and experiences in Southern Africa</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Promoting-local-fruit-and-vegetable-sourcing-Aspirations-and-experiences-in-Southern-Africa"/>
+		<updated>2014-10-26T12:45:42Z</updated>
+		<summary>
+				In August 2014, Zambia’s President expressed concern over the continued import of fruits and vegetables, when “Zambian farmers have [the] capacity...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Cereals/Different-approaches-to-promoting-cassava-processing-and-trade</id>
+		<title>Different approaches to promoting cassava processing and trade</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Cereals/Different-approaches-to-promoting-cassava-processing-and-trade"/>
+		<updated>2014-10-18T11:55:18Z</updated>
+		<summary>
+				Recent press reports from Southern Africa and West Africa have highlighted the very different approaches that can be adopted in promoting cassava p...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/South-Africa-seeks-to-diversify-its-fruit-export-markets</id>
+		<title>South Africa seeks to diversify its fruit export markets</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/South-Africa-seeks-to-diversify-its-fruit-export-markets"/>
+		<updated>2014-10-12T12:20:10Z</updated>
+		<summary>
+				According to press reports, the markets of Africa, Asia, the Middle East and the USA are growing in importance for South African exports of both ci...
+				</summary>
+	</entry>			</feed>

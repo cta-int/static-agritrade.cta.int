@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/en/layout/set/custom_rss/Fisheries/Regions/ACP</id>
+	<link rel="self" href="http://agritrade.cta.int/en/layout/set/custom_rss/Fisheries/Regions/ACP" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T17:26:21Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/WTO-framework-for-international-market-access-in-fisheries-and-aquaculture</id>
+		<title>WTO framework for international market access in fisheries and aquaculture</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/WTO-framework-for-international-market-access-in-fisheries-and-aquaculture"/>
+		<updated>2014-10-12T13:33:03Z</updated>
+		<summary>
+				Delegates from 11 countries participated in a joint workshop organised by FAO and Info-SAMAK, on a ‘WTO framework for international market access i...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/Market-access/Emerging-issues-regarding-the-assessment-and-management-of-seafood-safety-and-quality</id>
+		<title>Emerging issues regarding the assessment and management of seafood safety and quality </title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/Market-access/Emerging-issues-regarding-the-assessment-and-management-of-seafood-safety-and-quality"/>
+		<updated>2014-10-04T11:18:00Z</updated>
+		<summary>
+				FAO has published a new technical paper on current practices and emerging issues in seafood safety and quality, including the changing regulatory f...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/EU-common-fisheries-policy/Call-on-the-EU-to-ban-subsidies-for-high-seas-fishing</id>
+		<title>Call on the EU to ban subsidies for high seas fishing</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/EU-common-fisheries-policy/Call-on-the-EU-to-ban-subsidies-for-high-seas-fishing"/>
+		<updated>2014-10-08T12:04:48Z</updated>
+		<summary>
+				The Global Ocean Commission (GOC), an initiative composed of 17 government and business leaders, called for an international governance system for...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/Market-access/Tackling-IUU-through-trade-policy-The-EU-s-experience</id>
+		<title>Tackling IUU through trade policy: The EU’s experience</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/Market-access/Tackling-IUU-through-trade-policy-The-EU-s-experience"/>
+		<updated>2014-10-08T12:01:13Z</updated>
+		<summary>
+				The European Commission (DG Mare) has recently published an overview of the state of implementation of the EU IUU regulation by member states, the...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/Market-access/Improvements-are-needed-for-the-EU-IUU-regulation-says-new-study</id>
+		<title>Improvements are needed for the EU IUU regulation, says new study</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/Market-access/Improvements-are-needed-for-the-EU-IUU-regulation-says-new-study"/>
+		<updated>2014-10-08T12:00:50Z</updated>
+		<summary>
+				A study entitled ‘Traceability, Legal Provenance &amp; the EU IUU Regulation’, supported by the Stop Illegal Fishing Program and recently made publ...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/Market-access/Developments-in-EU-canned-tuna-market</id>
+		<title>Developments in EU canned tuna market</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/Market-access/Developments-in-EU-canned-tuna-market"/>
+		<updated>2014-10-08T12:00:29Z</updated>
+		<summary>
+				Two recent publications, the FFA Globefish market report and Trade and Industry News, in its special feature on the Infofish tuna conference 2014,...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/EU-common-fisheries-policy/Discard-ban-implementation-raises-increasing-criticisms</id>
+		<title>Discard ban implementation raises increasing criticisms</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/EU-common-fisheries-policy/Discard-ban-implementation-raises-increasing-criticisms"/>
+		<updated>2014-07-23T11:08:17Z</updated>
+		<summary>
+				A recent study in the scientific magazine Nature highlights that, on its own, the elimination of discards – a key measure agreed in the new EU Comm...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/FAO-adopts-international-guidelines-for-sustainable-small-scale-fisheries</id>
+		<title>FAO adopts international guidelines for sustainable small-scale fisheries</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/WTO-international-developments/FAO-adopts-international-guidelines-for-sustainable-small-scale-fisheries"/>
+		<updated>2014-07-05T11:32:16Z</updated>
+		<summary>
+				The 31st session of the Fisheries Committee (COFI 31) of the FAO was held 9–13 June 2014 in Rome. Prior to COFI 31, the FAO published the 2014 edit...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/ACP-EU-relations-FPAs/An-international-conference-analyses-the-external-dimension-of-the-reformed-CFP</id>
+		<title>An  international conference analyses the external dimension of the reformed CFP</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/ACP-EU-relations-FPAs/An-international-conference-analyses-the-external-dimension-of-the-reformed-CFP"/>
+		<updated>2014-06-23T08:39:05Z</updated>
+		<summary>
+				A recent report on the 2-day international conference held at the end of January 2014 in Stockholm discussed the implications of the CFP external d...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Fisheries/Topics/ACP-EU-relations-FPAs/Third-country-flagged-Spanish-owned-tuna-vessels-to-abide-by-CFP-standards-for-control</id>
+		<title>Third-country flagged, Spanish-owned tuna vessels to abide by CFP standards for control</title>
+
+		<link href="http://agritrade.cta.int/en/Fisheries/Topics/ACP-EU-relations-FPAs/Third-country-flagged-Spanish-owned-tuna-vessels-to-abide-by-CFP-standards-for-control"/>
+		<updated>2014-06-15T23:23:11Z</updated>
+		<summary>
+				The Spanish government and the Spanish Fisheries Confederation (CEPESCA) on behalf of Spanish tuna fishing associations (ANABAC and OPAGAC) have si...
+				</summary>
+	</entry>			</feed>

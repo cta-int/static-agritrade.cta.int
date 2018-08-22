@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/layout/set/custom_rss/Agriculture/Regions/ACP</id>
+	<link rel="self" href="http://agritrade.cta.int/layout/set/custom_rss/Agriculture/Regions/ACP" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T15:42:26Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/WTO/Lack-of-Trade-Finance-a-Barrier-for-Developing-Countries</id>
+		<title>Lack of Trade Finance a Barrier for Developing Countries</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/WTO/Lack-of-Trade-Finance-a-Barrier-for-Developing-Countries"/>
+		<updated>2015-05-12T09:36:01Z</updated>
+		<summary>
+				Roberto Azevêdo, sixth Director-General of the World Trade Organization (WTO), argues that lack of capacity in the financial sector has a very sig...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/New-COMESA-guidelines-on-merger-assessment</id>
+		<title>New COMESA guidelines on merger assessment</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/New-COMESA-guidelines-on-merger-assessment"/>
+		<updated>2015-01-28T10:33:15Z</updated>
+		<summary>
+				COMESA Competition Commission (CCC), established by the Competition Regulations of COMESA (&quot;Rules&quot;) which is responsible for promoting competition in the common market, published its guidelines on the application of the Regulation in order to &quot;Provide guidance to the parties to contemplating or in the process of merging Within the Common Market. Under the regulations, the CCC &quot;may, as regards trade between Member States, monitor, investigate, detect, conclusions or take steps to prevent hitting ban and / or penalize companies whose activities trade substantially restrict competition in the common market &quot;(Article 8 of the Regulations).
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Financing-EU-food-and-feed-controls-Recent-developments-and-implications-for-the-ACP</id>
+		<title>Financing EU food and feed controls: Recent developments and implications for the ACP </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Financing-EU-food-and-feed-controls-Recent-developments-and-implications-for-the-ACP"/>
+		<updated>2015-01-18T19:54:07Z</updated>
+		<summary>
+				IntroductionThe OECD, in its publication ‘Non-tariff measures in agri-food trade: Improving policy coherence for development’ of January 2013, has...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/ACP-sugar-exports-to-the-EU-and-the-future-of-co-refining-of-raw-cane-sugar-by-EU-beet-refiners</id>
+		<title>ACP sugar exports to the EU and the future of co-refining of raw cane sugar by EU beet refiners</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/ACP-sugar-exports-to-the-EU-and-the-future-of-co-refining-of-raw-cane-sugar-by-EU-beet-refiners"/>
+		<updated>2014-12-17T15:34:14Z</updated>
+		<summary>
+				SummaryIn the context of partial reforms of the EU sugar regime, continued quota ceilings on the production of sugar from beet have resulted in EU...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/Increased-interceptions-of-harmful-organisms-overhang-some-ACP-horticultural-exports-to-the-EU</id>
+		<title>Increased interceptions of ‘harmful organisms’ overhang some ACP horticultural exports to the EU</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/Increased-interceptions-of-harmful-organisms-overhang-some-ACP-horticultural-exports-to-the-EU"/>
+		<updated>2014-09-29T10:03:17Z</updated>
+		<summary>
+				In mid July 2014, the EC sent a warning letter to the national plant protection organisations (NPPOs) in eight countries, warning that “strict acti...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/General/World-prices-to-rise-faster-for-meat-dairy-and-fish-than-for-cereals-but-the-ACP-may-miss-out</id>
+		<title>World prices to rise faster for meat, dairy and fish than for cereals – but the ACP may miss out</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/General/World-prices-to-rise-faster-for-meat-dairy-and-fish-than-for-cereals-but-the-ACP-may-miss-out"/>
+		<updated>2014-09-29T09:59:36Z</updated>
+		<summary>
+				According to the latest annual OECD-FAO Agricultural Outlook, growth rates in world prices for meat, dairy and fish (together with biofuels) will o...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Poultry/South-Africa-s-experience-of-managing-poultry-sector-trade-policy</id>
+		<title>South Africa’s experience of managing poultry sector trade policy</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Poultry/South-Africa-s-experience-of-managing-poultry-sector-trade-policy"/>
+		<updated>2014-09-24T12:40:42Z</updated>
+		<summary>
+				South Africa’s poultry sectorPoultry meat consumption in South Africa grew by 70% between 2000 and 2010, prompting growth in South African poultry...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Poultry/Lessons-from-EU-poultry-sector-trade-policy</id>
+		<title>Lessons from EU poultry sector trade policy</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Poultry/Lessons-from-EU-poultry-sector-trade-policy"/>
+		<updated>2014-09-24T12:17:15Z</updated>
+		<summary>
+				The context of EU poultry sector tariff policyTrade policy is the principal policy tool used by the EU to manage the poultry sector and involves a...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Oil-crops/ACP-palm-oil-sector-development-and-the-debate-on-sustainability-certification</id>
+		<title>ACP palm oil sector development and the debate on sustainability certification</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Oil-crops/ACP-palm-oil-sector-development-and-the-debate-on-sustainability-certification"/>
+		<updated>2014-09-05T17:31:08Z</updated>
+		<summary>
+				Growing demand for certified sustainable palm oil in OECD countriesIn recent years, a trend has developed in OECD countries for ‘certified, sustain...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/IFOAM-expresses-concerns-over-impact-of-new-EU-organic-regulation-on-imports</id>
+		<title>IFOAM expresses concerns over impact of new EU organic regulation on imports</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/IFOAM-expresses-concerns-over-impact-of-new-EU-organic-regulation-on-imports"/>
+		<updated>2014-07-21T10:45:47Z</updated>
+		<summary>
+				The International Federation of Organic Agricultural Movements (IFOAM) has raised concerns over EC proposals for “a complete overhaul of the EU org...
+				</summary>
+	</entry>			</feed>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/APE</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/APE" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T17:53:02Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Reforme-de-la-PAC/L-excedent-du-commerce-agroalimentaire-de-l-UE-continue-d-augmenter</id>
+		<title>L’excédent du commerce agroalimentaire de l’UE continue d’augmenter </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Reforme-de-la-PAC/L-excedent-du-commerce-agroalimentaire-de-l-UE-continue-d-augmenter"/>
+		<updated>2014-08-18T18:19:39Z</updated>
+		<summary>
+				D’après le rapport de la CE sur le commerce agricole pour 2013, la croissance des exportations européennes de produits agricoles a ralenti à 5,8 %...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/APE/La-Cote-d-Ivoire-et-son-dilemme-de-politique-commerciale</id>
+		<title>La Côte d’Ivoire et son dilemme de politique commerciale</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/APE/La-Cote-d-Ivoire-et-son-dilemme-de-politique-commerciale"/>
+		<updated>2014-08-11T14:38:52Z</updated>
+		<summary>
+				Selon une analyse publiée par le Centre international pour le commerce et le développement durable (ICTSD), si la Côte d’Ivoire n’achève pas son pr...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/APE/L-utilisation-des-outils-de-politique-commerciale-agricole-reste-litigieuse-dans-les-negociations-d-APE-et-le-commerce-intra-regional</id>
+		<title>L’utilisation des outils de politique commerciale agricole reste litigieuse dans les négociations d’APE et le commerce intra-régional </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/APE/L-utilisation-des-outils-de-politique-commerciale-agricole-reste-litigieuse-dans-les-negociations-d-APE-et-le-commerce-intra-regional"/>
+		<updated>2014-07-23T13:21:25Z</updated>
+		<summary>
+				Dans le contexte des négociations d’APE SADC, les questions en suspens ont été réduites à deux : les sauvegardes agricoles et les taxes d’exportati...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Banane/Reprise-des-negociations-d-APE-entre-l-Afrique-centrale-et-l-UE-alors-que-croit-l-inquietude-sur-l-avenir-des-exportations-de-bananes-du-Cameroun</id>
+		<title>Reprise des négociations d’APE entre l’Afrique centrale et l’UE alors que croît l’inquiétude sur l’avenir des exportations de bananes du Cameroun </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Banane/Reprise-des-negociations-d-APE-entre-l-Afrique-centrale-et-l-UE-alors-que-croit-l-inquietude-sur-l-avenir-des-exportations-de-bananes-du-Cameroun"/>
+		<updated>2014-06-30T09:30:35Z</updated>
+		<summary>
+				L’ECDPM indiquait en mai 2014 que « la région d’Afrique centrale a rouvert le dossier APE après des années de relative inactivité ». Cela faisait s...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/APE/Implications-pour-l-APE-de-la-simplification-par-l-UE-de-ses-mecanismes-de-defense-commerciale</id>
+		<title>Implications pour l’APE de la simplification par l’UE de ses mécanismes de défense commerciale </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/APE/Implications-pour-l-APE-de-la-simplification-par-l-UE-de-ses-mecanismes-de-defense-commerciale"/>
+		<updated>2014-06-15T20:49:06Z</updated>
+		<summary>
+				Le Parlement européen et le Conseil ont tous deux approuvé (le 2 avril et le 8 mai respectivement) un nouveau cadre juridique au titre duquel la Co...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/APE/Quelle-que-soit-l-issue-des-negociations-il-y-aura-des-couts-lies-a-l-APE</id>
+		<title>Quelle que soit l’issue des négociations, il y aura des coûts liés à l’APE </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/APE/Quelle-que-soit-l-issue-des-negociations-il-y-aura-des-couts-lies-a-l-APE"/>
+		<updated>2014-06-15T23:03:12Z</updated>
+		<summary>
+				D’après certains articles de presse, le monde des affaires ghanéen reste divisé quant au bien-fondé de la ratification de l’APE par le Ghana. Les e...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/APE/La-CE-clarifie-les-options-qui-s-offrent-a-l-APE-Pacifique-UE</id>
+		<title>La CE clarifie les options qui s’offrent à l’APE Pacifique-UE</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/APE/La-CE-clarifie-les-options-qui-s-offrent-a-l-APE-Pacifique-UE"/>
+		<updated>2014-05-17T11:09:13Z</updated>
+		<summary>
+				Dans une interview accordée à PACNEWS en mars 2014, le responsable de la section politique et commerciale de la délégation de l’UE dans le Pacifiqu...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/APE/Les-dispositions-sur-les-instruments-de-politique-commerciale-agricole-doivent-encore-etre-arretees-dans-les-negociations-d-APE-SADC-UE</id>
+		<title>Les dispositions sur les instruments de politique commerciale agricole doivent encore être arrêtées dans les négociations d’APE SADC-UE</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/APE/Les-dispositions-sur-les-instruments-de-politique-commerciale-agricole-doivent-encore-etre-arretees-dans-les-negociations-d-APE-SADC-UE"/>
+		<updated>2014-05-06T15:42:57Z</updated>
+		<summary>
+				Il ressort d’une interview avec un haut responsable sud-africain du commerce qu’un certain nombre de points des négociations d’APE SADC-UE ont main...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/APE/Les-chefs-d-Etat-d-Afrique-de-l-Ouest-reportent-la-decision-finale-sur-l-APE-regional</id>
+		<title>Les chefs d’État d’Afrique de l’Ouest reportent la décision finale sur l’APE régional</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/APE/Les-chefs-d-Etat-d-Afrique-de-l-Ouest-reportent-la-decision-finale-sur-l-APE-regional"/>
+		<updated>2014-04-22T17:50:26Z</updated>
+		<summary>
+				Lors d’une réunion des chefs d’État et de Gouvernement de la CEDEAO organisée à la fin mars 2014, les dirigeants de l’Afrique de l’Ouest ont approu...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/Les-mesures-pour-le-secteur-laitier-namibien-remises-en-question-par-une-laiterie-sud-africaine</id>
+		<title>Les mesures pour le secteur laitier namibien remises en question par une laiterie sud-africaine </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/Les-mesures-pour-le-secteur-laitier-namibien-remises-en-question-par-une-laiterie-sud-africaine"/>
+		<updated>2014-04-11T16:33:28Z</updated>
+		<summary>
+				L’utilisation des contrôles des importations du secteur laitier en Namibie a été critiquée par la laiterie sud-africaine Clover (voir article Agrit...
+				</summary>
+	</entry>			</feed>

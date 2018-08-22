@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/Reforme-de-la-PAC</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/Reforme-de-la-PAC" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:01:00Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Suedzucker-profil-d-entreprise</id>
+		<title>Südzucker - profil d’entreprise</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Suedzucker-profil-d-entreprise"/>
+		<updated>2014-09-28T17:15:32Z</updated>
+		<summary>
+				Structure de propriétéSüdzucker est la plus grande sucrerie de betterave de l’UE et du monde, avec une production de sucre européenne de 4,9 millio...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Reforme-de-la-PAC/L-excedent-du-commerce-agroalimentaire-de-l-UE-continue-d-augmenter</id>
+		<title>L’excédent du commerce agroalimentaire de l’UE continue d’augmenter </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Reforme-de-la-PAC/L-excedent-du-commerce-agroalimentaire-de-l-UE-continue-d-augmenter"/>
+		<updated>2014-08-18T18:19:39Z</updated>
+		<summary>
+				D’après le rapport de la CE sur le commerce agricole pour 2013, la croissance des exportations européennes de produits agricoles a ralenti à 5,8 %...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Accord-de-l-OMC/Le-Groupe-de-Cairns-presente-un-document-sur-le-soutien-total-ayant-des-effets-de-distorsion-des-echanges</id>
+		<title>Le Groupe de Cairns présente un document sur le « soutien total ayant des effets de distorsion des échanges » </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Accord-de-l-OMC/Le-Groupe-de-Cairns-presente-un-document-sur-le-soutien-total-ayant-des-effets-de-distorsion-des-echanges"/>
+		<updated>2014-05-19T13:24:05Z</updated>
+		<summary>
+				D’après un rapport publié par le Centre international pour le commerce et le développement durable (ICTSD), un document informel publié par le Grou...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/Les-reponses-des-entreprises-africaines-et-europeennes-a-l-abolition-des-quotas-laitiers-de-l-UE</id>
+		<title>Les réponses des entreprises africaines et européennes à l’abolition des quotas laitiers de l’UE </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/Les-reponses-des-entreprises-africaines-et-europeennes-a-l-abolition-des-quotas-laitiers-de-l-UE"/>
+		<updated>2014-05-12T10:46:26Z</updated>
+		<summary>
+				ContexteLa demande des consommateurs pour des produits laitiers augmente rapidement en Afrique subsaharienne (une hausse de 22 % en six ans). La ré...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Reforme-de-la-PAC/La-CE-elargit-les-engagements-sur-l-interdiction-des-restitutions-a-l-exportation-au-commerce-avec-l-Afrique</id>
+		<title>La CE élargit les engagements sur l’interdiction des restitutions à l’exportation au commerce avec l’Afrique </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Reforme-de-la-PAC/La-CE-elargit-les-engagements-sur-l-interdiction-des-restitutions-a-l-exportation-au-commerce-avec-l-Afrique"/>
+		<updated>2014-02-24T09:40:54Z</updated>
+		<summary>
+				Dans un discours prononcé à l’occasion de la Semaine verte à la mi-janvier 2014, le commissaire européen à l’agriculture Dacian Cioloş a déclaré qu...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Reforme-de-la-PAC/Les-mesures-de-promotion-des-produits-agricoles-de-l-UE-vont-etre-developpees</id>
+		<title>Les mesures de promotion des produits agricoles de l’UE vont être développées</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Reforme-de-la-PAC/Les-mesures-de-promotion-des-produits-agricoles-de-l-UE-vont-etre-developpees"/>
+		<updated>2014-01-27T09:57:11Z</updated>
+		<summary>
+				La CE a annoncé des plans visant à élargir et recentrer sa « politique d'information et de promotion des produits agricoles et alimentaires europée...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Reforme-de-la-PAC/Un-examen-met-en-lumiere-l-importance-du-soutien-agricole-fourni-par-les-Etats-membres-parallelement-aux-programmes-de-l-UE</id>
+		<title>Un examen met en lumière l’importance du soutien agricole fourni par les États membres parallèlement aux programmes de l’UE</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Reforme-de-la-PAC/Un-examen-met-en-lumiere-l-importance-du-soutien-agricole-fourni-par-les-Etats-membres-parallelement-aux-programmes-de-l-UE"/>
+		<updated>2014-02-07T20:36:35Z</updated>
+		<summary>
+				Un examen des programmes de soutien agricole des États membres de l’UE a été publié par le Professeur Alan Matthews du Trinity College de Dublin, s...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Reforme-de-la-PAC/Note-de-synthese-mise-a-jour-2013-la-reforme-de-la-PAC-et-ses-implications-pour-les-pays-en-developpement</id>
+		<title>Note de synthèse - mise à jour 2013 : la réforme de la PAC et ses implications pour les pays en développement </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Reforme-de-la-PAC/Note-de-synthese-mise-a-jour-2013-la-reforme-de-la-PAC-et-ses-implications-pour-les-pays-en-developpement"/>
+		<updated>2013-12-16T15:55:23Z</updated>
+		<summary>
+				1.         Contexte et principaux enjeuxLe processus de réforme de la Politique agricole commune (PAC) de l’UE, qui est en cours depuis 1992, a rad...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Perspectives-parlementaires-sur-le-regime-des-fruits-et-des-legumes-de-l-UE</id>
+		<title>Perspectives parlementaires sur le régime des fruits et des légumes de l’UE</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Perspectives-parlementaires-sur-le-regime-des-fruits-et-des-legumes-de-l-UE"/>
+		<updated>2013-11-16T18:29:25Z</updated>
+		<summary>
+				Un projet de rapport de la Commission pour l’Agriculture et le développement rural du Parlement européen sur le futur du secteur horticole de l’Eur...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Reforme-de-la-PAC/Des-limites-supplementaires-sur-l-utilisation-des-restitutions-a-l-exportation-convenues-dans-le-cadre-de-la-finalisation-des-reformes-de-la-PAC-2013</id>
+		<title>Des limites supplémentaires sur l’utilisation des restitutions à l’exportation convenues dans le cadre de la finalisation des réformes de la PAC 2013</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Reforme-de-la-PAC/Des-limites-supplementaires-sur-l-utilisation-des-restitutions-a-l-exportation-convenues-dans-le-cadre-de-la-finalisation-des-reformes-de-la-PAC-2013"/>
+		<updated>2013-11-17T22:14:01Z</updated>
+		<summary>
+				D’après l’analyse d’Alan Matthews, professeur émérite de politique agricole européenne au Trinity College de Dublin, « les changements dans la form...
+				</summary>
+	</entry>			</feed>

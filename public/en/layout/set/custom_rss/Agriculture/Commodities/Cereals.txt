@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Commodities/Cereals</id>
+	<link rel="self" href="http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Commodities/Cereals" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T17:01:54Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Maize-value-chain-East-Southern-Africa-COMESA-launches-Road-Map-to-boost-regional-maize-trade</id>
+		<title>Maize value chain/East-Southern Africa – COMESA launches Road Map to boost regional maize trade</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Maize-value-chain-East-Southern-Africa-COMESA-launches-Road-Map-to-boost-regional-maize-trade"/>
+		<updated>2016-01-18T11:03:09Z</updated>
+		<summary>
+				The maize trade in Eastern and Southern Africa is set to rise following a roadmap to address bottlenecks caused by differences in standards and reg...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Cereals/Wheat-value-chain-Ethiopia-Farmers-gaining-from-improved-crop-varieties</id>
+		<title>Wheat value chain/Ethiopia – Farmers gaining from improved crop varieties</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Cereals/Wheat-value-chain-Ethiopia-Farmers-gaining-from-improved-crop-varieties"/>
+		<updated>2015-11-25T15:44:07Z</updated>
+		<summary>
+				Employing new agricultural systems, especially seed varieties released from research centers, Ethiopian smallholder wheat farmers have increased th...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Ethiopia-Over-5-million-Ethiopian-farmers-to-benefit-from-IBM-s-ECX-Traceability-System</id>
+		<title>Input value chain/Ethiopia - Over 5 million Ethiopian farmers to benefit from IBM's ECX Traceability System</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Ethiopia-Over-5-million-Ethiopian-farmers-to-benefit-from-IBM-s-ECX-Traceability-System"/>
+		<updated>2015-11-25T15:36:11Z</updated>
+		<summary>
+				The Ethiopia Commodity Exchange (ECX) has officially launched its IBM-enabled national traceability system, known as eATTS. With numerous industry...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/Grain-value-chain-Ethiopia-Research-reveals-indigenous-crop-varieties-face-danger</id>
+		<title>Grain value chain/Ethiopia - Research reveals indigenous crop varieties face danger</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/Grain-value-chain-Ethiopia-Research-reveals-indigenous-crop-varieties-face-danger"/>
+		<updated>2015-10-20T15:23:10Z</updated>
+		<summary>
+				Due to little attention given to indigenous crop varieties including teff, wheat and barley in favor of improved seed varieties, the indigenous cro...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Wheat-value-chain-Zambia-State-bans-wheat-importation</id>
+		<title>Wheat value chain/Zambia - State bans wheat importation</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Wheat-value-chain-Zambia-State-bans-wheat-importation"/>
+		<updated>2015-10-20T15:15:59Z</updated>
+		<summary>
+				Zambian government has with immediate effect banned the importation of wheat indicating that Zambian farmers have the capacity to meet local demand...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Grain-value-chain-Rwanda-Maize-farmers-decry-lack-of-market-for-their-produce</id>
+		<title>Grain value chain/ Rwanda: Maize farmers decry lack of market for their produce</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Grain-value-chain-Rwanda-Maize-farmers-decry-lack-of-market-for-their-produce"/>
+		<updated>2015-10-20T15:09:52Z</updated>
+		<summary>
+				Maize farmers have criticized Rwanda Agriculture Board's (RAB) decision to terminate contracts it had with farmers' cooperatives to buy their bumpe...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Cereals/Grain-value-chain-Ethiopia-Meta-local-barley-sourcing-program-said-effective</id>
+		<title>Grain value chain/ Ethiopia - Meta local barley sourcing program said effective</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Cereals/Grain-value-chain-Ethiopia-Meta-local-barley-sourcing-program-said-effective"/>
+		<updated>2015-10-20T15:06:09Z</updated>
+		<summary>
+				The Meta Abo Brewery Share Company announced that its local barley sourcing programme has become effective in increasing yields as well as putting...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/Grain-value-chain-Uganda-Farmers-urge-Government-to-support-local-seeds</id>
+		<title>Grain value chain/Uganda - Farmers urge Government to support local seeds</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/Grain-value-chain-Uganda-Farmers-urge-Government-to-support-local-seeds"/>
+		<updated>2015-09-15T10:19:43Z</updated>
+		<summary>
+				Speaking during a seed dialogue in Kampala, smallholder farmers under their umbrella body, Eastern and Southern Africa small-scale farmers' forum (...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/Grain-value-chain-Nigeria-IART-releases-new-hybrid-maize-seeds</id>
+		<title>Grain value chain/Nigeria - IART releases new hybrid maize seeds</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/Grain-value-chain-Nigeria-IART-releases-new-hybrid-maize-seeds"/>
+		<updated>2015-09-15T10:16:19Z</updated>
+		<summary>
+				Two new hybrid maize seed that will help improve productivity and farmer’s income, have been released in Nigeria. The new maize hybrids Ife Maizehy...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/Wheat-value-chain-Nigeria-Nigeria-has-competitive-advantage-in-wheat-production</id>
+		<title>Wheat value chain/Nigeria - Nigeria has competitive advantage in wheat production</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/Wheat-value-chain-Nigeria-Nigeria-has-competitive-advantage-in-wheat-production"/>
+		<updated>2015-08-31T13:21:32Z</updated>
+		<summary>
+				Nigerian’s Federal Ministry of Agriculture and Rural Development have stated that the nation's locally produced wheat can now compete favorably wi...
+				</summary>
+	</entry>			</feed>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Commodities/Tea</id>
+	<link rel="self" href="http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Commodities/Tea" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T17:17:22Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Tea/Internal-tax-reform-and-production-restraint-seen-as-key-to-halting-Kenyan-tea-price-declines</id>
+		<title>Internal tax reform and production restraint seen as key to halting Kenyan tea price declines </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Tea/Internal-tax-reform-and-production-restraint-seen-as-key-to-halting-Kenyan-tea-price-declines"/>
+		<updated>2014-07-26T17:34:10Z</updated>
+		<summary>
+				In the face of declining earnings at the Mombasa tea auctions (which in June 2014 reached levels 17% below those prevailing in June 2013), Kenyan t...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Tea/Kenya-looking-to-introduce-new-tea-production-processes-to-facilitate-market-diversification</id>
+		<title>Kenya looking to introduce new tea production processes to facilitate market diversification</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Tea/Kenya-looking-to-introduce-new-tea-production-processes-to-facilitate-market-diversification"/>
+		<updated>2014-06-09T11:49:08Z</updated>
+		<summary>
+				In order to target new markets in the Far East, the Kenya Tea Development Agency Ltd (KTDA), a private company providing management services to sma...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Tea/Calls-for-Kenyan-government-action-to-address-falling-tea-prices</id>
+		<title>Calls for Kenyan government action to address falling tea prices </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Tea/Calls-for-Kenyan-government-action-to-address-falling-tea-prices"/>
+		<updated>2014-01-27T10:19:09Z</updated>
+		<summary>
+				Press reports in November 2013 showed increasing concerns in Kenya’s tea sector following 7 months of falling prices for Kenyan tea, with anxieties...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/CBI-highlights-trends-and-opportunities-for-tea-coffee-and-cocoa-exporters</id>
+		<title>CBI highlights trends and opportunities for tea, coffee and cocoa exporters</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/CBI-highlights-trends-and-opportunities-for-tea-coffee-and-cocoa-exporters"/>
+		<updated>2014-01-15T19:49:01Z</updated>
+		<summary>
+				Analysis from the Centre for the Promotion of Imports from developing countries (CBI), an agency of the Netherlands Ministry of Foreign Affairs, su...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Tea/Executive-Brief-Update-2013-Tea-sector</id>
+		<title>Executive Brief Update 2013: Tea sector</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Tea/Executive-Brief-Update-2013-Tea-sector"/>
+		<updated>2013-12-18T23:14:27Z</updated>
+		<summary>
+				1.         Background and key issuesAlthough China and India are the leading global tea producers, Kenya is the third largest tea producer and the...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Tea/New-tea-sector-investment-goes-ahead-in-Tanzania-while-Kenya-tea-sector-is-deregulated</id>
+		<title>New tea sector investment goes ahead in Tanzania while Kenya tea sector is deregulated </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Tea/New-tea-sector-investment-goes-ahead-in-Tanzania-while-Kenya-tea-sector-is-deregulated"/>
+		<updated>2013-11-01T17:33:19Z</updated>
+		<summary>
+				According to a corporate press release, “Unilever and the government of Tanzania have agreed to establish an ambitious partnership to reinvigorate...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Tea/Tea-market-price-falls-raise-supply-chain-issues-in-Kenya</id>
+		<title>Tea market price falls raise supply chain issues in Kenya </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Tea/Tea-market-price-falls-raise-supply-chain-issues-in-Kenya"/>
+		<updated>2013-10-27T20:31:46Z</updated>
+		<summary>
+				In April 2013, it was reported that Kenyan tea prices had fallen by US$0.5/kg since the start of 2013. This was attributed to a combination of incr...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/Legal-and-regulatory-constraints-on-GI-protection-illustrated</id>
+		<title>Legal and regulatory constraints on GI protection illustrated  </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/Legal-and-regulatory-constraints-on-GI-protection-illustrated"/>
+		<updated>2013-06-03T08:25:33Z</updated>
+		<summary>
+				Given that the rooibos industry in South Africa “has an estimated R600 million turnover [€48.8m] and employs 4,500 people”, there is some confusion...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/French-company-seeks-trademark-rights-for-rooibos-tea-as-EU-use-of-GIs-expands</id>
+		<title>French company seeks trademark rights for rooibos tea, as EU use of GIs expands </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Product-differentiation/French-company-seeks-trademark-rights-for-rooibos-tea-as-EU-use-of-GIs-expands"/>
+		<updated>2013-05-12T20:59:32Z</updated>
+		<summary>
+				According to press reports, in February 2013 the South African government began to take action in response to efforts in 2012 by a French company t...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Tea/Kenya-finding-its-market-share-in-a-demanding-world-tea-market</id>
+		<title>Kenya finding its market share in a demanding world tea market </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Tea/Kenya-finding-its-market-share-in-a-demanding-world-tea-market"/>
+		<updated>2013-04-29T10:21:42Z</updated>
+		<summary>
+				
+		
+
+Sicily K. Kariuki is Managing Director of the Tea Board of Kenya, the organisation responsible for promoting and regulating the tea industry in Kenya. A marketer by profession, Mrs Kariuki has a wide knowledge of the current multilateral trading environment. She has worked in Kenya’s commercial agricultural sector for 15 years, and moved from the horticultural sector to join the tea industry in 2006.
+				</summary>
+	</entry>			</feed>

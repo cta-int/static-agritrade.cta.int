@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Produits-de-base/Volaille</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Produits-de-base/Volaille" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:23:06Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Chaine-de-valeur-de-la-volaille-Burkina-Faso-Grippe-aviaire-le-Burkina-Faso-sollicite-un-appui-d-urgence</id>
+		<title>Chaîne de valeur de la volaille / Burkina Faso - Grippe aviaire : le Burkina Faso sollicite un appui d’urgence</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Chaine-de-valeur-de-la-volaille-Burkina-Faso-Grippe-aviaire-le-Burkina-Faso-sollicite-un-appui-d-urgence"/>
+		<updated>2015-05-20T11:00:27Z</updated>
+		<summary>
+				À la date du 13 avril, le pays a enregistré plus de 202 000 volailles mortes ou abattues et plus de 5 millions de dollars de pertes, y compris les...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Chaine-de-valeur-de-la-volaille-Burkina-Faso-Debut-dune-epidemie-de-grippe-aviaire</id>
+		<title>Chaîne de valeur de la volaille / Burkina Faso - Début dune épidémie de grippe aviaire </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Chaine-de-valeur-de-la-volaille-Burkina-Faso-Debut-dune-epidemie-de-grippe-aviaire"/>
+		<updated>2015-05-15T08:46:18Z</updated>
+		<summary>
+				Le gouvernement burkinabè a annoncé mercredi 01/04/2015 avoir décelé des cas de grippe aviaire de type H5N1 au sein d'élevages de volailles dans l...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/Examen-des-principales-tendances-dans-le-secteur-de-la-volaille-mondial</id>
+		<title>Examen des principales tendances dans le secteur de la volaille mondial </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/Examen-des-principales-tendances-dans-le-secteur-de-la-volaille-mondial"/>
+		<updated>2014-09-29T10:30:42Z</updated>
+		<summary>
+				D’après l’examen du secteur de la volaille mondial réalisé par le département américain de l’agriculture (USDA), la production et la consommation d...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/L-experience-de-l-Afrique-du-Sud-en-matiere-de-gestion-de-la-politique-commerciale-du-secteur-de-la-volaille</id>
+		<title>L’expérience de l’Afrique du Sud en matière de gestion de la politique commerciale du secteur de la volaille </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/L-experience-de-l-Afrique-du-Sud-en-matiere-de-gestion-de-la-politique-commerciale-du-secteur-de-la-volaille"/>
+		<updated>2014-09-24T12:40:42Z</updated>
+		<summary>
+				Le secteur de la volaille de l’Afrique du SudLa consommation de viande de volaille en Afrique du Sud a augmenté de 70 % entre 2000 et 2010, entraîn...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/Enseignements-tires-de-la-politique-commerciale-du-secteur-de-la-volaille-de-l-UE</id>
+		<title>Enseignements tirés de la politique commerciale du secteur de la volaille de l’UE </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/Enseignements-tires-de-la-politique-commerciale-du-secteur-de-la-volaille-de-l-UE"/>
+		<updated>2014-09-24T12:17:15Z</updated>
+		<summary>
+				Le contexte de la politique tarifaire du secteur de la volaille de l’UELa politique commerciale est le principal outil politique utilisé par l’UE p...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/L-Afrique-du-Sud-impose-des-droits-de-douane-anti-dumping-preliminaires-sur-les-morceaux-de-volaille-congeles-de-certains-Etats-membres-de-l-UE</id>
+		<title>L’Afrique du Sud impose des droits de douane anti-dumping préliminaires sur les morceaux de volaille congelés de certains États membres de l’UE</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/L-Afrique-du-Sud-impose-des-droits-de-douane-anti-dumping-preliminaires-sur-les-morceaux-de-volaille-congeles-de-certains-Etats-membres-de-l-UE"/>
+		<updated>2014-08-18T08:46:59Z</updated>
+		<summary>
+				À la suite d’une enquête menée par l’International Trade Administration Commission (ITAC) concernant les plaintes de dumping de morceaux de volaill...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Accord-de-l-OMC/L-OMC-et-les-restrictions-commerciales-liees-au-bien-etre-animal</id>
+		<title>L’OMC et les restrictions commerciales liées au bien-être animal </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Accord-de-l-OMC/L-OMC-et-les-restrictions-commerciales-liees-au-bien-etre-animal"/>
+		<updated>2014-08-18T07:32:16Z</updated>
+		<summary>
+				La réunion du Comité sur la viande de veau de l’Office international de la viande qui s’est tenue à la mi-juin 2014 a abordé les éventuelles réperc...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/Un-examen-des-politiques-commerciales-du-secteur-de-la-volaille-du-Ghana-est-en-cours</id>
+		<title>Un examen des politiques commerciales du secteur de la volaille du Ghana est en cours</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/Un-examen-des-politiques-commerciales-du-secteur-de-la-volaille-du-Ghana-est-en-cours"/>
+		<updated>2014-06-23T08:25:32Z</updated>
+		<summary>
+				En mai 2014, le président du Ghana s’est engagé vis-à-vis des producteurs de volaille à ce que le gouvernement utilise une combinaison de mesures d...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP/La-reciprocite-est-peut-etre-le-prix-a-payer-pour-que-l-Afrique-du-Sud-continue-a-beneficier-de-l-AGOA</id>
+		<title>La réciprocité est peut-être le prix à payer pour que l’Afrique du Sud continue à bénéficier de l’AGOA </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP/La-reciprocite-est-peut-etre-le-prix-a-payer-pour-que-l-Afrique-du-Sud-continue-a-beneficier-de-l-AGOA"/>
+		<updated>2014-06-23T08:17:00Z</updated>
+		<summary>
+				Un article de presse de mai 2014 indiquait que le gouvernement sud-africain « envisage d’accorder à certains producteurs américains le même accès a...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/Perspectives-2014-de-la-FAO-relatives-aux-developpements-du-secteur-mondial-de-la-volaille</id>
+		<title>Perspectives 2014 de la FAO relatives aux développements du secteur mondial de la volaille </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/Perspectives-2014-de-la-FAO-relatives-aux-developpements-du-secteur-mondial-de-la-volaille"/>
+		<updated>2014-06-15T22:55:42Z</updated>
+		<summary>
+				D’après le numéro de mai 2014 des Perspectives de l’alimentation de la FAO, la production mondiale de volaille, « après une croissance limitée en 2...
+				</summary>
+	</entry>			</feed>

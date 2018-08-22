@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Commodities/General</id>
+	<link rel="self" href="http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Commodities/General" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T16:59:05Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-East-Southern-Africa-ACTESA-and-AFAP-collaborate-for-a-joint-fertilizer-program</id>
+		<title>Input value chain/ East-Southern Africa - ACTESA and AFAP collaborate for a joint fertilizer program</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-East-Southern-Africa-ACTESA-and-AFAP-collaborate-for-a-joint-fertilizer-program"/>
+		<updated>2016-01-18T10:55:56Z</updated>
+		<summary>
+				The Alliance for Commodity Trade in Eastern and Southern Africa (ACTESA) in collaboration with the African Fertilizer and Agribusiness Partnership...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/Input-value-chain-Tanzania-Firm-makes-bags-that-kill-pests</id>
+		<title>Input value chain/Tanzania - Firm makes bags that kill pests</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/SPS-Food-safety/Input-value-chain-Tanzania-Firm-makes-bags-that-kill-pests"/>
+		<updated>2016-01-11T14:13:25Z</updated>
+		<summary>
+				A Tanzanian agricultural company has launched a reusable grain storage technology which will help farmers protect their crops from high insect infe...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Market-information-System-Uganda-National-Bureau-of-Standards-adopts-E-tag-system-to-check-fake-farm-inputs</id>
+		<title>Market information System/Uganda - National Bureau of Standards  adopts E-tag system to check fake farm inputs</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Market-information-System-Uganda-National-Bureau-of-Standards-adopts-E-tag-system-to-check-fake-farm-inputs"/>
+		<updated>2016-01-11T14:10:46Z</updated>
+		<summary>
+				Uganda has tightened the fight against counterfeit and substandard agricultural inputs like seeds, fertilizers, chemicals among other items floodin...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Senegal-New-partnership-to-strengthen-the-private-seed-and-agricultural-inputs-sector</id>
+		<title>Input value chain/Senegal - New partnership to strengthen the private seed and agricultural inputs sector </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Senegal-New-partnership-to-strengthen-the-private-seed-and-agricultural-inputs-sector"/>
+		<updated>2016-01-11T14:08:42Z</updated>
+		<summary>
+				Action for Enterprise (AFE), Argidius Foundation and Alliance for a Green Revolution in Africa (AGRA), have partnered for a new initiative to make...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Malawi-Government-to-align-its-Seed-Regulations-to-COMESA-System</id>
+		<title>Input value chain/Malawi - Government to align its Seed Regulations to COMESA System</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Malawi-Government-to-align-its-Seed-Regulations-to-COMESA-System"/>
+		<updated>2015-12-15T08:54:29Z</updated>
+		<summary>
+				Malawi is planning to align its seed regulations with the Common Market for East and Southern Africa (COMESA) Seed Harmonization Implementation Pla...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Zambia-Expedite-e-voucher-system-PMRC-urged-Government</id>
+		<title>Input value chain/Zambia - Expedite e-voucher system, PMRC urged Government</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Input-value-chain-Zambia-Expedite-e-voucher-system-PMRC-urged-Government"/>
+		<updated>2015-11-25T15:39:01Z</updated>
+		<summary>
+				The Policy Monitoring and Research Centre (PMRC) has urged Zambian government to accelerate the implementation of the electronic voucher system in...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Value-chain-Finance-Rwanda-Credit-institutions-move-to-boost-agriculture-sector</id>
+		<title>Value chain Finance/ Rwanda – Credit institutions move to boost agriculture sector</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Value-chain-Finance-Rwanda-Credit-institutions-move-to-boost-agriculture-sector"/>
+		<updated>2015-11-09T11:09:03Z</updated>
+		<summary>
+				The Annual Agriculture Finance Conference held in Kigali brought together more than 200 financial experts, bankers and development partners to disc...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Market-Technologies-Nigeria-AfDB-says-new-technologies-transforms-Africa-s-agricultural-sector</id>
+		<title>Market Technologies/Nigeria – AfDB says new technologies transforms Africa’s agricultural sector </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Market-Technologies-Nigeria-AfDB-says-new-technologies-transforms-Africa-s-agricultural-sector"/>
+		<updated>2015-11-09T11:06:39Z</updated>
+		<summary>
+				According to the President of African Development Bank (AfDB), African farmers are effectively using mobile telephone technology to eliminate middl...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/General/Host-Countries-of-EAAP-request-for-Extension</id>
+		<title>Host Countries of EAAP request for Extension</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/General/Host-Countries-of-EAAP-request-for-Extension"/>
+		<updated>2015-11-09T09:37:01Z</updated>
+		<summary>
+				Four countries which benefited from the first phase of the funded Eastern Africa Agricultural Productivity Project (EAAPP) have appealed to the Wor...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/Climate-change/What-do-we-know-about-the-impact-of-climate-change-on-Livestock-Systems-in-Africa</id>
+		<title>What do we know about the impact of climate change on Livestock Systems in Africa? </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/Climate-change/What-do-we-know-about-the-impact-of-climate-change-on-Livestock-Systems-in-Africa"/>
+		<updated>2015-10-20T08:28:23Z</updated>
+		<summary>
+				A 2015 report by the Climate Change, Agriculture and Food Security Research Program (CCAFS) of CGIAR has alarmingly revealed that the despite evide...
+				</summary>
+	</entry>			</feed>

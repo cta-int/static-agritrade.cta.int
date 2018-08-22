@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/Aide-au-commerce</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/Aide-au-commerce" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:05:22Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Aide-au-commerce/L-infrastructure-est-un-element-capital-du-commerce-agricole-dans-les-pays-en-developpement</id>
+		<title>L’infrastructure est un élément capital du commerce agricole dans les pays en développement </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Aide-au-commerce/L-infrastructure-est-un-element-capital-du-commerce-agricole-dans-les-pays-en-developpement"/>
+		<updated>2013-04-15T08:05:15Z</updated>
+		<summary>
+				Un examen par l’OCDE des contraintes qui se posent au commerce agricole des pays en développement, publié le 31 janvier 2013, conclut qu’« une amél...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Aide-au-commerce/L-aide-pour-le-commerce-peut-favoriser-les-exportations-mais-elle-exige-une-meilleure-conception</id>
+		<title>L’aide pour le commerce peut favoriser les exportations mais elle exige une meilleure conception</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Aide-au-commerce/L-aide-pour-le-commerce-peut-favoriser-les-exportations-mais-elle-exige-une-meilleure-conception"/>
+		<updated>2013-03-11T10:49:52Z</updated>
+		<summary>
+				Bien que l’augmentation de l’« aide pour le commerce » ait contribué à augmenter la capacité d’exportation, l’exemple du secteur horticole kényan m...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Accords-de-libre-echange-UE/Progres-dans-les-negociations-de-ZLE-de-l-UE-avec-les-pays-tiers</id>
+		<title>Progrès dans les négociations de ZLE de l’UE avec les pays tiers</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Accords-de-libre-echange-UE/Progres-dans-les-negociations-de-ZLE-de-l-UE-avec-les-pays-tiers"/>
+		<updated>2013-01-04T23:33:42Z</updated>
+		<summary>
+				D’après des informations de presse, la CE envisage de lancer des négociations de ZLE avec les États-Unis au premier semestre de 2013. Un rapport pr...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Les-recommandations-de-la-Chambre-des-Lords-britannique-sur-les-pays-ACP-PMA-et-le-regime-sucrier-de-l-UE</id>
+		<title>Les recommandations de la Chambre des Lords britannique sur les pays ACP/PMA et le régime sucrier de l’UE </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Les-recommandations-de-la-Chambre-des-Lords-britannique-sur-les-pays-ACP-PMA-et-le-regime-sucrier-de-l-UE"/>
+		<updated>2012-10-28T19:39:11Z</updated>
+		<summary>
+				La commission européenne de la Chambre des Lords britannique a publié un rapport de ses auditions sur le régime sucrier de l’UE en septembre 2012....
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Augmentation-des-frais-d-inspection-des-produits-frais-au-Royaume-Uni</id>
+		<title>Augmentation des frais d’inspection des produits frais au Royaume-Uni </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Augmentation-des-frais-d-inspection-des-produits-frais-au-Royaume-Uni"/>
+		<updated>2012-04-23T07:59:33Z</updated>
+		<summary>
+				Le 6 avril 2012, une augmentation substantielle des frais et droits a éte introduite pour les inspections des produits frais et des fleurs coupées...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Les-mesures-d-economie-du-gouvernement-britannique-pourraient-augmenter-les-couts-des-importations-horticoles</id>
+		<title>Les mesures d’économie du gouvernement britannique pourraient augmenter les coûts des importations horticoles</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Les-mesures-d-economie-du-gouvernement-britannique-pourraient-augmenter-les-couts-des-importations-horticoles"/>
+		<updated>2012-01-07T15:36:26Z</updated>
+		<summary>
+				À la fin du mois de novembre, le Fresh Produce Consortium (FPC) du Royaume-Uni a déclaré que « les producteurs et importateurs britanniques seront...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/The/La-production-kenyane-de-the-en-baisse-sur-fond-de-craintes-des-impacts-a-long-terme-du-changement-climatique</id>
+		<title>La production kényane de thé en baisse sur fond de craintes des impacts à long terme du changement climatique</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/The/La-production-kenyane-de-the-en-baisse-sur-fond-de-craintes-des-impacts-a-long-terme-du-changement-climatique"/>
+		<updated>2011-10-14T08:17:13Z</updated>
+		<summary>
+				D’après certains articles de presse, des précipitations irrégulières ont engendré une baisse de 16,2  % de la production de thé au cours du premier...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Aide-au-commerce/Les-interventions-de-la-Facilite-alimentaire-de-l-UE-au-Togo-sont-un-succes-d-apres-la-FAO</id>
+		<title>Les interventions de la « Facilité alimentaire » de l’UE au Togo sont un succès d’après la FAO</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Aide-au-commerce/Les-interventions-de-la-Facilite-alimentaire-de-l-UE-au-Togo-sont-un-succes-d-apres-la-FAO"/>
+		<updated>2011-10-14T07:46:31Z</updated>
+		<summary>
+				En août 2011, la FAO a commenté le succès d’un programme de soutien de 2,5 millions d’euros au développement agricole au Togo, financé en 2009, grâ...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Les-exportations-jamaicaines-vers-les-marches-americains-confrontees-a-de-serieux-defis-en-termes-de-securite-des-denrees-alimentaires</id>
+		<title>Les exportations jamaïcaines vers les marchés américains confrontées à de sérieux défis en termes de sécurité des denrées alimentaires </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Les-exportations-jamaicaines-vers-les-marches-americains-confrontees-a-de-serieux-defis-en-termes-de-securite-des-denrees-alimentaires"/>
+		<updated>2011-10-14T07:44:06Z</updated>
+		<summary>
+				En attendant la nouvelle réglementation américaine en matière de sécurité des denrées alimentaires, 80 % des exportations alimentaires de la Jamaïq...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Banane/Perspectives-pour-les-producteurs-de-bananes-ACP-a-la-lumiere-de-l-effondrement-des-prix-du-marche-de-la-banane-de-l-UE</id>
+		<title>Perspectives pour les producteurs de bananes ACP à la lumière de l’effondrement des prix du marché de la banane de l’UE</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Banane/Perspectives-pour-les-producteurs-de-bananes-ACP-a-la-lumiere-de-l-effondrement-des-prix-du-marche-de-la-banane-de-l-UE"/>
+		<updated>2011-09-13T19:59:01Z</updated>
+		<summary>
+				Entre juin et août 2011, les prix de la banane de l’UE ont chuté, les bananes « étant vendues entre 1 et 3 dollars (FOB) en Équateur » par caisse d...
+				</summary>
+	</entry>			</feed>

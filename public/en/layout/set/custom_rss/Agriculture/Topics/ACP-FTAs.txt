@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Topics/ACP-FTAs</id>
+	<link rel="self" href="http://agritrade.cta.int/en/layout/set/custom_rss/Agriculture/Topics/ACP-FTAs" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T16:46:08Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/Africa-s-tripartite-free-trade-area-set-for-launch-in-June</id>
+		<title>Africa's tripartite free trade area set for launch in June</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/Africa-s-tripartite-free-trade-area-set-for-launch-in-June"/>
+		<updated>2015-05-12T09:52:27Z</updated>
+		<summary>
+				The long-awaited tripartite free trade area (TFTA) between three regional blocs in Africa will be launched on June 10 in Egypt. The TFTA will brin...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/Maize-value-chain-Zimbabwe-Government-Issues-Interim-Maize-Import-Permits</id>
+		<title>Maize value chain/Zimbabwe - Government Issues Interim Maize Import Permits</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/Maize-value-chain-Zimbabwe-Government-Issues-Interim-Maize-Import-Permits"/>
+		<updated>2015-03-11T16:26:58Z</updated>
+		<summary>
+				A three month interim permit was issued by the Zimbabwe government in order to spice-up its grain reserve while approaching the harvesting 
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/Tripartite-free-trade-area-in-Africa-to-launch-in-May-AU-official</id>
+		<title>Tripartite free trade area in Africa to launch in May: AU official</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/Tripartite-free-trade-area-in-Africa-to-launch-in-May-AU-official"/>
+		<updated>2015-03-11T14:11:59Z</updated>
+		<summary>
+				A senior official of African Union (AU) said Tuesday the long-awaited tripartite free trade area between three regional blocs is expected to be launched in May in Cairo, Egypt.
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Approvals-delay-EAC-double-taxation-law</id>
+		<title>Approvals delay EAC double taxation law</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-regional-trade/Approvals-delay-EAC-double-taxation-law"/>
+		<updated>2015-03-11T11:07:40Z</updated>
+		<summary>
+				Uganda, Tanzania and Burundi are yet to secure internal approvals for the Double Taxation Agreement (DTA) to operate in East Africa, five years after the deal was struck. 
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/Angola-announces-import-quotas-on-food-and-non-food-products</id>
+		<title>Angola announces import quotas on food and non-food products</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/Angola-announces-import-quotas-on-food-and-non-food-products"/>
+		<updated>2015-01-29T15:42:55Z</updated>
+		<summary>
+				The government of Angola plans to establish import quotas on food and non-food products, the national production of which accounts for at least 60 percent of consumption, the minister of Commerce, Rosa Pacavira said in Luanda.
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/Submission-on-the-need-to-activate-the-dispute-settlement-provisions-of-the-SADC-free-trade-area</id>
+		<title>Submission on the need to activate the dispute settlement provisions of the SADC free trade area </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/Submission-on-the-need-to-activate-the-dispute-settlement-provisions-of-the-SADC-free-trade-area"/>
+		<updated>2014-12-08T10:51:40Z</updated>
+		<summary>
+				In the run-up to the SADC Summit in August 2014, Tralac – the South Africa-based Trade Law Centre – prepared a submission on the need for an effect...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/AGOA-access-for-Swaziland-and-Madagascar-reviewed</id>
+		<title>AGOA access for Swaziland and Madagascar reviewed</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/AGOA-access-for-Swaziland-and-Madagascar-reviewed"/>
+		<updated>2014-08-18T18:28:59Z</updated>
+		<summary>
+				In June 2014 the US government announced the reinstatement of Madagascar on the list of beneficiaries of the US African Growth and Opportunity Act...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/Ethiopia-Uganda-and-DRC-commit-to-COMESA-FTA</id>
+		<title>Ethiopia, Uganda and DRC commit to COMESA FTA</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/Ethiopia-Uganda-and-DRC-commit-to-COMESA-FTA"/>
+		<updated>2014-08-21T12:59:13Z</updated>
+		<summary>
+				In March 2014, Ethiopia and Uganda both announced that they were committed to depositing their instruments of access to the COMESA FTA with the COM...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Rice/Tanzanian-rice-sector-stakeholders-call-for-consistent-application-of-rice-import-tariffs</id>
+		<title>Tanzanian rice sector stakeholders call for consistent application of rice import tariffs</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Rice/Tanzanian-rice-sector-stakeholders-call-for-consistent-application-of-rice-import-tariffs"/>
+		<updated>2014-07-21T10:35:58Z</updated>
+		<summary>
+				According to reports in the Tanzanian press, private sector representatives have urged the Tanzanian government to establish a 25% import duty on r...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/ECOWAS-CET-will-reduce-many-of-Ghana-s-agricultural-tariffs</id>
+		<title>ECOWAS CET will reduce many of Ghana’s agricultural tariffs</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/ACP-FTAs/ECOWAS-CET-will-reduce-many-of-Ghana-s-agricultural-tariffs"/>
+		<updated>2014-07-21T09:28:16Z</updated>
+		<summary>
+				A comparison in the latest WTO Trade Policy Review (TPR) of Ghana’s current tariffs with the agreed ECOWAS common external tariff (CET) shows that...
+				</summary>
+	</entry>			</feed>

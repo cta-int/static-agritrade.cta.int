@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/Acces-au-marche</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Sujets/Acces-au-marche" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T17:57:36Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP/Revision-de-l-acces-aux-preferences-de-l-AGOA-pour-le-Swaziland-et-Madagascar</id>
+		<title>Révision de l’accès aux préférences de l’AGOA pour le Swaziland et Madagascar </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Accords-de-libre-echange-ACP/Revision-de-l-acces-aux-preferences-de-l-AGOA-pour-le-Swaziland-et-Madagascar"/>
+		<updated>2014-08-18T18:28:59Z</updated>
+		<summary>
+				En juin 2014, le gouvernement américain a annoncé la réintégration de Madagascar sur la liste des bénéficiaires de la loi américaine African Growth...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/APE/Une-analyse-met-en-lumiere-l-impact-differentiel-de-l-augmentation-des-couts-d-acces-aux-marches-europeens-sur-les-entreprises</id>
+		<title>Une analyse met en lumière l’impact différentiel de l’augmentation des coûts d’accès aux marchés européens sur les entreprises </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/APE/Une-analyse-met-en-lumiere-l-impact-differentiel-de-l-augmentation-des-couts-d-acces-aux-marches-europeens-sur-les-entreprises"/>
+		<updated>2014-08-11T14:40:11Z</updated>
+		<summary>
+				Le Secrétariat du Commonwealth a publié un rapport dans sa série Trade Hot Topics qui se penche sur les implications et les coûts découlant de la p...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/La-revision-du-systeme-PMA-de-l-Inde-met-en-exergue-l-importance-de-la-couverture-des-produits-des-exigences-SPS-et-des-regles-d-origine</id>
+		<title>La révision du système PMA de l’Inde met en exergue l’importance de la couverture des produits, des exigences SPS et des règles d’origine </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/La-revision-du-systeme-PMA-de-l-Inde-met-en-exergue-l-importance-de-la-couverture-des-produits-des-exigences-SPS-et-des-regles-d-origine"/>
+		<updated>2014-07-21T09:41:57Z</updated>
+		<summary>
+				Le système d’importation préférentiel en franchise de droits annoncé par l’Inde en avril 2008 est devenu pleinement opérationnel en octobre 2012. L...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/Le-Ghana-envisage-de-creer-une-Commission-du-commerce-international</id>
+		<title>Le Ghana envisage de créer une Commission du commerce international </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/Le-Ghana-envisage-de-creer-une-Commission-du-commerce-international"/>
+		<updated>2014-04-24T18:09:49Z</updated>
+		<summary>
+				Le gouvernement du Ghana a annoncé qu’il envisage « d’établir une Commission du commerce international du Ghana (GITC) » habilitée « à appliquer de...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/Entree-en-vigueur-du-nouveau-SPG-de-l-UE</id>
+		<title>Entrée en vigueur du nouveau SPG de l’UE </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/Entree-en-vigueur-du-nouveau-SPG-de-l-UE"/>
+		<updated>2014-02-09T20:05:18Z</updated>
+		<summary>
+				Le nouveau Système de préférences généralisées (SPG) convenu par l’UE en 2012 est entré en vigueur le 1er janvier 2014. Les pays ACP seront affecté...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/De-nouvelles-regles-d-etiquetage-de-l-UE-pourraient-poser-probleme</id>
+		<title>De nouvelles règles d’étiquetage de l’UE pourraient poser problème</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/De-nouvelles-regles-d-etiquetage-de-l-UE-pourraient-poser-probleme"/>
+		<updated>2014-01-27T10:36:44Z</updated>
+		<summary>
+				Le règlement de l’UE régissant l’information des consommateurs sur les denrées alimentaires devant entrer en vigueur en décembre 2014, le site web...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/Des-progres-dans-les-negociations-du-PACER-Plus</id>
+		<title>Des progrès dans les négociations du PACER-Plus</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/Des-progres-dans-les-negociations-du-PACER-Plus"/>
+		<updated>2013-07-15T08:40:05Z</updated>
+		<summary>
+				Le Dr Edwini Kessie, conseiller technique principal du Forum des pays des îles du Pacifique, affirme dans une interview que les négociations du PAC...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/Les-entreprises-jamaicaines-s-inquietent-d-une-perte-possible-des-preferences-sur-le-marche-canadien</id>
+		<title>Les entreprises jamaïcaines s’inquiètent d’une perte possible des préférences sur le marché canadien</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/Les-entreprises-jamaicaines-s-inquietent-d-une-perte-possible-des-preferences-sur-le-marche-canadien"/>
+		<updated>2013-05-26T19:47:11Z</updated>
+		<summary>
+				D’après certains articles de presse, les exportateurs jamaïcains s’inquiètent de l’imposition possible de droits de douane plus élevés au Canada «...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/De-nouvelles-regles-de-securite-des-denrees-alimentaires-americaines-pourraient-poser-de-nouveaux-defis-aux-exportateurs-caribeens</id>
+		<title>De nouvelles règles de sécurité des denrées alimentaires américaines pourraient poser de nouveaux défis aux exportateurs caribéens </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/De-nouvelles-regles-de-securite-des-denrees-alimentaires-americaines-pourraient-poser-de-nouveaux-defis-aux-exportateurs-caribeens"/>
+		<updated>2013-03-11T10:23:49Z</updated>
+		<summary>
+				En janvier 2013, il a été annoncé que les États-Unis comptaient introduire de nouvelles règles de sécurité des denrées alimentaires, en vue de rédu...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/Une-augmentation-de-l-acces-en-franchise-de-droits-de-la-Zambie-au-marche-chinois-est-annoncee</id>
+		<title>Une augmentation de l’accès en franchise de droits de la Zambie au marché chinois est annoncée </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/Une-augmentation-de-l-acces-en-franchise-de-droits-de-la-Zambie-au-marche-chinois-est-annoncee"/>
+		<updated>2013-02-18T08:26:57Z</updated>
+		<summary>
+				D’après un rapport du Forum sur la coopération Chine-Afrique, quatre accords ont été signés en décembre 2012 entre les gouvernements zambien et chi...
+				</summary>
+	</entry>			</feed>

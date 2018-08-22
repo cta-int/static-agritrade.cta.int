@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Produits-de-base/Produits-laitiers</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Produits-de-base/Produits-laitiers" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:16:02Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/FrieslandCampina-reprend-une-entreprise-laitiere-ivoirienne</id>
+		<title>FrieslandCampina reprend une entreprise laitière ivoirienne</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/FrieslandCampina-reprend-une-entreprise-laitiere-ivoirienne"/>
+		<updated>2014-11-07T13:12:53Z</updated>
+		<summary>
+				Le 1er septembre 2014, la coopérative laitière néerlandaise FrieslandCampina, appartenant à des producteurs, a annoncé qu’elle avait acquis l’entre...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/Problemes-lies-au-processus-de-production-dans-le-secteur-laitier-en-Afrique-australe</id>
+		<title>Problèmes liés au processus de production dans le secteur laitier en Afrique australe</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/Problemes-lies-au-processus-de-production-dans-le-secteur-laitier-en-Afrique-australe"/>
+		<updated>2014-10-18T11:47:02Z</updated>
+		<summary>
+				La Dairy Association of Zambia (DAZ) affirme que le cadre réglementaire du gouvernement pour les produits laitiers applique de facto des doubles no...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/La-volatilite-mondiale-des-prix-laitiers-pourrait-exacerber-les-defis-auxquels-font-face-les-secteurs-laitiers-d-Afrique-orientale-et-australe</id>
+		<title>La volatilité mondiale des prix laitiers pourrait exacerber les défis auxquels font face les secteurs laitiers d'Afrique orientale et australe</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/La-volatilite-mondiale-des-prix-laitiers-pourrait-exacerber-les-defis-auxquels-font-face-les-secteurs-laitiers-d-Afrique-orientale-et-australe"/>
+		<updated>2014-10-12T12:16:15Z</updated>
+		<summary>
+				En août 2014, la Dairy Association of Zambia (DAZ) a appelé le gouvernement zambien à « envisager d'annuler la taxe sur la valeur ajoutée sur le la...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/L-acquisition-par-Danone-d-une-part-de-40-dans-Brookside-Dairy-est-confirmee</id>
+		<title>L’acquisition par Danone d’une part de 40 % dans Brookside Dairy est confirmée</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/L-acquisition-par-Danone-d-une-part-de-40-dans-Brookside-Dairy-est-confirmee"/>
+		<updated>2014-09-22T09:52:37Z</updated>
+		<summary>
+				En juillet 2014, la compagnie laitière européenne Danone a annoncé qu’elle avait acquis une participation de 40 % dans l’entreprise kényane Brooksi...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/Le-commerce-laitier-entre-l-UE-et-l-Afrique-evolue-reponses-des-entreprises-europeennes-a-l-abolition-des-quotas-de-production-de-lait</id>
+		<title>Le commerce laitier entre l’UE et l’Afrique évolue : réponses des entreprises européennes à l’abolition des quotas de production de lait</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/Le-commerce-laitier-entre-l-UE-et-l-Afrique-evolue-reponses-des-entreprises-europeennes-a-l-abolition-des-quotas-de-production-de-lait"/>
+		<updated>2014-09-05T19:33:23Z</updated>
+		<summary>
+				RésuméLes perspectives d’augmentation de la production de lait de l’UE après l’abolition des quotas de production en 2015 incitent les grandes entr...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/La-CE-fait-l-examen-de-son-experience-en-matiere-de-renforcement-des-chaines-d-approvisionnement-du-lait</id>
+		<title>La CE fait l’examen de son expérience en matière de renforcement des chaînes d’approvisionnement du lait</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/La-CE-fait-l-examen-de-son-experience-en-matiere-de-renforcement-des-chaines-d-approvisionnement-du-lait"/>
+		<updated>2014-08-23T18:21:49Z</updated>
+		<summary>
+				En juin 2013, la CE a publié un examen de son expérience en matière de mise en œuvre de son « paquet lait » de 2012, visant à améliorer le fonction...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/Evolution-de-la-situation-du-marche-laitier-mondial-et-europeen</id>
+		<title>Évolution de la situation du marché laitier mondial et européen</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/Evolution-de-la-situation-du-marche-laitier-mondial-et-europeen"/>
+		<updated>2014-08-22T19:53:07Z</updated>
+		<summary>
+				Le rapport de la CE sur l’évolution de la situation du marché laitier et le fonctionnement du « paquet lait » de l’UE, publié en juin 2014, soulign...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/Nestle-va-deployer-un-systeme-d-usines-modulaires-en-Afrique</id>
+		<title>Nestlé va déployer un système d’usines modulaires en Afrique</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/Nestle-va-deployer-un-systeme-d-usines-modulaires-en-Afrique"/>
+		<updated>2014-08-18T08:45:47Z</updated>
+		<summary>
+				Des articles de presse indiquent que Nestlé a créé une usine modulaire qui peut être mise en place deux fois plus vite qu’une usine conventionnelle...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/Les-agriculteurs-de-l-UE-appellent-a-un-assouplissement-des-quotas-laitiers-au-cours-de-la-derniere-annee-de-mise-en-aeuvre</id>
+		<title>Les agriculteurs de l’UE appellent à un assouplissement des quotas laitiers au cours de la dernière année de mise en œuvre </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/Les-agriculteurs-de-l-UE-appellent-a-un-assouplissement-des-quotas-laitiers-au-cours-de-la-derniere-annee-de-mise-en-aeuvre"/>
+		<updated>2014-06-15T22:51:34Z</updated>
+		<summary>
+				Les agriculteurs de l’UE appellent la CE à réduire la pression sur les producteurs laitiers durant la dernière année contingentaire afin d’aider le...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/La-hausse-des-prix-mondiaux-du-lait-en-poudre-est-ressentie-en-Jamaique</id>
+		<title>La hausse des prix mondiaux du lait en poudre est ressentie en Jamaïque </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Produits-laitiers/La-hausse-des-prix-mondiaux-du-lait-en-poudre-est-ressentie-en-Jamaique"/>
+		<updated>2014-06-09T14:18:32Z</updated>
+		<summary>
+				D’après certaines informations de presse parues en Jamaïque, « les coûts du lait en poudre ont dépassé le prix du lait frais produit au niveau loca...
+				</summary>
+	</entry>			</feed>

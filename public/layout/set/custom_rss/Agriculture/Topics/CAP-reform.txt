@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/layout/set/custom_rss/Agriculture/Topics/CAP-reform</id>
+	<link rel="self" href="http://agritrade.cta.int/layout/set/custom_rss/Agriculture/Topics/CAP-reform" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T15:13:38Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Suedzucker-corporate-profile</id>
+		<title>Südzucker - corporate profile</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Sugar/Suedzucker-corporate-profile"/>
+		<updated>2014-09-28T17:15:32Z</updated>
+		<summary>
+				Ownership structureSüdzucker is the largest beet sugar company in the EU and the world, with an EU sugar output of 4.9 million tonnes and total sug...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/EU-agro-food-trade-surplus-continues-to-expand</id>
+		<title>EU agro-food trade surplus continues to expand</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/EU-agro-food-trade-surplus-continues-to-expand"/>
+		<updated>2014-08-18T18:19:39Z</updated>
+		<summary>
+				According to the EC’s agricultural trade report for 2013, growth in EU exports of agricultural products slowed down to 5.8% in 2013, compared to 12...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/WTO/Cairns-Group-presents-paper-on-total-trade-distorting-support</id>
+		<title>Cairns Group presents paper on ‘total trade-distorting support’</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/WTO/Cairns-Group-presents-paper-on-total-trade-distorting-support"/>
+		<updated>2014-05-19T13:24:05Z</updated>
+		<summary>
+				According to a report published by the International Centre for Trade and Sustainable Development (ICTSD), an informal paper by the Cairns Group ha...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Africa-and-European-corporate-responses-to-EU-milk-quota-abolition</id>
+		<title>Africa and European corporate responses to EU milk quota abolition</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Dairy/Africa-and-European-corporate-responses-to-EU-milk-quota-abolition"/>
+		<updated>2014-05-12T10:46:26Z</updated>
+		<summary>
+				BackgroundConsumer demand for dairy products is growing rapidly in sub-Saharan Africa (up 22% in 6 years). The response of local milk and dairy pro...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/EC-extends-commitments-on-export-refund-prohibition-in-trade-with-Africa</id>
+		<title>EC extends commitments on export refund prohibition in trade with Africa </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/EC-extends-commitments-on-export-refund-prohibition-in-trade-with-Africa"/>
+		<updated>2014-02-24T09:40:54Z</updated>
+		<summary>
+				In a speech at International Green Week in mid January 2014, EU Agriculture Commissioner Dacian Cioloş declared that EU agri-food exporters “should...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/EU-agricultural-product-promotional-measures-to-be-expanded</id>
+		<title>EU agricultural product promotional measures to be expanded </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/EU-agricultural-product-promotional-measures-to-be-expanded"/>
+		<updated>2014-01-27T09:57:11Z</updated>
+		<summary>
+				The EC has announced plans to expand and refocus its “information and promotion policy for European agricultural and food products”. The budget is...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/Review-highlights-continued-importance-of-EU-member-states-agricultural-support-alongside-EU-programmes</id>
+		<title>Review highlights continued importance of EU member states’ agricultural support alongside EU programmes </title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/Review-highlights-continued-importance-of-EU-member-states-agricultural-support-alongside-EU-programmes"/>
+		<updated>2014-02-07T20:36:35Z</updated>
+		<summary>
+				A review of EU member states’ agricultural support programmes has been published by Professor Alan Matthews of Trinity College Dublin, on the websi...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/Executive-Brief-Update-2013-CAP-reform-and-its-implications-for-developing-countries</id>
+		<title>Executive Brief Update 2013: CAP reform and its implications for developing countries</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/Executive-Brief-Update-2013-CAP-reform-and-its-implications-for-developing-countries"/>
+		<updated>2013-12-16T15:55:23Z</updated>
+		<summary>
+				1.         Background and key issuesThe process of EU Common Agricultural Policy (CAP) reform, which has been under way since 1992, has radically...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Parliamentary-perspectives-on-the-EU-fruit-and-vegetable-regime</id>
+		<title>Parliamentary perspectives on the EU fruit and vegetable regime</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Commodities/Horticulture/Parliamentary-perspectives-on-the-EU-fruit-and-vegetable-regime"/>
+		<updated>2013-11-16T18:29:25Z</updated>
+		<summary>
+				A European Parliament (EP) Agriculture and Rural Development Committee draft report on the future of Europe’s horticulture sector has highlighted t...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/Further-limits-on-use-of-export-refunds-agreed-as-part-of-finalisation-of-2013-CAP-reforms</id>
+		<title>Further limits on use of export refunds agreed as part of finalisation of 2013 CAP reforms</title>
+
+		<link href="http://agritrade.cta.int/en/Agriculture/Topics/CAP-reform/Further-limits-on-use-of-export-refunds-agreed-as-part-of-finalisation-of-2013-CAP-reforms"/>
+		<updated>2013-11-17T22:14:01Z</updated>
+		<summary>
+				According to analysis from Alan Matthews, Professor Emeritus of European Agricultural Policy at Trinity College Dublin, “changes to the language on...
+				</summary>
+	</entry>			</feed>

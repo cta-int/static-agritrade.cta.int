@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Agritrade - CTA</title>
+	<id>http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Regions/ACP</id>
+	<link rel="self" href="http://agritrade.cta.int/fr/layout/set/custom_rss/Agriculture/Regions/ACP" />
+	<author>
+		<name>Agritrade - CTA</name>
+	</author>
+	<updated>2018-08-21T18:25:16Z</updated>
+
+	
+		
+
+
+	
+																																									
+														
+																																																		
+																																
+																				
+		
+		
+	
+																																																	
+					
+
+
+		
+	
+	
+	
+
+			
+	
+						
+					
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Financement-des-controles-des-denrees-alimentaires-et-des-aliments-pour-animaux-de-l-UE-developpements-recents-et-implications-pour-les-pays-ACP</id>
+		<title>Financement des contrôles des denrées alimentaires et des aliments pour animaux de l'UE : développements récents et implications pour les pays ACP </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Horticulture/Financement-des-controles-des-denrees-alimentaires-et-des-aliments-pour-animaux-de-l-UE-developpements-recents-et-implications-pour-les-pays-ACP"/>
+		<updated>2015-01-18T19:54:07Z</updated>
+		<summary>
+				IntroductionL'OCDE, dans sa publication « Non-tariff measures in agri-food trade: Improving policy coherence for development » (Les mesures non tar...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Les-exportations-de-sucre-des-pays-ACP-vers-l-UE-et-l-avenir-du-co-raffinage-de-sucre-de-canne-brut-par-les-raffineurs-de-betterave-europeens</id>
+		<title>Les exportations de sucre des pays ACP vers l'UE et l'avenir du co-raffinage de sucre de canne brut par les raffineurs de betterave européens</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Sucre/Les-exportations-de-sucre-des-pays-ACP-vers-l-UE-et-l-avenir-du-co-raffinage-de-sucre-de-canne-brut-par-les-raffineurs-de-betterave-europeens"/>
+		<updated>2014-12-17T15:34:14Z</updated>
+		<summary>
+				RésuméDans le cadre des réformes partielles du régime sucrier de l'UE, les plafonds contingentaires continuellement imposés à la production de sucr...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Des-interceptions-plus-frequentes-d-organismes-nuisibles-viennent-entacher-les-exportations-horticoles-ACP-vers-l-UE</id>
+		<title>Des interceptions plus fréquentes d’« organismes nuisibles » viennent entacher les exportations horticoles ACP vers l’UE </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/SPS-Securite-des-aliments/Des-interceptions-plus-frequentes-d-organismes-nuisibles-viennent-entacher-les-exportations-horticoles-ACP-vers-l-UE"/>
+		<updated>2014-09-29T10:03:17Z</updated>
+		<summary>
+				À la mi-juillet 2014, la CE a envoyé une lettre d’avertissement aux organisations nationales de protection phytosanitaire (ONPP) de huit pays, sign...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/General/Les-cours-mondiaux-de-la-viande-des-produits-laitiers-et-du-poisson-vont-augmenter-plus-vite-que-ceux-des-cereales-mais-les-pays-ACP-pourraient-rater-le-coche</id>
+		<title>Les cours mondiaux de la viande, des produits laitiers et du poisson vont augmenter plus vite que ceux des céréales – mais les pays ACP pourraient rater le coche </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/General/Les-cours-mondiaux-de-la-viande-des-produits-laitiers-et-du-poisson-vont-augmenter-plus-vite-que-ceux-des-cereales-mais-les-pays-ACP-pourraient-rater-le-coche"/>
+		<updated>2014-09-29T09:59:36Z</updated>
+		<summary>
+				D’après le dernier rapport annuel OCDE-FAO Perspectives agricoles, la croissance des cours mondiaux de la viande, des produits laitiers et du poiss...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/L-experience-de-l-Afrique-du-Sud-en-matiere-de-gestion-de-la-politique-commerciale-du-secteur-de-la-volaille</id>
+		<title>L’expérience de l’Afrique du Sud en matière de gestion de la politique commerciale du secteur de la volaille </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/L-experience-de-l-Afrique-du-Sud-en-matiere-de-gestion-de-la-politique-commerciale-du-secteur-de-la-volaille"/>
+		<updated>2014-09-24T12:40:42Z</updated>
+		<summary>
+				Le secteur de la volaille de l’Afrique du SudLa consommation de viande de volaille en Afrique du Sud a augmenté de 70 % entre 2000 et 2010, entraîn...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/Enseignements-tires-de-la-politique-commerciale-du-secteur-de-la-volaille-de-l-UE</id>
+		<title>Enseignements tirés de la politique commerciale du secteur de la volaille de l’UE </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Volaille/Enseignements-tires-de-la-politique-commerciale-du-secteur-de-la-volaille-de-l-UE"/>
+		<updated>2014-09-24T12:17:15Z</updated>
+		<summary>
+				Le contexte de la politique tarifaire du secteur de la volaille de l’UELa politique commerciale est le principal outil politique utilisé par l’UE p...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Oleagineux/Le-developpement-du-secteur-de-l-huile-de-palme-ACP-et-le-debat-sur-la-certification-de-la-durabilite</id>
+		<title>Le développement du secteur de l’huile de palme ACP et le débat sur la certification de la durabilité</title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Produits-de-base/Oleagineux/Le-developpement-du-secteur-de-l-huile-de-palme-ACP-et-le-debat-sur-la-certification-de-la-durabilite"/>
+		<updated>2014-09-05T17:31:08Z</updated>
+		<summary>
+				Demande croissante d’huile de palme certifiée durable dans les pays de l’OCDECes dernières années, la tendance pour une huile de palme certifiée du...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Differenciation-des-produits/L-IFOAM-s-inquiete-de-l-impact-de-la-nouvelle-reglementation-biologique-de-l-UE-sur-les-importations</id>
+		<title>L’IFOAM s’inquiète de l’impact de la nouvelle réglementation biologique de l’UE sur les importations </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Differenciation-des-produits/L-IFOAM-s-inquiete-de-l-impact-de-la-nouvelle-reglementation-biologique-de-l-UE-sur-les-importations"/>
+		<updated>2014-07-21T10:45:47Z</updated>
+		<summary>
+				La Fédération internationale des mouvements d'agriculture biologique (IFOAM) a exprimé ses craintes concernant les propositions de la CE « pour une...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/La-revision-du-systeme-PMA-de-l-Inde-met-en-exergue-l-importance-de-la-couverture-des-produits-des-exigences-SPS-et-des-regles-d-origine</id>
+		<title>La révision du système PMA de l’Inde met en exergue l’importance de la couverture des produits, des exigences SPS et des règles d’origine </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/Acces-au-marche/La-revision-du-systeme-PMA-de-l-Inde-met-en-exergue-l-importance-de-la-couverture-des-produits-des-exigences-SPS-et-des-regles-d-origine"/>
+		<updated>2014-07-21T09:41:57Z</updated>
+		<summary>
+				Le système d’importation préférentiel en franchise de droits annoncé par l’Inde en avril 2008 est devenu pleinement opérationnel en octobre 2012. L...
+				</summary>
+	</entry>				
+	<entry>
+		<id>http://agritrade.cta.int/fr/Agriculture/Sujets/APE/L-utilisation-des-outils-de-politique-commerciale-agricole-reste-litigieuse-dans-les-negociations-d-APE-et-le-commerce-intra-regional</id>
+		<title>L’utilisation des outils de politique commerciale agricole reste litigieuse dans les négociations d’APE et le commerce intra-régional </title>
+
+		<link href="http://agritrade.cta.int/fr/Agriculture/Sujets/APE/L-utilisation-des-outils-de-politique-commerciale-agricole-reste-litigieuse-dans-les-negociations-d-APE-et-le-commerce-intra-regional"/>
+		<updated>2014-07-23T13:21:25Z</updated>
+		<summary>
+				Dans le contexte des négociations d’APE SADC, les questions en suspens ont été réduites à deux : les sauvegardes agricoles et les taxes d’exportati...
+				</summary>
+	</entry>			</feed>
