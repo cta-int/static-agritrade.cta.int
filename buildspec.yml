@@ -1,8 +1,13 @@
 version: 0.2
 
 phases:
+  pre_build:
+    commands:
+      - export LC_ALL="en_US.UTF-8"
+      - locale-gen en_US en_US.UTF-8
+      - dpkg-reconfigure locales
   build:
     commands:
       - echo "Uploading files"
-      - aws s3 sync --size-only --delete public/ s3://$BUCKET/
+      - aws s3 sync --content-encoding utf-8 --size-only --delete public/ s3://$BUCKET/
 
